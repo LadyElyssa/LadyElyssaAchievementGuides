@@ -18,10 +18,10 @@
             
             <MarkerCategory name="strength" IsSeparator="1" DisplayName="  : Strength"/>
             <MarkerCategory name="s1" DisplayName="1. Defeat 5 champion Kryptis throughout Nayos. [Pre-Event Champions, NOT Meta Champions]">
-                <MarkerCategory name="champs" DisplayName="Toggle Champions" iconFile="Data/Images/Champion.png" mapDisplaySize="64"/>
+                <MarkerCategory name="champs" DisplayName="Toggle Champions" iconFile="Data/Images/Champion.png" mapDisplaySize="48"/>
             </MarkerCategory>
             <MarkerCategory name="s2" DisplayName="2. Defeat 20 veteran Kryptis throughout Nayos.">
-                <MarkerCategory name="vets" DisplayName="Toggle Veterans" iconFile="Data/Images/Veteran.png" mapDisplaySize="64"/>
+                <MarkerCategory name="vets" DisplayName="Toggle Veterans" iconFile="Data/Images/Veteran.png" mapDisplaySize="40"/>
             </MarkerCategory>
             <MarkerCategory name="s3" DisplayName="3. Defeat the champion Avatar of Envy in Nyedra."/>
             
@@ -77,9 +77,37 @@
             <MarkerCategory name="8" DisplayName="8. Return to Frode at Wizard's Respite in the Wizard's Tower. "/>
         </MarkerCategory>
         
-        <MarkerCategory name="ia" DisplayName="Illuminating Amnytas" texture="Data/Images/Trails/Trail Marker 1.png"/>
+        <MarkerCategory name="hi" DisplayName="Heitor Instigator" minSize="64"/>
         
-        <MarkerCategory name="iin" DisplayName="Illuminating Inner Nayos" texture="Data/Images/Trails/Trail Marker 1.png"/>
+        <MarkerCategory name="ia" DisplayName="Illuminating Amnytas (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png">
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+            </MarkerCategory>    
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+        </MarkerCategory>
+        
+        <MarkerCategory name="iin" DisplayName="Illuminating Inner Nayos (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png">
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+            </MarkerCategory>    
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+        </MarkerCategory>
+        
+        <MarkerCategory name="isa" DisplayName="Illuminating Skywatch Archipelago (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png">
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+            </MarkerCategory>    
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+        </MarkerCategory>
         
         <MarkerCategory name="kosmas" DisplayName="Missing Brood" texture="Data/Images/Trails/Trail Marker 1 Shaded.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -208,42 +236,36 @@
             <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>
             
             <MarkerCategory name="dg" IsSeparator="1" DisplayName="  : Devastated Garenhoff"/>
-            <MarkerCategory name="dgicon" DisplayName="Toggle Journal Marker" iconFile="Data/Images/Notes.png" heightOffset="0" iconSize="0.5"/>
             <MarkerCategory name="21" DisplayName="1. Help the villagers in Devastated Garenhoff."/>
             <MarkerCategory name="22" DisplayName="2. Resting near docks."/>
             <MarkerCategory name="23" DisplayName="3. Where the Arcane Eye watches all."/>
             <MarkerCategory name="24" DisplayName="4. Where a proud tree stands vigilant."/>
             
             <MarkerCategory name="sm" IsSeparator="1" DisplayName="  : Skyward Marches"/>
-            <MarkerCategory name="smicon" DisplayName="Toggle Journal Marker" iconFile="Data/Images/Notes.png" heightOffset="0" iconSize="0.5"/>
             <MarkerCategory name="31" DisplayName="1. Restore purpose to the Zaishen of Skyward Marches."/>
             <MarkerCategory name="32" DisplayName="2. At the ward's western camp."/>
             <MarkerCategory name="33" DisplayName="3. Where a cliff overlooks good and evil."/>
             <MarkerCategory name="34" DisplayName="4. Atop a village building caressed by the wind."/>
             
             <MarkerCategory name="dl" IsSeparator="1" DisplayName="  : Droknar's Light"/>
-            <MarkerCategory name="dlicon" DisplayName="Toggle Journal Marker" iconFile="Data/Images/Notes.png" heightOffset="0" iconSize="0.5"/>
             <MarkerCategory name="41" DisplayName="1. Defend Droknar's Light from the Kryptis invasion."/>
             <MarkerCategory name="42" DisplayName="2. Atop a table worn by winter's bite."/>
             <MarkerCategory name="43" DisplayName="3. Where prophecy was guided by flame."/>
             <MarkerCategory name="44" DisplayName="4. Near a forge adorned with weapons of old."/>
             
             <MarkerCategory name="jmhz" IsSeparator="1" DisplayName="  : Jade Mech Habitation Zone 03"/>
-            <MarkerCategory name="jmhzicon" DisplayName="Toggle Journal Marker" iconFile="Data/Images/Notes.png" heightOffset="0" iconSize="0.5"/>
             <MarkerCategory name="51" DisplayName="1. Help the Kestrels in Jade Mech Habitation Zone 03."/>
             <MarkerCategory name="52" DisplayName="2. At the western end of a bridge."/>
             <MarkerCategory name="53" DisplayName="3. At the camp overlooking the desert."/>
             <MarkerCategory name="54" DisplayName="4. In a village aquatic creatures call home."/>
             
             <MarkerCategory name="pm" IsSeparator="1" DisplayName="  : Primal Maguuma"/>
-            <MarkerCategory name="pmicon" DisplayName="Toggle Journal Marker" iconFile="Data/Images/Notes.png" heightOffset="0" iconSize="0.5"/>
             <MarkerCategory name="61" DisplayName="1. Help the Astral Ward in Primal Maguuma."/>
             <MarkerCategory name="62" DisplayName="2. Across the vine bridge accompanied by ruins."/>
             <MarkerCategory name="63" DisplayName="3. On a bridge broken by the wind."/>
             <MarkerCategory name="64" DisplayName="4. On a bridge between two sets of pylons."/>
             
             <MarkerCategory name="rnp" IsSeparator="1" DisplayName="  : Rata Novus Promenade"/>
-            <MarkerCategory name="rnpicon" DisplayName="Toggle Journal Marker" iconFile="Data/Images/Notes.png" heightOffset="0" iconSize="0.5"/>
             <MarkerCategory name="71" DisplayName="1. Help the people of Rata Novus."/>
             <MarkerCategory name="72" DisplayName="2. Overlooking an insectoid colony."/>
             <MarkerCategory name="73" DisplayName="3. In a room surrounded by four pillars of crystal."/>
