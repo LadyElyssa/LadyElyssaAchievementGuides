@@ -2,13 +2,13 @@
   del /Q "E:\Games\GW2TacO\GW2TacO.log"
 )
 
-@IF EXIST "LadyElyssa.zip" (
-  del /Q "LadyElyssa.zip"
+@IF EXIST "LadyElyssaAP.zip" (
+  del /Q "LadyElyssaAP.zip"
 )
 
-@IF EXIST "LadyElyssa.taco" (
-  del /Q "LadyElyssa.taco"
+@IF EXIST "LadyElyssaAP.taco" (
+  del /Q "LadyElyssaAP.taco"
 )
 
-@powershell Compress-Archive "'Data\'","*.xml" LadyElyssa.zip -Force
-@ren LadyElyssa.zip LadyElyssa.taco
+@powershell Compress-Archive "'Data\'","*.xml" LadyElyssaAP.zip -Force
+@ren LadyElyssaAP.zip LadyElyssaAP.taco
