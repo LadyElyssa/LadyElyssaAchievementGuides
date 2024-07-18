@@ -23,6 +23,8 @@
         <Trail type="leag.war.s1" trailData="Data/SotO/A Record of War - Strength 1d.trl" texture="Data/Images/Trails/Event Line.png" color="ff5c33"/>
         <POI MapID="1526" xpos="374.633" ypos="274.026" zpos="464.682" type="leag.war.s1.champs" GUID="HGit9Lrm1EeCaTBBcOc6jw=="/>
         <POI MapID="1526" xpos="-169.092" ypos="197.843" zpos="99.9222" type="leag.war.s1.champs" GUID="oA1zxcOt0EOHfYiNib1Asw=="/>
+        <POI MapID="1526" xpos="-30.1589" ypos="237.757" zpos="116.552" type="leag.war.s1.champs" GUID="pBMVT/rbK0eFTTkdZAHcXA=="/>
+		  <POI MapID="1526" xpos="-245.945" ypos="238.145" zpos="252.634" type="leag.war.s1.champs" GUID="rCrEXubKyUSfNSVAmrvydg=="/>
         <POI MapID="1526" xpos="-238.993" ypos="238.375" zpos="259.888" type="leag.war.s2.vets" GUID="BSTOspoM70Sqc/mtHyUuxg=="/>
 		  <POI MapID="1526" xpos="141.679" ypos="288.6" zpos="-135.059" type="leag.war.s2.vets" GUID="UkPMZphS8EWXWqA0DrNjig=="/>
 		  <POI MapID="1526" xpos="47.6676" ypos="266.371" zpos="-269.195" type="leag.war.s2.vets" GUID="uaG3RXqP70WFmM5MDXsKdw=="/>
@@ -92,8 +94,18 @@
         <POI MapID="1526" xpos="659.436" ypos="190.116" zpos="245.693" type="leag.frode.7.icon" GUID="B8JL6OjuOEGLdPP8Lrya6g=="/>
         <POI MapID="1509" xpos="38.8653" ypos="289.488" zpos="32.9959" type="leag.frode.8" GUID="+vnZMdXnVUeywS0Vt8oQ0Q==" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" mapVisibility="0"/>
         <Trail type="leag.frode.8" trailData="Data/SotO/Frode's Journal 8.trl" color="e60000"/>
-        
+        <!-- Heitor Instigator -->
+        <POI MapID="1526" xpos="719.922" ypos="190.269" zpos="245.595" type="leag.hi" GUID="jIMvhoKm3EWKaQO8eDbAOg==" iconFile="Data/Images/Emote - Beckon.png" fadeNear="1000" fadeFar="2000"/>
         <!-- Illuminating Inner Nayos -->
+        <POI MapID="1526" xpos="679.306" ypos="215.504" zpos="-436.045" type="leag.iin.start" GUID="Vnyh9l4r5EuLCwYlC4jKcw=="/>
+        <Trail type="leag.iin.trail.1" trailData="Data/SotO/Illuminating Inner Nayos 1.trl" color="ffff33"/>
+        <Trail type="leag.iin.trail.2" trailData="Data/SotO/Illuminating Inner Nayos 2.trl" color="ffff33"/>
+        <Trail type="leag.iin.trail.3" trailData="Data/SotO/Illuminating Inner Nayos 3.trl" color="ffff33"/>
+		  <POI MapID="1526" xpos="698.493" ypos="215.347" zpos="-435.397" type="leag.iin.trail.2" GUID="qvIIS8BvXkWUVFky3XPgyA=="/>
+		  <POI MapID="1526" xpos="689.73" ypos="215.652" zpos="-433.574" type="leag.iin.trail.1" GUID="1tWb14Hzb0aiqu1OWDdYnw=="/>
+		  <POI MapID="1526" xpos="303.36" ypos="186.293" zpos="151.356" type="leag.iin.trail.3" GUID="Y+U1k2eU/ESGkF40GWuGkQ=="/>
+        <POI MapID="1526" xpos="220.164" ypos="236.45" zpos="-499.459" type="leag.iin.wp" GUID="ebxgov6HQE2g7YJctPgGmw==" copy=" [&BGYOAAA=]" copy-message="Astral Ward Camp Waypoint"/>
+        <POI MapID="1526" xpos="495.276" ypos="196.642" zpos="237.777" type="leag.iin.wp" GUID="3YBEqTbyQUKVJ0pahlf3Kw==" copy=" [&BHYOAAA=]" copy-message=" Forward Bivouac Waypoint"/>
         
         <!-- Missing Brood -->
         <POI MapID="1526" xpos="307.185" ypos="186.293" zpos="167.717" type="leag.kosmas.start" GUID="vmCet+v9DkiW0pEnnNdyrA=="/>
@@ -214,6 +226,36 @@
 		  <!-- Zojja's Journal -->
 		  <POI MapID="1509" xpos="42.5358" ypos="293.638" zpos="13.1928" type="leag.zojja.1" GUID="00VxFgJLNU6NVmD0jBSQjQ==" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
         <Trail type="leag.zojja.1" trailData="Data/SotO/Zojja's Journal 1.trl" color="33ccff"/>
-		  
+        <Trail type="leag.zojja.21" trailData="Data/SotO/Zojja's Journal 2.trl" color="33ccff" texture="Data/Images/Trails/Trail Marker 2.png"/>
+        <Trail type="leag.zojja.21" trailData="Data/SotO/Zojja's Journal 2b.trl" color="33ccff"/>
+		  <POI MapID="1510" xpos="566.623" ypos="255.94" zpos="-97.7772" type="leag.zojja.22" GUID="avzSOJl0K0uSllPEYPvsWQ==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+		  <POI MapID="1510" xpos="549.647" ypos="289.477" zpos="-64.7917" type="leag.zojja.23" GUID="tFkHxbDfHUW/+CByHxBPXg==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+		  <POI MapID="1510" xpos="630.999" ypos="288.056" zpos="-60.1697" type="leag.zojja.24" GUID="EtRKaOBfBEukItxpZc0nyQ==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+        <Trail type="leag.zojja.31" trailData="Data/SotO/Zojja's Journal 3.trl" color="33ccff" texture="Data/Images/Trails/Trail Marker 2.png"/>
+        <Trail type="leag.zojja.31" trailData="Data/SotO/Zojja's Journal 3b.trl" color="33ccff"/>
+        <POI MapID="1510" xpos="29.1601" ypos="313.471" zpos="-539.557" type="leag.zojja.32" GUID="XG3osyLEskSFxxdLhIalfA==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+		  <POI MapID="1510" xpos="-77.7947" ypos="338.999" zpos="-342.34" type="leag.zojja.33" GUID="U+8qSBlpTE2ZD2KcovLaJw==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+		  <POI MapID="1510" xpos="-535.193" ypos="249.287" zpos="-391.33" type="leag.zojja.34" GUID="n6W7V+qS80CsKB+BMcKpiA==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+        <Trail type="leag.zojja.41" trailData="Data/SotO/Zojja's Journal 4.trl" color="33ccff" texture="Data/Images/Trails/Trail Marker 2.png"/>
+        <Trail type="leag.zojja.41" trailData="Data/SotO/Zojja's Journal 4b.trl" color="33ccff"/>
+        <POI MapID="1510" xpos="-678.588" ypos="546.501" zpos="96.6147" type="leag.zojja.42" GUID="tgZXHbFsH0qqgwDsEUSrOg==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+		  <POI MapID="1510" xpos="-861.335" ypos="553.086" zpos="62.9082" type="leag.zojja.43" GUID="xKgfHNs6n0aCUm6g0yVFig==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+        <POI MapID="1510" xpos="-789.1" ypos="485.364" zpos="211.362" type="leag.zojja.44" GUID="pNGEd5bfzEegwp0DPQxctw==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+        <Trail type="leag.zojja.51" trailData="Data/SotO/Zojja's Journal 5.trl" color="33ccff" texture="Data/Images/Trails/Trail Marker 2.png"/>
+        <Trail type="leag.zojja.51" trailData="Data/SotO/Zojja's Journal 5b.trl" color="33ccff"/>
+        <POI MapID="1510" xpos="-370.562" ypos="455.757" zpos="-15.5269" type="leag.zojja.52" GUID="+iFrZjyAL0icd1dwGB3vwQ==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+        <POI MapID="1510" xpos="71.6168" ypos="403.597" zpos="-57.0342" type="leag.zojja.53" GUID="uU6sUztjt0mbVxsJOTR+SQ==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+		  <POI MapID="1510" xpos="-26.324" ypos="400.71" zpos="80.1688" type="leag.zojja.54" GUID="LUwPuLH66UGwOvVRnXMVjQ==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+        <Trail type="leag.zojja.61" trailData="Data/SotO/Zojja's Journal 6a.trl" color="33ccff"/>
+        <Trail type="leag.zojja.61" trailData="Data/SotO/Zojja's Journal 6b.trl" color="33ccff"/>
+        <POI MapID="1510" xpos="249.737" ypos="364.187" zpos="456.93" type="leag.zojja.62" GUID="/HMqJtiPzkOL/15x06VuWg==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+        <POI MapID="1510" xpos="37.2435" ypos="446.78" zpos="525.018" type="leag.zojja.63" GUID="be2FW1tG40CJeqoGJDiEeA==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+		  <POI MapID="1510" xpos="-288.959" ypos="526.656" zpos="489.465" type="leag.zojja.64" GUID="JTdiru9R4E23i+vqMRY6uA==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+        <Trail type="leag.zojja.71" trailData="Data/SotO/Zojja's Journal 7.trl" color="33ccff"/>
+        <Trail type="leag.zojja.71" trailData="Data/SotO/Zojja's Journal 7b.trl" color="33ccff"/>
+        <POI MapID="1510" xpos="788.479" ypos="364.227" zpos="331.255" type="leag.zojja.72" GUID="wtSw9/nEOkaZPO+fHpM12A==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+		  <POI MapID="1510" xpos="629.929" ypos="360.466" zpos="300.166" type="leag.zojja.73" GUID="OQ1+U7nyqkG2fL+vyPga9A==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+		  <POI MapID="1510" xpos="547.313" ypos="343.387" zpos="262.702" type="leag.zojja.74" GUID="I2IynFmEZUiKeSrpRNnqDA==" iconFile="Data/Images/Notes.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+        <Trail type="leag.zojja.8" trailData="Data/SotO/Zojja's Journal 8.trl" color="33ccff" texture="Data/Images/Trails/Trail Marker 2.png"/>		  
     </POIs>
 </OverlayData>
