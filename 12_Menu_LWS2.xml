@@ -1,0 +1,15 @@
+<OverlayData>
+    <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
+        <!-- LIVING WORLD SEASON 2: Glint's Prophecy -->
+        <MarkerCategory name="lws2" IsSeparator="1" DisplayName="  | LIVING WORLD SEASON 2: Glint's Prophecy"/>
+        <MarkerCategory name="lws2goggles" DisplayName="Dive Master">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            <MarkerCategory name="maguumawastes"     IsSeparator="1" DisplayName="  | MAGUUMA WASTES"/>
+            <MarkerCategory name="drytop" DisplayName="Dry Top" color="00CC99"/>
+            <MarkerCategory name="silverwastes" DisplayName="The Silverwastes" color="00CC99"/>
+        </MarkerCategory> 
+        <!-- End -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's AP Guides -->
+</OverlayData>

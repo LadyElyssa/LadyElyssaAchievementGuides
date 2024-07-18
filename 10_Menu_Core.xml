@@ -1,0 +1,59 @@
+<OverlayData>
+    <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" texture="Data/Images/Trails/Trail Marker 1.png" animSpeed="0.8" alpha="1.0" fadeNear="2000" fadeFar="4000">
+        <MarkerCategory name="about" DisplayName="About">
+            <MarkerCategory name="version" DisplayName="Version    :: 0.1"/>
+            <MarkerCategory name="gw2" DisplayName="GW2       :: Lady Elyssa.2469"/>
+            <MarkerCategory name="github" DisplayName="Github     :: https://github.com/LadyElyssa/"/>
+            <MarkerCategory name="wiki" DisplayName="GW2 Wiki  :: https://wiki.guildwars2.com/wiki/User:Lady_Elyssa"/>
+        </MarkerCategory>
+        <!-- ACHIEVEMENTS -->
+        <MarkerCategory name="achievements" IsSeparator="1" DisplayName="  | ACHIEVEMENTS"/>      
+        <MarkerCategory name="goggles" DisplayName="Dive Master">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64">
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom">
+                    <MarkerCategory name="swirl" DisplayName="Toggle Yellow Swirl" iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="128"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="ascalon"     IsSeparator="1" DisplayName="  | ASCALON"/>
+                <MarkerCategory name="ashford"     DisplayName="Plains of Ashford" color="00CC99"/>
+                <MarkerCategory name="diessa"      DisplayName="Diessa Plateau" color="00CC99"/>
+                <MarkerCategory name="fields"      DisplayName="Fields of Ruin" color="00CC99"/>
+                <MarkerCategory name="iron"        DisplayName="Iron Marches" color="00CC99"/>
+                <MarkerCategory name="fireheart"   DisplayName="Fireheart Rise" color="00CC99"/>
+                <MarkerCategory name="kryta"       IsSeparator="1" DisplayName="  | KRYTA"/>
+                <MarkerCategory name="kessex"      DisplayName="Kessex Hills" color="00CC99"/>
+                <MarkerCategory name="gendarran"   DisplayName="Gendarran Fields" color="00CC99"/>
+                <MarkerCategory name="harathi"     DisplayName="Harathi Hinterlands" color="00CC99"/>
+                <MarkerCategory name="bloodtide"   DisplayName="Bloodtide Coast" color="00CC99"/>
+                <MarkerCategory name="la"          DisplayName="Lion's Arch" color="00CC99"/>
+                <MarkerCategory name="maguuma"     IsSeparator="1" DisplayName="  | MAGUUMA JUNGLE"/>
+                <MarkerCategory name="rata"        DisplayName="Rata Sum" color="00CC99"/>
+                <MarkerCategory name="grove"       DisplayName="The Grove" color="00CC99"/>
+                <MarkerCategory name="metrica"     DisplayName="Metrica Province" color="00CC99"/>
+                <MarkerCategory name="caledon"     DisplayName="Caledon Forest" color="00CC99"/>
+                <MarkerCategory name="brisban"     DisplayName="Brisban Wildlands" color="00CC99"/>
+                <MarkerCategory name="maelstrom"   DisplayName="Mount Maelstrom" color="00CC99"/>
+                <MarkerCategory name="orr"         IsSeparator="1" DisplayName="  | RUINS OF ORR"/>
+                <MarkerCategory name="sod"         DisplayName="Straits of Devastation" color="00CC99"/>
+                <MarkerCategory name="ml"          DisplayName="Malchor's Leap" color="00CC99"/>
+                <MarkerCategory name="cs"          DisplayName="Cursed Shore" color="00CC99"/>
+                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="  | SHIVERPEAKS"/>
+                <MarkerCategory name="wayfarer"    DisplayName="Wayfarer Foothills" color="00CC99"/>
+                <MarkerCategory name="frostgorge"  DisplayName="Frostgorge Sound" color="00CC99"/>
+                <MarkerCategory name="lornars"     DisplayName="Lornar's Pass" color="00CC99"/>
+                <MarkerCategory name="timberline"  DisplayName="Timberline Falls" color="00CC99"/>
+        </MarkerCategory>
+        <MarkerCategory name="festivals" DisplayName="Festivals">
+            <MarkerCategory name="fotfw"     IsSeparator="1" DisplayName="  | FESTIVAL OF THE FOUR WINDS"/>
+            <MarkerCategory name="festivegoggles" DisplayName="Dive Master">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="maguumawastes"     IsSeparator="1" DisplayName="  | MAGUUMA JUNGLE"/>
+                <MarkerCategory name="lc" DisplayName="Labrynthine Cliffs" color="00CC99"/>
+            </MarkerCategory>
+        </MarkerCategory> 
+        <!-- End -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's AP Guides -->
+</OverlayData>

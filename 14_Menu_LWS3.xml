@@ -1,0 +1,20 @@
+<OverlayData>
+    <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
+        <!-- LIVING WORLD SEASON 3: Glint's Legacy -->
+        <MarkerCategory name="lws3" IsSeparator="1" DisplayName="  | LIVING WORLD SEASON 3: Glint's Legacy"/>
+        <MarkerCategory name="lws3goggles" DisplayName="Dive Master">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            <MarkerCategory name="maguumawastes"     IsSeparator="1" DisplayName="  | HEART OF MAGUUMA"/>
+            <MarkerCategory name="bsf" DisplayName="Bloodstone Fen" color="00CC99"/>
+            <MarkerCategory name="shiverpeaks"     IsSeparator="1" DisplayName="  | SHIVERPEAK MOUNTAINS"/>
+            <MarkerCategory name="bff" DisplayName="Bitterfrost Frontier" color="00CC99"/>
+            <MarkerCategory name="rof"     IsSeparator="1" DisplayName="  | RING OF FIRE"/>
+            <MarkerCategory name="dm" DisplayName="Draconis Mons" color="00CC99"/>
+            <MarkerCategory name="roo"     IsSeparator="1" DisplayName="  | RUINS OF ORR"/>
+            <MarkerCategory name="sl" DisplayName="Siren's Landing" color="00CC99"/>
+        </MarkerCategory> 
+        <!-- End -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's AP Guides -->
+</OverlayData>

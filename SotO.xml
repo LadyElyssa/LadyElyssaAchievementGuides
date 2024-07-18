@@ -1,0 +1,219 @@
+<OverlayData>
+    <POIs>
+        <!-- A Record of War: Balance -->
+        <POI MapID="1526" xpos="307.451" ypos="186.3" zpos="144.189" type="leag.war.b1" GUID="W7Rll27/DUmYPisSuJtFvA==" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+        <Trail type="leag.war.b1" trailData="Data/SotO/A Record of War - Balance 1.trl"/>
+        <Trail type="leag.war.b2" trailData="Data/SotO/A Record of War - Balance 2.trl"/>
+        <Trail type="leag.war.b3" trailData="Data/SotO/A Record of War - Balance 3.trl"/>
+
+        <!-- A Record of War: Knowledge -->
+        <POI MapID="1526" xpos="327.622" ypos="186.3" zpos="138.757" type="leag.war.k1" GUID="0JYhA7enVEibnXL9MBbhSQ==" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+        <Trail type="leag.war.k1" trailData="Data/SotO/A Record of War - Knowledge 1.trl"/>
+        <POI MapID="1526" xpos="46.3323" ypos="415.679" zpos="116.891" type="leag.war.k2.ore" GUID="4DmYjToJOUGAoMn96aKwRw=="/>
+		  <POI MapID="1526" xpos="-169.124" ypos="285.802" zpos="-51.2743" type="leag.war.k2.ore" GUID="kS3D3O7RYUyqo/S7fZ3PrQ=="/>
+		  <POI MapID="1526" xpos="840.436" ypos="307.79" zpos="-446.659" type="leag.war.k2.ore" GUID="oQ3gmua2LkGlXgcHfJn3Tg=="/>
+		  <POI MapID="1526" xpos="715" ypos="248.249" zpos="-196.261" type="leag.war.k2.ore" GUID="NW1yRVkgdU29gImDIxMWeg=="/>
+        <POI MapID="1526" xpos="301.61" ypos="186.3" zpos="148.26" type="leag.war.k3" GUID="o/p9/x1qGkCXYAmVPuq1Kw==" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.war.k3" trailData="Data/SotO/A Record of War - Knowledge 3.trl"/>
+
+        <!-- A Record of War: Strength -->
+        <Trail type="leag.war.s1" trailData="Data/SotO/A Record of War - Strength 1.trl"/>
+        <Trail type="leag.war.s1" trailData="Data/SotO/A Record of War - Strength 1b.trl" texture="Data/Images/Trails/Event Line.png" color="cccc00"/>
+        <Trail type="leag.war.s1" trailData="Data/SotO/A Record of War - Strength 1c.trl" texture="Data/Images/Trails/Event Line.png" color="ff5c33"/>
+        <Trail type="leag.war.s1" trailData="Data/SotO/A Record of War - Strength 1d.trl" texture="Data/Images/Trails/Event Line.png" color="ff5c33"/>
+        <POI MapID="1526" xpos="374.633" ypos="274.026" zpos="464.682" type="leag.war.s1.champs" GUID="HGit9Lrm1EeCaTBBcOc6jw=="/>
+        <POI MapID="1526" xpos="-169.092" ypos="197.843" zpos="99.9222" type="leag.war.s1.champs" GUID="oA1zxcOt0EOHfYiNib1Asw=="/>
+        <POI MapID="1526" xpos="-238.993" ypos="238.375" zpos="259.888" type="leag.war.s2.vets" GUID="BSTOspoM70Sqc/mtHyUuxg=="/>
+		  <POI MapID="1526" xpos="141.679" ypos="288.6" zpos="-135.059" type="leag.war.s2.vets" GUID="UkPMZphS8EWXWqA0DrNjig=="/>
+		  <POI MapID="1526" xpos="47.6676" ypos="266.371" zpos="-269.195" type="leag.war.s2.vets" GUID="uaG3RXqP70WFmM5MDXsKdw=="/>
+        <POI MapID="1526" xpos="-194.597" ypos="198.471" zpos="20.0222" type="leag.war.s2.vets" GUID="VZNMO08q00GxEyrD4CbEAQ=="/>
+		  <POI MapID="1526" xpos="57.1082" ypos="208.559" zpos="304.053" type="leag.war.s2.vets" GUID="Xyz1PT0VKUS7Dx6zH3CBoA=="/>
+        <Trail type="leag.war.s3" trailData="Data/SotO/A Record of War - Strength 1.trl"/>
+
+        <!-- A Record of War: The Celestial -->
+        <POI MapID="1526" xpos="681.633" ypos="214.938" zpos="-425.595" type="leag.war.c1" GUID="5/S3f93760uzJougJdAaaw==" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+        <Trail type="leag.war.c1" trailData="Data/SotO/A Record of War - The Celestial 1.trl"/>
+        <POI MapID="1526" xpos="308.81" ypos="186.293" zpos="160.685" type="leag.war.c2" GUID="Z5ecA5uJGkaPxI+H/E7eNA==" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.war.c2" trailData="Data/SotO/A Record of War - The Celestial 2.trl"/>
+        <POI MapID="1526" xpos="307.15" ypos="186.293" zpos="143.715" type="leag.war.c3" GUID="8M3kKu9vnUSqihEmyQaYLg==" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.war.c3" trailData="Data/SotO/A Record of War - The Celestial 3.trl"/>
+
+        <!-- A Record of War: The Natural -->
+        <POI MapID="1526" xpos="307.392" ypos="186.293" zpos="143.68" type="leag.war.n1" GUID="0jXnO73WbUuEc8v5QtoajA==" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+        <Trail type="leag.war.n1" trailData="Data/SotO/A Record of War - The Natural 1.trl"/>
+        <POI MapID="1526" xpos="303.231" ypos="186.293" zpos="148.245" type="leag.war.n2" GUID="X9FklKp2zUyuENUArXnuVA==" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.war.n2" trailData="Data/SotO/A Record of War - The Natural 2.trl"/>
+		  <POI MapID="1526" xpos="313.447" ypos="186.293" zpos="146.235" type="leag.war.n3" GUID="7nE25+SBYU6gqOxEJUgEfg==" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.war.n3" trailData="Data/SotO/A Record of War - The Natural 3.trl"/>
+
+        <!-- A Record of War: The Obscure -->
+        <Trail type="leag.war.o1" trailData="Data/SotO/A Record of War - The Obscure 1.trl"/>
+        <POI MapID="1526" xpos="296.811" ypos="186.293" zpos="151.844" type="leag.war.o1" GUID="M1TvJ7JblUuU23bbELjVUw==" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+        <POI MapID="1526" xpos="168.008" ypos="194.475" zpos="86.6017" type="leag.war.o1" GUID="kODBFkY0bUylHhY3J5f1WA==" iconFile="Data/Images/Circle.png" heightOffset="0" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="2000"/>
+		  <POI MapID="1526" xpos="175.496" ypos="195.168" zpos="95.2929" type="leag.war.o1" GUID="BC10Em7zGk2bSnDNCkVOVg==" iconFile="Data/Images/Circle.png" heightOffset="0" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="2000"/>
+		  <POI MapID="1526" xpos="143.879" ypos="194.333" zpos="82.9239" type="leag.war.o1" GUID="iOXsG2h3W02WABqWhNXrnA==" iconFile="Data/Images/Circle.png" heightOffset="0" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="2000"/>
+		  <POI MapID="1526" xpos="119.745" ypos="194.608" zpos="83.9683" type="leag.war.o1" GUID="ReMlSJ4lI0OoVkhTQ2exug==" iconFile="Data/Images/Circle.png" heightOffset="0" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="2000"/>
+		  <POI MapID="1526" xpos="126.095" ypos="194.793" zpos="105.955" type="leag.war.o1" GUID="0p062hesT0yNkPYlg97F2Q==" iconFile="Data/Images/Circle.png" heightOffset="0" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="2000"/>
+		  <POI MapID="1526" xpos="149.954" ypos="194.214" zpos="89.279" type="leag.war.o1" GUID="SS8JX84zWEWBRKx/hIfbEg==" iconFile="Data/Images/Circle.png" heightOffset="0" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="2000"/>
+		  <POI MapID="1526" xpos="156.535" ypos="194.703" zpos="96.7627" type="leag.war.o1" GUID="mLAsJpet70+tVEVIjsPuog==" iconFile="Data/Images/Circle.png" heightOffset="0" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="2000"/>
+        <POI MapID="1526" xpos="176.551" ypos="193.991" zpos="79.5128" type="leag.war.o1" GUID="ciRKLJ4IDUCDQkVCHZDv4A==" iconFile="Data/Images/Circle.png" heightOffset="0" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="2000"/>
+		  <POI MapID="1526" xpos="198.84" ypos="194.558" zpos="75.3673" type="leag.war.o1" GUID="4d/QIkOvwEer/m8FAIVOJQ==" iconFile="Data/Images/Circle.png" heightOffset="0" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="2000"/>
+		  <POI MapID="1526" xpos="205.635" ypos="194.126" zpos="62.5536" type="leag.war.o1" GUID="Olo7DaAmD0y54BH+Hdm3iw==" iconFile="Data/Images/Circle.png" heightOffset="0" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="2000"/>
+		  <POI MapID="1526" xpos="220.932" ypos="186.329" zpos="54.5978" type="leag.war.o1" GUID="ZYkRpZfFBU2N3S11BDvWiw==" iconFile="Data/Images/Circle.png" heightOffset="0" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="2000"/>
+		  <POI MapID="1526" xpos="237.195" ypos="189.755" zpos="90.462" type="leag.war.o1" GUID="W4sk/j/R7E+sDIQTVTOXPQ==" iconFile="Data/Images/Circle.png" heightOffset="0" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="2000"/>
+		  <POI MapID="1526" xpos="236.885" ypos="186.195" zpos="69.8073" type="leag.war.o1" GUID="kPqth+aCmUCKfunkT3wNSw==" iconFile="Data/Images/Circle.png" heightOffset="0" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="2000"/>
+		  <POI MapID="1526" xpos="238.33" ypos="189.153" zpos="87.224" type="leag.war.o1" GUID="KzAyiUEt4kuesCJlcr8zMg==" iconFile="Data/Images/Circle.png" heightOffset="0" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="2000"/>
+        <POI MapID="1526" xpos="178.743" ypos="222.616" zpos="98.2087" type="leag.war.o2" GUID="9szgvBzSgkCHYXO6PJpq7A==" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.war.o2" trailData="Data/SotO/A Record of War - The Obscure 2.trl"/>
+        <Trail type="leag.war.o2" trailData="Data/SotO/A Record of War - The Obscure 2b.trl" texture="Data/Images/Trails/Trail Marker 2.png"/>
+        <POI MapID="1526" xpos="-89.8764" ypos="205.6" zpos="-70.4442" type="leag.war.o2" GUID="l66aKU3y50SMHv9ibDk9mA==" iconFile="Data/Images/Circle.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+		  <POI MapID="1526" xpos="102.986" ypos="287.824" zpos="-192.565" type="leag.war.o2" GUID="pPke8z6hEEmX24CU1fP/Kw==" iconFile="Data/Images/Circle.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+		  <POI MapID="1526" xpos="193.86" ypos="215.152" zpos="-183.441" type="leag.war.o2" GUID="hJRkS5iI/0G9mP6+frfuhA==" iconFile="Data/Images/Circle.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <Trail type="leag.war.o3" trailData="Data/SotO/A Record of War - The Obscure 3.trl"/>
+        <POI MapID="1526" xpos="-106.269" ypos="172.18" zpos="247.505" type="leag.war.o3" GUID="/sSHTyN5QkuIXFdX3wU7tg==" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.war.o3" trailData="Data/SotO/A Record of War - The Obscure 3b.trl" texture="Data/Images/Trails/Trail Marker 2.png"/>
+        <POI MapID="1526" xpos="-27.7382" ypos="182.418" zpos="375.718" type="leag.war.o3" GUID="sAFTA3qtU0qLZUIbDqM0lQ==" iconFile="Data/Images/Circle.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+		  <POI MapID="1526" xpos="-98.3444" ypos="213.344" zpos="528.915" type="leag.war.o3" GUID="hLCXTTASl0m6uCoFSz9mAA==" iconFile="Data/Images/Circle.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+		  <POI MapID="1526" xpos="-273.739" ypos="296.212" zpos="257.593" type="leag.war.o3" GUID="VZ/b+J2H5EOVumejrrQr0A==" iconFile="Data/Images/Circle.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <!-- Amnytas Cruising: Natural to Strength -->
+        <Trail type="leag.acnts" trailData="Data/SotO/To Amnytas Cruising - Natural to Strength.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png" color="ffcc00"/>
+        <Trail type="leag.acnts" trailData="Data/SotO/Amnytas Cruising - Natural to Strength.trl" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="ffcc00"/>
+        <!-- Frode's Journal -->
+        <POI MapID="1526" xpos="687.039" ypos="215.314" zpos="-426.47" type="leag.frode.2" GUID="2atNxkHpR0iDaGMk8fUlJg==" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" mapVisibility="0"/>
+		  <Trail type="leag.frode.2" trailData="Data/SotO/Frode's Journal 2.trl" color="e60000"/>
+        <POI MapID="1526" xpos="701.604" ypos="216.008" zpos="-426.036" type="leag.frode.3" GUID="F9WmtzsVb0+RZyJJ9Yaoxg==" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" mapVisibility="0"/>
+		  <Trail type="leag.frode.3" trailData="Data/SotO/Frode's Journal 3.trl" color="e60000"/>
+        <POI MapID="1526" xpos="763.505" ypos="189.384" zpos="-56.1454" type="leag.frode.4" GUID="C3y04FlQFUSP2rvVyJJ9fw==" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.frode.4" trailData="Data/SotO/Frode's Journal 4.trl" color="e60000"/>
+        <POI MapID="1510" xpos="-650.211" ypos="549.484" zpos="163.687" type="leag.frode.5" GUID="hIjMohXl9k+sx8zBTkixIA==" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.frode.5" trailData="Data/SotO/Frode's Journal 5.trl" color="e60000"/>
+        <POI MapID="1510" xpos="-972.568" ypos="544.423" zpos="186.962" type="leag.frode.5.icon" GUID="h8frWWhLEkGXdHm7T3zZUA=="/>
+        <POI MapID="1517" xpos="39.6676" ypos="806.726" zpos="41.0041" type="leag.frode.6.icon" GUID="kp1niEyMQUCUjVKwmsxjXA=="/>
+        <POI MapID="1526" xpos="659.436" ypos="190.116" zpos="245.693" type="leag.frode.7.icon" GUID="B8JL6OjuOEGLdPP8Lrya6g=="/>
+        <POI MapID="1509" xpos="38.8653" ypos="289.488" zpos="32.9959" type="leag.frode.8" GUID="+vnZMdXnVUeywS0Vt8oQ0Q==" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.frode.8" trailData="Data/SotO/Frode's Journal 8.trl" color="e60000"/>
+        
+        <!-- Illuminating Inner Nayos -->
+        
+        <!-- Missing Brood -->
+        <POI MapID="1526" xpos="307.185" ypos="186.293" zpos="167.717" type="leag.kosmas.start" GUID="vmCet+v9DkiW0pEnnNdyrA=="/>
+        <POI MapID="1526" xpos="308.082" ypos="186.293" zpos="160.022" type="leag.kosmas.1" GUID="tPfasZqX9UiwTlRE79Zt/A==" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.kosmas.1" trailData="Data/SotO/Missing Brood 1.trl" color="ff66ff"/>
+        <POI MapID="1526" xpos="281.198" ypos="199.49" zpos="210.173" type="leag.kosmas.2" GUID="EiZHSlrhS0Kq9suTFLS+PQ==" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.kosmas.2" trailData="Data/SotO/Missing Brood 2.trl" color="ff66ff"/>
+        <Trail type="leag.kosmas.2" trailData="Data/SotO/Missing Brood 2 Alt.trl" color="ff66ff" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <POI MapID="1526" xpos="-317.941" ypos="170.556" zpos="138.685" type="leag.kosmas.3" GUID="0p5qLE31ukC9cguB2UYLEA==" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.kosmas.3" trailData="Data/SotO/Missing Brood 3.trl" color="ff66ff"/>
+        <Trail type="leag.kosmas.3" trailData="Data/SotO/Missing Brood 3b.trl" color="ff66ff" texture="Data/Images/Trails/Trail Marker 2.png"/>
+        <POI MapID="1526" xpos="313.474" ypos="186.293" zpos="146.434" type="leag.kosmas.4" GUID="hISMrRzxekmK27JNeUcEqA==" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.kosmas.4" trailData="Data/SotO/Missing Brood 4.trl" color="ff66ff"/>
+        <POI MapID="1526" xpos="308.076" ypos="186.293" zpos="145.965" type="leag.kosmas.5" GUID="132dsDvlpkOXItaEgmP41g==" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.kosmas.5" trailData="Data/SotO/Missing Brood 5.trl" color="ff66ff" texture="Data/Images/Trails/Trail Marker 2.png"/>
+        <POI MapID="1510" xpos="266.599" ypos="255.832" zpos="-224.554" type="leag.kosmas.6" GUID="V48DuOG1FUCEYf24oz+HJg==" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" mapVisibility="0"/>		  
+        <Trail type="leag.kosmas.6" trailData="Data/SotO/Missing Brood 6.trl" color="ff66ff"/>
+        <POI MapID="1510" xpos="270.571" ypos="255.464" zpos="-213.872" type="leag.kosmas.7" GUID="tf40z6VTUEeaGSHQ6JSeLw==" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.kosmas.7" trailData="Data/SotO/Missing Brood 7.trl" color="ff66ff" texture="Data/Images/Trails/Trail Marker 2.png"/>
+        <POI MapID="1510" xpos="101.647" ypos="440.331" zpos="574.169" type="leag.kosmas.8" GUID="by1JrSz0bk6d9Pdeu4t8UQ==" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.kosmas.8" trailData="Data/SotO/Missing Brood 8.trl" color="ff66ff"/>
+        <POI MapID="1510" xpos="-18.454" ypos="430.11" zpos="605.909" type="leag.kosmas.9" GUID="toenNHB1XkSZaRYqDMpPNA==" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.kosmas.9" trailData="Data/SotO/Missing Brood 9.trl" color="ff66ff" texture="Data/Images/Trails/Trail Marker 2.png"/>
+        <POI MapID="1509" xpos="36.0976" ypos="293.629" zpos="14.1981" type="leag.kosmas.10" GUID="QKHmlBqnakutpwS8W2YG+g==" iconFile="Data/Images/Numbers/10.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.kosmas.10" trailData="Data/SotO/Missing Brood 10.trl" color="ff66ff"/>
+        <POI MapID="1509" xpos="-184.766" ypos="313.2" zpos="-138.973" type="leag.kosmas.11" GUID="3G3uNp34sEWdU0UTkOKHwg==" iconFile="Data/Images/Numbers/11.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.kosmas.11" trailData="Data/SotO/Missing Brood 11.trl" color="ff66ff" texture="Data/Images/Trails/Trail Marker 2.png"/>
+        <POI MapID="1517" xpos="-541.602" ypos="507.066" zpos="-62.2873" type="leag.kosmas.12" GUID="YrlglCw0VU2EvbXyqjsqDg==" iconFile="Data/Images/Numbers/12.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.kosmas.12" trailData="Data/SotO/Missing Brood 12.trl" color="ff66ff"/>
+        <POI MapID="1517" xpos="-387.917" ypos="577.173" zpos="-189.473" type="leag.kosmas.13" GUID="zSaFe2tG00GvwJeNCnkiZQ==" iconFile="Data/Images/Numbers/13.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.kosmas.13" trailData="Data/SotO/Missing Brood 13.trl" color="ff66ff" texture="Data/Images/Trails/Trail Marker 2.png"/>
+        <POI MapID="1517" xpos="-69.585" ypos="270.219" zpos="-417.517" type="leag.kosmas.14" GUID="2aFUEHTzLEuC8PgOB6/V6w==" iconFile="Data/Images/Numbers/14.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.kosmas.14" trailData="Data/SotO/Missing Brood 14.trl" color="ff66ff"/>
+        <POI MapID="1517" xpos="211.226" ypos="288.453" zpos="-713.13" type="leag.kosmas.15" GUID="wMeJnWJ9Xk+ipg3bcsqHlg==" iconFile="Data/Images/Numbers/15.png" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.kosmas.15" trailData="Data/SotO/Missing Brood 15.trl" color="ff66ff" texture="Data/Images/Trails/Trail Marker 2.png"/>
+        <!-- No Chest Unopened -->
+        <POI MapID="1526" xpos="682.829" ypos="215.565" zpos="-444.164" type="leag.ncu.start" GUID="JnuUwRzK00uUQ7hQJXwtMA=="/>
+        <Trail type="leag.ncu.trail.1" trailData="Data/SotO/No Chest Unopened 1.trl" color="e6b800"/>
+        <Trail type="leag.ncu.trail.2" trailData="Data/SotO/No Chest Unopened 2.trl" color="e6b800"/>
+        <POI MapID="1526" xpos="695.372" ypos="215.188" zpos="-423.857" type="leag.ncu.trail.2" GUID="fOtHyqN+ckG6ZKDKGICcaQ==" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" mapVisibility="0"/>
+        <POI MapID="1526" xpos="437.207" ypos="280.808" zpos="407.195" type="leag.ncu.1" GUID="FycC64JuO0ifi14MDwY+AQ==" iconFile="Data/Images/No Chest Unopened.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="556.444" ypos="228.832" zpos="144.205" type="leag.ncu.2" GUID="JVkbq/Q2MkODz6ftnLa5Vw==" iconFile="Data/Images/No Chest Unopened.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="978.918" ypos="174.618" zpos="170.392" type="leag.ncu.3" GUID="33GeXESXGEyqqmeLznFMMg==" iconFile="Data/Images/No Chest Unopened.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="818.874" ypos="190.345" zpos="-45.7944" type="leag.ncu.4" GUID="iIBgfWNpdUmPrnJ/CtPUUg==" iconFile="Data/Images/No Chest Unopened.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="628.225" ypos="197.855" zpos="-118.219" type="leag.ncu.5" GUID="4q5YJtWjykaL/iBeKzxPjg==" iconFile="Data/Images/No Chest Unopened.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="569.478" ypos="200.67" zpos="-232.629" type="leag.ncu.6" GUID="o9+xCPICMUyA/mh0alPdrQ==" iconFile="Data/Images/No Chest Unopened.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="121.562" ypos="269.233" zpos="-489.902" type="leag.ncu.7" GUID="J3C2pmbR+kqocJuxJvTGgg==" iconFile="Data/Images/No Chest Unopened.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="601.285" ypos="248.693" zpos="-452.74" type="leag.ncu.8" GUID="UvjwTYayNUaSOqoveafP+A==" iconFile="Data/Images/No Chest Unopened.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="699.087" ypos="206.584" zpos="-359.681" type="leag.ncu.9" GUID="b44f59TWGESi6A3x7MUPpA==" iconFile="Data/Images/No Chest Unopened.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="920.775" ypos="287.323" zpos="-266.531" type="leag.ncu.10" GUID="ULv6duOnpk6GRw1ijea3ew==" iconFile="Data/Images/No Chest Unopened.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <!-- Please Take a Seat -->
+        <POI MapID="1526" xpos="-329.784" ypos="189.999" zpos="-8.78649" type="ptas" GUID="Ng3YJZxPGkOmxbGOVb4X0Q==" iconFile="Data/Images/Emote - Sit.png" fadeNear="3000" fadeFar="6000"/>
+        <!-- Quality Family Entertainment -->
+        <POI MapID="1526" xpos="-314.304" ypos="183.129" zpos="78.0518" type="qfe" GUID="r8WJgrcB6UaeeKP/chOK0w==" iconFile="Data/Images/Emote - Cheer.png" fadeNear="3000" fadeFar="6000"/>
+        <!-- Shrine Finder -->
+        <POI MapID="1526" xpos="297.77" ypos="186.293" zpos="161.827" type="leag.shrine.start" GUID="ut6sL0WkbECWy+fg6X0vPQ=="/>
+        <Trail type="leag.shrine" trailData="Data/SotO/Shrine Finder.trl" color="b366ff"/>
+        <POI MapID="1526" xpos="151.727" ypos="283.74" zpos="359.239" type="leag.shrine.1" GUID="po3Nvoom202mY4nyW+ggMQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="116.154" ypos="309.642" zpos="474.654" type="leag.shrine.2" GUID="OEymdBxAFUW0tqDhX+YVkQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="-311.81" ypos="279.674" zpos="292.716" type="leag.shrine.3" GUID="O9hizc8kfEi7Fj6MSXC1AA==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="-209.724" ypos="349.998" zpos="-190.167" type="leag.shrine.4" GUID="fRUm6r+Nvku/XqxZpeTlsw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="-1.28806" ypos="166.946" zpos="190.235" type="leag.shrine.5" GUID="dTw1rlue8kOt83VVqUb/Vg==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="-182.403" ypos="206.454" zpos="-7.04849" type="leag.shrine.6" GUID="Ga26JTi/gUeA0RwvLSURmw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="321.285" ypos="202.809" zpos="-107.052" type="leag.shrine.7" GUID="jxTPRDP3gUG38ZEUy7+BfQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="433.495" ypos="296.192" zpos="184.672" type="leag.shrine.8" GUID="CAYdpeA1a0aEPwY6Rpn7lA==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="235.935" ypos="201.368" zpos="190.177" type="leag.shrine.9" GUID="Tw5JNUZ0CEKHOAgDvyAp1Q==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="53.7581" ypos="294.453" zpos="-175.632" type="leag.shrine.10" GUID="b73LJXSIikqxyjCQcmk1rw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="36.0649" ypos="209.177" zpos="321.366" type="leag.shrine.11" GUID="WaP9JvDiXku/U+lQrXVZjw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="-297.541" ypos="152.291" zpos="116.839" type="leag.shrine.12" GUID="+7LQXkp+2Em0KmIu+EobRQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <!-- Tyrian Taste Testing -->
+        <Trail type="leag.ttt.1" trailData="Data/SotO/Tyrian Taste Testing 1.trl"/>
+        <Trail type="leag.ttt.2" trailData="Data/SotO/Tyrian Taste Testing 2.trl"/>
+        <Trail type="leag.ttt.3" trailData="Data/SotO/Tyrian Taste Testing 3.trl"/>
+        <Trail type="leag.ttt.4" trailData="Data/SotO/Tyrian Taste Testing 4.trl"/>
+        <Trail type="leag.ttt.5" trailData="Data/SotO/Tyrian Taste Testing 5.trl"/>
+        <Trail type="leag.ttt.6" trailData="Data/SotO/Tyrian Taste Testing 6.trl"/>
+        <Trail type="leag.ttt.7" trailData="Data/SotO/Tyrian Taste Testing 7.trl"/>
+        <Trail type="leag.ttt.8" trailData="Data/SotO/Tyrian Taste Testing 8.trl"/>
+        <Trail type="leag.ttt.9" trailData="Data/SotO/Tyrian Taste Testing 9.trl"/>
+        <Trail type="leag.ttt.10" trailData="Data/SotO/Tyrian Taste Testing 10.trl"/>
+        <Trail type="leag.ttt.11" trailData="Data/SotO/Tyrian Taste Testing 11.trl"/>
+        <!-- Well-Versed -->
+        <POI MapID="1526" xpos="683.604" ypos="215.504" zpos="-435.41" type="leag.versed.start" GUID="q/8XuSZELEOGCAZynKdUoA=="/>
+        <Trail type="leag.versed.trail.1" trailData="Data/SotO/Well-Versed 1.trl" color="c2c2a3"/>
+        <Trail type="leag.versed.trail.2" trailData="Data/SotO/Well-Versed 2.trl" color="c2c2a3"/>
+        <POI MapID="1526" xpos="701.725" ypos="216.007" zpos="-426.433" type="leag.versed.trail.2" GUID="q7ELRAFxwUiMocSeeWMbcg==" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" mapVisibility="0"/>
+        <POI MapID="1526" xpos="731.628" ypos="188.003" zpos="-143.297" type="leag.versed.1" GUID="GRvs8AR/5ki9roc1+Nze3w==" iconFile="Data/Images/Notes.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="447.701" ypos="269.646" zpos="449.704" type="leag.versed.2" GUID="sxqOcPHIZkulo2gGIWfinw==" iconFile="Data/Images/Notes.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="777.47" ypos="201.301" zpos="59.675" type="leag.versed.3" GUID="fwRepO4l9USM3slOWNbSxg==" iconFile="Data/Images/Notes.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="596.951" ypos="221.174" zpos="-430.158" type="leag.versed.4" GUID="jPi2+8alvU+JNTLsJbezvw==" iconFile="Data/Images/Notes.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="720.701" ypos="233.012" zpos="351.973" type="leag.versed.5" GUID="dn9B4+H9sUqRf27k0emnCw==" iconFile="Data/Images/Notes.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="923.323" ypos="208.484" zpos="301.089" type="leag.versed.6" GUID="WDvTskpF40OW0TEdXF5Cog==" iconFile="Data/Images/Notes.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+		  <POI MapID="1526" xpos="216.949" ypos="236.813" zpos="-501.821" type="leag.versed.7" GUID="nhtHU7MEO0KP+YGI7HYcyQ==" iconFile="Data/Images/Notes.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="955.011" ypos="252.807" zpos="44.9885" type="leag.versed.8" GUID="DjIT/+Z+4EeskrAdMd5zTQ==" iconFile="Data/Images/Notes.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="898.677" ypos="185.413" zpos="61.5468" type="leag.versed.9" GUID="wtUy+HLgjUGkaXsg+hGHBw==" iconFile="Data/Images/Notes.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        <!-- What Was Before -->
+        <POI MapID="1526" xpos="323.962" ypos="186.293" zpos="157.45" type="leag.tecla.start" GUID="JWO98e0rJk6xN7hFL7BKTg=="/>
+        <Trail type="leag.tecla.1" trailData="Data/SotO/What Was Before 1.trl" color="ff3c18"/>
+        <Trail type="leag.tecla.2" trailData="Data/SotO/What Was Before 2.trl" color="ff3c18"/>
+        <POI MapID="1526" xpos="809.85" ypos="232.549" zpos="504.018" type="leag.tecla.icon" GUID="BrFABiAwpESYyXpEOKv+KQ=="/>
+        <Trail type="leag.tecla.3" trailData="Data/SotO/What Was Before 3.trl" color="ff3c18"/>
+        <POI MapID="1526" xpos="564.515" ypos="324.102" zpos="459.999" type="leag.tecla.icon" GUID="8TPhqn/TSES3auVKJQAARw=="/>
+        <Trail type="leag.tecla.4" trailData="Data/SotO/What Was Before 4.trl" color="ff3c18"/>
+        <POI MapID="1526" xpos="263.946" ypos="355.989" zpos="208.692" type="leag.tecla.icon" GUID="2i2DaOB3zUSLvGbTinf1MA=="/>
+        <Trail type="leag.tecla.5" trailData="Data/SotO/What Was Before 5.trl" color="ff3c18"/>
+        <POI MapID="1526" xpos="15.9128" ypos="300.037" zpos="-137.591" type="leag.tecla.icon" GUID="nauK5H/2EkuFMX74PRxVKw=="/>
+        <Trail type="leag.tecla.6" trailData="Data/SotO/What Was Before 6.trl" color="ff3c18"/>
+        <POI MapID="1526" xpos="-154.935" ypos="319.755" zpos="-403.525" type="leag.tecla.icon" GUID="wH36pgNY1kmN1XFF62Da7g=="/>
+        <Trail type="leag.tecla.7" trailData="Data/SotO/What Was Before 7.trl" color="ff3c18"/>
+        <POI MapID="1526" xpos="-315.166" ypos="193.141" zpos="-133.56" type="leag.tecla.icon" GUID="BlLGvWSO406t48KOZyIViw=="/>
+        <Trail type="leag.tecla.8" trailData="Data/SotO/What Was Before 8.trl" color="ff3c18"/>
+        <POI MapID="1526" xpos="77.5112" ypos="289.869" zpos="96.1537" type="leag.tecla.icon" GUID="YZd35uAAgky2KyBIPALwXg=="/>
+        <Trail type="leag.tecla.9" trailData="Data/SotO/What Was Before 9.trl" color="ff3c18"/>
+        <POI MapID="1526" xpos="120.442" ypos="242.741" zpos="463.54" type="leag.tecla.icon" GUID="Sc/ey8L5e0q3mQwVE4i7sw=="/>
+        <Trail type="leag.tecla.10" trailData="Data/SotO/What Was Before 10.trl" color="ff3c18"/>
+        <POI MapID="1526" xpos="935.449" ypos="176.74" zpos="273.418" type="leag.tecla.icon" GUID="OR+To4D+4EWM8I5RMnDCbg=="/>
+        <POI MapID="1526" xpos="120.121" ypos="242.741" zpos="463.594" type="leag.tecla.11.wp" GUID="xQv8QPAUV0i/LutE5ExXYQ=="  copy=" [&BHYOAAA=]" copy-message="Return to Tecla the Venerable at the forward bivouac"/>
+		  <!-- Zojja's Journal -->
+		  <POI MapID="1509" xpos="42.5358" ypos="293.638" zpos="13.1928" type="leag.zojja.1" GUID="00VxFgJLNU6NVmD0jBSQjQ==" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+        <Trail type="leag.zojja.1" trailData="Data/SotO/Zojja's Journal 1.trl" color="33ccff"/>
+		  
+    </POIs>
+</OverlayData>
