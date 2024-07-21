@@ -1,14 +1,15 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
         <MarkerCategory name="jw" IsSeparator="1" DisplayName="  | JANTHIR WILDS"/>
+        <!--
         <MarkerCategory name="jwgoggles" DisplayName="Dive Master">
             <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
             <MarkerCategory name="cd"     IsSeparator="1" DisplayName="  | ISLES OF JANTHIR"/>
             <MarkerCategory name="ls" DisplayName="Lowland Shore" color="00CC99"/>
             <MarkerCategory name="js" DisplayName="Janthir Syntri" color="00CC99"/>
-        </MarkerCategory> 
-        <!-- End -->
+        </MarkerCategory>
+        --> 
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>
