@@ -77,11 +77,16 @@
         <POI MapID="1526" xpos="-27.7382" ypos="182.418" zpos="375.718" type="leag.war.o3" GUID="sAFTA3qtU0qLZUIbDqM0lQ==" iconFile="Data/Images/Circle.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
 		  <POI MapID="1526" xpos="-98.3444" ypos="213.344" zpos="528.915" type="leag.war.o3" GUID="hLCXTTASl0m6uCoFSz9mAA==" iconFile="Data/Images/Circle.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
 		  <POI MapID="1526" xpos="-273.739" ypos="296.212" zpos="257.593" type="leag.war.o3" GUID="VZ/b+J2H5EOVumejrrQr0A==" iconFile="Data/Images/Circle.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        
         <!-- Amnytas: Absolute Focus -->
         <Trail type="leag.focus" trailData="Data/SotO/Amnytas - Absolute Focus.trl" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="A0B6FF"/>
         
         <!-- Astral Ward Research -->
         <Trail type="leag.awr" trailData="Data/SotO/Astral Ward Research.trl" texture="Data/Images/Trails/Trail Marker 1 Shaded.png" color="EDC28B"/>
+        
+        <!-- A Promise Kept -->
+        <POI MapID="1517" xpos="-659.944" ypos="446.034" zpos="327.65" type="leag.apk.basil" GUID="wLfUbGb0YkGeNMrxZNvXLw=="/>
+        <Trail type="leag.apk.aellin" trailData="Data/SotO/A Promise Kept.trl" color="ff99cc"/>
         
         <!-- Bigger than You Remember... -->
         <Trail type="leag.btyr" trailData="Data/SotO/Bigger than You Remember.trl" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="C45AA8"/>
@@ -89,6 +94,42 @@
         
         <!-- Bug-Zapped -->
         <POI MapID="1517" xpos="39.7453" ypos="806.731" zpos="91.2387" type="bz" GUID="2I4Wyg1ZzU2DL/JigQjMpQ==" iconFile="Data/Images/Icons/Defeated Eye.png" minSize="32" mapDisplaySize="48" fadeNear="2000" fadeFar="4000"/>
+        
+        <!-- Comrades in Arms -->
+        <Trail type="leag.cia.1" trailData="Data/SotO/Comrades in Arms 1.trl" texture="Data/Images/Trails/Trail Marker 2.png" color="33ccff"/>
+        <Trail type="leag.cia" trailData="Data/SotO/Comrades in Arms 2.trl" texture="Data/Images/Trails/Trail Marker 2.png" color="33ccff"/>
+        <Trail type="leag.cia" trailData="Data/SotO/Comrades in Arms 3.trl" texture="Data/Images/Trails/Trail Marker 2.png" color="33ccff"/>
+        <Trail type="leag.cia" trailData="Data/SotO/Comrades in Arms 4.trl" texture="Data/Images/Trails/Trail Marker 2.png" color="33ccff"/>
+        <Trail type="leag.cia" trailData="Data/SotO/Comrades in Arms 5.trl" texture="Data/Images/Trails/Trail Marker 2.png" color="33ccff"/>
+        <Trail type="leag.cia" trailData="Data/SotO/Comrades in Arms 6.trl" texture="Data/Images/Trails/Trail Marker 2.png" color="33ccff"/>
+        <Trail type="leag.cia" trailData="Data/SotO/Comrades in Arms 7.trl" texture="Data/Images/Trails/Trail Marker 2.png" color="33ccff"/>
+        <Trail type="leag.cia" trailData="Data/SotO/Comrades in Arms 8.trl" texture="Data/Images/Trails/Trail Marker 2.png" color="33ccff"/>
+        <Trail type="leag.cia" trailData="Data/SotO/Comrades in Arms 9.trl" texture="Data/Images/Trails/Trail Marker 2.png" color="33ccff"/>
+        <Trail type="leag.cia" trailData="Data/SotO/Comrades in Arms 10.trl" texture="Data/Images/Trails/Trail Marker 2.png" color="33ccff"/>
+        <Trail type="leag.cia" trailData="Data/SotO/Comrades in Arms 11.trl" texture="Data/Images/Trails/Trail Marker 2.png" color="33ccff"/>
+        <Trail type="leag.cia.20" trailData="Data/SotO/Comrades in Arms 12.trl" texture="Data/Images/Trails/Trail Marker 2.png" color="33ccff"/>
+        <POI MapID="1517" xpos="675.259" ypos="370.659" zpos="582.171" type="leag.cia.2" GUID="zozop0sgckafdsiBZHepBQ=="/>
+        <POI MapID="1517" xpos="-610.171" ypos="338.986" zpos="-678.931" type="leag.cia.3" GUID="TtQC/lAtmU+vlm6Ax11EiA=="/>
+        <POI MapID="1517" xpos="194.548" ypos="648.193" zpos="55.7102" type="leag.cia.4" GUID="eB4q9VLOAEKRKpqzs9vCVQ=="/>
+        <POI MapID="1510" xpos="-752.588" ypos="594.98" zpos="-395.474" type="leag.cia.5" GUID="LFdLsQpUiESNkiN1LmpbOg=="/>
+        <POI MapID="1510" xpos="176.646" ypos="581.647" zpos="211.603" type="leag.cia.6" GUID="Q98E9ot3XE+S/beu99j49w=="/>
+        <POI MapID="1517" xpos="-449.427" ypos="501.806" zpos="329.69" type="leag.cia.7" GUID="SLiq6LKQQke5dmOCGeQI/g=="/>
+        <POI MapID="1517" xpos="-123.834" ypos="467.306" zpos="365.756" type="leag.cia.8" GUID="zjmivSPBaUuCLkxd2W/zhg=="/>
+        <POI MapID="1517" xpos="-203.402" ypos="464.074" zpos="802.128" type="leag.cia.9" GUID="Caa/IeGaiEuV4PWJURJ94A=="/>
+        <POI MapID="1517" xpos="-443.973" ypos="207.265" zpos="-370.859" type="leag.cia.10" GUID="W1hADiH5FUq8J1L13e/EuA=="/>
+        <POI MapID="1517" xpos="-659.944" ypos="446.034" zpos="327.65" type="leag.cia.11" GUID="7yfbsb/LQEmrWrGc2x3jTA=="/>
+        <POI MapID="1517" xpos="30.4271" ypos="273.446" zpos="-575.831" type="leag.cia.12" GUID="45JQLQtSyUqV/AB5R7O3zg=="/>
+        <POI MapID="24" xpos="-75.4899" ypos="6.13273" zpos="-522.636" type="leag.cia.13" GUID="sQ1L4ieAIEWDdGhJ9hYYeA=="/>
+        <POI MapID="1517" xpos="483.723" ypos="274.135" zpos="-72.8349" type="leag.cia.14" GUID="Cq5LSx8bZU+AzNhTrg2ERQ==" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="128"/>
+        <POI MapID="1517" xpos="645.996" ypos="275.694" zpos="-573.143" type="leag.cia.15" GUID="pcqG6/N5FUuj3O7SSREqHg=="/>
+        <POI MapID="1517" xpos="-629.623" ypos="503.979" zpos="-125.749" type="leag.cia.16" GUID="3SkGlrbYTUSB7f5oBdL3rA=="/>
+        <POI MapID="1517" xpos="39.0676" ypos="677.24" zpos="298.885" type="leag.cia.17" GUID="STy0wP9rY0qVpWLwtccGHw==" iconFile="Data/Images/Icons/Blank.png"/>
+        <POI MapID="1517" xpos="238.836" ypos="379.655" zpos="631.185" type="leag.cia.18" GUID="GqjxMP8NekqbjMm6BbipSA=="/>
+        <POI MapID="1517" xpos="187.587" ypos="373.743" zpos="662.311" type="leag.cia.18" GUID="IpvDIVaigUe09jcAGuRY/w==" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="128"/>
+
+        <!-- Consternation with Conri -->
+        <Trail type="leag.cwc" trailData="Data/SotO/Consternation with Conri.trl" color="ccff99"/>
+        <POI MapID="1509" xpos="47.3076" ypos="293.702" zpos="-65.4985" type="leag.cwc" GUID="kCZpxQHAkkGwpcJTV2GbDg==" iconFile="Data/Images/Emote - Upset.png" fadeNear="300" fadeFar="1200"/>
         
         <!-- Cruising Amnytas: Balance to Bastionmere -->
         <Trail type="leag.cabb" trailData="Data/SotO/To Cruising Amnytas - Balance to Bastionmere.trl" texture="Data/Images/Trails/Trail Marker 2 Dark.png" color="ffcc00"/>
@@ -136,6 +177,9 @@
 		  <POI MapID="1517" xpos="513.111" ypos="379.655" zpos="405.622" type="leag.fff.1" GUID="gfG4YdXvjkGt4RJkBMsnDQ=="/>
 		  <POI MapID="1517" xpos="498.236" ypos="336.026" zpos="192.434" type="leag.fff.20" GUID="/7w/oF9/pE66Hf94ZzjERQ=="/>
 		  <POI MapID="1517" xpos="49.3833" ypos="709.235" zpos="-114.624" type="leag.fff.21" GUID="aPl/eDC3jkK/QgETFySiEA=="/>
+        
+        <!-- Flashing into Focus -->
+        <Trail type="leag.fif" trailData="Data/SotO/Flashing into Focus.trl" color="33ccff"/>
         
         <!-- For a Rainy Day -->
         <POI MapID="1517" xpos="-85.6818" ypos="270.301" zpos="-422.36" type="leag.fard.start" GUID="0nzjJciMV0O4fBTP6ziOaA=="/>
@@ -252,10 +296,13 @@
         <POI MapID="1526" xpos="920.775" ypos="287.323" zpos="-266.531" type="leag.ncu.10" GUID="ULv6duOnpk6GRw1ijea3ew==" iconFile="Data/Images/No Chest Unopened.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
         
         <!-- Please Take a Seat -->
-        <POI MapID="1526" xpos="-329.784" ypos="189.999" zpos="-8.78649" type="ptas" GUID="Ng3YJZxPGkOmxbGOVb4X0Q==" iconFile="Data/Images/Emote - Sit.png" fadeNear="3000" fadeFar="6000"/>
+        <POI MapID="1526" xpos="-329.784" ypos="189.999" zpos="-8.78649" type="leag.ptas" GUID="Ng3YJZxPGkOmxbGOVb4X0Q==" iconFile="Data/Images/Emote - Sit.png" fadeNear="3000" fadeFar="6000"/>
         
         <!-- Quality Family Entertainment -->
-        <POI MapID="1526" xpos="-314.304" ypos="183.129" zpos="78.0518" type="qfe" GUID="r8WJgrcB6UaeeKP/chOK0w==" iconFile="Data/Images/Emote - Cheer.png" fadeNear="3000" fadeFar="6000"/>
+        <POI MapID="1526" xpos="-314.304" ypos="183.129" zpos="78.0518" type="leag.qfe" GUID="r8WJgrcB6UaeeKP/chOK0w==" iconFile="Data/Images/Emote - Cheer.png" fadeNear="3000" fadeFar="6000"/>
+        
+        <!-- Salute the Shopkeeper -->
+        <POI MapID="1509" xpos="-81.1352" ypos="294.118" zpos="-43.5532" type="leag.sts" GUID="/HNy0EOsh0SP1URsRaPP8w==" iconFile="Data/Images/Emote - Salute.png" fadeNear="300" fadeFar="1200"/>
         
         <!-- Secrets Obscured -->
         <Trail type="leag.secrets.1" trailData="Data/SotO/Secrets Obscured 1.trl" texture="Data/Images/Trails/Trail Marker 1 Shaded Dark.png" color="80dfff"/>
@@ -268,17 +315,48 @@
         <POI MapID="19" xpos="925.35" ypos="109.863" zpos="532.243" type="leag.secrets.wp" GUID="hch6LxsYMEKS9xE0i1vm3Q==" copy="[&BB8OAAA=]" copy-message="Tower Courtyard Waypoint, The Wizard's Tower"/>
         
         <!-- Secrets Unobscured -->
-        <Trail type="leag.secrets2.1" trailData="Data/SotO/Secrets Unobscured 1a.trl" texture="Data/Images/Trails/Trail Marker 2 Dark.png" color="993399"/>
-        <Trail type="leag.secrets2.1" trailData="Data/SotO/Secrets Unobscured 1b.trl" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="993399"/>
-        <Trail type="leag.secrets2.2" trailData="Data/SotO/Secrets Unobscured 2a.trl" texture="Data/Images/Trails/Trail Marker 2 Dark.png" color="993399"/>
-        <Trail type="leag.secrets2.2" trailData="Data/SotO/Secrets Unobscured 2b.trl" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="993399"/>
-        <Trail type="leag.secrets2.3" trailData="Data/SotO/Secrets Unobscured 3a.trl" texture="Data/Images/Trails/Trail Marker 2 Dark.png" color="993399"/>
-        <Trail type="leag.secrets2.3" trailData="Data/SotO/Secrets Unobscured 3b.trl" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="993399"/>
-        <POI MapID="1509" xpos="-238.821" ypos="288.391" zpos="-128.633" type="leag.secrets2.1" GUID="Fug11zYNe0eWJSDITaZ2vA==" iconFile="Data/Images/Veil of Visions.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-        <POI MapID="1509" xpos="-93.3375" ypos="360.589" zpos="-133.492" type="leag.secrets2.2" GUID="ugXjkfTROE+eITDL7f7orQ==" iconFile="Data/Images/Veil of Visions.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-        <POI MapID="1509" xpos="246.279" ypos="310.247" zpos="-220.397" type="leag.secrets2.3" GUID="hny+y+D6oUifqaMyB8Ym5w==" iconFile="Data/Images/Veil of Visions.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+        <Trail type="leag.secrets2" trailData="Data/SotO/Secrets Unobscured 1a.trl" texture="Data/Images/Trails/Trail Marker 2 Dark.png" color="993399"/>
+        <Trail type="leag.secrets2" trailData="Data/SotO/Secrets Unobscured 1b.trl" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="993399"/>
+        <Trail type="leag.secrets2" trailData="Data/SotO/Secrets Unobscured 2a.trl" texture="Data/Images/Trails/Trail Marker 2 Dark.png" color="993399"/>
+        <Trail type="leag.secrets2" trailData="Data/SotO/Secrets Unobscured 2b.trl" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="993399"/>
+        <Trail type="leag.secrets2" trailData="Data/SotO/Secrets Unobscured 3a.trl" texture="Data/Images/Trails/Trail Marker 2 Dark.png" color="993399"/>
+        <Trail type="leag.secrets2" trailData="Data/SotO/Secrets Unobscured 3b.trl" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="993399"/>
+        <POI MapID="1509" xpos="-238.821" ypos="288.391" zpos="-128.633" type="leag.secrets2" GUID="Fug11zYNe0eWJSDITaZ2vA==" iconFile="Data/Images/Veil of Visions.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+        <POI MapID="1509" xpos="-93.3375" ypos="360.589" zpos="-133.492" type="leag.secrets2" GUID="ugXjkfTROE+eITDL7f7orQ==" iconFile="Data/Images/Veil of Visions.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+        <POI MapID="1509" xpos="246.279" ypos="310.247" zpos="-220.397" type="leag.secrets2" GUID="hny+y+D6oUifqaMyB8Ym5w==" iconFile="Data/Images/Veil of Visions.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
         
         <!-- Sorrow's Lost -->
+        <Trail type="leag.sorrows.1" trailData="Data/SotO/Sorrow's Lost 1.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.2" trailData="Data/SotO/Sorrow's Lost 2.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.3" trailData="Data/SotO/Sorrow's Lost 3.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.4" trailData="Data/SotO/Sorrow's Lost 4.trl" color="9933ff"/>
+        <POI MapID="1517" xpos="-648.149" ypos="503.953" zpos="-119.893" type="leag.sorrows.4" GUID="QoWWlRILzU29YYXpEtofuA==" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+        <Trail type="leag.sorrows.5" trailData="Data/SotO/Sorrow's Lost 5.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.6" trailData="Data/SotO/Sorrow's Lost 6.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.7" trailData="Data/SotO/Sorrow's Lost 7.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.9" trailData="Data/SotO/Sorrow's Lost 7.trl" color="9933ff"/>
+        <POI MapID="1517" xpos="-21.6615" ypos="221.676" zpos="-597.512" type="leag.sorrows.9" GUID="AaSs5nSZcEeFA50bDCJ5Qw==" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+        <Trail type="leag.sorrows.10" trailData="Data/SotO/Sorrow's Lost 10.trl" color="9933ff"/>
+        <POI MapID="1517" xpos="-604.925" ypos="611.702" zpos="181.738" type="leag.sorrows.10" GUID="YSwdWs9eVUmo9twNrXcHDQ==" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+        <Trail type="leag.sorrows.11" trailData="Data/SotO/Sorrow's Lost 11.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.11" trailData="Data/SotO/Sorrow's Lost 11 Instance.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.12" trailData="Data/SotO/Sorrow's Lost 12.trl" color="9933ff"/>
+        <POI MapID="1510" xpos="-972.135" ypos="544.404" zpos="186.833" type="leag.sorrows.12" GUID="pTr+FSr54UusZ64uWoDogg==" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+        <Trail type="leag.sorrows.13" trailData="Data/SotO/Sorrow's Lost 13.trl" color="9933ff"/>
+        <POI MapID="1517" xpos="238.758" ypos="379.655" zpos="631.982" type="leag.sorrows.13" GUID="jRBt+ZN0XkG5r1R81hmC5g==" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+        <Trail type="leag.sorrows.14" trailData="Data/SotO/Sorrow's Lost 14.trl" color="9933ff"/>
+        <POI MapID="1510" xpos="813.014" ypos="208.782" zpos="-298.291" type="leag.sorrows.14" GUID="GNB5OYP4CkOUJBu6ZWIKEw==" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+        <Trail type="leag.sorrows.15" trailData="Data/SotO/Sorrow's Lost 15.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.16" trailData="Data/SotO/Sorrow's Lost 16.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.17" trailData="Data/SotO/Sorrow's Lost 17.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.18" trailData="Data/SotO/Sorrow's Lost 18.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.19" trailData="Data/SotO/Sorrow's Lost 19.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.20" trailData="Data/SotO/Sorrow's Lost 20.trl" color="9933ff" miniMapVisibility="0"/>        
+        <Trail type="leag.sorrows.21" trailData="Data/SotO/Sorrow's Lost 21.trl" color="9933ff"/>
+        <POI MapID="1517" xpos="634.264" ypos="273.051" zpos="-100.327" type="leag.sorrows.21" GUID="zExEtNWt4E6cCKZYc2Mb7g==" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+        <Trail type="leag.sorrows.22" trailData="Data/SotO/Sorrow's Lost 22.trl" color="9933ff"/>
+        <POI MapID="1517" xpos="-154.639" ypos="395.069" zpos="544.583" type="leag.sorrows.22" GUID="nkJIsB60UUax73CyoDY8+w==" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+        <POI MapID="1517" xpos="39.499" ypos="806.729" zpos="41.0004" type="leag.sorrows.23" GUID="r4/Fw3nXi0KS+3nxxsUHiQ==" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
         
         <!-- Shrine Finder -->
         <POI MapID="1526" xpos="297.77" ypos="186.293" zpos="161.827" type="leag.shrine.start" GUID="ut6sL0WkbECWy+fg6X0vPQ=="/>
@@ -321,6 +399,9 @@
         <Trail type="leag.twl.13" trailData="Data/SotO/The Waylit Lantern 13.trl"/>
         <Trail type="leag.twl.14" trailData="Data/SotO/The Waylit Lantern 14.1trl"/>
         
+        <!-- Thornsprout Bloom! -->
+        <Trail type="leag.tb" trailData="Data/SotO/Thornsprout Boom!.trl" color="339933"/>
+        
         <!-- Tyrian Taste Testing -->
         <Trail type="leag.ttt.1" trailData="Data/SotO/Tyrian Taste Testing 1.trl"/>
         <Trail type="leag.ttt.2" trailData="Data/SotO/Tyrian Taste Testing 2.trl"/>
@@ -333,6 +414,7 @@
         <Trail type="leag.ttt.9" trailData="Data/SotO/Tyrian Taste Testing 9.trl"/>
         <Trail type="leag.ttt.10" trailData="Data/SotO/Tyrian Taste Testing 10.trl"/>
         <Trail type="leag.ttt.11" trailData="Data/SotO/Tyrian Taste Testing 11.trl"/>
+        
         <!-- Well-Versed -->
         <POI MapID="1526" xpos="683.604" ypos="215.504" zpos="-435.41" type="leag.versed.start" GUID="q/8XuSZELEOGCAZynKdUoA=="/>
         <Trail type="leag.versed.trail.1" trailData="Data/SotO/Well-Versed 1.trl" color="c2c2a3"/>
@@ -347,6 +429,7 @@
 		  <POI MapID="1526" xpos="216.949" ypos="236.813" zpos="-501.821" type="leag.versed.7" GUID="nhtHU7MEO0KP+YGI7HYcyQ==" iconFile="Data/Images/Notes.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
         <POI MapID="1526" xpos="955.011" ypos="252.807" zpos="44.9885" type="leag.versed.8" GUID="DjIT/+Z+4EeskrAdMd5zTQ==" iconFile="Data/Images/Notes.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
         <POI MapID="1526" xpos="898.677" ypos="185.413" zpos="61.5468" type="leag.versed.9" GUID="wtUy+HLgjUGkaXsg+hGHBw==" iconFile="Data/Images/Notes.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+        
         <!-- What Was Before -->
         <POI MapID="1526" xpos="323.962" ypos="186.293" zpos="157.45" type="leag.tecla.start" GUID="JWO98e0rJk6xN7hFL7BKTg=="/>
         <Trail type="leag.tecla.1" trailData="Data/SotO/What Was Before 1.trl" color="ff3c18"/>
@@ -369,9 +452,14 @@
         <Trail type="leag.tecla.10" trailData="Data/SotO/What Was Before 10.trl" color="ff3c18"/>
         <POI MapID="1526" xpos="935.449" ypos="176.74" zpos="273.418" type="leag.tecla.icon" GUID="OR+To4D+4EWM8I5RMnDCbg=="/>
         <POI MapID="1526" xpos="120.121" ypos="242.741" zpos="463.594" type="leag.tecla.11.wp" GUID="xQv8QPAUV0i/LutE5ExXYQ==" copy="[&BHYOAAA=]" copy-message="Return to Tecla the Venerable at the forward bivouac"/>
+        
         <!-- Wrong Time, Wrong Place -->
         <POI MapID="1517" xpos="39.7382" ypos="805.888" zpos="130.272" type="wtwp" GUID="Y6+Wd7hbEEKnqvhJUG63wg==" iconFile="Data/Images/Icons/Defeated.png" minSize="32" mapDisplaySize="48" fadeNear="2000" fadeFar="4000"/>
-		  <!-- Zojja's Journal -->
+		  
+        <!-- You Buy -->
+        <Trail type="leag.yb" trailData="Data/SotO/You Buy.trl" color="999999"/>
+        
+        <!-- Zojja's Journal -->
 		  <POI MapID="1509" xpos="42.5358" ypos="293.638" zpos="13.1928" type="leag.zojja.1" GUID="00VxFgJLNU6NVmD0jBSQjQ==" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
         <Trail type="leag.zojja.1" trailData="Data/SotO/Zojja's Journal 1.trl" color="33ccff"/>
         <Trail type="leag.zojja.21" trailData="Data/SotO/Zojja's Journal 2.trl" color="33ccff" texture="Data/Images/Trails/Trail Marker 2.png"/>
