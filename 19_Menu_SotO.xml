@@ -2,6 +2,13 @@
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
         <MarkerCategory name="soto" IsSeparator="1" DisplayName="  | SECRETS OF THE OBSCURE"/>
         
+        <MarkerCategory name="apk" DisplayName="A Promise Kept [H] (Do Comrades in Arms First) ">
+            <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
+            <MarkerCategory name="basil" DisplayName="Basil"/>
+            <MarkerCategory name="la" IsSeparator="1" DisplayName="  | LION'S ARCH"/>
+            <MarkerCategory name="aellin" DisplayName="Aellin"/>
+        </MarkerCategory>
+        
         <MarkerCategory name="war" DisplayName="A Record of War" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png">
             
             <MarkerCategory name="balance" IsSeparator="1" DisplayName="  : Balance"/>
@@ -62,28 +69,35 @@
         <MarkerCategory name="caltit" DisplayName="Cruising Amnytas: Lyhr's Tower to Isgarren's Tower"/>
         <MarkerCategory name="cats" DisplayName="Cruising Amnytas: Natural to Strength"/>
         
-        <MarkerCategory name="cia" DisplayName="Comrades in Arms" texture="Data/Images/Trails/Trail Marker 1.png" color="33ccff">
-            <MarkerCategory name="1" DisplayName="1. Talk to Hortensia in the Wizard's Tower Infirmary."/>
-            <MarkerCategory name="2" DisplayName="2. Last reported patrolling the thicket at the Bastion of Strength in Amnytas."/>
-            <MarkerCategory name="3" DisplayName="3. Last seen studying the clouds near the Bastion of the Natural in Amnytas."/>
-            <MarkerCategory name="4" DisplayName="4. Last reported defending the nexus ring at the Bastion of the Celestial in Amnytas."/>
-            <MarkerCategory name="5" DisplayName="5. Last reported investigating Kryptis activity within the Shattered Atoll in Skywatch Archipelago."/>
-            <MarkerCategory name="6" DisplayName="6. Last seen investigating Kryptis activity within the Soaring Aerie in Skywatch Archipelago."/>
-            <MarkerCategory name="7" DisplayName="7. Last seen researching relics at the Bastion of the Obscure in Amnytas."/>
-            <MarkerCategory name="8" DisplayName="8. Last seen combing Thaumaturgy Park at the Bastion of Balance in Amnytas."/>
-            <MarkerCategory name="9" DisplayName="9. Last seen patrolling the outskirts of the Medical Plaza at the Bastion of Balance in Amnytas."/>
-            <MarkerCategory name="10" DisplayName="10. Last reported seeking a mere hint of Kryptis in the Bastion of the Natural in Amnytas."/>
-            <MarkerCategory name="11" DisplayName="11. Last seen looking into Kryptis behavior on the outskirts of the Bastion of the Obscure in Amnytas."/>
-            <MarkerCategory name="12" DisplayName="12. Last seen being tended to at the infirmary in the Bastion of the Natural in Amnytas."/>
-            <MarkerCategory name="13" DisplayName="13. Last reported looking into Kryptis rift activity in Gendarran Fields."/>
-            <MarkerCategory name="14" DisplayName="14. Last reported hunting down stolen relics in the Bastion of Knowledge."/>
-            <MarkerCategory name="15" DisplayName="15. Last reported checking in on the cellar in the Bastion of Knowledge."/>
-            <MarkerCategory name="16" DisplayName="16. Last seen assisting researchers in the Bastion of the Obscure."/>
-            <MarkerCategory name="17" DisplayName="17. Last seen investigating Kryptis influence on local wildlife at the Bastion of the Celestial in Amnytas."/>
-            <MarkerCategory name="18" DisplayName="18. Last reported defending the ritual space at the Bastion of Strength in Amnytas."/>
+        <MarkerCategory name="cia" DisplayName="Comrades in Arms [H] " iconFile="Data/Images/Circle.png" behavior="3" triggerRange="5" autoTrigger="1" inGameVisibility="1">
+            <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
+            <MarkerCategory name="1" DisplayName="1. Meeting Hortensia"/>
+            <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
+            <MarkerCategory name="2" DisplayName="2. Abelin Favre 543 Bloom X011 Celestial"/>
+            <MarkerCategory name="3" DisplayName="3. Olava Skumasdottir 403 Bloom XXX0 Obscure"/>
+            <MarkerCategory name="4" DisplayName="4. Daytona Jaque 982 Bloom 0XX1 Unsworn"/>
+            <MarkerCategory name="7" DisplayName="7. Fulla 733 Tide VIXV Unsworn"/>
+            <MarkerCategory name="8" DisplayName="8. Yexxi the Stern 092 Tide 00XI Knowledge"/>
+            <MarkerCategory name="9" DisplayName="9. Mildred Goswin 403 Frost 0IIX Unsworn"/>
+            <MarkerCategory name="10" DisplayName="10. Vaulz Baelwalker 576 Frost 0X0I Knowledge"/>
+            <MarkerCategory name="11" DisplayName="11. Basil 329 Tide II0X Celestial"/>
+            <MarkerCategory name="12" DisplayName="12. Ivane Saberlin 809 Frost X00V Balance"/>
+            <MarkerCategory name="14" DisplayName="14. Silque 109 Tide 00XX Natural"/>
+            <MarkerCategory name="15" DisplayName="15. Celiix the Forgiven 620 Dusk IVXX Strength"/>
+            <MarkerCategory name="16" DisplayName="16. Gideon Hawthorn II 003 Tide IIX0 Natural"/>
+            <MarkerCategory name="17" DisplayName="17. Docia Greywind 092 Bloom XXII Balance"/>
+            <MarkerCategory name="18" DisplayName="18. 'Just Tillie' 032 Dusk XIIV Obscure"/>
+            <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>
+            <MarkerCategory name="5" DisplayName="5. Cethis 102 Tide X001 Strength"/>
+            <MarkerCategory name="6" DisplayName="6. Percy Gammons 892 Dusk XIVV Unsworn"/>
+            <MarkerCategory name="tyria" IsSeparator="1" DisplayName="  | TYRIA"/>
+            <MarkerCategory name="13" DisplayName="13. Arina 892 Snow 0XV1 Obscure"/>
+            <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
             <MarkerCategory name="19" DisplayName="19. Return to Hortensia at the Wizard's Tower Infirmary."/>
-            <MarkerCategory name="20" DisplayName="20. Attend the memorial in the Wizard's Tower."/>
+            <MarkerCategory name="20" DisplayName="20. In Memoriam"/>
         </MarkerCategory>
+        
+        <MarkerCategory name="cwc" DisplayName="Consternation with Conri [H] "/>
         
         <MarkerCategory name="fff" DisplayName="Fantastic Flying Foxes" texture="Data/Images/Trails/Trail Marker 2.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -124,7 +138,7 @@
             <MarkerCategory name="24" DisplayName="24. Bastion of the Obscure: Loves jumping on platforms." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
             <MarkerCategory name="25" DisplayName="25. Bastion of Strength: Racing to watch ritual performances." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
         </MarkerCategory>
-        
+
         <MarkerCategory name="fard" DisplayName="For a Rainy Day" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
@@ -137,6 +151,8 @@
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
         </MarkerCategory>
+        
+        <MarkerCategory name="fif" DisplayName="Flashing into Focus [H] "/>
         
         <MarkerCategory name="frode" DisplayName="Frode's Journal" texture="Data/Images/Trails/Trail Marker 1 Dark.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -206,26 +222,27 @@
         <MarkerCategory name="kosmas" DisplayName="Missing Brood" texture="Data/Images/Trails/Trail Marker 1 Shaded.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="nayos" IsSeparator="1" DisplayName="  | INNER NAYOS"/>
-            <MarkerCategory name="1" DisplayName="1. Hint: Speak with Kosmas near the Forward Bivouac Waypoint."/>
-            <MarkerCategory name="2" DisplayName="2. Hint: Close to coliseum, near house! Part Collapsed, trapped under rocks!"/>
-            <MarkerCategory name="3" DisplayName="3. Hint: Find the Kryptis with explosives in the Isolated Grasslands"/>
-            <MarkerCategory name="4" DisplayName="4. Hint: Near north extractor, saw creek. Rockslide. Trapped!"/>
-            <MarkerCategory name="5" DisplayName="5. Hint: Find the Kryptis with explosives in the Isolated Grasslands, and use them to free Syphus."/>
+            <MarkerCategory name="1" DisplayName="1. Speak with Kosmas near the Forward Bivouac Waypoint."/>
+            <MarkerCategory name="2" DisplayName="2. Close to coliseum, near house! Part Collapsed, trapped under rocks!"/>
+            <MarkerCategory name="3" DisplayName="3. Find the Kryptis with explosives in the Isolated Grasslands"/>
+            <MarkerCategory name="4" DisplayName="4. Near north extractor, saw creek. Rockslide. Trapped!"/>
+            <MarkerCategory name="5" DisplayName="5. Find the Kryptis with explosives in the Isolated Grasslands, and use them to free Syphus."/>
             <MarkerCategory name="skywatch" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>            
-            <MarkerCategory name="6" DisplayName="6. Hint: Pulled through rift, far away. Sand, fire...windmill! On floating rock!"/>
-            <MarkerCategory name="7" DisplayName="7. Hint: Find Lali's missing toy near a sand ''waterfall'' and bring it to her."/>
-            <MarkerCategory name="8" DisplayName="8. Hint: Through rift, again far away. Big leaves. Scary monsters-sharp, sharp teeth!"/>
-            <MarkerCategory name="9" DisplayName="9. Hint: Defeat a Saurian and bring its tooth to Cadmus."/>
+            <MarkerCategory name="6" DisplayName="6. Pulled through rift, far away. Sand, fire...windmill! On floating rock!"/>
+            <MarkerCategory name="7" DisplayName="7. Find Lali's missing toy near a sand ''waterfall'' and bring it to her."/>
+            <MarkerCategory name="8" DisplayName="8. Through rift, again far away. Big leaves. Scary monsters-sharp, sharp teeth!"/>
+            <MarkerCategory name="9" DisplayName="9. Defeat a Saurian and bring its tooth to Cadmus."/>
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
-            <MarkerCategory name="10" DisplayName="10. Hint: Not Nayos! Big tower; wizardy creatures. Saw small, fuzzy beasts. Broodling played with!"/>
-            <MarkerCategory name="11" DisplayName="11. Hint: Find a toy for the cats in the Wizard's Tower and return to Nemea."/>
+            <MarkerCategory name="10" DisplayName="10. Not Nayos! Big tower; wizardy creatures. Saw small, fuzzy beasts. Broodling played with!"/>
+            <MarkerCategory name="11" DisplayName="11. Find a toy for the cats in the Wizard's Tower and return to Nemea."/>
             <MarkerCategory name="amnytas" IsSeparator="1" DisplayName="  | AMNYTAS"/>
-            <MarkerCategory name="12" DisplayName="12. Hint: Far away. High, high above ground. Grassy. Hard to see-obscure! Ate 'barries,' looked sick!"/>
-            <MarkerCategory name="13" DisplayName="13. Hint: Find the correct plant at the Bastion of the Natural, and return to help cure Chloris's stomachache."/>
-            <MarkerCategory name="14" DisplayName="14. Hint: Fell into rift-lots of nature, then POOF! Grew springy legs! Furry ears? Seemed confused. Ward saw from above plant house by small tower."/>
-            <MarkerCategory name="15" DisplayName="15. Hint: After speaking to the Ward member, find the broodling in a forested area at the Bastion of the Natural and remind them who they are."/>
-            <MarkerCategory name="16" DisplayName="16. Hint: Return to Kosmas."/>
+            <MarkerCategory name="12" DisplayName="12. Far away. High, high above ground. Grassy. Hard to see-obscure! Ate 'barries,' looked sick!"/>
+            <MarkerCategory name="13" DisplayName="13. Find the correct plant at the Bastion of the Natural, and return to help cure Chloris's stomachache."/>
+            <MarkerCategory name="14" DisplayName="14. Fell into rift-lots of nature, then POOF! Grew springy legs! Furry ears? Seemed confused. Ward saw from above plant house by small tower."/>
+            <MarkerCategory name="15" DisplayName="15. After speaking to the Ward member, find the broodling in a forested area at the Bastion of the Natural and remind them who they are."/>
+            <MarkerCategory name="16" DisplayName="16. Return to Kosmas."/>
         </MarkerCategory>
+        
         <MarkerCategory name="ncu" DisplayName="No Chest Unopened" texture="Data/Images/Trails/Trail Marker 1 Shaded.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="trail" DisplayName="Trail Segment" color="e6b800">
@@ -244,8 +261,13 @@
             <MarkerCategory name="9" DisplayName="9. Mere of Everlasting Night: How did the Kryptis build such structures?"/>
             <MarkerCategory name="10" DisplayName="10. Hollow of the Covetous: Probably shouldn't pet the skyscales."/>
         </MarkerCategory>
+        
         <MarkerCategory name="ptas" DisplayName="Please Take A Seat" minSize="64"/>
+        
         <MarkerCategory name="qfe" DisplayName="Quality Family Entertainment" minSize="64"/>
+        
+        <MarkerCategory name="sts" DisplayName="Salute the Shopkeeper [H] "/>
+        
         <MarkerCategory name="shrine" DisplayName="Shrine Finder" texture="Data/Images/Trails/Trail Marker 1.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="inns" IsSeparator="1" DisplayName="  | INNER NAYOS - Nyedra Surrounds"/>
@@ -320,45 +342,37 @@
             <MarkerCategory name="9" DisplayName="9. Completed List of Artifacts. Return to Isgarren."/>
         </MarkerCategory>
         
-        <MarkerCategory name="secrets2" DisplayName="Secrets Unobscured">
-            <MarkerCategory name="1" DisplayName="One"/>
-            <MarkerCategory name="2" DisplayName="Two"/>
-            <MarkerCategory name="3" DisplayName="Three"/>
-        </MarkerCategory>
+        <MarkerCategory name="secrets2" DisplayName="Secrets Unobscured [H] "/>
         
-        <MarkerCategory name="sorrows" DisplayName="Sorrow's Lost" texture="Data/Images/Trails/Trail Marker 1.png" color="33ccff">
-            
+        <MarkerCategory name="sorrows" DisplayName="Sorrow's Lost [H] ">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
-            <MarkerCategory name="3" DisplayName="3. Intellect, willpower, and fortitude are the hallmarks of the Forager; and if one needs to broaden their intellect, one must go to where it is stored."/>
-            <MarkerCategory name="4" DisplayName="4. To learn the answers of the obscure, one must ask a thousand questions. Search the halls of a place where you may seek those answers. Or, perhaps, even more questions."/>
-            <MarkerCategory name="6" DisplayName="6. The mirror looks at himself and sees benevolence, but under that veil is something more modest. Insecure. The world around him swirls awake, but his has remained stagnant."/>
-            <MarkerCategory name="9" DisplayName="9. Banished from their world and cast adrift, his loving soul and webbed hands turned to nurture his new allies."/>
-            <MarkerCategory name="10" DisplayName="10. Cause and effect, self-control and tolerance. Seek out a place where the veil runs thin and concentrate on the voices in your head."/>
-            <MarkerCategory name="13" DisplayName="13. Magic can be used to heal, transmute, and inspire, but for this bastion, they focus on battle. Learn the poses and complete the spell."/>
-            <MarkerCategory name="16" DisplayName="16. Patience and moderation share a tune with the natural rhythm of the world. This card can be found where those who study nature reside."/>
-            <MarkerCategory name="19" DisplayName="19. ope for the future, inspiration to move forward. In order to reach the cosmos, the immortal one must go as high as possible."/>
-            <MarkerCategory name="21" DisplayName="21. Positivity, optimism, an inquisitive soul; they know more than anyone but need a guiding hand. Help her put the pieces back where they belong."/>
-            <MarkerCategory name="22" DisplayName="22. Clarity and composure, the young dragon faces many challenges that weigh on them. But this mind is spilt in two. Help him regain balance."/>
-            <MarkerCategory name="23" DisplayName="23. The eye opens to a new world with each blink, a mystery long hidden among the clouds. But a darkness is slowly blotting out the light... Push it back by fighting the beast."/>
-            
+            <MarkerCategory name="3" DisplayName="3. I: The Forager"/>
+            <MarkerCategory name="4" DisplayName="4. II: The Minister Illuminate"/>
+            <MarkerCategory name="6" DisplayName="6. IV: The Mirror"/>
+            <MarkerCategory name="9" DisplayName="9. VII: The Ballad"/>
+            <MarkerCategory name="10" DisplayName="10. VIII: Forbearance"/>
+            <MarkerCategory name="13" DisplayName="13. XI: The Inevitable"/>
+            <MarkerCategory name="16" DisplayName="16. XIV: Patience"/>
+            <MarkerCategory name="19" DisplayName="19. XVII: The Cosmos"/>
+            <MarkerCategory name="21" DisplayName="21. XIX: Sunrise"/>
+            <MarkerCategory name="22" DisplayName="22. XX: The Young Dragon"/>
+            <MarkerCategory name="23" DisplayName="23. XXI: The Eye [Map Meta]"/>
             <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>
-            <MarkerCategory name="2" DisplayName="2. Hint: New beginnings, the convoy enters a new world blindly. Tread the first path walked and one may find some clues."/>
-            <MarkerCategory name="7" DisplayName="7. The rock we all stand on, this unshakable driving force... It will take a special kind of soul to guide us forward. A warden, protecting his flock."/>
-            <MarkerCategory name="8" DisplayName="8. The union shattered, the spool coming undone, if the enemy is allowed to run amok amongst your lands, then someone must lead the counterattack."/>
-            <MarkerCategory name="12" DisplayName="12. Questions and answers, the everlasting cycle. If only one could forge a key to all the answers..."/>
-            <MarkerCategory name="14" DisplayName="14. Trapped within a certain framework, the mind never slumbers. Help yourself by helping the one who cannot die."/>
-            
+            <MarkerCategory name="2" DisplayName="2. The Convoy"/>
+            <MarkerCategory name="7" DisplayName="7. V: The Weeping Mountain"/>
+            <MarkerCategory name="8" DisplayName="8. VI: The Broken Mortar"/>
+            <MarkerCategory name="12" DisplayName="12. X: Satchel of Fate [Map Meta]"/>
+            <MarkerCategory name="14" DisplayName="14. XII: The Endless"/>
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
             <MarkerCategory name="1" DisplayName="1. Dagda needs to speak with you in the Wizard's Tower."/>
-            <MarkerCategory name="18" DisplayName="18. Chaos and destruction, the last bastion against the void. Every door holds more questions. Reach the top of the tower and unravel them yourself."/>
-            <MarkerCategory name="24" DisplayName="24. Now that you have found every card, return to Dagda in the Wizard's Tower."/>
-            
-            <MarkerCategory name="am" IsSeparator="1" DisplayName="  | TYRIA"/>
-            <MarkerCategory name="5" DisplayName="5. Empathy, compassion, and nurturing nature; one must know sorrow to heal sorrow. One can almost picture an entire sea of lamentation out there... Somewhere."/>
-            <MarkerCategory name="11" DisplayName="11. The stag has fought long, lost much, and worked her craft where the ghost of their mentor dwelt."/>
-            <MarkerCategory name="15" DisplayName="15. The templar has lived century by century; she knows death and has dealt death. Reach for divinity and the secrets it holds."/>
-            <MarkerCategory name="17" DisplayName="17. Addiction, loss, determination... The one lost to the abyss; her father mourns. Perhaps a clue can be found at the scene of the tragedy."/>
-            <MarkerCategory name="20" DisplayName="20. Something hidden, the veil obscures, a language unspoken... In the darkness, she was born again."/>
+            <MarkerCategory name="18" DisplayName="18. XVI: The Tower of Secrets"/>
+            <MarkerCategory name="24" DisplayName="24. Return to Dagda in the Wizard's Tower."/>
+            <MarkerCategory name="tyria" IsSeparator="1" DisplayName="  | TYRIA"/>
+            <MarkerCategory name="5" DisplayName="5. III: The Mother Sovereign"/>
+            <MarkerCategory name="11" DisplayName="11. IX: The Stag"/>
+            <MarkerCategory name="15" DisplayName="15. XIII: The Templar"/>
+            <MarkerCategory name="17" DisplayName="17. XV: The Fiend"/>
+            <MarkerCategory name="20" DisplayName="20. XVIII: Twilight"/>
         </MarkerCategory>
         
         <MarkerCategory name="twl" DisplayName="The Waylit Lantern" texture="Data/Images/Trails/Trail Marker 1.png" color="33ccff">
@@ -383,6 +397,8 @@
             <MarkerCategory name="14" DisplayName="14. Return to Lyhr. "/>
         </MarkerCategory>
                 
+        <MarkerCategory name="tb" DisplayName="Thornsprout Boom! [H] "/>
+            
         <MarkerCategory name="ttt" DisplayName="Tyrian Taste Testing" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="33ccff">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="soto" IsSeparator="1" DisplayName="  | SECRETS OF THE OBSCURE"/>
@@ -444,52 +460,49 @@
             <MarkerCategory name="8" DisplayName="8. A perfect view of the southern extractor."/>
             <MarkerCategory name="9" DisplayName="9. In front of Heitor's Gate."/>
         </MarkerCategory>
+        
         <MarkerCategory name="wtwr" DisplayName="Wrong Time, Wrong Place"/>
-        <MarkerCategory name="zojja" DisplayName="Zojja's Journal" texture="Data/Images/Trails/Trail Marker 1.png">
+        
+        <MarkerCategory name="yb" DisplayName="You Buy [H] "/>
+        
+        <MarkerCategory name="zojja" DisplayName="Zojja's Journal [H] ">
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | WIZARD's TOWER"/>
             <MarkerCategory name="1" DisplayName="1. Speak to Zojja at the Wizard's Tower."/>
-            
             <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>
-            
             <MarkerCategory name="dg" IsSeparator="1" DisplayName="  : Devastated Garenhoff"/>
             <MarkerCategory name="21" DisplayName="1. Help the villagers in Devastated Garenhoff."/>
             <MarkerCategory name="22" DisplayName="2. Resting near docks."/>
             <MarkerCategory name="23" DisplayName="3. Where the Arcane Eye watches all."/>
             <MarkerCategory name="24" DisplayName="4. Where a proud tree stands vigilant."/>
-            
             <MarkerCategory name="sm" IsSeparator="1" DisplayName="  : Skyward Marches"/>
             <MarkerCategory name="31" DisplayName="1. Restore purpose to the Zaishen of Skyward Marches."/>
             <MarkerCategory name="32" DisplayName="2. At the ward's western camp."/>
             <MarkerCategory name="33" DisplayName="3. Where a cliff overlooks good and evil."/>
             <MarkerCategory name="34" DisplayName="4. Atop a village building caressed by the wind."/>
-            
             <MarkerCategory name="dl" IsSeparator="1" DisplayName="  : Droknar's Light"/>
             <MarkerCategory name="41" DisplayName="1. Defend Droknar's Light from the Kryptis invasion."/>
             <MarkerCategory name="42" DisplayName="2. Atop a table worn by winter's bite."/>
             <MarkerCategory name="43" DisplayName="3. Where prophecy was guided by flame."/>
             <MarkerCategory name="44" DisplayName="4. Near a forge adorned with weapons of old."/>
-            
             <MarkerCategory name="jmhz" IsSeparator="1" DisplayName="  : Jade Mech Habitation Zone 03"/>
             <MarkerCategory name="51" DisplayName="1. Help the Kestrels in Jade Mech Habitation Zone 03."/>
             <MarkerCategory name="52" DisplayName="2. At the western end of a bridge."/>
             <MarkerCategory name="53" DisplayName="3. At the camp overlooking the desert."/>
             <MarkerCategory name="54" DisplayName="4. In a village aquatic creatures call home."/>
-            
             <MarkerCategory name="pm" IsSeparator="1" DisplayName="  : Primal Maguuma"/>
             <MarkerCategory name="61" DisplayName="1. Help the Astral Ward in Primal Maguuma."/>
             <MarkerCategory name="62" DisplayName="2. Across the vine bridge accompanied by ruins."/>
             <MarkerCategory name="63" DisplayName="3. On a bridge broken by the wind."/>
             <MarkerCategory name="64" DisplayName="4. On a bridge between two sets of pylons."/>
-            
             <MarkerCategory name="rnp" IsSeparator="1" DisplayName="  : Rata Novus Promenade"/>
             <MarkerCategory name="71" DisplayName="1. Help the people of Rata Novus."/>
             <MarkerCategory name="72" DisplayName="2. Overlooking an insectoid colony."/>
             <MarkerCategory name="73" DisplayName="3. In a room surrounded by four pillars of crystal."/>
             <MarkerCategory name="74" DisplayName="4. On an alcove overlooking lightning's wrath."/>
-            
             <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
             <MarkerCategory name="8" DisplayName="Return to Zojja after collecting all of the journal pages."/>
         </MarkerCategory>
+        
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>
