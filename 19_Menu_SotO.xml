@@ -217,6 +217,11 @@
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
         </MarkerCategory>
         
+        <MarkerCategory name="kiu" DisplayName="Keep it Up">
+            <MarkerCategory name="to" DisplayName="To Keep it Up" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+            <MarkerCategory name="trail" DisplayName="Keep it Up Trail"/>
+        </MarkerCategory>
+        
         <MarkerCategory name="llliw" DisplayName="Laugh Like Lyhr Is Watching (Follows Lyhr Escort Event)  " texture="Data/Images/Trails/Trail Marker 1.png"/>
         
         <MarkerCategory name="kosmas" DisplayName="Missing Brood" texture="Data/Images/Trails/Trail Marker 1 Shaded.png">
