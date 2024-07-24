@@ -244,6 +244,10 @@
         <Trail type="leag.isa.trail.2" trailData="Data/SotO/Illuminating Skywatch 2.trl" color="ffff33"/>
         <Trail type="leag.isa.trail.3" trailData="Data/SotO/Illuminating Skywatch 3.trl" color="ffff33"/>
         
+        <!-- Keep it Up -->
+        <Trail type="leag.kiu.to" trailData="Data/SotO/To Keep it Up.trl" color="cccccc"/>
+        <Trail type="leag.kiu.trail" trailData="Data/SotO/Keep it Up.trl" color="cccccc"/>
+        
         <!-- Missing Brood -->
         <POI MapID="1526" xpos="307.185" ypos="186.293" zpos="167.717" type="leag.kosmas.start" GUID="vmCet+v9DkiW0pEnnNdyrA=="/>
         <POI MapID="1526" xpos="308.082" ypos="186.293" zpos="160.022" type="leag.kosmas.1" GUID="tPfasZqX9UiwTlRE79Zt/A==" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" mapVisibility="0"/>
