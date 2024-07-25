@@ -88,6 +88,9 @@
         <POI MapID="1517" xpos="-659.944" ypos="446.034" zpos="327.65" type="leag.apk.basil" GUID="wLfUbGb0YkGeNMrxZNvXLw=="/>
         <Trail type="leag.apk.aellin" trailData="Data/SotO/A Promise Kept.trl" color="ff99cc"/>
         
+        <!-- ...Back Again -->
+        <Trail type="leag.back" trailData="Data/SotO/Back Again.trl"/>
+
         <!-- Bigger than You Remember... -->
         <Trail type="leag.btyr" trailData="Data/SotO/Bigger than You Remember.trl" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="C45AA8"/>
         <POI MapID="1517" xpos="723.968" ypos="270.148" zpos="-107.338" type="leag.btyr" GUID="QEpVOPjVUEm936GUsULwew==" iconFile="Data/Images/Emote - Wave.png" fadeNear="1200" fadeFar="2000"/>
@@ -143,6 +146,12 @@
         <Trail type="leag.cats" trailData="Data/SotO/To Cruising Amnytas - Natural to Strength.trl" texture="Data/Images/Trails/Trail Marker 2 Dark.png" color="ffcc00"/>
         <Trail type="leag.cats" trailData="Data/SotO/Cruising Amnytas - Natural to Strength.trl" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="ffcc00"/>
         
+        <!-- Don't Think Twice -->
+        <POI MapID="1510" xpos="886.763" ypos="177.121" zpos="-380.549" type="leag.dtt" GUID="c/iQ89LLPEWSO0Yk1IDhfQ==" iconFile="Data/Images/Emote - Ponder.png" fadeNear="900" fadeFar="1800"/>
+
+        <!-- Faith Is My Shield -->
+        <POI MapID="1510" xpos="-258.498" ypos="280.418" zpos="-276.878" type="leag.fims" GUID="tIM9yqu24kue0zCCeCw2RQ==" iconFile="Data/Images/Emote - Kneel.png" fadeNear="1000" fadeFar="2000"/>
+
         <!-- Fantastic Flying Foxes -->
         <Trail type="leag.fff.trail.1" trailData="Data/SotO/Fantastic Flying Foxes 1.trl" color="ffcc00"/>
         <Trail type="leag.fff.trail.2" trailData="Data/SotO/Fantastic Flying Foxes 2.trl" color="ffcc00"/>
@@ -208,6 +217,9 @@
         <POI MapID="1526" xpos="659.436" ypos="190.116" zpos="245.693" type="leag.frode.7.icon" GUID="B8JL6OjuOEGLdPP8Lrya6g=="/>
         <POI MapID="1509" xpos="38.8653" ypos="289.488" zpos="32.9959" type="leag.frode.8" GUID="+vnZMdXnVUeywS0Vt8oQ0Q==" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" mapVisibility="0"/>
         <Trail type="leag.frode.8" trailData="Data/SotO/Frode's Journal 8.trl" color="e60000"/>
+
+        <!-- Guided By Fate -->
+        <POI MapID="1510" xpos="-862.27" ypos="552.883" zpos="57.5717" type="leag.gbf" GUID="5ymG675LU0yPnOotl5bVNA==" iconFile="Data/Images/Emote - Kneel.png" fadeNear="1000" fadeFar="2000"/>
         
         <!-- Heitor Instigator -->
         <POI MapID="1526" xpos="719.922" ypos="190.269" zpos="245.595" type="leag.hi" GUID="jIMvhoKm3EWKaQO8eDbAOg==" iconFile="Data/Images/Emote - Beckon.png" fadeNear="1000" fadeFar="2000"/>
@@ -248,6 +260,9 @@
         <Trail type="leag.kiu.to" trailData="Data/SotO/To Keep it Up.trl" color="cccccc"/>
         <Trail type="leag.kiu.trail" trailData="Data/SotO/Keep it Up.trl" color="cccccc"/>
         
+        <!-- Let the Memory Live Again -->
+        <POI MapID="1510" xpos="-149.753" ypos="401.505" zpos="-138.653" type="leag.ltmla" GUID="UoraPo3lWUew3RIhArEIPQ==" iconFile="Data/Images/Emote - Crossarms.png" fadeNear="1200" fadeFar="2400"/>
+
         <!-- Missing Brood -->
         <POI MapID="1526" xpos="307.185" ypos="186.293" zpos="167.717" type="leag.kosmas.start" GUID="vmCet+v9DkiW0pEnnNdyrA=="/>
         <POI MapID="1526" xpos="308.082" ypos="186.293" zpos="160.022" type="leag.kosmas.1" GUID="tPfasZqX9UiwTlRE79Zt/A==" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" mapVisibility="0"/>
@@ -305,6 +320,8 @@
         <!-- Quality Family Entertainment -->
         <POI MapID="1526" xpos="-314.304" ypos="183.129" zpos="78.0518" type="leag.qfe" GUID="r8WJgrcB6UaeeKP/chOK0w==" iconFile="Data/Images/Emote - Cheer.png" fadeNear="3000" fadeFar="6000"/>
         
+        <!-- Rise and Shrine -->
+
         <!-- Salute the Shopkeeper -->
         <POI MapID="1509" xpos="-81.1352" ypos="294.118" zpos="-43.5532" type="leag.sts" GUID="/HNy0EOsh0SP1URsRaPP8w==" iconFile="Data/Images/Emote - Salute.png" fadeNear="300" fadeFar="1200"/>
         
@@ -329,6 +346,28 @@
         <POI MapID="1509" xpos="-93.3375" ypos="360.589" zpos="-133.492" type="leag.secrets2" GUID="ugXjkfTROE+eITDL7f7orQ==" iconFile="Data/Images/Veil of Visions.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
         <POI MapID="1509" xpos="246.279" ypos="310.247" zpos="-220.397" type="leag.secrets2" GUID="hny+y+D6oUifqaMyB8Ym5w==" iconFile="Data/Images/Veil of Visions.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
         
+        <!-- Shelter In Place -->
+        <Trail type="leag.sip" trailData="Data/SotO/Shelter In Place.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="FF6A00"/>
+
+        <!-- Shrine Finder -->
+        <POI MapID="1526" xpos="297.77" ypos="186.293" zpos="161.827" type="leag.shrine.start" GUID="ut6sL0WkbECWy+fg6X0vPQ=="/>
+        <Trail type="leag.shrine" trailData="Data/SotO/Shrine Finder.trl" color="b366ff"/>
+        <POI MapID="1526" xpos="151.727" ypos="283.74" zpos="359.239" type="leag.shrine.1" GUID="po3Nvoom202mY4nyW+ggMQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="116.154" ypos="309.642" zpos="474.654" type="leag.shrine.2" GUID="OEymdBxAFUW0tqDhX+YVkQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="-311.81" ypos="279.674" zpos="292.716" type="leag.shrine.3" GUID="O9hizc8kfEi7Fj6MSXC1AA==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="-209.724" ypos="349.998" zpos="-190.167" type="leag.shrine.4" GUID="fRUm6r+Nvku/XqxZpeTlsw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="-1.28806" ypos="166.946" zpos="190.235" type="leag.shrine.5" GUID="dTw1rlue8kOt83VVqUb/Vg==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="-182.403" ypos="206.454" zpos="-7.04849" type="leag.shrine.6" GUID="Ga26JTi/gUeA0RwvLSURmw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="321.285" ypos="202.809" zpos="-107.052" type="leag.shrine.7" GUID="jxTPRDP3gUG38ZEUy7+BfQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="433.495" ypos="296.192" zpos="184.672" type="leag.shrine.8" GUID="CAYdpeA1a0aEPwY6Rpn7lA==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="235.935" ypos="201.368" zpos="190.177" type="leag.shrine.9" GUID="Tw5JNUZ0CEKHOAgDvyAp1Q==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="53.7581" ypos="294.453" zpos="-175.632" type="leag.shrine.10" GUID="b73LJXSIikqxyjCQcmk1rw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="36.0649" ypos="209.177" zpos="321.366" type="leag.shrine.11" GUID="WaP9JvDiXku/U+lQrXVZjw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="-297.541" ypos="152.291" zpos="116.839" type="leag.shrine.12" GUID="+7LQXkp+2Em0KmIu+EobRQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+
+        <!-- Sleep Now in the Fire -->
+        <POI MapID="1510" xpos="-748.6" ypos="479.138" zpos="289.339" type="snitf" GUID="HNxEq62GgkSu7KBE0BvgLg==" iconFile="Data/Images/Emote - Sleep.png" fadeNear="2200" fadeFar="4400"/>        
+
         <!-- Sorrow's Lost -->
         <Trail type="leag.sorrows.1" trailData="Data/SotO/Sorrow's Lost 1.trl" color="9933ff"/>
         <Trail type="leag.sorrows.2" trailData="Data/SotO/Sorrow's Lost 2.trl" color="9933ff"/>
@@ -362,22 +401,9 @@
         <POI MapID="1517" xpos="-154.639" ypos="395.069" zpos="544.583" type="leag.sorrows.22" GUID="nkJIsB60UUax73CyoDY8+w==" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
         <POI MapID="1517" xpos="39.499" ypos="806.729" zpos="41.0004" type="leag.sorrows.23" GUID="r4/Fw3nXi0KS+3nxxsUHiQ==" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
         
-        <!-- Shrine Finder -->
-        <POI MapID="1526" xpos="297.77" ypos="186.293" zpos="161.827" type="leag.shrine.start" GUID="ut6sL0WkbECWy+fg6X0vPQ=="/>
-        <Trail type="leag.shrine" trailData="Data/SotO/Shrine Finder.trl" color="b366ff"/>
-        <POI MapID="1526" xpos="151.727" ypos="283.74" zpos="359.239" type="leag.shrine.1" GUID="po3Nvoom202mY4nyW+ggMQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="116.154" ypos="309.642" zpos="474.654" type="leag.shrine.2" GUID="OEymdBxAFUW0tqDhX+YVkQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="-311.81" ypos="279.674" zpos="292.716" type="leag.shrine.3" GUID="O9hizc8kfEi7Fj6MSXC1AA==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="-209.724" ypos="349.998" zpos="-190.167" type="leag.shrine.4" GUID="fRUm6r+Nvku/XqxZpeTlsw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="-1.28806" ypos="166.946" zpos="190.235" type="leag.shrine.5" GUID="dTw1rlue8kOt83VVqUb/Vg==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="-182.403" ypos="206.454" zpos="-7.04849" type="leag.shrine.6" GUID="Ga26JTi/gUeA0RwvLSURmw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="321.285" ypos="202.809" zpos="-107.052" type="leag.shrine.7" GUID="jxTPRDP3gUG38ZEUy7+BfQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="433.495" ypos="296.192" zpos="184.672" type="leag.shrine.8" GUID="CAYdpeA1a0aEPwY6Rpn7lA==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="235.935" ypos="201.368" zpos="190.177" type="leag.shrine.9" GUID="Tw5JNUZ0CEKHOAgDvyAp1Q==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="53.7581" ypos="294.453" zpos="-175.632" type="leag.shrine.10" GUID="b73LJXSIikqxyjCQcmk1rw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="36.0649" ypos="209.177" zpos="321.366" type="leag.shrine.11" GUID="WaP9JvDiXku/U+lQrXVZjw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="-297.541" ypos="152.291" zpos="116.839" type="leag.shrine.12" GUID="+7LQXkp+2Em0KmIu+EobRQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        
+        <!-- Stargaze Ridge Skyscale Ride -->
+        <Trail type="leag.srsr" trailData="Data/SotO/Stargaze Ridge Skyscale Ride.trl"/>
+
         <!-- Laugh Like Lyhr Is Watching -->
         <Trail type="leag.llliw" trailData="Data/SotO/Laugh Like Lyhr Is Watching.trl" color="FF9933"/>
         <POI MapID="1517" xpos="-417.338" ypos="457.146" zpos="591.217" type="leag.llliw" GUID="sQlbG39ct0SkyCETZ1ZBJA==" iconFile="Data/Images/Emote - Laugh.png" fadeNear="1200" fadeFar="2000"/>
@@ -403,6 +429,9 @@
         <Trail type="leag.twl.13" trailData="Data/SotO/The Waylit Lantern 13.trl"/>
         <Trail type="leag.twl.14" trailData="Data/SotO/The Waylit Lantern 14.1trl"/>
         
+        <!-- There and... -->
+        <Trail type="leag.there" trailData="Data/SotO/There and.trl"/>
+
         <!-- Thornsprout Bloom! -->
         <Trail type="leag.tb" trailData="Data/SotO/Thornsprout Boom!.trl" color="339933"/>
         
