@@ -290,7 +290,10 @@
         </MarkerCategory>
 
         <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>
-        
+        <MarkerCategory name="back" DisplayName="...Back Again"/>
+        <MarkerCategory name="dtt" DisplayName="Don't Think Twice"/>
+        <MarkerCategory name="fims" DisplayName="Faith Is My Shield"/>
+        <MarkerCategory name="gbf" DisplayName="Guided by Fate"/>
         <MarkerCategory name="isa" DisplayName="Illuminating Skywatch Archipelago (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
@@ -300,6 +303,11 @@
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
         </MarkerCategory>
+        <MarkerCategory name="ltmla" DisplayName="Let the Memory Live Again"/>
+        <MarkerCategory name="sip" DisplayName="Shelter In Place"/>
+        <MarkerCategory name="snitf" DisplayName="Sleep Now in the Fire"/>
+        <MarkerCategory name="srsr" DisplayName="Stargaze Ridge Skyscale Ride"/>
+        <MarkerCategory name="there" DisplayName="There and..."/>
 
         
 
