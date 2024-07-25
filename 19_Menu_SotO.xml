@@ -2,103 +2,34 @@
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
         <MarkerCategory name="soto" IsSeparator="1" DisplayName="  | SECRETS OF THE OBSCURE"/>
         
+        <MarkerCategory name="sotogoggles" DisplayName="Dive Master">
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            <MarkerCategory name="cd" IsSeparator="1" DisplayName="  | HORN OF MAGUUMA"/>
+            <MarkerCategory name="am" DisplayName="Amnytas" color="00CC99"/>
+            <MarkerCategory name="in" DisplayName="Inner Nayos">
+                <MarkerCategory name="soto" IsSeparator="1" DisplayName="  | MOUNTS"/>
+                <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="sa" DisplayName="Skywatch Archipelago" color="00CC99"/>
+            <MarkerCategory name="twt" DisplayName="The Wizard's Tower" color="00CC99"/>
+        </MarkerCategory>
+
+        <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
+
         <MarkerCategory name="apk" DisplayName="A Promise Kept [H] (Do Comrades in Arms First) ">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="basil" DisplayName="Basil"/>
             <MarkerCategory name="la" IsSeparator="1" DisplayName="  | LION'S ARCH"/>
             <MarkerCategory name="aellin" DisplayName="Aellin"/>
         </MarkerCategory>
-        
-        <MarkerCategory name="war" DisplayName="A Record of War" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png">
-            
-            <MarkerCategory name="balance" IsSeparator="1" DisplayName="  : Balance"/>
-            <MarkerCategory name="b1" DisplayName="1. Learn about the history of the Kryptis from Agathine at the Old Settlement."/>
-            <MarkerCategory name="b2" DisplayName="2. Find and read the Kryptis journal on the eastern edge of Nyedra."/>
-            <MarkerCategory name="b3" DisplayName="3. Complete the Wreak havoc in the Fortress of the Founding event."/>
-            
-            <MarkerCategory name="knowledge" IsSeparator="1" DisplayName="  : Knowledge"/>
-            <MarkerCategory name="k1" DisplayName="1. Speak with Epaphros in Nyedra and learn what it's like for the Kryptis to fight their own."/>
-            <MarkerCategory name="k2" DisplayName="2. Mine ore in Nayos 50 times. [Rich Nodes marked with White Circles]">
-               <MarkerCategory name="ore" DisplayName="Toggle Ore Marker" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            </MarkerCategory>
-            <MarkerCategory name="k3" DisplayName="3. Speak with Archivist Morwyn and learn more about the history of Nayos."/>
-            
-            <MarkerCategory name="strength" IsSeparator="1" DisplayName="  : Strength"/>
-            <MarkerCategory name="s1" DisplayName="1. Defeat 5 champion Kryptis throughout Nayos. [Pre-Event Champions, NOT Meta Champions]">
-                <MarkerCategory name="champs" DisplayName="Toggle Champions" iconFile="Data/Images/Champion.png" mapDisplaySize="48"/>
-            </MarkerCategory>
-            <MarkerCategory name="s2" DisplayName="2. Defeat 20 veteran Kryptis throughout Nayos.">
-                <MarkerCategory name="vets" DisplayName="Toggle Veterans" iconFile="Data/Images/Veteran.png" mapDisplaySize="40"/>
-            </MarkerCategory>
-            <MarkerCategory name="s3" DisplayName="3. Defeat the champion Avatar of Envy in Nyedra."/>
-            
-            <MarkerCategory name="celestial" IsSeparator="1" DisplayName="  : The Celestial"/>
-            <MarkerCategory name="c1" DisplayName="1. Collect 50 essences using your skyscale throught Nayos. [Memory;s Hollow]"/>
-            <MarkerCategory name="c2" DisplayName="2. Read the journal and learn about the Fallen Astral Ward members. [The Commonsm]"/>
-            <MarkerCategory name="c3" DisplayName="3. While mounted on your skyscale, defeat 25 Kryptis throughout Nayos."/>
-            
-            <MarkerCategory name="natural" IsSeparator="1" DisplayName="  : The Natural"/>
-            <MarkerCategory name="n1" DisplayName="1. Speak with Researcher Lanni to learn about the flora and fauna of Nayos."/>
-            <MarkerCategory name="n2" DisplayName="2. Read the memory left by the Kryptis."/>
-            <MarkerCategory name="n3" DisplayName="3. Destroy the hazardous nests in Nayos"/>
-            
-            <MarkerCategory name="obscure" IsSeparator="1" DisplayName="  : The Obscure"/>
-            <MarkerCategory name="o1" DisplayName="1. Eliminate Eparch's Spies in Nayos."/>
-            <MarkerCategory name="o2" DisplayName="2. Speak with Helod and help him recover a family heirloom."/>
-            <MarkerCategory name="o3" DisplayName="3. Speak with Corporal Shiko and recover the weapon of his fallen squadmate."/>
-        </MarkerCategory>
         <MarkerCategory name="focus" DisplayName="Amnytas: Absolute Focus"/>
-        
         <MarkerCategory name="awr" DisplayName="Astral Ward Research"/>
-        <MarkerCategory name="sotogoggles" DisplayName="Dive Master">
-            <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-            <MarkerCategory name="cd"     IsSeparator="1" DisplayName="  | HORN OF MAGUUMA"/>
-            <MarkerCategory name="sa" DisplayName="Skywatch Archipelago" color="00CC99"/>
-            <MarkerCategory name="am" DisplayName="Amnytas" color="00CC99"/>
-            <MarkerCategory name="twt" DisplayName="The Wizard's Tower" color="00CC99"/>
-            <MarkerCategory name="in" DisplayName="Inner Nayos">
-                <MarkerCategory name="soto" IsSeparator="1" DisplayName="  | MOUNTS"/>
-                <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-            </MarkerCategory>
-        </MarkerCategory>
-        
         <MarkerCategory name="btyr" DisplayName="Bigger than You Remember"/>
         <MarkerCategory name="cabb" DisplayName="Cruising Amnytas: Balance to Bastionmere"/>
         <MarkerCategory name="caltit" DisplayName="Cruising Amnytas: Lyhr's Tower to Isgarren's Tower"/>
         <MarkerCategory name="cats" DisplayName="Cruising Amnytas: Natural to Strength"/>
-        
-        <MarkerCategory name="cia" DisplayName="Comrades in Arms [H] " iconFile="Data/Images/Circle.png" behavior="3" triggerRange="5" autoTrigger="1" inGameVisibility="1">
-            <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
-            <MarkerCategory name="1" DisplayName="1. Meeting Hortensia"/>
-            <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
-            <MarkerCategory name="2" DisplayName="2. Abelin Favre 543 Bloom X011 Celestial"/>
-            <MarkerCategory name="3" DisplayName="3. Olava Skumasdottir 403 Bloom XXX0 Obscure"/>
-            <MarkerCategory name="4" DisplayName="4. Daytona Jaque 982 Bloom 0XX1 Unsworn"/>
-            <MarkerCategory name="7" DisplayName="7. Fulla 733 Tide VIXV Unsworn"/>
-            <MarkerCategory name="8" DisplayName="8. Yexxi the Stern 092 Tide 00XI Knowledge"/>
-            <MarkerCategory name="9" DisplayName="9. Mildred Goswin 403 Frost 0IIX Unsworn"/>
-            <MarkerCategory name="10" DisplayName="10. Vaulz Baelwalker 576 Frost 0X0I Knowledge"/>
-            <MarkerCategory name="11" DisplayName="11. Basil 329 Tide II0X Celestial"/>
-            <MarkerCategory name="12" DisplayName="12. Ivane Saberlin 809 Frost X00V Balance"/>
-            <MarkerCategory name="14" DisplayName="14. Silque 109 Tide 00XX Natural"/>
-            <MarkerCategory name="15" DisplayName="15. Celiix the Forgiven 620 Dusk IVXX Strength"/>
-            <MarkerCategory name="16" DisplayName="16. Gideon Hawthorn II 003 Tide IIX0 Natural"/>
-            <MarkerCategory name="17" DisplayName="17. Docia Greywind 092 Bloom XXII Balance"/>
-            <MarkerCategory name="18" DisplayName="18. 'Just Tillie' 032 Dusk XIIV Obscure"/>
-            <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>
-            <MarkerCategory name="5" DisplayName="5. Cethis 102 Tide X001 Strength"/>
-            <MarkerCategory name="6" DisplayName="6. Percy Gammons 892 Dusk XIVV Unsworn"/>
-            <MarkerCategory name="tyria" IsSeparator="1" DisplayName="  | TYRIA"/>
-            <MarkerCategory name="13" DisplayName="13. Arina 892 Snow 0XV1 Obscure"/>
-            <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
-            <MarkerCategory name="19" DisplayName="19. Return to Hortensia at the Wizard's Tower Infirmary."/>
-            <MarkerCategory name="20" DisplayName="20. In Memoriam"/>
-        </MarkerCategory>
-        
-        <MarkerCategory name="cwc" DisplayName="Consternation with Conri [H] "/>
-        
         <MarkerCategory name="fff" DisplayName="Fantastic Flying Foxes" texture="Data/Images/Trails/Trail Marker 2.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
@@ -112,6 +43,7 @@
                 <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
                 <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
             </MarkerCategory>
+            <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
             <MarkerCategory name="1" DisplayName="1. Bastion of Strength: Watching the Astral Ward run up and down stairs." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
             <MarkerCategory name="2" DisplayName="2. Bastion of the Natural: Pretending to spy on the concocters." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
             <MarkerCategory name="3" DisplayName="3. Bastion of Knowledge: Loves to be lost among the books." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
@@ -138,7 +70,6 @@
             <MarkerCategory name="24" DisplayName="24. Bastion of the Obscure: Loves jumping on platforms." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
             <MarkerCategory name="25" DisplayName="25. Bastion of Strength: Racing to watch ritual performances." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
         </MarkerCategory>
-
         <MarkerCategory name="fard" DisplayName="For a Rainy Day" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
@@ -151,36 +82,6 @@
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
         </MarkerCategory>
-        
-        <MarkerCategory name="fif" DisplayName="Flashing into Focus [H] "/>
-        
-        <MarkerCategory name="frode" DisplayName="Frode's Journal" texture="Data/Images/Trails/Trail Marker 1 Dark.png">
-            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="story1" IsSeparator="1" DisplayName="  | STORY"/>
-            <MarkerCategory name="twt" DisplayName="1. Finish the story Chapter 11. Duress"/>
-            <MarkerCategory name="nayos" IsSeparator="1" DisplayName="  | INNER NAYOS"/>
-            <MarkerCategory name="2" DisplayName="2. Find in Forgotten Path where a wanderer was last seen scurrying off with one."/>
-            <MarkerCategory name="3" DisplayName="3. In Heitor's Domain, near a circular door."/>
-            <MarkerCategory name="4" DisplayName="4. Find in the Bleeding Wastes, hanging on some rocks. "/>
-            <MarkerCategory name="7" DisplayName="7. Defeat Ignaxious in Inner Nayos. [Map Meta]">
-                <MarkerCategory name="icon" DisplayName="Toggle Journal Marker" iconFile="Data/Images/Notes.png" heightOffset="0" iconSize="0.5"/>
-            </MarkerCategory>    
-            <MarkerCategory name="skywatch" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO [Map Meta] Droknar's Light"/>
-            <MarkerCategory name="5" DisplayName="5. Purge Lyhr of Kryptis corruption in Skywatch Archipelago.">
-                <MarkerCategory name="icon" DisplayName="Toggle Journal Marker" iconFile="Data/Images/Notes.png" heightOffset="0" iconSize="0.5"/>
-            </MarkerCategory>
-            <MarkerCategory name="amnytas" IsSeparator="1" DisplayName="  | AMNYTAS [Map Meta] World Spire"/>
-            <MarkerCategory name="6" DisplayName="6. Assist the Astral Ward with Mosaic Wrath in Amnytas.">
-                <MarkerCategory name="icon" DisplayName="Toggle Journal Marker" iconFile="Data/Images/Notes.png" heightOffset="0" iconSize="0.5"/>
-            </MarkerCategory>
-            <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
-            <MarkerCategory name="8" DisplayName="8. Return to Frode at Wizard's Respite in the Wizard's Tower. "/>
-        </MarkerCategory>
-        
-        <MarkerCategory name="hi" DisplayName="Heitor Instigator" minSize="64"/>
-        
-        <MarkerCategory name="hasitwt" DisplayName="Hide-and-Seek in the Wizard's Tower" texture="Data/Images/Trails/Trail Marker 1 Dark.png"/>
-        
         <MarkerCategory name="ia" DisplayName="Illuminating Amnytas (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
@@ -196,159 +97,7 @@
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
         </MarkerCategory>
-        
-        <MarkerCategory name="iin" DisplayName="Illuminating Inner Nayos (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png">
-            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
-                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-            </MarkerCategory>    
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-        </MarkerCategory>
-        
-        <MarkerCategory name="isa" DisplayName="Illuminating Skywatch Archipelago (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png">
-            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
-                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-            </MarkerCategory>    
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-        </MarkerCategory>
-        
-        <MarkerCategory name="kiu" DisplayName="Keep it Up">
-            <MarkerCategory name="to" DisplayName="To Keep it Up" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
-            <MarkerCategory name="trail" DisplayName="Keep it Up Trail"/>
-        </MarkerCategory>
-        
         <MarkerCategory name="llliw" DisplayName="Laugh Like Lyhr Is Watching (Follows Lyhr Escort Event)  " texture="Data/Images/Trails/Trail Marker 1.png"/>
-        
-        <MarkerCategory name="kosmas" DisplayName="Missing Brood" texture="Data/Images/Trails/Trail Marker 1 Shaded.png">
-            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="nayos" IsSeparator="1" DisplayName="  | INNER NAYOS"/>
-            <MarkerCategory name="1" DisplayName="1. Speak with Kosmas near the Forward Bivouac Waypoint."/>
-            <MarkerCategory name="2" DisplayName="2. Close to coliseum, near house! Part Collapsed, trapped under rocks!"/>
-            <MarkerCategory name="3" DisplayName="3. Find the Kryptis with explosives in the Isolated Grasslands"/>
-            <MarkerCategory name="4" DisplayName="4. Near north extractor, saw creek. Rockslide. Trapped!"/>
-            <MarkerCategory name="5" DisplayName="5. Find the Kryptis with explosives in the Isolated Grasslands, and use them to free Syphus."/>
-            <MarkerCategory name="skywatch" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>            
-            <MarkerCategory name="6" DisplayName="6. Pulled through rift, far away. Sand, fire...windmill! On floating rock!"/>
-            <MarkerCategory name="7" DisplayName="7. Find Lali's missing toy near a sand ''waterfall'' and bring it to her."/>
-            <MarkerCategory name="8" DisplayName="8. Through rift, again far away. Big leaves. Scary monsters-sharp, sharp teeth!"/>
-            <MarkerCategory name="9" DisplayName="9. Defeat a Saurian and bring its tooth to Cadmus."/>
-            <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
-            <MarkerCategory name="10" DisplayName="10. Not Nayos! Big tower; wizardy creatures. Saw small, fuzzy beasts. Broodling played with!"/>
-            <MarkerCategory name="11" DisplayName="11. Find a toy for the cats in the Wizard's Tower and return to Nemea."/>
-            <MarkerCategory name="amnytas" IsSeparator="1" DisplayName="  | AMNYTAS"/>
-            <MarkerCategory name="12" DisplayName="12. Far away. High, high above ground. Grassy. Hard to see-obscure! Ate 'barries,' looked sick!"/>
-            <MarkerCategory name="13" DisplayName="13. Find the correct plant at the Bastion of the Natural, and return to help cure Chloris's stomachache."/>
-            <MarkerCategory name="14" DisplayName="14. Fell into rift-lots of nature, then POOF! Grew springy legs! Furry ears? Seemed confused. Ward saw from above plant house by small tower."/>
-            <MarkerCategory name="15" DisplayName="15. After speaking to the Ward member, find the broodling in a forested area at the Bastion of the Natural and remind them who they are."/>
-            <MarkerCategory name="16" DisplayName="16. Return to Kosmas."/>
-        </MarkerCategory>
-        
-        <MarkerCategory name="ncu" DisplayName="No Chest Unopened" texture="Data/Images/Trails/Trail Marker 1 Shaded.png">
-            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="trail" DisplayName="Trail Segment" color="e6b800">
-                <MarkerCategory name="1" DisplayName="One"/>
-                <MarkerCategory name="2" DisplayName="Two"/>
-            </MarkerCategory>
-            <MarkerCategory name="inht" IsSeparator="1" DisplayName="  | INNER NAYOS - Heitor's Territory"/>
-            <MarkerCategory name="1" DisplayName="1. Mourning's Shade: Waterfall that leads to the abyss."/>
-            <MarkerCategory name="2" DisplayName="2. Heitor's Gate: Southwest cliffside."/>
-            <MarkerCategory name="3" DisplayName="3. The Southern Extractor: Camouflaged perfectly in the shade."/>
-            <MarkerCategory name="4" DisplayName="4. Heitor's Maw: A Mastery point is within view."/>
-            <MarkerCategory name="5" DisplayName="5. Seething Embrace: Go south, and watch your step."/>
-            <MarkerCategory name="6" DisplayName="6. Mere of Everlasting Night: What could that be out in the fog?"/>
-            <MarkerCategory name="7" DisplayName="7. The Forgotten Path: Maybe a skyscale could get up there."/>
-            <MarkerCategory name="8" DisplayName="8. Astral Ward Camp: Quite the spot for stargazing."/>
-            <MarkerCategory name="9" DisplayName="9. Mere of Everlasting Night: How did the Kryptis build such structures?"/>
-            <MarkerCategory name="10" DisplayName="10. Hollow of the Covetous: Probably shouldn't pet the skyscales."/>
-        </MarkerCategory>
-        
-        <MarkerCategory name="ptas" DisplayName="Please Take A Seat" minSize="64"/>
-        
-        <MarkerCategory name="qfe" DisplayName="Quality Family Entertainment" minSize="64"/>
-        
-        <MarkerCategory name="sts" DisplayName="Salute the Shopkeeper [H] "/>
-        
-        <MarkerCategory name="shrine" DisplayName="Shrine Finder" texture="Data/Images/Trails/Trail Marker 1.png">
-            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="inns" IsSeparator="1" DisplayName="  | INNER NAYOS - Nyedra Surrounds"/>
-            <MarkerCategory name="1" DisplayName="1. Sleeping under a Kryptis tent among allied supplies."/>
-            <MarkerCategory name="2" DisplayName="2. Perched atop a cliff above Eventide's March. Near the top of a ritual tower."/>
-            <MarkerCategory name="3" DisplayName="3. Near the top of a ritual tower."/>
-            <MarkerCategory name="4" DisplayName="4. On a branch near the Mastery Insight near the Coliseum of the Midnight King."/>
-            <MarkerCategory name="5" DisplayName="5. Enjoying the waterfall away from extractors."/>
-            <MarkerCategory name="6" DisplayName="6. Hanging outside a door in Nyedra."/>
-            <MarkerCategory name="7" DisplayName="7. In Stormcarved Hollows, hiding from turret fire and tentacles of Nourys among the rubble."/>
-            <MarkerCategory name="8" DisplayName="8. Above the Wailing Chasm, getting a good view of Heitor's fortress."/>
-            <MarkerCategory name="9" DisplayName="9. Near a rock and a pillar by the forward bivouac."/>
-            <MarkerCategory name="10" DisplayName="10. Hiding on top of the Fortress of the Founding."/>
-            <MarkerCategory name="11" DisplayName="11. Admiring the staircase of Eventide's March."/>
-            <MarkerCategory name="12" DisplayName="12. Overlooking where Eparch's citadel would be, but also hiding from Knaebelag."/>
-        </MarkerCategory>
-
-        <MarkerCategory name="secrets" DisplayName="Secrets Obscured" texture="Data/Images/Trails/Trail Marker 1.png" color="33ccff">
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-            <MarkerCategory name="twt1" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
-            <MarkerCategory name="1" DisplayName="1. Talk to Isgarren for the List of Artifacts."/>
-            <MarkerCategory name="core" IsSeparator="1" DisplayName="  | CORE TYRIA"/>
-            <MarkerCategory name="2" DisplayName="2. Jeweled Amulet"/>
-            <MarkerCategory name="3" DisplayName="3. Planning for Tyria's Future"/>
-            <MarkerCategory name="4" DisplayName="4. Tainted Bloodstone Censer."/>
-            <MarkerCategory name="5" DisplayName="5. Curry Bun with Bloodstone."/>
-            <MarkerCategory name="6" DisplayName="6. Ancient Astral Ward Manual."/>
-            <MarkerCategory name="7" DisplayName="7. Kryptis Corpse. Conmplete Kryptis Rift Events.">
-                <MarkerCategory name="loc" IsSeparator="1" DisplayName="  | LOCATIONS"/>
-                <MarkerCategory name="tyria" IsSeparator="1" DisplayName="  : Core Tyria"/>
-                <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
-                <MarkerCategory name="sd" DisplayName="Straits of Devastation"/>
-                <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
-                <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
-                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
-                <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
-                <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
-                <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
-                
-                <MarkerCategory name="lws1" IsSeparator="1" DisplayName="  : Living World Season 1"/>
-                <MarkerCategory name="southsun" DisplayName="Southsun Cove"/>
-                
-                <MarkerCategory name="hot" IsSeparator="1" DisplayName="  : Heart of Thorns"/>
-                <MarkerCategory name="td" DisplayName="Tangled Depths"/>
-                <MarkerCategory name="vb" DisplayName="Verdant Brink"/>
-                
-                <MarkerCategory name="lws3" IsSeparator="1" DisplayName="  : Living World Season 3"/>
-                <MarkerCategory name="bff" DisplayName="Bitterfrost Frontier"/>
-                <MarkerCategory name="eb" DisplayName="Ember Bay"/>
-                <MarkerCategory name="ld" DisplayName="Lake Doric"/>
-                
-                <MarkerCategory name="pof" IsSeparator="1" DisplayName="  : Path of Fire"/>
-                <MarkerCategory name="co" DisplayName="Crystal Oasis"/>
-                <MarkerCategory name="dov" DisplayName="Domain of Vabbi"/>
-                <MarkerCategory name="er" DisplayName="Elon Riverlands"/>
-                
-                <MarkerCategory name="lws4" IsSeparator="1" DisplayName="  : Living World Season 4"/>
-                <MarkerCategory name="istan" DisplayName="Domain of Istan"/>
-                <MarkerCategory name="sandswept" DisplayName="Sandswept Isles"/>
-                <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks"/>
-                
-                <MarkerCategory name="eod" IsSeparator="1" DisplayName="  : End of Dragons"/>
-                <MarkerCategory name="sp" DisplayName="Seitung Province"/>
-                <MarkerCategory name="tew" DisplayName="The Echovald Wilds"/>                
-                
-                <MarkerCategory name="soto" IsSeparator="1" DisplayName="  : Secrets of the Obscure"/>
-                <MarkerCategory name="am" DisplayName="Amnytas"/>
-                <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
-            </MarkerCategory>
-            <MarkerCategory name="8" DisplayName="8. Beacon Stone. (Plains of Ashford)"/>
-            <MarkerCategory name="twt2" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
-            <MarkerCategory name="9" DisplayName="9. Completed List of Artifacts. Return to Isgarren."/>
-        </MarkerCategory>
-        
-        <MarkerCategory name="secrets2" DisplayName="Secrets Unobscured [H] "/>
-        
         <MarkerCategory name="sorrows" DisplayName="Sorrow's Lost [H] ">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="3" DisplayName="3. I: The Forager"/>
@@ -379,61 +128,135 @@
             <MarkerCategory name="17" DisplayName="17. XV: The Fiend"/>
             <MarkerCategory name="20" DisplayName="20. XVIII: Twilight"/>
         </MarkerCategory>
-        
-        <MarkerCategory name="twl" DisplayName="The Waylit Lantern" texture="Data/Images/Trails/Trail Marker 1.png" color="33ccff">
-            <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
-            <MarkerCategory name="1" DisplayName="1. Speak to Lyhr in the Wizard's Tower."/>
-            <MarkerCategory name="2" DisplayName="2. Retrieve Lyhr's Relic by defeating the Avatars of Rage and Regret in the Bastion of Balance."/>
-            <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>
-            <MarkerCategory name="4" DisplayName="4. Gain favor with Elrik by defeating the possessed dwarf at Droknar's Forge."/>
-            <MarkerCategory name="5" DisplayName="5. Speak with Elrik."/>
-            <MarkerCategory name="ts" IsSeparator="1" DisplayName="  | THE SHIVERPEAKS"/>
-            <MarkerCategory name="6" DisplayName="6. Get a history lesson from a dwarf at the Durmand Priory Headquarters."/>
-            <MarkerCategory name="7" DisplayName="7. Find Novice Taeya in Lornar's Pass near Guutra's Homestead. "/>
-            <MarkerCategory name="8" DisplayName="8. Speak to Timin Blastburl near Dwarves' Gloaming. "/>
-            <MarkerCategory name="9" DisplayName="9. Help collect dwarven artifacts. "/>
-            <MarkerCategory name="10" DisplayName="10. Return to Timin. "/>
-            <MarkerCategory name="11" DisplayName="11. Speak to Von Delverunner inside King Jalis's Refuge. "/>
-            <MarkerCategory name="12" DisplayName="12a. Seek out dwarves investigating the Forsaken Halls in Dredgehaunt Cliffs. "/>
-            <MarkerCategory name="13" DisplayName="13. Find Riley Waylit in Nakrojos Pass. "/>
-            <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
-            <MarkerCategory name="1" DisplayName="1. Speak to Lyhr in the Wizard's Tower"/>
-            <MarkerCategory name="3" DisplayName="3. Speak to Lyhr"/>
-            <MarkerCategory name="14" DisplayName="14. Return to Lyhr. "/>
+        <MarkerCategory name="wtwr" DisplayName="Wrong Time, Wrong Place"/>
+        <MarkerCategory name="in" IsSeparator="1" DisplayName="  | INNER NAYOS"/>
+        <MarkerCategory name="war" DisplayName="A Record of War" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png">
+            <MarkerCategory name="balance" IsSeparator="1" DisplayName="  : Balance"/>
+            <MarkerCategory name="b1" DisplayName="1. Learn about the history of the Kryptis from Agathine at the Old Settlement."/>
+            <MarkerCategory name="b2" DisplayName="2. Find and read the Kryptis journal on the eastern edge of Nyedra."/>
+            <MarkerCategory name="b3" DisplayName="3. Complete the Wreak havoc in the Fortress of the Founding event."/>
+            <MarkerCategory name="knowledge" IsSeparator="1" DisplayName="  : Knowledge"/>
+            <MarkerCategory name="k1" DisplayName="1. Speak with Epaphros in Nyedra and learn what it's like for the Kryptis to fight their own."/>
+            <MarkerCategory name="k2" DisplayName="2. Mine ore in Nayos 50 times. [Rich Nodes marked with White Circles]">
+               <MarkerCategory name="ore" DisplayName="Toggle Ore Marker" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
+            </MarkerCategory>
+            <MarkerCategory name="k3" DisplayName="3. Speak with Archivist Morwyn and learn more about the history of Nayos."/>
+            <MarkerCategory name="strength" IsSeparator="1" DisplayName="  : Strength"/>
+            <MarkerCategory name="s1" DisplayName="1. Defeat 5 champion Kryptis throughout Nayos. [Pre-Event Champions, NOT Meta Champions]">
+                <MarkerCategory name="champs" DisplayName="Toggle Champions" iconFile="Data/Images/Champion.png" mapDisplaySize="48"/>
+            </MarkerCategory>
+            <MarkerCategory name="s2" DisplayName="2. Defeat 20 veteran Kryptis throughout Nayos.">
+                <MarkerCategory name="vets" DisplayName="Toggle Veterans" iconFile="Data/Images/Veteran.png" mapDisplaySize="40"/>
+            </MarkerCategory>
+            <MarkerCategory name="s3" DisplayName="3. Defeat the champion Avatar of Envy in Nyedra."/>
+            <MarkerCategory name="celestial" IsSeparator="1" DisplayName="  : The Celestial"/>
+            <MarkerCategory name="c1" DisplayName="1. Collect 50 essences using your skyscale throught Nayos. [Memory;s Hollow]"/>
+            <MarkerCategory name="c2" DisplayName="2. Read the journal and learn about the Fallen Astral Ward members. [The Commonsm]"/>
+            <MarkerCategory name="c3" DisplayName="3. While mounted on your skyscale, defeat 25 Kryptis throughout Nayos."/>
+            <MarkerCategory name="natural" IsSeparator="1" DisplayName="  : The Natural"/>
+            <MarkerCategory name="n1" DisplayName="1. Speak with Researcher Lanni to learn about the flora and fauna of Nayos."/>
+            <MarkerCategory name="n2" DisplayName="2. Read the memory left by the Kryptis."/>
+            <MarkerCategory name="n3" DisplayName="3. Destroy the hazardous nests in Nayos"/>
+            <MarkerCategory name="obscure" IsSeparator="1" DisplayName="  : The Obscure"/>
+            <MarkerCategory name="o1" DisplayName="1. Eliminate Eparch's Spies in Nayos."/>
+            <MarkerCategory name="o2" DisplayName="2. Speak with Helod and help him recover a family heirloom."/>
+            <MarkerCategory name="o3" DisplayName="3. Speak with Corporal Shiko and recover the weapon of his fallen squadmate."/>
         </MarkerCategory>
-                
-        <MarkerCategory name="tb" DisplayName="Thornsprout Boom! [H] "/>
-            
-        <MarkerCategory name="ttt" DisplayName="Tyrian Taste Testing" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="33ccff">
+        <MarkerCategory name="frode" DisplayName="Frode's Journal" texture="Data/Images/Trails/Trail Marker 1 Dark.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="soto" IsSeparator="1" DisplayName="  | SECRETS OF THE OBSCURE"/>
-            <MarkerCategory name="amnytas" IsSeparator="1" DisplayName="  : Amnytas"/>
-            <MarkerCategory name="5" DisplayName="5. Obtain some healthy (and edible) greenery from Narcisse in the Botanical Skygarden in Amnytas."/>
-            <MarkerCategory name="skywatch" IsSeparator="1" DisplayName="  : Skywatch Archipelago"/>
-            <MarkerCategory name="3" DisplayName="3. Rummage for ramen around Jade Mech Habitation Zone 03."/>
-            <MarkerCategory name="twt" IsSeparator="1" DisplayName="  : The Wizard's Tower"/>
-            <MarkerCategory name="1" DisplayName="1. Speak to the Kryptis delegation and accept their request."/>
-            <MarkerCategory name="7" DisplayName="7. Convince Grand Archivist Vivienne in the Wizard's Vault to give you a crate of ancient eggs."/>
-            <MarkerCategory name="tyria" IsSeparator="1" DisplayName="  | TYRIA"/>
-            <MarkerCategory name="nayos" IsSeparator="1" DisplayName="  : Bloodtide Coast"/>
-            <MarkerCategory name="9" DisplayName="9. Defeat 5 crabs with your skyscale's Fireball skill in Bloodtide Coast to flash-sear their meat."/>
-            <MarkerCategory name="maelstrom" IsSeparator="1" DisplayName="  : Mount Maelstrom"/>
-            <MarkerCategory name="8" DisplayName="8. Shoot the ancient eggs above Maelstrom's Core in Mount Maelstrom with your skyscale's Fireball. Pick the eggs out of the magma below."/>
-            <MarkerCategory name="queensdale" IsSeparator="1" DisplayName="  : Queensdale"/>
-            <MarkerCategory name="2" DisplayName="2. Dash through five apple trees in Queensdale on your skyscale."/>
-            <MarkerCategory name="southsun" IsSeparator="1" DisplayName="  : Southsun Cove"/>
-            <MarkerCategory name="10" DisplayName="10. Obtain a chunk of karka carapace from inside Bakestone Cavern in Southsun Cove."/>
-            <MarkerCategory name="various" IsSeparator="1" DisplayName="  : Various Locations"/>
-            <MarkerCategory name="4" DisplayName="4. Convince Sous-Chef Seimur Oxbone to give you some bloodstone condiments."/>
-            <MarkerCategory name="wayfarer" IsSeparator="1" DisplayName="  : Wayfarer Foothills"/>
-            <MarkerCategory name="6" DisplayName="6. Obtain a keg of norn ale from Kevach's Homestead in Wayfarer Foothills."/>
-            <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
-            <MarkerCategory name="11" DisplayName="11. Return to the Kryptis delegation after completing all previous steps to witness their feast."/>
+            <MarkerCategory name="story1" IsSeparator="1" DisplayName="  | STORY"/>
+            <MarkerCategory name="story11" DisplayName="1. Finish the story Chapter 11. Duress"/>
+            <MarkerCategory name="nayos" IsSeparator="1" DisplayName="  | INNER NAYOS"/>
+            <MarkerCategory name="2" DisplayName="2. Find in Forgotten Path where a wanderer was last seen scurrying off with one."/>
+            <MarkerCategory name="3" DisplayName="3. In Heitor's Domain, near a circular door."/>
+            <MarkerCategory name="4" DisplayName="4. Find in the Bleeding Wastes, hanging on some rocks. "/>
+            <MarkerCategory name="7" DisplayName="7. Defeat Ignaxious in Inner Nayos. [Map Meta]">
+                <MarkerCategory name="icon" DisplayName="Toggle Journal Marker" iconFile="Data/Images/Notes.png" heightOffset="0" iconSize="0.5"/>
+            </MarkerCategory>    
+            <MarkerCategory name="skywatch" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO [Map Meta] - Droknar's Light"/>
+            <MarkerCategory name="5" DisplayName="5. Purge Lyhr of Kryptis corruption in Skywatch Archipelago.">
+                <MarkerCategory name="icon" DisplayName="Toggle Journal Marker" iconFile="Data/Images/Notes.png" heightOffset="0" iconSize="0.5"/>
+            </MarkerCategory>
+            <MarkerCategory name="amnytas" IsSeparator="1" DisplayName="  | AMNYTAS [Map Meta] - World Spire"/>
+            <MarkerCategory name="6" DisplayName="6. Assist the Astral Ward with Mosaic Wrath in Amnytas.">
+                <MarkerCategory name="icon" DisplayName="Toggle Journal Marker" iconFile="Data/Images/Notes.png" heightOffset="0" iconSize="0.5"/>
+            </MarkerCategory>
+            <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
+            <MarkerCategory name="8" DisplayName="8. Return to Frode at Wizard's Respite in the Wizard's Tower. "/>
+        </MarkerCategory>
+        <MarkerCategory name="hi" DisplayName="Heitor Instigator" minSize="64"/>
+        <MarkerCategory name="iin" DisplayName="Illuminating Inner Nayos (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png">
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+            </MarkerCategory>    
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+        </MarkerCategory>
+        <MarkerCategory name="kosmas" DisplayName="Missing Brood" texture="Data/Images/Trails/Trail Marker 1 Shaded.png">
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="nayos" IsSeparator="1" DisplayName="  | INNER NAYOS"/>
+            <MarkerCategory name="1" DisplayName="1. Speak with Kosmas near the Forward Bivouac Waypoint."/>
+            <MarkerCategory name="2" DisplayName="2. Close to coliseum, near house! Part Collapsed, trapped under rocks!"/>
+            <MarkerCategory name="3" DisplayName="3. Find the Kryptis with explosives in the Isolated Grasslands"/>
+            <MarkerCategory name="4" DisplayName="4. Near north extractor, saw creek. Rockslide. Trapped!"/>
+            <MarkerCategory name="5" DisplayName="5. Find the Kryptis with explosives in the Isolated Grasslands, and use them to free Syphus."/>
+            <MarkerCategory name="skywatch" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>            
+            <MarkerCategory name="6" DisplayName="6. Pulled through rift, far away. Sand, fire...windmill! On floating rock!"/>
+            <MarkerCategory name="7" DisplayName="7. Find Lali's missing toy near a sand ''waterfall'' and bring it to her."/>
+            <MarkerCategory name="8" DisplayName="8. Through rift, again far away. Big leaves. Scary monsters-sharp, sharp teeth!"/>
+            <MarkerCategory name="9" DisplayName="9. Defeat a Saurian and bring its tooth to Cadmus."/>
+            <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
+            <MarkerCategory name="10" DisplayName="10. Not Nayos! Big tower; wizardy creatures. Saw small, fuzzy beasts. Broodling played with!"/>
+            <MarkerCategory name="11" DisplayName="11. Find a toy for the cats in the Wizard's Tower and return to Nemea."/>
+            <MarkerCategory name="amnytas" IsSeparator="1" DisplayName="  | AMNYTAS"/>
+            <MarkerCategory name="12" DisplayName="12. Far away. High, high above ground. Grassy. Hard to see-obscure! Ate 'barries,' looked sick!"/>
+            <MarkerCategory name="13" DisplayName="13. Find the correct plant at the Bastion of the Natural, and return to help cure Chloris's stomachache."/>
+            <MarkerCategory name="14" DisplayName="14. Fell into rift-lots of nature, then POOF! Grew springy legs! Furry ears? Seemed confused. Ward saw from above plant house by small tower."/>
+            <MarkerCategory name="15" DisplayName="15. After speaking to the Ward member, find the broodling in a forested area at the Bastion of the Natural and remind them who they are."/>
+            <MarkerCategory name="16" DisplayName="16. Return to Kosmas."/>
+        </MarkerCategory>
+        <MarkerCategory name="ncu" DisplayName="No Chest Unopened" texture="Data/Images/Trails/Trail Marker 1 Shaded.png">
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="trail" DisplayName="Trail Segment" color="e6b800">
+                <MarkerCategory name="1" DisplayName="One"/>
+                <MarkerCategory name="2" DisplayName="Two"/>
+            </MarkerCategory>
+            <MarkerCategory name="inht" IsSeparator="1" DisplayName="  : Heitor's Territory"/>
+            <MarkerCategory name="1" DisplayName="1. Mourning's Shade: Waterfall that leads to the abyss."/>
+            <MarkerCategory name="2" DisplayName="2. Heitor's Gate: Southwest cliffside."/>
+            <MarkerCategory name="3" DisplayName="3. The Southern Extractor: Camouflaged perfectly in the shade."/>
+            <MarkerCategory name="4" DisplayName="4. Heitor's Maw: A Mastery point is within view."/>
+            <MarkerCategory name="5" DisplayName="5. Seething Embrace: Go south, and watch your step."/>
+            <MarkerCategory name="6" DisplayName="6. Mere of Everlasting Night: What could that be out in the fog?"/>
+            <MarkerCategory name="7" DisplayName="7. The Forgotten Path: Maybe a skyscale could get up there."/>
+            <MarkerCategory name="8" DisplayName="8. Astral Ward Camp: Quite the spot for stargazing."/>
+            <MarkerCategory name="9" DisplayName="9. Mere of Everlasting Night: How did the Kryptis build such structures?"/>
+            <MarkerCategory name="10" DisplayName="10. Hollow of the Covetous: Probably shouldn't pet the skyscales."/>
+        </MarkerCategory>
+        <MarkerCategory name="ptas" DisplayName="Please Take A Seat" minSize="64"/>
+        <MarkerCategory name="qfe" DisplayName="Quality Family Entertainment" minSize="64"/>
+        <MarkerCategory name="shrine" DisplayName="Shrine Finder" texture="Data/Images/Trails/Trail Marker 1.png">
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="inns" IsSeparator="1" DisplayName="  : Nyedra Surrounds"/>
+            <MarkerCategory name="1" DisplayName="1. Sleeping under a Kryptis tent among allied supplies."/>
+            <MarkerCategory name="2" DisplayName="2. Perched atop a cliff above Eventide's March. Near the top of a ritual tower."/>
+            <MarkerCategory name="3" DisplayName="3. Near the top of a ritual tower."/>
+            <MarkerCategory name="4" DisplayName="4. On a branch near the Mastery Insight near the Coliseum of the Midnight King."/>
+            <MarkerCategory name="5" DisplayName="5. Enjoying the waterfall away from extractors."/>
+            <MarkerCategory name="6" DisplayName="6. Hanging outside a door in Nyedra."/>
+            <MarkerCategory name="7" DisplayName="7. In Stormcarved Hollows, hiding from turret fire and tentacles of Nourys among the rubble."/>
+            <MarkerCategory name="8" DisplayName="8. Above the Wailing Chasm, getting a good view of Heitor's fortress."/>
+            <MarkerCategory name="9" DisplayName="9. Near a rock and a pillar by the forward bivouac."/>
+            <MarkerCategory name="10" DisplayName="10. Hiding on top of the Fortress of the Founding."/>
+            <MarkerCategory name="11" DisplayName="11. Admiring the staircase of Eventide's March."/>
+            <MarkerCategory name="12" DisplayName="12. Overlooking where Eparch's citadel would be, but also hiding from Knaebelag."/>
         </MarkerCategory>
         <MarkerCategory name="tecla" DisplayName="What Was Before" texture="Data/Images/Trails/Trail Marker 1 Shaded.png">
             <MarkerCategory name="icon" DisplayName="Toggle Kryptis Markers" iconFile="Data/Images/Kryptis Eye.png" heightOffset="0" iconSize="0.5"/>
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="nayos" IsSeparator="1" DisplayName="  | INNER NAYOS"/>
+            <MarkerCategory name="coz" IsSeparator="1" DisplayName="  : Citadel of Zakiros"/>
             <MarkerCategory name="1" DisplayName="1. Speak with Tecla the Venerable at the forward bivouac."/>
             <MarkerCategory name="2" DisplayName="2. Etched Tablet: East from Mourning's Shade, past the stairs where dreams begin their ascent, under gnarled crimson root."/>
             <MarkerCategory name="3" DisplayName="3. Petulant Cutting Stone: Between extractors, where Bleeding Wastes meet gray skies."/>
@@ -465,11 +288,158 @@
             <MarkerCategory name="8" DisplayName="8. A perfect view of the southern extractor."/>
             <MarkerCategory name="9" DisplayName="9. In front of Heitor's Gate."/>
         </MarkerCategory>
+
+        <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>
         
-        <MarkerCategory name="wtwr" DisplayName="Wrong Time, Wrong Place"/>
+        <MarkerCategory name="isa" DisplayName="Illuminating Skywatch Archipelago (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png">
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+            </MarkerCategory>    
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+        </MarkerCategory>
+
         
-        <MarkerCategory name="yb" DisplayName="You Buy [H] "/>
+
         
+        
+        
+        <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
+        <MarkerCategory name="cwc" DisplayName="Consternation with Conri [H] "/>
+        <MarkerCategory name="cia" DisplayName="Comrades in Arms [H] " iconFile="Data/Images/Circle.png" behavior="3" triggerRange="5" autoTrigger="1" inGameVisibility="1">
+            <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
+            <MarkerCategory name="1" DisplayName="1. Meeting Hortensia"/>
+            <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
+            <MarkerCategory name="2" DisplayName="2. Abelin Favre 543 Bloom X011 Celestial"/>
+            <MarkerCategory name="3" DisplayName="3. Olava Skumasdottir 403 Bloom XXX0 Obscure"/>
+            <MarkerCategory name="4" DisplayName="4. Daytona Jaque 982 Bloom 0XX1 Unsworn"/>
+            <MarkerCategory name="7" DisplayName="7. Fulla 733 Tide VIXV Unsworn"/>
+            <MarkerCategory name="8" DisplayName="8. Yexxi the Stern 092 Tide 00XI Knowledge"/>
+            <MarkerCategory name="9" DisplayName="9. Mildred Goswin 403 Frost 0IIX Unsworn"/>
+            <MarkerCategory name="10" DisplayName="10. Vaulz Baelwalker 576 Frost 0X0I Knowledge"/>
+            <MarkerCategory name="11" DisplayName="11. Basil 329 Tide II0X Celestial"/>
+            <MarkerCategory name="12" DisplayName="12. Ivane Saberlin 809 Frost X00V Balance"/>
+            <MarkerCategory name="14" DisplayName="14. Silque 109 Tide 00XX Natural"/>
+            <MarkerCategory name="15" DisplayName="15. Celiix the Forgiven 620 Dusk IVXX Strength"/>
+            <MarkerCategory name="16" DisplayName="16. Gideon Hawthorn II 003 Tide IIX0 Natural"/>
+            <MarkerCategory name="17" DisplayName="17. Docia Greywind 092 Bloom XXII Balance"/>
+            <MarkerCategory name="18" DisplayName="18. 'Just Tillie' 032 Dusk XIIV Obscure"/>
+            <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>
+            <MarkerCategory name="5" DisplayName="5. Cethis 102 Tide X001 Strength"/>
+            <MarkerCategory name="6" DisplayName="6. Percy Gammons 892 Dusk XIVV Unsworn"/>
+            <MarkerCategory name="tyria" IsSeparator="1" DisplayName="  | TYRIA"/>
+            <MarkerCategory name="13" DisplayName="13. Arina 892 Snow 0XV1 Obscure"/>
+            <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
+            <MarkerCategory name="19" DisplayName="19. Return to Hortensia at the Wizard's Tower Infirmary."/>
+            <MarkerCategory name="20" DisplayName="20. In Memoriam"/>
+        </MarkerCategory>
+        <MarkerCategory name="fif" DisplayName="Flashing into Focus [H] "/>
+        <MarkerCategory name="hasitwt" DisplayName="Hide-and-Seek in the Wizard's Tower" texture="Data/Images/Trails/Trail Marker 1 Dark.png"/>
+        <MarkerCategory name="kiu" DisplayName="Keep it Up">
+            <MarkerCategory name="to" DisplayName="To Keep it Up" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+            <MarkerCategory name="trail" DisplayName="Keep it Up Trail"/>
+        </MarkerCategory>
+        <MarkerCategory name="sts" DisplayName="Salute the Shopkeeper [H] "/>
+        <MarkerCategory name="secrets" DisplayName="Secrets Obscured" texture="Data/Images/Trails/Trail Marker 1.png" color="33ccff">
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            <MarkerCategory name="twt1" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
+            <MarkerCategory name="1" DisplayName="1. Talk to Isgarren for the List of Artifacts."/>
+            <MarkerCategory name="core" IsSeparator="1" DisplayName="  | CORE TYRIA"/>
+            <MarkerCategory name="2" DisplayName="2. Jeweled Amulet"/>
+            <MarkerCategory name="3" DisplayName="3. Planning for Tyria's Future"/>
+            <MarkerCategory name="4" DisplayName="4. Tainted Bloodstone Censer."/>
+            <MarkerCategory name="5" DisplayName="5. Curry Bun with Bloodstone."/>
+            <MarkerCategory name="6" DisplayName="6. Ancient Astral Ward Manual."/>
+            <MarkerCategory name="7" DisplayName="7. Kryptis Corpse. Conmplete Kryptis Rift Events.">
+                <MarkerCategory name="loc" IsSeparator="1" DisplayName="  | LOCATIONS"/>
+                <MarkerCategory name="tyria" IsSeparator="1" DisplayName="  : Core Tyria"/>
+                <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+                <MarkerCategory name="sd" DisplayName="Straits of Devastation"/>
+                <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
+                <MarkerCategory name="lws1" IsSeparator="1" DisplayName="  : Living World Season 1"/>
+                <MarkerCategory name="southsun" DisplayName="Southsun Cove"/>
+                <MarkerCategory name="hot" IsSeparator="1" DisplayName="  : Heart of Thorns"/>
+                <MarkerCategory name="td" DisplayName="Tangled Depths"/>
+                <MarkerCategory name="vb" DisplayName="Verdant Brink"/>
+                <MarkerCategory name="lws3" IsSeparator="1" DisplayName="  : Living World Season 3"/>
+                <MarkerCategory name="bff" DisplayName="Bitterfrost Frontier"/>
+                <MarkerCategory name="eb" DisplayName="Ember Bay"/>
+                <MarkerCategory name="ld" DisplayName="Lake Doric"/>
+                <MarkerCategory name="pof" IsSeparator="1" DisplayName="  : Path of Fire"/>
+                <MarkerCategory name="co" DisplayName="Crystal Oasis"/>
+                <MarkerCategory name="dov" DisplayName="Domain of Vabbi"/>
+                <MarkerCategory name="er" DisplayName="Elon Riverlands"/>
+                <MarkerCategory name="lws4" IsSeparator="1" DisplayName="  : Living World Season 4"/>
+                <MarkerCategory name="istan" DisplayName="Domain of Istan"/>
+                <MarkerCategory name="sandswept" DisplayName="Sandswept Isles"/>
+                <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks"/>
+                <MarkerCategory name="eod" IsSeparator="1" DisplayName="  : End of Dragons"/>
+                <MarkerCategory name="sp" DisplayName="Seitung Province"/>
+                <MarkerCategory name="tew" DisplayName="The Echovald Wilds"/>                
+                <MarkerCategory name="soto" IsSeparator="1" DisplayName="  : Secrets of the Obscure"/>
+                <MarkerCategory name="am" DisplayName="Amnytas"/>
+                <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
+            </MarkerCategory>
+            <MarkerCategory name="8" DisplayName="8. Beacon Stone. (Plains of Ashford)"/>
+            <MarkerCategory name="twt2" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
+            <MarkerCategory name="9" DisplayName="9. Completed List of Artifacts. Return to Isgarren."/>
+        </MarkerCategory>
+        <MarkerCategory name="secrets2" DisplayName="Secrets Unobscured [H] "/>
+        <MarkerCategory name="twl" DisplayName="The Waylit Lantern" texture="Data/Images/Trails/Trail Marker 1.png" color="33ccff">
+            <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
+            <MarkerCategory name="2" DisplayName="2. Retrieve Lyhr's Relic by defeating the Avatars of Rage and Regret in the Bastion of Balance."/>
+            <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>
+            <MarkerCategory name="4" DisplayName="4. Gain favor with Elrik by defeating the possessed dwarf at Droknar's Forge."/>
+            <MarkerCategory name="5" DisplayName="5. Speak with Elrik."/>
+            <MarkerCategory name="ts" IsSeparator="1" DisplayName="  | THE SHIVERPEAKS"/>
+            <MarkerCategory name="6" DisplayName="6. Get a history lesson from a dwarf at the Durmand Priory Headquarters."/>
+            <MarkerCategory name="7" DisplayName="7. Find Novice Taeya in Lornar's Pass near Guutra's Homestead. "/>
+            <MarkerCategory name="8" DisplayName="8. Speak to Timin Blastburl near Dwarves' Gloaming. "/>
+            <MarkerCategory name="9" DisplayName="9. Help collect dwarven artifacts. "/>
+            <MarkerCategory name="10" DisplayName="10. Return to Timin. "/>
+            <MarkerCategory name="11" DisplayName="11. Speak to Von Delverunner inside King Jalis's Refuge. "/>
+            <MarkerCategory name="12" DisplayName="12. Seek out dwarves investigating the Forsaken Halls in Dredgehaunt Cliffs. "/>
+            <MarkerCategory name="13" DisplayName="13. Find Riley Waylit in Nakrojos Pass. "/>
+            <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
+            <MarkerCategory name="1" DisplayName="1. Speak to Lyhr in the Wizard's Tower"/>
+            <MarkerCategory name="3" DisplayName="3. Speak to Lyhr"/>
+            <MarkerCategory name="14" DisplayName="14. Return to Lyhr. "/>
+        </MarkerCategory>
+        <MarkerCategory name="tb" DisplayName="Thornsprout Boom! [H] "/>
+        <MarkerCategory name="ttt" DisplayName="Tyrian Taste Testing" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="33ccff">
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="soto" IsSeparator="1" DisplayName="  | SECRETS OF THE OBSCURE"/>
+            <MarkerCategory name="amnytas" IsSeparator="1" DisplayName="  : Amnytas"/>
+            <MarkerCategory name="5" DisplayName="5. Obtain some healthy (and edible) greenery from Narcisse in the Botanical Skygarden in Amnytas."/>
+            <MarkerCategory name="skywatch" IsSeparator="1" DisplayName="  : Skywatch Archipelago"/>
+            <MarkerCategory name="3" DisplayName="3. Rummage for ramen around Jade Mech Habitation Zone 03."/>
+            <MarkerCategory name="twt" IsSeparator="1" DisplayName="  : The Wizard's Tower"/>
+            <MarkerCategory name="1" DisplayName="1. Speak to the Kryptis delegation and accept their request."/>
+            <MarkerCategory name="7" DisplayName="7. Convince Grand Archivist Vivienne in the Wizard's Vault to give you a crate of ancient eggs."/>
+            <MarkerCategory name="tyria" IsSeparator="1" DisplayName="  | TYRIA"/>
+            <MarkerCategory name="nayos" IsSeparator="1" DisplayName="  : Bloodtide Coast"/>
+            <MarkerCategory name="9" DisplayName="9. Defeat 5 crabs with your skyscale's Fireball skill in Bloodtide Coast to flash-sear their meat."/>
+            <MarkerCategory name="maelstrom" IsSeparator="1" DisplayName="  : Mount Maelstrom"/>
+            <MarkerCategory name="8" DisplayName="8. Shoot the ancient eggs above Maelstrom's Core in Mount Maelstrom with your skyscale's Fireball. Pick the eggs out of the magma below."/>
+            <MarkerCategory name="queensdale" IsSeparator="1" DisplayName="  : Queensdale"/>
+            <MarkerCategory name="2" DisplayName="2. Dash through five apple trees in Queensdale on your skyscale."/>
+            <MarkerCategory name="southsun" IsSeparator="1" DisplayName="  : Southsun Cove"/>
+            <MarkerCategory name="10" DisplayName="10. Obtain a chunk of karka carapace from inside Bakestone Cavern in Southsun Cove."/>
+            <MarkerCategory name="various" IsSeparator="1" DisplayName="  : Various Locations"/>
+            <MarkerCategory name="4" DisplayName="4. Convince Sous-Chef Seimur Oxbone to give you some bloodstone condiments."/>
+            <MarkerCategory name="wayfarer" IsSeparator="1" DisplayName="  : Wayfarer Foothills"/>
+            <MarkerCategory name="6" DisplayName="6. Obtain a keg of norn ale from Kevach's Homestead in Wayfarer Foothills."/>
+            <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
+            <MarkerCategory name="11" DisplayName="11. Return to the Kryptis delegation after completing all previous steps to witness their feast."/>
+        </MarkerCategory>
+        <MarkerCategory name="yb" DisplayName="You Buy [H] "/>        
         <MarkerCategory name="zojja" DisplayName="Zojja's Journal [H] ">
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | WIZARD's TOWER"/>
             <MarkerCategory name="1" DisplayName="1. Speak to Zojja at the Wizard's Tower."/>
