@@ -418,6 +418,12 @@
         
         <!-- Secrets Obscured -->
         <Trail type="leag.secrets.1" trailData="Data/SotO/Secrets Obscured 1.trl" texture="Data/Images/Trails/Trail Marker 1 Shaded Dark.png" color="80dfff"/>
+        <Trail type="leag.secrets.2" trailData="Data/SotO/Secrets Obscured 2.trl" texture="Data/Images/Trails/Trail Marker 1 Shaded Dark.png" color="80dfff"/>
+        <Trail type="leag.secrets.3" trailData="Data/SotO/Secrets Obscured 3.trl" texture="Data/Images/Trails/Trail Marker 1 Shaded Dark.png" color="80dfff"/>
+        <Trail type="leag.secrets.4" trailData="Data/SotO/Secrets Obscured 4.trl" texture="Data/Images/Trails/Trail Marker 1 Shaded Dark.png" color="80dfff"/>
+        <Trail type="leag.secrets.5" trailData="Data/SotO/Secrets Obscured 5.trl" texture="Data/Images/Trails/Trail Marker 1 Shaded Dark.png" color="80dfff"/>
+        <Trail type="leag.secrets.6" trailData="Data/SotO/Secrets Obscured 6.trl" texture="Data/Images/Trails/Trail Marker 1 Shaded Dark.png" color="80dfff"/>
+        <Trail type="leag.secrets.7" trailData="Data/SotO/Secrets Obscured 7.trl" texture="Data/Images/Trails/Trail Marker 1 Shaded Dark.png" color="80dfff"/>
         <POI MapID="1509" xpos="38.4083" ypos="361.267" zpos="-136.499" type="leag.secrets.wp" GUID="esg89vaRfUKLF2QlmNT+lQ==" copy="[&BBIAAAA=]" copy-message="Cereboth Waypoint, Kessex Hills"/>
         <POI MapID="23" xpos="1182.59" ypos="-19.6564" zpos="-485.367" type="leag.secrets.wp" GUID="dzbD/FZmy0W0VWdweV/JgA==" copy="[&BPcCAAA=]" copy-message="Lone Post Waypoint, Straits of Devastation"/>
         <POI MapID="51" xpos="190.787" ypos="77.3186" zpos="-299.815" type="leag.secrets.wp" GUID="MmqR14hPlk2/yX43oxXBkQ==" copy="[&BOwCAAA=]" copy-message="Bramble Pass Waypoint"/>
@@ -468,7 +474,8 @@
         <Trail type="leag.sorrows.5" trailData="Data/SotO/Sorrow's Lost 5.trl" color="9933ff"/>
         <Trail type="leag.sorrows.6" trailData="Data/SotO/Sorrow's Lost 6.trl" color="9933ff"/>
         <Trail type="leag.sorrows.7" trailData="Data/SotO/Sorrow's Lost 7.trl" color="9933ff"/>
-        <Trail type="leag.sorrows.9" trailData="Data/SotO/Sorrow's Lost 7.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.8" trailData="Data/SotO/Sorrow's Lost 8.trl" color="9933ff"/>
+        <Trail type="leag.sorrows.9" trailData="Data/SotO/Sorrow's Lost 9.trl" color="9933ff"/>
         <POI MapID="1517" xpos="-21.6615" ypos="221.676" zpos="-597.512" type="leag.sorrows.9" GUID="AaSs5nSZcEeFA50bDCJ5Qw==" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
         <Trail type="leag.sorrows.10" trailData="Data/SotO/Sorrow's Lost 10.trl" color="9933ff"/>
         <POI MapID="1517" xpos="-604.925" ypos="611.702" zpos="181.738" type="leag.sorrows.10" GUID="YSwdWs9eVUmo9twNrXcHDQ==" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
