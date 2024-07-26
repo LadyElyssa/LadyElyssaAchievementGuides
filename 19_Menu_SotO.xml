@@ -16,6 +16,11 @@
             <MarkerCategory name="twt" DisplayName="The Wizard's Tower" color="00CC99"/>
         </MarkerCategory>
 
+        <MarkerCategory name="wgh" DisplayName="Wayfinder Guided Home [H] ">
+            <MarkerCategory name="loc" IsSeparator="1" DisplayName="  | LOCATION"/>
+            <MarkerCategory name="ashford" DisplayName="ASCALON - Plains of Ashford"/>
+        </MarkerCategory>
+
         <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
 
         <MarkerCategory name="apk" DisplayName="A Promise Kept [H] (Do Comrades in Arms First) ">
@@ -253,6 +258,7 @@
             <MarkerCategory name="11" DisplayName="11. Admiring the staircase of Eventide's March."/>
             <MarkerCategory name="12" DisplayName="12. Overlooking where Eparch's citadel would be, but also hiding from Knaebelag."/>
         </MarkerCategory>
+
         <MarkerCategory name="tecla" DisplayName="What Was Before" texture="Data/Images/Trails/Trail Marker 1 Shaded.png">
             <MarkerCategory name="icon" DisplayName="Toggle Kryptis Markers" iconFile="Data/Images/Kryptis Eye.png" heightOffset="0" iconSize="0.5"/>
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -300,20 +306,76 @@
                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
                 <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
+                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png"/>
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
         </MarkerCategory>
         <MarkerCategory name="ltmla" DisplayName="Let the Memory Live Again"/>
+
+        <MarkerCategory name="ras" DisplayName="Rise and Shrine" texture="Data/Images/Trails/Trail Marker 2.png">
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
+            </MarkerCategory>    
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
+            <MarkerCategory name="1" DisplayName="1. Wizard's Ascent: Attracted to the smell of Kryptis baits in Wizard's Ascent." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="2" DisplayName="2. Garenhoff: Broken Tower in Garenhoff." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="3" DisplayName="3. Rata Novus: Examined by the large microscopes." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="4" DisplayName="4. Maguuma: Waterfall overlooking a Pact airship." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="5" DisplayName="5. Kaineng: A red tree among the greenery." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="6" DisplayName="6. Elona: Worships a fallen nemesis." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="7" DisplayName="7. Droknar: By Droknar's Forge, what a statue!" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="8" DisplayName="8. Wizard's Tower: A bright yellow lamp." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="9" DisplayName="9. Shattered Atoll: Near a table in some ruins." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="10" DisplayName="10. Northeast Island: Nice view from Akeem's Tower." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="11" DisplayName="11. Northeast Island: On a pillar that Dagda can't perceive." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="12" DisplayName="12. Middle Islands: Found near two blue orbs." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="13" DisplayName="13. Wizard's Ascent: Enjoys watching skyscales hitting targets from an island." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="14" DisplayName="14. Garenhoff: Snug between two trees on an island." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="15" DisplayName="15. Rata Novus: Atop small floating rocks by the chak." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="16" DisplayName="16. Maguuma: Enjoying a view of a broken bridge." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="17" DisplayName="17. Kaineng: The second floor of the Ministry of Transit." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="18" DisplayName="18. Elona: Hidden below an elegant throne." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="19" DisplayName="19. Droknar: Atop a rocky arch." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="20" DisplayName="20. Wizard's Tower: Atop a rock sculpture that stands out." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="21" DisplayName="21. Wizard's Ascent: Gearing up with new weapons." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="22" DisplayName="22. Garenhoff: Likes being on something near the water, if there was water." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="23" DisplayName="23. Eastern Ridge: Found running on the lower rings." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="24" DisplayName="24. Lyhr's Designs: Enjoys the view of Wizard's Ascent." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="25" DisplayName="25. Kaineng: Listens to broadcasts from atop the roofs." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="26" DisplayName="26. Shattered Atoll: Observes the ruins below." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="27" DisplayName="27. Jade Mech Habitation Zone 03: Hidden among the naga's crates." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="28" DisplayName="28. Shattered Atoll: Inside a tower." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="29" DisplayName="29. The Skyward Marches: Enjoys the sounds of windmills" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="30" DisplayName="30. Rata Novus Promenade: Spends time around consoles." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="31" DisplayName="31. Droknar's Light: In a room nearby that can hear a large ice elemental and belligerent dwarves." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="32" DisplayName="32. Droknar's Light: Loves to descend down the minecarts." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="33" DisplayName="33. Rata Novus Promenade: Spends lots of times roaming around consoles." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="34" DisplayName="34. Wizard's Ascent: Likes exploring the eastern courtyard of Wizard's Ascent." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="35" DisplayName="35. Soaring Aerie: Takes the scenic route at Soaring Aerie." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+
+        </MarkerCategory>
+
         <MarkerCategory name="sip" DisplayName="Shelter In Place"/>
         <MarkerCategory name="snitf" DisplayName="Sleep Now in the Fire"/>
         <MarkerCategory name="srsr" DisplayName="Stargaze Ridge Skyscale Ride"/>
         <MarkerCategory name="there" DisplayName="There and..."/>
 
-        
-
-        
-        
-        
         <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
         <MarkerCategory name="cwc" DisplayName="Consternation with Conri [H] "/>
         <MarkerCategory name="cia" DisplayName="Comrades in Arms [H] " iconFile="Data/Images/Circle.png" behavior="3" triggerRange="5" autoTrigger="1" inGameVisibility="1">
