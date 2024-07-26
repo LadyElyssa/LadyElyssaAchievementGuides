@@ -146,8 +146,10 @@
         <!-- End of Dragons -->
         <POI MapID="1438" xpos="596.116" ypos="-1.05604" zpos="-15.9833" type="leag.eodgoggles.sign" GUID="whKFRxsCakCxDxb9j/2LWA=="/>
         <Trail type="leag.eodgoggles.nkc" trailData="Data/EoD/Diving Goggles/New Kaineng City.trl"/>
-        <POI MapID="1438" xpos="596.116" ypos="-1.05604" zpos="-15.9833" type="leag.eodgoggles.sign" GUID="whKFRxsCakCxDxb9j/2LWA=="/>
+        
+        <POI MapID="1428" xpos="-750.821" ypos="4.59295" zpos="466.11" type="leag.eodgoggles.sign" GUID="xd1cO6CIk0+hCV911kwMOw=="/>
         <Trail type="leag.eodgoggles.arb" trailData="Data/EoD/Diving Goggles/Arborstone.trl"/>
+        
         <POI MapID="1452" xpos="1042.29" ypos="5.76441" zpos="-526.688" type="leag.lws4goggles.sign" GUID="pExTCp4gP0qv5FjnA6dYSw=="/>
         <Trail type="leag.eodgoggles.tew" trailData="Data/EoD/Diving Goggles/The Echovald Wilds.trl"/>
         <POI MapID="1422" xpos="4.88728" ypos="200.925" zpos="-957.462" type="leag.lws4goggles.sign" GUID="cdQYVi1Ez0e4lxT1iVNCkg=="/>
