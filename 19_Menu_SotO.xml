@@ -31,7 +31,7 @@
         </MarkerCategory>
         <MarkerCategory name="focus" DisplayName="Amnytas: Absolute Focus"/>
         <MarkerCategory name="awr" DisplayName="Astral Ward Research"/>
-        <MarkerCategory name="btyr" DisplayName="Bigger than You Remember"/>
+        <MarkerCategory name="btyr" DisplayName="Bigger than You Remember "/>
         <MarkerCategory name="cabb" DisplayName="Cruising Amnytas: Balance to Bastionmere"/>
         <MarkerCategory name="caltit" DisplayName="Cruising Amnytas: Lyhr's Tower to Isgarren's Tower"/>
         <MarkerCategory name="cats" DisplayName="Cruising Amnytas: Natural to Strength"/>
@@ -189,7 +189,10 @@
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
             <MarkerCategory name="8" DisplayName="8. Return to Frode at Wizard's Respite in the Wizard's Tower. "/>
         </MarkerCategory>
-        <MarkerCategory name="hi" DisplayName="Heitor Instigator" minSize="64"/>
+        <MarkerCategory name="hi" DisplayName="Heitor Instigator" minSize="64">
+            <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
+            <MarkerCategory name="hint" DisplayName="Heitor's Gate"/>
+        </MarkerCategory>
         <MarkerCategory name="iin" DisplayName="Illuminating Inner Nayos (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
@@ -240,8 +243,14 @@
             <MarkerCategory name="9" DisplayName="9. Mere of Everlasting Night: How did the Kryptis build such structures?"/>
             <MarkerCategory name="10" DisplayName="10. Hollow of the Covetous: Probably shouldn't pet the skyscales."/>
         </MarkerCategory>
-        <MarkerCategory name="ptas" DisplayName="Please Take A Seat" minSize="64"/>
-        <MarkerCategory name="qfe" DisplayName="Quality Family Entertainment" minSize="64"/>
+        <MarkerCategory name="ptas" DisplayName="Please Take A Seat" minSize="64">
+            <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
+            <MarkerCategory name="hint" DisplayName="Southern edge of the Colliseum of the Midnight King"/>
+        </MarkerCategory>
+        <MarkerCategory name="qfe" DisplayName="Quality Family Entertainment" minSize="64">
+            <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
+            <MarkerCategory name="hint" DisplayName="Northern edge of the Colliseum of the Midnight King"/>
+        </MarkerCategory>
         <MarkerCategory name="shrine" DisplayName="Shrine Finder" texture="Data/Images/Trails/Trail Marker 1.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="inns" IsSeparator="1" DisplayName="  : Nyedra Surrounds"/>
@@ -297,9 +306,19 @@
 
         <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>
         <MarkerCategory name="back" DisplayName="...Back Again"/>
-        <MarkerCategory name="dtt" DisplayName="Don't Think Twice"/>
-        <MarkerCategory name="fims" DisplayName="Faith Is My Shield"/>
-        <MarkerCategory name="gbf" DisplayName="Guided by Fate"/>
+        <MarkerCategory name="dtt" DisplayName="Don't Think Twice">
+            <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
+            <MarkerCategory name="hint" DisplayName="Blue Orb at the Tower in Wizard's Ascent"/>
+        </MarkerCategory>
+        <MarkerCategory name="fims" DisplayName="Faith Is My Shield">
+            <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
+            <MarkerCategory name="hint" DisplayName="NE Corner of the Burning Fortress"/>
+        </MarkerCategory>
+        <MarkerCategory name="gbf" DisplayName="Guided by Fate">
+            <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
+            <MarkerCategory name="hint" DisplayName="Glint's Shrine in Droknar's Light"/>
+        </MarkerCategory>
+
         <MarkerCategory name="isa" DisplayName="Illuminating Skywatch Archipelago (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
@@ -316,7 +335,10 @@
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
         </MarkerCategory>
-        <MarkerCategory name="ltmla" DisplayName="Let the Memory Live Again"/>
+        <MarkerCategory name="ltmla" DisplayName="Let the Memory Live Again">
+            <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
+            <MarkerCategory name="hint" DisplayName="Ministry of Transit waiting area."/>
+        </MarkerCategory>
 
         <MarkerCategory name="ras" DisplayName="Rise and Shrine" texture="Data/Images/Trails/Trail Marker 2.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -372,7 +394,10 @@
         </MarkerCategory>
 
         <MarkerCategory name="sip" DisplayName="Shelter In Place"/>
-        <MarkerCategory name="snitf" DisplayName="Sleep Now in the Fire"/>
+        <MarkerCategory name="snitf" DisplayName="Sleep Now in the Fire">
+            <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
+            <MarkerCategory name="hint" DisplayName="Inside the molten lava atop Droknar's Forge"/>
+        </MarkerCategory>
         <MarkerCategory name="srsr" DisplayName="Stargaze Ridge Skyscale Ride"/>
         <MarkerCategory name="there" DisplayName="There and..."/>
 
@@ -411,7 +436,10 @@
             <MarkerCategory name="to" DisplayName="To Keep it Up" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
             <MarkerCategory name="trail" DisplayName="Keep it Up Trail"/>
         </MarkerCategory>
-        <MarkerCategory name="sts" DisplayName="Salute the Shopkeeper [H] "/>
+        <MarkerCategory name="sts" DisplayName="Salute the Shopkeeper [H] ">
+            <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
+            <MarkerCategory name="hint" DisplayName="Gharr Leadclaw NW area of the Outer Ring"/>
+        </MarkerCategory>
         <MarkerCategory name="secrets" DisplayName="Secrets Obscured" texture="Data/Images/Trails/Trail Marker 1.png" color="33ccff">
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
             <MarkerCategory name="twt1" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
