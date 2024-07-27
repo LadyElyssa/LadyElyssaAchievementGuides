@@ -147,10 +147,10 @@
         <Trail type="leag.cats" trailData="Data/SotO/Cruising Amnytas - Natural to Strength.trl" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="ffcc00"/>
         
         <!-- Don't Think Twice -->
-        <POI MapID="1510" xpos="886.763" ypos="177.121" zpos="-380.549" type="leag.dtt" GUID="c/iQ89LLPEWSO0Yk1IDhfQ==" iconFile="Data/Images/Emote - Ponder.png" fadeNear="900" fadeFar="1800"/>
+        <POI MapID="1510" xpos="886.763" ypos="177.121" zpos="-380.549" type="leag.dtt.hint" GUID="c/iQ89LLPEWSO0Yk1IDhfQ==" iconFile="Data/Images/Emote - Ponder.png" fadeNear="900" fadeFar="1800"/>
 
         <!-- Faith Is My Shield -->
-        <POI MapID="1510" xpos="-258.498" ypos="280.418" zpos="-276.878" type="leag.fims" GUID="tIM9yqu24kue0zCCeCw2RQ==" iconFile="Data/Images/Emote - Kneel.png" fadeNear="1000" fadeFar="2000"/>
+        <POI MapID="1510" xpos="-258.498" ypos="280.418" zpos="-276.878" type="leag.fims.hint" GUID="tIM9yqu24kue0zCCeCw2RQ==" iconFile="Data/Images/Emote - Kneel.png" fadeNear="1000" fadeFar="2000"/>
 
         <!-- Fantastic Flying Foxes -->
         <Trail type="leag.fff.trail.1" trailData="Data/SotO/Fantastic Flying Foxes 1.trl" color="ffcc00"/>
@@ -219,10 +219,10 @@
         <Trail type="leag.frode.8" trailData="Data/SotO/Frode's Journal 8.trl" color="e60000"/>
 
         <!-- Guided By Fate -->
-        <POI MapID="1510" xpos="-862.27" ypos="552.883" zpos="57.5717" type="leag.gbf" GUID="5ymG675LU0yPnOotl5bVNA==" iconFile="Data/Images/Emote - Kneel.png" fadeNear="1000" fadeFar="2000"/>
+        <POI MapID="1510" xpos="-862.27" ypos="552.883" zpos="57.5717" type="leag.gbf.hint" GUID="5ymG675LU0yPnOotl5bVNA==" iconFile="Data/Images/Emote - Kneel.png" fadeNear="1000" fadeFar="2000"/>
         
         <!-- Heitor Instigator -->
-        <POI MapID="1526" xpos="719.922" ypos="190.269" zpos="245.595" type="leag.hi" GUID="jIMvhoKm3EWKaQO8eDbAOg==" iconFile="Data/Images/Emote - Beckon.png" fadeNear="1000" fadeFar="2000"/>
+        <POI MapID="1526" xpos="719.922" ypos="190.269" zpos="245.595" type="leag.hi.hint" GUID="jIMvhoKm3EWKaQO8eDbAOg==" iconFile="Data/Images/Emote - Beckon.png" fadeNear="1000" fadeFar="2000"/>
         
         <!-- Hide-and-Seek in the Wizard's Tower -->
         <Trail type="leag.hasitwt" trailData="Data/SotO/To Hide-and-Seek in the Wizard's Tower.trl" texture="Data/Images/Trails/Trail Marker 2 Dark.png" color="33ccff"/>
@@ -290,7 +290,7 @@
         <Trail type="leag.kiu.trail" trailData="Data/SotO/Keep it Up.trl" color="cccccc"/>
         
         <!-- Let the Memory Live Again -->
-        <POI MapID="1510" xpos="-149.753" ypos="401.505" zpos="-138.653" type="leag.ltmla" GUID="UoraPo3lWUew3RIhArEIPQ==" iconFile="Data/Images/Emote - Crossarms.png" fadeNear="1200" fadeFar="2400"/>
+        <POI MapID="1510" xpos="-149.753" ypos="401.505" zpos="-138.653" type="leag.ltmla.hint" GUID="UoraPo3lWUew3RIhArEIPQ==" iconFile="Data/Images/Emote - Crossarms.png" fadeNear="1200" fadeFar="2400"/>
 
         <!-- Missing Brood -->
         <POI MapID="1526" xpos="307.185" ypos="186.293" zpos="167.717" type="leag.kosmas.start" GUID="vmCet+v9DkiW0pEnnNdyrA=="/>
@@ -344,10 +344,10 @@
         <POI MapID="1526" xpos="920.775" ypos="287.323" zpos="-266.531" type="leag.ncu.10" GUID="ULv6duOnpk6GRw1ijea3ew==" iconFile="Data/Images/No Chest Unopened.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
         
         <!-- Please Take a Seat -->
-        <POI MapID="1526" xpos="-329.784" ypos="189.999" zpos="-8.78649" type="leag.ptas" GUID="Ng3YJZxPGkOmxbGOVb4X0Q==" iconFile="Data/Images/Emote - Sit.png" fadeNear="3000" fadeFar="6000"/>
+        <POI MapID="1526" xpos="-329.784" ypos="189.999" zpos="-8.78649" type="leag.ptas.hint" GUID="Ng3YJZxPGkOmxbGOVb4X0Q==" iconFile="Data/Images/Emote - Sit.png" fadeNear="3000" fadeFar="6000"/>
         
         <!-- Quality Family Entertainment -->
-        <POI MapID="1526" xpos="-314.304" ypos="183.129" zpos="78.0518" type="leag.qfe" GUID="r8WJgrcB6UaeeKP/chOK0w==" iconFile="Data/Images/Emote - Cheer.png" fadeNear="3000" fadeFar="6000"/>
+        <POI MapID="1526" xpos="-314.304" ypos="183.129" zpos="78.0518" type="leag.qfe.hint" GUID="r8WJgrcB6UaeeKP/chOK0w==" iconFile="Data/Images/Emote - Cheer.png" fadeNear="3000" fadeFar="6000"/>
         
         <!-- Rise and Shrine -->
         <POI MapID="1510" xpos="906.705" ypos="133.644" zpos="-364.712" type="leag.ras.start" GUID="7dTv7STCFka2Yn6tOWF1Sg=="/>
@@ -414,7 +414,7 @@
         <POI MapID="1510" xpos="-648.141" ypos="549.397" zpos="159.7" type="leag.ras.trail.9" GUID="Rlc+CUkhr0GlstnlgVelSg=="/>
 
         <!-- Salute the Shopkeeper -->
-        <POI MapID="1509" xpos="-81.1352" ypos="294.118" zpos="-43.5532" type="leag.sts" GUID="/HNy0EOsh0SP1URsRaPP8w==" iconFile="Data/Images/Emote - Salute.png" fadeNear="300" fadeFar="1200"/>
+        <POI MapID="1509" xpos="-81.1352" ypos="294.118" zpos="-43.5532" type="leag.sts.hint" GUID="/HNy0EOsh0SP1URsRaPP8w==" iconFile="Data/Images/Emote - Salute.png" fadeNear="300" fadeFar="1200"/>
         
         <!-- Secrets Obscured -->
         <Trail type="leag.secrets.1" trailData="Data/SotO/Secrets Obscured 1.trl" texture="Data/Images/Trails/Trail Marker 1 Shaded Dark.png" color="80dfff"/>
@@ -463,7 +463,7 @@
         <POI MapID="1526" xpos="-297.541" ypos="152.291" zpos="116.839" type="leag.shrine.12" GUID="+7LQXkp+2Em0KmIu+EobRQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
 
         <!-- Sleep Now in the Fire -->
-        <POI MapID="1510" xpos="-748.6" ypos="479.138" zpos="289.339" type="snitf" GUID="HNxEq62GgkSu7KBE0BvgLg==" iconFile="Data/Images/Emote - Sleep.png" fadeNear="2200" fadeFar="4400"/>        
+        <POI MapID="1510" xpos="-748.6" ypos="479.138" zpos="289.339" type="leags.snitf.hint" GUID="HNxEq62GgkSu7KBE0BvgLg==" iconFile="Data/Images/Emote - Sleep.png" fadeNear="2200" fadeFar="4400"/>        
 
         <!-- Sorrow's Lost -->
         <Trail type="leag.sorrows.1" trailData="Data/SotO/Sorrow's Lost 1.trl" color="9933ff"/>
