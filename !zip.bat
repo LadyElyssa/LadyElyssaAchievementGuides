@@ -1,5 +1,5 @@
-@IF EXIST "E:\Games\GW2TacO\GW2TacO.log" (
-  del /Q "E:\Games\GW2TacO\GW2TacO.log"
+@IF EXIST "E:\Games\GW2TacO L.E.A.G\GW2TacO.log" (
+  del /Q "E:\Games\GW2TacO L.E.A.G\GW2TacO.log"
 )
 
 @IF EXIST "LadyElyssaAP.zip" (
