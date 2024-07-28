@@ -59,10 +59,10 @@
         <Trail type="leag.goggles.maelstrom" trailData="Data/Core/Diving Goggles/25 Mount Maelstrom 1.trl"/>
         <Trail type="leag.goggles.maelstrom" trailData="Data/Core/Diving Goggles/25 Mount Maelstrom 2.trl"/>
         <Trail type="leag.goggles.maelstrom" trailData="Data/Core/Diving Goggles/25 Mount Maelstrom 3.trl" fadeNear="550" fadeFar="1100"/>
-        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="leag.goggles.sign.maelstrom" GUID="zSWQzPn3BE+XG/raStZHlg==" iconfile="Data/Images/Yellow Swirl.png"/>
-        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="leag.goggles.sign.maelstrom" GUID="wUWKEB4fOUG0PiI0Hm+NxA==" iconfile="Data/Images/Yellow Swirl.png"/>
-        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="leag.goggles.sign.maelstrom" GUID="EFxkat60QUidX11m4VqV2g==" iconfile="Data/Images/Yellow Swirl.png"/>
-        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="leag.goggles.sign.maelstrom" GUID="r9CHDxVKhEOX4WLrGVGvqw==" iconfile="Data/Images/Yellow Swirl.png"/>
+        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="leag.goggles.maelstrom.swirl" GUID="zSWQzPn3BE+XG/raStZHlg==" iconfile="Data/Images/Yellow Swirl.png"/>
+        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="leag.goggles.maelstrom.swirl" GUID="wUWKEB4fOUG0PiI0Hm+NxA==" iconfile="Data/Images/Yellow Swirl.png"/>
+        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="leag.goggles.maelstrom.swirl" GUID="EFxkat60QUidX11m4VqV2g==" iconfile="Data/Images/Yellow Swirl.png"/>
+        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="leag.goggles.maelstrom.swirl" GUID="r9CHDxVKhEOX4WLrGVGvqw==" iconfile="Data/Images/Yellow Swirl.png"/>
         <POI MapID="39" xpos="1010.72" ypos="-0.868104" zpos="501.781" type="leag.goggles.sign" GUID="1KrXbUPsiEehoe2CWU+0Ng=="/>
         <Trail type="leag.goggles.maelstrom" trailData="Data/Core/Diving Goggles/26 Mount Maelstrom.trl" fadeNear="800" fadeFar="1600"/>
         <POI MapID="51" xpos="699.471" ypos="19.4892" zpos="107.612" type="leag.goggles.sign" GUID="aY42AQR+JUOPbhuYVxX3sw=="/>
