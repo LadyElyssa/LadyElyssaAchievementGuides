@@ -21,7 +21,7 @@
             <MarkerCategory name="ashford" DisplayName="ASCALON - Plains of Ashford"/>
         </MarkerCategory>
 
-        <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
+        <MarkerCategory name="am" DisplayName="Amnytas">
 
         <MarkerCategory name="apk" DisplayName="A Promise Kept [H] (Do Comrades in Arms First) ">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
@@ -31,7 +31,8 @@
         </MarkerCategory>
         <MarkerCategory name="focus" DisplayName="Amnytas: Absolute Focus"/>
         <MarkerCategory name="awr" DisplayName="Astral Ward Research"/>
-        <MarkerCategory name="btyr" DisplayName="Bigger than You Remember "/>
+        <MarkerCategory name="btyr" DisplayName="Bigger than You Remember"/>
+        <MarkerCategory name="bz" DisplayName="Bug-Zapped"/>
         <MarkerCategory name="cabb" DisplayName="Cruising Amnytas: Balance to Bastionmere"/>
         <MarkerCategory name="caltit" DisplayName="Cruising Amnytas: Lyhr's Tower to Isgarren's Tower"/>
         <MarkerCategory name="cats" DisplayName="Cruising Amnytas: Natural to Strength"/>
@@ -134,7 +135,10 @@
             <MarkerCategory name="20" DisplayName="20. XVIII: Twilight"/>
         </MarkerCategory>
         <MarkerCategory name="wtwr" DisplayName="Wrong Time, Wrong Place"/>
-        <MarkerCategory name="in" IsSeparator="1" DisplayName="  | INNER NAYOS"/>
+        </MarkerCategory>
+
+        <MarkerCategory name="in" DisplayName="Inner Nayos">
+
         <MarkerCategory name="war" DisplayName="A Record of War" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png">
             <MarkerCategory name="balance" IsSeparator="1" DisplayName="  : Balance"/>
             <MarkerCategory name="b1" DisplayName="1. Learn about the history of the Kryptis from Agathine at the Old Settlement."/>
@@ -267,7 +271,23 @@
             <MarkerCategory name="11" DisplayName="11. Admiring the staircase of Eventide's March."/>
             <MarkerCategory name="12" DisplayName="12. Overlooking where Eparch's citadel would be, but also hiding from Knaebelag."/>
         </MarkerCategory>
-
+        <MarkerCategory name="versed" DisplayName="Well-Versed" texture="Data/Images/Trails/Trail Marker 1.png">
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="trail" DisplayName="Trail Segment">
+                <MarkerCategory name="1" DisplayName="One"/>
+                <MarkerCategory name="2" DisplayName="Two"/>
+            </MarkerCategory>
+            <MarkerCategory name="thv" IsSeparator="1" DisplayName="  | STORY: THROUGH THE VEIL - The Survivors"/>
+            <MarkerCategory name="1" DisplayName="1. West of the Waters of Regret."/>
+            <MarkerCategory name="2" DisplayName="2. On the western path of the Ascending Dream."/>
+            <MarkerCategory name="3" DisplayName="3. North of Heitor's Maw."/>
+            <MarkerCategory name="4" DisplayName="4. At the southern beacon."/>
+            <MarkerCategory name="5" DisplayName="5. On a cliff facing Heitor's Gate."/>
+            <MarkerCategory name="6" DisplayName="6. Is that Lieutenant Myros the Spiteful?"/>
+            <MarkerCategory name="7" DisplayName="7. Outside the Lost Altar."/>
+            <MarkerCategory name="8" DisplayName="8. A perfect view of the southern extractor."/>
+            <MarkerCategory name="9" DisplayName="9. In front of Heitor's Gate."/>
+        </MarkerCategory>
         <MarkerCategory name="tecla" DisplayName="What Was Before" texture="Data/Images/Trails/Trail Marker 1 Shaded.png">
             <MarkerCategory name="icon" DisplayName="Toggle Kryptis Markers" iconFile="Data/Images/Kryptis Eye.png" heightOffset="0" iconSize="0.5"/>
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -286,25 +306,10 @@
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
             </MarkerCategory>
         </MarkerCategory>
-        <MarkerCategory name="versed" DisplayName="Well-Versed" texture="Data/Images/Trails/Trail Marker 1.png">
-            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="trail" DisplayName="Trail Segment">
-                <MarkerCategory name="1" DisplayName="One"/>
-                <MarkerCategory name="2" DisplayName="Two"/>
-            </MarkerCategory>
-            <MarkerCategory name="thv" IsSeparator="1" DisplayName="  | STORY: THROUGH THE VEIL - The Survivors"/>
-            <MarkerCategory name="1" DisplayName="1. West of the Waters of Regret."/>
-            <MarkerCategory name="2" DisplayName="2. On the western path of the Ascending Dream."/>
-            <MarkerCategory name="3" DisplayName="3. North of Heitor's Maw."/>
-            <MarkerCategory name="4" DisplayName="4. At the southern beacon."/>
-            <MarkerCategory name="5" DisplayName="5. On a cliff facing Heitor's Gate."/>
-            <MarkerCategory name="6" DisplayName="6. Is that Lieutenant Myros the Spiteful?"/>
-            <MarkerCategory name="7" DisplayName="7. Outside the Lost Altar."/>
-            <MarkerCategory name="8" DisplayName="8. A perfect view of the southern extractor."/>
-            <MarkerCategory name="9" DisplayName="9. In front of Heitor's Gate."/>
         </MarkerCategory>
 
-        <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>
+        <MarkerCategory name="sa" DisplayName="Skywatch Archipelago">
+
         <MarkerCategory name="back" DisplayName="...Back Again"/>
         <MarkerCategory name="dtt" DisplayName="Don't Think Twice">
             <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
@@ -390,9 +395,7 @@
             <MarkerCategory name="33" DisplayName="33. Rata Novus Promenade: Spends lots of times roaming around consoles." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
             <MarkerCategory name="34" DisplayName="34. Wizard's Ascent: Likes exploring the eastern courtyard of Wizard's Ascent." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
             <MarkerCategory name="35" DisplayName="35. Soaring Aerie: Takes the scenic route at Soaring Aerie." iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
-
         </MarkerCategory>
-
         <MarkerCategory name="sip" DisplayName="Shelter In Place"/>
         <MarkerCategory name="snitf" DisplayName="Sleep Now in the Fire">
             <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
@@ -400,9 +403,10 @@
         </MarkerCategory>
         <MarkerCategory name="srsr" DisplayName="Stargaze Ridge Skyscale Ride"/>
         <MarkerCategory name="there" DisplayName="There and..."/>
+        </MarkerCategory>
 
-        <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
-        <MarkerCategory name="cwc" DisplayName="Consternation with Conri [H] "/>
+        <MarkerCategory name="twt" DisplayName="The Wizard'S Tower">
+
         <MarkerCategory name="cia" DisplayName="Comrades in Arms [H] " iconFile="Data/Images/Circle.png" behavior="3" triggerRange="5" autoTrigger="1" inGameVisibility="1">
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
             <MarkerCategory name="1" DisplayName="1. Meeting Hortensia"/>
@@ -430,6 +434,7 @@
             <MarkerCategory name="19" DisplayName="19. Return to Hortensia at the Wizard's Tower Infirmary."/>
             <MarkerCategory name="20" DisplayName="20. In Memoriam"/>
         </MarkerCategory>
+        <MarkerCategory name="cwc" DisplayName="Consternation with Conri [H] "/>
         <MarkerCategory name="fif" DisplayName="Flashing into Focus [H] "/>
         <MarkerCategory name="hasitwt" DisplayName="Hide-and-Seek in the Wizard's Tower" texture="Data/Images/Trails/Trail Marker 1 Dark.png"/>
         <MarkerCategory name="kiu" DisplayName="Keep it Up">
@@ -574,6 +579,7 @@
             <MarkerCategory name="74" DisplayName="4. On an alcove overlooking lightning's wrath."/>
             <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
             <MarkerCategory name="8" DisplayName="Return to Zojja after collecting all of the journal pages."/>
+        </MarkerCategory>
         </MarkerCategory>
         
     </MarkerCategory>
