@@ -1,14 +1,14 @@
-@IF EXIST "LadyElyssa.zip" (
-  del /Q "LadyElyssa.zip"
+@IF EXIST "LadyElyssaAP.zip" (
+  del /Q "LadyElyssaAP.zip"
 )
 
-@IF EXIST "LadyElyssa.taco" (
-  @MOVE /Y "LadyElyssa.taco" "E:\Documents\Guild Wars 2\addons\blishhud\markers"
+@IF EXIST "LadyElyssaAP.taco" (
+  @MOVE /Y "LadyElyssaAP.taco" "E:\Documents\Guild Wars 2\addons\blishhud\markers"
   Goto Done
 )
 
-@powershell Compress-Archive "'Data\'","*.xml" LadyElyssa.zip -Force
-@ren LadyElyssa.zip LadyElyssa.taco
-@MOVE /Y "LadyElyssa.taco" "E:\Documents\Guild Wars 2\addons\blishhud\markers"
+@powershell Compress-Archive "'Data\'","*.xml" LadyElyssaAP.zip -Force
+@ren LadyElyssaAP.zip LadyElyssaAP.taco
+@MOVE /Y "LadyElyssaAP.taco" "E:\Documents\Guild Wars 2\addons\blishhud\markers"
 
 :Done
