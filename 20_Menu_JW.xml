@@ -9,7 +9,11 @@
             <MarkerCategory name="ls" DisplayName="Lowland Shore" color="00CC99"/>
             <MarkerCategory name="js" DisplayName="Janthir Syntri" color="00CC99"/>
         </MarkerCategory>
-        --> 
+        -->
+        <MarkerCategory name="ls" DisplayName="Lowland Shore">
+        </MarkerCategory>
+        <MarkerCategory name="js" DisplayName="Janthir Syntri">
+        </MarkerCategory>
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>
