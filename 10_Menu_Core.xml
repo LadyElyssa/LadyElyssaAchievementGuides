@@ -9,11 +9,7 @@
         <!-- ACHIEVEMENTS -->
         <MarkerCategory name="achievements" IsSeparator="1" DisplayName="  | ACHIEVEMENTS"/>      
         <MarkerCategory name="goggles" DisplayName="Dive Master">
-            <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64">
-                <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom">
-                    <MarkerCategory name="swirl" DisplayName="Toggle Yellow Swirl" iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="128"/>
-                </MarkerCategory>
-            </MarkerCategory>
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 <MarkerCategory name="ascalon"     IsSeparator="1" DisplayName="  | ASCALON"/>
                 <MarkerCategory name="ashford"     DisplayName="Plains of Ashford" color="00CC99"/>
@@ -33,7 +29,9 @@
                 <MarkerCategory name="metrica"     DisplayName="Metrica Province" color="00CC99"/>
                 <MarkerCategory name="caledon"     DisplayName="Caledon Forest" color="00CC99"/>
                 <MarkerCategory name="brisban"     DisplayName="Brisban Wildlands" color="00CC99"/>
-                <MarkerCategory name="maelstrom"   DisplayName="Mount Maelstrom" color="00CC99"/>
+                <MarkerCategory name="maelstrom"   DisplayName="Mount Maelstrom" color="00CC99">
+                    <MarkerCategory name="swirl" DisplayName="Toggle Yellow Swirl" iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="128"/>
+                </MarkerCategory>
                 <MarkerCategory name="orr"         IsSeparator="1" DisplayName="  | RUINS OF ORR"/>
                 <MarkerCategory name="sod"         DisplayName="Straits of Devastation" color="00CC99"/>
                 <MarkerCategory name="ml"          DisplayName="Malchor's Leap" color="00CC99"/>
