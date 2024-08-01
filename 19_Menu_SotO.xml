@@ -141,15 +141,15 @@
 
         <MarkerCategory name="war" DisplayName="A Record of War" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png">
             <MarkerCategory name="balance" IsSeparator="1" DisplayName="  : Balance"/>
-            <MarkerCategory name="b1" DisplayName="1. Learn about the history of the Kryptis from Agathine at the Old Settlement."/>
+            <MarkerCategory name="b1" DisplayName="1. Learn about the Kryptis history from Agathine at the Old Settlement."/>
             <MarkerCategory name="b2" DisplayName="2. Find and read the Kryptis journal on the eastern edge of Nyedra."/>
             <MarkerCategory name="b3" DisplayName="3. Complete the Wreak havoc in the Fortress of the Founding event."/>
             <MarkerCategory name="knowledge" IsSeparator="1" DisplayName="  : Knowledge"/>
-            <MarkerCategory name="k1" DisplayName="1. Speak with Epaphros in Nyedra and learn what it's like for the Kryptis to fight their own."/>
+            <MarkerCategory name="k1" DisplayName="1. Speak with Epaphros in Nyedra."/>
             <MarkerCategory name="k2" DisplayName="2. Mine ore in Nayos 50 times. [Rich Nodes marked with White Circles]">
                <MarkerCategory name="ore" DisplayName="Toggle Ore Marker" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
             </MarkerCategory>
-            <MarkerCategory name="k3" DisplayName="3. Speak with Archivist Morwyn and learn more about the history of Nayos."/>
+            <MarkerCategory name="k3" DisplayName="3. Speak with Archivist Morwyn."/>
             <MarkerCategory name="strength" IsSeparator="1" DisplayName="  : Strength"/>
             <MarkerCategory name="s1" DisplayName="1. Defeat 5 champion Kryptis throughout Nayos. [Pre-Event Champions, NOT Meta Champions]">
                 <MarkerCategory name="champs" DisplayName="Toggle Champions" iconFile="Data/Images/Champion.png" mapDisplaySize="48"/>
@@ -159,8 +159,8 @@
             </MarkerCategory>
             <MarkerCategory name="s3" DisplayName="3. Defeat the champion Avatar of Envy in Nyedra."/>
             <MarkerCategory name="celestial" IsSeparator="1" DisplayName="  : The Celestial"/>
-            <MarkerCategory name="c1" DisplayName="1. Collect 50 essences using your skyscale throught Nayos. [Memory;s Hollow]"/>
-            <MarkerCategory name="c2" DisplayName="2. Read the journal and learn about the Fallen Astral Ward members. [The Commonsm]"/>
+            <MarkerCategory name="c1" DisplayName="1. Collect 50 essences throughout Nayos. [Memory's Hollow]"/>
+            <MarkerCategory name="c2" DisplayName="2. Read the journal and learn about the Fallen Astral Ward members. [The Commons]"/>
             <MarkerCategory name="c3" DisplayName="3. While mounted on your skyscale, defeat 25 Kryptis throughout Nayos."/>
             <MarkerCategory name="natural" IsSeparator="1" DisplayName="  : The Natural"/>
             <MarkerCategory name="n1" DisplayName="1. Speak with Researcher Lanni to learn about the flora and fauna of Nayos."/>
