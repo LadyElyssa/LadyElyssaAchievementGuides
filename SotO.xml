@@ -478,7 +478,9 @@
         <Trail type="leag.am.sorrows.5" trailData="Data/SotO/Sorrow's Lost 5.trl" color="9933ff"/>
         <Trail type="leag.am.sorrows.6" trailData="Data/SotO/Sorrow's Lost 6.trl" color="9933ff"/>
         <Trail type="leag.am.sorrows.7" trailData="Data/SotO/Sorrow's Lost 7.trl" color="9933ff"/>
+        <!--
         <Trail type="leag.am.sorrows.8" trailData="Data/SotO/Sorrow's Lost 8.trl" color="9933ff"/>
+        -->
         <Trail type="leag.am.sorrows.9" trailData="Data/SotO/Sorrow's Lost 9.trl" color="9933ff"/>
         <POI MapID="1517" xpos="-21.6615" ypos="221.676" zpos="-597.512" type="leag.am.sorrows.9" GUID="AaSs5nSZcEeFA50bDCJ5Qw==" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
         <Trail type="leag.am.sorrows.10" trailData="Data/SotO/Sorrow's Lost 10.trl" color="9933ff"/>
@@ -509,7 +511,6 @@
         <!-- The Waylit Lantern -->
         <Trail type="leag.twl.1" trailData="Data/SotO/The Waylit Lantern 1.trl"/>
         <Trail type="leag.twl.2" trailData="Data/SotO/The Waylit Lantern 2.trl" color="FF9933"/>
-        <Trail type="leag.twl.2" trailData="Data/SotO/The Waylit Lantern 2b.trl" color="FF9933"/>
         <Trail type="leag.twl.4" trailData="Data/SotO/The Waylit Lantern 4.trl"/>
         <Trail type="leag.twl.4" trailData="Data/SotO/The Waylit Lantern 4b.trl"/>
         <Trail type="leag.twl.5" trailData="Data/SotO/The Waylit Lantern 5.trl"/>
@@ -525,7 +526,6 @@
         <Trail type="leag.twl.12" trailData="Data/SotO/The Waylit Lantern 12c.trl"/>
         <Trail type="leag.twl.12" trailData="Data/SotO/The Waylit Lantern 12d.trl"/>
         <Trail type="leag.twl.13" trailData="Data/SotO/The Waylit Lantern 13.trl"/>
-        <Trail type="leag.twl.14" trailData="Data/SotO/The Waylit Lantern 14.1trl"/>
         
         <!-- There and... -->
         <Trail type="leag.sa.there" trailData="Data/SotO/There and.trl"/>
@@ -537,14 +537,14 @@
         <Trail type="leag.twt.ttt.1" trailData="Data/SotO/Tyrian Taste Testing 1.trl"/>
         <Trail type="leag.twt.ttt.2" trailData="Data/SotO/Tyrian Taste Testing 2.trl"/>
         <Trail type="leag.twt.ttt.3" trailData="Data/SotO/Tyrian Taste Testing 3.trl"/>
-        <Trail type="leag.twt.ttt.4" trailData="Data/SotO/Tyrian Taste Testing 4.trl"/>
+        
         <Trail type="leag.twt.ttt.5" trailData="Data/SotO/Tyrian Taste Testing 5.trl"/>
         <Trail type="leag.twt.ttt.6" trailData="Data/SotO/Tyrian Taste Testing 6.trl"/>
         <Trail type="leag.twt.ttt.7" trailData="Data/SotO/Tyrian Taste Testing 7.trl"/>
         <Trail type="leag.twt.ttt.8" trailData="Data/SotO/Tyrian Taste Testing 8.trl"/>
         <Trail type="leag.twt.ttt.9" trailData="Data/SotO/Tyrian Taste Testing 9.trl"/>
         <Trail type="leag.twt.ttt.10" trailData="Data/SotO/Tyrian Taste Testing 10.trl"/>
-        <Trail type="leag.twt.ttt.11" trailData="Data/SotO/Tyrian Taste Testing 11.trl"/>
+        
         
         <!-- Wayfinder Guided Home -->
         <Trail type="leag.wgh.ashford" trailData="Data/SotO/Wayfinder Guided Home.trl" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="33ccff"/>
