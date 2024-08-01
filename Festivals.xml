@@ -3,8 +3,10 @@
         <!-- FESTIVAL OF THE FOUR WINDS -->
 
         <!-- Labyrinthine Cliffs -->
-        <Trail type="leag.festivals.barnstorming" trailData="Data/Festivals/Festival of the Four Winds/To Barnstorming the Cliffs.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="00CC99"/>
-        <Trail type="leag.festivals.barnstorming" trailData="Data/Festivals/Festival of the Four Winds/Barnstorming the Cliffs.trl" color="00CC99"/>
+        <Trail type="leag.festivals.barnstorming" trailData="Data/Festivals/Festival of the Four Winds/To Barnstorming the Cliffs.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.festivals.barnstorming" trailData="Data/Festivals/Festival of the Four Winds/Barnstorming the Cliffs.trl"/>
+
+        <POI MapID="922" xpos="-64.4613" ypos="210.688" zpos="-31.5681" type="leag.festivals.ge" GUID="H3MGxPYNQEOGZ2FSIGRiSw==" iconFile="Data/Images/Adventures/Griffon Expert.png"/>
 
         <Trail type="leag.festivals.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH Start.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="ffff00"/>
         <Trail type="leag.festivals.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="ffff00"/>
@@ -15,7 +17,10 @@
         <Trail type="leag.festivals.dolyak" trailData="Data/Festivals/Festival of the Four Winds/Dolyak Flyer.trl"/>
         <Trail type="leag.festivals.effigy" trailData="Data/Festivals/Festival of the Four Winds/Effigy Extinguisher.trl" color="ff3300" texture="Data/Images/Trails/Dashed Gradient.png"/>
 
-        <POI MapID="922" xpos="-64.4613" ypos="210.688" zpos="-31.5681" type="leag.festivals" GUID="H3MGxPYNQEOGZ2FSIGRiSw==" iconFile="Data/Images/Adventures/Griffon Expert.png"/>
+        <Trail type="leag.festivals.koo.trail.1" trailData="Data/Festivals/Festival of the Four Winds/Kookoochoo 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.festivals.koo.trail.2" trailData="Data/Festivals/Festival of the Four Winds/Kookoochoo 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.festivals.koo.trail.3" trailData="Data/Festivals/Festival of the Four Winds/Kookoochoo 3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.festivals.koo.trail.4" trailData="Data/Festivals/Festival of the Four Winds/Kookoochoo 4.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
 
 
         <POI MapID="922" xpos="-7.29017" ypos="118.247" zpos="70.4576" type="leag.festivals.man.sign" GUID="7NXkPbf/Pka68awpcIzqUA=="/>
