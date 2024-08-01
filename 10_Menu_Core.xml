@@ -1,7 +1,7 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" texture="Data/Images/Trails/Trail Marker 1.png" animSpeed="0.8" alpha="1.0" fadeNear="2000" fadeFar="4000">
         <MarkerCategory name="about" DisplayName="About">
-            <MarkerCategory name="version" DisplayName="Version    :: 0.2"/>
+            <MarkerCategory name="version" DisplayName="Version    :: 0.3"/>
             <MarkerCategory name="gw2" DisplayName="GW2       :: Lady Elyssa.2469"/>
             <MarkerCategory name="github" DisplayName="Github     :: https://github.com/LadyElyssa/"/>
             <MarkerCategory name="wiki" DisplayName="GW2 Wiki  :: https://wiki.guildwars2.com/wiki/User:Lady_Elyssa"/>
@@ -45,14 +45,11 @@
         <MarkerCategory name="festivals" DisplayName="Festivals">
             <MarkerCategory name="fotfw"     IsSeparator="1" DisplayName="  | FESTIVAL OF THE FOUR WINDS"/>
             <MarkerCategory name="lc"     IsSeparator="1" DisplayName="  : Labyrinthine Cliffs"/>
-            <MarkerCategory name="aspect" DisplayName="Aspect Gatherer"/>
-            <MarkerCategory name="barnstorming" DisplayName="Barnstorming the Cliffs (Griffon Master)" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
-            <MarkerCategory name="bundle" DisplayName="Bundle Plunderer (Treasure Hunt Event)"/>
-            <MarkerCategory name="dolyak" DisplayName="Dolyak Flyer" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
-            <MarkerCategory name="effigy" DisplayName="Effigy Extinguisher"/>
-            <MarkerCategory name="koo" DisplayName="Kookoochoo">
+            <MarkerCategory name="aspect" DisplayName="Aspect Gatherer">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <!--
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                -->
                 <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -60,21 +57,30 @@
                     <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
                 </MarkerCategory>
             </MarkerCategory>
+            <MarkerCategory name="barnstorming" DisplayName="Barnstorming the Cliffs (Griffon Master)" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+            <MarkerCategory name="bundle" DisplayName="Bundle Plunderer (Treasure Hunt Event)"/>
+            <MarkerCategory name="dolyak" DisplayName="Dolyak Flyer" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+            <MarkerCategory name="effigy" DisplayName="Effigy Extinguisher"/>
             <MarkerCategory name="man" DisplayName="Man Overboard (Diving Goggles)">
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             </MarkerCategory>
             <MarkerCategory name="mag" DisplayName="Master Aspect Gatherer">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-            </MarkerCategory>
+                </MarkerCategory>
             </MarkerCategory>
             <MarkerCategory name="nolawc" DisplayName="No One Likes a Wet Charr [H]"/>
             <MarkerCategory name="slalom" DisplayName="Slalom Skimmer"/>
-            <MarkerCategory name="trafok" DisplayName="The Rise and Fall of Kookoochoo [H]"/>
-            <MarkerCategory name="zephyrite" DisplayName="Zephyrite Lost and Found"/>
+            <MarkerCategory name="koo" DisplayName="The Rise and Fall of Kookoochoo [H]">
+                <MarkerCategory Name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory Name="trail" DisplayName="Toggle Trail Segments">
+                    <MarkerCategory Name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory Name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    <MarkerCategory Name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                </MarkerCategory>
+            </MarkerCategory>
 
             <MarkerCategory name="qp"     IsSeparator="1" DisplayName="  : Queens Pavilion"/>
             <MarkerCategory name="bb" DisplayName="Bandit's Bane" inGameVisibility="0"/>
@@ -90,7 +96,6 @@
             <MarkerCategory name="mm" DisplayName="Mantle Mauler" inGameVisibility="0"/>
             <MarkerCategory name="oo" DisplayName="Ogre Obliterator"/>
             <MarkerCategory name="pp" DisplayName="Pirate Purger" inGameVisibility="0"/>
-            <MarkerCategory name="ww" DisplayName="Wallop Wiggin" inGameVisibility="0"/>
         </MarkerCategory> 
         <!-- End -->
     </MarkerCategory>
