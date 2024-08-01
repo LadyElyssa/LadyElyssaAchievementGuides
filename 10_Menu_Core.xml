@@ -46,10 +46,20 @@
             <MarkerCategory name="fotfw"     IsSeparator="1" DisplayName="  | FESTIVAL OF THE FOUR WINDS"/>
             <MarkerCategory name="lc"     IsSeparator="1" DisplayName="  : Labyrinthine Cliffs"/>
             <MarkerCategory name="aspect" DisplayName="Aspect Gatherer"/>
-            <MarkerCategory name="barnstorming" DisplayName="Barnstorming the Cliffs (Griffon Master)"/>
+            <MarkerCategory name="barnstorming" DisplayName="Barnstorming the Cliffs (Griffon Master)" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
             <MarkerCategory name="bundle" DisplayName="Bundle Plunderer (Treasure Hunt Event)"/>
             <MarkerCategory name="dolyak" DisplayName="Dolyak Flyer" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
             <MarkerCategory name="effigy" DisplayName="Effigy Extinguisher"/>
+            <MarkerCategory name="koo" DisplayName="Kookoochoo">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                </MarkerCategory>
+            </MarkerCategory>
             <MarkerCategory name="man" DisplayName="Man Overboard (Diving Goggles)">
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             </MarkerCategory>
@@ -63,7 +73,7 @@
             </MarkerCategory>
             <MarkerCategory name="nolawc" DisplayName="No One Likes a Wet Charr [H]"/>
             <MarkerCategory name="slalom" DisplayName="Slalom Skimmer"/>
-            <MarkerCategory name="trafok" DisplayName="The Rise and Fall of Kookoochoo"/>
+            <MarkerCategory name="trafok" DisplayName="The Rise and Fall of Kookoochoo [H]"/>
             <MarkerCategory name="zephyrite" DisplayName="Zephyrite Lost and Found"/>
 
             <MarkerCategory name="qp"     IsSeparator="1" DisplayName="  : Queens Pavilion"/>
