@@ -16,8 +16,6 @@
         <Trail type="leag.festivals.barnstorming" trailData="Data/Festivals/Festival of the Four Winds/To Barnstorming the Cliffs.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="leag.festivals.barnstorming" trailData="Data/Festivals/Festival of the Four Winds/Barnstorming the Cliffs.trl"/>
 
-        <POI MapID="922" xpos="-64.4613" ypos="210.688" zpos="-31.5681" type="leag.festivals.ge" GUID="H3MGxPYNQEOGZ2FSIGRiSw==" iconFile="Data/Images/Adventures/Griffon Expert.png"/>
-
         <Trail type="leag.festivals.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH Start.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="ffff00"/>
         <Trail type="leag.festivals.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="ffff00"/>
         <Trail type="leag.festivals.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH1-2.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="ffff00"/>
