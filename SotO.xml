@@ -509,23 +509,23 @@
         <Trail type="leag.sa.srsr" trailData="Data/SotO/Stargaze Ridge Skyscale Ride.trl"/>
         
         <!-- The Waylit Lantern -->
-        <Trail type="leag.twl.1" trailData="Data/SotO/The Waylit Lantern 1.trl"/>
-        <Trail type="leag.twl.2" trailData="Data/SotO/The Waylit Lantern 2.trl" color="FF9933"/>
-        <Trail type="leag.twl.4" trailData="Data/SotO/The Waylit Lantern 4.trl"/>
-        <Trail type="leag.twl.4" trailData="Data/SotO/The Waylit Lantern 4b.trl"/>
-        <Trail type="leag.twl.5" trailData="Data/SotO/The Waylit Lantern 5.trl"/>
-        <Trail type="leag.twl.6" trailData="Data/SotO/The Waylit Lantern 6.trl"/>
-        <Trail type="leag.twl.6" trailData="Data/SotO/The Waylit Lantern 6b.trl"/>
-        <Trail type="leag.twl.7" trailData="Data/SotO/The Waylit Lantern 7.trl"/>
-        <Trail type="leag.twl.8" trailData="Data/SotO/The Waylit Lantern 8.trl"/>
-        <Trail type="leag.twl.9" trailData="Data/SotO/The Waylit Lantern 9.trl"/>
-        <Trail type="leag.twl.10" trailData="Data/SotO/The Waylit Lantern 10.trl"/>
-        <Trail type="leag.twl.11" trailData="Data/SotO/The Waylit Lantern 11.trl"/>
-        <Trail type="leag.twl.12" trailData="Data/SotO/The Waylit Lantern 12a.trl"/>
-        <Trail type="leag.twl.12" trailData="Data/SotO/The Waylit Lantern 12b.trl"/>
-        <Trail type="leag.twl.12" trailData="Data/SotO/The Waylit Lantern 12c.trl"/>
-        <Trail type="leag.twl.12" trailData="Data/SotO/The Waylit Lantern 12d.trl"/>
-        <Trail type="leag.twl.13" trailData="Data/SotO/The Waylit Lantern 13.trl"/>
+        <Trail type="leag.twt.twl.1" trailData="Data/SotO/The Waylit Lantern 1.trl"/>
+        <Trail type="leag.twt.twl.2" trailData="Data/SotO/The Waylit Lantern 2.trl" color="FF9933"/>
+        <Trail type="leag.twt.twl.4" trailData="Data/SotO/The Waylit Lantern 4.trl"/>
+        <Trail type="leag.twt.twl.4" trailData="Data/SotO/The Waylit Lantern 4b.trl"/>
+        <Trail type="leag.twt.twl.5" trailData="Data/SotO/The Waylit Lantern 5.trl"/>
+        <Trail type="leag.twt.twl.6" trailData="Data/SotO/The Waylit Lantern 6.trl"/>
+        <Trail type="leag.twt.twl.6" trailData="Data/SotO/The Waylit Lantern 6b.trl"/>
+        <Trail type="leag.twt.twl.7" trailData="Data/SotO/The Waylit Lantern 7.trl"/>
+        <Trail type="leag.twt.twl.8" trailData="Data/SotO/The Waylit Lantern 8.trl"/>
+        <Trail type="leag.twt.twl.9" trailData="Data/SotO/The Waylit Lantern 9.trl"/>
+        <Trail type="leag.twt.twl.10" trailData="Data/SotO/The Waylit Lantern 10.trl"/>
+        <Trail type="leag.twt.twl.11" trailData="Data/SotO/The Waylit Lantern 11.trl"/>
+        <Trail type="leag.twt.twl.12" trailData="Data/SotO/The Waylit Lantern 12a.trl"/>
+        <Trail type="leag.twt.twl.12" trailData="Data/SotO/The Waylit Lantern 12b.trl"/>
+        <Trail type="leag.twt.twl.12" trailData="Data/SotO/The Waylit Lantern 12c.trl"/>
+        <Trail type="leag.twt.twl.12" trailData="Data/SotO/The Waylit Lantern 12d.trl"/>
+        <Trail type="leag.twt.twl.13" trailData="Data/SotO/The Waylit Lantern 13.trl"/>
         
         <!-- There and... -->
         <Trail type="leag.sa.there" trailData="Data/SotO/There and.trl"/>
