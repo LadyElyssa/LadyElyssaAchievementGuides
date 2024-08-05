@@ -29,7 +29,7 @@
                 <MarkerCategory name="metrica"     DisplayName="Metrica Province" color="00CC99"/>
                 <MarkerCategory name="caledon"     DisplayName="Caledon Forest" color="00CC99"/>
                 <MarkerCategory name="brisban"     DisplayName="Brisban Wildlands" color="00CC99"/>
-                <MarkerCategory name="maelstrom"   DisplayName="Mount Maelstrom" color="00CC99">
+                <MarkerCategory name="maelstrom"   DisplayName="Mount Maelstrom">
                     <MarkerCategory name="swirl" DisplayName="Toggle Yellow Swirl" iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="128"/>
                 </MarkerCategory>
                 <MarkerCategory name="orr"         IsSeparator="1" DisplayName="  | RUINS OF ORR"/>
