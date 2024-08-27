@@ -1,19 +1,154 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
         <MarkerCategory name="jw" IsSeparator="1" DisplayName="  | JANTHIR WILDS"/>
-        <!--
-        <MarkerCategory name="jwgoggles" DisplayName="Dive Master">
+        
+        <MarkerCategory name="jwgoggles" DisplayName="Diving Goggles">
             <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-            <MarkerCategory name="cd"     IsSeparator="1" DisplayName="  | ISLES OF JANTHIR"/>
-            <MarkerCategory name="ls" DisplayName="Lowland Shore" color="00CC99"/>
+            <MarkerCategory name="ioj"     IsSeparator="1" DisplayName="  | ISLES OF JANTHIR"/>
+            <MarkerCategory name="ls" DisplayName="Lowland Shore" color="00CC99" achievementId="8170"/>
             <MarkerCategory name="js" DisplayName="Janthir Syntri" color="00CC99"/>
         </MarkerCategory>
-        -->
-        <MarkerCategory name="ls" DisplayName="Lowland Shore">
+        
+        <MarkerCategory name="ls" DisplayName="Lowland Shore (Work in Progress...)">
+            <MarkerCategory name="ad" DisplayName="Adventures" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                <MarkerCategory name="hssr" DisplayName="Harvest Shore Salmon Run" achievementId="8342"/>
+                <MarkerCategory name="has" DisplayName="Hide-and-Seek" achievementId="8253"/>
+                <MarkerCategory name="mccsr" DisplayName="Moon Camp Covert Salmon Run" achievementId="8301"/>
+                <MarkerCategory name="wr" DisplayName="Warclaw Run" achievementId="8340"/>
+            </MarkerCategory>
+            <MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                <MarkerCategory name="buzzy" DisplayName="Buzzy Treetops" achievementId="8158"/>
+                <MarkerCategory name="hive" DisplayName="Hive Hopper" achievementId="8245"/>
+                <MarkerCategory name="light" DisplayName="Light Up the Vale" achievementId="8300"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="ahdw" DisplayName="A Hard Day's Work" achievementId="8291">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/n1.png" inGameVisibility="0" achievementbit="0"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/n2.png" inGameVisibility="0" achievementbit="1"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/n3.png" inGameVisibility="0" achievementbit="2"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/n4.png" inGameVisibility="0" achievementbit="3"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/n5.png" inGameVisibility="0" achievementbit="4"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/n6.png" inGameVisibility="0" achievementbit="5"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/n7.png" inGameVisibility="0" achievementbit="6"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/n8.png" inGameVisibility="0" achievementbit="7"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="waterfalls" DisplayName="Chasing Waterfalls" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png" achievementId="8327">
+                <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/n1.png" inGameVisibility="0" achievementbit="0"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/n2.png" inGameVisibility="0" achievementbit="1"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/n3.png" inGameVisibility="0" achievementbit="2"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/n4.png" inGameVisibility="0" achievementbit="3"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/n5.png" inGameVisibility="0" achievementbit="4"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/n6.png" inGameVisibility="0" achievementbit="5"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/n7.png" inGameVisibility="0" achievementbit="6"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/n8.png" inGameVisibility="0" achievementbit="7"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/n9.png" inGameVisibility="0" achievementbit="8"/>
+                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/n10.png" inGameVisibility="0" achievementbit="9"/>
+                <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/Images/Numbers/n11.png" inGameVisibility="0" achievementbit="10"/>
+                <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/Images/Numbers/n12.png" inGameVisibility="0" achievementbit="11"/>
+            </MarkerCategory>
+            <MarkerCategory name="dad" DisplayName="Diplomacy and Discovery [Story]">
+                <MarkerCategory name="ash" DisplayName="Ash Legion Diplomacy (H)" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0"/>
+                <MarkerCategory name="ww" DisplayName="Warclaw Wrangling" achievementId="8190">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            <MarkerCategory name="cc" DisplayName="Cryptid Chase" achievementId="8292">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="num" IsSeparator="1" DisplayName="  Trail Number"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
+                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png"/>
+                <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/Images/Numbers/11.png"/>
+                <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/Images/Numbers/12.png"/>
+                <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/Images/Numbers/13.png"/>
+                <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/Images/Numbers/14.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="ccc" DisplayName="Cultural Culinary Comprehension" achievementId="8313"/>
+            <MarkerCategory name="ftf" DisplayName="Feed the Flames (H)" iconFile="Data/Images/Feed the Flames.png" defaulttoggle="0" achievementId="8177"/>
+            <MarkerCategory name="fott" DisplayName="Friend of the Trolls" achievementId="8282"/>
+            <!--
+            <MarkerCategory name="gtct" DisplayName="Gettin' the Crew Together" achievementId="8266">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/n1.png"             inGameVisibility="0" achievementbit="1"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/n2.png"             inGameVisibility="0" achievementbit="2"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/n3.png"           inGameVisibility="0" achievementbit="3"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/n4.png"            inGameVisibility="0" achievementbit="4"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/n5.png"            inGameVisibility="0" achievementbit="5"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/n6.png"             inGameVisibility="0" achievementbit="6"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/n7.png"           inGameVisibility="0" achievementbit="7"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/n8.png"           inGameVisibility="0" achievementbit="8"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/n9.png"            inGameVisibility="0" achievementbit="9"/>
+                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/n10.png"           inGameVisibility="0" achievementbit="10"/>
+                <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/Images/Numbers/n11.png"        inGameVisibility="0" achievementbit="11"/>
+                <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/Images/Numbers/n12.png"        inGameVisibility="0" achievementbit="12"/>
+                <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/Images/Numbers/n13.png"      inGameVisibility="0" achievementbit="13"/>
+                <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/Images/Numbers/n14.png"      inGameVisibility="0" achievementbit="14"/>
+                <MarkerCategory name="15" DisplayName="Fifteen" iconFile="Data/Images/Numbers/n15.png"       inGameVisibility="0" achievementbit="15"/>
+                <MarkerCategory name="16" DisplayName="Sixteen" iconFile="Data/Images/Numbers/n16.png"       inGameVisibility="0" achievementbit="16"/>
+                <MarkerCategory name="17" DisplayName="Seventeen" iconFile="Data/Images/Numbers/n17.png"     inGameVisibility="0" achievementbit="17"/>
+                <MarkerCategory name="18" DisplayName="Eighteen" iconFile="Data/Images/Numbers/n18.png"      inGameVisibility="0" achievementbit="18"/>
+                <MarkerCategory name="19" DisplayName="Nineteen" iconFile="Data/Images/Numbers/n19.png"      inGameVisibility="0" achievementbit="19"/>
+                <MarkerCategory name="20" DisplayName="Twenty" iconFile="Data/Images/Numbers/n20.png"        inGameVisibility="0" achievementbit="20"/>
+            </MarkerCategory>
+-->
+            <MarkerCategory name="gmg" DisplayName="Golden Mushroom Guru" achievementId="8183"/>
+            <MarkerCategory name="litl" DisplayName="Life in the Lowlands" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="8173">
+                <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/n1.png"             inGameVisibility="0" achievementbit="0"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/n2.png"             inGameVisibility="0" achievementbit="1"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/n3.png"           inGameVisibility="0" achievementbit="2"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/n4.png"            inGameVisibility="0" achievementbit="3"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/n5.png"            inGameVisibility="0" achievementbit="4"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/n6.png"             inGameVisibility="0" achievementbit="5"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/n7.png"           inGameVisibility="0" achievementbit="6"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/n8.png"           inGameVisibility="0" achievementbit="7"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/n9.png"            inGameVisibility="0" achievementbit="8"/>
+                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/n10.png"           inGameVisibility="0" achievementbit="9"/>
+                <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/Images/Numbers/n11.png"        inGameVisibility="0" achievementbit="10"/>
+                <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/Images/Numbers/n12.png"        inGameVisibility="0" achievementbit="11"/>
+                <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/Images/Numbers/n13.png"      inGameVisibility="0" achievementbit="12"/>
+                <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/Images/Numbers/n14.png"      inGameVisibility="0" achievementbit="13"/>
+                <MarkerCategory name="15" DisplayName="Fifteen" iconFile="Data/Images/Numbers/n15.png"       inGameVisibility="0" achievementbit="14"/>
+                <MarkerCategory name="16" DisplayName="Sixteen" iconFile="Data/Images/Numbers/n16.png"       inGameVisibility="0" achievementbit="15"/>
+                <MarkerCategory name="17" DisplayName="Seventeen" iconFile="Data/Images/Numbers/n17.png"     inGameVisibility="0" achievementbit="16"/>
+                <MarkerCategory name="18" DisplayName="Eighteen" iconFile="Data/Images/Numbers/n18.png"      inGameVisibility="0" achievementbit="17"/>
+                <MarkerCategory name="19" DisplayName="Nineteen" iconFile="Data/Images/Numbers/n19.png"      inGameVisibility="0" achievementbit="18"/>
+                <MarkerCategory name="20" DisplayName="Twenty" iconFile="Data/Images/Numbers/n20.png"        inGameVisibility="0" achievementbit="19"/>
+                <MarkerCategory name="21" DisplayName="Twenty One" iconFile="Data/Images/Numbers/n21.png"    inGameVisibility="0" achievementbit="20"/>
+                <MarkerCategory name="22" DisplayName="Twenty Two" iconFile="Data/Images/Numbers/n22.png"    inGameVisibility="0" achievementbit="21"/>
+                <MarkerCategory name="23" DisplayName="Twenty Three" iconFile="Data/Images/Numbers/n23.png"  inGameVisibility="0" achievementbit="22"/>
+            </MarkerCategory>
+            <MarkerCategory name="mulch" DisplayName="Mulch Master (H)" iconFile="Data/Images/Mulch Master.png" defaulttoggle="0" achievementId="8318"/>
+            <MarkerCategory name="pyr" DisplayName="Pay Your Respects" iconFile="Data/Images/Pay Your Respects.png" achievementId="8297"/>
+            <MarkerCategory name="rehearsal" DisplayName="Rehearsal (H)" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8361"/>
+            <MarkerCategory name="rar" DisplayName="Relaxed and Rejuvenated" achievementId="8222"/>
+            <MarkerCategory name="scl" DisplayName="Star-Crossed Lovers" texture="Data/Images/Trails/Star-Crossed Lovers.png" achievementId="8309"/>
+            <MarkerCategory name="delicacy" DisplayName="Troll Delicacy (H)" iconFile="Data/Images/Troll Delicacy.png" defaulttoggle="0" achievementId="8294"/>
+            <MarkerCategory name="wts" DisplayName="What's That Sound (H)" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8156"/>
+            <MarkerCategory name="workplace" DisplayName="Workplace Safety (H)" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8184"/>
         </MarkerCategory>
-        <MarkerCategory name="js" DisplayName="Janthir Syntri">
+
+        <MarkerCategory name="js" DisplayName="Janthir Syntri (Work in Progress - Coming Soon-ish!)">
         </MarkerCategory>
+
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>
