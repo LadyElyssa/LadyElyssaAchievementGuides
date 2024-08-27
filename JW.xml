@@ -136,6 +136,17 @@
         <Trail type="leag.ls.gtct" trailData="Data/JW/Gettin' the Crew Together 9.trl"/>
         <Trail type="leag.ls.gtct" trailData="Data/JW/Gettin' the Crew Together 10a.trl"/>
         <Trail type="leag.ls.gtct" trailData="Data/JW/Gettin' the Crew Together 10b.trl"/>
+        <POI MapID="1550" xpos="558.608" ypos="423.099" zpos="-555.016" type="leag.ls.gtct.start" GUID="ieXxCxIcQk6RltwqgjJnGw=="/>
+        <POI MapID="1550" xpos="443.631" ypos="149.958" zpos="82.123" type="leag.ls.gtct.5" GUID="Sic/VbWMoEeb912YeXtqkQ=="/>
+        <POI MapID="1550" xpos="560.198" ypos="393.147" zpos="-547.292" type="leag.ls.gtct.2" GUID="7N9CumfHqU6QCnqqbIuDFw=="/>
+        <POI MapID="1550" xpos="570.974" ypos="393.448" zpos="-547.149" type="leag.ls.gtct.4" GUID="R/r4+wLfmkKTSzMNSh6i1A=="/>
+        <POI MapID="1550" xpos="557.909" ypos="395.664" zpos="-501.624" type="leag.ls.gtct.3" GUID="fk8Vm18snE28JOb8hX8MAQ=="/>
+        <POI MapID="1550" xpos="-495.441" ypos="-3.11015" zpos="-70.5238" type="leag.ls.gtct.6" GUID="QkTVB1R49UakXR9RrazJdA=="/>
+        <POI MapID="1550" xpos="-879.012" ypos="3.2193" zpos="102.052" type="leag.ls.gtct.7" GUID="OIFbEmOpk0WMxLOg0HjzaA=="/>
+        <POI MapID="1550" xpos="511.391" ypos="212.641" zpos="-115.202" type="leag.ls.gtct.8" GUID="7qggHM791UaTVaShkWZ2Ow=="/>
+        <POI MapID="1550" xpos="503.775" ypos="339.185" zpos="-698.258" type="leag.ls.gtct.9" GUID="+vKnlUosFUW71MhcBXlQHw=="/>
+        <POI MapID="1550" xpos="919.283" ypos="344.941" zpos="-111.479" type="leag.ls.gtct.10" GUID="PdPLeNu0QkCFvPijojLYaw=="/>
+        <POI MapID="1550" xpos="-201.352" ypos="175.169" zpos="-75.0674" type="leag.ls.gtct.10" GUID="HwxLfoV5WkOa2Zs9BB9RVw=="/>
     -->
 
         <!-- Golden Mushroom Guru -->
