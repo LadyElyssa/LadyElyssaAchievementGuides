@@ -7,7 +7,8 @@
         <Trail type="leag.ls.ad.mccsr" trailData="Data/JW/Adventures/Moon Camp Covert Salmon Run.trl"/>
         <POI MapID="1550" xpos="345.475" ypos="307.128" zpos="-443.079" type="leag.ls.ad.mccsr" GUID="w2nMSYi2/kyerksR96CkzQ==" iconFile="Data/Images/Icons/Flop!.png"/>
         <POI MapID="1550" xpos="156.91" ypos="307.457" zpos="-265.294" type="leag.ls.ad.mccsr" GUID="S3ql3qUhREy16r1Y+5+jBw==" iconFile="Data/Images/Icons/Flop!.png"/>
-        <Trail type="leag.ls.ad.wr" trailData="Data/JW/Adventures/Warclaw Run.trl"/>
+        <Trail type="leag.ls.ad.rs" trailData="Data/JW/Adventures/Raven Scouting.trl"/>
+        <Trail type="leag.ls.ad.rr" trailData="Data/JW/Adventures/Warclaw Run.trl"/>
 
         <!-- Diving Goggles -->
         <POI MapID="1550" xpos="471.488" ypos="149.085" zpos="289.764" type="leag.jwgoggles.sign" GUID="Js+VMA5k80anxfViasClKQ=="/>
