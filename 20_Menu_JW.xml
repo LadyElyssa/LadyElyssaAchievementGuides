@@ -146,7 +146,7 @@
             <MarkerCategory name="workplace" DisplayName="Workplace Safety (H)" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8184"/>
         </MarkerCategory>
 
-        <MarkerCategory name="js" DisplayName="Janthir Syntri (Work in Progress - Coming Soon-ish!)">
+        <MarkerCategory name="js" DisplayName="Janthir Syntri (Coming Soon-ish!)">
         </MarkerCategory>
 
     </MarkerCategory>
