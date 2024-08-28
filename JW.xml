@@ -1,27 +1,9 @@
 <OverlayData>
     <POIs>
-        <!-- Adventures -->
-        <Trail type="leag.ls.ad.hssr" trailData="Data/JW/Adventures/Harvest Shore Salmon Run.trl"/>
-        <Trail type="leag.ls.ad.has" trailData="Data/JW/Adventures/To Hide-and-Seek.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="leag.ls.ad.has" trailData="Data/JW/Adventures/Hide-and-Seek.trl"/>
-        <Trail type="leag.ls.ad.mccsr" trailData="Data/JW/Adventures/Moon Camp Covert Salmon Run.trl"/>
-        <POI MapID="1550" xpos="345.475" ypos="307.128" zpos="-443.079" type="leag.ls.ad.mccsr" GUID="w2nMSYi2/kyerksR96CkzQ==" iconFile="Data/Images/Icons/Flop!.png"/>
-        <POI MapID="1550" xpos="156.91" ypos="307.457" zpos="-265.294" type="leag.ls.ad.mccsr" GUID="S3ql3qUhREy16r1Y+5+jBw==" iconFile="Data/Images/Icons/Flop!.png"/>
-        <Trail type="leag.ls.ad.rs" trailData="Data/JW/Adventures/Raven Scouting.trl"/>
-        <Trail type="leag.ls.ad.rr" trailData="Data/JW/Adventures/Warclaw Run.trl"/>
-
-        <!-- Diving Goggles -->
-        <POI MapID="1550" xpos="471.488" ypos="149.085" zpos="289.764" type="leag.jwgoggles.sign" GUID="Js+VMA5k80anxfViasClKQ=="/>
-        <POI MapID="1550" xpos="-903.873" ypos="190.883" zpos="111.099" type="leag.jwgoggles.sign" GUID="PEiwNr4y9ka/gx2ZLGTOVw=="/>
-        <Trail type="leag.jwgoggles.ls" trailData="Data/JW/Diving Goggles/Lowland Shore - Harvest Den.trl"/>
-        <Trail type="leag.jwgoggles.ls" trailData="Data/JW/Diving Goggles/Lowland Shore - Coursing Upland.trl"/>
         
-        <!-- Jumping Puzzles -->
-        <Trail type="leag.ls.jp.light" trailData="Data/JW/Jumping Puzzles/Light Up the Vale.trl"/>
-        <Trail type="leag.ls.jp.hive" trailData="Data/JW/Jumping Puzzles/Hive Hopper.trl"/>
-        <Trail type="leag.ls.jp.buzzy" trailData="Data/JW/Jumping Puzzles/Buzzy Treetops.trl"/>
+        <!-- LOWLAND SHORE -->
 
-        <!-- LOWLAND SHORE - Achievemnts -->
+        <!-- Achievemnts -->
 
         <!-- A Hard Day's Work -->
         <POI MapID="1550" xpos="-109.331" ypos="43.9588" zpos="103.449" type="leag.ls.ahdw.start" GUID="1TYnh1U5i0+pXe9fZeXMCw=="/>
@@ -219,6 +201,115 @@
 
         <!-- Workplace Safety -->
         <Trail type="leag.ls.workplace" trailData="Data/JW/Workplace Safety.trl"/>
+
+        <!-- Adventures -->
+        <Trail type="leag.ls.ad.hssr" trailData="Data/JW/Adventures/Harvest Shore Salmon Run.trl"/>
+        <POI MapID="1550" xpos="670.02" ypos="0.314446" zpos="482.421" type="leag.ls.ad.hssr" GUID="BWxX/Huzfka53sv1eGiTQA==" iconFile="Data/Images/Icons/Flop!.png"/>
+        <POI MapID="1550" xpos="681.951" ypos="101.899" zpos="207.741" type="leag.ls.ad.hssr" GUID="wgiwySe7HUu+7Rpl8uUlig==" iconFile="Data/Images/Icons/Flop!.png"/>
+        <POI MapID="1550" xpos="381.34" ypos="145.719" zpos="-11.5264" type="leag.ls.ad.hssr" GUID="ojJMMVEhTUCoIoIDvQaYFw==" iconFile="Data/Images/Icons/Flop!.png"/>
+        <POI MapID="1550" xpos="319.977" ypos="228.686" zpos="-154.404" type="leag.ls.ad.hssr" GUID="pnnC8ciWmkeP1cFfgQssEw==" iconFile="Data/Images/Icons/Flop!.png"/>
+        <POI MapID="1550" xpos="284.012" ypos="252.334" zpos="-156.1" type="leag.ls.ad.hssr" GUID="eVSWwIsIC0uGOANIs/yZsg==" iconFile="Data/Images/Icons/Flop!.png"/>
+        <POI MapID="1550" xpos="484.561" ypos="307.071" zpos="-477.839" type="leag.ls.ad.hssr" GUID="FXFy72r/LUCmCP4SyXwSVg==" iconFile="Data/Images/Icons/Flop!.png"/>
+
+        <Trail type="leag.ls.ad.has" trailData="Data/JW/Adventures/To Hide-and-Seek.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.ls.ad.has" trailData="Data/JW/Adventures/Hide-and-Seek.trl"/>
+        <Trail type="leag.ls.ad.mccsr" trailData="Data/JW/Adventures/Moon Camp Covert Salmon Run.trl"/>
+        <POI MapID="1550" xpos="345.475" ypos="307.128" zpos="-443.079" type="leag.ls.ad.mccsr" GUID="w2nMSYi2/kyerksR96CkzQ==" iconFile="Data/Images/Icons/Flop!.png"/>
+        <POI MapID="1550" xpos="156.91" ypos="307.457" zpos="-265.294" type="leag.ls.ad.mccsr" GUID="S3ql3qUhREy16r1Y+5+jBw==" iconFile="Data/Images/Icons/Flop!.png"/>
+        <Trail type="leag.ls.ad.rs" trailData="Data/JW/Adventures/Raven Scouting.trl"/>
+        <Trail type="leag.ls.ad.rr" trailData="Data/JW/Adventures/Warclaw Run.trl"/>
+
+        <!-- Diving Goggles -->
+        <POI MapID="1550" xpos="471.488" ypos="149.085" zpos="289.764" type="leag.ls.jwgoggles.sign" GUID="Js+VMA5k80anxfViasClKQ=="/>
+        <POI MapID="1550" xpos="-903.873" ypos="190.883" zpos="111.099" type="leag.ls.jwgoggles.sign" GUID="PEiwNr4y9ka/gx2ZLGTOVw=="/>
+        <Trail type="leag.ls.jwgoggles.ls" trailData="Data/JW/Diving Goggles/Lowland Shore - Harvest Den.trl"/>
+        <Trail type="leag.ls.jwgoggles.ls" trailData="Data/JW/Diving Goggles/Lowland Shore - Coursing Upland.trl"/>
+        
+        <!-- Gathering - Honey Flower -->
+        <POI MapID="1550" xpos="304.948" ypos="328.938" zpos="-558.92" type="leag.ls.gathering.flower" GUID="XFWX20UoUkmMsm9wUCcpXQ=="/>
+        <POI MapID="1550" xpos="198.109" ypos="308.876" zpos="-499.591" type="leag.ls.gathering.flower" GUID="8EOABTFTzkeSkIg5Af3R/g=="/>
+        <POI MapID="1550" xpos="136.102" ypos="311.228" zpos="-415.751" type="leag.ls.gathering.flower" GUID="vo9z1pUpUUy742xaHj80qg=="/>
+        <POI MapID="1550" xpos="72.1596" ypos="301.54" zpos="-481.075" type="leag.ls.gathering.flower" GUID="+yuluzaXQ0WygtkguP8P0g=="/>
+        <POI MapID="1550" xpos="24.4042" ypos="308.917" zpos="-338.366" type="leag.ls.gathering.flower" GUID="EY4VKFsV1ke1lUdkrszTJQ=="/>
+        <POI MapID="1550" xpos="-39.8308" ypos="290.793" zpos="-505.949" type="leag.ls.gathering.flower" GUID="mabA8vZm40OZ35Ep4TCaMg=="/>
+        <POI MapID="1550" xpos="-90.63" ypos="299.133" zpos="-584.25" type="leag.ls.gathering.flower" GUID="reE5mj7Alkmi28cu5BViSw=="/>
+        <POI MapID="1550" xpos="-194.363" ypos="311.262" zpos="-648.305" type="leag.ls.gathering.flower" GUID="5QX42ok+TECq7q+bBcV2DA=="/>
+        <POI MapID="1550" xpos="-198.48" ypos="241.777" zpos="-486.961" type="leag.ls.gathering.flower" GUID="K9SlPeS2TkeerNreHnx8mg=="/>
+        <POI MapID="1550" xpos="-175.502" ypos="215.86" zpos="-381.462" type="leag.ls.gathering.flower" GUID="p7i0JQHJXE62agPeKH2R9g=="/>
+        <POI MapID="1550" xpos="-75.0566" ypos="294.926" zpos="-281.017" type="leag.ls.gathering.flower" GUID="hYhFtK/HqkuTiNM+yyh3wA=="/>
+        <POI MapID="1550" xpos="-6.85026" ypos="237.653" zpos="-124.977" type="leag.ls.gathering.flower" GUID="UcSwMyBx5kej6eI0qP+u0Q=="/>
+        <POI MapID="1550" xpos="-133.348" ypos="216.769" zpos="-142.378" type="leag.ls.gathering.flower" GUID="6ddQ8KOEgEy8mszkSbzpwA=="/>
+        <POI MapID="1550" xpos="-230.394" ypos="214.746" zpos="-61.967" type="leag.ls.gathering.flower" GUID="fDsXo/srU0uDk7A038Flkg=="/>
+        <POI MapID="1550" xpos="-505.761" ypos="208.857" zpos="-419.888" type="leag.ls.gathering.flower" GUID="1iVaG5IYGU+Z2TrjkHfUVg=="/>
+        <POI MapID="1550" xpos="-455.336" ypos="209.368" zpos="-374.554" type="leag.ls.gathering.flower" GUID="tyoPqwLEx0eaNvVfGKrJDg=="/>
+        <POI MapID="1550" xpos="-451.198" ypos="208.676" zpos="-369.477" type="leag.ls.gathering.flower" GUID="4170aa4PZU2EthkofTjVhQ=="/>
+        <POI MapID="1550" xpos="-456.128" ypos="208.396" zpos="-364.6" type="leag.ls.gathering.flower" GUID="WVZpVCqRJ0edo2pLC7nXrA=="/>
+        <POI MapID="1550" xpos="-460.297" ypos="209.09" zpos="-369.624" type="leag.ls.gathering.flower" GUID="pWUidEGofEWQC589M7H8bQ=="/>
+        <POI MapID="1550" xpos="-499.218" ypos="209.898" zpos="-328.609" type="leag.ls.gathering.flower" GUID="B6MlynYabEi093IpIJqkUg=="/>
+        <POI MapID="1550" xpos="-428.21" ypos="203.45" zpos="-283.823" type="leag.ls.gathering.flower" GUID="IOl7LLJiNUqx2/2BNcqWWA=="/>
+        <POI MapID="1550" xpos="-523.249" ypos="202.513" zpos="-267.067" type="leag.ls.gathering.flower" GUID="Ksut3G4B2U2yRaAFMsEG3w=="/>
+        <POI MapID="1550" xpos="-627.068" ypos="234.329" zpos="-307.175" type="leag.ls.gathering.flower" GUID="jkStgdt0ikugLqYKphgvjQ=="/>
+        <POI MapID="1550" xpos="-651.35" ypos="253.509" zpos="-422.78" type="leag.ls.gathering.flower" GUID="YVMuoUztzUq7I04seFh2TQ=="/>
+        <POI MapID="1550" xpos="-672.184" ypos="278.479" zpos="-509.432" type="leag.ls.gathering.flower" GUID="y65RKN83u0aHJW05EnF9tg=="/>
+        <POI MapID="1550" xpos="-794.457" ypos="298.81" zpos="-478.884" type="leag.ls.gathering.flower" GUID="Nqwsh/AyCEC+JqerHR0dtg=="/>
+        <POI MapID="1550" xpos="-903.015" ypos="267.574" zpos="-363.735" type="leag.ls.gathering.flower" GUID="aLt8ZQaWHEaUjkT7imWYMQ=="/>
+        <POI MapID="1550" xpos="-974.913" ypos="232.827" zpos="-263.695" type="leag.ls.gathering.flower" GUID="+F4/dNyVJE2qNx52SoaIuw=="/>
+        <POI MapID="1550" xpos="-863.076" ypos="264.215" zpos="-282.507" type="leag.ls.gathering.flower" GUID="2GRUMCcUY0yDKwC8LLevPw=="/>
+        <POI MapID="1550" xpos="-833.327" ypos="218.657" zpos="-126.055" type="leag.ls.gathering.flower" GUID="00Hr/XKREEONWCzELAkVvQ=="/>
+        <POI MapID="1550" xpos="-720.948" ypos="211.844" zpos="-185.064" type="leag.ls.gathering.flower" GUID="a+/ot5sgIU6utXrJvYo1PQ=="/>
+        <POI MapID="1550" xpos="-901.421" ypos="202.629" zpos="-46.6447" type="leag.ls.gathering.flower" GUID="hOWe+pOrhEGZHe2trcVBVw=="/>
+        <POI MapID="1550" xpos="-1025.8" ypos="213.599" zpos="-66.2067" type="leag.ls.gathering.flower" GUID="n01KRTI1+UOws/Dr+xDr1Q=="/>
+        <POI MapID="1550" xpos="-951.381" ypos="202.544" zpos="70.6585" type="leag.ls.gathering.flower" GUID="y2JQCwq+bUCzqydpgdteeQ=="/>
+        <POI MapID="1550" xpos="-843.906" ypos="195.007" zpos="81.2416" type="leag.ls.gathering.flower" GUID="x/hu02RXX0WJCF5xs6VHwQ=="/>
+        <POI MapID="1550" xpos="-728.608" ypos="0.718317" zpos="15.6368" type="leag.ls.gathering.flower" GUID="4hODnTI7DkSu3ZeiFv2drA=="/>
+        <POI MapID="1550" xpos="-580.155" ypos="0.468297" zpos="27.9285" type="leag.ls.gathering.flower" GUID="HADNPc2YkUado1j+wICD5A=="/>
+        <POI MapID="1550" xpos="-486.056" ypos="2.33067" zpos="64.2708" type="leag.ls.gathering.flower" GUID="9PNDOVCapkaXJwizmSoRTw=="/>
+        <POI MapID="1550" xpos="-562.792" ypos="0.436587" zpos="131.243" type="leag.ls.gathering.flower" GUID="F5dG9itLg0ecg/L0annEkg=="/>
+        <POI MapID="1550" xpos="-548.199" ypos="0.966801" zpos="190.559" type="leag.ls.gathering.flower" GUID="srv805aMnEiZWcHSoaTXvw=="/>
+        <POI MapID="1550" xpos="-635.426" ypos="2.26764" zpos="268.273" type="leag.ls.gathering.flower" GUID="rxwkt5xPq0qiq1yh53KOAA=="/>
+        <POI MapID="1550" xpos="-682.402" ypos="0.526798" zpos="407.914" type="leag.ls.gathering.flower" GUID="WoQaoo/xQUauhBTXw/KkdQ=="/>
+        <POI MapID="1550" xpos="-679.749" ypos="0.198803" zpos="521.341" type="leag.ls.gathering.flower" GUID="2tgiwjesKkqSZ/Qlr1AQfQ=="/>
+        <POI MapID="1550" xpos="-836.816" ypos="0.088643" zpos="436.689" type="leag.ls.gathering.flower" GUID="chUqVGXgLEi7W5f4qOhCGw=="/>
+        <POI MapID="1550" xpos="-806.803" ypos="0.787608" zpos="350.316" type="leag.ls.gathering.flower" GUID="ml63M8bIEk6HuC6u0aukwg=="/>
+        <POI MapID="1550" xpos="-902.423" ypos="-0.110054" zpos="293.478" type="leag.ls.gathering.flower" GUID="ehw1/0ukakSAIepVOJhGNw=="/>
+        <POI MapID="1550" xpos="-946.163" ypos="-0.143912" zpos="223.207" type="leag.ls.gathering.flower" GUID="4bcgT1znEkSh+tJfu2Sr+g=="/>
+        <POI MapID="1550" xpos="-962.12" ypos="66.4855" zpos="134.985" type="leag.ls.gathering.flower" GUID="11Vv/Uixt0W/9/aVknDl+g=="/>
+        
+        <!-- Gathering - Lowland Pine -->
+        <POI MapID="1550" xpos="-655.238" ypos="2.19461" zpos="541.196" type="leag.ls.gathering.wood" GUID="i310mXG1S0mcKFav7poldA=="/>
+        <POI MapID="1550" xpos="-240.851" ypos="205.936" zpos="-351.633" type="leag.ls.gathering.wood" GUID="ryOquXc6lEai/bcBA3c9EA=="/>
+        <POI MapID="1550" xpos="-97.5303" ypos="309.606" zpos="-381.052" type="leag.ls.gathering.wood" GUID="nxUB/z0bVEyD3f0OZZ6yoQ=="/>
+        <POI MapID="1550" xpos="-609.549" ypos="278.813" zpos="-504.456" type="leag.ls.gathering.wood" GUID="s0iptAMoV0mQH20zMfri2A=="/>
+        <POI MapID="1550" xpos="-717.571" ypos="282.585" zpos="-305.219" type="leag.ls.gathering.wood" GUID="LcXEK/dnfk+0FDpuCiQL4Q=="/>
+        <POI MapID="1550" xpos="-860.769" ypos="223.229" zpos="-111.958" type="leag.ls.gathering.wood" GUID="wWvM7phuBEaHiWdWmN9pUg=="/>
+        <POI MapID="1550" xpos="-937.064" ypos="208.173" zpos="9.53541" type="leag.ls.gathering.wood" GUID="97eOkRZXh0Sa2Y5EIE5Alg=="/>
+        <POI MapID="1550" xpos="-299.476" ypos="132.713" zpos="62.1872" type="leag.ls.gathering.wood" GUID="fbBuW9YuN0eSFnhqfV7dTg=="/>
+        <POI MapID="1550" xpos="-258.056" ypos="138.848" zpos="191.388" type="leag.ls.gathering.wood" GUID="YZ55SApQGEmF7kRJt1CTgQ=="/>
+        <POI MapID="1550" xpos="539.944" ypos="308.819" zpos="-339.571" type="leag.ls.gathering.wood" GUID="ikShEBJYOkSvODyOYFEGHg=="/>
+        <POI MapID="1550" xpos="635.356" ypos="305.377" zpos="-337.318" type="leag.ls.gathering.wood" GUID="2gTohSVpWked/R4C3v+Bwg=="/>
+        <POI MapID="1550" xpos="796.226" ypos="321.078" zpos="-250.728" type="leag.ls.gathering.wood" GUID="GW4PJKKDG0OkBpwrCWNOYw=="/>
+        <POI MapID="1550" xpos="709.7" ypos="313.717" zpos="-31.3634" type="leag.ls.gathering.wood" GUID="vsJWIRwqf0SZhfmwBE7adg=="/>
+        <POI MapID="1550" xpos="857.792" ypos="317.863" zpos="-32.809" type="leag.ls.gathering.wood" GUID="o/er9VAfikSj25CE/xDmbg=="/>
+        <POI MapID="1550" xpos="960.132" ypos="332.795" zpos="175.918" type="leag.ls.gathering.wood" GUID="7qjj68lGcEaOyfXwJ54cSQ=="/>
+        <POI MapID="1550" xpos="739.038" ypos="88.4986" zpos="359.424" type="leag.ls.gathering.wood" GUID="4Yum9BmHdkyqZU4muz52qw=="/>
+        <POI MapID="1550" xpos="86.9237" ypos="214.16" zpos="305.181" type="leag.ls.gathering.wood" GUID="sxChd54Oy0OS6fUToVGB/g=="/>
+
+        <!-- Jumping Puzzles -->
+        <Trail type="leag.ls.jp.light" trailData="Data/JW/Jumping Puzzles/Light Up the Vale.trl"/>
+        <Trail type="leag.ls.jp.hive" trailData="Data/JW/Jumping Puzzles/Hive Hopper.trl"/>
+        <Trail type="leag.ls.jp.buzzy" trailData="Data/JW/Jumping Puzzles/Buzzy Treetops.trl"/>
+
+        <!-- Mastery Insights -->
+        <POI MapID="1550" xpos="550.979" ypos="423.069" zpos="-554.113" type="leag.ls.mp.start" GUID="rqzOpumDpUCnA+Fs71AgAw=="/>
+        <Trail type="leag.ls.mp" trailData="Data/JW/Mastery Insights - Lowland Shore 1.trl" color="2742B9"/>
+        <Trail type="leag.ls.mp" trailData="Data/JW/Mastery Insights - Lowland Shore 2.trl" color="2742B9"/>
+        <Trail type="leag.ls.mp" trailData="Data/JW/Mastery Insights - Lowland Shore 3.trl" color="2742B9"/>
+        <Trail type="leag.ls.mp" trailData="Data/JW/Mastery Insights - Lowland Shore 4.trl" color="2742B9"/>
+        <POI MapID="1550" xpos="575.6" ypos="85.6191" zpos="504.985" type="leag.ls.mp.wp" GUID="CR6x0cKqv0mXXHb/11RabA==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
+        <POI MapID="1550" xpos="-329.088" ypos="203.89" zpos="425.738" type="leag.ls.mp.wp" GUID="ga69vN0ukUWSrTotjCN7Yw==" copy=" [&BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
+        <POI MapID="1550" xpos="-514.773" ypos="247.935" zpos="-301.243" type="leag.ls.mp.wp" GUID="k7sfJsw/jUKX/GO/I8HRHw==" copy=" [&BPsOAAA=]" copy-message="Journeykin Outpost Waypoint"/>
+
+
 
         <!-- JANTHIR SYNTRI - Achievements -->
     </POIs>
