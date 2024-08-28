@@ -2,28 +2,9 @@
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
         <MarkerCategory name="jw" IsSeparator="1" DisplayName="  | JANTHIR WILDS"/>
         
-        <MarkerCategory name="jwgoggles" DisplayName="Diving Goggles">
-            <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-            <MarkerCategory name="ioj"     IsSeparator="1" DisplayName="  | ISLES OF JANTHIR"/>
-            <MarkerCategory name="ls" DisplayName="Lowland Shore" color="00CC99" achievementId="8170"/>
-            <MarkerCategory name="js" DisplayName="Janthir Syntri" color="00CC99"/>
-        </MarkerCategory>
-        
         <MarkerCategory name="ls" DisplayName="Lowland Shore (Work in Progress...)">
-            <MarkerCategory name="ad" DisplayName="Adventures" texture="Data/Images/Trails/Trail Pointer - Small.png">
-                <MarkerCategory name="hssr" DisplayName="Harvest Shore Salmon Run" achievementId="8342"/>
-                <MarkerCategory name="has" DisplayName="Hide-and-Seek" achievementId="8253"/>
-                <MarkerCategory name="mccsr" DisplayName="Moon Camp Covert Salmon Run" achievementId="8301"/>
-                <MarkerCategory name="rs" DisplayName="Raven Scouting"/>
-                <MarkerCategory name="wr" DisplayName="Warclaw Run" achievementId="8340"/>
-            </MarkerCategory>
-            <MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/Images/Trails/Trail Pointer - Small.png">
-                <MarkerCategory name="buzzy" DisplayName="Buzzy Treetops" achievementId="8158"/>
-                <MarkerCategory name="hive" DisplayName="Hive Hopper" achievementId="8245"/>
-                <MarkerCategory name="light" DisplayName="Light Up the Vale" achievementId="8300"/>
-            </MarkerCategory>
-
+            
+            <MarkerCategory name="achieve" IsSeparator="1" DisplayName="  | Achievements"/>
             <MarkerCategory name="ahdw" DisplayName="A Hard Day's Work" achievementId="8291">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -145,6 +126,38 @@
             <MarkerCategory name="delicacy" DisplayName="Troll Delicacy (H)" iconFile="Data/Images/Troll Delicacy.png" defaulttoggle="0" achievementId="8294"/>
             <MarkerCategory name="wts" DisplayName="What's That Sound (H)" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8156"/>
             <MarkerCategory name="workplace" DisplayName="Workplace Safety (H)" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8184"/>
+
+            <MarkerCategory name="spacer" IsSeparator="1" DisplayName="   "/>
+
+            <MarkerCategory name="ad" DisplayName="Adventures" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                <MarkerCategory name="hssr" DisplayName="Harvest Shore Salmon Run" achievementId="8342"/>
+                <MarkerCategory name="has" DisplayName="Hide-and-Seek" achievementId="8253"/>
+                <MarkerCategory name="mccsr" DisplayName="Moon Camp Covert Salmon Run" achievementId="8301"/>
+                <MarkerCategory name="rs" DisplayName="Raven Scouting"/>
+                <MarkerCategory name="wr" DisplayName="Warclaw Run" achievementId="8340"/>
+            </MarkerCategory>
+            
+            <MarkerCategory name="jwgoggles" DisplayName="Diving Goggles">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="gathering" DisplayName="Gathering">
+                <MarkerCategory name="flower" DisplayName="Possible Honey Flower" iconFile="Data/Images/Circle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="wood" DisplayName="Possible Lowland Pine" iconFile="Data/Images/Square.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+            </MarkerCategory>
+            
+            <MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                <MarkerCategory name="buzzy" DisplayName="Buzzy Treetops" achievementId="8158"/>
+                <MarkerCategory name="hive" DisplayName="Hive Hopper" achievementId="8245"/>
+                <MarkerCategory name="light" DisplayName="Light Up the Vale" achievementId="8300"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="mp" DisplayName="Mastery Insights" texture="Data/Images/Trails/Mastery.png">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            </MarkerCategory>
+
         </MarkerCategory>
 
         <MarkerCategory name="js" DisplayName="Janthir Syntri (Coming Soon-ish!)">
