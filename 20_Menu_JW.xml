@@ -143,8 +143,12 @@
             </MarkerCategory>
 
             <MarkerCategory name="gathering" DisplayName="Gathering">
-                <MarkerCategory name="flower" DisplayName="Possible Honey Flower" iconFile="Data/Images/Circle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="wood" DisplayName="Possible Lowland Pine" iconFile="Data/Images/Square.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="flower" DisplayName="Possible Honey Flower (Circle)" iconFile="Data/Images/Circle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="wood" DisplayName="Possible Lowland Pine (Square)" iconFile="Data/Images/Square.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="32"/>
+                <MarkerCategory name="trail" DisplayName="Toggle Trails" texture="Data/Images/Trails/Dashed Line with Shadow.png">
+                    <MarkerCategory name="flowers" DisplayName="Toggle Flower Trail (WiP)" color="ffaa00"/>
+                    <MarkerCategory name="wood" DisplayName="Toggle Wood Trail (WiP)" color="cc9966"/>
+                </MarkerCategory>
             </MarkerCategory>
             
             <MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/Images/Trails/Trail Pointer - Small.png">
