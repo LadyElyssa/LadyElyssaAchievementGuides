@@ -49,18 +49,18 @@
         <POI MapID="1550" xpos="242.869" ypos="129.55" zpos="293.542" type="leag.ls.waterfalls.12" GUID="As8dQ8sgS0yhDDDnf3fwgw=="/>
 
         <!-- Cryptid Chase -->
-        <Trail type="leag.ls.cc" trailData="Data/JW/Cryptid Chase 1.trl" texture="Data/Images/Trails/Trail Marker 2.png"/>
-        <Trail type="leag.ls.cc" trailData="Data/JW/Cryptid Chase 2.trl"/>
-        <Trail type="leag.ls.cc" trailData="Data/JW/Cryptid Chase 3.trl"/>
-        <Trail type="leag.ls.cc" trailData="Data/JW/Cryptid Chase 4.trl"/>
-        <Trail type="leag.ls.cc" trailData="Data/JW/Cryptid Chase 5.trl"/>
-        <Trail type="leag.ls.cc" trailData="Data/JW/Cryptid Chase 6.trl"/>
-        <Trail type="leag.ls.cc" trailData="Data/JW/Cryptid Chase 8.trl"/>
-        <Trail type="leag.ls.cc" trailData="Data/JW/Cryptid Chase 9.trl"/>
-        <Trail type="leag.ls.cc" trailData="Data/JW/Cryptid Chase 10.trl"/>
-        <Trail type="leag.ls.cc" trailData="Data/JW/Cryptid Chase 11.trl"/>
-        <Trail type="leag.ls.cc" trailData="Data/JW/Cryptid Chase 12.trl"/>
-        <Trail type="leag.ls.cc" trailData="Data/JW/Cryptid Chase 13.trl"/>
+        <Trail type="leag.ls.cc.1" trailData="Data/JW/Cryptid Chase 1.trl" texture="Data/Images/Trails/Trail Marker 2.png"/>
+        <Trail type="leag.ls.cc.2" trailData="Data/JW/Cryptid Chase 2.trl"/>
+        <Trail type="leag.ls.cc.3" trailData="Data/JW/Cryptid Chase 3.trl"/>
+        <Trail type="leag.ls.cc.4" trailData="Data/JW/Cryptid Chase 4.trl"/>
+        <Trail type="leag.ls.cc.5" trailData="Data/JW/Cryptid Chase 5.trl"/>
+        <Trail type="leag.ls.cc.6" trailData="Data/JW/Cryptid Chase 6.trl"/>
+        <Trail type="leag.ls.cc.8" trailData="Data/JW/Cryptid Chase 8.trl"/>
+        <Trail type="leag.ls.cc.9" trailData="Data/JW/Cryptid Chase 9.trl"/>
+        <Trail type="leag.ls.cc.10" trailData="Data/JW/Cryptid Chase 10.trl"/>
+        <Trail type="leag.ls.cc.11" trailData="Data/JW/Cryptid Chase 11.trl"/>
+        <Trail type="leag.ls.cc.12" trailData="Data/JW/Cryptid Chase 12.trl"/>
+        <Trail type="leag.ls.cc.13" trailData="Data/JW/Cryptid Chase 13.trl"/>
 
         <POI MapID="1550" xpos="530.603" ypos="217.505" zpos="55.982" type="leag.ls.cc.start" GUID="8xyEXQAFTUWl8qWdDi8r5g=="/>
         <POI MapID="1550" xpos="537.027" ypos="218.786" zpos="44.6943" type="leag.ls.cc.1" GUID="tCzRfxEvZkWSbakqiwq1Sg=="/>
@@ -75,22 +75,22 @@
         <POI MapID="1550" xpos="-104.403" ypos="43.5779" zpos="98.0126" type="leag.ls.cc.12" GUID="j8WbdWZCJUCbPnkkE+6FNw=="/>
         <POI MapID="1550" xpos="566.436" ypos="423.126" zpos="-564.495" type="leag.ls.cc.13" GUID="vWXbijhu/U2CPClBwH312Q=="/>
 
-        <POI MapID="1550" xpos="604.859" ypos="63.0971" zpos="282.397" type="leag.ls.cc.wp" GUID="eqEbrAB5o02J2TJbcdbcIA==" copy=" [&BCcPAAA=]" copy-message="Astral Ward Moon Camp Waypoint"/>
-        <POI MapID="1550" xpos="448.517" ypos="338.428" zpos="-560.67" type="leag.ls.cc.wp" GUID="49xP9K58vUizgiqQHnkiqg==" copy=" [&BN8OAAA=]" copy-message="Harvest Shore Waypoint"/>
-        <POI MapID="1550" xpos="914.186" ypos="1.80426" zpos="484.038" type="leag.ls.cc.wp" GUID="i6Q7ZS0NDUKw3Arx9mLixw==" copy=" [&BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
-        <POI MapID="1550" xpos="-261.617" ypos="210.013" zpos="-307.877" type="leag.ls.cc.wp" GUID="sLmaop0NfEaDMLQ33KrF/w==" copy=" [&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
-        <POI MapID="1550" xpos="690.696" ypos="326.615" zpos="52.5225" type="leag.ls.cc.wp" GUID="0MNTZPv+K0i5UBKukdc5yQ==" copy=" [&BPsOAAA=]" copy-message="Journeykin Outpost Waypoint"/>
-        <POI MapID="1550" xpos="-534.977" ypos="2.1053" zpos="416.657" type="leag.ls.cc.wp" GUID="MA2IMb90BkSEsh3MNwSBzw==" copy=" [&BK4OAAA=]" copy-message="Harvest Den Waypoint - Return to Echoes of Night"/>
+        <POI MapID="1550" xpos="604.859" ypos="63.0971" zpos="282.397" type="leag.ls.cc.wp" GUID="eqEbrAB5o02J2TJbcdbcIA==" copy="[&BCcPAAA=]" copy-message="Astral Ward Moon Camp Waypoint"/>
+        <POI MapID="1550" xpos="448.517" ypos="338.428" zpos="-560.67" type="leag.ls.cc.wp" GUID="49xP9K58vUizgiqQHnkiqg==" copy="[&BN8OAAA=]" copy-message="Harvest Shore Waypoint"/>
+        <POI MapID="1550" xpos="914.186" ypos="1.80426" zpos="484.038" type="leag.ls.cc.wp" GUID="i6Q7ZS0NDUKw3Arx9mLixw==" copy="[&BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
+        <POI MapID="1550" xpos="-261.617" ypos="210.013" zpos="-307.877" type="leag.ls.cc.wp" GUID="sLmaop0NfEaDMLQ33KrF/w==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
+        <POI MapID="1550" xpos="690.696" ypos="326.615" zpos="52.5225" type="leag.ls.cc.wp" GUID="0MNTZPv+K0i5UBKukdc5yQ==" copy="[&BPsOAAA=]" copy-message="Journeykin Outpost Waypoint"/>
+        <POI MapID="1550" xpos="-534.977" ypos="2.1053" zpos="416.657" type="leag.ls.cc.wp" GUID="MA2IMb90BkSEsh3MNwSBzw==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint - Return to Echoes of Night"/>
         <POI MapID="1550" xpos="951.458" ypos="332.253" zpos="54.584" type="leag.ls.cc.wp" GUID="/prKrmSaakqXLZ5AoxFkgg==" info="/bow and then follow the Wisp" infoRange="5"/>
-        <POI MapID="1550" xpos="820.574" ypos="261.635" zpos="272.329" type="leag.ls.cc.wp" GUID="h9cv1IALmEaFNGyOoW61ew==" copy=" [&BK4OAAA=]" copy-message="Autumn's Vale Waypoint"/>
+        <POI MapID="1550" xpos="820.574" ypos="261.635" zpos="272.329" type="leag.ls.cc.wp" GUID="h9cv1IALmEaFNGyOoW61ew==" copy="[&BK4OAAA=]" copy-message="Autumn's Vale Waypoint"/>
         <POI MapID="1550" xpos="-168.266" ypos="199.496" zpos="-44.2857" type="leag.ls.cc" GUID="+EnP0lKV102efOKnEH1cfg==" iconFile="Data/Images/Icons/Talk.png"/>
-        <POI MapID="1550" xpos="-169.584" ypos="195.96" zpos="-44.1255" type="leag.ls.cc.wp" GUID="ej/D5P5KY0WNrksqAa4GTw==" copy=" [&BCcPAAA=]" copy-message="After Event - Astral Ward Moon Camp Waypoint"/>
-        <POI MapID="1550" xpos="748.735" ypos="303.807" zpos="-368.158" type="leag.ls.cc.wp" GUID="4w1QKKZHRkecuqR9XLY2Ww==" copy=" [&BCcPAAA=]" copy-message="Astral Ward Moon Camp Waypoint"/>
+        <POI MapID="1550" xpos="-169.584" ypos="195.96" zpos="-44.1255" type="leag.ls.cc.wp" GUID="ej/D5P5KY0WNrksqAa4GTw==" copy="[&BCcPAAA=]" copy-message="After Event - Astral Ward Moon Camp Waypoint"/>
+        <POI MapID="1550" xpos="748.735" ypos="303.807" zpos="-368.158" type="leag.ls.cc.wp" GUID="4w1QKKZHRkecuqR9XLY2Ww==" copy="[&BCcPAAA=]" copy-message="Astral Ward Moon Camp Waypoint"/>
         <POI MapID="1550" xpos="541.866" ypos="311.848" zpos="-250.126" type="leag.ls.cc" GUID="5ijCLBASRkuFrj9ctHi0dA==" iconFile="Data/Images/Icons/Talk.png"/>
-        <POI MapID="1550" xpos="542.118" ypos="309.813" zpos="-250.189" type="leag.ls.cc.wp" GUID="dnTg4BykkUKs5UlG0w/eLg==" copy=" [&BK4OAAA=]" copy-message="Autumn's Vale Waypoint"/>
+        <POI MapID="1550" xpos="542.118" ypos="309.813" zpos="-250.189" type="leag.ls.cc.wp" GUID="dnTg4BykkUKs5UlG0w/eLg==" copy="[&BK4OAAA=]" copy-message="Autumn's Vale Waypoint"/>
         <POI MapID="1550" xpos="-400.278" ypos="70.9096" zpos="40.4247" type="leag.ls.cc" GUID="cBpzGAy2EkqCBlvDEUxZ1A==" iconFile="Data/Images/Icons/Talk.png"/>
-        <POI MapID="1550" xpos="-399.215" ypos="67.4096" zpos="39.6036" type="leag.ls.cc.wp" GUID="I2rrVPmhJESZ6iOqWoIRqg==" copy=" [&BCcPAAA=]" copy-message="After Event - Astral Ward Moon Camp Waypoint"/>
-        <POI MapID="1550" xpos="598.843" ypos="423.096" zpos="-559.225" type="leag.ls.cc.wp" GUID="OL/oszbbUUeG9Eyaibkn5Q==" copy=" [&BK4OAAA=]" copy-message="Harvest Den Waypoint - Return to Echoes of Night"/>
+        <POI MapID="1550" xpos="-399.215" ypos="67.4096" zpos="39.6036" type="leag.ls.cc.wp" GUID="I2rrVPmhJESZ6iOqWoIRqg==" copy="[&BCcPAAA=]" copy-message="After Event - Astral Ward Moon Camp Waypoint"/>
+        <POI MapID="1550" xpos="598.843" ypos="423.096" zpos="-559.225" type="leag.ls.cc.wp" GUID="OL/oszbbUUeG9Eyaibkn5Q==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint - Return to Echoes of Night"/>
 
         <!-- Cultural Culinary Comprehension -->
         <Trail type="leag.ls.ccc" trailData="Data/JW/To Cultural Culinary Comprehension.trl"/>
@@ -108,29 +108,43 @@
         <POI MapID="1550" xpos="-719.34" ypos="307.934" zpos="-561.758" type="leag.ls.fott" GUID="/U9ArCU7okeSsiLKaktM+A==" iconFile="Data/Images/Emote - Ponder.png"/>
 
         <!-- Gettin' the Crew Together -->
-        <!--
-        <Trail type="leag.ls.gtct" trailData="Data/JW/Gettin' the Crew Together 1.trl" texture="Data/Images/Trails/Trail Marker 2.png"/>
-        <Trail type="leag.ls.gtct" trailData="Data/JW/Gettin' the Crew Together 2.trl"/>
-        <Trail type="leag.ls.gtct" trailData="Data/JW/Gettin' the Crew Together 5.trl"/>
-        <Trail type="leag.ls.gtct" trailData="Data/JW/Gettin' the Crew Together 6.trl"/>
-        <Trail type="leag.ls.gtct" trailData="Data/JW/Gettin' the Crew Together 7.trl"/>
-        <Trail type="leag.ls.gtct" trailData="Data/JW/Gettin' the Crew Together 8.trl"/>
-        <Trail type="leag.ls.gtct" trailData="Data/JW/Gettin' the Crew Together 9.trl"/>
-        <Trail type="leag.ls.gtct" trailData="Data/JW/Gettin' the Crew Together 10a.trl"/>
-        <Trail type="leag.ls.gtct" trailData="Data/JW/Gettin' the Crew Together 10b.trl"/>
+        
+        
+        <Trail type="leag.ls.gtct.1" trailData="Data/JW/Gettin' the Crew Together 1.trl" texture="Data/Images/Trails/Trail Marker 2 Dark.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="558.048" ypos="423.104" zpos="-557.492" type="leag.ls.gtct.2" GUID="ppwILwJOeEe6ih62L2WNVA==" iconFile="Data/Images/Numbers/2.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
+        <Trail type="leag.ls.gtct.2" trailData="Data/JW/Gettin' the Crew Together 2.trl" inGameVisibility="1"/>
+        <Trail type="leag.ls.gtct.5" trailData="Data/JW/Gettin' the Crew Together 5.trl" inGameVisibility="1"/>
+        <Trail type="leag.ls.gtct.6" trailData="Data/JW/Gettin' the Crew Together 6.trl" inGameVisibility="1"/>
+        <Trail type="leag.ls.gtct.7" trailData="Data/JW/Gettin' the Crew Together 7.trl" inGameVisibility="1"/>
+        <Trail type="leag.ls.gtct.8" trailData="Data/JW/Gettin' the Crew Together 8.trl" inGameVisibility="1"/>
+        <Trail type="leag.ls.gtct.9" trailData="Data/JW/Gettin' the Crew Together 9.trl" inGameVisibility="1"/>
+        <Trail type="leag.ls.gtct.10" trailData="Data/JW/Gettin' the Crew Together 10a.trl" inGameVisibility="1"/>
+        <Trail type="leag.ls.gtct.10" trailData="Data/JW/Gettin' the Crew Together 10b.trl" inGameVisibility="1"/>
+        <Trail type="leag.ls.gtct.11" trailData="Data/JW/Gettin' the Crew Together 11.trl" inGameVisibility="1"/>
+        <Trail type="leag.ls.gtct.11" trailData="Data/JW/Gettin' the Crew Together 11b.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1550" xpos="558.608" ypos="423.099" zpos="-555.016" type="leag.ls.gtct.start" GUID="ieXxCxIcQk6RltwqgjJnGw=="/>
-        <POI MapID="1550" xpos="443.631" ypos="149.958" zpos="82.123" type="leag.ls.gtct.5" GUID="Sic/VbWMoEeb912YeXtqkQ=="/>
         <POI MapID="1550" xpos="560.198" ypos="393.147" zpos="-547.292" type="leag.ls.gtct.2" GUID="7N9CumfHqU6QCnqqbIuDFw=="/>
-        <POI MapID="1550" xpos="570.974" ypos="393.448" zpos="-547.149" type="leag.ls.gtct.4" GUID="R/r4+wLfmkKTSzMNSh6i1A=="/>
+        <POI MapID="1550" xpos="562.45" ypos="393.194" zpos="-546.953" type="leag.ls.gtct.3" GUID="qBmWzkdCtkuL6t0nZ003Rg==" iconFile="Data/Images/Numbers/3.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
         <POI MapID="1550" xpos="557.909" ypos="395.664" zpos="-501.624" type="leag.ls.gtct.3" GUID="fk8Vm18snE28JOb8hX8MAQ=="/>
+        <POI MapID="1550" xpos="570.974" ypos="393.448" zpos="-547.149" type="leag.ls.gtct.4" GUID="R/r4+wLfmkKTSzMNSh6i1A=="/>
+        <POI MapID="1550" xpos="533.856" ypos="218.016" zpos="40.8652" type="leag.ls.gtct.5" GUID="ufvdK2t1EE2tNjjhJ/oM7Q==" iconFile="Data/Images/Numbers/5.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
+        <POI MapID="1550" xpos="443.631" ypos="149.958" zpos="82.123" type="leag.ls.gtct.5" GUID="Sic/VbWMoEeb912YeXtqkQ=="/>
+        <POI MapID="1550" xpos="553.451" ypos="423.099" zpos="-557.937" type="leag.ls.gtct.6" GUID="knOtHbKD7UG4QU+gQ+HTDw==" iconFile="Data/Images/Numbers/6.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
         <POI MapID="1550" xpos="-495.441" ypos="-3.11015" zpos="-70.5238" type="leag.ls.gtct.6" GUID="QkTVB1R49UakXR9RrazJdA=="/>
         <POI MapID="1550" xpos="-879.012" ypos="3.2193" zpos="102.052" type="leag.ls.gtct.7" GUID="OIFbEmOpk0WMxLOg0HjzaA=="/>
+        <POI MapID="1550" xpos="539.201" ypos="218.402" zpos="35.718" type="leag.ls.gtct.8" GUID="XutRxfOLv0KHsBf3TdU5SQ==" iconFile="Data/Images/Numbers/8.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
         <POI MapID="1550" xpos="511.391" ypos="212.641" zpos="-115.202" type="leag.ls.gtct.8" GUID="7qggHM791UaTVaShkWZ2Ow=="/>
+        <POI MapID="1550" xpos="-339.989" ypos="213.145" zpos="-479.657" type="leag.ls.gtct.9" GUID="uH4scwhkhkCVAvKLfZrVcw==" iconFile="Data/Images/Numbers/9.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
+        <POI MapID="1550" xpos="-331.764" ypos="217.1" zpos="-470.237" type="leag.ls.gtct.9" GUID="Yj2LV9LqukKH9vc2zwOxrA=="/>
+        <POI MapID="1550" xpos="552.496" ypos="423.099" zpos="-558.865" type="leag.ls.gtct.9" GUID="y7FeoVXgWEKEtWqP+qOhtA==" iconFile="Data/Images/Numbers/9.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
         <POI MapID="1550" xpos="503.775" ypos="339.185" zpos="-698.258" type="leag.ls.gtct.9" GUID="+vKnlUosFUW71MhcBXlQHw=="/>
+        <POI MapID="1550" xpos="-343.907" ypos="212.073" zpos="-478.5" type="leag.ls.gtct.10" GUID="m3TydKV+DUGzb/rp4nvadA==" iconFile="Data/Images/Numbers/10.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
         <POI MapID="1550" xpos="919.283" ypos="344.941" zpos="-111.479" type="leag.ls.gtct.10" GUID="PdPLeNu0QkCFvPijojLYaw=="/>
         <POI MapID="1550" xpos="-201.352" ypos="175.169" zpos="-75.0674" type="leag.ls.gtct.10" GUID="HwxLfoV5WkOa2Zs9BB9RVw=="/>
-    -->
-
+        <POI MapID="1550" xpos="-107.567" ypos="44.2175" zpos="96.908" type="leag.ls.gtct.11" GUID="PwoZmu35zUKkBOahal1gvA==" iconFile="Data/Images/Numbers/11.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
+        <POI MapID="1550" xpos="163.968" ypos="337.448" zpos="-171.654" type="leag.ls.gtct.11" GUID="1egrKdQlnUKtT0JH19xM/Q=="/>
+        <POI MapID="1550" xpos="164.02" ypos="337.479" zpos="-171.953" type="leag.ls.gtct.wp" GUID="1c8PpH2NcUesWfnRIdVSjg==" copy="[&BK4OAAA=]" copy-message="Goto Harvest Den WP then go to No. 5" triggerrange="2" autotrigger="true" inGameVisibility="1"/>
+        
         <!-- Golden Mushroom Guru -->
         <POI MapID="1550" xpos="797.224" ypos="319.774" zpos="-226.096" type="leag.ls.gmg" GUID="MH2OICCmfE65pW0WlZxseQ==" iconFile="Data/Images/Circlet.png" ingameVisibility="0"/>
         <POI MapID="1550" xpos="858.096" ypos="348.896" zpos="-362.381" type="leag.ls.gmg" GUID="SmITdpkMIkKoMzCZyh2lPg==" iconFile="Data/Images/Circlet.png" ingameVisibility="0"/>
@@ -187,6 +201,21 @@
         <Trail type="leag.ls.scl" trailData="Data/JW/Star-Crossed Lovers 2.trl"/>
         <Trail type="leag.ls.scl" trailData="Data/JW/Star-Crossed Lovers 3.trl"/>
         <Trail type="leag.ls.scl" trailData="Data/JW/Star-Crossed Lovers 4.trl"/>
+
+        <!-- Tales of the Lowland Wisps -->
+        <POI MapID="1550" xpos="528.892" ypos="345.146" zpos="-413.35" type="leag.ls.totlw.2" GUID="m8Gb6/w/UU69ubmmHYeHSw=="/>
+        <POI MapID="1550" xpos="944.121" ypos="378.794" zpos="-423.892" type="leag.ls.totlw.3" GUID="OFTXxXH08U+ZMm1l4KNeaw=="/>
+        <POI MapID="1550" xpos="951.764" ypos="332.273" zpos="54.6739" type="leag.ls.totlw.4" GUID="njpj0TkTgESt+oNHUWwlpg=="/>
+        <POI MapID="1550" xpos="782.053" ypos="0.84792" zpos="424.952" type="leag.ls.totlw.5" GUID="rzOjNfmdRU6qJ6UAcigEPQ=="/>
+        <POI MapID="1550" xpos="-64.0571" ypos="18.5103" zpos="501.504" type="leag.ls.totlw.6" GUID="U4cdaAFF50C/eBsVO9DFBQ=="/>
+        <POI MapID="1550" xpos="-509.184" ypos="24.9628" zpos="259.559" type="leag.ls.totlw.9" GUID="3y9jVypePkaIIqyskSlNrw=="/>
+        <POI MapID="1550" xpos="-216.068" ypos="130.377" zpos="55.2925" type="leag.ls.totlw.10" GUID="s2B+y48WkU+F6+IVBiGRiA=="/>
+        <POI MapID="1550" xpos="-28.2306" ypos="9.23389" zpos="245.158" type="leag.ls.totlw.11" GUID="aO4PbBH0k0iUgYMjAe5KWw=="/>
+        <POI MapID="1550" xpos="20.1113" ypos="298.746" zpos="-387.056" type="leag.ls.totlw.12" GUID="lQqG9kA3zUSi+AhZUHaRxg=="/>
+        <POI MapID="1550" xpos="-549.731" ypos="216.388" zpos="-458.678" type="leag.ls.totlw.13" GUID="5ICbVh0kqUCOlkTCpHoZzg=="/>
+        <POI MapID="1550" xpos="-781.799" ypos="306.124" zpos="-578.056" type="leag.ls.totlw.14" GUID="oEQf06NNkk6r/Nb9Cq+lQA=="/>
+        <POI MapID="1550" xpos="676.997" ypos="103.002" zpos="178.191" type="leag.ls.totlw.15" GUID="oqIK/USCqkuL1raabWHo+Q=="/>
+        <POI MapID="1550" xpos="434.768" ypos="108.179" zpos="197.491" type="leag.ls.totlw.16" GUID="Dgy0JuGtH0eRNEEs/PaxPA=="/>
 
         <!-- Troll Delicacy -->
         <POI MapID="1550" xpos="-742.782" ypos="307.584" zpos="-574.394" type="leag.ls.delicacy" GUID="xjJ6rPtxEESTk2rjchzpnw==" iconFile="Data/Images/Eat.png"/>
@@ -365,6 +394,7 @@
         <!-- Jumping Puzzles -->
         <Trail type="leag.ls.jp.light" trailData="Data/JW/Jumping Puzzles/Light Up the Vale.trl"/>
         <Trail type="leag.ls.jp.hive" trailData="Data/JW/Jumping Puzzles/Hive Hopper.trl"/>
+        <POI MapID="1550" xpos="-159.665" ypos="148.224" zpos="-79.3888" type="leag.ls.jp.hive" GUID="NAQzddk7z0eaRoWY9RtrSA==" iconFile="Data/Images/Hive Hopper.png" fadeNear="900" fadeFar="1200"/>
         <Trail type="leag.ls.jp.buzzy" trailData="Data/JW/Jumping Puzzles/Buzzy Treetops.trl"/>
 
         <!-- Mastery Insights -->
