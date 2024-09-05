@@ -170,9 +170,18 @@
             </MarkerCategory>
             
             <MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/Images/Trails/Trail Pointer - Small.png">
-                <MarkerCategory name="buzzy" DisplayName="Buzzy Treetops" achievementId="8158"/>
-                <MarkerCategory name="hive" DisplayName="Hive Hopper" achievementId="8245"/>
-                <MarkerCategory name="light" DisplayName="Light Up the Vale" achievementId="8300"/>
+                <MarkerCategory name="buzzy" DisplayName="Buzzy Treetops" achievementId="8158">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Buzzy Treetops.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                </MarkerCategory>
+                <MarkerCategory name="hive" DisplayName="Hive Hopper" achievementId="8245">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Hive Hopper.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="guide" DisplayName="Toggle Guide Sign" iconFile="Data/Images/Hive Hopper Guide.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                </MarkerCategory>
+                <MarkerCategory name="light" DisplayName="Light Up the Vale" achievementId="8300">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Light Up the Vale.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Glider.png" maxSize="32" mapDisplaySize="16"/>
+                    <MarkerCategory name="booster" DisplayName="Toggle Jade Bot Glide Booster" iconFile="Data/Images/JadeBotGlideBooster.png" maxSize="32" mapDisplaySize="16"/>
+                </MarkerCategory>
             </MarkerCategory>
 
             <MarkerCategory name="mp" DisplayName="Mastery Insights" texture="Data/Images/Trails/Mastery.png">
@@ -182,7 +191,7 @@
 
         </MarkerCategory>
 
-        <MarkerCategory name="js" DisplayName="Janthir Syntri (Coming Soon-ish!)">
+        <MarkerCategory name="js" DisplayName="Janthir Syntri (Work in Progress...)">
             <MarkerCategory name="gtct" DisplayName="Gettin' the Crew Together" achievementId="8266">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -194,8 +203,37 @@
                 <MarkerCategory name="15" DisplayName="Fifteen" iconFile="Data/Images/Numbers/n15.png"       inGameVisibility="0" achievementbit="15"/>
                 <MarkerCategory name="16" DisplayName="Sixteen" iconFile="Data/Images/Numbers/n16.png"       inGameVisibility="0" achievementbit="16"/>
                 <MarkerCategory name="17" DisplayName="Seventeen" iconFile="Data/Images/Numbers/n17.png"     inGameVisibility="0" achievementbit="17"/>
-                
             </MarkerCategory>
+
+            <MarkerCategory name="ad" DisplayName="Adventures" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                <MarkerCategory name="swc" DisplayName="Save Woodland Creatures" achievementId="8155"/>
+                <MarkerCategory name="ss" DisplayName="Swift Skiffs / River Mapping" achievementId="8234"/>
+                <MarkerCategory name="vftt" DisplayName="View from the Top" achievementId="8236"/>
+                <MarkerCategory name="jswr" DisplayName="Warclaw Run" achievementId="8340"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="jwgoggles" DisplayName="Diving Goggles">
+                <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="gathering" DisplayName="Gathering">
+                <MarkerCategory name="titanamber" DisplayName="Possible Rotted Titan Amber (Diamond)" iconFile="Data/Images/Diamond.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="32"/>
+                <MarkerCategory name="titanore" DisplayName="Possible Charged Titan Ore (Triangle)" iconFile="Data/Images/Triangle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="32"/>
+                <MarkerCategory name="trail" DisplayName="Toggle Trails" texture="Data/Images/Trails/Dashed Line with Shadow.png">
+                    <MarkerCategory name="titanamber" DisplayName="Toggle Rotted Titan Amber (WiP)" color="ff8c00"/>
+                    <MarkerCategory name="titanore" DisplayName="Toggle Charged Titan Ore (WiP)" color="ddc700"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/Images/Trails/Trail Pointer - Small.png">
+            </MarkerCategory>
+
+            <MarkerCategory name="mp" DisplayName="Mastery Insights" texture="Data/Images/Trails/Mastery.png">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            </MarkerCategory>
+
         </MarkerCategory>
 
     </MarkerCategory>
