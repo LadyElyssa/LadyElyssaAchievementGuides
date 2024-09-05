@@ -465,6 +465,17 @@
         <Trail type="leag.js.ahmv2.4" trailData="Data/JW/A History Most Violent Part 2-4.trl" inGameVisibility="1"/>
         <Trail type="leag.js.ahmv2.5" trailData="Data/JW/A History Most Violent Part 2-5.trl" inGameVisibility="1"/>
         <Trail type="leag.js.ahmv2.6" trailData="Data/JW/A History Most Violent Part 2-6.trl" inGameVisibility="1"/>
+        <Trail type="leag.js.ahmv2.7" trailData="Data/JW/A History Most Violent Part 2-7.trl" inGameVisibility="1"/>
+        <Trail type="leag.js.ahmv2.8" trailData="Data/JW/A History Most Violent Part 2-8.trl" inGameVisibility="1"/>
+        <POI MapID="1554" xpos="540.36" ypos="0.549026" zpos="-635.512" type="leag.js.ahmv2.2" GUID="E4XBeWtlKUaGreYd6JXSqg=="/>
+        <POI MapID="1554" xpos="40.8108" ypos="32.021" zpos="-504.518" type="leag.js.ahmv2.3" GUID="IxdZbjUWKEO18RABQt/Qnw=="/>
+        <POI MapID="1554" xpos="-383.676" ypos="55.1926" zpos="-769.49" type="leag.js.ahmv2.4" GUID="3qNboDH1+E2kyUNXwtQqxw=="/>
+        <POI MapID="1554" xpos="-378.164" ypos="16.5996" zpos="-505.52" type="leag.js.ahmv2.5" GUID="SPQu23psDUSl+2reNR4PKA=="/>
+        <POI MapID="1554" xpos="-676.689" ypos="56.3666" zpos="-30.234" type="leag.js.ahmv2.6" GUID="2jchZxceo0qm3y/xii9mkw=="/>
+        <POI MapID="1554" xpos="-231.964" ypos="39.4225" zpos="718.291" type="leag.js.ahmv2.7" GUID="KTgGf7EiG0KRAE2EpSTxBw=="/>
+        <POI MapID="1554" xpos="-829.486" ypos="50.0629" zpos="391.186" type="leag.js.ahmv2.8" GUID="dTpuXKACoUa+KA5QWMo29g=="/>
+        <POI MapID="1554" xpos="653.786" ypos="0.294178" zpos="-613.081" type="leag.js.ahmv2.1" GUID="aXTQgb6oDUm8OK5Kl0PLZg=="/>
+        <POI MapID="1554" xpos="663.237" ypos="2.5954" zpos="-612.792" type="leag.js.ahmv2.9" GUID="0yLH0JILMk6pPExqVA0ULA=="/>
 
 
         <!-- Full Bloom -->
