@@ -1,5 +1,5 @@
 <OverlayData>
-    <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
+    <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" mapDisplaySize="16">
         <MarkerCategory name="jw" IsSeparator="1" DisplayName="  | JANTHIR WILDS"/>
         
         <MarkerCategory name="ls" DisplayName="Lowland Shore (Work in Progress...)">
@@ -139,8 +139,9 @@
                 <MarkerCategory name="15" DisplayName="Fifteen" achievementbit="14"/>
                 <MarkerCategory name="16" DisplayName="Sixteen" achievementbit="15"/>
                 <MarkerCategory name="17" DisplayName="Seventeen" achievementbit="16"/>
-                
             </MarkerCategory>
+
+            <!-- Troll Delicacy -->
             <MarkerCategory name="delicacy" DisplayName="Troll Delicacy [H]" iconFile="Data/Images/Troll Delicacy.png" defaulttoggle="0" achievementId="8294"/>
             <MarkerCategory name="wts" DisplayName="What's That Sound [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8156"/>
             <MarkerCategory name="workplace" DisplayName="Workplace Safety [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8184"/>
@@ -187,10 +188,52 @@
 
         </MarkerCategory>
 
+
+        <!-- JANTHIR SYNTRI -->
+
         <MarkerCategory name="js" DisplayName="Janthir Syntri (Work in Progress...)">
             
             <MarkerCategory name="achieve" IsSeparator="1" DisplayName="  | Achievements"/>
-            
+
+            <!-- A History Most Violent: Part 1 -->
+
+            <MarkerCategory name="ahmv1" DisplayName="A History Most Violent: Part 1" achievementId="8161">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
+                <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/n1.png"      inGameVisibility="0" achievementbit="0"/>
+                <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/n2.png"      inGameVisibility="0" achievementbit="1"/>
+                <MarkerCategory name="3" DisplayName="Three"    iconFile="Data/Images/Numbers/n3.png"      inGameVisibility="0" achievementbit="2"/>
+                <MarkerCategory name="4" DisplayName="Four"     iconFile="Data/Images/Numbers/n4.png"      inGameVisibility="0" achievementbit="3"/>
+                <MarkerCategory name="5" DisplayName="Five"     iconFile="Data/Images/Numbers/n5.png"      inGameVisibility="0" achievementbit="4"/>
+                <MarkerCategory name="6" DisplayName="Six"      iconFile="Data/Images/Numbers/n6.png"      inGameVisibility="0" achievementbit="5"/>
+                <MarkerCategory name="7" DisplayName="Seven"    iconFile="Data/Images/Numbers/n7.png"      inGameVisibility="0" achievementbit="6"/>
+                <MarkerCategory name="8" DisplayName="Eight"    iconFile="Data/Images/Numbers/n8.png"      inGameVisibility="0" achievementbit="7"/>
+                <MarkerCategory name="9" DisplayName="Nine"     iconFile="Data/Images/Numbers/n9.png"      inGameVisibility="0" achievementbit="8"/>
+                <MarkerCategory name="10" DisplayName="Ten"     iconFile="Data/Images/Numbers/n10.png"     inGameVisibility="0" achievementbit="9"/>
+                <MarkerCategory name="11" DisplayName="Eleven"  iconFile="Data/Images/Numbers/n11.png"     inGameVisibility="0" achievementbit="10"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="ahmv2" DisplayName="A History Most Violent: Part 2" achievementId="8205">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
+                <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/n1.png"      inGameVisibility="0" achievementbit="0"/>
+                <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/n2.png"      inGameVisibility="0" achievementbit="1"/>
+                <MarkerCategory name="3" DisplayName="Three"    iconFile="Data/Images/Numbers/n3.png"      inGameVisibility="0" achievementbit="2"/>
+                <MarkerCategory name="4" DisplayName="Four"     iconFile="Data/Images/Numbers/n4.png"      inGameVisibility="0" achievementbit="3"/>
+                <MarkerCategory name="5" DisplayName="Five"     iconFile="Data/Images/Numbers/n5.png"      inGameVisibility="0" achievementbit="4"/>
+                <MarkerCategory name="6" DisplayName="Six"      iconFile="Data/Images/Numbers/n6.png"      inGameVisibility="0" achievementbit="5"/>
+                <MarkerCategory name="7" DisplayName="Seven"    iconFile="Data/Images/Numbers/n7.png"      inGameVisibility="0" achievementbit="6"/>
+                <MarkerCategory name="8" DisplayName="Eight"    iconFile="Data/Images/Numbers/n8.png"      inGameVisibility="0" achievementbit="7"/>
+                <MarkerCategory name="9" DisplayName="Nine"     iconFile="Data/Images/Numbers/n9.png"      inGameVisibility="0" achievementbit="8"/>
+            </MarkerCategory>
+
+            <!-- Full Bloom -->
+            <MarkerCategory name="bloom" DisplayName="Full Bloom" achievementId="8187"/>
+
             <MarkerCategory name="gtct" DisplayName="Gettin' the Crew Together" achievementId="8266">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -203,9 +246,11 @@
                 <MarkerCategory name="17" DisplayName="Seventeen" iconFile="Data/Images/Numbers/n17.png"     inGameVisibility="0" achievementbit="17"/>
             </MarkerCategory>
 
-            <MarkerCategory name="bloom" DisplayName="Full Bloom" achievementId="8187"/>
-
+            <!-- Island Adventure -->
             <MarkerCategory name="islandadv" DisplayName="Island Adventurer" texture="Data/Images/Trails/Trail Marker 2.png" achievementId="8281"/>
+
+            <!-- Janthiri Smuggler -->
+            <MarkerCategory name="smuggler" DisplayName="Janthiri Smuggler" achievementId="8325"/>
 
             <MarkerCategory name="shard" DisplayName="Shard Scouter" achievementId="8196">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -217,6 +262,8 @@
             </MarkerCategory>
             
             <MarkerCategory name="struck" DisplayName="Struck Twice [H]" defaulttoggle="0" achievementId="8356"/>
+
+            <MarkerCategory name="artist" DisplayName="True Artist" achievementId="8172"/>
 
             <MarkerCategory name="spacer" IsSeparator="1" DisplayName="   "/>
 
@@ -233,8 +280,12 @@
             </MarkerCategory>
 
             <MarkerCategory name="gathering" DisplayName="Gathering">
-                <MarkerCategory name="titanamber" DisplayName="Possible Rotted Titan Amber (Diamond)" iconFile="Data/Images/Diamond.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="32"/>
-                <MarkerCategory name="titanore" DisplayName="Possible Charged Titan Ore (Triangle)" iconFile="Data/Images/Triangle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="32"/>
+                <MarkerCategory name="titanamber" DisplayName="Possible Rotted Titan Amber" iconFile="Data/Images/Diamond.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1">
+                    <MarkerCategory name="diamond" DisplayName="Toggle Sign (Diamond)" iconFile="Data/Images/Diamond.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                </MarkerCategory>
+                <MarkerCategory name="titanore" DisplayName="Possible Charged Titan Ore (Triangle)" iconFile="Data/Images/Triangle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1">
+                    <MarkerCategory name="triangle" DisplayName="Toggle Sign (triangle)" iconFile="Data/Images/Triangle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                </MarkerCategory>
             </MarkerCategory>
 
             <MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/Images/Trails/Trail Pointer - Small.png">
