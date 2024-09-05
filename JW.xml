@@ -121,6 +121,7 @@
         <Trail type="leag.ls.gtct.10" trailData="Data/JW/Gettin' the Crew Together 10b.trl" inGameVisibility="1"/>
         <Trail type="leag.ls.gtct.11" trailData="Data/JW/Gettin' the Crew Together 11.trl" inGameVisibility="1"/>
         <Trail type="leag.ls.gtct.11" trailData="Data/JW/Gettin' the Crew Together 11b.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="437.343" ypos="150.015" zpos="72.2371" type="leag.ls.gtct.12" GUID="mP6gXBP+MkCi69JaeL3uDA=="/>
         <POI MapID="1550" xpos="558.608" ypos="423.099" zpos="-555.016" type="leag.ls.gtct.start" GUID="ieXxCxIcQk6RltwqgjJnGw=="/>
         <POI MapID="1550" xpos="560.198" ypos="393.147" zpos="-547.292" type="leag.ls.gtct.2" GUID="7N9CumfHqU6QCnqqbIuDFw=="/>
         <POI MapID="1550" xpos="562.45" ypos="393.194" zpos="-546.953" type="leag.ls.gtct.3" GUID="qBmWzkdCtkuL6t0nZ003Rg==" iconFile="Data/Images/Numbers/3.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
@@ -254,10 +255,10 @@
         <Trail type="leag.ls.jwgoggles.ls" trailData="Data/JW/Diving Goggles/Lowland Shore - Coursing Upland.trl"/>
         
         <!-- Gathering - Honey Flower -->
-        <Trail type="leag.ls.gathering.trail.flowers" trailData="Data/JW/Gathering/Honey Flowers 1.trl"/>
-        <Trail type="leag.ls.gathering.trail.flowers" trailData="Data/JW/Gathering/Honey Flowers 2.trl"/>
-        <Trail type="leag.ls.gathering.trail.flowers" trailData="Data/JW/Gathering/Honey Flowers 3.trl"/>
-        <Trail type="leag.ls.gathering.trail.flowers" trailData="Data/JW/Gathering/Honey Flowers 4.trl"/>
+        <Trail type="leag.ls.gathering.flowers" trailData="Data/JW/Gathering/Honey Flowers 1.trl" color="ffaa00"/>
+        <Trail type="leag.ls.gathering.flowers" trailData="Data/JW/Gathering/Honey Flowers 2.trl" color="ffaa00"/>
+        <Trail type="leag.ls.gathering.flowers" trailData="Data/JW/Gathering/Honey Flowers 3.trl" color="ffaa00"/>
+        <Trail type="leag.ls.gathering.flowers" trailData="Data/JW/Gathering/Honey Flowers 4.trl" color="ffaa00"/>
         <POI MapID="1550" xpos="304.948" ypos="328.938" zpos="-558.92" type="leag.ls.gathering.flower" GUID="XFWX20UoUkmMsm9wUCcpXQ=="/>
         <POI MapID="1550" xpos="198.109" ypos="308.876" zpos="-499.591" type="leag.ls.gathering.flower" GUID="8EOABTFTzkeSkIg5Af3R/g=="/>
         <POI MapID="1550" xpos="136.102" ypos="311.228" zpos="-415.751" type="leag.ls.gathering.flower" GUID="vo9z1pUpUUy742xaHj80qg=="/>
@@ -313,13 +314,13 @@
         <POI MapID="1550" xpos="-972.569" ypos="218.924" zpos="-152.706" type="leag.ls.gathering.flower" GUID="+o97Owew30mwZVAANFfppA=="/>
         
         <!-- Gathering - Lowland Pine -->
-        <Trail type="leag.ls.gathering.trail.wood" trailData="Data/JW/Gathering/Lowland Pines 1.trl"/>
-        <Trail type="leag.ls.gathering.trail.wood" trailData="Data/JW/Gathering/Lowland Pines 2.trl"/>
-        <Trail type="leag.ls.gathering.trail.wood" trailData="Data/JW/Gathering/Lowland Pines 3.trl"/>
-        <Trail type="leag.ls.gathering.trail.wood" trailData="Data/JW/Gathering/Lowland Pines 4.trl"/>
-        <Trail type="leag.ls.gathering.trail.wood" trailData="Data/JW/Gathering/Lowland Pines 5.trl"/>
-        <Trail type="leag.ls.gathering.trail.wood" trailData="Data/JW/Gathering/Lowland Pines 6.trl"/>
-        <Trail type="leag.ls.gathering.trail.wood" trailData="Data/JW/Gathering/Lowland Pines 7.trl"/>
+        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 1.trl" color="cc9966"/>
+        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 2.trl" color="cc9966"/>
+        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 3.trl" color="cc9966"/>
+        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 4.trl" color="cc9966"/>
+        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 5.trl" color="cc9966"/>
+        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 6.trl" color="cc9966"/>
+        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 7.trl" color="cc9966"/>
         <POI MapID="1550" xpos="-655.238" ypos="2.19461" zpos="541.196" type="leag.ls.gathering.wood" GUID="i310mXG1S0mcKFav7poldA=="/>
         <POI MapID="1550" xpos="-240.851" ypos="205.936" zpos="-351.633" type="leag.ls.gathering.wood" GUID="ryOquXc6lEai/bcBA3c9EA=="/>
         <POI MapID="1550" xpos="-97.5303" ypos="309.606" zpos="-381.052" type="leag.ls.gathering.wood" GUID="nxUB/z0bVEyD3f0OZZ6yoQ=="/>
@@ -388,7 +389,6 @@
         <POI MapID="1550" xpos="-371.794" ypos="152.411" zpos="135.151" type="leag.ls.gathering.wood" GUID="edYAQE+UdkuziOrXCcAvuA=="/>
         <POI MapID="1550" xpos="253.725" ypos="213.462" zpos="214.075" type="leag.ls.gathering.wood" GUID="Esk473eD90O65I483cvyRg=="/>
         <POI MapID="1550" xpos="687.148" ypos="324.635" zpos="41.7506" type="leag.ls.gathering.wood" GUID="2eqkMkARDEmeiMYZU5GE0Q=="/>
-        
 
         <!-- Jumping Puzzles -->
         <POI MapID="1550" xpos="-331.095" ypos="217.382" zpos="-469.362" type="leag.ls.jp.light.sign" GUID="b+Mmyl31kkGiqbuw9Q6DQw=="/>
@@ -412,8 +412,8 @@
         <POI MapID="1550" xpos="150.552" ypos="9.62146" zpos="463.764" type="leag.ls.jp.light.booster" GUID="Q4iG8X5CP02+lnf/t3yGiw=="/>
 
         <Trail type="leag.ls.jp.hive" trailData="Data/JW/Jumping Puzzles/Hive Hopper.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
-        <POI MapID="1550" xpos="-159.665" ypos="148.224" zpos="-79.3888" type="leag.ls.jp.hive" GUID="NAQzddk7z0eaRoWY9RtrSA==" iconFile="Data/Images/Hive Hopper.png" fadeNear="900" fadeFar="1200"/>
         <POI MapID="1550" xpos="-343.816" ypos="213.507" zpos="-449.306" type="leag.ls.jp.hive.sign" GUID="vMuYxbZ3dkK12/uN8Mfd9Q=="/>
+        <POI MapID="1550" xpos="-159.665" ypos="148.224" zpos="-79.3888" type="leag.ls.jp.hive.guide" GUID="NAQzddk7z0eaRoWY9RtrSA==" iconFile="Data/Images/Hive Hopper.png" fadeNear="900" fadeFar="1200"/>
         <Trail type="leag.ls.jp.buzzy" trailData="Data/JW/Jumping Puzzles/Buzzy Treetops.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1550" xpos="566.899" ypos="423.046" zpos="-545.945" type="leag.ls.jp.buzzy.sign" GUID="DoXhccjPIUK59I7znIxSPg=="/>
 
@@ -431,15 +431,40 @@
 
         <!-- JANTHIR SYNTRI - Achievements -->
 
+        <!-- Full Bloom -->
+        <Trail type="leag.js.bloom" trailData="Data/JW/Full Bloom.trl"/>
+
         <!-- Gettin' the Crew Together -->
         <POI MapID="1554" xpos="627.432" ypos="2.07939" zpos="-633.167" type="leag.js.gtct.start" GUID="dFQ2eBmF+EGyGi4EKSKp4A=="/>
         <POI MapID="1554" xpos="671.008" ypos="3.3602" zpos="-682.51" type="leag.js.gtct.13" GUID="1I62T718bECGPQMsoCoWqg=="/>
         <POI MapID="1554" xpos="-345.08" ypos="44.5738" zpos="-608.215" type="leag.js.gtct.14" GUID="RpyixoptZEO59t/Iq+oPCA==" inGameVisibility="1"/>
         <POI MapID="1554" xpos="621.605" ypos="9.13316" zpos="430.167" type="leag.js.gtct.15" GUID="eR1QMgVl4UiwIK0KkpsLrw=="/>
+        <POI MapID="1554" xpos="863.066" ypos="-3.06071" zpos="460.158" type="leag.js.gtct.16" GUID="oz/ECv/NXUWQCtMJWgTkLQ=="/>
+        <POI MapID="1554" xpos="683.92" ypos="2.09485" zpos="-682.138" type="leag.js.gtct.17" GUID="v2nCKXh/fEOFUst/FuKxjg=="/>
+        <POI MapID="1550" xpos="450.521" ypos="149.067" zpos="72.2445" type="leag.ls.gtct.18" GUID="cwDrwwZPvEO/z7Yy7dM8eQ=="/>
+        <POI MapID="1550" xpos="516.022" ypos="341.043" zpos="-698.661" type="leag.ls.gtct.19" GUID="gSj4OVbmp0aVYoWR7hSe6A=="/>
         <Trail type="leag.js.gtct.13" trailData="Data/JW/Gettin' the Crew Together 13.trl" texture="Data/Images/Trails/Trail Marker 2 Dark.png" inGameVisibility="1"/>
         <Trail type="leag.js.gtct.14" trailData="Data/JW/Gettin' the Crew Together 14.trl" inGameVisibility="1"/>
         <Trail type="leag.js.gtct.15" trailData="Data/JW/Gettin' the Crew Together 15.trl" inGameVisibility="1"/>
+        <Trail type="leag.js.gtct.15" trailData="Data/JW/Gettin' the Crew Together 15b.trl" inGameVisibility="1"/>
 
+        <!-- Island Adventurer -->
+        <Trail type="leag.js.islandadv" trailData="Data/JW/Island Adventurer.trl"/>
+
+        <!-- Shard Scouter -->
+        <Trail type="leag.js.shard.1" trailData="Data/JW/Shard Scouter 1.trl" color="D6638C"/>
+        <Trail type="leag.js.shard.2" trailData="Data/JW/Shard Scouter 2.trl" color="D6638C"/>
+        <Trail type="leag.js.shard.3" trailData="Data/JW/Shard Scouter 3.trl" color="D6638C"/>
+        <Trail type="leag.js.shard.4" trailData="Data/JW/Shard Scouter 4.trl" color="D6638C"/>
+        <POI MapID="1554" xpos="-299.68" ypos="8.31709" zpos="-465.828" type="leag.js.shard.start" GUID="Af6+FIW+L0yrRmj5hYts7g=="/>
+        <POI MapID="1554" xpos="-313.497" ypos="7.73796" zpos="-466.059" type="leag.js.shard.1" GUID="OMFY6s13WE+uj+sHg2coqg=="/>
+        <POI MapID="1554" xpos="12.6634" ypos="15.5044" zpos="-413.243" type="leag.js.shard.2" GUID="3/YUlKNWj0uZB+7HgLKVaA=="/>
+        <POI MapID="1554" xpos="-364.786" ypos="82.3777" zpos="53.5986" type="leag.js.shard.3" GUID="bNeu65u7tkSQbncMrxw5Fw=="/>
+        <POI MapID="1554" xpos="-358.989" ypos="83.9082" zpos="61.0803" type="leag.js.shard.4" GUID="5ExSnPxA2EGrmlp2znYnyg=="/>
+
+        <!-- Struck Twice -->
+        <Trail type="leag.js.Struck" trailData="Data/JW/Struck Twice.trl"/>
+        
         <!-- Adventures -->
         <Trail type="leag.js.ad.wr" trailData="Data/JW/Adventures/JS Warclaw Run.trl"/>
         <Trail type="leag.js.ad.swc" trailData="Data/JW/Adventures/Save Woodland Creatures.trl"/>
@@ -449,6 +474,9 @@
         <!-- Diving Goggles -->
 
         <!-- Gathering - Titan Amber -->
+        <Trail type="leag.js.gathering.titanamber" trailData="Data/JW/Gathering/Titan Amber 1.trl" color="ff8c00"/>
+        <Trail type="leag.js.gathering.titanamber" trailData="Data/JW/Gathering/Titan Amber 2.trl" color="ff8c00"/>
+        <Trail type="leag.js.gathering.titanamber" trailData="Data/JW/Gathering/Titan Amber 3.trl" color="ff8c00"/>
         <POI MapID="1554" xpos="642.674" ypos="1.18223" zpos="-160.492" type="leag.js.gathering.titanamber" GUID="0hV6Z0V9s0+UBmVT5HnbyA=="/>
         <POI MapID="1554" xpos="-276.098" ypos="30.3688" zpos="-144.906" type="leag.js.gathering.titanamber" GUID="LsYJA86k1kyIn+ckZM6Y9w=="/>
         <POI MapID="1554" xpos="-546.981" ypos="80.2483" zpos="37.6422" type="leag.js.gathering.titanamber" GUID="5Cf+qvFTKkSndB+Vmw/WTA=="/>
@@ -461,8 +489,8 @@
         <POI MapID="1554" xpos="-476.341" ypos="102.808" zpos="-138.522" type="leag.js.gathering.titanamber" GUID="6Uq+2Eh4Okyo16nWbuqBwg=="/>
         <POI MapID="1554" xpos="-473.815" ypos="103.933" zpos="-162.582" type="leag.js.gathering.titanamber" GUID="xnKERlHHlUabSypA+EMxsg=="/>
         <POI MapID="1554" xpos="-396.181" ypos="56.3295" zpos="-127.896" type="leag.js.gathering.titanamber" GUID="bLenCgwmKkKCjSH5QFcL9g=="/>
-        <POI MapID="1554" xpos="-731.561" ypos="60.837" zpos="-261.9" type="leag.js.gathering.titanamber" GUID="bppoKk9W/0ayLaVk65pCug=="/>
         <POI MapID="1554" xpos="-573.039" ypos="31.8161" zpos="-424.051" type="leag.js.gathering.titanamber" GUID="8YlHZrdqRkOqQxpXZB7jcQ=="/>
+        <POI MapID="1554" xpos="-570.098" ypos="32.7868" zpos="-451.428" type="leag.js.gathering.titanamber" GUID="CgtL7b1hr0y9o+tzdoqdQg=="/>
         <POI MapID="1554" xpos="-658.456" ypos="18.257" zpos="-752.71" type="leag.js.gathering.titanamber" GUID="rynfbK9j9E+B50PTJHkgSg=="/>
         <POI MapID="1554" xpos="-319.009" ypos="49.4794" zpos="-351.661" type="leag.js.gathering.titanamber" GUID="ZaszTbjZ1EmeEajq04gS8Q=="/>
         <POI MapID="1554" xpos="-264.542" ypos="33.1287" zpos="-215.004" type="leag.js.gathering.titanamber" GUID="gnQe3mVASkihVJXkNWsv3A=="/>
@@ -475,12 +503,19 @@
         <POI MapID="1554" xpos="663.534" ypos="2.11271" zpos="-220.329" type="leag.js.gathering.titanamber" GUID="UpgVrYiedkCZ/Wi5VI3ToQ=="/>
         <POI MapID="1554" xpos="392.884" ypos="5.98619" zpos="-70.6828" type="leag.js.gathering.titanamber" GUID="SJq0ScWTpk+uFMFBKMjGFQ=="/>
         <POI MapID="1554" xpos="226.181" ypos="3.65291" zpos="674.135" type="leag.js.gathering.titanamber" GUID="i8Wd99FrI0q4huC2/frriw=="/>
-        <POI MapID="1554" xpos="386.989" ypos="39.0522" zpos="426.073" type="leag.js.gathering.titanamber" GUID="Mq6huI/SB0u//ZGbbIY/+A=="/>
         <POI MapID="1554" xpos="550.394" ypos="7.06997" zpos="370.259" type="leag.js.gathering.titanamber" GUID="OGdeTDZJdE2qwGTFstMyRg=="/>
         <POI MapID="1554" xpos="566.9" ypos="47.1844" zpos="421.041" type="leag.js.gathering.titanamber" GUID="gnSxK8avVkiFS9QUjOvDZg=="/>
         <POI MapID="1554" xpos="-638.219" ypos="64.5694" zpos="-633.339" type="leag.js.gathering.titanamber" GUID="5T/ULQ1x20aQG05Nrt+log=="/>
+        <POI MapID="1554" xpos="846.883" ypos="30.8607" zpos="-483.319" type="leag.js.gathering.titanamber" GUID="vbUbrpTpp068XQ1oFMWROA=="/>
+        <POI MapID="1554" xpos="-125.716" ypos="11.269" zpos="-224.576" type="leag.js.gathering.titanamber" GUID="q07pUWQ1rkKUmQU1B4prtA=="/>
+
 
         <!-- Gathering - Titan Ore -->
+        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 1.trl" color="ddc700"/>
+        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 2.trl" color="ddc700"/>
+        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 3.trl" color="ddc700"/>
+        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 4.trl" color="ddc700"/>
+        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 5.trl" color="ddc700"/>
         <POI MapID="1554" xpos="-707.63" ypos="52.8027" zpos="433.216" type="leag.js.gathering.titanore" GUID="g3uCnUtS+kaAiyWAtUDXFw=="/>
         <POI MapID="1554" xpos="-739.346" ypos="49.1165" zpos="434.467" type="leag.js.gathering.titanore" GUID="um4cjzFLBkquu1LgOCyY8g=="/>
         <POI MapID="1554" xpos="161.668" ypos="3.67332" zpos="590.696" type="leag.js.gathering.titanore" GUID="6MMTlDHATU6vQDcHgmpKYA=="/>
@@ -497,7 +532,6 @@
         <POI MapID="1554" xpos="656.149" ypos="1.53183" zpos="-528.988" type="leag.js.gathering.titanore" GUID="fX602w2hREG8YqHiQv2Ibw=="/>
         <POI MapID="1554" xpos="628.663" ypos="4.21417" zpos="-447.784" type="leag.js.gathering.titanore" GUID="gt8gWdNuj06gHcm3ZCV/EQ=="/>
         <POI MapID="1554" xpos="807.341" ypos="16.3688" zpos="-485.272" type="leag.js.gathering.titanore" GUID="L5GcRDIHw0mNCuWMyLGYVw=="/>
-        <POI MapID="1554" xpos="846.203" ypos="29.809" zpos="-483.399" type="leag.js.gathering.titanore" GUID="Es7Hxjp6vEaOeQcb4UvKuw=="/>
         <POI MapID="1554" xpos="893.324" ypos="0.401352" zpos="-444.211" type="leag.js.gathering.titanore" GUID="UQXQSrahvkOJXkNCETiynA=="/>
         <POI MapID="1554" xpos="232.576" ypos="9.27908" zpos="84.7696" type="leag.js.gathering.titanore" GUID="fp9cQN3gO0CLftdmmrEKtA=="/>
         <POI MapID="1554" xpos="308.119" ypos="12.0731" zpos="178.088" type="leag.js.gathering.titanore" GUID="afqhTzdki0mKxTyy2wTurQ=="/>
@@ -530,6 +564,10 @@
         <POI MapID="1554" xpos="-198.163" ypos="56.8676" zpos="97.3504" type="leag.js.gathering.titanore" GUID="n2sB1V0LfUKn15GoVsL0bA=="/>
         <POI MapID="1554" xpos="-769.191" ypos="48.2347" zpos="446.223" type="leag.js.gathering.titanore" GUID="AJFBEF5p0ECPVaK9n5qj7Q=="/>
         <POI MapID="1554" xpos="-789.005" ypos="38.3979" zpos="330.735" type="leag.js.gathering.titanore" GUID="lf0D0LZ9qEqTfzM9kFCfvQ=="/>
+        <POI MapID="1554" xpos="534.924" ypos="48.0645" zpos="469.281" type="leag.js.gathering.titanore" GUID="ZYxggH+AA0ufyiMEMp+Ejg=="/>
+        <POI MapID="1554" xpos="387.047" ypos="40.3607" zpos="425.5" type="leag.js.gathering.titanore" GUID="lj5HMPhBKEy646IsI4xaBA=="/>
+        <POI MapID="1554" xpos="-731.463" ypos="61.79" zpos="-262.35" type="leag.js.gathering.titanore" GUID="FipDUhGh80eVARsRoVilcQ=="/>
+        <POI MapID="1554" xpos="-187.152" ypos="6.21667" zpos="-226.466" type="leag.js.gathering.titanore" GUID="WjGqqgac40CdZ0g5gq617w=="/>
 
         <!-- Jumping Puzzles -->
 
