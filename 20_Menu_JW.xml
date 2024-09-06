@@ -2,7 +2,7 @@
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" mapDisplaySize="16">
         <MarkerCategory name="jw" IsSeparator="1" DisplayName="  | JANTHIR WILDS"/>
         
-        <MarkerCategory name="ls" DisplayName="Lowland Shore (Work in Progress...)">
+        <MarkerCategory name="ls" DisplayName="Lowland Shore">
             
             <MarkerCategory name="achieve" IsSeparator="1" DisplayName="  | Achievements"/>
             <MarkerCategory name="ahdw" DisplayName="A Hard Day's Work" achievementId="8291">
@@ -64,6 +64,7 @@
             <MarkerCategory name="ftf" DisplayName="Feed the Flames [H]" iconFile="Data/Images/Feed the Flames.png" defaulttoggle="0" achievementId="8177"/>
             <MarkerCategory name="fott" DisplayName="Friend of the Trolls" achievementId="8282"/>
             
+            <!-- Gettin' the Crew Together -->
             <MarkerCategory name="gtct" DisplayName="Gettin' the Crew Together" texture="Data/Images/Trails/Trail Marker 1 Shaded Dark.png" achievementId="8266">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -171,7 +172,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="hive" DisplayName="Hive Hopper" achievementId="8245">
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Hive Hopper.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                    <MarkerCategory name="guide" DisplayName="Toggle Guide Sign" iconFile="Data/Images/Hive Hopper Guide.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="guide" DisplayName="Toggle Guide Sign" iconFile="Data/Images/Hive Hopper Guide.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" mapDisplaySize="64"/>
                 </MarkerCategory>
                 <MarkerCategory name="light" DisplayName="Light Up the Vale" achievementId="8300">
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Light Up the Vale.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -190,7 +191,7 @@
 
         <!-- JANTHIR SYNTRI -->
 
-        <MarkerCategory name="js" DisplayName="Janthir Syntri (Work in Progress...)">
+        <MarkerCategory name="js" DisplayName="Janthir Syntri">
             
             <MarkerCategory name="achieve" IsSeparator="1" DisplayName="  | Achievements"/>
 
@@ -232,21 +233,25 @@
 
             <!-- Build-a-Quaggan -->
             <MarkerCategory name="baq" DisplayName="Build-a-Quaggan" achievementId="8249">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
-                <MarkerCategory name="2" DisplayName="Gather Plant Fibers" achievementId="8328"/>
-                <MarkerCategory name="3" DisplayName="Wool from Gendarran Fields" achievementId="8271"/>
-                <MarkerCategory name="4" DisplayName="Mechanical frame from Rata Sum"/>
-                <MarkerCategory name="5" DisplayName="Talk with Kodan Cubs" achievementId="8336"/>
-                <MarkerCategory name="6" DisplayName="Toy Wings from Harathi Hinterlands"/>
-                <MarkerCategory name="7" DisplayName="Squeaker from Divinity's Reach"/>
-                <MarkerCategory name="8" DisplayName="Rock from River in Sanguine Crater"/>
-                <MarkerCategory name="9" DisplayName="Return to Forager's Hunt"/>
+                <MarkerCategory name="1" DisplayName="Talk to Chilly Tarn"                  iconFile="Data/Images/Numbers/n1.png"      inGameVisibility="0"/>
+                <MarkerCategory name="2" DisplayName="Gather Plant Fibers"                  iconFile="Data/Images/Numbers/n2.png"      inGameVisibility="0" achievementId="8328"/>
+                <MarkerCategory name="3" DisplayName="Wool from Gendarran Fields"           iconFile="Data/Images/Numbers/n3.png"      inGameVisibility="0" achievementId="8271"/>
+                <MarkerCategory name="4" DisplayName="Mechanical frame from Rata Sum"       iconFile="Data/Images/Numbers/n4.png"      inGameVisibility="0"/>
+                <MarkerCategory name="5" DisplayName="Talk with Kodan Cubs"                 iconFile="Data/Images/Numbers/n5.png"      inGameVisibility="0" achievementId="8336"/>
+                <MarkerCategory name="6" DisplayName="Toy Wings from Harathi Hinterlands"   iconFile="Data/Images/Numbers/n6.png"      inGameVisibility="0"/>
+                <MarkerCategory name="7" DisplayName="Squeaker from Divinity's Reach"       iconFile="Data/Images/Numbers/n7.png"      inGameVisibility="0"/>
+                <MarkerCategory name="8" DisplayName="Rock from River in Sanguine Crater"   iconFile="Data/Images/Numbers/n8.png"      inGameVisibility="0"/>
+                <MarkerCategory name="9" DisplayName="Return to Forager's Hunt"             iconFile="Data/Images/Numbers/n9.png"      inGameVisibility="0"/>
             </MarkerCategory>
 
             <!-- Full Bloom -->
             <MarkerCategory name="bloom" DisplayName="Full Bloom" achievementId="8187"/>
 
+            <!-- Gettin' the Crew Together -->
             <MarkerCategory name="gtct" DisplayName="Gettin' the Crew Together" achievementId="8266">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -267,6 +272,7 @@
 
             <!-- Shard Scouter -->
             <MarkerCategory name="shard" DisplayName="Shard Scouter" achievementId="8196">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
                 <MarkerCategory name="1" DisplayName="Slithering Outskirts: The Immortal Oak"       iconFile="Data/Images/Numbers/1.png"/>
@@ -310,10 +316,12 @@
                 <MarkerCategory name="jswr" DisplayName="Warclaw Run" achievementId="8340"/>
             </MarkerCategory>
 
+            <!--
             <MarkerCategory name="jwgoggles" DisplayName="Diving Goggles">
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
             </MarkerCategory>
+            -->
 
             <MarkerCategory name="gathering" DisplayName="Gathering">
                 <MarkerCategory name="titanamber" DisplayName="Possible Rotted Titan Amber" iconFile="Data/Images/Diamond.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1">
@@ -323,9 +331,11 @@
                     <MarkerCategory name="triangle" DisplayName="Toggle Sign (triangle)" iconFile="Data/Images/Triangle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                 </MarkerCategory>
             </MarkerCategory>
-
+            
+            <!--
             <MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/Images/Trails/Trail Pointer - Small.png">
             </MarkerCategory>
+            -->
 
             <MarkerCategory name="mp" DisplayName="Mastery Insights" texture="Data/Images/Trails/Mastery.png">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
