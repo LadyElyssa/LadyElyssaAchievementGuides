@@ -413,7 +413,7 @@
 
         <Trail type="leag.ls.jp.hive" trailData="Data/JW/Jumping Puzzles/Hive Hopper.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1550" xpos="-343.816" ypos="213.507" zpos="-449.306" type="leag.ls.jp.hive.sign" GUID="vMuYxbZ3dkK12/uN8Mfd9Q=="/>
-        <POI MapID="1550" xpos="-159.665" ypos="148.224" zpos="-79.3888" type="leag.ls.jp.hive.guide" GUID="NAQzddk7z0eaRoWY9RtrSA==" iconFile="Data/Images/Hive Hopper.png" fadeNear="900" fadeFar="1200"/>
+        <POI MapID="1550" xpos="-159.665" ypos="148.224" zpos="-79.3888" type="leag.ls.jp.hive.guide" GUID="NAQzddk7z0eaRoWY9RtrSA==" iconFile="Data/Images/Hive Hopper Guide.png" fadeNear="900" fadeFar="1200"/>
         <Trail type="leag.ls.jp.buzzy" trailData="Data/JW/Jumping Puzzles/Buzzy Treetops.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1550" xpos="566.899" ypos="423.046" zpos="-545.945" type="leag.ls.jp.buzzy.sign" GUID="DoXhccjPIUK59I7znIxSPg=="/>
 
@@ -478,6 +478,43 @@
         <POI MapID="1554" xpos="663.237" ypos="2.5954" zpos="-612.792" type="leag.js.ahmv2.9" GUID="0yLH0JILMk6pPExqVA0ULA=="/>
 
         <!-- Build-a-Quaggan -->
+        <POI MapID="1554" xpos="602.097" ypos="1.14901" zpos="-630.315" type="leag.js.baq.start" GUID="RaRRBa4MZ0uFZMmoJnb+fw=="/>
+        <Trail type="leag.js.baq.1" trailData="Data/JW/Build-a-Quaggan 1.trl" texture="Data/Images/Trails/Trail Marker 2.png" color="BC606C" inGameVisibility="1"/>
+        <Trail type="leag.js.baq.2" trailData="Data/JW/Build-a-Quaggan 2.trl" color="BC606C" inGameVisibility="1"/>
+        <Trail type="leag.js.baq.3" trailData="Data/JW/Build-a-Quaggan 3.trl" color="BC606C" inGameVisibility="1"/>
+        <Trail type="leag.js.baq.4" trailData="Data/JW/Build-a-Quaggan 4.trl" color="BC606C" inGameVisibility="1"/>
+        <Trail type="leag.js.baq.5" trailData="Data/JW/Build-a-Quaggan 5.trl" color="BC606C" inGameVisibility="1"/>
+        <Trail type="leag.js.baq.6" trailData="Data/JW/Build-a-Quaggan 6.trl" color="BC606C" inGameVisibility="1"/>
+        <Trail type="leag.js.baq.7" trailData="Data/JW/Build-a-Quaggan 7.trl" color="BC606C" inGameVisibility="1"/>
+        <Trail type="leag.js.baq.8" trailData="Data/JW/Build-a-Quaggan 8.trl" color="BC606C" inGameVisibility="1"/>
+        <Trail type="leag.js.baq.9" trailData="Data/JW/Build-a-Quaggan 9.trl" color="BC606C" inGameVisibility="1"/>
+        <POI MapID="1554" xpos="610.093" ypos="3.46718" zpos="-639.143" type="leag.js.baq.1" GUID="9wXQgBaiaE+7lSpL/TU+dw=="/>
+        <POI MapID="1554" xpos="89.7611" ypos="19.4677" zpos="-648.301" type="leag.js.baq.2" GUID="edUfjYBk5kKGlEkV4+hmqg=="/>
+        <POI MapID="1554" xpos="73.2567" ypos="23.2047" zpos="-631.411" type="leag.js.baq.2" GUID="eDHz6d6JLE2mccEXIf1xCg=="/>
+        <POI MapID="1554" xpos="67.538" ypos="22.0065" zpos="-643.119" type="leag.js.baq.2" GUID="Q3ZuTLDr80WRiYIktmtXhQ=="/>
+        <POI MapID="1554" xpos="65.342" ypos="22.1601" zpos="-655.565" type="leag.js.baq.2" GUID="CTGUff4Fp0ubMSrCZVYQ2w=="/>
+        <POI MapID="1554" xpos="57.8911" ypos="27.1548" zpos="-671.435" type="leag.js.baq.2" GUID="ay+Z+cggjEaJGZB9sMnjVA=="/>
+        <POI MapID="1554" xpos="44.8779" ypos="28.0476" zpos="-674.012" type="leag.js.baq.2" GUID="Bes/t9rbhU+MC/bURLYxKg=="/>
+        <POI MapID="1554" xpos="44.8779" ypos="28.0476" zpos="-674.012" type="leag.js.baq.wp" GUID="C0FxX9/Ab0q/+O3RYQEDtg==" copy="[&BOQAAAA=]" copy-message="Provern Shore Waypoint in Gendarran Fields"/>
+        <POI MapID="24" xpos="379.498" ypos="48.2666" zpos="505.39" type="leag.js.baq.3" GUID="L4mXghy9okCU58Roj9Q0Eg=="  copy="[&BLcEAAA=]" copy-message="Apprentice Waypoint in Rata Sum"/>
+        <POI MapID="139" xpos="178.467" ypos="339.52" zpos="177.155" type="leag.js.baq.4" GUID="Mq/mlF8W8EqEA33BDesx7w==" mapDisplaySize="20"/>
+        <POI MapID="139" xpos="178.147" ypos="339.522" zpos="179.906" type="leag.js.baq.4" GUID="/4S7+WDvb0G2COY5rX+f8w==" iconFile="Data/Images/Relyor Riddle.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1"/>
+        <POI MapID="139" xpos="178.48" ypos="339.52" zpos="177.175" type="leag.js.baq.wp" GUID="kW2gvOa+N0WWO+3CeKxROg==" copy="[&BC4PAAA=]" copy-message="Autumn Vale Waypoint in Lowland Shore"/>
+        <POI MapID="1550" xpos="-110.557" ypos="108.197" zpos="400.397" type="leag.js.baq.5" GUID="CQxEVcGDt06P74N3Wc7JzQ=="/>
+        <POI MapID="1550" xpos="-130.202" ypos="110.253" zpos="419.017" type="leag.js.baq.5" GUID="a+sCOm0j/EeOnah+Z0j7Eg=="/>
+        <POI MapID="1550" xpos="-63.5352" ypos="107.685" zpos="444.239" type="leag.js.baq.5" GUID="i1f9bwkRSEik+VZ+w9pb9Q=="/>
+        <POI MapID="1550" xpos="-63.4963" ypos="107.691" zpos="444.267" type="leag.js.baq.wp" GUID="JDotmWU/jkKbJ9fQh2Wvhw==" copy="[&BLIAAAA=]" copy-message="Arca Waypoint in Gendarran Fields"/>
+        <POI MapID="17" xpos="-456.23" ypos="52.7343" zpos="690.603" type="leag.js.baq.6" GUID="l4j1dblmYUSMYu3b7S8Ptw=="/>
+        <POI MapID="17" xpos="-456.049" ypos="52.7337" zpos="690.586" type="leag.js.baq.wp" GUID="CnD//KYmH0+W+qdHgH3T8w==" copy="[&BCMDAAA=]" copy-message="Dwayna Waypoint in Divinity's Reach"/>
+        <POI MapID="18" xpos="58.9828" ypos="87.7292" zpos="-370.264" type="leag.js.baq.7" GUID="/0tJ5GRrJ0aJ+O9zqP4pvw=="/>
+        <POI MapID="18" xpos="59.0187" ypos="87.749" zpos="-370.342" type="leag.js.baq.wp" GUID="rk47jx1GLUOL+/yrMm4tLQ==" copy="[&BCwPAAA=]" copy-message="Sanguine Crater Waypoint in Janthir Syntri"/>
+        <POI MapID="1554" xpos="160.176" ypos="-5.75797" zpos="49.7941" type="leag.js.baq.8" GUID="mHfo+cUifk+vhmtMAbIbuw=="/>
+        <POI MapID="1554" xpos="166.616" ypos="-2.98898" zpos="38.2602" type="leag.js.baq.8" GUID="aAW2E8iSpkyc6NiA4re6Lg=="/>
+        <POI MapID="1554" xpos="160.902" ypos="-4.10689" zpos="32.4206" type="leag.js.baq.8" GUID="C7oI7JbTpUyRm+us2+wALA=="/>
+        <POI MapID="1554" xpos="168.547" ypos="-3.32609" zpos="57.7286" type="leag.js.baq.8" GUID="hT9YDo10Y0eDn3S+BRDllw=="/>
+        <POI MapID="1554" xpos="168.891" ypos="-3.31163" zpos="69.9976" type="leag.js.baq.8" GUID="HEW4SVzhIE6XT1qET2khSg=="/>
+        <POI MapID="1554" xpos="167.377" ypos="-4.28439" zpos="80.795" type="leag.js.baq.8" GUID="qrGt0//njkmZ2JxPbwZQ7w=="/>
+        <POI MapID="1554" xpos="173.411" ypos="-3.0425" zpos="88.2244" type="leag.js.baq.8" GUID="JAOe+KzguUmi82JOm7CPNA=="/>
 
         <!-- Full Bloom -->
         <Trail type="leag.js.bloom" trailData="Data/JW/Full Bloom.trl"/>
