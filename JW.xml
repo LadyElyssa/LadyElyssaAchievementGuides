@@ -255,10 +255,10 @@
         <Trail type="leag.ls.jwgoggles.ls" trailData="Data/JW/Diving Goggles/Lowland Shore - Coursing Upland.trl"/>
         
         <!-- Gathering - Honey Flower -->
-        <Trail type="leag.ls.gathering.flowers" trailData="Data/JW/Gathering/Honey Flowers 1.trl" color="ffaa00"/>
-        <Trail type="leag.ls.gathering.flowers" trailData="Data/JW/Gathering/Honey Flowers 2.trl" color="ffaa00"/>
-        <Trail type="leag.ls.gathering.flowers" trailData="Data/JW/Gathering/Honey Flowers 3.trl" color="ffaa00"/>
-        <Trail type="leag.ls.gathering.flowers" trailData="Data/JW/Gathering/Honey Flowers 4.trl" color="ffaa00"/>
+        <Trail type="leag.ls.gathering.flower" trailData="Data/JW/Gathering/Honey Flowers 1.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.ls.gathering.flower" trailData="Data/JW/Gathering/Honey Flowers 2.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.ls.gathering.flower" trailData="Data/JW/Gathering/Honey Flowers 3.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.ls.gathering.flower" trailData="Data/JW/Gathering/Honey Flowers 4.trl" color="ffaa00" mapDisplaySize="16" inGameVisibility="1"/>
         <POI MapID="1550" xpos="304.948" ypos="328.938" zpos="-558.92" type="leag.ls.gathering.flower" GUID="XFWX20UoUkmMsm9wUCcpXQ=="/>
         <POI MapID="1550" xpos="198.109" ypos="308.876" zpos="-499.591" type="leag.ls.gathering.flower" GUID="8EOABTFTzkeSkIg5Af3R/g=="/>
         <POI MapID="1550" xpos="136.102" ypos="311.228" zpos="-415.751" type="leag.ls.gathering.flower" GUID="vo9z1pUpUUy742xaHj80qg=="/>
@@ -314,13 +314,13 @@
         <POI MapID="1550" xpos="-972.569" ypos="218.924" zpos="-152.706" type="leag.ls.gathering.flower" GUID="+o97Owew30mwZVAANFfppA=="/>
         
         <!-- Gathering - Lowland Pine -->
-        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 1.trl" color="cc9966"/>
-        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 2.trl" color="cc9966"/>
-        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 3.trl" color="cc9966"/>
-        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 4.trl" color="cc9966"/>
-        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 5.trl" color="cc9966"/>
-        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 6.trl" color="cc9966"/>
-        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 7.trl" color="cc9966"/>
+        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 1.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 2.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 3.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 4.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 5.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 6.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.ls.gathering.wood" trailData="Data/JW/Gathering/Lowland Pines 7.trl" color="cc9966" mapDisplaySize="16" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-655.238" ypos="2.19461" zpos="541.196" type="leag.ls.gathering.wood" GUID="i310mXG1S0mcKFav7poldA=="/>
         <POI MapID="1550" xpos="-240.851" ypos="205.936" zpos="-351.633" type="leag.ls.gathering.wood" GUID="ryOquXc6lEai/bcBA3c9EA=="/>
         <POI MapID="1550" xpos="-97.5303" ypos="309.606" zpos="-381.052" type="leag.ls.gathering.wood" GUID="nxUB/z0bVEyD3f0OZZ6yoQ=="/>
@@ -477,6 +477,7 @@
         <POI MapID="1554" xpos="653.786" ypos="0.294178" zpos="-613.081" type="leag.js.ahmv2.1" GUID="aXTQgb6oDUm8OK5Kl0PLZg=="/>
         <POI MapID="1554" xpos="663.237" ypos="2.5954" zpos="-612.792" type="leag.js.ahmv2.9" GUID="0yLH0JILMk6pPExqVA0ULA=="/>
 
+        <!-- Build-a-Quaggan -->
 
         <!-- Full Bloom -->
         <Trail type="leag.js.bloom" trailData="Data/JW/Full Bloom.trl"/>
@@ -515,6 +516,42 @@
         <!-- Struck Twice -->
         <Trail type="leag.js.Struck" trailData="Data/JW/Struck Twice.trl"/>
 
+        <!-- Titan Researcher -->
+        
+        <POI MapID="1554" xpos="627.938" ypos="1.17074" zpos="-624.103" type="leag.js.titan.start" GUID="UHP7n4WnVEKRmceCDW02NA=="/>
+        <Trail type="leag.js.titan.1" trailData="Data/JW/Titan Researcher 1.trl" inGameVisibility="1" color="7496AF"/>
+        <Trail type="leag.js.titan.2" trailData="Data/JW/Titan Researcher 2.trl" inGameVisibility="1" color="7496AF"/>
+        <Trail type="leag.js.titan.3" trailData="Data/JW/Titan Researcher 3.trl" inGameVisibility="1" color="7496AF"/>
+        <Trail type="leag.js.titan.4" trailData="Data/JW/Titan Researcher 4.trl" inGameVisibility="1" color="7496AF"/>
+        <Trail type="leag.js.titan.5" trailData="Data/JW/Titan Researcher 5.trl" inGameVisibility="1" color="7496AF"/>
+        <Trail type="leag.js.titan.6" trailData="Data/JW/Titan Researcher 6.trl" inGameVisibility="1" color="7496AF"/>
+        <Trail type="leag.js.titan.7" trailData="Data/JW/Titan Researcher 7.trl" inGameVisibility="1" color="7496AF"/>
+        <Trail type="leag.js.titan.8" trailData="Data/JW/Titan Researcher 8.trl" inGameVisibility="1" color="7496AF"/>
+        <Trail type="leag.js.titan.9" trailData="Data/JW/Titan Researcher 9.trl" inGameVisibility="1" color="7496AF"/>
+        <Trail type="leag.js.titan.10" trailData="Data/JW/Titan Researcher 10.trl" inGameVisibility="1" mapDisplaySize="8" color="7496AF"/>
+        <Trail type="leag.js.titan.10" trailData="Data/JW/Titan Researcher 11.trl" inGameVisibility="1" mapDisplaySize="8" color="7496AF"/>
+        <Trail type="leag.js.titan.12" trailData="Data/JW/Titan Researcher 12.trl" inGameVisibility="1" mapDisplaySize="8" color="7496AF"/>
+        
+        <POI MapID="1554" xpos="654.929" ypos="0.197288" zpos="-622.766" type="leag.js.titan.1" GUID="LNS7VKTvu0y1AnZU9NCzOw=="/>
+        <POI MapID="1554" xpos="664.416" ypos="2.62702" zpos="-620.706" type="leag.js.titan.2" GUID="gEG0/14HqU+30bu6orVOXQ=="/>
+        <POI MapID="1554" xpos="672.699" ypos="0.729337" zpos="-640.391" type="leag.js.titan.3" GUID="+nBRoke25UeOPSyVV3Zy3g=="/>
+        <POI MapID="1554" xpos="89.3603" ypos="43.9338" zpos="-679.974" type="leag.js.titan.4" GUID="UtmtNJSAuEKINt7j5njmcA=="/>
+        <POI MapID="1554" xpos="89.1174" ypos="43.9836" zpos="-680.476" type="leag.js.titan.wp" GUID="KAWurJ+DH02b8qg/gL3JqQ==" copy="[&BLgOAAA=]" copy-message="Festering Basin Waypoint"/>
+        <POI MapID="1554" xpos="-738.259" ypos="91.599" zpos="-185.915" type="leag.js.titan.5" GUID="6XrI5xxXdEGI1ebcCxiAtg=="/>
+        <POI MapID="1554" xpos="-739.137" ypos="91.7494" zpos="-186.295" type="leag.js.titan.wp" GUID="lg4D270TD0q/FdykZQVdHw==" copy="[&BCoPAAA=]" copy-message="Durmand Priory Waypoint"/>
+        <POI MapID="1554" xpos="353.204" ypos="26.2996" zpos="79.5341" type="leag.js.titan.6" GUID="AY1AIJC1LUa7J9GVFLbApg=="/>
+        <POI MapID="1554" xpos="503.787" ypos="35.7723" zpos="44.3031" type="leag.js.titan.7" GUID="DFbEziwLNUiWELYn2sroJw=="/>
+        <POI MapID="1554" xpos="503.85" ypos="35.7671" zpos="44.263" type="leag.js.titan.wp" GUID="6YSFOdFD0kqKc/XGoXh6qw==" copy="[&BLgOAAA=]" copy-message="Festering Basin Waypoint"/>
+        <POI MapID="1554" xpos="-337.568" ypos="29.2722" zpos="-196.942" type="leag.js.titan.8" GUID="JVx0MpEfdk6p6nri+1LzoA=="/>
+        <POI MapID="1554" xpos="-15.5182" ypos="12.9198" zpos="-96.9343" type="leag.js.titan.9" GUID="RMXXfypMykW+WDwraeFa5A=="/>
+
+        <POI MapID="1554" xpos="-15.5182" ypos="12.9198" zpos="-96.9343" type="leag.js.titan.wp" GUID="GwFBbgTBcUmawSeDJm6Zug==" copy="[&BOkAAAA=]" copy-message="Durmand Priory Waypoint in Lornar's Pass"/>
+        <POI MapID="27" xpos="-494.917" ypos="161.082" zpos="682.571" type="leag.js.titan.10" GUID="7NH0Pcez80Sfcrge/7Q4FA=="/>
+        <POI MapID="1543" xpos="-463.915" ypos="143.981" zpos="639.672" type="leag.js.titan.10" GUID="v83cxNV7VUG8CIXNAtgo8w=="/>
+        <POI MapID="1543" xpos="-463.638" ypos="143.978" zpos="639.621" type="leag.js.titan.11" GUID="GwS48uOK8E60G+BuCm8+fQ=="/>
+        <POI MapID="1543" xpos="-458.566" ypos="142.914" zpos="645.582" type="leag.js.titan.12" GUID="uKTzCzxlBEexR7coLDWJXQ=="/>
+        <POI MapID="1543" xpos="-458.658" ypos="142.914" zpos="645.915" type="leag.js.titan.wp" GUID="hbQnqF2dqkqm9HP6GEjHbg==" copy="[&BLcOAAA=]" copy-message="Forager's Hunt in Janthir Syntri"/>
+
         <!-- True Artist -->
         <Trail type="leag.js.artist" trailData="Data/JW/True Artist.trl"/>
         
@@ -527,9 +564,9 @@
         <!-- Diving Goggles -->
 
         <!-- Gathering - Titan Amber -->
-        <Trail type="leag.js.gathering.titanamber" trailData="Data/JW/Gathering/Titan Amber 1.trl" color="ff8c00"/>
-        <Trail type="leag.js.gathering.titanamber" trailData="Data/JW/Gathering/Titan Amber 2.trl" color="ff8c00"/>
-        <Trail type="leag.js.gathering.titanamber" trailData="Data/JW/Gathering/Titan Amber 3.trl" color="ff8c00"/>
+        <Trail type="leag.js.gathering.titanamber" trailData="Data/JW/Gathering/Titan Amber 1.trl" color="ff8c00" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.js.gathering.titanamber" trailData="Data/JW/Gathering/Titan Amber 2.trl" color="ff8c00" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.js.gathering.titanamber" trailData="Data/JW/Gathering/Titan Amber 3.trl" color="ff8c00" mapDisplaySize="16" inGameVisibility="1"/>
         <POI MapID="1554" xpos="642.674" ypos="1.18223" zpos="-160.492" type="leag.js.gathering.titanamber.diamond" GUID="0hV6Z0V9s0+UBmVT5HnbyA=="/>
         <POI MapID="1554" xpos="-276.098" ypos="30.3688" zpos="-144.906" type="leag.js.gathering.titanamber.diamond" GUID="LsYJA86k1kyIn+ckZM6Y9w=="/>
         <POI MapID="1554" xpos="-546.981" ypos="80.2483" zpos="37.6422" type="leag.js.gathering.titanamber.diamond" GUID="5Cf+qvFTKkSndB+Vmw/WTA=="/>
@@ -563,11 +600,11 @@
 
 
         <!-- Gathering - Titan Ore -->
-        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 1.trl" color="ddc700"/>
-        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 2.trl" color="ddc700"/>
-        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 3.trl" color="ddc700"/>
-        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 4.trl" color="ddc700"/>
-        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 5.trl" color="ddc700"/>
+        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 1.trl" color="ddc700" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 2.trl" color="ddc700" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 3.trl" color="ddc700" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 4.trl" color="ddc700" mapDisplaySize="16" inGameVisibility="1"/>
+        <Trail type="leag.js.gathering.titanore" trailData="Data/JW/Gathering/Titan Ore 5.trl" color="ddc700" mapDisplaySize="16" inGameVisibility="1"/>
         <POI MapID="1554" xpos="-707.63" ypos="52.8027" zpos="433.216" type="leag.js.gathering.titanore.triangle" GUID="g3uCnUtS+kaAiyWAtUDXFw=="/>
         <POI MapID="1554" xpos="-739.346" ypos="49.1165" zpos="434.467" type="leag.js.gathering.titanore.triangle" GUID="um4cjzFLBkquu1LgOCyY8g=="/>
         <POI MapID="1554" xpos="161.668" ypos="3.67332" zpos="590.696" type="leag.js.gathering.titanore.triangle" GUID="6MMTlDHATU6vQDcHgmpKYA=="/>
