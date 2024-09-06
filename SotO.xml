@@ -514,8 +514,8 @@
         <Trail type="leag.twt.twl.4" trailData="Data/SotO/The Waylit Lantern 4.trl"/>
         <Trail type="leag.twt.twl.4" trailData="Data/SotO/The Waylit Lantern 4b.trl"/>
         <Trail type="leag.twt.twl.5" trailData="Data/SotO/The Waylit Lantern 5.trl"/>
-        <Trail type="leag.twt.twl.6" trailData="Data/SotO/The Waylit Lantern 6.trl"/>
-        <Trail type="leag.twt.twl.6" trailData="Data/SotO/The Waylit Lantern 6b.trl"/>
+        <Trail type="leag.twt.twl.6" trailData="Data/SotO/The Waylit Lantern 6.trl" mapDisplaySize="8"/>
+        <Trail type="leag.twt.twl.6" trailData="Data/SotO/The Waylit Lantern 6b.trl" mapDisplaySize="8"/>
         <Trail type="leag.twt.twl.7" trailData="Data/SotO/The Waylit Lantern 7.trl"/>
         <Trail type="leag.twt.twl.8" trailData="Data/SotO/The Waylit Lantern 8.trl"/>
         <Trail type="leag.twt.twl.9" trailData="Data/SotO/The Waylit Lantern 9.trl"/>
