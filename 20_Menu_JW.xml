@@ -149,11 +149,11 @@
             <MarkerCategory name="spacer" IsSeparator="1" DisplayName="   "/>
 
             <MarkerCategory name="ad" DisplayName="Adventures" texture="Data/Images/Trails/Trail Pointer - Small.png">
-                <MarkerCategory name="hssr" DisplayName="Harvest Shore Salmon Run" achievementId="8342"/>
-                <MarkerCategory name="has" DisplayName="Hide-and-Seek" achievementId="8253"/>
-                <MarkerCategory name="mccsr" DisplayName="Moon Camp Covert Salmon Run" achievementId="8301"/>
+                <MarkerCategory name="hssr" DisplayName="Harvest Shore Salmon Run"/>
+                <MarkerCategory name="has" DisplayName="Hide-and-Seek"/>
+                <MarkerCategory name="mccsr" DisplayName="Moon Camp Covert Salmon Run"/>
                 <MarkerCategory name="rs" DisplayName="Raven Scouting"/>
-                <MarkerCategory name="wr" DisplayName="Warclaw Run" achievementId="8340"/>
+                <MarkerCategory name="wr" DisplayName="Warclaw Run"/>
             </MarkerCategory>
             
             <MarkerCategory name="jwgoggles" DisplayName="Diving Goggles">
@@ -162,19 +162,20 @@
             </MarkerCategory>
 
             <MarkerCategory name="gathering" DisplayName="Gathering">
-                <MarkerCategory name="flower" DisplayName="Possible Honey Flower (Circle)" iconFile="Data/Images/Circle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="wood" DisplayName="Possible Lowland Pine (Square)" iconFile="Data/Images/Square.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="flower" DisplayName="Possible Honey Flower (Hexagon)" iconFile="Data/Images/Hexagon.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="wood" DisplayName="Possible Lowland Pine (Circle)" iconFile="Data/Images/Circle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="verdant" DisplayName="Possible Verdant Herbs (Square)" iconFile="Data/Images/Square.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
             </MarkerCategory>
             
             <MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/Images/Trails/Trail Pointer - Small.png">
-                <MarkerCategory name="buzzy" DisplayName="Buzzy Treetops" achievementId="8158">
+                <MarkerCategory name="buzzy" DisplayName="Buzzy Treetops">
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Buzzy Treetops.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 </MarkerCategory>
-                <MarkerCategory name="hive" DisplayName="Hive Hopper" achievementId="8245">
+                <MarkerCategory name="hive" DisplayName="Hive Hopper">
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Hive Hopper.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                     <MarkerCategory name="guide" DisplayName="Toggle Guide Sign" iconFile="Data/Images/Hive Hopper Guide.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" mapDisplaySize="64"/>
                 </MarkerCategory>
-                <MarkerCategory name="light" DisplayName="Light Up the Vale" achievementId="8300">
+                <MarkerCategory name="light" DisplayName="Light Up the Vale">
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Light Up the Vale.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Glider.png" maxSize="32" mapDisplaySize="16"/>
                     <MarkerCategory name="booster" DisplayName="Toggle Jade Bot Glide Booster" iconFile="Data/Images/JadeBotGlideBooster.png" maxSize="32" mapDisplaySize="16"/>
@@ -310,10 +311,10 @@
             <MarkerCategory name="spacer" IsSeparator="1" DisplayName="   "/>
 
             <MarkerCategory name="ad" DisplayName="Adventures" texture="Data/Images/Trails/Trail Pointer - Small.png">
-                <MarkerCategory name="swc" DisplayName="Save Woodland Creatures" achievementId="8155"/>
-                <MarkerCategory name="ss" DisplayName="Swift Skiffs / River Mapping" achievementId="8234"/>
-                <MarkerCategory name="vftt" DisplayName="View from the Top" achievementId="8236"/>
-                <MarkerCategory name="jswr" DisplayName="Warclaw Run" achievementId="8340"/>
+                <MarkerCategory name="swc" DisplayName="Save Woodland Creatures"/>
+                <MarkerCategory name="ss" DisplayName="Swift Skiffs / River Mapping"/>
+                <MarkerCategory name="vftt" DisplayName="View from the Top"/>
+                <MarkerCategory name="jswr" DisplayName="Warclaw Run"/>
             </MarkerCategory>
 
             <!--
@@ -324,12 +325,9 @@
             -->
 
             <MarkerCategory name="gathering" DisplayName="Gathering">
-                <MarkerCategory name="titanamber" DisplayName="Possible Rotted Titan Amber" iconFile="Data/Images/Diamond.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1">
-                    <MarkerCategory name="diamond" DisplayName="Toggle Sign (Diamond)" iconFile="Data/Images/Diamond.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                </MarkerCategory>
-                <MarkerCategory name="titanore" DisplayName="Possible Charged Titan Ore (Triangle)" iconFile="Data/Images/Triangle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1">
-                    <MarkerCategory name="triangle" DisplayName="Toggle Sign (triangle)" iconFile="Data/Images/Triangle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                </MarkerCategory>
+                <MarkerCategory name="titanamber" DisplayName="Possible Rotted Titan Amber (Diamond)" iconFile="Data/Images/Diamond.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="titanore" DisplayName="Possible Charged Titan Ore (Triangle)" iconFile="Data/Images/Triangle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                <MarkerCategory name="herbs" DisplayName="Possible Verdant Herbs (Square)" iconFile="Data/Images/Square.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
             </MarkerCategory>
             
             <!--

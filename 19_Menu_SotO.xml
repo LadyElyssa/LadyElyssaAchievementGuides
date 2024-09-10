@@ -405,7 +405,7 @@
         <MarkerCategory name="there" DisplayName="There and..."/>
         </MarkerCategory>
 
-        <MarkerCategory name="twt" DisplayName="The Wizard'S Tower">
+        <MarkerCategory name="twt" DisplayName="The Wizard's Tower">
 
         <MarkerCategory name="cia" DisplayName="Comrades in Arms [H] " iconFile="Data/Images/Circle.png" behavior="3" triggerRange="5" autoTrigger="1" inGameVisibility="1">
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
