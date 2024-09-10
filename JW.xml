@@ -196,11 +196,11 @@
         <!-- Relaxed and Rejuvenated -->
         <Trail type="leag.ls.rar" trailData="Data/JW/Relaxed and Rejuvenated.trl"/>
 
-        <!-- hexagon-Crossed Lovers -->
-        <Trail type="leag.ls.scl" trailData="Data/JW/hexagon-Crossed Lovers 1.trl"/>
-        <Trail type="leag.ls.scl" trailData="Data/JW/hexagon-Crossed Lovers 2.trl"/>
-        <Trail type="leag.ls.scl" trailData="Data/JW/hexagon-Crossed Lovers 3.trl"/>
-        <Trail type="leag.ls.scl" trailData="Data/JW/hexagon-Crossed Lovers 4.trl"/>
+        <!-- Star-Crossed Lovers -->
+        <Trail type="leag.ls.scl" trailData="Data/JW/Star-Crossed Lovers 1.trl"/>
+        <Trail type="leag.ls.scl" trailData="Data/JW/Star-Crossed Lovers 2.trl"/>
+        <Trail type="leag.ls.scl" trailData="Data/JW/Star-Crossed Lovers 3.trl"/>
+        <Trail type="leag.ls.scl" trailData="Data/JW/Star-Crossed Lovers 4.trl"/>
 
         <!-- Tales of the Lowland Wisps -->
         <POI MapID="1550" xpos="528.892" ypos="345.146" zpos="-413.35" type="leag.ls.totlw.2" GUID="m8Gb6/w/UU69ubmmHYeHSw=="/>
