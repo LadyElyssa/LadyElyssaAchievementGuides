@@ -1,0 +1,125 @@
+<OverlayData>
+    <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" texture="Data/Images/Trails/Trail Marker 1.png" animSpeed="0.8" alpha="1.0" fadeNear="2000" fadeFar="4000">
+        <!-- ACHIEVEMENTS -->
+        <MarkerCategory name="goggles" DisplayName="Dive Master">     
+            <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP REGION"/>      
+            <MarkerCategory name="core" DisplayName="Core Tyria">
+                <MarkerCategory name="ascalon"     IsSeparator="1" DisplayName="  | ASCALON"/>
+                <MarkerCategory name="ashford"     DisplayName="Plains of Ashford" color="00CC99"/>
+                <MarkerCategory name="diessa"      DisplayName="Diessa Plateau" color="00CC99"/>
+                <MarkerCategory name="fields"      DisplayName="Fields of Ruin" color="00CC99"/>
+                <MarkerCategory name="iron"        DisplayName="Iron Marches" color="00CC99"/>
+                <MarkerCategory name="fireheart"   DisplayName="Fireheart Rise" color="00CC99"/>
+                <MarkerCategory name="kryta"       IsSeparator="1" DisplayName="  | KRYTA"/>
+                <MarkerCategory name="kessex"      DisplayName="Kessex Hills" color="00CC99"/>
+                <MarkerCategory name="gendarran"   DisplayName="Gendarran Fields" color="00CC99"/>
+                <MarkerCategory name="harathi"     DisplayName="Harathi Hinterlands" color="00CC99"/>
+                <MarkerCategory name="bloodtide"   DisplayName="Bloodtide Coast" color="00CC99"/>
+                <MarkerCategory name="la"          DisplayName="Lion's Arch" color="00CC99"/>
+                <MarkerCategory name="maguuma"     IsSeparator="1" DisplayName="  | MAGUUMA JUNGLE"/>
+                <MarkerCategory name="rata"        DisplayName="Rata Sum" color="00CC99"/>
+                <MarkerCategory name="grove"       DisplayName="The Grove" color="00CC99"/>
+                <MarkerCategory name="metrica"     DisplayName="Metrica Province" color="00CC99"/>
+                <MarkerCategory name="caledon"     DisplayName="Caledon Forest" color="00CC99"/>
+                <MarkerCategory name="brisban"     DisplayName="Brisban Wildlands" color="00CC99"/>
+                <MarkerCategory name="maelstrom"   DisplayName="Mount Maelstrom">
+                    <MarkerCategory name="swirl" DisplayName="Toggle Yellow Swirl" iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="128"/>
+                </MarkerCategory>
+                <MarkerCategory name="orr"         IsSeparator="1" DisplayName="  | RUINS OF ORR"/>
+                <MarkerCategory name="sod"         DisplayName="Straits of Devastation" color="00CC99"/>
+                <MarkerCategory name="ml"          DisplayName="Malchor's Leap" color="00CC99"/>
+                <MarkerCategory name="cs"          DisplayName="Cursed Shore" color="00CC99"/>
+                <MarkerCategory name="shiverpeaks" IsSeparator="1" DisplayName="  | SHIVERPEAKS"/>
+                <MarkerCategory name="wayfarer"    DisplayName="Wayfarer Foothills" color="00CC99"/>
+                <MarkerCategory name="frostgorge"  DisplayName="Frostgorge Sound" color="00CC99"/>
+                <MarkerCategory name="lornars"     DisplayName="Lornar's Pass" color="00CC99"/>
+                <MarkerCategory name="timberline"  DisplayName="Timberline Falls" color="00CC99"/>
+            </MarkerCategory>
+        <!-- End -->
+
+        <!-- LIVING WORLD SEASON 2: Glint's Prophecy -->
+        <MarkerCategory name="lws2" DisplayName="LWS2: Glint's Prophecy">
+            <MarkerCategory name="maguumawastes"     IsSeparator="1" DisplayName="  | MAGUUMA WASTES"/>
+            <MarkerCategory name="drytop"       DisplayName="Dry Top" color="00CC99"/>
+            <MarkerCategory name="silverwastes" DisplayName="The Silverwastes" color="00CC99"/>
+        </MarkerCategory> 
+        <!-- End -->
+
+        <!-- HEART OF THORNS -->
+        <MarkerCategory name="hot" DisplayName="Heart of Thorns">
+            <MarkerCategory name="maguumawastes"     IsSeparator="1" DisplayName="  | HEART OF MAGUUMA"/>
+            <MarkerCategory name="vb" DisplayName="Verdant Brink" color="00CC99"/>
+            <MarkerCategory name="td" DisplayName="Tangled Depths" color="00CC99"/>
+        </MarkerCategory> 
+        <!-- End -->
+
+        <!-- LIVING WORLD SEASON 3: Glint's Legacy -->
+        <MarkerCategory name="lws3" DisplayName="LWS3: Glint's Legacy">
+            <MarkerCategory name="maguumawastes"     IsSeparator="1" DisplayName="  | HEART OF MAGUUMA"/>
+            <MarkerCategory name="bsf" DisplayName="Bloodstone Fen" color="00CC99"/>
+            <MarkerCategory name="shiverpeaks"     IsSeparator="1" DisplayName="  | SHIVERPEAK MOUNTAINS"/>
+            <MarkerCategory name="bff" DisplayName="Bitterfrost Frontier" color="00CC99"/>
+            <MarkerCategory name="rof"     IsSeparator="1" DisplayName="  | RING OF FIRE"/>
+            <MarkerCategory name="dm" DisplayName="Draconis Mons" color="00CC99"/>
+            <MarkerCategory name="roo"     IsSeparator="1" DisplayName="  | RUINS OF ORR"/>
+            <MarkerCategory name="sl" DisplayName="Siren's Landing" color="00CC99"/>
+        </MarkerCategory> 
+        <!-- End -->
+
+        <!-- PoF - Path of Fire -->
+        <MarkerCategory name="pof" DisplayName="Path of Fire">
+            <MarkerCategory name="cd"     IsSeparator="1" DisplayName="  | CRYSTAL DESERT"/>
+            <MarkerCategory name="dh" DisplayName="Desert Highlands" color="00CC99"/>
+            <MarkerCategory name="er" DisplayName="Elon Riverlands" color="00CC99"/>
+        </MarkerCategory> 
+        <!-- End -->
+
+        <!-- LIVING WORLD SEASON 4: Rise of Kralkatorrik -->
+        <MarkerCategory name="lws4" DisplayName="LWS4: Rise of Kralkatorrik">
+            <MarkerCategory name="cd"     IsSeparator="1" DisplayName="  | CRYSTAL DESERT"/>
+            <MarkerCategory name="doi" DisplayName="Domain of Istan" color="00CC99"/>
+            <MarkerCategory name="jb" DisplayName="Jahai Bluffs" color="00CC99"/>
+        </MarkerCategory> 
+        <!-- End -->
+
+        <!-- LIVING WORLD SEASON 5: The Icebrood Saga -->
+        <MarkerCategory name="lws5" DisplayName="LWS5: The Icebrood Saga">
+            <MarkerCategory name="cd"     IsSeparator="1" DisplayName="  | SHIVERPEAK MOUNTAINS"/>
+            <MarkerCategory name="dc" DisplayName="Drizzlewood Coast" color="00CC99"/>
+        </MarkerCategory> 
+        <!-- End -->
+
+        <!-- EoD - END OF DRAGONS -->
+        <MarkerCategory name="eod" DisplayName="End of Dragons">
+            <MarkerCategory name="cd"     IsSeparator="1" DisplayName="  | CANTHA"/>
+            <MarkerCategory name="nkc" DisplayName="New Kaineng City" color="00CC99"/>
+            <MarkerCategory name="arb" DisplayName="Arborstone" color="00CC99"/>
+            <MarkerCategory name="tew" DisplayName="The Echovald Wilds" color="00CC99"/>
+            <MarkerCategory name="de" DisplayName="Dragon's End" color="00CC99"/>
+        </MarkerCategory> 
+        <!-- End -->
+
+        <MarkerCategory name="soto" DisplayName="Secrets of the Obscure">
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            <MarkerCategory name="cd" IsSeparator="1" DisplayName="  | HORN OF MAGUUMA"/>
+            <MarkerCategory name="am" DisplayName="Amnytas" color="00CC99"/>
+            <MarkerCategory name="in" DisplayName="Inner Nayos">
+                <MarkerCategory name="soto" IsSeparator="1" DisplayName="  | MOUNTS"/>
+                <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
+            </MarkerCategory>
+            <MarkerCategory name="sa" DisplayName="Skywatch Archipelago" color="00CC99"/>
+            <MarkerCategory name="twt" DisplayName="The Wizard's Tower" color="00CC99"/>
+        </MarkerCategory>
+        <!-- End -->
+
+        <MarkerCategory name="jw" DisplayName="Janthir Wilds">
+            <MarkerCategory name="ls" DisplayName="Lowland Shore"/>
+            <MarkerCategory name="js" DisplayName="Janthir Syntri"/>
+        </MarkerCategory>
+        <!-- End -->
+        </MarkerCategory>
+   </MarkerCategory>
+    <!-- End of Lady Elyssa's AP Guides -->
+</OverlayData>

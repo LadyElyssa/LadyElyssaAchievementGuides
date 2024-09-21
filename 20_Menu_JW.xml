@@ -1,10 +1,10 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" mapDisplaySize="16">
+        
         <MarkerCategory name="jw" IsSeparator="1" DisplayName="  | JANTHIR WILDS"/>
         
         <MarkerCategory name="ls" DisplayName="Lowland Shore">
             
-            <MarkerCategory name="achieve" IsSeparator="1" DisplayName="  | Achievements"/>
             <MarkerCategory name="ahdw" DisplayName="A Hard Day's Work" achievementId="8291">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -146,56 +146,12 @@
             <MarkerCategory name="wts" DisplayName="What's That Sound [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8156"/>
             <MarkerCategory name="workplace" DisplayName="Workplace Safety [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8184"/>
 
-            <MarkerCategory name="spacer" IsSeparator="1" DisplayName="   "/>
-
-            <MarkerCategory name="ad" DisplayName="Adventures" texture="Data/Images/Trails/Trail Pointer - Small.png">
-                <MarkerCategory name="hssr" DisplayName="Harvest Shore Salmon Run"/>
-                <MarkerCategory name="has" DisplayName="Hide-and-Seek"/>
-                <MarkerCategory name="mccsr" DisplayName="Moon Camp Covert Salmon Run"/>
-                <MarkerCategory name="rs" DisplayName="Raven Scouting"/>
-                <MarkerCategory name="wr" DisplayName="Warclaw Run"/>
-            </MarkerCategory>
-            
-            <MarkerCategory name="jwgoggles" DisplayName="Diving Goggles">
-                <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-            </MarkerCategory>
-
-            <MarkerCategory name="gathering" DisplayName="Gathering">
-                <MarkerCategory name="flower" DisplayName="Possible Honey Flower (Hexagon)" iconFile="Data/Images/Hexagon.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="wood" DisplayName="Possible Lowland Pine (Circle)" iconFile="Data/Images/Circle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="verdant" DisplayName="Possible Verdant Herbs (Square)" iconFile="Data/Images/Square.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-            </MarkerCategory>
-            
-            <MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/Images/Trails/Trail Pointer - Small.png">
-                <MarkerCategory name="buzzy" DisplayName="Buzzy Treetops">
-                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Buzzy Treetops.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                </MarkerCategory>
-                <MarkerCategory name="hive" DisplayName="Hive Hopper">
-                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Hive Hopper.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                    <MarkerCategory name="guide" DisplayName="Toggle Guide Sign" iconFile="Data/Images/Hive Hopper Guide.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" mapDisplaySize="64"/>
-                </MarkerCategory>
-                <MarkerCategory name="light" DisplayName="Light Up the Vale">
-                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Light Up the Vale.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Glider.png" maxSize="32" mapDisplaySize="16"/>
-                    <MarkerCategory name="booster" DisplayName="Toggle Jade Bot Glide Booster" iconFile="Data/Images/JadeBotGlideBooster.png" maxSize="32" mapDisplaySize="16"/>
-                </MarkerCategory>
-            </MarkerCategory>
-
-            <MarkerCategory name="mp" DisplayName="Mastery Insights" texture="Data/Images/Trails/Mastery.png">
-                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-            </MarkerCategory>
-
         </MarkerCategory>
 
 
         <!-- JANTHIR SYNTRI -->
 
         <MarkerCategory name="js" DisplayName="Janthir Syntri">
-            
-            <MarkerCategory name="achieve" IsSeparator="1" DisplayName="  | Achievements"/>
-
             <!-- A History Most Violent: Part 1 -->
 
             <MarkerCategory name="ahmv1" DisplayName="A History Most Violent: Part 1" achievementId="8161">
@@ -307,38 +263,6 @@
 
             <!-- True Artist -->
             <MarkerCategory name="artist" DisplayName="True Artist" achievementId="8172"/>
-
-            <MarkerCategory name="spacer" IsSeparator="1" DisplayName="   "/>
-
-            <MarkerCategory name="ad" DisplayName="Adventures" texture="Data/Images/Trails/Trail Pointer - Small.png">
-                <MarkerCategory name="swc" DisplayName="Save Woodland Creatures"/>
-                <MarkerCategory name="ss" DisplayName="Swift Skiffs / River Mapping"/>
-                <MarkerCategory name="vftt" DisplayName="View from the Top"/>
-                <MarkerCategory name="jswr" DisplayName="Warclaw Run"/>
-            </MarkerCategory>
-
-            <!--
-            <MarkerCategory name="jwgoggles" DisplayName="Diving Goggles">
-                <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-            </MarkerCategory>
-            -->
-
-            <MarkerCategory name="gathering" DisplayName="Gathering">
-                <MarkerCategory name="titanamber" DisplayName="Possible Rotted Titan Amber (Diamond)" iconFile="Data/Images/Diamond.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="titanore" DisplayName="Possible Charged Titan Ore (Triangle)" iconFile="Data/Images/Triangle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-                <MarkerCategory name="herbs" DisplayName="Possible Verdant Herbs (Square)" iconFile="Data/Images/Square.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
-            </MarkerCategory>
-            
-            <!--
-            <MarkerCategory name="jp" DisplayName="Jumping Puzzles" texture="Data/Images/Trails/Trail Pointer - Small.png">
-            </MarkerCategory>
-            -->
-
-            <MarkerCategory name="mp" DisplayName="Mastery Insights" texture="Data/Images/Trails/Mastery.png">
-                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-            </MarkerCategory>
 
         </MarkerCategory>
 

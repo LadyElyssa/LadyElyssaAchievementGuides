@@ -2,178 +2,197 @@
     <POIs>
         <!-- Core Maps -->
         <POI MapID="19" xpos="-316.71" ypos="10.8319" zpos="-329.728" type="leag.goggles.sign" GUID="YOSIh1VcI0CrQd+UuciqqQ=="/>
-        <Trail type="leag.goggles.ashford" trailData="Data/Core/Diving Goggles/1 Plains of Ashford.trl"/>
+        <Trail type="leag.goggles.core.ashford" trailData="Data/Diving Goggles/Core/1 Plains of Ashford.trl"/>
         <POI MapID="19" xpos="753.68" ypos="3.65154" zpos="-457.132" type="leag.goggles.sign" GUID="nBQWXL/GWUS4bxRegz3y/g=="/>
-        <Trail type="leag.goggles.ashford" trailData="Data/Core/Diving Goggles/2 Plains of Ashford.trl"/>
+        <Trail type="leag.goggles.core.ashford" trailData="Data/Diving Goggles/Core/2 Plains of Ashford.trl"/>
         <POI MapID="32" xpos="71.2896" ypos="22.0742" zpos="329.318" type="leag.goggles.sign" GUID="5ZVGiN1vZ0uHPbKp9o1Tnw=="/>
-        <Trail type="leag.goggles.diessa" trailData="Data/Core/Diving Goggles/3 Diessa Plateau.trl"/>
+        <Trail type="leag.goggles.core.diessa" trailData="Data/Diving Goggles/Core/3 Diessa Plateau.trl"/>
         <POI MapID="32" xpos="938.137" ypos="40.2512" zpos="-188.501" type="leag.goggles.sign" GUID="cM7Yh6w4cEyPpbiXuRyQfQ=="/>
-        <Trail type="leag.goggles.diessa" trailData="Data/Core/Diving Goggles/4 Diessa Plateau.trl"/>
+        <Trail type="leag.goggles.core.diessa" trailData="Data/Diving Goggles/Core/4 Diessa Plateau.trl"/>
         <POI MapID="21" xpos="72.5398" ypos="23.5799" zpos="260.365" type="leag.goggles.sign" GUID="eyLZ+xy2AEyXHEWCooJN4A=="/>
-        <Trail type="leag.goggles.fields" trailData="Data/Core/Diving Goggles/5 Fields of Ruin.trl"/>
+        <Trail type="leag.goggles.core.fields" trailData="Data/Diving Goggles/Core/5 Fields of Ruin.trl"/>
         <POI MapID="21" xpos="-534.472" ypos="15.6387" zpos="716.924" type="leag.goggles.sign" GUID="QVQWb/xLeEuaMT3VQDNbkQ=="/>
-        <Trail type="leag.goggles.fields" trailData="Data/Core/Diving Goggles/6 Fields of Ruin.trl"/>
+        <Trail type="leag.goggles.core.fields" trailData="Data/Diving Goggles/Core/6 Fields of Ruin.trl"/>
         <POI MapID="25" xpos="-411.81" ypos="42.3413" zpos="-912.106" type="leag.goggles.sign" GUID="zbeh51uzoEWlKERDFkQm4w=="/>
-        <Trail type="leag.goggles.iron" trailData="Data/Core/Diving Goggles/7 Iron Marches.trl"/>
+        <Trail type="leag.goggles.core.iron" trailData="Data/Diving Goggles/Core/7 Iron Marches.trl"/>
         <POI MapID="25" xpos="118.843" ypos="6.46301" zpos="-552.966" type="leag.goggles.sign" GUID="QwPd7hqz6kWQjpsm/1bMUQ=="/>
-        <Trail type="leag.goggles.iron" trailData="Data/Core/Diving Goggles/8 Iron Marches.trl"/>
+        <Trail type="leag.goggles.core.iron" trailData="Data/Diving Goggles/Core/8 Iron Marches.trl"/>
         <POI MapID="22" xpos="430.944" ypos="4.15701" zpos="-428.035" type="leag.goggles.sign" GUID="rdKE7OIQcEKsyPqpJxT2Bg=="/>
-        <Trail type="leag.goggles.fireheart" trailData="Data/Core/Diving Goggles/9 Fireheart Rise 1.trl"/>
-        <Trail type="leag.goggles.fireheart" trailData="Data/Core/Diving Goggles/9 Fireheart Rise 2.trl" fadeNear="550" fadeFar="1100"/>
+        <Trail type="leag.goggles.core.fireheart" trailData="Data/Diving Goggles/Core/9 Fireheart Rise 1.trl"/>
+        <Trail type="leag.goggles.core.fireheart" trailData="Data/Diving Goggles/Core/9 Fireheart Rise 2.trl" fadeNear="550" fadeFar="1100"/>
         <POI MapID="23" xpos="848.808" ypos="82.0407" zpos="-293.646" type="leag.goggles.sign" GUID="L335YoR/A0qeMp/oIN9c7w=="/>
-        <Trail type="leag.goggles.kessex" trailData="Data/Core/Diving Goggles/10 Kessex Hills.trl"/>
+        <Trail type="leag.goggles.core.kessex" trailData="Data/Diving Goggles/Core/10 Kessex Hills.trl"/>
         <POI MapID="50" xpos="-87.6572" ypos="12.5551" zpos="-236.642" type="leag.goggles.sign" GUID="mnMUMmdtyUuS9iFgmFNskA=="/>
-        <Trail type="leag.goggles.la" trailData="Data/Core/Diving Goggles/11 Lion's Arch 1.trl"/>
-        <Trail type="leag.goggles.la" trailData="Data/Core/Diving Goggles/11 Lion's Arch 2.trl" fadeNear="550" fadeFar="1100"/>
+        <Trail type="leag.goggles.core.la" trailData="Data/Diving Goggles/Core/11 Lion's Arch 1.trl"/>
+        <Trail type="leag.goggles.core.la" trailData="Data/Diving Goggles/Core/11 Lion's Arch 2.trl" fadeNear="550" fadeFar="1100"/>
         <POI MapID="24" xpos="217.374" ypos="6.43758" zpos="241.859" type="leag.goggles.sign" GUID="hRdnnbH15UieMZbuk8lXaw=="/>
-        <Trail type="leag.goggles.gendarran" trailData="Data/Core/Diving Goggles/12 Gendarran Fields.trl"/>
+        <Trail type="leag.goggles.core.gendarran" trailData="Data/Diving Goggles/Core/12 Gendarran Fields.trl"/>
         <POI MapID="24" xpos="750.318" ypos="78.981" zpos="469.213" type="leag.goggles.sign" GUID="ik99Vv+7AEScfHKdIFa4Eg=="/>
-        <Trail type="leag.goggles.gendarran" trailData="Data/Core/Diving Goggles/13 Gendarran Fields.trl"/>
+        <Trail type="leag.goggles.core.gendarran" trailData="Data/Diving Goggles/Core/13 Gendarran Fields.trl"/>
         <POI MapID="17" xpos="470.229" ypos="27.2378" zpos="-752.855" type="leag.goggles.sign" GUID="xp9yIiwwjUaZ98qmuu8h3g=="/>
-        <Trail type="leag.goggles.harathi" trailData="Data/Core/Diving Goggles/14 Harathi Hinterlands.trl"/>
+        <Trail type="leag.goggles.core.harathi" trailData="Data/Diving Goggles/Core/14 Harathi Hinterlands.trl"/>
         <POI MapID="17" xpos="-109.66" ypos="58.5921" zpos="703.26" type="leag.goggles.sign" GUID="baKtkbQf3EKMk4O0PTbQPQ=="/>
-        <Trail type="leag.goggles.harathi" trailData="Data/Core/Diving Goggles/15 Harathi Hinterlands.trl"/>
+        <Trail type="leag.goggles.core.harathi" trailData="Data/Diving Goggles/Core/15 Harathi Hinterlands.trl"/>
         <POI MapID="73" xpos="508.61" ypos="-0.0753241" zpos="326.92" type="leag.goggles.sign" GUID="ZU8DpZ2v3EO7gcu9BX6Rfg=="/>
-        <Trail type="leag.goggles.bloodtide" trailData="Data/Core/Diving Goggles/16 Bloodtide Coast.trl"/>
+        <Trail type="leag.goggles.core.bloodtide" trailData="Data/Diving Goggles/Core/16 Bloodtide Coast.trl"/>
         <POI MapID="24" xpos="-133.296" ypos="3.87956" zpos="-437.578" type="leag.goggles.sign" GUID="2qarxJ9XWEqdD/cwz4rTSg=="/>
-        <Trail type="leag.goggles.gendarran" trailData="Data/Core/Diving Goggles/17 Gendarran Fields 1.trl"/>
-        <Trail type="leag.goggles.gendarran" trailData="Data/Core/Diving Goggles/17 Gendarran Fields 2.trl" fadeNear="550" fadeFar="1100"/>
+        <Trail type="leag.goggles.core.gendarran" trailData="Data/Diving Goggles/Core/17 Gendarran Fields 1.trl"/>
+        <Trail type="leag.goggles.core.gendarran" trailData="Data/Diving Goggles/Core/17 Gendarran Fields 2.trl" fadeNear="550" fadeFar="1100"/>
         <POI MapID="139" xpos="11.2941" ypos="109.049" zpos="-351.312" type="leag.goggles.sign" GUID="DU4DyOD+D0C8QJYxq/dp1w=="/>
-        <Trail type="leag.goggles.rata" trailData="Data/Core/Diving Goggles/18 Rata Sum.trl"/>
+        <Trail type="leag.goggles.core.rata" trailData="Data/Diving Goggles/Core/18 Rata Sum.trl"/>
         <POI MapID="91" xpos="30.7021" ypos="71.5506" zpos="-2.28549" type="leag.goggles.sign" GUID="67TNWgjzoUmMW/pE0FzvcQ=="/>
-        <Trail type="leag.goggles.grove" trailData="Data/Core/Diving Goggles/19 The Grove.trl"/>
+        <Trail type="leag.goggles.core.grove" trailData="Data/Diving Goggles/Core/19 The Grove.trl"/>
         <POI MapID="35" xpos="31.9167" ypos="23.1095" zpos="-531.432" type="leag.goggles.sign" GUID="+JX1LVu+L0WyWXIgnqri7g=="/>
-        <Trail type="leag.goggles.metrica" trailData="Data/Core/Diving Goggles/20 Metrica Province.trl"/>
+        <Trail type="leag.goggles.core.metrica" trailData="Data/Diving Goggles/Core/20 Metrica Province.trl"/>
         <POI MapID="35" xpos="510.178" ypos="34.3462" zpos="680.738" type="leag.goggles.sign" GUID="7/KSvUpwlUWhydnOFpwKcQ=="/>
-        <Trail type="leag.goggles.metrica" trailData="Data/Core/Diving Goggles/21 Metrica Province.trl"/>
+        <Trail type="leag.goggles.core.metrica" trailData="Data/Diving Goggles/Core/21 Metrica Province.trl"/>
         <POI MapID="34" xpos="372.968" ypos="18.2936" zpos="231.385" type="leag.goggles.sign" GUID="XFPvyo3YREeZ/cmyoRlG/A=="/>
-        <Trail type="leag.goggles.caledon" trailData="Data/Core/Diving Goggles/22 Caledon Forest.trl"/>
+        <Trail type="leag.goggles.core.caledon" trailData="Data/Diving Goggles/Core/22 Caledon Forest.trl"/>
         <POI MapID="54" xpos="569.518" ypos="52.562" zpos="173.431" type="leag.goggles.sign" GUID="fB/FjoQQdkOTj0J8OYBAoA=="/>
-        <Trail type="leag.goggles.brisban" trailData="Data/Core/Diving Goggles/23 Brisban Wildlands.trl"/>
+        <Trail type="leag.goggles.core.brisban" trailData="Data/Diving Goggles/Core/23 Brisban Wildlands.trl"/>
         <POI MapID="54" xpos="-95.7118" ypos="51.1669" zpos="223.952" type="leag.goggles.sign" GUID="uhtq0Si5FU+bTBcPXaZAbw=="/>
-        <Trail type="leag.goggles.brisban" trailData="Data/Core/Diving Goggles/24 Brisban Wildlands.trl"/>
+        <Trail type="leag.goggles.core.brisban" trailData="Data/Diving Goggles/Core/24 Brisban Wildlands.trl"/>
         <POI MapID="39" xpos="-877.942" ypos="73.8617" zpos="347.913" type="leag.goggles.sign" GUID="WWVXI7NH0E+tyl6QL2jMrw=="/>
-		  <POI MapID="39" xpos="-18.5816" ypos="77.6058" zpos="-302.948" type="leag.goggles.sign" GUID="ju0m7rUr5EanHYzPex7adg=="/>
-		  <POI MapID="39" xpos="453.156" ypos="24.8792" zpos="-343.206" type="leag.goggles.sign" GUID="cmpCvI+vEk25p4VGJbgi3A=="/>
-		  <POI MapID="39" xpos="183.03" ypos="1.71418" zpos="43.1667" type="leag.goggles.sign" GUID="uz5LkPdEyk6JDQ9g91nilA=="/>
-        <Trail type="leag.goggles.maelstrom" trailData="Data/Core/Diving Goggles/25 Mount Maelstrom 1.trl" color="00CC99"/>
-        <Trail type="leag.goggles.maelstrom" trailData="Data/Core/Diving Goggles/25 Mount Maelstrom 2.trl" color="00CC99"/>
-        <Trail type="leag.goggles.maelstrom" trailData="Data/Core/Diving Goggles/25 Mount Maelstrom 3.trl" fadeNear="550" fadeFar="1100" color="00CC99"/>
-        <Trail type="leag.goggles.maelstrom" trailData="Data/Core/Diving Goggles/26 Mount Maelstrom.trl" fadeNear="800" fadeFar="1600" color="00CC99"/>
-        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="leag.goggles.maelstrom.swirl" GUID="zSWQzPn3BE+XG/raStZHlg==" iconfile="Data/Images/Yellow Swirl.png"/>
-        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="leag.goggles.maelstrom.swirl" GUID="wUWKEB4fOUG0PiI0Hm+NxA==" iconfile="Data/Images/Yellow Swirl.png"/>
-        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="leag.goggles.maelstrom.swirl" GUID="EFxkat60QUidX11m4VqV2g==" iconfile="Data/Images/Yellow Swirl.png"/>
-        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="leag.goggles.maelstrom.swirl" GUID="r9CHDxVKhEOX4WLrGVGvqw==" iconfile="Data/Images/Yellow Swirl.png"/>
+		<POI MapID="39" xpos="-18.5816" ypos="77.6058" zpos="-302.948" type="leag.goggles.sign" GUID="ju0m7rUr5EanHYzPex7adg=="/>
+		<POI MapID="39" xpos="453.156" ypos="24.8792" zpos="-343.206" type="leag.goggles.sign" GUID="cmpCvI+vEk25p4VGJbgi3A=="/>
+		<POI MapID="39" xpos="183.03" ypos="1.71418" zpos="43.1667" type="leag.goggles.sign" GUID="uz5LkPdEyk6JDQ9g91nilA=="/>
+        <Trail type="leag.goggles.core.maelstrom" trailData="Data/Diving Goggles/Core/25 Mount Maelstrom 1.trl" color="00CC99"/>
+        <Trail type="leag.goggles.core.maelstrom" trailData="Data/Diving Goggles/Core/25 Mount Maelstrom 2.trl" color="00CC99"/>
+        <Trail type="leag.goggles.core.maelstrom" trailData="Data/Diving Goggles/Core/25 Mount Maelstrom 3.trl" fadeNear="550" fadeFar="1100" color="00CC99"/>
+        <Trail type="leag.goggles.core.maelstrom" trailData="Data/Diving Goggles/Core/26 Mount Maelstrom.trl" fadeNear="800" fadeFar="1600" color="00CC99"/>
+        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="leag.goggles.core.maelstrom.swirl" GUID="zSWQzPn3BE+XG/raStZHlg==" iconfile="Data/Images/Yellow Swirl.png"/>
+        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="leag.goggles.core.maelstrom.swirl" GUID="wUWKEB4fOUG0PiI0Hm+NxA==" iconfile="Data/Images/Yellow Swirl.png"/>
+        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="leag.goggles.core.maelstrom.swirl" GUID="EFxkat60QUidX11m4VqV2g==" iconfile="Data/Images/Yellow Swirl.png"/>
+        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="leag.goggles.core.maelstrom.swirl" GUID="r9CHDxVKhEOX4WLrGVGvqw==" iconfile="Data/Images/Yellow Swirl.png"/>
         <POI MapID="39" xpos="1010.72" ypos="-0.868104" zpos="501.781" type="leag.goggles.sign" GUID="1KrXbUPsiEehoe2CWU+0Ng=="/>
         <POI MapID="51" xpos="699.471" ypos="19.4892" zpos="107.612" type="leag.goggles.sign" GUID="aY42AQR+JUOPbhuYVxX3sw=="/>
-        <Trail type="leag.goggles.sod" trailData="Data/Core/Diving Goggles/27 Straits of Devastation.trl"/>
+        <Trail type="leag.goggles.core.sod" trailData="Data/Diving Goggles/Core/27 Straits of Devastation.trl"/>
         <POI MapID="51" xpos="282.965" ypos="-1.08956" zpos="-461.229" type="leag.goggles.sign" GUID="ljaAyfe6lEWDHjGb+eZENg=="/>
 		  <POI MapID="51" xpos="43.0012" ypos="2.31744" zpos="-315.412" type="leag.goggles.sign" GUID="J8Fxa+491kKDYoK93I22qg=="/>
-        <Trail type="leag.goggles.sod" trailData="Data/Core/Diving Goggles/28 Straits of Devastation.trl"/>
+        <Trail type="leag.goggles.core.sod" trailData="Data/Diving Goggles/Core/28 Straits of Devastation.trl"/>
         <POI MapID="65" xpos="-195.145" ypos="105.245" zpos="-77.1331" type="leag.goggles.sign" GUID="MdanTNwVSUyN2P8DPgystQ=="/>
-        <Trail type="leag.goggles.ml" trailData="Data/Core/Diving Goggles/29 Malchor's Leap.trl"/>
+        <Trail type="leag.goggles.core.ml" trailData="Data/Diving Goggles/Core/29 Malchor's Leap.trl"/>
         <POI MapID="62" xpos="418.548" ypos="20.4115" zpos="-1088.68" type="leag.goggles.sign" GUID="1loJJWWoj0GgQbYqEOsAsA=="/>
-        <Trail type="leag.goggles.cs" trailData="Data/Core/Diving Goggles/30 Cursed Shore.trl"/>
+        <Trail type="leag.goggles.core.cs" trailData="Data/Diving Goggles/Core/30 Cursed Shore.trl"/>
         <POI MapID="62" xpos="43.4781" ypos="0.684726" zpos="301.621" type="leag.goggles.sign" GUID="brFb0bq02UaF3kL1BAVbeg=="/>
-        <Trail type="leag.goggles.cs" trailData="Data/Core/Diving Goggles/31 Cursed Shore.trl"/>
+        <Trail type="leag.goggles.core.cs" trailData="Data/Diving Goggles/Core/31 Cursed Shore.trl"/>
         <POI MapID="28" xpos="51.141" ypos="30.8285" zpos="-190.483" type="leag.goggles.sign" GUID="vDH3PsFLE0i4JsXl/et0JA=="/>
-        <Trail type="leag.goggles.wayfarer" trailData="Data/Core/Diving Goggles/32 Wayfarer Foothills.trl"/>
+        <Trail type="leag.goggles.core.wayfarer" trailData="Data/Diving Goggles/Core/32 Wayfarer Foothills.trl"/>
         <POI MapID="28" xpos="282.309" ypos="1.79654" zpos="-902.674" type="leag.goggles.sign" GUID="5MX5ozkrhESceGWOdSN/DQ=="/>
-        <Trail type="leag.goggles.wayfarer" trailData="Data/Core/Diving Goggles/33 Wayfarer Foothills.trl"/>
+        <Trail type="leag.goggles.core.wayfarer" trailData="Data/Diving Goggles/Core/33 Wayfarer Foothills.trl"/>
         <POI MapID="30" xpos="-282.675" ypos="1.71959" zpos="487.249" type="leag.goggles.sign" GUID="4BHKrj/twkSIZUjOyc7qkw=="/>                                                                                         
-        <Trail type="leag.goggles.frostgorge" trailData="Data/Core/Diving Goggles/34 Frostgorge Sound 1.trl" fadeNear="900" fadeFar="1600"/>
-        <Trail type="leag.goggles.frostgorge" trailData="Data/Core/Diving Goggles/34 Frostgorge Sound 2.trl" fadeNear="600" fadeFar="1200"/>
+        <Trail type="leag.goggles.core.frostgorge" trailData="Data/Diving Goggles/Core/34 Frostgorge Sound 1.trl" fadeNear="900" fadeFar="1600"/>
+        <Trail type="leag.goggles.core.frostgorge" trailData="Data/Diving Goggles/Core/34 Frostgorge Sound 2.trl" fadeNear="600" fadeFar="1200"/>
         <POI MapID="27" xpos="-322.196" ypos="30.6277" zpos="-655.526" type="leag.goggles.sign" GUID="5jYl1pP9k0yfZbH1sU6+7w=="/>
-        <Trail type="leag.goggles.lornars" trailData="Data/Core/Diving Goggles/35 Lornar's Pass.trl"/>
+        <Trail type="leag.goggles.core.lornars" trailData="Data/Diving Goggles/Core/35 Lornar's Pass.trl"/>
         <POI MapID="27" xpos="-404.873" ypos="45.6335" zpos="-1203.65" type="leag.goggles.sign" GUID="SqENndwNXkC5n+a3PsFFsA=="/>
-        <Trail type="leag.goggles.lornars" trailData="Data/Core/Diving Goggles/36 Lornar's Pass.trl"/>
+        <Trail type="leag.goggles.core.lornars" trailData="Data/Diving Goggles/Core/36 Lornar's Pass.trl"/>
         <POI MapID="29" xpos="-175.523" ypos="8.07451" zpos="639.556" type="leag.goggles.sign" GUID="1a6d4p2scEG3otujIEw23g=="/>
-        <Trail type="leag.goggles.timberline" trailData="Data/Core/Diving Goggles/37 Timberline Falls.trl"/>
+        <Trail type="leag.goggles.core.timberline" trailData="Data/Diving Goggles/Core/37 Timberline Falls.trl"/>
         <POI MapID="29" xpos="67.7314" ypos="-0.131867" zpos="-453.643" type="leag.goggles.sign" GUID="C4kgrCOo0Ue+6kz9Lwqllw=="/>
-        <Trail type="leag.goggles.timberline" trailData="Data/Core/Diving Goggles/38 Timberline Falls.trl"/>
+        <Trail type="leag.goggles.core.timberline" trailData="Data/Diving Goggles/Core/38 Timberline Falls.trl"/>
+        
         <!-- LWS2 - Living World Season 2 -->
-        <POI MapID="988" xpos="402.967" ypos="24.4934" zpos="-519.61" type="leag.lws2goggles.sign" GUID="ffmtVmp7c02JF2ux/uDsLw=="/>
-		  <POI MapID="988" xpos="234.466" ypos="12.7916" zpos="-284.358" type="leag.lws2goggles.sign" GUID="Jf0+J/5veEC9wTTC5mDX0g=="/>
-        <Trail type="leag.lws2goggles.drytop" trailData="Data/LWS2/Diving Goggles/Dry Top 1.trl"/>
-        <Trail type="leag.lws2goggles.drytop" trailData="Data/LWS2/Diving Goggles/Dry Top 2.trl"/>
-        <Trail type="leag.lws2goggles.drytop" trailData="Data/LWS2/Diving Goggles/Dry Top 3.trl"/>
-        <POI MapID="1015" xpos="353.426" ypos="282.853" zpos="153.096" type="leag.lws2goggles.sign" GUID="NErbQM2VO06R9GWHkL6oow=="/>
-        <Trail type="leag.lws2goggles.silverwastes" trailData="Data/LWS2/Diving Goggles/Silverwastes 1.trl"/>
-        <Trail type="leag.lws2goggles.silverwastes" trailData="Data/LWS2/Diving Goggles/Silverwastes 2.trl"/>
+
+        <POI MapID="988" xpos="402.967" ypos="24.4934" zpos="-519.61" type="leag.goggles.sign" GUID="ffmtVmp7c02JF2ux/uDsLw=="/>
+		<POI MapID="988" xpos="234.466" ypos="12.7916" zpos="-284.358" type="leag.goggles.sign" GUID="Jf0+J/5veEC9wTTC5mDX0g=="/>
+        <Trail type="leag.goggles.lws2.drytop" trailData="Data/Diving Goggles/LWS2/Dry Top 1.trl"/>
+        <Trail type="leag.goggles.lws2.drytop" trailData="Data/Diving Goggles/LWS2/Dry Top 2.trl"/>
+        <Trail type="leag.goggles.lws2.drytop" trailData="Data/Diving Goggles/LWS2/Dry Top 3.trl"/>
+        <POI MapID="1015" xpos="353.426" ypos="282.853" zpos="153.096" type="leag.goggles.sign" GUID="NErbQM2VO06R9GWHkL6oow=="/>
+        <Trail type="leag.goggles.lws2.silverwastes" trailData="Data/Diving Goggles/LWS2/Silverwastes 1.trl"/>
+        <Trail type="leag.goggles.lws2.silverwastes" trailData="Data/Diving Goggles/LWS2/Silverwastes 2.trl"/>
+        
         <!-- Heart of Thorns -->
-        <POI MapID="1045" xpos="594.323" ypos="233.67" zpos="-321.056" type="leag.hotgoggles.sign" GUID="XryWbwit90yFBvhllZ49LQ=="/>
-        <Trail type="leag.hotgoggles.vb" trailData="Data/HoT/Diving Goggles/Verdant Brink.trl"/>
-        <Trail type="leag.hotgoggles.td" trailData="Data/HoT/Diving Goggles/Tangled Depths 1.trl" fadeNear="900" fadeFar="1600"/>
-        <Trail type="leag.hotgoggles.td" trailData="Data/HoT/Diving Goggles/Tangled Depths 2.trl" fadeNear="600" fadeFar="1200"/>
-        <Trail type="leag.hotgoggles.td" trailData="Data/HoT/Diving Goggles/Tangled Depths 3.trl" fadeNear="600" fadeFar="1200"/>
+
+        <POI MapID="1045" xpos="594.323" ypos="233.67" zpos="-321.056" type="leag.goggles.sign" GUID="XryWbwit90yFBvhllZ49LQ=="/>
+        <Trail type="leag.goggles.hot.vb" trailData="Data/Diving Goggles/HoT/Verdant Brink.trl"/>
+        <Trail type="leag.goggles.hot.td" trailData="Data/Diving Goggles/HoT/Tangled Depths 1.trl" fadeNear="900" fadeFar="1600"/>
+        <Trail type="leag.goggles.hot.td" trailData="Data/Diving Goggles/HoT/Tangled Depths 2.trl" fadeNear="600" fadeFar="1200"/>
+        <Trail type="leag.goggles.hot.td" trailData="Data/Diving Goggles/HoT/Tangled Depths 3.trl" fadeNear="600" fadeFar="1200"/>
+        
         <!-- LWS3 - Living World Season 3 -->
-        <POI MapID="1165" xpos="-56.973" ypos="653.24" zpos="26.5628" type="leag.lws3goggles.sign" GUID="UC3+s1WzdUq86OhaJRma3w=="/>
-        <Trail type="leag.lws3goggles.bsf" trailData="Data/LWS3/Diving Goggles/Bloodstone Fen.trl"/>
-        <POI MapID="1178" xpos="-22.7085" ypos="0.383493" zpos="-114.611" type="leag.lws3goggles.sign" GUID="SViXMFLRCkCs4F90k5A27w=="/>
-        <Trail type="leag.lws3goggles.bff" trailData="Data/LWS3/Diving Goggles/Bitterfrost Frontier 1.trl"/>
-        <Trail type="leag.lws3goggles.bff" trailData="Data/LWS3/Diving Goggles/Bitterfrost Frontier 2.trl"/>
-        <POI MapID="1195" xpos="403.882" ypos="411.774" zpos="-300.227" type="leag.lws3goggles.sign" GUID="7A4G5y6bEU6Pvt8uLwgdyg=="/>
-        <Trail type="leag.lws3goggles.dm" trailData="Data/LWS3/Diving Goggles/Draconis Mons 1.trl"/>
-        <Trail type="leag.lws3goggles.dm" trailData="Data/LWS3/Diving Goggles/Draconis Mons 2.trl"/>
-        <POI MapID="1203" xpos="444.046" ypos="5.91578" zpos="-205.854" type="leag.lws3goggles.sign" GUID="tTFLlafMIEiDJNt7jTdW8w=="/>
-        <Trail type="leag.lws3goggles.sl" trailData="Data/LWS3/Diving Goggles/Siren's Landing.trl"/>
+
+        <POI MapID="1165" xpos="-56.973" ypos="653.24" zpos="26.5628" type="leag.goggles.sign" GUID="UC3+s1WzdUq86OhaJRma3w=="/>
+        <Trail type="leag.goggles.lws3.bsf" trailData="Data/Diving Goggles/LWS3/Bloodstone Fen.trl"/>
+        <POI MapID="1178" xpos="-22.7085" ypos="0.383493" zpos="-114.611" type="leag.goggles.sign" GUID="SViXMFLRCkCs4F90k5A27w=="/>
+        <Trail type="leag.goggles.lws3.bff" trailData="Data/Diving Goggles/LWS3/Bitterfrost Frontier 1.trl"/>
+        <Trail type="leag.goggles.lws3.bff" trailData="Data/Diving Goggles/LWS3/Bitterfrost Frontier 2.trl"/>
+        <POI MapID="1195" xpos="403.882" ypos="411.774" zpos="-300.227" type="leag.goggles.sign" GUID="7A4G5y6bEU6Pvt8uLwgdyg=="/>
+        <Trail type="leag.goggles.lws3.dm" trailData="Data/Diving Goggles/LWS3/Draconis Mons 1.trl"/>
+        <Trail type="leag.goggles.lws3.dm" trailData="Data/Diving Goggles/LWS3/Draconis Mons 2.trl"/>
+        <POI MapID="1203" xpos="444.046" ypos="5.91578" zpos="-205.854" type="leag.goggles.sign" GUID="tTFLlafMIEiDJNt7jTdW8w=="/>
+        <Trail type="leag.goggles.lws3.sl" trailData="Data/Diving Goggles/LWS3/Siren's Landing.trl"/>
+        
         <!-- Path of Fire -->
-        <POI MapID="1211" xpos="-1293.37" ypos="342.015" zpos="406.374" type="leag.pofgoggles.sign" GUID="hk1Rx/0ME0WhJUHaCPp9Rw=="/>
-        <Trail type="leag.pofgoggles.dh" trailData="Data/PoF/Diving Goggles/Desert Highlands.trl"/>
-        <POI MapID="1228" xpos="-582.983" ypos="3.88683" zpos="-21.8659" type="leag.pofgoggles.sign" GUID="PEa/5UJkOEq1K7pOBbF6aA=="/>
-        <Trail type="leag.pofgoggles.er" trailData="Data/PoF/Diving Goggles/Elon Riverlands 1.trl"/>
-		  <POI MapID="1228" xpos="-554.345" ypos="3.38323" zpos="-17.0619" type="leag.pofgoggles.sign" GUID="jhLKYB4YkUy3K/aSQTgyHw=="/>
-        <Trail type="leag.pofgoggles.er" trailData="Data/PoF/Diving Goggles/Elon Riverlands 2.trl"/>
-		  <POI MapID="1228" xpos="219.931" ypos="35.5867" zpos="89.3072" type="leag.pofgoggles.sign" GUID="rCJnZc/nf0CKVfmmwuGs4w=="/>
-        <Trail type="leag.pofgoggles.er" trailData="Data/PoF/Diving Goggles/Elon Riverlands 3.trl"/>
+
+        <POI MapID="1211" xpos="-1293.37" ypos="342.015" zpos="406.374" type="leag.goggles.sign" GUID="hk1Rx/0ME0WhJUHaCPp9Rw=="/>
+        <Trail type="leag.goggles.pof.dh" trailData="Data/Diving Goggles/PoF/Desert Highlands.trl"/>
+        <POI MapID="1228" xpos="-582.983" ypos="3.88683" zpos="-21.8659" type="leag.goggles.sign" GUID="PEa/5UJkOEq1K7pOBbF6aA=="/>
+        <Trail type="leag.goggles.pof.er" trailData="Data/Diving Goggles/PoF/Elon Riverlands 1.trl"/>
+		  <POI MapID="1228" xpos="-554.345" ypos="3.38323" zpos="-17.0619" type="leag.goggles.sign" GUID="jhLKYB4YkUy3K/aSQTgyHw=="/>
+        <Trail type="leag.goggles.pof.er" trailData="Data/Diving Goggles/PoF/Elon Riverlands 2.trl"/>
+		  <POI MapID="1228" xpos="219.931" ypos="35.5867" zpos="89.3072" type="leag.goggles.sign" GUID="rCJnZc/nf0CKVfmmwuGs4w=="/>
+        <Trail type="leag.goggles.pof.er" trailData="Data/Diving Goggles/PoF/Elon Riverlands 3.trl"/>
+        
         <!-- LWS4 - Living World Season 4 -->
-        <POI MapID="1263" xpos="331.3" ypos="0.569503" zpos="477.446" type="leag.lws4goggles.sign" GUID="yFLNGu756Eu0aaTL8mBkXQ=="/>
-        <Trail type="leag.lws4goggles.doi" trailData="Data/LWS4/Diving Goggles/Istan 1.trl"/>
-		  <POI MapID="1263" xpos="-839.095" ypos="163.198" zpos="596.396" type="leag.lws4goggles.sign" GUID="ovR6DZ8reUyf0MPB0xFa3A=="/>
-        <Trail type="leag.lws4goggles.doi" trailData="Data/LWS4/Diving Goggles/Istan 2.trl"/>
-		  <POI MapID="1263" xpos="-609.288" ypos="56.7158" zpos="-136.866" type="leag.lws4goggles.sign" GUID="Qy/qVkwD6UODiplpm35Yyw=="/>
-        <Trail type="leag.lws4goggles.doi" trailData="Data/LWS4/Diving Goggles/Istan 3.trl"/>
-		  <POI MapID="1263" xpos="-569.483" ypos="29.3832" zpos="-116.104" type="leag.lws4goggles.sign" GUID="vxj/e5MdCkSc1HLGXdfzcQ=="/>
-        <Trail type="leag.lws4goggles.doi" trailData="Data/LWS4/Diving Goggles/Istan 4.trl"/>
-        <POI MapID="1301" xpos="740.512" ypos="64.4594" zpos="-327.044" type="leag.lws4goggles.sign" GUID="rKitRfhbaE6YQwZMoAcXgg=="/>
-        <Trail type="leag.lws4goggles.doi" trailData="Data/LWS4/Diving Goggles/Jahai 1.trl"/>
-		  <POI MapID="1301" xpos="-379.736" ypos="50.6597" zpos="-683.637" type="leag.lws4goggles.sign" GUID="yMwVKECoc0aOVP6b1jLV/w=="/>
-        <Trail type="leag.lws4goggles.jb" trailData="Data/LWS4/Diving Goggles/Jahai 2.trl"/>
-        <Trail type="leag.lws4goggles.jb" trailData="Data/LWS4/Diving Goggles/Jahai 2b.trl"/>
+
+        <POI MapID="1263" xpos="331.3" ypos="0.569503" zpos="477.446" type="leag.goggles.sign" GUID="yFLNGu756Eu0aaTL8mBkXQ=="/>
+        <Trail type="leag.goggles.lws4.doi" trailData="Data/Diving Goggles/LWS4/Istan 1.trl"/>
+		  <POI MapID="1263" xpos="-839.095" ypos="163.198" zpos="596.396" type="leag.goggles.sign" GUID="ovR6DZ8reUyf0MPB0xFa3A=="/>
+        <Trail type="leag.goggles.lws4.doi" trailData="Data/Diving Goggles/LWS4/Istan 2.trl"/>
+		  <POI MapID="1263" xpos="-609.288" ypos="56.7158" zpos="-136.866" type="leag.goggles.sign" GUID="Qy/qVkwD6UODiplpm35Yyw=="/>
+        <Trail type="leag.goggles.lws4.doi" trailData="Data/Diving Goggles/LWS4/Istan 3.trl"/>
+		  <POI MapID="1263" xpos="-569.483" ypos="29.3832" zpos="-116.104" type="leag.goggles.sign" GUID="vxj/e5MdCkSc1HLGXdfzcQ=="/>
+        <Trail type="leag.goggles.lws4.doi" trailData="Data/Diving Goggles/LWS4/Istan 4.trl"/>
+        <POI MapID="1301" xpos="740.512" ypos="64.4594" zpos="-327.044" type="leag.goggles.sign" GUID="rKitRfhbaE6YQwZMoAcXgg=="/>
+        <Trail type="leag.goggles.lws4.doi" trailData="Data/Diving Goggles/LWS4/Jahai 1.trl"/>
+		  <POI MapID="1301" xpos="-379.736" ypos="50.6597" zpos="-683.637" type="leag.goggles.sign" GUID="yMwVKECoc0aOVP6b1jLV/w=="/>
+        <Trail type="leag.goggles.lws4.jb" trailData="Data/Diving Goggles/LWS4/Jahai 2.trl"/>
+        <Trail type="leag.goggles.lws4.jb" trailData="Data/Diving Goggles/LWS4/Jahai 2b.trl"/>
+        
         <!-- LWS5 - Living World Season 5 -->
-        <POI MapID="1371" xpos="-445.661" ypos="8.63537" zpos="410.728" type="leag.lws5goggles.sign" GUID="WGqHULGtY0usMpPjheE6uw=="/>
-        <Trail type="leag.lws5goggles.dc" trailData="Data/LWS5/Diving Goggles/Drizzlewood Coast.trl"/>
+
+        <POI MapID="1371" xpos="-445.661" ypos="8.63537" zpos="410.728" type="leag.goggles.sign" GUID="WGqHULGtY0usMpPjheE6uw=="/>
+        <Trail type="leag.goggles.lws5.dc" trailData="Data/Diving Goggles/LWS5/Drizzlewood Coast.trl"/>
+        
         <!-- End of Dragons -->
-        <POI MapID="1438" xpos="596.116" ypos="-1.05604" zpos="-15.9833" type="leag.eodgoggles.sign" GUID="whKFRxsCakCxDxb9j/2LWA=="/>
-        <Trail type="leag.eodgoggles.nkc" trailData="Data/EoD/Diving Goggles/New Kaineng City.trl"/>
+
+        <POI MapID="1438" xpos="596.116" ypos="-1.05604" zpos="-15.9833" type="leag.goggles.sign" GUID="whKFRxsCakCxDxb9j/2LWA=="/>
+        <Trail type="leag.goggles.eod.nkc" trailData="Data/Diving Goggles/EoD/New Kaineng City.trl"/>
+        <POI MapID="1428" xpos="-750.821" ypos="4.59295" zpos="466.11" type="leag.goggles.sign" GUID="xd1cO6CIk0+hCV911kwMOw=="/>
+        <Trail type="leag.goggles.eod.arb" trailData="Data/Diving Goggles/EoD/Arborstone.trl"/>
+        <POI MapID="1452" xpos="1042.29" ypos="5.76441" zpos="-526.688" type="leag.goggles.sign" GUID="pExTCp4gP0qv5FjnA6dYSw=="/>
+        <Trail type="leag.goggles.eod.tew" trailData="Data/Diving Goggles/EoD/The Echovald Wilds.trl"/>
+        <POI MapID="1422" xpos="4.88728" ypos="200.925" zpos="-957.462" type="leag.goggles.sign" GUID="cdQYVi1Ez0e4lxT1iVNCkg=="/>
+        <Trail type="leag.goggles.eod.de" trailData="Data/Diving Goggles/EoD/Dragon's End Dive Bar.trl"/>
+		  <POI MapID="1422" xpos="-180.86" ypos="176.314" zpos="850.573" type="leag.goggles.sign" GUID="OBWUFKgO+EWpQkowWENw4g=="/>
+        <Trail type="leag.goggles.eod.de" trailData="Data/Diving Goggles/EoD/Dragon's End Tower Dive.trl"/>
         
-        <POI MapID="1428" xpos="-750.821" ypos="4.59295" zpos="466.11" type="leag.eodgoggles.sign" GUID="xd1cO6CIk0+hCV911kwMOw=="/>
-        <Trail type="leag.eodgoggles.arb" trailData="Data/EoD/Diving Goggles/Arborstone.trl"/>
-        
-        <POI MapID="1452" xpos="1042.29" ypos="5.76441" zpos="-526.688" type="leag.lws4goggles.sign" GUID="pExTCp4gP0qv5FjnA6dYSw=="/>
-        <Trail type="leag.eodgoggles.tew" trailData="Data/EoD/Diving Goggles/The Echovald Wilds.trl"/>
-        <POI MapID="1422" xpos="4.88728" ypos="200.925" zpos="-957.462" type="leag.lws4goggles.sign" GUID="cdQYVi1Ez0e4lxT1iVNCkg=="/>
-        <Trail type="leag.eodgoggles.de" trailData="Data/EoD/Diving Goggles/Dragon's End Dive Bar.trl"/>
-		  <POI MapID="1422" xpos="-180.86" ypos="176.314" zpos="850.573" type="leag.lws4goggles.sign" GUID="OBWUFKgO+EWpQkowWENw4g=="/>
-        <Trail type="leag.eodgoggles.de" trailData="Data/EoD/Diving Goggles/Dragon's End Tower Dive.trl"/>
         <!-- Secrets of the Obscure -->
-        <POI MapID="1510" xpos="984.113" ypos="186.284" zpos="-98.5672" type="leag.sotogoggles.sign" GUID="Tt/nepc1bki9/zV/uwrVzQ=="/>
-        <Trail type="leag.sotogoggles.sa" trailData="Data/SotO/Diving Goggles/Skywatch Archipelago Astral Dive.trl"/>
-        <POI MapID="1510" xpos="-4.40335" ypos="401.495" zpos="-68.6735" type="leag.sotogoggles.sign" GUID="yMxx+uTVGU+RKSAHwjNAcw=="/>
-        <Trail type="leag.sotogoggles.sa" trailData="Data/SotO/Diving Goggles/Skywatch Archipelago Free Fall of New Kaineng.trl"/>
-        <POI MapID="1510" xpos="92.7808" ypos="439.936" zpos="557.031" type="leag.sotogoggles.sign" GUID="7uJJWW99qUieHmtPUcnBFg=="/>
-        <Trail type="leag.sotogoggles.sa" trailData="Data/SotO/Diving Goggles/Skywatch Archipelago Pillar Plunge.trl"/>
-        <POI MapID="1517" xpos="63.8605" ypos="700.378" zpos="299.054" type="leag.sotogoggles.sign" GUID="ij77q2xnC0uRzICZ9JgZgQ=="/>
-        <Trail type="leag.sotogoggles.am" trailData="Data/SotO/Diving Goggles/Amnytas.trl"/>
-        <POI MapID="1509" xpos="39.0507" ypos="288.862" zpos="38.57" type="leag.sotogoggles.sign" GUID="+XzQbOeoMEShOfCzIPS3aA=="/>
-        <Trail type="leag.sotogoggles.twt" trailData="Data/SotO/Diving Goggles/The Wizard's Tower.trl"/>
-        <POI MapID="1526" xpos="313.53" ypos="186.293" zpos="135.026" type="leag.sotogoggles.sign" GUID="H27kLwXO40yfx7sTz+tF8Q=="/>
-		  <POI MapID="1526" xpos="676.49" ypos="215.477" zpos="-437.684" type="leag.sotogoggles.sign" GUID="NVl8z8RzhEujQz2UPXanAA=="/>
-        <Trail type="leag.sotogoggles.in" trailData="Data/SotO/Diving Goggles/Inner Nayos 1.trl" color="00CC99"/>
-        <POI MapID="1526" xpos="630.835" ypos="307.372" zpos="-77.4191" type="leag.sotogoggles.in.griffon" GUID="IybIenye7UOe53yxsiet2A=="/>
-        <Trail type="leag.sotogoggles.in" trailData="Data/SotO/Diving Goggles/Inner Nayos 2.trl" color="00CC99"/>
-        <Trail type="leag.sotogoggles.in" trailData="Data/SotO/Diving Goggles/Inner Nayos Rock Top to Rock Bottom.trl" color="00CC99"/>
+
+        <POI MapID="1510" xpos="984.113" ypos="186.284" zpos="-98.5672" type="leag.goggles.sign" GUID="Tt/nepc1bki9/zV/uwrVzQ=="/>
+        <Trail type="leag.goggles.soto.sa" trailData="Data/Diving Goggles/SotO/Skywatch Archipelago Astral Dive.trl"/>
+        <POI MapID="1510" xpos="-4.40335" ypos="401.495" zpos="-68.6735" type="leag.goggles.sign" GUID="yMxx+uTVGU+RKSAHwjNAcw=="/>
+        <Trail type="leag.goggles.soto.sa" trailData="Data/Diving Goggles/SotO/Skywatch Archipelago Free Fall of New Kaineng.trl"/>
+        <POI MapID="1510" xpos="92.7808" ypos="439.936" zpos="557.031" type="leag.goggles.sign" GUID="7uJJWW99qUieHmtPUcnBFg=="/>
+        <Trail type="leag.goggles.soto.sa" trailData="Data/Diving Goggles/SotO/Skywatch Archipelago Pillar Plunge.trl"/>
+        <POI MapID="1517" xpos="63.8605" ypos="700.378" zpos="299.054" type="leag.goggles.sign" GUID="ij77q2xnC0uRzICZ9JgZgQ=="/>
+        <Trail type="leag.goggles.soto.am" trailData="Data/Diving Goggles/SotO/Amnytas.trl"/>
+        <POI MapID="1509" xpos="39.0507" ypos="288.862" zpos="38.57" type="leag.goggles.sign" GUID="+XzQbOeoMEShOfCzIPS3aA=="/>
+        <Trail type="leag.goggles.soto.twt" trailData="Data/Diving Goggles/SotO/The Wizard's Tower.trl"/>
+        <POI MapID="1526" xpos="313.53" ypos="186.293" zpos="135.026" type="leag.goggles.sign" GUID="H27kLwXO40yfx7sTz+tF8Q=="/>
+		  <POI MapID="1526" xpos="676.49" ypos="215.477" zpos="-437.684" type="leag.goggles.sign" GUID="NVl8z8RzhEujQz2UPXanAA=="/>
+        <Trail type="leag.goggles.soto.in" trailData="Data/Diving Goggles/SotO/Inner Nayos 1.trl" color="00CC99"/>
+        <POI MapID="1526" xpos="630.835" ypos="307.372" zpos="-77.4191" type="leag.goggles.soto.in.griffon" GUID="IybIenye7UOe53yxsiet2A=="/>
+        <Trail type="leag.goggles.soto.in" trailData="Data/Diving Goggles/SotO/Inner Nayos 2.trl" color="00CC99"/>
+        <Trail type="leag.goggles.soto.in" trailData="Data/Diving Goggles/SotO/Inner Nayos Rock Top to Rock Bottom.trl" color="00CC99"/>
         
         <!-- Janthir Wilds -->
+
+        <POI MapID="1550" xpos="471.488" ypos="149.085" zpos="289.764" type="leag.goggles.sign" GUID="Js+VMA5k80anxfViasClKQ=="/>
+        <POI MapID="1550" xpos="-903.873" ypos="190.883" zpos="111.099" type="leag.goggles.sign" GUID="PEiwNr4y9ka/gx2ZLGTOVw=="/>
+        <Trail type="leag.goggles.jw.ls" trailData="Data/Diving Goggles/JW/Lowland Shore - Harvest Den.trl" color="00CC99"/>
+        <Trail type="leag.goggles.jw.ls" trailData="Data/Diving Goggles/JW/Lowland Shore - Coursing Upland.trl" color="00CC99"/>
     </POIs>
 </OverlayData>

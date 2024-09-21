@@ -1,17 +1,6 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
-        <!-- EoD - END OF DRAGONS -->
-        <MarkerCategory name="eod" IsSeparator="1" DisplayName="  | END OF DRAGONS"/>
-        <MarkerCategory name="eodgoggles" DisplayName="Dive Master">
-            <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-            <MarkerCategory name="cd"     IsSeparator="1" DisplayName="  | CANTHA"/>
-            <MarkerCategory name="nkc" DisplayName="New Kaineng City" color="00CC99"/>
-            <MarkerCategory name="arb" DisplayName="Arborstone" color="00CC99"/>
-            <MarkerCategory name="tew" DisplayName="The Echovald Wilds" color="00CC99"/>
-            <MarkerCategory name="de" DisplayName="Dragon's End" color="00CC99"/>
-        </MarkerCategory> 
-        <!-- End -->
+        
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>

@@ -1,25 +1,6 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
         <MarkerCategory name="soto" IsSeparator="1" DisplayName="  | SECRETS OF THE OBSCURE"/>
-        
-        <MarkerCategory name="sotogoggles" DisplayName="Dive Master">
-            <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-            <MarkerCategory name="cd" IsSeparator="1" DisplayName="  | HORN OF MAGUUMA"/>
-            <MarkerCategory name="am" DisplayName="Amnytas" color="00CC99"/>
-            <MarkerCategory name="in" DisplayName="Inner Nayos">
-                <MarkerCategory name="soto" IsSeparator="1" DisplayName="  | MOUNTS"/>
-                <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
-            </MarkerCategory>
-            <MarkerCategory name="sa" DisplayName="Skywatch Archipelago" color="00CC99"/>
-            <MarkerCategory name="twt" DisplayName="The Wizard's Tower" color="00CC99"/>
-        </MarkerCategory>
-
-        <MarkerCategory name="wgh" DisplayName="Wayfinder Guided Home [H] ">
-            <MarkerCategory name="loc" IsSeparator="1" DisplayName="  | LOCATION"/>
-            <MarkerCategory name="ashford" DisplayName="ASCALON - Plains of Ashford"/>
-        </MarkerCategory>
 
         <MarkerCategory name="am" DisplayName="Amnytas">
 
@@ -580,8 +561,14 @@
             <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
             <MarkerCategory name="8" DisplayName="Return to Zojja after collecting all of the journal pages."/>
         </MarkerCategory>
+
         </MarkerCategory>
         
+        <MarkerCategory name="wgh" DisplayName="Wayfinder Guided Home [H] ">
+            <MarkerCategory name="loc" IsSeparator="1" DisplayName="  | LOCATION"/>
+            <MarkerCategory name="ashford" DisplayName="ASCALON - Plains of Ashford"/>
+        </MarkerCategory>
+
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>

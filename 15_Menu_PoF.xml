@@ -1,15 +1,6 @@
 <OverlayData>
-    <MarkerCategory name="leag" DisplayName="  | Lady Elyssa's AP Guides">
-        <!-- PoF - Path of Fire -->
-        <MarkerCategory name="pof" IsSeparator="1" DisplayName="  | PATH OF FIRE"/>
-        <MarkerCategory name="pofgoggles" DisplayName="Dive Master">
-            <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-            <MarkerCategory name="cd"     IsSeparator="1" DisplayName="  | CRYSTAL DESERT"/>
-            <MarkerCategory name="dh" DisplayName="Desert Highlands" color="00CC99"/>
-            <MarkerCategory name="er" DisplayName="Elon Riverlands" color="00CC99"/>
-        </MarkerCategory> 
-        <!-- End -->
+    <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
+        
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>
