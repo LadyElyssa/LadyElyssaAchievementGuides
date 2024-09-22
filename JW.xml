@@ -201,6 +201,26 @@
         <Trail type="leag.ls.scl" trailData="Data/JW/Star-Crossed Lovers 4.trl"/>
 
         <!-- Tales of the Lowland Wisps -->
+        <POI MapID="1550" xpos="554.108" ypos="423.099" zpos="-554.77" type="leag.ls.totlw.start" GUID="Bb7YN4zZZkaKPsXs2o546g=="/>        
+        <Trail type="leag.ls.totlw.1" trailData="Data/JW/Tales of the Lowland Wisps 1.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        <Trail type="leag.ls.totlw.2" trailData="Data/JW/Tales of the Lowland Wisps 2.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        <Trail type="leag.ls.totlw.3" trailData="Data/JW/Tales of the Lowland Wisps 3.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        <Trail type="leag.ls.totlw.4" trailData="Data/JW/Tales of the Lowland Wisps 4.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        <Trail type="leag.ls.totlw.5" trailData="Data/JW/Tales of the Lowland Wisps 5.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        <Trail type="leag.ls.totlw.6" trailData="Data/JW/Tales of the Lowland Wisps 6.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        <Trail type="leag.ls.totlw.8" trailData="Data/JW/Tales of the Lowland Wisps 8.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        <Trail type="leag.ls.totlw.9" trailData="Data/JW/Tales of the Lowland Wisps 9.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        <Trail type="leag.ls.totlw.10" trailData="Data/JW/Tales of the Lowland Wisps 10.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        <Trail type="leag.ls.totlw.11" trailData="Data/JW/Tales of the Lowland Wisps 11.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        <Trail type="leag.ls.totlw.12" trailData="Data/JW/Tales of the Lowland Wisps 12.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        <Trail type="leag.ls.totlw.13" trailData="Data/JW/Tales of the Lowland Wisps 13.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        <Trail type="leag.ls.totlw.14" trailData="Data/JW/Tales of the Lowland Wisps 14.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        <Trail type="leag.ls.totlw.15" trailData="Data/JW/Tales of the Lowland Wisps 15.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+
+        <Trail type="leag.ls.totlw.16" trailData="Data/JW/Tales of the Lowland Wisps 16.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        <Trail type="leag.ls.totlw.17" trailData="Data/JW/Tales of the Lowland Wisps 17.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
+        
+        <!-- Wisp Locations -->
         <POI MapID="1550" xpos="528.892" ypos="345.146" zpos="-413.35" type="leag.ls.totlw.2" GUID="m8Gb6/w/UU69ubmmHYeHSw=="/>
         <POI MapID="1550" xpos="944.121" ypos="378.794" zpos="-423.892" type="leag.ls.totlw.3" GUID="OFTXxXH08U+ZMm1l4KNeaw=="/>
         <POI MapID="1550" xpos="951.764" ypos="332.273" zpos="54.6739" type="leag.ls.totlw.4" GUID="njpj0TkTgESt+oNHUWwlpg=="/>
@@ -214,6 +234,42 @@
         <POI MapID="1550" xpos="-781.799" ypos="306.124" zpos="-578.056" type="leag.ls.totlw.14" GUID="oEQf06NNkk6r/Nb9Cq+lQA=="/>
         <POI MapID="1550" xpos="676.997" ypos="103.002" zpos="178.191" type="leag.ls.totlw.15" GUID="oqIK/USCqkuL1raabWHo+Q=="/>
         <POI MapID="1550" xpos="434.768" ypos="108.179" zpos="197.491" type="leag.ls.totlw.16" GUID="Dgy0JuGtH0eRNEEs/PaxPA=="/>
+        <!-- Numbers -->
+        <POI MapID="1550" xpos="554.714" ypos="423.099" zpos="-557.609" type="leag.ls.totlw.1" GUID="HWDh+qiuxEG6jRPk21a4+Q==" iconFile="Data/Images/Numbers/1.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="550.821" ypos="393.194" zpos="-541.563" type="leag.ls.totlw.2" GUID="6hu7FO0Zb0C+6Xl76vxUVQ==" iconFile="Data/Images/Numbers/2.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="398.086" ypos="327.215" zpos="-96.9219" type="leag.ls.totlw.wp" GUID="ewQh80RZGEapvr6JOOY01g==" copy="[&BCcPAAA=]" copy-message="Astral Ward Moon Camp Waypoint" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="527.825" ypos="341.976" zpos="-405.14" type="leag.ls.totlw.2" GUID="3ORlGbL4BkCREuhyiMOcBg==" iconFile="Data/Images/Numbers/n2.png"/>
+        <POI MapID="1550" xpos="559.768" ypos="423.099" zpos="-558.71" type="leag.ls.totlw.3" GUID="CTye3MtQVEyKcGKWHQTPLg==" iconFile="Data/Images/Numbers/3.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="943.369" ypos="379.432" zpos="-415.414" type="leag.ls.totlw.3" GUID="PMxP1lUaH0eOQ8tS4h9YJQ==" iconFile="Data/Images/Numbers/n3.png"/>
+        <POI MapID="1550" xpos="838.397" ypos="375.617" zpos="-208.017" type="leag.ls.totlw.4" GUID="Za8ldOPnkEaxn/FzdJHPUQ==" iconFile="Data/Images/Numbers/4.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="951.688" ypos="333.051" zpos="62.9275" type="leag.ls.totlw.4" GUID="1yoAGxLUTUSCTp/km4f/bw==" iconFile="Data/Images/Numbers/n4.png"/>
+        <POI MapID="1550" xpos="820.477" ypos="261.461" zpos="273.711" type="leag.ls.totlw.5" GUID="VFvE4lW0rE6ow+wjicc6ow==" iconFile="Data/Images/Numbers/5.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="781.877" ypos="-0.0181531" zpos="432.986" type="leag.ls.totlw.5" GUID="kATml5P0U0GGXvVzX8XJeQ==" iconFile="Data/Images/Numbers/n5.png"/>
+        <POI MapID="1550" xpos="1016.34" ypos="0.496725" zpos="498.823" type="leag.ls.totlw.wp" GUID="aYSGa7krhkGqaY6WNRHNSQ==" copy="[&BN8OAAA=]" copy-message="Harvest Shore Waypoint" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="696.705" ypos="2.39066" zpos="565.404" type="leag.ls.totlw.6" GUID="vVCXuP9SKkqkGwSR6mEeag==" iconFile="Data/Images/Numbers/6.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-65.7903" ypos="20.2633" zpos="509.451" type="leag.ls.totlw.6" GUID="wjuF4xXkZEeddzh9kzd7YQ==" iconFile="Data/Images/Numbers/n6.png"/>
+        <POI MapID="1550" xpos="-105.5842" ypos="43.96525" zpos="96.45458" type="leag.ls.totlw.8" GUID="amjX/6AxdU2FczAVa0wCPg==" iconFile="Data/Images/Numbers/8.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-144.316" ypos="108.305" zpos="461.467" type="leag.ls.totlw.8" GUID="FmDccBeVBUSE6thkja6HZQ==" iconFile="Data/Images/Numbers/n8.png"/>
+        <POI MapID="1550" xpos="-144.11" ypos="108.305" zpos="458.15" type="leag.ls.totlw.wp" GUID="VqzL9gQhekWPeMPI4zGJag==" copy="[&BPsOAAA=]" copy-message="Journeykin Outpost Waypoint" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-714.982" ypos="210.306" zpos="-58.9454" type="leag.ls.totlw.9" GUID="Tdohe3zI+EKKC1Ii3owYsA==" iconFile="Data/Images/Numbers/9.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-509.354" ypos="27.0998" zpos="266.114" type="leag.ls.totlw.9" GUID="wPJd+7cQKUeHyuiXvpL49Q==" iconFile="Data/Images/Numbers/n9.png"/>
+        <POI MapID="1550" xpos="-903.3" ypos="21.6833" zpos="379.619" type="leag.ls.totlw.wp" GUID="7P7rAIKKXUuXtuVhf1pR0w==" copy="[&BK4OAAA=]" copy-message="Autumn's Vale Waypoint" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-107.835" ypos="44.2652" zpos="96.8051" type="leag.ls.totlw.10" GUID="NtaWirXOuk+GXjv0tZlCsQ==" iconFile="Data/Images/Numbers/10.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-216.936" ypos="129.213" zpos="61.4977" type="leag.ls.totlw.10" GUID="WZSEJaNY9kmCP3DZryYgLg==" iconFile="Data/Images/Numbers/n10.png"/>
+        <POI MapID="1550" xpos="-203.852" ypos="219.621" zpos="2.27546" type="leag.ls.totlw.11" GUID="/VYMGfT3T0CYPucN5vEWnw==" iconFile="Data/Images/Numbers/11.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-29.2005" ypos="10.5376" zpos="251.474" type="leag.ls.totlw.11" GUID="VEZFO2hLrUWz4XfaYf7Frw==" iconFile="Data/Images/Numbers/n11.png"/>
+        <POI MapID="1550" xpos="-56.641" ypos="92.2933" zpos="220.611" type="leag.ls.totlw.wp" GUID="TSY2FVE9CUS5xGcZvHawRA==" copy="[&BMkOAAA=]" copy-message="Hot Springs Waypoint" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-340.186" ypos="213.307" zpos="-481.432" type="leag.ls.totlw.12" GUID="ds69wHVz7UOX5mjS8yyFlg==" iconFile="Data/Images/Numbers/12.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="19.8251" ypos="304.59" zpos="-379.849" type="leag.ls.totlw.12" GUID="murw9oHC2U2tnM1GJ4MBbQ==" iconFile="Data/Images/Numbers/n12.png"/>
+        <POI MapID="1550" xpos="-346.314" ypos="212.54" zpos="-481.607" type="leag.ls.totlw.13" GUID="+xDhRECdv0u1eiYAYCodYQ==" iconFile="Data/Images/Numbers/13.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-550.522" ypos="216.524" zpos="-453.539" type="leag.ls.totlw.13" GUID="KFku+FMBxEuKSkGNijsXhQ==" iconFile="Data/Images/Numbers/n13.png"/>
+        <POI MapID="1550" xpos="-778.003" ypos="301.414" zpos="-466.224" type="leag.ls.totlw.14" GUID="kAg6wEp6MkKjxEoDW6u1yw==" iconFile="Data/Images/Numbers/14.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-778.523" ypos="305.422" zpos="-572.309" type="leag.ls.totlw.wp" GUID="FuEg/FQkjEC3gBq/0t8Dmw==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
+        <POI MapID="1550" xpos="536.61" ypos="218.825" zpos="45.6336" type="leag.ls.totlw.15" GUID="cJF4C70C/kOXb1CWpCyaSQ==" iconFile="Data/Images/Numbers/15.png" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="676.642" ypos="100.345" zpos="185.107" type="leag.ls.totlw.15" GUID="aCjNVw6IBEuH718pSXn+bQ==" iconFile="Data/Images/Numbers/n15.png"/>
+        <POI MapID="1550" xpos="434.132" ypos="106.923" zpos="206.049" type="leag.ls.totlw.16" GUID="Dmm8BeU+50a54ctL6raOWA==" iconFile="Data/Images/Numbers/n16.png"/>
+        <POI MapID="1550" xpos="435.325" ypos="107.637" zpos="201.579" type="leag.ls.totlw.wp" GUID="fUPH15ttmkiVmW5a1pZI6Q==" copy="[&BK4OAAA=]" copy-message="Autumn's Vale Waypoint&#xA;Follow Route 8 back to Stalwart Heart" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-151.917" ypos="108.305" zpos="457.878" type="leag.ls.totlw.17" GUID="l9YRgC2E90Krsmrnb+B1tA==" iconFile="Data/Images/Numbers/n17.png"/>
 
         <!-- Troll Delicacy -->
         <POI MapID="1550" xpos="-742.782" ypos="307.584" zpos="-574.394" type="leag.ls.delicacy" GUID="xjJ6rPtxEESTk2rjchzpnw==" iconFile="Data/Images/Eat.png"/>
