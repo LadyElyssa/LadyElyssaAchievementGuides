@@ -121,6 +121,9 @@
             <MarkerCategory name="rar" DisplayName="Relaxed and Rejuvenated" achievementId="8222"/>
             <MarkerCategory name="scl" DisplayName="Star-Crossed Lovers" texture="Data/Images/Trails/Star-Crossed Lovers.png" achievementId="8309"/>
             <MarkerCategory name="totlw" DisplayName="Tales of the Lowland Wisps" iconFile="Data/Images/Wisp.png" inGameVisibility="0" achievementId="8153">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
                 <MarkerCategory name="1" DisplayName="One"/>
                 <MarkerCategory name="2" DisplayName="Two"/>
@@ -128,7 +131,6 @@
                 <MarkerCategory name="4" DisplayName="Four"/>
                 <MarkerCategory name="5" DisplayName="Five"/>
                 <MarkerCategory name="6" DisplayName="Six"/>
-                <MarkerCategory name="7" DisplayName="Seven"/>
                 <MarkerCategory name="8" DisplayName="Eight"/>
                 <MarkerCategory name="9" DisplayName="Nine"/>
                 <MarkerCategory name="10" DisplayName="Ten"/>
@@ -139,6 +141,7 @@
                 <MarkerCategory name="15" DisplayName="Fifteen"/>
                 <MarkerCategory name="16" DisplayName="Sixteen"/>
                 <MarkerCategory name="17" DisplayName="Seventeen"/>
+                
             </MarkerCategory>
 
             <!-- Troll Delicacy -->
