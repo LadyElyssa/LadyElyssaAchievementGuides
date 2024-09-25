@@ -89,6 +89,13 @@
             </MarkerCategory>
 
             <MarkerCategory name="gmg" DisplayName="Golden Mushroom Guru" achievementId="8183"/>
+
+            <MarkerCategory name="jth" DisplayName="Janthiri Treasure Hunter">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="dig" DisplayName="Possible Dig Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="0" iconFile="Data/Images/Warclaw Dig.png"/>
+            </MarkerCategory>
+
             <MarkerCategory name="litl" DisplayName="Life in the Lowlands" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="8173">
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/n1.png"             inGameVisibility="0"/>
@@ -226,6 +233,8 @@
 
             <!-- Island Adventure -->
             <MarkerCategory name="islandadv" DisplayName="Island Adventurer" texture="Data/Images/Trails/Trail Marker 2.png" achievementId="8281"/>
+
+
 
             <!-- Janthiri Smuggler -->
             <MarkerCategory name="smuggler" DisplayName="Janthiri Smuggler" achievementId="8325"/>
