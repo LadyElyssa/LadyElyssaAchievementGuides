@@ -231,10 +231,20 @@
                 <MarkerCategory name="17" DisplayName="Seventeen" iconFile="Data/Images/Numbers/n17.png"     inGameVisibility="0"/>
             </MarkerCategory>
 
+            <!-- Hero of the Woods -->
+            <MarkerCategory name="hotw" DisplayName="Hero of the Woods" achievementId="8193">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="mine" DisplayName="Possible Mursaat Relic" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="0" iconFile="Data/Images/Octagon.png"/>
+            </MarkerCategory>
+
             <!-- Island Adventure -->
             <MarkerCategory name="islandadv" DisplayName="Island Adventurer" texture="Data/Images/Trails/Trail Marker 2.png" achievementId="8281"/>
 
-
+            <MarkerCategory name="jth" DisplayName="Janthiri Treasure Hunter">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="dig" DisplayName="Possible Dig Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="0" iconFile="Data/Images/Warclaw Dig.png"/>
+            </MarkerCategory>
 
             <!-- Janthiri Smuggler -->
             <MarkerCategory name="smuggler" DisplayName="Janthiri Smuggler" achievementId="8325"/>
