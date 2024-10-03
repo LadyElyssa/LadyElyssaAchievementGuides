@@ -1,5 +1,22 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
+
+        <MarkerCategory name="eod" IsSeparator="1" DisplayName="  | END OF DRAGONS"/>
+
+        <MarkerCategory name="sp" DisplayName="Seitung Province">
+        </MarkerCategory>
+
+        <MarkerCategory name="nkc" DisplayName="New Kaineng City">
+        </MarkerCategory>
+
+        <MarkerCategory name="tew" DisplayName="The Echovald Wilds">
+        </MarkerCategory>
+
+        <MarkerCategory name="de" DisplayName="Dragon's End">
+        </MarkerCategory>
+
+        <MarkerCategory name="gd" DisplayName="Gyala Delve">
+        </MarkerCategory>
         
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->

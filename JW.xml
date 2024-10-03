@@ -153,6 +153,7 @@
         <POI MapID="1550" xpos="885.46" ypos="354.591" zpos="-314.687" type="leag.ls.gmg" GUID="UGCQYyQcX0uSQeMmDqqHBA==" iconFile="Data/Images/Circlet.png" ingameVisibility="0"/>
 
         <!-- Janthiri Treasure Hunter -->
+        <Trail type="leag.ls.jth" trailData="Data/JW/Janthiri Treasure Hunter LS Warclaw.trl" texture="Data/Images/Trails/Warclaw Prints.png"/>
         <Trail type="leag.ls.jth" trailData="Data/JW/Janthiri Treasure Hunter LS 1.trl"/>
         <Trail type="leag.ls.jth" trailData="Data/JW/Janthiri Treasure Hunter LS 2.trl"/>
         <POI MapID="1550" xpos="437.7385" ypos="65.56487" zpos="201.1282" type="leag.ls.jth.wp" GUID="Frs0sruxFUKwxxa9Q0Z+gg==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
@@ -297,6 +298,29 @@
         <POI MapID="1550" xpos="-69.2415" ypos="124.773" zpos="25.9132" type="leag.ls.jth.dig" GUID="aFKZQrTzQ0u7Jcw7JIUTTg=="/>
         <POI MapID="1550" xpos="-43.994" ypos="1.034" zpos="194.558" type="leag.ls.jth.dig" GUID="Xs22Op0JOU2TAVg58diCug=="/>
 
+        <POI MapID="1550" xpos="697.001" ypos="312.123" zpos="-38.51" type="leag.ls.jth.dig" GUID="Hd+MFPeR1kqJj2kFRMfijw=="/>
+        <POI MapID="1550" xpos="291.212" ypos="244.693" zpos="-62.4162" type="leag.ls.jth.dig" GUID="ftb9UHgrkk2K5Orpd0DsQg=="/>
+        <POI MapID="1550" xpos="185.792" ypos="346.983" zpos="-184.878" type="leag.ls.jth.dig" GUID="oB60F/+AfUCURbRemQxIUw=="/>
+        <POI MapID="1550" xpos="228.235" ypos="333.931" zpos="-143.301" type="leag.ls.jth.dig" GUID="fXEH8kSiIkeA1i4odWbYMg=="/>
+        <POI MapID="1550" xpos="299.319" ypos="309.314" zpos="-8.81776" type="leag.ls.jth.dig" GUID="VlyUUwZy/UyMCEdT+qp9TA=="/>
+        <POI MapID="1550" xpos="167.702" ypos="144.602" zpos="342.848" type="leag.ls.jth.dig" GUID="ZMJOLY+yYU6bThlxrbOgfw=="/>
+        <POI MapID="1550" xpos="241.375" ypos="9.11042" zpos="504.371" type="leag.ls.jth.dig" GUID="QBGV3T8prku2yDxSkf8z0g=="/>
+        <POI MapID="1550" xpos="-671.672" ypos="2.43447" zpos="534.293" type="leag.ls.jth.dig" GUID="sH4M7OiAiE6K+EELUxk3zw=="/>
+        <POI MapID="1550" xpos="-748.741" ypos="42.9642" zpos="223.54" type="leag.ls.jth.dig" GUID="H8X2z2w2/UCKYiZAyTX87g=="/>
+        <POI MapID="1550" xpos="-628.009" ypos="258.149" zpos="-446.65" type="leag.ls.jth.dig" GUID="q6Trod5jVECgu+lHOaYb1w=="/>
+        <POI MapID="1550" xpos="-693.077" ypos="278.986" zpos="-339.001" type="leag.ls.jth.dig" GUID="4ZMaxIM07U218qL3afvf4g=="/>
+        <POI MapID="1550" xpos="-290.201" ypos="251.022" zpos="-581.5" type="leag.ls.jth.dig" GUID="nij3eAC/z0Cxi5wXJT9x8A=="/>
+        <POI MapID="1550" xpos="57.7871" ypos="215.557" zpos="-209.27" type="leag.ls.jth.dig" GUID="KczbJ3cq50GNnRL/SeFtJw=="/>
+        <POI MapID="1550" xpos="-6.44159" ypos="151.606" zpos="4.65863" type="leag.ls.jth.dig" GUID="pp59Bsdy+EODLXJA23pEcw=="/>
+        <POI MapID="1550" xpos="-5.84256" ypos="149.272" zpos="307.703" type="leag.ls.jth.dig" GUID="TDFzWhA80kOHe+SRpwPqmA=="/>
+        <POI MapID="1550" xpos="35.4112" ypos="149.261" zpos="419.47" type="leag.ls.jth.dig" GUID="0+G8IcBNxkSm27WZ/B719w=="/>
+        <POI MapID="1550" xpos="14.3636" ypos="74.5025" zpos="518.902" type="leag.ls.jth.dig" GUID="eR1fKeefsEeQqZxuWlzU2g=="/>
+        <POI MapID="1550" xpos="61.0257" ypos="192.198" zpos="105.939" type="leag.ls.jth.dig" GUID="MyL1lNe6n02kltsZZBuSeQ=="/>
+        <POI MapID="1550" xpos="-114.656" ypos="115.39" zpos="494.179" type="leag.ls.jth.dig" GUID="SYeuWeaplUiSfDOWzj/T9g=="/>
+        <POI MapID="1550" xpos="-187.431" ypos="79.6832" zpos="431.931" type="leag.ls.jth.dig" GUID="tBdtVITi8E6kOLblJePTSw=="/>
+        <POI MapID="1550" xpos="-437.46" ypos="211.262" zpos="276.695" type="leag.ls.jth.dig" GUID="FsH5PfhLAUShoEijXRUWBw=="/>
+        <POI MapID="1550" xpos="-367.595" ypos="197.256" zpos="192.799" type="leag.ls.jth.dig" GUID="ZtjVCfnu3U2sIbbmjmgJPw=="/>
+
         <!-- Life in the Lowlands -->
         <Trail type="leag.ls.litl" trailData="Data/JW/Life in the Lowlands 1.trl"/>
         <Trail type="leag.ls.litl" trailData="Data/JW/Life in the Lowlands 2.trl"/>
@@ -361,9 +385,6 @@
         <Trail type="leag.ls.totlw.13" trailData="Data/JW/Tales of the Lowland Wisps 13.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
         <Trail type="leag.ls.totlw.14" trailData="Data/JW/Tales of the Lowland Wisps 14.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
         <Trail type="leag.ls.totlw.15" trailData="Data/JW/Tales of the Lowland Wisps 15.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
-
-        <Trail type="leag.ls.totlw.16" trailData="Data/JW/Tales of the Lowland Wisps 16.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
-        <Trail type="leag.ls.totlw.17" trailData="Data/JW/Tales of the Lowland Wisps 17.trl" texture="Data/Images/Trails/Trail Marker Textured.png" color="00E9FF" inGameVisibility="1"/>
         
         <!-- Wisp Locations -->
         <POI MapID="1550" xpos="528.892" ypos="345.146" zpos="-413.35" type="leag.ls.totlw.2" GUID="m8Gb6/w/UU69ubmmHYeHSw=="/>
@@ -498,6 +519,10 @@
         <POI MapID="1554" xpos="57.8911" ypos="27.1548" zpos="-671.435" type="leag.js.baq.2" GUID="ay+Z+cggjEaJGZB9sMnjVA=="/>
         <POI MapID="1554" xpos="44.8779" ypos="28.0476" zpos="-674.012" type="leag.js.baq.2" GUID="Bes/t9rbhU+MC/bURLYxKg=="/>
         <POI MapID="1554" xpos="44.8779" ypos="28.0476" zpos="-674.012" type="leag.js.baq.wp" GUID="C0FxX9/Ab0q/+O3RYQEDtg==" copy="[&BOQAAAA=]" copy-message="Provern Shore Waypoint in Gendarran Fields"/>
+        <POI MapID="1554" xpos="28.1708" ypos="29.0433" zpos="-674.119" type="leag.js.baq.2" GUID="kiGYJeqIFU2JFTZlfUWNhQ=="/>
+        <POI MapID="1554" xpos="23.6467" ypos="30.8263" zpos="-698.039" type="leag.js.baq.2" GUID="rzF+s0L/Ak+NdDBmwhDYcA=="/>
+        <POI MapID="1554" xpos="-21.1866" ypos="34.8449" zpos="-694.663" type="leag.js.baq.2" GUID="kWD4timim0emWedrXVtCnw=="/>
+        <POI MapID="1554" xpos="40.846" ypos="27.3341" zpos="-659.407" type="leag.js.baq.2" GUID="l5gv7Z8clUaAusvpewfulg=="/>
         <POI MapID="24" xpos="379.498" ypos="48.2666" zpos="505.39" type="leag.js.baq.3" GUID="L4mXghy9okCU58Roj9Q0Eg=="  copy="[&BLcEAAA=]" copy-message="Apprentice Waypoint in Rata Sum"/>
         <POI MapID="139" xpos="178.467" ypos="339.52" zpos="177.155" type="leag.js.baq.4" GUID="Mq/mlF8W8EqEA33BDesx7w==" mapDisplaySize="20"/>
         <POI MapID="139" xpos="178.147" ypos="339.522" zpos="179.906" type="leag.js.baq.4" GUID="/4S7+WDvb0G2COY5rX+f8w==" iconFile="Data/Images/Relyor Riddle.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1"/>
@@ -580,9 +605,18 @@
         <Trail type="leag.js.islandadv" trailData="Data/JW/Island Adventurer.trl"/>
 
         <!-- Janthiri Treasure Hunter -->
+        
+        <Trail type="leag.js.jth" trailData="Data/JW/Janthiri Treasure Hunter JS Warclaw.trl" texture="Data/Images/Trails/Warclaw Prints.png"/>
         <Trail type="leag.js.jth" trailData="Data/JW/Janthiri Treasure Hunter JS 1.trl"/>
         <Trail type="leag.js.jth" trailData="Data/JW/Janthiri Treasure Hunter JS 2.trl"/>
         <Trail type="leag.js.jth" trailData="Data/JW/Janthiri Treasure Hunter JS 3.trl"/>
+        
+        <POI MapID="1554" xpos="604.56" ypos="1.16149" zpos="-618.394" type="leag.js.jth.path.1" GUID="aMguBfuNPEq+z6rvDW+Rgg=="/>
+        <POI MapID="1554" xpos="-358.066" ypos="83.5985" zpos="55.459" type="leag.js.jth.path.2" GUID="R10+pKfqR0un5JePiHAiuA=="/>
+        <POI MapID="1554" xpos="-361.109" ypos="83.4989" zpos="61.0151" type="leag.js.jth.path.3" GUID="stRPE1ojUE6qBCQe28ZeLw=="/>
+
+        <POI MapID="1554" xpos="-763.014" ypos="10.427" zpos="-686.021" type="leag.js.jth.wp" GUID="i4sMyiWv8Em08H60gen79w==" copy="[&BCwPAAA=]" copy-message="Sanguine Crater Waypoint"/>
+        <POI MapID="1554" xpos="-441.95" ypos="49.507" zpos="-61.4623" type="leag.js.jth.wp" GUID="EDBz0Rk7GECDQ78OZNFkwQ==" copy="[&BCwPAAA=]" copy-message="Sanguine Crater Waypoint"/>
         <POI MapID="1554" xpos="602.787" ypos="1.25919" zpos="-614.479" type="leag.js.jth.dig" GUID="AqbQ4VmL9U6MyhXW3DeEsg=="/>
         <POI MapID="1554" xpos="507.561" ypos="0.367694" zpos="-580.599" type="leag.js.jth.dig" GUID="GM2OXiLHa0SJz5VgeUTGiw=="/>
         <POI MapID="1554" xpos="439.093" ypos="1.10122" zpos="-683.247" type="leag.js.jth.dig" GUID="SZNnWIIZmk2UNzDHUHT32Q=="/>
@@ -717,6 +751,9 @@
         <POI MapID="1554" xpos="-365.766" ypos="36.1807" zpos="784.016" type="leag.js.jth.dig" GUID="sgqN4J7jbkO7ln1Esur8Uw=="/>
         <POI MapID="1554" xpos="-587.181" ypos="52.6259" zpos="664.421" type="leag.js.jth.dig" GUID="7exV8IaN0E22b2GBNQY5bA=="/>
         <POI MapID="1554" xpos="-736.642" ypos="77.9445" zpos="689.504" type="leag.js.jth.dig" GUID="WePaiFYDbUyvHa+3kytimw=="/>
+        <POI MapID="1554" xpos="-287.752" ypos="49.6185" zpos="433.115" type="leag.js.jth.dig" GUID="/iiVZpCL6E2+zBIKisiVyA=="/>
+        <POI MapID="1554" xpos="-249.897" ypos="50.581" zpos="443.346" type="leag.js.jth.dig" GUID="DtzSYobY7UCm79UwBiObbw=="/>
+        <POI MapID="1554" xpos="606.777" ypos="1.88059" zpos="-611.107" type="leag.js.jth.start" GUID="qOc/iaPEcUGwY7rcc9KeRQ=="/>
 
         <!-- Janthiri Smuggler -->
         <Trail type="leag.js.smuggler" trailData="Data/JW/Janthiri Smuggler.trl"/>
