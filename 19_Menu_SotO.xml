@@ -3,7 +3,8 @@
         <MarkerCategory name="soto" IsSeparator="1" DisplayName="  | SECRETS OF THE OBSCURE"/>
 
         <MarkerCategory name="am" DisplayName="Amnytas">
-
+        <MarkerCategory name="story" IsSeparator="1" DisplayName="  | STORY ACHIEVEMENTS"/>
+        <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP ACHIEVEMENTS"/>
         <MarkerCategory name="apk" DisplayName="A Promise Kept [H] (Do Comrades in Arms First) ">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="basil" DisplayName="Basil"/>
@@ -18,7 +19,7 @@
         <MarkerCategory name="caltit" DisplayName="Cruising Amnytas: Lyhr's Tower to Isgarren's Tower"/>
         <MarkerCategory name="cats" DisplayName="Cruising Amnytas: Natural to Strength"/>
         <MarkerCategory name="fff" DisplayName="Fantastic Flying Foxes" texture="Data/Images/Trails/Trail Marker 2.png">
-            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -31,31 +32,31 @@
                 <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
             </MarkerCategory>
             <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
-            <MarkerCategory name="1" DisplayName="1. Bastion of Strength" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="2" DisplayName="2. Bastion of the Natural" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="3" DisplayName="3. Bastion of Knowledge" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="4" DisplayName="4. Bastion of the Obscure" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="5" DisplayName="5. Bastion of Balance" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="6" DisplayName="6. Bastion of the Natural" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="7" DisplayName="7. Bastion of the Celestial" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="8" DisplayName="8. Bastion of the Natural" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="9" DisplayName="9. Bastion of Balance" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="10" DisplayName="10. Bastion of Strength" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="11" DisplayName="11. ???" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="12" DisplayName="12. Bastion of the Natural" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="13" DisplayName="13. Bastion of Strength" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="14" DisplayName="14. ???" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="15" DisplayName="15. Bastion of Knowledge" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="16" DisplayName="16. Bastion of the Natural" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="17" DisplayName="17. Bastion of Strength" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="18" DisplayName="18. Bastion of Balance" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="19" DisplayName="19. Bastion of the Obscure" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="20" DisplayName="20. Bastion of Knowledge" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="21" DisplayName="21. Bastion of the Celestial" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="22" DisplayName="22. Bastion of the Natural" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="23" DisplayName="23. ???" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="24" DisplayName="24. Bastion of the Obscure" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
-            <MarkerCategory name="25" DisplayName="25. Bastion of Strength" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40"/>
+            <MarkerCategory name="1" DisplayName="1. Bastion of Strength" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="2" DisplayName="2. Bastion of the Natural" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="3" DisplayName="3. Bastion of Knowledge" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="4" DisplayName="4. Bastion of the Obscure" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="5" DisplayName="5. Bastion of Balance" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="6" DisplayName="6. Bastion of the Natural" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="7" DisplayName="7. Bastion of the Celestial" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="8" DisplayName="8. Bastion of the Natural" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="9" DisplayName="9. Bastion of Balance" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="10" DisplayName="10. Bastion of Strength" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="11" DisplayName="11. ???" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="12" DisplayName="12. Bastion of the Natural" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="13" DisplayName="13. Bastion of Strength" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="14" DisplayName="14. ???" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="15" DisplayName="15. Bastion of Knowledge" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="16" DisplayName="16. Bastion of the Natural" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="17" DisplayName="17. Bastion of Strength" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="18" DisplayName="18. Bastion of Balance" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="19" DisplayName="19. Bastion of the Obscure" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="20" DisplayName="20. Bastion of Knowledge" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="21" DisplayName="21. Bastion of the Celestial" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="22" DisplayName="22. Bastion of the Natural" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="23" DisplayName="23. ???" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="24" DisplayName="24. Bastion of the Obscure" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+            <MarkerCategory name="25" DisplayName="25. Bastion of Strength" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
         </MarkerCategory>
         <MarkerCategory name="fard" DisplayName="For a Rainy Day" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -84,7 +85,7 @@
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
         </MarkerCategory>
-        <MarkerCategory name="llliw" DisplayName="Laugh Like Lyhr Is Watching (Follows Lyhr Escort Event)  " texture="Data/Images/Trails/Trail Marker 1.png"/>
+        <MarkerCategory name="llliw" DisplayName="Laugh Like Lyhr Is Watching (After Lyhr Escort Event)  " texture="Data/Images/Trails/Trail Marker 1.png"/>
         <MarkerCategory name="sorrows" DisplayName="Sorrow's Lost [H] ">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="3" DisplayName="3. I: The Forager"/>
@@ -105,7 +106,7 @@
             <MarkerCategory name="12" DisplayName="12. X: Satchel of Fate [Map Meta]"/>
             <MarkerCategory name="14" DisplayName="14. XII: The Endless"/>
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
-            <MarkerCategory name="1" DisplayName="1. Dagda needs to speak with you in the Wizard's Tower."/>
+            <MarkerCategory name="1" DisplayName="1. Speak with Dagda in the Wizard's Tower."/>
             <MarkerCategory name="18" DisplayName="18. XVI: The Tower of Secrets"/>
             <MarkerCategory name="24" DisplayName="24. Return to Dagda in the Wizard's Tower."/>
             <MarkerCategory name="tyria" IsSeparator="1" DisplayName="  | TYRIA"/>
@@ -119,7 +120,8 @@
         </MarkerCategory>
 
         <MarkerCategory name="in" DisplayName="Inner Nayos">
-
+        <MarkerCategory name="story" IsSeparator="1" DisplayName="  | STORY ACHIEVEMENTS"/>
+        <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP ACHIEVEMENTS"/>
         <MarkerCategory name="war" DisplayName="A Record of War" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png">
             <MarkerCategory name="balance" IsSeparator="1" DisplayName="  : Balance"/>
             <MarkerCategory name="b1" DisplayName="1. Agathine at the Old Settlement."/>
@@ -212,7 +214,7 @@
         </MarkerCategory>
         <MarkerCategory name="ncu" DisplayName="No Chest Unopened" texture="Data/Images/Trails/Trail Marker 1 Shaded.png">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="trail" DisplayName="Trail Segment" color="e6b800">
+            <MarkerCategory name="trail" DisplayName="Trail Segment">
                 <MarkerCategory name="1" DisplayName="One"/>
                 <MarkerCategory name="2" DisplayName="Two"/>
             </MarkerCategory>
@@ -290,7 +292,8 @@
         </MarkerCategory>
 
         <MarkerCategory name="sa" DisplayName="Skywatch Archipelago">
-
+        <MarkerCategory name="story" IsSeparator="1" DisplayName="  | STORY ACHIEVEMENTS"/>
+        <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP ACHIEVEMENTS"/>
         <MarkerCategory name="back" DisplayName="...Back Again"/>
         <MarkerCategory name="dtt" DisplayName="Don't Think Twice">
             <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
@@ -321,6 +324,7 @@
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
         </MarkerCategory>
+
         <MarkerCategory name="ltmla" DisplayName="Let the Memory Live Again">
             <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
             <MarkerCategory name="hint" DisplayName="Ministry of Transit waiting area."/>
@@ -387,7 +391,7 @@
         </MarkerCategory>
 
         <MarkerCategory name="twt" DisplayName="The Wizard's Tower">
-
+        <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP ACHIEVEMENTS"/>
         <MarkerCategory name="cia" DisplayName="Comrades in Arms [H] " iconFile="Data/Images/Circle.png" behavior="3" triggerRange="5" autoTrigger="1" inGameVisibility="1">
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
             <MarkerCategory name="1" DisplayName="1. Meeting Hortensia"/>
@@ -565,8 +569,8 @@
         </MarkerCategory>
         
         <MarkerCategory name="wgh" DisplayName="Wayfinder Guided Home [H] ">
-            <MarkerCategory name="loc" IsSeparator="1" DisplayName="  | LOCATION"/>
-            <MarkerCategory name="ashford" DisplayName="ASCALON - Plains of Ashford"/>
+            <MarkerCategory name="loc" IsSeparator="1" DisplayName="  | ASCALON"/>
+            <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
         </MarkerCategory>
 
     </MarkerCategory>

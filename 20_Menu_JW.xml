@@ -4,7 +4,9 @@
         <MarkerCategory name="jw" IsSeparator="1" DisplayName="  | JANTHIR WILDS"/>
         
         <MarkerCategory name="ls" DisplayName="Lowland Shore">
-            
+            <MarkerCategory name="story" IsSeparator="1" DisplayName="  | STORY ACHIEVEMENTS"/>
+
+            <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP ACHIEVEMENTS"/>
             <MarkerCategory name="ahdw" DisplayName="A Hard Day's Work" achievementId="8291">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -168,8 +170,10 @@
         <!-- JANTHIR SYNTRI -->
 
         <MarkerCategory name="js" DisplayName="Janthir Syntri">
+            
+            <MarkerCategory name="story" IsSeparator="1" DisplayName="  | STORY ACHIEVEMENTS"/>
+            <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP ACHIEVEMENTS"/>
             <!-- A History Most Violent: Part 1 -->
-
             <MarkerCategory name="ahmv1" DisplayName="A History Most Violent: Part 1" achievementId="8161">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
