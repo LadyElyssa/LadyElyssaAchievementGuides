@@ -154,38 +154,59 @@
 
         <!-- Fantastic Flying Foxes -->
         <Trail type="leag.am.fff.trail.1" trailData="Data/SotO/Fantastic Flying Foxes 1.trl" color="ffcc00"/>
-        <Trail type="leag.am.fff.trail.2" trailData="Data/SotO/Fantastic Flying Foxes 2.trl" color="ffcc00"/>
-        <Trail type="leag.am.fff.trail.3" trailData="Data/SotO/Fantastic Flying Foxes 3.trl" color="ffcc00"/>
-        <Trail type="leag.am.fff.trail.4" trailData="Data/SotO/Fantastic Flying Foxes 4.trl" color="ffcc00"/>
-        <Trail type="leag.am.fff.trail.5" trailData="Data/SotO/Fantastic Flying Foxes 5.trl" color="ffcc00"/>
-        <Trail type="leag.am.fff.trail.6" trailData="Data/SotO/Fantastic Flying Foxes 6.trl" color="ffcc00"/>
-        <Trail type="leag.am.fff.trail.7" trailData="Data/SotO/Fantastic Flying Foxes 7.trl" color="ffcc00"/>
-        <Trail type="leag.am.fff.trail.8" trailData="Data/SotO/Fantastic Flying Foxes 8.trl" color="ffcc00"/>
-        <Trail type="leag.am.fff.trail.9" trailData="Data/SotO/Fantastic Flying Foxes 9.trl" color="ffcc00"/>
+        <Trail type="leag.am.fff.trail.8" trailData="Data/SotO/Fantastic Flying Foxes 1.trl" color="ffcc00"/>
+        <Trail type="leag.am.fff.trail.5" trailData="Data/SotO/Fantastic Flying Foxes 2.trl" color="ffcc00"/>
+        <Trail type="leag.am.fff.trail.6" trailData="Data/SotO/Fantastic Flying Foxes 3.trl" color="ffcc00"/>
+        <Trail type="leag.am.fff.trail.1" trailData="Data/SotO/Fantastic Flying Foxes 4.trl" color="ffcc00"/>
+        <Trail type="leag.am.fff.trail.2" trailData="Data/SotO/Fantastic Flying Foxes 5.trl" color="ffcc00"/>
+        <Trail type="leag.am.fff.trail.3" trailData="Data/SotO/Fantastic Flying Foxes 6.trl" color="ffcc00"/>
+        <Trail type="leag.am.fff.trail.4" trailData="Data/SotO/Fantastic Flying Foxes 7.trl" color="ffcc00"/>
+        <Trail type="leag.am.fff.trail.9" trailData="Data/SotO/Fantastic Flying Foxes 8.trl" color="ffcc00"/>
+        <Trail type="leag.am.fff.trail.7" trailData="Data/SotO/Fantastic Flying Foxes 9.trl" color="ffcc00"/>
         <POI MapID="1517" xpos="110.617" ypos="458.716" zpos="326.15" type="leag.am.fff.23" GUID="gqYWgQNQxUmni4EmKiqNOw=="/>
-		  <POI MapID="1517" xpos="150.608" ypos="439.536" zpos="145.113" type="leag.am.fff.7" GUID="VC39Q37t7U6y4yBjtJfKdA=="/>
-		  <POI MapID="1517" xpos="-169.564" ypos="513.375" zpos="206.244" type="leag.am.fff.11" GUID="ZRpn/1s6nESl14O4k0yzZw=="/>
-		  <POI MapID="1517" xpos="-148.86" ypos="396.359" zpos="407.419" type="leag.am.fff.18" GUID="7UFL10xTFk2x8fgxshUqDg=="/>
-		  <POI MapID="1517" xpos="-571.996" ypos="590.171" zpos="734.381" type="leag.am.fff.5" GUID="T3KqCOAckUSAFpx0qTMU3Q=="/>
-		  <POI MapID="1517" xpos="-205.759" ypos="493.739" zpos="679.811" type="leag.am.fff.9" GUID="CyAwxWD8nUu+9Q5Z3RoMig=="/>
-		  <POI MapID="1517" xpos="-626.196" ypos="611.431" zpos="195.498" type="leag.am.fff.19" GUID="QJsCYQyzVUWmk5QN0NF8hA=="/>
-		  <POI MapID="1517" xpos="-633.618" ypos="510.872" zpos="-311.273" type="leag.am.fff.24" GUID="7brQQGdgOUyj4Zjj/1NAZQ=="/>
-		  <POI MapID="1517" xpos="-556.637" ypos="343.786" zpos="-657.356" type="leag.am.fff.14" GUID="Zn7Bb6F4aEy7OkO4ib/oaQ=="/>
-		  <POI MapID="1517" xpos="-436.048" ypos="274.024" zpos="-360.119" type="leag.am.fff.16" GUID="DCVzpOyEBkuSUlEOw8oMgQ=="/>
-		  <POI MapID="1517" xpos="-97.2287" ypos="224.852" zpos="-542.751" type="leag.am.fff.2" GUID="pPwZ0ZX2SkaaXpj0JyTc4w=="/>
-		  <POI MapID="1517" xpos="100.322" ypos="271.583" zpos="-341.243" type="leag.am.fff.8" GUID="F5+3ybK0NUOXnRbKHOENqQ=="/>
-		  <POI MapID="1517" xpos="271.24" ypos="363.365" zpos="-363.881" type="leag.am.fff.12" GUID="dPoHKCOKPEq1gAOOnRRpAQ=="/>
-		  <POI MapID="1517" xpos="120.564" ypos="312.151" zpos="-617.607" type="leag.am.fff.22" GUID="jf7fYXC6qkS1vQ+G3k+XMA=="/>
-		  <POI MapID="1517" xpos="343.4" ypos="212.202" zpos="-544.948" type="leag.am.fff.6" GUID="xW8l6zFmPUqbnpu8Ox41dQ=="/>
-		  <POI MapID="1517" xpos="636.881" ypos="409.532" zpos="-497.737" type="leag.am.fff.15" GUID="+nEtBLOzJE+EZG4LtwehOw=="/>
-		  <POI MapID="1517" xpos="701.629" ypos="319.079" zpos="-617.618" type="leag.am.fff.20" GUID="y71NVE1kIUa6TyG9mOuYnA=="/>
-		  <POI MapID="1517" xpos="745.393" ypos="318.527" zpos="-232.9" type="leag.am.fff.3" GUID="Bg5GjnE2+EKaTMyrzirXvg=="/>
-		  <POI MapID="1517" xpos="424.698" ypos="589.953" zpos="390.584" type="leag.am.fff.17" GUID="8r0anUJ8e0u72VD2Myi6Aw=="/>
-		  <POI MapID="1517" xpos="581.959" ypos="576.812" zpos="660.594" type="leag.am.fff.13" GUID="NsbbKMhyokufJZJ8PxULMA=="/>
-		  <POI MapID="1517" xpos="504.401" ypos="490.84" zpos="662.205" type="leag.am.fff.25" GUID="bD3ZCOoQvUWcaiU2yLp5OQ=="/>
-		  <POI MapID="1517" xpos="513.111" ypos="379.655" zpos="405.622" type="leag.am.fff.1" GUID="gfG4YdXvjkGt4RJkBMsnDQ=="/>
-		  <POI MapID="1517" xpos="498.236" ypos="336.026" zpos="192.434" type="leag.am.fff.20" GUID="/7w/oF9/pE66Hf94ZzjERQ=="/>
-		  <POI MapID="1517" xpos="49.3833" ypos="709.235" zpos="-114.624" type="leag.am.fff.21" GUID="aPl/eDC3jkK/QgETFySiEA=="/>
+        <POI MapID="1517" xpos="150.608" ypos="439.536" zpos="145.113" type="leag.am.fff.7" GUID="VC39Q37t7U6y4yBjtJfKdA=="/>
+        <POI MapID="1517" xpos="-169.564" ypos="513.375" zpos="206.244" type="leag.am.fff.11" GUID="ZRpn/1s6nESl14O4k0yzZw=="/>
+        <POI MapID="1517" xpos="-148.86" ypos="396.359" zpos="407.419" type="leag.am.fff.18" GUID="7UFL10xTFk2x8fgxshUqDg=="/>
+        <POI MapID="1517" xpos="-571.996" ypos="590.171" zpos="734.381" type="leag.am.fff.5" GUID="T3KqCOAckUSAFpx0qTMU3Q=="/>
+        <POI MapID="1517" xpos="-205.759" ypos="493.739" zpos="679.811" type="leag.am.fff.9" GUID="CyAwxWD8nUu+9Q5Z3RoMig=="/>
+        <POI MapID="1517" xpos="-626.196" ypos="611.431" zpos="195.498" type="leag.am.fff.19" GUID="QJsCYQyzVUWmk5QN0NF8hA=="/>
+        <POI MapID="1517" xpos="-633.618" ypos="510.872" zpos="-311.273" type="leag.am.fff.24" GUID="7brQQGdgOUyj4Zjj/1NAZQ=="/>
+        <POI MapID="1517" xpos="-556.637" ypos="343.786" zpos="-657.356" type="leag.am.fff.14" GUID="Zn7Bb6F4aEy7OkO4ib/oaQ=="/>
+        <POI MapID="1517" xpos="-436.048" ypos="274.024" zpos="-360.119" type="leag.am.fff.16" GUID="DCVzpOyEBkuSUlEOw8oMgQ=="/>
+        <POI MapID="1517" xpos="-97.2287" ypos="224.852" zpos="-542.751" type="leag.am.fff.2" GUID="pPwZ0ZX2SkaaXpj0JyTc4w=="/>
+        <POI MapID="1517" xpos="100.322" ypos="271.583" zpos="-341.243" type="leag.am.fff.8" GUID="F5+3ybK0NUOXnRbKHOENqQ=="/>
+        <POI MapID="1517" xpos="271.24" ypos="363.365" zpos="-363.881" type="leag.am.fff.12" GUID="dPoHKCOKPEq1gAOOnRRpAQ=="/>
+        <POI MapID="1517" xpos="120.564" ypos="312.151" zpos="-617.607" type="leag.am.fff.22" GUID="jf7fYXC6qkS1vQ+G3k+XMA=="/>
+        <POI MapID="1517" xpos="343.4" ypos="212.202" zpos="-544.948" type="leag.am.fff.6" GUID="xW8l6zFmPUqbnpu8Ox41dQ=="/>
+        <POI MapID="1517" xpos="636.881" ypos="409.532" zpos="-497.737" type="leag.am.fff.15" GUID="+nEtBLOzJE+EZG4LtwehOw=="/>
+        <POI MapID="1517" xpos="701.629" ypos="319.079" zpos="-617.618" type="leag.am.fff.20" GUID="y71NVE1kIUa6TyG9mOuYnA=="/>
+        <POI MapID="1517" xpos="745.393" ypos="318.527" zpos="-232.9" type="leag.am.fff.3" GUID="Bg5GjnE2+EKaTMyrzirXvg=="/>
+        <POI MapID="1517" xpos="424.698" ypos="589.953" zpos="390.584" type="leag.am.fff.17" GUID="8r0anUJ8e0u72VD2Myi6Aw=="/>
+        <POI MapID="1517" xpos="581.959" ypos="576.812" zpos="660.594" type="leag.am.fff.13" GUID="NsbbKMhyokufJZJ8PxULMA=="/>
+        <POI MapID="1517" xpos="504.401" ypos="490.84" zpos="662.205" type="leag.am.fff.25" GUID="bD3ZCOoQvUWcaiU2yLp5OQ=="/>
+        <POI MapID="1517" xpos="513.111" ypos="379.655" zpos="405.622" type="leag.am.fff.1" GUID="gfG4YdXvjkGt4RJkBMsnDQ=="/>
+        <POI MapID="1517" xpos="498.236" ypos="336.026" zpos="192.434" type="leag.am.fff.10" GUID="/7w/oF9/pE66Hf94ZzjERQ=="/>
+        <POI MapID="1517" xpos="49.3833" ypos="709.235" zpos="-114.624" type="leag.am.fff.21" GUID="aPl/eDC3jkK/QgETFySiEA=="/>
+        <POI MapID="1517" xpos="-367.032" ypos="525.949" zpos="253.339" type="leag.am.fff.4" GUID="uhde96gVekG7CEkqbLtSBQ=="/>
+        <POI MapID="1517" xpos="-79.9108" ypos="270.224" zpos="-418.452" type="leag.am.fff.trail.1" GUID="9piCPqXtSUO6vBGqMg7oLQ=="/>
+        <POI MapID="1517" xpos="-72.5578" ypos="270.219" zpos="-413.275" type="leag.am.fff.trail.2" GUID="FHRrRxIQNECaTvpvj3rmjw=="/>
+        <POI MapID="1517" xpos="687.492" ypos="290.931" zpos="-364.933" type="leag.am.fff.trail.3" GUID="Xrrn8eMM30eUu3Wmi84G0A=="/>
+        <POI MapID="1517" xpos="690.002" ypos="290.935" zpos="-362.008" type="leag.am.fff.trail.4" GUID="dcoVpxSUPUS5UCJMf8H8Tg=="/>
+        <POI MapID="1517" xpos="-164.071" ypos="395" zpos="568.715" type="leag.am.fff.trail.5" GUID="Tl8e+dEpdUulrh3wBUeZ3Q=="/>
+        <POI MapID="1517" xpos="-545.578" ypos="507.056" zpos="-68.5428" type="leag.am.fff.trail.6" GUID="2Pn0F6yYkE+oiF3mDnIsVg=="/>
+        <POI MapID="1517" xpos="38.4497" ypos="677.241" zpos="307.001" type="leag.am.fff.trail.9" GUID="5hpRwKrg9UGCeGA3EPhDaw=="/>
+        <POI MapID="1517" xpos="41.4557" ypos="677.24" zpos="307.007" type="leag.am.fff.trail.8" GUID="wplLhqLaZUeU+oCoh0EhgQ=="/>
+        <POI MapID="1517" xpos="40.2652" ypos="677.24" zpos="291.493" type="leag.am.fff.trail.7" GUID="iEru8NviPU6beAU6MGTUpA=="/>
+        <POI MapID="1517" xpos="-97.3113" ypos="224.851" zpos="-542.05" type="leag.am.fff.wp" GUID="plZ9hYZA8UGn/3Gk6mQq3Q==" copy="[&BDQOAAA=]" copy-message="Bastion of the Natural Waypoint"/>
+        <POI MapID="1517" xpos="343.135" ypos="212.202" zpos="-545.479" type="leag.am.fff.wp" GUID="7ywjdCOZ0kC0IIv46icYbA==" copy="[&BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
+        <POI MapID="1517" xpos="701.554" ypos="319.079" zpos="-616.035" type="leag.am.fff.wp" GUID="B1KxFyaIZkipiZJyxycGfg==" copy="[&BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
+        <POI MapID="1517" xpos="745.103" ypos="318.589" zpos="-233.917" type="leag.am.fff.wp" GUID="dFJzQB1cfU64Da5SA/ra1g==" copy="[&BD0OAAA=]" copy-message="Bastion of Balance Waypoint"/>
+        <POI MapID="1517" xpos="-626.482" ypos="611.43" zpos="195.657" type="leag.am.fff.wp" GUID="f5HsfaHouECsEq6CxYZQyQ==" copy="[&BEcOAAA=]" copy-message="Bastion of the Obscure Waypoint"/>
+        <POI MapID="1517" xpos="-436.312" ypos="274.01" zpos="-360.472" type="leag.am.fff.wp" GUID="el+Wl+WmCkOpIScNEOZtPQ==" copy="[&BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
+        <POI MapID="1517" xpos="49.9049" ypos="709.23" zpos="-113.973" type="leag.am.fff.wp" GUID="mSokNQTXeUmVXLQ4lTz2TQ==" copy="[&BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
+        <POI MapID="1517" xpos="-366.96" ypos="525.949" zpos="253.023" type="leag.am.fff.wp" GUID="G9ESrPpicUaxeEzcwba3Gw==" copy="[&BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
+        
+        
         
         <!-- Flashing into Focus -->
         <Trail type="leag.twt.fif" trailData="Data/SotO/Flashing into Focus.trl" color="33ccff"/>
@@ -193,14 +214,14 @@
         <!-- For a Rainy Day -->
         <POI MapID="1517" xpos="-85.6818" ypos="270.301" zpos="-422.36" type="leag.am.fard.start" GUID="0nzjJciMV0O4fBTP6ziOaA=="/>
         <Trail type="leag.am.fard.trail.1" trailData="Data/SotO/For a Rainy Day 1.trl" color="ffcc00"/>
-        <POI MapID="1517" xpos="-192.647" ypos="292.495" zpos="-456.09" type="leag.am.fard.wp" GUID="hoLT7W69GEOv47232QNUrA==" copy=" [&BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
+        <POI MapID="1517" xpos="-192.647" ypos="292.495" zpos="-456.09" type="leag.am.fard.wp" GUID="hoLT7W69GEOv47232QNUrA==" copy="[&BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
         <Trail type="leag.am.fard.trail.2" trailData="Data/SotO/For a Rainy Day 2.trl" color="ffff33"/>
-        <POI MapID="1517" xpos="671.099" ypos="275.954" zpos="-131.835" type="leag.am.fard.wp" GUID="bFF0VSf7DEuVxYv4W4Cl8A==" copy=" [&BNMNAAA=]" copy-message="Bastion of Strength Waypoint"/>
+        <POI MapID="1517" xpos="671.099" ypos="275.954" zpos="-131.835" type="leag.am.fard.wp" GUID="bFF0VSf7DEuVxYv4W4Cl8A==" copy="[&BNMNAAA=]" copy-message="Bastion of Strength Waypoint"/>
         <Trail type="leag.am.fard.trail.3" trailData="Data/SotO/For a Rainy Day 3.trl" color="ffff33"/>
-        <POI MapID="1517" xpos="734.212" ypos="364.496" zpos="336.46" type="leag.am.fard.wp" GUID="bBgn/cNwm0uRnDawP5lGKw==" copy=" [&BD0OAAA=]" copy-message="Bastion of Balance Waypoint"/>
+        <POI MapID="1517" xpos="734.212" ypos="364.496" zpos="336.46" type="leag.am.fard.wp" GUID="bBgn/cNwm0uRnDawP5lGKw==" copy="[&BD0OAAA=]" copy-message="Bastion of Balance Waypoint"/>
         <Trail type="leag.am.fard.trail.4" trailData="Data/SotO/For a Rainy Day 4.trl" color="ffff33"/>
         <Trail type="leag.am.fard.trail.5" trailData="Data/SotO/For a Rainy Day 5.trl" color="ffff33"/>
-        <POI MapID="1517" xpos="-342.157" ypos="510.304" zpos="280.888" type="leag.am.fard.wp" GUID="v3iefk24JES97RXre3oxLQ==" copy=" [&BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
+        <POI MapID="1517" xpos="-342.157" ypos="510.304" zpos="280.888" type="leag.am.fard.wp" GUID="v3iefk24JES97RXre3oxLQ==" copy="[&BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
         <Trail type="leag.am.fard.trail.6" trailData="Data/SotO/For a Rainy Day 6.trl" color="ffff33"/>
         
         <!-- Frode's Journal -->
@@ -239,6 +260,23 @@
         <Trail type="leag.am.ia.trail.8" trailData="Data/SotO/Illuminating Amnytas 8.trl" color="ffff33"/>
         <Trail type="leag.am.ia.trail.9" trailData="Data/SotO/Illuminating Amnytas 9.trl" color="ffff33"/>
         <Trail type="leag.am.ia.trail.9" trailData="Data/SotO/Illuminating Amnytas 9b.trl" color="ffff33" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <POI MapID="1517" xpos="-85.039" ypos="270.306" zpos="-421.774" type="leag.am.ia.start" GUID="adm1bsm0g0KYyAXvDW/Jww=="/>
+        <POI MapID="1517" xpos="-80.081" ypos="270.221" zpos="-417.774" type="leag.am.ia.trail.1" GUID="IDHSsGlw+EWnLPPMchFqkw=="/>
+        <POI MapID="1517" xpos="-70.6069" ypos="270.221" zpos="-417.459" type="leag.am.ia.trail.2" GUID="/Zf5BhrsjU6W725uLxAhGQ=="/>
+        <POI MapID="1517" xpos="688.541" ypos="290.922" zpos="-365.467" type="leag.am.ia.trail.3" GUID="qou1DKgF3UqAsTOSmP8gUg=="/>
+        <POI MapID="1517" xpos="702.465" ypos="379.797" zpos="187.06" type="leag.am.ia.trail.4" GUID="dbnEoJ6ZkE2viOyX/SVOLg=="/>
+        <POI MapID="1517" xpos="-162.759" ypos="395.055" zpos="570.848" type="leag.am.ia.trail.5" GUID="fN/gT38ZE06cwrrkOOdOOQ=="/>
+        <POI MapID="1517" xpos="-544.984" ypos="507.056" zpos="-68.1525" type="leag.am.ia.trail.6" GUID="ND/cYb9SH0KDFE40XrlfhA=="/>
+        <POI MapID="1517" xpos="-542.006" ypos="507.066" zpos="-63.6944" type="leag.am.ia.trail.7" GUID="TXKGDV5XKUidfXZW3Dub0Q=="/>
+        <POI MapID="1517" xpos="38.1472" ypos="677.24" zpos="303.206" type="leag.am.ia.trail.8" GUID="3rzvtwe12EyfTCwy0ZRPzg=="/>
+        <POI MapID="1517" xpos="35.9722" ypos="677.24" zpos="294.665" type="leag.am.ia.trail.9" GUID="BfCCkiYKVkKqU2399NISvQ=="/>
+        <POI MapID="1517" xpos="-78.4583" ypos="221.645" zpos="-597.672" type="leag.am.ia.wp" GUID="Llyp+3zKO0KuLNu2v+QOuQ==" copy="[&BDQOAAA=]" copy-message="Bastion of the Natural Waypoint"/>
+        <POI MapID="1517" xpos="362.014" ypos="206.554" zpos="-714.281" type="leag.am.ia.wp" GUID="W/Is576BQ0iBGbF14LtISA==" copy="[&BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
+        <POI MapID="1517" xpos="598.111" ypos="274.372" zpos="-98.2465" type="leag.am.ia.wp" GUID="1ul2SWUv4Uy0iIg2KaGDyA==" copy="[&BNMNAAA=]" copy-message="Bastion of Strength Waypoint"/>
+        <POI MapID="1517" xpos="557.183" ypos="379.655" zpos="459.308" type="leag.am.ia.wp" GUID="VNzpCBpFiEat5dc0FmIJ0A==" copy="[&BD0OAAA=]" copy-message="Bastion of Balance Waypoint"/>
+        <POI MapID="1517" xpos="-265.531" ypos="420.125" zpos="401.764" type="leag.am.ia.wp" GUID="vkgojvdheE6DQeohdQ83/Q==" copy="[&BEcOAAA=]" copy-message="Bastion of the Obscure Waypoint"/>
+        <POI MapID="1517" xpos="-176.789" ypos="361.611" zpos="-113.432" type="leag.am.ia.wp" GUID="xHEhNVro/keAJ7cPyNO4pA==" copy="[&BEcOAAA=]" copy-message="Bastion of the Obscure Waypoint"/>
+        <POI MapID="1517" xpos="-347.141" ypos="516.158" zpos="217.608" type="leag.am.ia.wp" GUID="UPWSj0stR0yWsxNX9RefsQ==" copy="[&BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
         
         <!-- Illuminating Inner Nayos -->
         <POI MapID="1526" xpos="679.306" ypos="215.504" zpos="-436.045" type="leag.in.iin.start" GUID="Vnyh9l4r5EuLCwYlC4jKcw=="/>
@@ -248,8 +286,8 @@
 		<POI MapID="1526" xpos="698.493" ypos="215.347" zpos="-435.397" type="leag.in.iin.trail.2" GUID="qvIIS8BvXkWUVFky3XPgyA=="/>
 		<POI MapID="1526" xpos="689.73" ypos="215.652" zpos="-433.574" type="leag.in.iin.trail.1" GUID="1tWb14Hzb0aiqu1OWDdYnw=="/>
 		<POI MapID="1526" xpos="303.36" ypos="186.293" zpos="151.356" type="leag.in.iin.trail.3" GUID="Y+U1k2eU/ESGkF40GWuGkQ=="/>
-        <POI MapID="1526" xpos="220.164" ypos="236.45" zpos="-499.459" type="leag.in.iin.wp" GUID="ebxgov6HQE2g7YJctPgGmw==" copy=" [&BGYOAAA=]" copy-message="Astral Ward Camp Waypoint"/>
-        <POI MapID="1526" xpos="495.276" ypos="196.642" zpos="237.777" type="leag.in.iin.wp" GUID="3YBEqTbyQUKVJ0pahlf3Kw==" copy=" [&BHYOAAA=]" copy-message=" Forward Bivouac Waypoint"/>
+        <POI MapID="1526" xpos="220.164" ypos="236.45" zpos="-499.459" type="leag.in.iin.wp" GUID="ebxgov6HQE2g7YJctPgGmw==" copy="[&BGYOAAA=]" copy-message="Astral Ward Camp Waypoint"/>
+        <POI MapID="1526" xpos="495.276" ypos="196.642" zpos="237.777" type="leag.in.iin.wp" GUID="3YBEqTbyQUKVJ0pahlf3Kw==" copy="[&BHYOAAA=]" copy-message=" Forward Bivouac Waypoint"/>
         
         <!-- Illuminating Skywatch Archipelago -->
         <POI MapID="1510" xpos="891.509" ypos="133.644" zpos="-371.291" type="leag.sa.isa.start" GUID="3bAsuC3tak6FR/pXkycIQQ=="/>
@@ -335,6 +373,7 @@
         <POI MapID="1526" xpos="682.829" ypos="215.565" zpos="-444.164" type="leag.in.ncu.start" GUID="JnuUwRzK00uUQ7hQJXwtMA=="/>
         <Trail type="leag.in.ncu.trail.1" trailData="Data/SotO/No Chest Unopened 1.trl" color="e6b800"/>
         <Trail type="leag.in.ncu.trail.2" trailData="Data/SotO/No Chest Unopened 2.trl" color="e6b800"/>
+        <POI MapID="1526" xpos="691.036" ypos="215.6" zpos="-435.967" type="leag.in.ncu.trail.1" GUID="MbMxVqPuekOVSIgTguCUjw==" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" mapVisibility="0"/>
         <POI MapID="1526" xpos="695.372" ypos="215.188" zpos="-423.857" type="leag.in.ncu.trail.2" GUID="fOtHyqN+ckG6ZKDKGICcaQ==" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" mapVisibility="0"/>
         <POI MapID="1526" xpos="437.207" ypos="280.808" zpos="407.195" type="leag.in.ncu.1" GUID="FycC64JuO0ifi14MDwY+AQ==" iconFile="Data/Images/No Chest Unopened.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
         <POI MapID="1526" xpos="556.444" ypos="228.832" zpos="144.205" type="leag.in.ncu.2" GUID="JVkbq/Q2MkODz6ftnLa5Vw==" iconFile="Data/Images/No Chest Unopened.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
@@ -366,7 +405,7 @@
         <Trail type="leag.sa.ras.trail.9" trailData="Data/SotO/Rise and Shrine 9.trl" color="ffcc00"/>
         <POI MapID="1510" xpos="1044.75" ypos="143.792" zpos="-445.73" type="leag.sa.ras.1" GUID="qboO0HCiqkGEzXpTCaSO2w=="/>
         <POI MapID="1510" xpos="1006.65" ypos="156.006" zpos="-521.249" type="leag.sa.ras.34" GUID="3ae/KyWXokyf4C1NJ5mEnQ=="/>
-        <POI MapID="1510" xpos="920.234" ypos="156.001" zpos="-531.9" type="leag.sa.ras.34" GUID="xkRakF5eZ0y8YfpFvuZWaQ=="/>
+        <POI MapID="1510" xpos="920.234" ypos="156.001" zpos="-531.9" type="leag.sa.ras.21" GUID="xkRakF5eZ0y8YfpFvuZWaQ=="/>
         <POI MapID="1510" xpos="557.998" ypos="70.3148" zpos="-442.072" type="leag.sa.ras.13" GUID="jHtKjqxoRE+G9Ek7A8Cuow=="/>
         <POI MapID="1510" xpos="826.726" ypos="218.409" zpos="-83.4964" type="leag.sa.ras.14" GUID="1DNlWNKG8kePTeikF5DyYw=="/>
         <POI MapID="1510" xpos="606.973" ypos="305.309" zpos="0.0485522" type="leag.sa.ras.2" GUID="CTIIKu2jN02CDqClL03qfg=="/>
@@ -453,21 +492,21 @@
         <!-- Shrine Finder -->
         <POI MapID="1526" xpos="297.77" ypos="186.293" zpos="161.827" type="leag.in.shrine.start" GUID="ut6sL0WkbECWy+fg6X0vPQ=="/>
         <Trail type="leag.in.shrine" trailData="Data/SotO/Shrine Finder.trl" color="b366ff"/>
-        <POI MapID="1526" xpos="151.727" ypos="283.74" zpos="359.239" type="leag.in.shrine.1" GUID="po3Nvoom202mY4nyW+ggMQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="116.154" ypos="309.642" zpos="474.654" type="leag.in.shrine.2" GUID="OEymdBxAFUW0tqDhX+YVkQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="-311.81" ypos="279.674" zpos="292.716" type="leag.in.shrine.3" GUID="O9hizc8kfEi7Fj6MSXC1AA==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="-209.724" ypos="349.998" zpos="-190.167" type="leag.in.shrine.4" GUID="fRUm6r+Nvku/XqxZpeTlsw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="-1.28806" ypos="166.946" zpos="190.235" type="leag.in.shrine.5" GUID="dTw1rlue8kOt83VVqUb/Vg==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="-182.403" ypos="206.454" zpos="-7.04849" type="leag.in.shrine.6" GUID="Ga26JTi/gUeA0RwvLSURmw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="321.285" ypos="202.809" zpos="-107.052" type="leag.in.shrine.7" GUID="jxTPRDP3gUG38ZEUy7+BfQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="433.495" ypos="296.192" zpos="184.672" type="leag.in.shrine.8" GUID="CAYdpeA1a0aEPwY6Rpn7lA==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="235.935" ypos="201.368" zpos="190.177" type="leag.in.shrine.9" GUID="Tw5JNUZ0CEKHOAgDvyAp1Q==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="53.7581" ypos="294.453" zpos="-175.632" type="leag.in.shrine.10" GUID="b73LJXSIikqxyjCQcmk1rw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="36.0649" ypos="209.177" zpos="321.366" type="leag.in.shrine.11" GUID="WaP9JvDiXku/U+lQrXVZjw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
-        <POI MapID="1526" xpos="-297.541" ypos="152.291" zpos="116.839" type="leag.in.shrine.12" GUID="+7LQXkp+2Em0KmIu+EobRQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32"/>
+        <POI MapID="1526" xpos="151.727" ypos="283.74" zpos="359.239" type="leag.in.shrine.1" GUID="po3Nvoom202mY4nyW+ggMQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32" inGameVisibility="0"/>
+        <POI MapID="1526" xpos="116.154" ypos="309.642" zpos="474.654" type="leag.in.shrine.2" GUID="OEymdBxAFUW0tqDhX+YVkQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32" inGameVisibility="0"/>
+        <POI MapID="1526" xpos="-311.81" ypos="279.674" zpos="292.716" type="leag.in.shrine.3" GUID="O9hizc8kfEi7Fj6MSXC1AA==" iconFile="Data/Images/Circle.png" mapDisplaySize="32" inGameVisibility="0"/>
+        <POI MapID="1526" xpos="-209.724" ypos="349.998" zpos="-190.167" type="leag.in.shrine.4" GUID="fRUm6r+Nvku/XqxZpeTlsw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32" inGameVisibility="0"/>
+        <POI MapID="1526" xpos="-1.28806" ypos="166.946" zpos="190.235" type="leag.in.shrine.5" GUID="dTw1rlue8kOt83VVqUb/Vg==" iconFile="Data/Images/Circle.png" mapDisplaySize="32" inGameVisibility="0"/>
+        <POI MapID="1526" xpos="-182.403" ypos="206.454" zpos="-7.04849" type="leag.in.shrine.6" GUID="Ga26JTi/gUeA0RwvLSURmw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32" inGameVisibility="0"/>
+        <POI MapID="1526" xpos="321.285" ypos="202.809" zpos="-107.052" type="leag.in.shrine.7" GUID="jxTPRDP3gUG38ZEUy7+BfQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32" inGameVisibility="0"/>
+        <POI MapID="1526" xpos="433.495" ypos="296.192" zpos="184.672" type="leag.in.shrine.8" GUID="CAYdpeA1a0aEPwY6Rpn7lA==" iconFile="Data/Images/Circle.png" mapDisplaySize="32" inGameVisibility="0"/>
+        <POI MapID="1526" xpos="235.935" ypos="201.368" zpos="190.177" type="leag.in.shrine.9" GUID="Tw5JNUZ0CEKHOAgDvyAp1Q==" iconFile="Data/Images/Circle.png" mapDisplaySize="32" inGameVisibility="0"/>
+        <POI MapID="1526" xpos="53.7581" ypos="294.453" zpos="-175.632" type="leag.in.shrine.10" GUID="b73LJXSIikqxyjCQcmk1rw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32" inGameVisibility="0"/>
+        <POI MapID="1526" xpos="36.0649" ypos="209.177" zpos="321.366" type="leag.in.shrine.11" GUID="WaP9JvDiXku/U+lQrXVZjw==" iconFile="Data/Images/Circle.png" mapDisplaySize="32" inGameVisibility="0"/>
+        <POI MapID="1526" xpos="-297.541" ypos="152.291" zpos="116.839" type="leag.in.shrine.12" GUID="+7LQXkp+2Em0KmIu+EobRQ==" iconFile="Data/Images/Circle.png" mapDisplaySize="32" inGameVisibility="0"/>
 
         <!-- Sleep Now in the Fire -->
-        <POI MapID="1510" xpos="-748.6" ypos="479.138" zpos="289.339" type="leags.sa.snitf.hint" GUID="HNxEq62GgkSu7KBE0BvgLg==" iconFile="Data/Images/Emote - Sleep.png" fadeNear="2200" fadeFar="4400"/>        
+        <POI MapID="1510" xpos="-748.6" ypos="479.138" zpos="289.339" type="leag.sa.snitf.hint" GUID="HNxEq62GgkSu7KBE0BvgLg==" iconFile="Data/Images/Emote - Sleep.png" fadeNear="2200" fadeFar="4400"/>        
 
         <!-- Sorrow's Lost -->
         <Trail type="leag.am.sorrows.1" trailData="Data/SotO/Sorrow's Lost 1.trl" color="9933ff"/>
