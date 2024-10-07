@@ -3,6 +3,14 @@
         <!-- ACHIEVEMENTS -->
         <MarkerCategory name="achievements" IsSeparator="1" DisplayName="ACHIEVEMENTS"/>      
 
+        <!--
+            General Achievements from the Core Game
+        -->
+        <!--
+        <MarkerCategory name="general" DisplayName="General">
+        </MarkerCategory>
+        -->
+
         
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->

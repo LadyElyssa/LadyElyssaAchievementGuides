@@ -3,7 +3,7 @@
         <!-- ACHIEVEMENTS -->
 
         <MarkerCategory name="festivals" DisplayName="Festivals">
-            <MarkerCategory name="fotfw"     IsSeparator="1" DisplayName="  | FESTIVAL OF THE FOUR WINDS"/>
+            <MarkerCategory name="fotfw"  DisplayName="Festival of the Four Winds">
             <MarkerCategory name="lc"     IsSeparator="1" DisplayName="  : Labyrinthine Cliffs"/>
             <MarkerCategory name="aspect" DisplayName="Aspect Gatherer">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -58,6 +58,7 @@
             <MarkerCategory name="pp" DisplayName="Pirate Purger" inGameVisibility="0"/>
         </MarkerCategory> 
         <!-- End -->
+        </MarkerCategory> 
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>

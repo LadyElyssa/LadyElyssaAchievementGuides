@@ -1,12 +1,77 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" mapDisplaySize="16">
         
-        <MarkerCategory name="jw" IsSeparator="1" DisplayName="  | JANTHIR WILDS"/>
+        <MarkerCategory name="jw" DisplayName="Janthir Wilds">
         
-        <MarkerCategory name="ls" DisplayName="Lowland Shore">
-            <MarkerCategory name="story" IsSeparator="1" DisplayName="  | STORY ACHIEVEMENTS"/>
+            <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
+                <!--
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="marker" DisplayName="Toggle Blue Orb Marker" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5" fadeNear="1200" fadeFar="2400"/>
+                -->
 
-            <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP ACHIEVEMENTS"/>
+                <MarkerCategory name="prologue" IsSeparator="1" DisplayName="PROLOGUE: The Tyrian Alliance"/>
+                <MarkerCategory name="meeting" DisplayName="Meeting Notes" achievementId="8258" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5">
+                    <MarkerCategory name="1" DisplayName="Invitation to a Great House"/>
+                    <MarkerCategory name="2" DisplayName="Letter Address to Dougal"/>
+                    <MarkerCategory name="3" DisplayName="Ludo's Paperwork"/>
+                    <MarkerCategory name="4" DisplayName="Ludo's Invitation"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="ch1" IsSeparator="1" DisplayName="Chapter 1: Unknown Territory"/>
+                <MarkerCategory name="bteitgp" DisplayName="Behind the Ear is the Good Spot" achievementId="8267" iconFile="Data/Images/Icons/Blank.png"/>
+                <MarkerCategory name="moonlit" DisplayName="Moonlit Reading" achievementId="8298" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5">
+                    <MarkerCategory name="1" DisplayName="Astral Ward Notice"/>
+                    <MarkerCategory name="2" DisplayName="Moon Camp Field Report"/>
+                    <MarkerCategory name="3" DisplayName="Letter to Warden Frode"/>
+                    <MarkerCategory name="4" DisplayName="Town Record"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="ch3" IsSeparator="1" DisplayName="Chapter 3: Home Sweet Home"/>
+                <MarkerCategory name="pbp" DisplayName="Penned by Pokey" achievementId="8174" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+                
+                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="Chapter 5: Strangers among Lands"/>
+                <MarkerCategory name="igtbald" DisplayName="It's Going to Be a Long Day" achievementId="8239" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5">
+                    <MarkerCategory name="1" DisplayName="Tyrian Alliance Report: Questions"/>
+                    <MarkerCategory name="2" DisplayName="Tyrian Alliance Report: The Sea"/>
+                    <MarkerCategory name="3" DisplayName="Tyrian Alliance Report: The Commander"/>
+                    <MarkerCategory name="4" DisplayName="Tyrian Alliance Report: Orr"/>
+                    <MarkerCategory name="5" DisplayName="Tyrian Alliance Report: Economy"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="ch6" IsSeparator="1" DisplayName="Chapter 6: Storm Clouds over Janthir"/>
+                <MarkerCategory name="animal" DisplayName="Animal Analysis" achievementId="8255">
+                    <MarkerCategory name="owl" DisplayName="Toggle Barred Owl (Brown)" iconFile="Data/Images/Swirl - Brown.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="bee" DisplayName="Toggle Bee (Black &amp; Yellow)" iconFile="Data/Images/Swirl - Black and Yellow.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="crab" DisplayName="Toggle Crab (Pink)" iconFile="Data/Images/Swirl - Pink.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="duck" DisplayName="Toggle Duck (Yellow)" iconFile="Data/Images/Swirl - Yellow.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="fawn" DisplayName="Toggle Fawn (Tan)" iconFile="Data/Images/Swirl - Tan.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="frog" DisplayName="Toggle Frog (Green)" iconFile="Data/Images/Swirl - Green.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="rabbit" DisplayName="Toggle Rabbit (White)" iconFile="Data/Images/Swirl - White.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="racoon" DisplayName="Toggle Racoon (Black &amp; White)" iconFile="Data/Images/Swirl - Black and White.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="raven" DisplayName="Toggle Raven (Black)" iconFile="Data/Images/Swirl - Black.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                </MarkerCategory>
+                <MarkerCategory name="lightning" DisplayName="Plant Lightning Rods" iconFile="Data/Images/Construct Lightning Rod.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="24"/>
+                <MarkerCategory name="wildlife" DisplayName="Wildlife Research" achievementId="8312" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch8" IsSeparator="1" DisplayName="Chapter 8: Finding Balance"/>
+                <MarkerCategory name="foster" DisplayName="Foster Parent" achievementId="8178">
+                    <MarkerCategory name="food" DisplayName="Toggle Food" iconFile="Data/Images/Hungry.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="medical" DisplayName="Toggle Medical Supplies" iconFile="Data/Images/Medical Supplies.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="water" DisplayName="Toggle Water" iconFile="Data/Images/Thirsty.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="bucket" DisplayName="Toggle Water Bucket" iconFile="Data/Images/Bucket.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="ch10" IsSeparator="1" DisplayName="Chapter 10: Sorrow in These Halls"/>
+                    <MarkerCategory name="reflective" DisplayName="Reflective Reading" achievementId="8351" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5">
+                        <MarkerCategory name="1" DisplayName="Letter from Lyhr"/>
+                        <MarkerCategory name="2" DisplayName="Stoic Alder's Journal"/>
+                        <MarkerCategory name="3" DisplayName="A Collective History, Volume 6"/>
+                    </MarkerCategory>
+            </MarkerCategory>
+            
+            <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+
+            <MarkerCategory name="ls" DisplayName="Lowland Shore">
             <MarkerCategory name="ahdw" DisplayName="A Hard Day's Work" achievementId="8291">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -20,6 +85,8 @@
                 <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/n7.png" inGameVisibility="0"/>
                 <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/n8.png" inGameVisibility="0"/>
             </MarkerCategory>
+
+            <MarkerCategory name="ash" DisplayName="Ash Legion Diplomacy [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8209"/>
 
             <MarkerCategory name="waterfalls" DisplayName="Chasing Waterfalls" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png" achievementId="8327">
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
@@ -35,13 +102,8 @@
                 <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/n10.png" inGameVisibility="0"/>
                 <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/Images/Numbers/n11.png" inGameVisibility="0"/>
                 <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/Images/Numbers/n12.png" inGameVisibility="0"/>
-            </MarkerCategory>
-            <MarkerCategory name="dad" DisplayName="Diplomacy and Discovery [Story]">
-                <MarkerCategory name="ash" DisplayName="Ash Legion Diplomacy [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0"/>
-                <MarkerCategory name="ww" DisplayName="Warclaw Wrangling" achievementId="8190">
-                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                </MarkerCategory>
-            </MarkerCategory>
+            </MarkerCategory>            
+
             <MarkerCategory name="cc" DisplayName="Cryptid Chase" achievementId="8292">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -134,6 +196,11 @@
             <MarkerCategory name="pyr" DisplayName="Pay Your Respects" iconFile="Data/Images/Pay Your Respects.png" achievementId="8297"/>
             <MarkerCategory name="rehearsal" DisplayName="Rehearsal [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8361"/>
             <MarkerCategory name="rar" DisplayName="Relaxed and Rejuvenated" achievementId="8222"/>
+            <MarkerCategory name="kindness" DisplayName="Returning Kindness" achievementId="8268">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            </MarkerCategory>
             <MarkerCategory name="scl" DisplayName="Star-Crossed Lovers" texture="Data/Images/Trails/Star-Crossed Lovers.png" achievementId="8309"/>
             <MarkerCategory name="totlw" DisplayName="Tales of the Lowland Wisps" iconFile="Data/Images/Wisp.png" inGameVisibility="0" achievementId="8153">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
@@ -161,6 +228,9 @@
 
             <!-- Troll Delicacy -->
             <MarkerCategory name="delicacy" DisplayName="Troll Delicacy [H]" iconFile="Data/Images/Troll Delicacy.png" defaulttoggle="0" achievementId="8294"/>
+            <MarkerCategory name="ww" DisplayName="Warclaw Wrangling" achievementId="8190">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            </MarkerCategory>
             <MarkerCategory name="wts" DisplayName="What's That Sound [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8156"/>
             <MarkerCategory name="workplace" DisplayName="Workplace Safety [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8184"/>
 
@@ -170,9 +240,6 @@
         <!-- JANTHIR SYNTRI -->
 
         <MarkerCategory name="js" DisplayName="Janthir Syntri">
-            
-            <MarkerCategory name="story" IsSeparator="1" DisplayName="  | STORY ACHIEVEMENTS"/>
-            <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP ACHIEVEMENTS"/>
             <!-- A History Most Violent: Part 1 -->
             <MarkerCategory name="ahmv1" DisplayName="A History Most Violent: Part 1" achievementId="8161">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
@@ -303,7 +370,7 @@
             <MarkerCategory name="artist" DisplayName="True Artist" achievementId="8172"/>
 
         </MarkerCategory>
-
+        </MarkerCategory>
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>

@@ -1,10 +1,12 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
-        <MarkerCategory name="soto" IsSeparator="1" DisplayName="  | SECRETS OF THE OBSCURE"/>
+        <MarkerCategory name="soto" DisplayName="Secrets of the Obscure">
+        <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
+        </MarkerCategory>
+
+        <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
         <MarkerCategory name="am" DisplayName="Amnytas">
-        <MarkerCategory name="story" IsSeparator="1" DisplayName="  | STORY ACHIEVEMENTS"/>
-        <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP ACHIEVEMENTS"/>
         <MarkerCategory name="apk" DisplayName="A Promise Kept [H] (Do Comrades in Arms First) ">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="basil" DisplayName="Basil"/>
@@ -70,7 +72,7 @@
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
         </MarkerCategory>
-        <MarkerCategory name="ia" DisplayName="Illuminating Amnytas (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png">
+        <MarkerCategory name="ia" DisplayName="Illuminating Amnytas (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" defaulttoggle="0">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
@@ -120,8 +122,6 @@
         </MarkerCategory>
 
         <MarkerCategory name="in" DisplayName="Inner Nayos">
-        <MarkerCategory name="story" IsSeparator="1" DisplayName="  | STORY ACHIEVEMENTS"/>
-        <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP ACHIEVEMENTS"/>
         <MarkerCategory name="war" DisplayName="A Record of War" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png">
             <MarkerCategory name="balance" IsSeparator="1" DisplayName="  : Balance"/>
             <MarkerCategory name="b1" DisplayName="1. Agathine at the Old Settlement."/>
@@ -180,7 +180,7 @@
             <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
             <MarkerCategory name="hint" DisplayName="Heitor's Gate"/>
         </MarkerCategory>
-        <MarkerCategory name="iin" DisplayName="Illuminating Inner Nayos (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png">
+        <MarkerCategory name="iin" DisplayName="Illuminating Inner Nayos (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" defaulttoggle="0">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
@@ -292,8 +292,6 @@
         </MarkerCategory>
 
         <MarkerCategory name="sa" DisplayName="Skywatch Archipelago">
-        <MarkerCategory name="story" IsSeparator="1" DisplayName="  | STORY ACHIEVEMENTS"/>
-        <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP ACHIEVEMENTS"/>
         <MarkerCategory name="back" DisplayName="...Back Again"/>
         <MarkerCategory name="dtt" DisplayName="Don't Think Twice">
             <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
@@ -308,7 +306,7 @@
             <MarkerCategory name="hint" DisplayName="Glint's Shrine in Droknar's Light"/>
         </MarkerCategory>
 
-        <MarkerCategory name="isa" DisplayName="Illuminating Skywatch Archipelago (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png">
+        <MarkerCategory name="isa" DisplayName="Illuminating Skywatch Archipelago (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" defaulttoggle="0">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
@@ -391,7 +389,6 @@
         </MarkerCategory>
 
         <MarkerCategory name="twt" DisplayName="The Wizard's Tower">
-        <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP ACHIEVEMENTS"/>
         <MarkerCategory name="cia" DisplayName="Comrades in Arms [H] " iconFile="Data/Images/Circle.png" behavior="3" triggerRange="5" autoTrigger="1" inGameVisibility="1">
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
             <MarkerCategory name="1" DisplayName="1. Meeting Hortensia"/>
@@ -572,7 +569,7 @@
             <MarkerCategory name="loc" IsSeparator="1" DisplayName="  | ASCALON"/>
             <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
         </MarkerCategory>
-
+        </MarkerCategory>
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>

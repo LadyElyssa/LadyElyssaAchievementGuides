@@ -1,6 +1,26 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
-        
+        <!--
+        <MarkerCategory name="hot" DisplayName="Heart of Thorns">
+
+            <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
+            </MarkerCategory>
+
+            <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+
+            <MarkerCategory name="vb" DisplayName="Verdant Brink">
+            </MarkerCategory>
+
+            <MarkerCategory name="ab" DisplayName="Auric Basin">
+            </MarkerCategory>
+
+            <MarkerCategory name="td" DisplayName="Tangled Depths">
+            </MarkerCategory>
+
+            <MarkerCategory name="ds" DisplayName="Dragon's Stand">
+            </MarkerCategory>
+        </MarkerCategory>
+        -->
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>

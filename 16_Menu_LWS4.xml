@@ -1,6 +1,32 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
-        
+        <!--
+        <MarkerCategory name="lws4" DisplayName="LWS4: Rise of Kralkatorrik">
+
+            <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
+            </MarkerCategory>
+
+            <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+
+            <MarkerCategory name="istan" DisplayName="Domain of Istan">
+            </MarkerCategory>
+
+            <MarkerCategory name="kourna" DisplayName="Domain of Kourna">
+            </MarkerCategory>
+
+            <MarkerCategory name="dragonfall" DisplayName="Dragonfall">
+            </MarkerCategory>
+
+            <MarkerCategory name="jahai" DisplayName="Jahai Bluffs">
+            </MarkerCategory>
+
+            <MarkerCategory name="sandswept" DisplayName="Sandswept Isles">
+            </MarkerCategory>
+
+            <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks">
+            </MarkerCategory>
+        </MarkerCategory>
+        -->
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>
