@@ -3,66 +3,66 @@
         <!-- FESTIVAL OF THE FOUR WINDS -->
 
         <!-- Labyrinthine Cliffs -->
-        <Trail type="leag.festivals.aspect" trailData="Data/Festivals/Festival of the Four Winds/Aspect Gatherer 1.trl" color="99ccff"/>
-        <Trail type="leag.festivals.aspect" trailData="Data/Festivals/Festival of the Four Winds/Aspect Gatherer 2.trl" color="99ccff"/>
-        <Trail type="leag.festivals.aspect" trailData="Data/Festivals/Festival of the Four Winds/Aspect Gatherer 3.trl" color="99ccff"/>
-        <Trail type="leag.festivals.aspect" trailData="Data/Festivals/Festival of the Four Winds/Aspect Gatherer 4.trl" color="99ccff"/>
-        <POI MapID="922" xpos="-5.49995" ypos="118.152" zpos="95.4218" type="leag.festivals.aspect.start" GUID="+Fk4SOWD60e9EiUzJ8RGnQ=="/>
-        <POI MapID="922" xpos="-7.00764" ypos="118.289" zpos="87.1023" type="leag.festivals.aspect.trail.1" GUID="k1tf03F+ok+sfQeKEWCKIg=="/>
-        <POI MapID="922" xpos="-3.46054" ypos="118.251" zpos="87.3816" type="leag.festivals.aspect.trail.2" GUID="WMDMADppJk6ZsQicG+xDzw=="/>
-        <POI MapID="922" xpos="-5.60922" ypos="118.042" zpos="88.3258" type="leag.festivals.aspect.trail.3" GUID="VGafxTiEME2mt7HIpfc5WQ=="/>
-        <POI MapID="922" xpos="-8.71716" ypos="4.56337" zpos="188.94" type="leag.festivals.aspect.trail.4" GUID="/mIidLRFfEmfYUfm5nq0QQ=="/>
+        <Trail type="leag.festivals.fotfw.aspect" trailData="Data/Festivals/Festival of the Four Winds/Aspect Gatherer 1.trl" color="99ccff"/>
+        <Trail type="leag.festivals.fotfw.aspect" trailData="Data/Festivals/Festival of the Four Winds/Aspect Gatherer 2.trl" color="99ccff"/>
+        <Trail type="leag.festivals.fotfw.aspect" trailData="Data/Festivals/Festival of the Four Winds/Aspect Gatherer 3.trl" color="99ccff"/>
+        <Trail type="leag.festivals.fotfw.aspect" trailData="Data/Festivals/Festival of the Four Winds/Aspect Gatherer 4.trl" color="99ccff"/>
+        <POI MapID="922" xpos="-5.49995" ypos="118.152" zpos="95.4218" type="leag.festivals.fotfw.aspect.start" GUID="+Fk4SOWD60e9EiUzJ8RGnQ=="/>
+        <POI MapID="922" xpos="-7.00764" ypos="118.289" zpos="87.1023" type="leag.festivals.fotfw.aspect.trail.1" GUID="k1tf03F+ok+sfQeKEWCKIg=="/>
+        <POI MapID="922" xpos="-3.46054" ypos="118.251" zpos="87.3816" type="leag.festivals.fotfw.aspect.trail.2" GUID="WMDMADppJk6ZsQicG+xDzw=="/>
+        <POI MapID="922" xpos="-5.60922" ypos="118.042" zpos="88.3258" type="leag.festivals.fotfw.aspect.trail.3" GUID="VGafxTiEME2mt7HIpfc5WQ=="/>
+        <POI MapID="922" xpos="-8.71716" ypos="4.56337" zpos="188.94" type="leag.festivals.fotfw.aspect.trail.4" GUID="/mIidLRFfEmfYUfm5nq0QQ=="/>
 
-        <Trail type="leag.festivals.barnstorming" trailData="Data/Festivals/Festival of the Four Winds/To Barnstorming the Cliffs.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="leag.festivals.barnstorming" trailData="Data/Festivals/Festival of the Four Winds/Barnstorming the Cliffs.trl"/>
+        <Trail type="leag.festivals.fotfw.barnstorming" trailData="Data/Festivals/Festival of the Four Winds/To Barnstorming the Cliffs.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.festivals.fotfw.barnstorming" trailData="Data/Festivals/Festival of the Four Winds/Barnstorming the Cliffs.trl"/>
 
-        <Trail type="leag.festivals.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH Start.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="ffff00"/>
-        <Trail type="leag.festivals.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="ffff00"/>
-        <Trail type="leag.festivals.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH1-2.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="ffff00"/>
-        <Trail type="leag.festivals.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="ffff00"/>
-        <Trail type="leag.festivals.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="ffff00"/>
+        <Trail type="leag.festivals.fotfw.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH Start.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="ffff00"/>
+        <Trail type="leag.festivals.fotfw.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="ffff00"/>
+        <Trail type="leag.festivals.fotfw.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH1-2.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="ffff00"/>
+        <Trail type="leag.festivals.fotfw.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="ffff00"/>
+        <Trail type="leag.festivals.fotfw.bundle" trailData="Data/Festivals/Festival of the Four Winds/TH3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="ffff00"/>
         
-        <Trail type="leag.festivals.dolyak" trailData="Data/Festivals/Festival of the Four Winds/Dolyak Flyer.trl"/>
-        <Trail type="leag.festivals.effigy" trailData="Data/Festivals/Festival of the Four Winds/Effigy Extinguisher.trl" color="ff3300" texture="Data/Images/Trails/Dashed Gradient.png"/>
+        <Trail type="leag.festivals.fotfw.dolyak" trailData="Data/Festivals/Festival of the Four Winds/Dolyak Flyer.trl"/>
+        <Trail type="leag.festivals.fotfw.effigy" trailData="Data/Festivals/Festival of the Four Winds/Effigy Extinguisher.trl" color="ff3300" texture="Data/Images/Trails/Dashed Gradient.png"/>
 
-        <Trail type="leag.festivals.koo.trail.1" trailData="Data/Festivals/Festival of the Four Winds/Kookoochoo 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
-        <Trail type="leag.festivals.koo.trail.2" trailData="Data/Festivals/Festival of the Four Winds/Kookoochoo 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
-        <Trail type="leag.festivals.koo.trail.3" trailData="Data/Festivals/Festival of the Four Winds/Kookoochoo 3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
-        <POI MapID="922" xpos="-9.18279" ypos="118.128" zpos="93.3592" type="leag.festivals.koo.start" GUID="GComWcWEGEiO7As8fbMe6w=="/>
-        <POI MapID="922" xpos="-5.93392" ypos="118.003" zpos="87.5297" type="leag.festivals.koo.trail.1" GUID="AIuvSy9K7EKRrQ6bFMhlwQ=="/>
-        <POI MapID="922" xpos="-7.26115" ypos="118.241" zpos="86.0154" type="leag.festivals.koo.trail.2" GUID="dopoFQInp0aROzbiQdXtWg=="/>
-        <POI MapID="922" xpos="-4.39908" ypos="118.152" zpos="87.3306" type="leag.festivals.koo.trail.3" GUID="8Ncj19Sf6UaXCp0Gp2J6tA=="/>
+        <Trail type="leag.festivals.fotfw.koo.trail.1" trailData="Data/Festivals/Festival of the Four Winds/Kookoochoo 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.festivals.fotfw.koo.trail.2" trailData="Data/Festivals/Festival of the Four Winds/Kookoochoo 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.festivals.fotfw.koo.trail.3" trailData="Data/Festivals/Festival of the Four Winds/Kookoochoo 3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <POI MapID="922" xpos="-9.18279" ypos="118.128" zpos="93.3592" type="leag.festivals.fotfw.koo.start" GUID="GComWcWEGEiO7As8fbMe6w=="/>
+        <POI MapID="922" xpos="-5.93392" ypos="118.003" zpos="87.5297" type="leag.festivals.fotfw.koo.trail.1" GUID="AIuvSy9K7EKRrQ6bFMhlwQ=="/>
+        <POI MapID="922" xpos="-7.26115" ypos="118.241" zpos="86.0154" type="leag.festivals.fotfw.koo.trail.2" GUID="dopoFQInp0aROzbiQdXtWg=="/>
+        <POI MapID="922" xpos="-4.39908" ypos="118.152" zpos="87.3306" type="leag.festivals.fotfw.koo.trail.3" GUID="8Ncj19Sf6UaXCp0Gp2J6tA=="/>
 
-        <POI MapID="922" xpos="-7.29017" ypos="118.247" zpos="70.4576" type="leag.festivals.man.sign" GUID="7NXkPbf/Pka68awpcIzqUA=="/>
-        <Trail type="leag.festivals.man" trailData="Data/Festivals/Festival of the Four Winds/Man Overboard.trl" color="00CC99"/>
+        <POI MapID="922" xpos="-7.29017" ypos="118.247" zpos="70.4576" type="leag.festivals.fotfw.man.sign" GUID="7NXkPbf/Pka68awpcIzqUA=="/>
+        <Trail type="leag.festivals.fotfw.man" trailData="Data/Festivals/Festival of the Four Winds/Man Overboard.trl" color="00CC99"/>
         
-        <Trail type="leag.festivals.mag.trail.1" trailData="Data/Festivals/Festival of the Four Winds/Master Aspect Gatherer 1.trl" color="99ccff"/>
-        <Trail type="leag.festivals.mag.trail.2" trailData="Data/Festivals/Festival of the Four Winds/Master Aspect Gatherer 2.trl" color="99ccff"/>
-        <POI MapID="922" xpos="0.693038" ypos="118.46" zpos="99.0999" type="leag.festivals.mag.start" GUID="Lv53gsnLF06hsuD3rRjmgw=="/>
-        <POI MapID="922" xpos="-2.98175" ypos="118.436" zpos="79.3542" type="leag.festivals.mag.trail.2" GUID="6DZNCMIXJk6KvJJ3wcHvhQ=="/>
+        <Trail type="leag.festivals.fotfw.mag.trail.1" trailData="Data/Festivals/Festival of the Four Winds/Master Aspect Gatherer 1.trl" color="99ccff"/>
+        <Trail type="leag.festivals.fotfw.mag.trail.2" trailData="Data/Festivals/Festival of the Four Winds/Master Aspect Gatherer 2.trl" color="99ccff"/>
+        <POI MapID="922" xpos="0.693038" ypos="118.46" zpos="99.0999" type="leag.festivals.fotfw.mag.start" GUID="Lv53gsnLF06hsuD3rRjmgw=="/>
+        <POI MapID="922" xpos="-2.98175" ypos="118.436" zpos="79.3542" type="leag.festivals.fotfw.mag.trail.2" GUID="6DZNCMIXJk6KvJJ3wcHvhQ=="/>
 
-        <POI MapID="922" xpos="-24.0503" ypos="119.726" zpos="134.944" type="leag.festivals.nolawc" GUID="C/UUuTslbkiMQ3DYsliGKw==" iconFile="Data/Images/Festivals/Throw Balloon.png" heightOffset="0" maxSize="32"/>
-        <POI MapID="922" xpos="-17.9983" ypos="118.324" zpos="114.77" type="leag.festivals.nolawc" GUID="f7RKG7GPYk6HQXTKTotaNA==" iconFile="Data/Images/Festivals/Target.png" heightOffset="0"/>
-        <Trail type="leag.festivals.man" trailData="Data/Festivals/Festival of the Four Winds/No One Likes a Wet Charr.trl" color="00ccff"/>
+        <POI MapID="922" xpos="-24.0503" ypos="119.726" zpos="134.944" type="leag.festivals.fotfw.nolawc" GUID="C/UUuTslbkiMQ3DYsliGKw==" iconFile="Data/Images/Festivals/Throw Balloon.png" heightOffset="0" maxSize="32"/>
+        <POI MapID="922" xpos="-17.9983" ypos="118.324" zpos="114.77" type="leag.festivals.fotfw.nolawc" GUID="f7RKG7GPYk6HQXTKTotaNA==" iconFile="Data/Images/Festivals/Target.png" heightOffset="0"/>
+        <Trail type="leag.festivals.fotfw.man" trailData="Data/Festivals/Festival of the Four Winds/No One Likes a Wet Charr.trl" color="00ccff"/>
 
-        <Trail type="leag.festivals.slalom" trailData="Data/Festivals/Festival of the Four Winds/Slalom Skimmer.trl"/>
+        <Trail type="leag.festivals.fotfw.slalom" trailData="Data/Festivals/Festival of the Four Winds/Slalom Skimmer.trl"/>
 
         <!-- The Crown Pavillion -->
-        <Trail type="leag.festivals.bb" trailData="Data/Festivals/Festival of the Four Winds/Bandit's Bane.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
-        <Trail type="leag.festivals.cc" trailData="Data/Festivals/Festival of the Four Winds/Centaur Culler.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
-        <Trail type="leag.festivals.dd" trailData="Data/Festivals/Festival of the Four Winds/Destroyer Destroyer.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
-        <Trail type="leag.festivals.flf" trailData="Data/Festivals/Festival of the Four Winds/Flame Legion Finisher.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
-        <Trail type="leag.festivals.mm" trailData="Data/Festivals/Festival of the Four Winds/Mantle Mauler.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
-        <Trail type="leag.festivals.oo" trailData="Data/Festivals/Festival of the Four Winds/Ogre Obliterator 1.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="leag.festivals.oo" trailData="Data/Festivals/Festival of the Four Winds/Ogre Obliterator 2.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="leag.festivals.oo" trailData="Data/Festivals/Festival of the Four Winds/Ogre Obliterator 3.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="leag.festivals.pp" trailData="Data/Festivals/Festival of the Four Winds/Pirate Purger.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
-        <POI MapID="929" xpos="115.22" ypos="47.7492" zpos="-8.63533" type="leag.festivals.bbbbb" GUID="YwYzolI7CUWc5cRp2hSG+Q=="/>
-        <POI MapID="929" xpos="52.6863" ypos="14.235" zpos="-112.451" type="leag.festivals.bbhh" GUID="v5jcLEnfwkKRbClJJ1gAMA=="/>
-        <POI MapID="929" xpos="-48.6115" ypos="9.99004" zpos="-114.691" type="leag.festivals.bbpop" GUID="6Q5Aj+6Z/0yNJM3JnXrB0w=="/>
-        <POI MapID="929" xpos="-114.133" ypos="0.80216" zpos="-12.1507" type="leag.festivals.bbww" GUID="5Hsh47qR10eTfRR/E9AhTA=="/>
-        <POI MapID="929" xpos="-50.8097" ypos="18.2063" zpos="98.4358" type="leag.festivals.bbkk" GUID="dHbS1ErMBk+N6vKKNt/PGA=="/>
-        <POI MapID="929" xpos="54.5273" ypos="46.939" zpos="94.5883" type="leag.festivals.bbss" GUID="TJa8EHFsxkKgBJZHCK1sxA=="/>
+        <Trail type="leag.festivals.fotfw.bb" trailData="Data/Festivals/Festival of the Four Winds/Bandit's Bane.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
+        <Trail type="leag.festivals.fotfw.cc" trailData="Data/Festivals/Festival of the Four Winds/Centaur Culler.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
+        <Trail type="leag.festivals.fotfw.dd" trailData="Data/Festivals/Festival of the Four Winds/Destroyer Destroyer.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
+        <Trail type="leag.festivals.fotfw.flf" trailData="Data/Festivals/Festival of the Four Winds/Flame Legion Finisher.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
+        <Trail type="leag.festivals.fotfw.mm" trailData="Data/Festivals/Festival of the Four Winds/Mantle Mauler.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
+        <Trail type="leag.festivals.fotfw.oo" trailData="Data/Festivals/Festival of the Four Winds/Ogre Obliterator 1.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.festivals.fotfw.oo" trailData="Data/Festivals/Festival of the Four Winds/Ogre Obliterator 2.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.festivals.fotfw.oo" trailData="Data/Festivals/Festival of the Four Winds/Ogre Obliterator 3.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.festivals.fotfw.pp" trailData="Data/Festivals/Festival of the Four Winds/Pirate Purger.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" color="ff9900"/>
+        <POI MapID="929" xpos="115.22" ypos="47.7492" zpos="-8.63533" type="leag.festivals.fotfw.bbbbb" GUID="YwYzolI7CUWc5cRp2hSG+Q=="/>
+        <POI MapID="929" xpos="52.6863" ypos="14.235" zpos="-112.451" type="leag.festivals.fotfw.bbhh" GUID="v5jcLEnfwkKRbClJJ1gAMA=="/>
+        <POI MapID="929" xpos="-48.6115" ypos="9.99004" zpos="-114.691" type="leag.festivals.fotfw.bbpop" GUID="6Q5Aj+6Z/0yNJM3JnXrB0w=="/>
+        <POI MapID="929" xpos="-114.133" ypos="0.80216" zpos="-12.1507" type="leag.festivals.fotfw.bbww" GUID="5Hsh47qR10eTfRR/E9AhTA=="/>
+        <POI MapID="929" xpos="-50.8097" ypos="18.2063" zpos="98.4358" type="leag.festivals.fotfw.bbkk" GUID="dHbS1ErMBk+N6vKKNt/PGA=="/>
+        <POI MapID="929" xpos="54.5273" ypos="46.939" zpos="94.5883" type="leag.festivals.fotfw.bbss" GUID="TJa8EHFsxkKgBJZHCK1sxA=="/>
     </POIs>
 </OverlayData>
 
