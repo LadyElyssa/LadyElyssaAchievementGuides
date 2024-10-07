@@ -1,0 +1,118 @@
+<OverlayData>
+    <POIs>
+        <!-- PROLOGUE -->
+        <!-- Meeting Notes -->
+        <POI MapID="1551" xpos="540.122" ypos="32.7152" zpos="180.783" type="leag.jw.story.meeting.1" GUID="tQtaQPTY6EWCWZ/9+LiL1w=="/>
+        <POI MapID="1551" xpos="508.151" ypos="32.5249" zpos="124.684" type="leag.jw.story.meeting.2" GUID="j8d0fRTsYUOLfSM3st1CBw=="/>
+        <POI MapID="1551" xpos="539.567" ypos="31.2228" zpos="207.96" type="leag.jw.story.meeting.3" GUID="i7RiNgVXqESY0d8e9bqhsw=="/>
+        <POI MapID="1551" xpos="508.417" ypos="31.4041" zpos="176.067" type="leag.jw.story.meeting.4" GUID="cndYa5Js50SrmJYmT9BEFw=="/>
+
+        <!-- CHAPTER 1 -->
+        <!-- Moonlit Reading -->
+        <POI MapID="1556" xpos="535.717" ypos="394.414" zpos="-563.729" type="leag.jw.story.moonlit.1" GUID="/Y0e/cpFBkugxI+3Rqq+zw=="/>
+        <POI MapID="1556" xpos="594.4251" ypos="424.1482" zpos="-540.2592" type="leag.jw.story.moonlit.2" GUID="lpk2+dvcBkmxlokYGMr6Dw=="/>
+        <POI MapID="1556" xpos="514.367" ypos="425.314" zpos="-567.099" type="leag.jw.story.moonlit.3" GUID="FYCxtnYfEUqvl4fleUoGwQ=="/>
+        <POI MapID="1556" xpos="513.34" ypos="423.955" zpos="-565.6" type="leag.jw.story.moonlit.4" GUID="3gQC4kNezEuVQxIXvYmpYw=="/>
+        
+        <!-- Behind the Ear is the Good Spot -->
+        <POI MapID="1556" xpos="510.1939" ypos="212.4846" zpos="-93.22356" type="leag.jw.story.bteitgp" GUID="tv5eqrDc4kaPmtVd5g5CuA==" info="Pet after feeding." infoRange="2" autoTrigger="1"/>
+
+        <!-- CHAPTER 3 -->
+        <!-- Penned by Pokey -->
+        <POI MapID="1557" xpos="118.993" ypos="9.25889" zpos="-119.984" type="leag.jw.story.pbp" GUID="cK8tsdcpB0ylsuzVeipMSA=="/>
+
+        <!-- Chapter 5 -->
+        <!-- It's Going to Be a Long Day -->
+        <POI MapID="1560" xpos="516.521" ypos="32.6009" zpos="122.698" type="leag.jw.story.igtbald.1" GUID="6PPPzqHuZkuorDH8K2yK6Q=="/>
+        <POI MapID="1560" xpos="521.358" ypos="36.963" zpos="130.518" type="leag.jw.story.igtbald.2" GUID="1+lBECh5wkqAK1T5t0iJyA=="/>
+        <POI MapID="1560" xpos="509.307" ypos="44.4654" zpos="136.224" type="leag.jw.story.igtbald.3" GUID="lP6p74AQcUulqFZuLtT5nA=="/>
+        <POI MapID="1560" xpos="504.423" ypos="68.3221" zpos="129.57" type="leag.jw.story.igtbald.5" GUID="qV2HJyBiV0qxTWftwwDigA=="/>
+        <POI MapID="1560" xpos="505.324" ypos="64.028" zpos="123.268" type="leag.jw.story.igtbald.4" GUID="c9Aic1RDQk6+GAPFuQBEzw=="/>
+
+        <!-- Chapter 6 -->
+        <!-- Animal Analysis -->
+        <POI MapID="1554" xpos="347.447" ypos="4.1278" zpos="-267.078" type="leag.jw.story.animal.crab" GUID="zKRUOPrCLkeeyrts4+aNkg=="/>
+        <POI MapID="1554" xpos="396.102" ypos="0.427878" zpos="-319.771" type="leag.jw.story.animal.duck" GUID="CnDBcElNpkqo3/4c3N/HIw=="/>
+        <POI MapID="1554" xpos="373.213" ypos="2.2205" zpos="-315.842" type="leag.jw.story.animal.crab" GUID="Fumo1XG6MkCPJsUKqQ27AQ=="/>
+        <POI MapID="1554" xpos="413.311" ypos="0.471292" zpos="-364.894" type="leag.jw.story.animal.crab" GUID="Gb/Ef2eDNkWiXXax85kqaQ=="/>
+        <POI MapID="1554" xpos="403.845" ypos="-0.0799114" zpos="-415.251" type="leag.jw.story.animal.duck" GUID="7qU5oUby6EqyR41AaAEeAA=="/>
+        <POI MapID="1554" xpos="313.709" ypos="0.554291" zpos="-487.654" type="leag.jw.story.animal.crab" GUID="WWq0Tj5KakOcJnQRiGBRfg=="/>
+        <POI MapID="1554" xpos="123.559" ypos="16.0879" zpos="-624.821" type="leag.jw.story.animal.duck" GUID="cyVOLMPxxEu+O5ZteU/c0A=="/>
+        <POI MapID="1554" xpos="109.777" ypos="19.2614" zpos="-654.833" type="leag.jw.story.animal.duck" GUID="4hVM/rPbeEaWHfmPXH6oXw=="/>
+        <POI MapID="1554" xpos="98.1575" ypos="16.1737" zpos="-532.43" type="leag.jw.story.animal.bee" GUID="f9JhsjGsP0mBzv4V0eykmg=="/>
+        <POI MapID="1554" xpos="216.32" ypos="15.0551" zpos="-657.838" type="leag.jw.story.animal.fawn" GUID="FtpYWhfOy0yDKKcA5y/+Kg=="/>
+        <POI MapID="1554" xpos="152.395" ypos="24.3922" zpos="-411.948" type="leag.jw.story.animal.fawn" GUID="izItJsEE9UWOfUWpPRO9qA=="/>
+        <POI MapID="1554" xpos="130.165" ypos="21.0598" zpos="-456.932" type="leag.jw.story.animal.bee" GUID="lCmss8M1m0yCCmVMXeJvyw=="/>
+        <POI MapID="1554" xpos="181.664" ypos="19.3192" zpos="-610.036" type="leag.jw.story.animal.rabbit" GUID="uDjrhcDk6k6PWnpnKabFVw=="/>
+        <POI MapID="1554" xpos="153.33" ypos="10.7568" zpos="-679.919" type="leag.jw.story.animal.frog" GUID="wUeVwFxSwEesTRf6ziWnbg=="/>
+        <POI MapID="1554" xpos="343.35" ypos="1.74585" zpos="-466.633" type="leag.jw.story.animal.duck" GUID="1V2mUQrQxEequ6G+RtU/Ow=="/>
+        <POI MapID="1554" xpos="313.227" ypos="0.470414" zpos="-446.549" type="leag.jw.story.animal.frog" GUID="Or/lHrFHPUi5+U6HpjTp3A=="/>
+        <POI MapID="1554" xpos="381.549" ypos="0.623962" zpos="-390.546" type="leag.jw.story.animal.crab" GUID="5Akt51UCIkyJF15cPtMnvQ=="/>
+        <POI MapID="1554" xpos="382.437" ypos="0.953555" zpos="-318.918" type="leag.jw.story.animal.frog" GUID="A8BYJDMUR0mtauLlS7nveA=="/>
+        <POI MapID="1554" xpos="307.647" ypos="1.25309" zpos="-250.811" type="leag.jw.story.animal.crab" GUID="3F10Rw+PjUmi2WjoptXsJQ=="/>
+        <POI MapID="1554" xpos="272.282" ypos="24.3839" zpos="-303.912" type="leag.jw.story.animal.rabbit" GUID="6Df73dQFB026bWHPV7FZwg=="/>
+        <POI MapID="1554" xpos="209.118" ypos="11.2724" zpos="-428.629" type="leag.jw.story.animal.owl" GUID="ff9sTMARk0ypWU3aX0sKnw=="/>
+        <POI MapID="1554" xpos="165.02" ypos="14.1651" zpos="-493.586" type="leag.jw.story.animal.bee" GUID="aMJCwHzR1kmaqkI7pP2bhg=="/>
+        <POI MapID="1554" xpos="56.501" ypos="31.3308" zpos="-499.947" type="leag.jw.story.animal.owl" GUID="qmmOWnh3ikWxJ5e+jowuvQ=="/>
+        <POI MapID="1554" xpos="33.8488" ypos="28.7344" zpos="-664.294" type="leag.jw.story.animal.frog" GUID="hJxvyQFC706sHF48jkSTag=="/>
+        <POI MapID="1554" xpos="275.355" ypos="20.6613" zpos="-397.233" type="leag.jw.story.animal.bee" GUID="6PSWSJ/TrkWOPcSziHCxaw=="/>
+        <POI MapID="1554" xpos="298.255" ypos="0.28796" zpos="-518.783" type="leag.jw.story.animal.crab" GUID="cfGKc6FhM0qI4ZuN7tqOcg=="/>
+        <POI MapID="1554" xpos="135.599" ypos="18.233" zpos="-586.346" type="leag.jw.story.animal.racoon" GUID="H3fMnMI1REi2KLsm97CpXw=="/>
+        <POI MapID="1554" xpos="282.253" ypos="0.582447" zpos="-481.686" type="leag.jw.story.animal.frog" GUID="kBqzFH1w40OFsEuSCSO/5w=="/>
+        <POI MapID="1554" xpos="361.927" ypos="1.05294" zpos="-447.755" type="leag.jw.story.animal.raven" GUID="m3hN5XrRGUmfWYiIIKsAZA=="/>
+        <POI MapID="1554" xpos="326.84" ypos="0.472996" zpos="-432.749" type="leag.jw.story.animal.duck" GUID="axigCoqq6keiXLnHgqJ55w=="/>
+        <POI MapID="1554" xpos="380.158" ypos="0.396433" zpos="-292.547" type="leag.jw.story.animal.raven" GUID="WKN1Aqrwf0K6F1F+Ro9OKQ=="/>
+        <POI MapID="1554" xpos="320.334" ypos="24.2373" zpos="-279.84" type="leag.jw.story.animal.racoon" GUID="NTMjWcy0B0+GxDkaMB2yTQ=="/>
+        <POI MapID="1554" xpos="168.904" ypos="4.54615" zpos="-702.969" type="leag.jw.story.animal.duck" GUID="Q2U9MHueJkqsSG8xYfOLiQ=="/>
+        <POI MapID="1554" xpos="214.936" ypos="9.51584" zpos="-533.549" type="leag.jw.story.animal.bee" GUID="LW/D9ujBvE244/2rnyDjHw=="/>
+        <POI MapID="1554" xpos="252.278" ypos="5.78438" zpos="-523.604" type="leag.jw.story.animal.fawn" GUID="ifpyywBQB0KtiUFJiWn+JQ=="/>
+        <POI MapID="1554" xpos="240.54" ypos="3.20942" zpos="-446.384" type="leag.jw.story.animal.racoon" GUID="qVmt4OrLjkaYnNJGXAK8pw=="/>
+        <POI MapID="1554" xpos="336.327" ypos="0.495192" zpos="-424.846" type="leag.jw.story.animal.raven" GUID="It0HdNQSi0WwHPhPseqWhA=="/>
+        <POI MapID="1554" xpos="374.375" ypos="1.09543" zpos="-458.152" type="leag.jw.story.animal.crab" GUID="qIQV6BknRUOyhKaP/A0tTw=="/>
+        <POI MapID="1554" xpos="374.584" ypos="0.603985" zpos="-398.711" type="leag.jw.story.animal.frog" GUID="AsgO+KtnyUCrD54y1Qs5eQ=="/>
+        <POI MapID="1554" xpos="355.134" ypos="6.99953" zpos="-384.943" type="leag.jw.story.animal.fawn" GUID="JrvYic6gB02ATdFHPyxyug=="/>
+        <POI MapID="1554" xpos="240.567" ypos="0.342408" zpos="-290.101" type="leag.jw.story.animal.frog" GUID="5IF1j9QaG0+5G+uiTyWeUg=="/>
+        <POI MapID="1554" xpos="201.941" ypos="20.2257" zpos="-357.23" type="leag.jw.story.animal.racoon" GUID="4b6hCehfGUyscVZzkmizcw=="/>
+        <POI MapID="1554" xpos="212.462" ypos="21.9195" zpos="-348.362" type="leag.jw.story.animal.fawn" GUID="JLt8OnAgek2HZhIhbDMAcg=="/>
+        <POI MapID="1554" xpos="188.972" ypos="20.2094" zpos="-596.027" type="leag.jw.story.animal.bee" GUID="TDsgbUjr4E2G+mNGwRPxMQ=="/>
+        <POI MapID="1554" xpos="114.558" ypos="17.7345" zpos="-647.696" type="leag.jw.story.animal.frog" GUID="y6B5uaNwdUSGBGElWQhu/Q=="/>
+        <POI MapID="1554" xpos="202.555" ypos="11.6975" zpos="-542.023" type="leag.jw.story.animal.racoon" GUID="FvOFcs9LvU+3XEPul6AbNw=="/>
+        <POI MapID="1554" xpos="251.914" ypos="1.50442" zpos="-454.06" type="leag.jw.story.animal.bee" GUID="f5DcVGTTxU2p49WUx9ZbXA=="/>
+        <POI MapID="1554" xpos="273.998" ypos="0.446991" zpos="-279.168" type="leag.jw.story.animal.raven" GUID="HG3HODhz4k6K4I88vmFSUg=="/>
+        <POI MapID="1554" xpos="264.777" ypos="18.184" zpos="-403.995" type="leag.jw.story.animal.owl" GUID="OK5EfYgLjESm1AeA5ikCZA=="/>
+        <POI MapID="1554" xpos="85.3443" ypos="16.5267" zpos="-534.975" type="leag.jw.story.animal.rabbit" GUID="THvDtJvi3kCGtDciFcWsbQ=="/>
+        <POI MapID="1554" xpos="81.9541" ypos="27.6624" zpos="-581.412" type="leag.jw.story.animal.bee" GUID="J6WpWFCdakWcjW9rwrvjKQ=="/>
+        
+        <!-- Storm Clouds over Janthir - Place Lightning Rods -->
+        <POI MapID="1554" xpos="715.181" ypos="0.19722" zpos="-108.282" type="leag.jw.story.lightning" GUID="93TFRqEO1UmXPZPxOY+OaA=="/>
+        <POI MapID="1554" xpos="712.096" ypos="0.920328" zpos="-41.6851" type="leag.jw.story.lightning" GUID="hvSYcY88yUKaLrVcW42bxg=="/>
+        <POI MapID="1554" xpos="747.233" ypos="0.171585" zpos="11.2222" type="leag.jw.story.lightning" GUID="dCJ0i9bkak6vFVNd1gWYGQ=="/>
+        <POI MapID="1554" xpos="698.234" ypos="4.09515" zpos="44.521" type="leag.jw.story.lightning" GUID="Gx4w28lqLU2/2dkZguNC/w=="/>
+        <POI MapID="1554" xpos="691.688" ypos="6.47891" zpos="97.392" type="leag.jw.story.lightning" GUID="Zk4X783IXUuTvqPA27PwRg=="/>
+        <POI MapID="1554" xpos="730.721" ypos="0.297271" zpos="98.0016" type="leag.jw.story.lightning" GUID="RZaIo6jXFkustpeW5w92Aw=="/>
+        <POI MapID="1554" xpos="738.788" ypos="0.144302" zpos="156.609" type="leag.jw.story.lightning" GUID="xWUtPt7l3kqnQV2AWnJK4Q=="/>
+        <POI MapID="1554" xpos="646.063" ypos="0.222391" zpos="161.332" type="leag.jw.story.lightning" GUID="kqrfMVecRkG7etjckWMhDw=="/>
+        <POI MapID="1554" xpos="740.685" ypos="0.191723" zpos="235.486" type="leag.jw.story.lightning" GUID="gWulHVW9cEKJGHtPHXelcA=="/>
+        <POI MapID="1554" xpos="673.129" ypos="0.546956" zpos="231.882" type="leag.jw.story.lightning" GUID="b5T67nTCWkqMLbnyTYAsVw=="/>
+        <POI MapID="1554" xpos="701.111" ypos="0.761761" zpos="295.477" type="leag.jw.story.lightning" GUID="GhQx1Vr/NUGs+Zrkukm6vw=="/>
+
+        <!-- Wildlife Research -->
+        <POI MapID="1554" xpos="641.919" ypos="3.55104" zpos="-678.646" type="leag.jw.story.wildlife" GUID="GD+u/uig+0GMTuQQvwQrWg=="/>
+
+        <!-- CHAPTER 8 -->
+        <!-- Foster Parent -->
+        <POI MapID="1542" xpos="181.245" ypos="15.4424" zpos="-131.927" type="leag.jw.story.foster.bucket" GUID="BZ0IOISXRUeiI2GNY/9Yww=="/>
+        <POI MapID="1542" xpos="228.14" ypos="16.0542" zpos="-88.5186" type="leag.jw.story.foster.water" GUID="nOhZx19jV0uXeCqoXSOF+g=="/>
+        <POI MapID="1542" xpos="144.877" ypos="15.2368" zpos="-133.045" type="leag.jw.story.foster.bucket" GUID="syb6injd006Yr5pg5Lwmsg=="/>
+        <POI MapID="1542" xpos="202.355" ypos="16.5296" zpos="-122.952" type="leag.jw.story.foster.medical" GUID="i9q3h9yYM0ubLGb46dDGVg=="/>
+        <POI MapID="1542" xpos="211.834" ypos="18.1141" zpos="-131.413" type="leag.jw.story.foster.food" GUID="63htTViWekuO1TLPAFYa3Q=="/>
+        <POI MapID="1542" xpos="205.833" ypos="15.3274" zpos="-106.342" type="leag.jw.story.foster.food" GUID="UsMjOfRIdUCStf2k3Ull8Q=="/>
+
+        <!-- CHAPTER 10 -->
+        <!-- Reflective Reading -->
+        <POI MapID="1553" xpos="9.43401" ypos="361.964" zpos="-202.651" type="leag.jw.story.reflective.1" GUID="3JQ0xE7KMkGGl9RV4Tndew=="/>
+        <POI MapID="1553" xpos="15.7836" ypos="362.107" zpos="-177.903" type="leag.jw.story.reflective.3" GUID="XwMqGom9R0are5uq6J3zAA=="/>
+        <POI MapID="1547" xpos="479.88" ypos="222.892" zpos="-51.8897" type="leag.jw.story.reflective.2" GUID="gbfhN50r0E+zkWD4pqFk7A=="/>
+        
+    </POIs>
+</OverlayData>
