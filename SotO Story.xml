@@ -1,0 +1,119 @@
+<OverlayData>
+    <POIs>
+        <!-- PROLOGUE -->
+        <!-- Beta Tester -->
+        <!-- Asura -->
+        <POI MapID="650" xpos="-513.967" ypos="327.8" zpos="639.359" type="leag.soto.story.beta.marker" GUID="z5UiL/4HYEqjlbETEYpC1A=="/>
+        <!-- Charr -->
+        <POI MapID="371" xpos="305.409" ypos="131.69" zpos="292.414" type="leag.soto.story.beta.marker" GUID="5WMCdf60Uk2sqtFHeg8B9w=="/>
+        <!-- Human -->
+        <POI MapID="248" xpos="205.689" ypos="75.3983" zpos="168.235" type="leag.soto.story.beta.marker" GUID="Ma9Qrvr4Dkeb+VtlDyyeRw=="/>
+        <!-- Norn -->
+        <POI MapID="375" xpos="73.5789" ypos="341.972" zpos="-343.785" type="leag.soto.story.beta.marker" GUID="zkZDMxrUFUad3lgd6uhKZg=="/>
+        <!-- Sylvari -->
+        <POI MapID="647" xpos="39.9385" ypos="1.14038" zpos="47.8786" type="leag.soto.story.beta.marker" GUID="WL81cKwKUEOpAplzIHPGLQ=="/>
+
+        <!-- CHAPTER 1 -->
+        <!-- A Shadow in the Night -->
+        <Trail type="leag.soto.story.asitn" trailData="Data/SotO/Story/A Shadow in the Night.trl"/>
+
+        <!-- CHAPTER 2 -->
+        <!-- Written Ward -->
+        <POI MapID="1501" xpos="1044.14" ypos="96.325" zpos="-326.382" type="leag.soto.story.ww.letter.marker" GUID="rRTFyw32ykmF42tVeiYBfw=="/>
+        <POI MapID="1501" xpos="921.937" ypos="176.329" zpos="-403.846" type="leag.soto.story.ww.report.marker" GUID="x+XxdDkgTUumlfhF4DswxQ=="/>
+
+
+        <!-- CHAPTER 3 -->
+        <!-- Reader of Notes -->
+        <POI MapID="1503" xpos="1029.21" ypos="262.927" zpos="109.074" type="leag.soto.story.ron.letter.marker" GUID="XBUZewsmWEOPFBQJIozQZA=="/>
+        <POI MapID="1503" xpos="971.5" ypos="269.525" zpos="213.216" type="leag.soto.story.ron.letter.marker" GUID="9H5lRtnozU2JoQxLDUPPWw=="/>
+
+        <!-- CHAPTER  5 -->
+
+
+
+        <!-- CHAPTER  6 -->
+        <!-- Astral Gofer -->
+        <Trail type="leag.soto.story.gofer.one.trail" trailData="Data/SotO/Story/Astral Gofer - All.trl"/>
+        <Trail type="leag.soto.story.gofer.zojja.trail" trailData="Data/SotO/Story/Astral Gofer - Zojja.trl"/>
+        <Trail type="leag.soto.story.gofer.skritt.trail" trailData="Data/SotO/Story/Astral Gofer - Skritt.trl"/>
+        <Trail type="leag.soto.story.gofer.frode.trail" trailData="Data/SotO/Story/Astral Gofer - Frode.trl"/>
+        <Trail type="leag.soto.story.keys.balance" trailData="Data/SotO/Story/Key - Balance.trl"/>
+        <Trail type="leag.soto.story.keys.celestial" trailData="Data/SotO/Story/Key - Celestial.trl"/>
+        <Trail type="leag.soto.story.keys.knowledge" trailData="Data/SotO/Story/Key - Knowledge.trl"/>
+        <Trail type="leag.soto.story.keys.natural" trailData="Data/SotO/Story/Key - Natural.trl"/>
+        <Trail type="leag.soto.story.keys.obscure" trailData="Data/SotO/Story/Key - Obscure.trl"/>
+        <Trail type="leag.soto.story.keys.strength" trailData="Data/SotO/Story/Key - Strength.trl"/>
+        <POI MapID="1506" xpos="-662.217" ypos="862.933" zpos="671.747" type="leag.soto.story.gofer.frode.marker" GUID="g+h9quHSTk2Zbtl5mLKQtw=="/>
+        <POI MapID="1506" xpos="-612.311" ypos="847.899" zpos="636.003" type="leag.soto.story.gofer.skritt.marker" GUID="EoH39FTXj0WUdU+JblteOQ=="/>
+        <POI MapID="1506" xpos="-654.158" ypos="832.229" zpos="503.863" type="leag.soto.story.gofer.skritt.marker" GUID="qgi9UkaCiUOrmCwi9U1oIA=="/>
+        <POI MapID="1506" xpos="-888.873" ypos="832.129" zpos="504.383" type="leag.soto.story.gofer.skritt.marker" GUID="mpfbq1hGMEa5LGkGtUMd8Q=="/>
+        <POI MapID="1506" xpos="-928.226" ypos="831.967" zpos="647.747" type="leag.soto.story.gofer.skritt.marker" GUID="tOOnjkme70OZKX5lOddFvw=="/>
+        <POI MapID="1506" xpos="-634.867" ypos="833.104" zpos="618.051" type="leag.soto.story.gofer.zojja.marker" GUID="w8m/OWH5y0qrwwoMsJY9YQ=="/>
+        <POI MapID="1506" xpos="-600.199" ypos="832.451" zpos="535.759" type="leag.soto.story.gofer.zojja.marker" GUID="INTu/3U8jkSjVo1NaWKw4Q=="/>
+        <POI MapID="1506" xpos="-689.219" ypos="831.516" zpos="561.071" type="leag.soto.story.gofer.zojja.marker" GUID="sJvF58tALkKMX5VYSaGbQw=="/>
+        <POI MapID="1506" xpos="-682.004" ypos="831.193" zpos="592.417" type="leag.soto.story.gofer.zojja.marker" GUID="I0VuPH4Hr0Ow6b3yMkRDHg=="/>
+        <POI MapID="1506" xpos="-935.906" ypos="833.031" zpos="515.965" type="leag.soto.story.gofer.zojja.marker" GUID="iwcdjzeYUkSzIBNqrksjtA=="/>
+        <POI MapID="1506" xpos="-821.845" ypos="865.433" zpos="666.474" type="leag.soto.story.gofer.zojja.marker" GUID="+Rkd8CG+JU+P+IA3/0JD8Q=="/>
+        <POI MapID="1506" xpos="-930.814" ypos="862.932" zpos="627.742" type="leag.soto.story.gofer.zojja.marker" GUID="0Gad/Sg2UkiGYjcIgQgxxA=="/>
+        <POI MapID="1506" xpos="-1013.07" ypos="832.051" zpos="680.324" type="leag.soto.story.gofer.zojja.marker" GUID="RaTfMrbbm0SzZ30gyIIAgQ=="/>
+        <POI MapID="1506" xpos="-935.308" ypos="830.716" zpos="667.254" type="leag.soto.story.gofer.zojja.marker" GUID="VJfUM3dai0++Ojn/gHZkYw=="/>
+        <POI MapID="1506" xpos="-874.957" ypos="830.715" zpos="519.649" type="leag.soto.story.gofer.zojja.marker" GUID="2UtU/gYMBE6N+1ImeLDFHg=="/>
+        <POI MapID="1506" xpos="-683.849" ypos="832.744" zpos="515.444" type="leag.soto.story.gofer.zojja.marker" GUID="/0pPtZGwRk6uXgSqUcCpDA=="/>
+        <POI MapID="1506" xpos="-797.077" ypos="863.006" zpos="620.431" type="leag.soto.story.gofer.frode.marker" GUID="8QvdfC/Wh06Y4+PHyaLWLA=="/>
+        <POI MapID="1506" xpos="-766.745" ypos="863.006" zpos="622.621" type="leag.soto.story.gofer.skritt.marker" GUID="wi4wPfw+fk6E2Tgu6810eg=="/>
+        <POI MapID="1506" xpos="-860.838" ypos="862.972" zpos="613.379" type="leag.soto.story.gofer.frode.marker" GUID="9vyIi5t+uEeT1c6qH3kSUA=="/>
+        <POI MapID="1506" xpos="-903.931" ypos="862.962" zpos="579.869" type="leag.soto.story.gofer.frode.marker" GUID="LoH8DhOC70WTZAZxy2hwAA=="/>
+        <POI MapID="1506" xpos="-1002.46" ypos="832.066" zpos="674.705" type="leag.soto.story.gofer.frode.marker" GUID="zg3J3keAw0qdArNFniwgog=="/>
+        <POI MapID="1506" xpos="-678.526" ypos="830.858" zpos="553.812" type="leag.soto.story.gofer.frode.marker" GUID="3ZxUMDBAFUCzmEQugg9h9Q=="/>
+        <POI MapID="1506" xpos="-622.314" ypos="830.858" zpos="521.256" type="leag.soto.story.gofer.frode.marker" GUID="C7LwEEMcVUiwUF7Or7rmCA=="/>
+        <POI MapID="1506" xpos="-565.569" ypos="830.967" zpos="585.603" type="leag.soto.story.gofer.frode.marker" GUID="fqc3aJSAWEWJNoQIJoAD/w=="/>
+        <POI MapID="1506" xpos="-605.07" ypos="830.881" zpos="620.678" type="leag.soto.story.gofer.frode.marker" GUID="XRdPFZuW+kukBPJzKBnzdg=="/>
+        <POI MapID="1506" xpos="-558.981" ypos="830.858" zpos="671.72" type="leag.soto.story.gofer.frode.marker" GUID="LUGovbpC2ES9nKcNZ5tJ3A=="/>
+        <POI MapID="1506" xpos="-625.245" ypos="863.014" zpos="617.036" type="leag.soto.story.gofer.frode.marker" GUID="etb4u5jf2EOBk5ioceqdDQ=="/>
+        <POI MapID="1506" xpos="-656.828" ypos="863.026" zpos="576.038" type="leag.soto.story.gofer.frode.marker" GUID="1yA3NJl5I0mE1tzHd8XtAA=="/>
+        <POI MapID="1506" xpos="-759.264" ypos="830.678" zpos="529.705" type="leag.soto.story.gofer.frode.marker" GUID="t8zq7NbbK0a6oqtzjWnCgQ=="/>
+        <POI MapID="1506" xpos="-707.383" ypos="830.669" zpos="498.634" type="leag.soto.story.gofer.frode.marker" GUID="KWgnpfkN90GAXCmmfuwEKQ=="/>
+        <POI MapID="1506" xpos="-759.765" ypos="830.724" zpos="449.396" type="leag.soto.story.gofer.frode.marker" GUID="2tjw0U2IQE6+z0CT83yhEA=="/>
+        <POI MapID="1506" xpos="-848.186" ypos="830.836" zpos="472.354" type="leag.soto.story.gofer.frode.marker" GUID="hPOSLnNYT0SWZexU7H6n3w=="/>
+        <POI MapID="1506" xpos="-861.845" ypos="862.211" zpos="577.184" type="leag.soto.story.gofer.frode.marker" GUID="e5qlnVM6EkeYgbQDg3JU3A=="/>
+
+        <!-- Tower Snoop -->
+        <Trail type="leag.soto.story.snoop.trail" trailData="Data/SotO/Story/Tower Snoop.trl"/>
+        <POI MapID="1506" xpos="-746.382" ypos="866.898" zpos="690.063" type="leag.soto.story.snoop.marker" GUID="bgqHjAna+Ey3GATzoWT4bQ=="/>
+        <POI MapID="1506" xpos="-823.243" ypos="866.135" zpos="674.807" type="leag.soto.story.snoop.marker" GUID="jbv6SA16VEONn8nEFgUqug=="/>
+        <POI MapID="1506" xpos="-820.378" ypos="866.701" zpos="662.061" type="leag.soto.story.snoop.marker" GUID="tCYa/zBAiEOosxPpPEI4Hw=="/>
+        <POI MapID="1506" xpos="-636.001" ypos="863.9" zpos="618.914" type="leag.soto.story.snoop.marker" GUID="ZofjqI8tmkiT0B6KZtc5Ew=="/>
+        <POI MapID="1506" xpos="-555.305" ypos="832.357" zpos="682.722" type="leag.soto.story.snoop.marker" GUID="Cr58+BvSgk605+73QzS9jw=="/>
+        <POI MapID="1506" xpos="-563.826" ypos="832.187" zpos="599.644" type="leag.soto.story.snoop.marker" GUID="YUm4y4wI50Gsl8voHJBZvg=="/>
+        <POI MapID="1506" xpos="-554.927" ypos="830.971" zpos="611.334" type="leag.soto.story.snoop.marker" GUID="Y2xjrmxy5kqWF1gJCe06Gg=="/>
+        <POI MapID="1506" xpos="-557.505" ypos="831.812" zpos="577.77" type="leag.soto.story.snoop.marker" GUID="bERY8y+siE+OE9IPBy1bBQ=="/>
+        <POI MapID="1506" xpos="-626.165" ypos="833.496" zpos="602.261" type="leag.soto.story.snoop.marker" GUID="wj83J3tcZ0mEviRf7h3f9g=="/>
+        <POI MapID="1506" xpos="-647.019" ypos="833.142" zpos="616.465" type="leag.soto.story.snoop.marker" GUID="B62pS0j2lEuPXZ9YFm4QOg=="/>
+        <POI MapID="1506" xpos="-635.669" ypos="832.287" zpos="593.206" type="leag.soto.story.snoop.marker" GUID="jnUsqTC9okC0hE52z2Xu9w=="/>
+        <POI MapID="1506" xpos="-587.093" ypos="832.066" zpos="536.23" type="leag.soto.story.snoop.marker" GUID="O1QSGfogPkK6QhlPWc5TbA=="/>
+        <POI MapID="1506" xpos="-645.07" ypos="832.069" zpos="490.776" type="leag.soto.story.snoop.marker" GUID="Fni3RbCaj0KDtaty3akt0w=="/>
+        <POI MapID="1506" xpos="-684.473" ypos="832.836" zpos="516.599" type="leag.soto.story.snoop.marker" GUID="pleqQwTNMU2A8QyKcTNn9w=="/>
+        <POI MapID="1506" xpos="-948.666" ypos="833.226" zpos="649.996" type="leag.soto.story.snoop.marker" GUID="pb6Ozi5vHkyGfFJWwXavAA=="/>
+        <POI MapID="1506" xpos="-945.95" ypos="831.674" zpos="658.132" type="leag.soto.story.snoop.marker" GUID="rqf6fRPlNUa3weGBGsezMA=="/>
+        <POI MapID="1506" xpos="-1002.65" ypos="832.051" zpos="690.669" type="leag.soto.story.snoop.marker" GUID="GU17vHZmX0q/CJHeI2rgUA=="/>
+        <POI MapID="1506" xpos="-1019.9" ypos="833.019" zpos="683.67" type="leag.soto.story.snoop.marker" GUID="R7bgECJFcEepQJHG+8aFoQ=="/>
+        <POI MapID="1506" xpos="-1005.84" ypos="847.217" zpos="680.891" type="leag.soto.story.snoop.marker" GUID="7NFyrn+szEaWaU3A+7DfSw=="/>
+
+        <!-- CHAPTER  7 -->
+        <POI MapID="1507" xpos="390.654" ypos="384.999" zpos="417.136" type="leag.soto.story.compassion" GUID="MlyBfBGZ0UqqExE1w9hNqw=="/>
+
+
+        <!-- CHAPTER  -->
+
+
+        <!-- CHAPTER  -->
+
+
+        <!-- CHAPTER  -->
+
+
+        <!-- CHAPTER  -->
+
+    </POIs>
+</OverlayData>
