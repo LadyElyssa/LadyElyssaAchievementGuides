@@ -13,9 +13,11 @@
         <!-- Sylvari -->
         <POI MapID="647" xpos="39.9385" ypos="1.14038" zpos="47.8786" type="leag.soto.story.beta.marker" GUID="WL81cKwKUEOpAplzIHPGLQ=="/>
 
+
         <!-- CHAPTER 1 -->
         <!-- A Shadow in the Night -->
         <Trail type="leag.soto.story.asitn" trailData="Data/SotO/Story/A Shadow in the Night.trl"/>
+
 
         <!-- CHAPTER 2 -->
         <!-- Written Ward -->
@@ -27,9 +29,6 @@
         <!-- Reader of Notes -->
         <POI MapID="1503" xpos="1029.21" ypos="262.927" zpos="109.074" type="leag.soto.story.ron.letter.marker" GUID="XBUZewsmWEOPFBQJIozQZA=="/>
         <POI MapID="1503" xpos="971.5" ypos="269.525" zpos="213.216" type="leag.soto.story.ron.letter.marker" GUID="9H5lRtnozU2JoQxLDUPPWw=="/>
-
-        <!-- CHAPTER  5 -->
-
 
 
         <!-- CHAPTER  6 -->
@@ -100,20 +99,92 @@
         <POI MapID="1506" xpos="-1019.9" ypos="833.019" zpos="683.67" type="leag.soto.story.snoop.marker" GUID="R7bgECJFcEepQJHG+8aFoQ=="/>
         <POI MapID="1506" xpos="-1005.84" ypos="847.217" zpos="680.891" type="leag.soto.story.snoop.marker" GUID="7NFyrn+szEaWaU3A+7DfSw=="/>
 
+
         <!-- CHAPTER  7 -->
+        <!-- Compassion -->
         <POI MapID="1507" xpos="390.654" ypos="384.999" zpos="417.136" type="leag.soto.story.compassion" GUID="MlyBfBGZ0UqqExE1w9hNqw=="/>
 
 
-        <!-- CHAPTER  -->
+        <!-- CHAPTER 8 -->
+        <!-- Tracking with Gladium -->
+        <Trail type="leag.soto.story.tracking" trailData="Data/SotO/Story/Tracking with Gladium.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" color="999999" fadeNear="600" fadeFar="1200"/>
 
 
-        <!-- CHAPTER  -->
+        <!-- CHAPTER 11 -->
+        <!-- Heavy Air -->
+        <POI MapID="1524" xpos="411.3628" ypos="240.063" zpos="-429.6292" type="leag.soto.story.heavy" GUID="OVuPc3iSE0qQiWlsAEAWlw=="/>
 
 
-        <!-- CHAPTER  -->
+        <!-- CHAPTER 13 -->
+        <!-- In It Together -->
+        <POI MapID="1525" xpos="644.4995" ypos="161.0562" zpos="248.5216" type="leag.soto.story.iit" GUID="8HX/Q6pf50qBQ28M03xGiw=="/>
+        <Trail type="leag.soto.story.iit" trailData="Data/SotO/Story/In It Together.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" fadeNear="600" fadeFar="1200"/>
 
 
-        <!-- CHAPTER  -->
+        <!-- CHAPTER 14 -->
+        <!-- Salute the Troops -->
+        <POI MapID="1534" xpos="577.017" ypos="249.782" zpos="-469.26" type="leag.soto.story.salute" GUID="l19878wFQEKjgE3bkWt30w=="/>
+        <POI MapID="1534" xpos="589.612" ypos="249.556" zpos="-471.708" type="leag.soto.story.salute" GUID="jGjiNM1DrkqrDGPKLLUbYw=="/>
+
+        <!-- Astral Ward Arsenal -->
+        <Trail type="leag.soto.story.arsenal.tablet" trailData="Data/SotO/Story/Astral Ward Arsenal - Tablet.trl"/>
+        <Trail type="leag.soto.story.arsenal.scroll" trailData="Data/SotO/Story/Astral Ward Arsenal - Scroll.trl"/>
+        <Trail type="leag.soto.story.arsenal.tome" trailData="Data/SotO/Story/Astral Ward Arsenal - Tome.trl"/>
+        <Trail type="leag.soto.story.arsenal.carapace" trailData="Data/SotO/Story/Astral Ward Arsenal - Carapace.trl"/>
+        <Trail type="leag.soto.story.arsenal.weapons" trailData="Data/SotO/Story/Astral Ward Arsenal - Weapons.trl"/>
+        <POI MapID="1526" xpos="311.89" ypos="186.293" zpos="155.286" type="leag.soto.story.arsenal.tablet" GUID="bajhkFJBYEyd1Zn9sOT3Yw=="/>
+        <POI MapID="1526" xpos="372.751" ypos="188.294" zpos="182.882" type="leag.soto.story.arsenal.scroll" GUID="oNEnDK+DD0yXfCm2Ta/LTQ=="/>
+        <POI MapID="1526" xpos="62.3583" ypos="208.608" zpos="303.93" type="leag.soto.story.arsenal.tome" GUID="80V/WeqUNUO9p1ZVVm/A6g=="/>
+        <POI MapID="1526" xpos="-134.022" ypos="224.496" zpos="-192.944" type="leag.soto.story.arsenal.carapace" GUID="O1fLn0bXn0GRHmjYvYgd+Q=="/>
+        <POI MapID="1526" xpos="691.017" ypos="215.601" zpos="-436.134" type="leag.soto.story.arsenal.weapons" GUID="Y5gYM3W7iEuRCr1ldkiisA=="/>
+        <POI MapID="1526" xpos="-171.33" ypos="321.92" zpos="-471.265" type="leag.soto.story.arsenal.wp" GUID="9YNmAl7un06dp1pjUo4m6g==" copy="[&BGYOAAA=]" copy-message="Astral Ward Camp Waypoint"/>
+
+
+        <!-- CHAPTER 15 -->
+        <!-- Krytpis Souvenirs -->
+        <Trail type="leag.soto.story.souvenirs" trailData="Data/SotO/Story/Kryptis Souvenirs.trl"/>
+        <POI MapID="1532" xpos="-241.1323" ypos="217.8914" zpos="213.7664" type="leag.soto.story.souvenirs" GUID="9I2FO6d5u0Gnh0NN8VDnoQ==" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+        <POI MapID="1532" xpos="-233.3258" ypos="189.1834" zpos="12.16291" type="leag.soto.story.souvenirs" GUID="u+XBPllsVEGH6CSBaGACDw==" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+        <POI MapID="1532" xpos="-188.6974" ypos="181.6965" zpos="181.7334" type="leag.soto.story.souvenirs" GUID="BnRq6rl8hEuVvwztr8pnKw==" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+        <POI MapID="1532" xpos="-154.9191" ypos="198.6013" zpos="153.1796" type="leag.soto.story.souvenirs" GUID="8sa/tpY5w0qHW36XOrFlsQ==" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+        <POI MapID="1532" xpos="-167.7256" ypos="225.9082" zpos="53.06709" type="leag.soto.story.souvenirs" GUID="wtZUE9Qgkk2wo3z/6FmBPA==" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+
+        <!-- Your Majesty -->
+        <POI MapID="1532" xpos="-127.7086" ypos="228.2331" zpos="76.04633" type="leag.soto.story.majesty" GUID="ZQs8MK0w3ES7zC/fh0039g=="/>
+
+
+        <!-- CHAPTER 18 -->
+        <!-- Astral Salute -->
+        <POI MapID="1539" xpos="-901.7637" ypos="62.31989" zpos="12.49542" type="leag.soto.story.astral" UID="aI52Mx7QtUixBeJvJF6wew=="/>
+        <!-- Voracious Reader --> 
+        <POI MapID="1539" xpos="-835.786" ypos="62.3199" zpos="79.3398" type="leag.soto.story.voracious.council" GUID="vfkUy7WJiEab0NFRbzC1Yg=="/>
+        <POI MapID="1539" xpos="-884.054" ypos="126.8" zpos="89.9743" type="leag.soto.story.voracious.books" GUID="ibWgGWI+4EWt5TeeBTw+qg=="/>
+        <POI MapID="1539" xpos="-855.573" ypos="126.888" zpos="89.9662" type="leag.soto.story.voracious.books" GUID="zfwS5Ux6OkeaEFt5x+HINw=="/>
+        <POI MapID="1539" xpos="-831.307" ypos="126.22" zpos="89.9662" type="leag.soto.story.voracious.books" GUID="MzXiVCfGy0ikqpvtlrzqyQ=="/>
+        <POI MapID="1539" xpos="-843.105" ypos="126.888" zpos="16.7832" type="leag.soto.story.voracious.books" GUID="oxlu0p5Yo0qYBXTq4fS9cQ=="/>
+        <POI MapID="1539" xpos="-863.944" ypos="126.8" zpos="16.8437" type="leag.soto.story.voracious.books" GUID="ZqI7v3pvik6L+bjZcdd8PQ=="/>
+        <POI MapID="1539" xpos="-897.011" ypos="126.907" zpos="16.7909" type="leag.soto.story.voracious.books" GUID="8MKKkkjCek2LSwUOtmoWLg=="/>
+        <POI MapID="1539" xpos="-841.411" ypos="159.291" zpos="-14.6503" type="leag.soto.story.voracious.sealed" GUID="jm/cfF6d/kCFQkwsj9Zuqw=="/>
+        <POI MapID="1539" xpos="-838.191" ypos="219.126" zpos="78.1629" type="leag.soto.story.voracious.throne" GUID="6tupdKRhSUOwZpzWVGotSQ=="/>
+        <!-- Your Midnight King Says... -->
+        <POI MapID="1539" xpos="-949.184" ypos="223.607" zpos="41.3717" type="leag.soto.story.king" GUID="rIS91q5pMU65C5Zw8738Gg=="/>
+        <!-- Midnight Rest -->
+        <POI MapID="1539" xpos="-975.2612" ypos="235.311" zpos="41.0921" type="leag.soto.story.rest" GUID="cZg1TpDZmkCmtJ/I5fLc6Q=="/>
+
+        <!-- CHAPTER 19 -->
+        <!-- Sovereign of Nayos -->
+        <Trail type="leag.soto.story.sovereign" trailData="Data/SotO/Story/Sovereign of Nayos.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png"/>
+
+        <!-- A Sign of Respect -->
+        <POI MapID="1537" xpos="39.3916" ypos="437.652" zpos="-175.666" type="leag.soto.story.respect" GUID="qMPHH6ZypEm17xwg3OpP2A=="/>
+
+        <!-- Tower Bibliophile -->
+        <Trail type="leag.soto.story.bibliophile" trailData="Data/SotO/Story/Tower Bibliophile.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" color="33CCFF" alpha="1.0"/>
+        <POI MapID="1537" xpos="59.7953" ypos="407.415" zpos="-171.661" type="leag.soto.story.bibliophile.lyhr" GUID="jgd0X2OoI0mp1Ce1sXhNmg=="/>
+        <POI MapID="1537" xpos="8.48476" ypos="408.221" zpos="-188.173" type="leag.soto.story.bibliophile.sorrow" GUID="K7MtHpawYU6SRu/f4TM7NA=="/>
+        <POI MapID="1537" xpos="-8.47154" ypos="407.974" zpos="-197.071" type="leag.soto.story.bibliophile.isgarren" GUID="jBfpBf58g0KJMS7F8IuJRg=="/>
+        <POI MapID="1537" xpos="73.1208" ypos="438.622" zpos="-199.994" type="leag.soto.story.bibliophile.livia" GUID="rQccvpVf8EmSRVQA3Ob5WA=="/>
+
 
     </POIs>
 </OverlayData>

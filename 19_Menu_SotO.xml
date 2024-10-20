@@ -65,6 +65,52 @@
             <MarkerCategory name="ch7" IsSeparator="1" DisplayName="CHAPTER 7"/>
             <MarkerCategory name="compassion" DisplayName="Compassion for a Friend" achievementId="7277" iconFile="Data/Images/Emote - Sit.png" alpha="0.8"/>
 
+            <MarkerCategory name="ch8" IsSeparator="1" DisplayName="CHAPTER 8"/>
+            <MarkerCategory name="tracking" DisplayName="Tracking with Gladium" achievementId="7137"/>
+
+            <MarkerCategory name="ch11" IsSeparator="1" DisplayName="CHAPTER 11"/>
+            <MarkerCategory name="heavy" DisplayName="Heavy Air" achievementId="7698" iconFile="Data/Images/Emote - Sit.png" alpha="0.8"/>
+
+            <MarkerCategory name="ch13" IsSeparator="1" DisplayName="CHAPTER 13"/>
+            <MarkerCategory name="iit" DisplayName="In It Together" achievementId="7680" iconFile="Data/Images/Icons/Talk.png" alpha="0.8"/>
+
+            <MarkerCategory name="ch14" IsSeparator="1" DisplayName="CHAPTER 14"/>
+            <MarkerCategory name="salute" DisplayName="Salute the Troops" achievementId="7805" iconFile="Data/Images/Emote - Salute.png" alpha="0.8"/>
+            <MarkerCategory name="arsenal" DisplayName="Astral Ward Arsenal" achievementId="7781">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="achieves" IsSeparator="1" DisplayName="ACHIEVEMENTS"/>
+                <MarkerCategory name="tablet" DisplayName="Mysterious Tablet" iconFile="Data/Images/Numbers/1.png"/>
+                <MarkerCategory name="scroll" DisplayName="Ancient Scroll" iconFile="Data/Images/Numbers/2.png"/>
+                <MarkerCategory name="tome" DisplayName="Ancient Tome" iconFile="Data/Images/Numbers/3.png"/>
+                <MarkerCategory name="carapace" DisplayName="Shattered Kryptis Carapace" iconFile="Data/Images/Numbers/4.png"/>
+                <MarkerCategory name="weapons" DisplayName="Ancient Scroll of Astral Ward Weapons" iconFile="Data/Images/Numbers/5.png"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="ch15" IsSeparator="1" DisplayName="CHAPTER 15"/>
+            <MarkerCategory name="souvenirs" DisplayName="Kryptis Souvenirs" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" achievementId="7772"/>
+            <MarkerCategory name="majesty" DisplayName="Your Majesty" achievementId="7841" iconFile="Data/Images/Emote - Kneel.png" alpha="0.8"/>
+
+            <MarkerCategory name="ch18" IsSeparator="1" DisplayName="CHAPTER 18"/>
+            <MarkerCategory name="astral" DisplayName="Astral Salute" achievementId="7966" iconFile="Data/Images/Emote - Salute.png" alpha="0.8"/>
+            <MarkerCategory name="voracious" DisplayName="Voracious Reader" achievementId="8047" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5">
+                <MarkerCategory name="council" DisplayName="Memory in the Council of Houses chamber"/>
+                <MarkerCategory name="sealed" DisplayName="Memory in the sealed chamber"/>
+                <MarkerCategory name="throne" DisplayName="Memory outside the throne room"/>
+                <MarkerCategory name="books" DisplayName="Books"/>
+            </MarkerCategory>
+            <MarkerCategory name="king" DisplayName="Your Midnight King Says..." achievementId="8012" iconFile="Data/Images/Emote - Kneel.png" alpha="0.8"/>
+            <MarkerCategory name="rest" DisplayName="Midnight Rest" achievementId="7955" iconFile="Data/Images/Emote - Sit.png" alpha="0.8"/>
+
+            <MarkerCategory name="ch19" IsSeparator="1" DisplayName="CHAPTER 19"/>
+            <MarkerCategory name="sovereign" DisplayName="Sovereign of Nayos"/>
+            <MarkerCategory name="respect" DisplayName="A Sign of Respect" achievementId="8097"/>
+            <MarkerCategory name="bibliophile" DisplayName="Tower Bibliophile" achievementId="8062" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5">
+                <MarkerCategory name="livia" DisplayName="Find the letter to Livia"/>
+                <MarkerCategory name="isgarren" DisplayName="Find the note to Isgarren"/>
+                <MarkerCategory name="sorrow" DisplayName="Find Waiting Sorrow's journal"/>
+                <MarkerCategory name="lyhr" DisplayName="Find Lyhr's note"/>
+            </MarkerCategory>
         </MarkerCategory>
 
         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
