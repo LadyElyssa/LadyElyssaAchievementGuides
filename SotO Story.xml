@@ -155,7 +155,7 @@
 
         <!-- CHAPTER 18 -->
         <!-- Astral Salute -->
-        <POI MapID="1539" xpos="-901.7637" ypos="62.31989" zpos="12.49542" type="leag.soto.story.astral" UID="aI52Mx7QtUixBeJvJF6wew=="/>
+        <POI MapID="1539" xpos="-901.7637" ypos="62.31989" zpos="12.49542" type="leag.soto.story.astral" GUID="aI52Mx7QtUixBeJvJF6wew=="/>
         <!-- Voracious Reader --> 
         <POI MapID="1539" xpos="-835.786" ypos="62.3199" zpos="79.3398" type="leag.soto.story.voracious.council" GUID="vfkUy7WJiEab0NFRbzC1Yg=="/>
         <POI MapID="1539" xpos="-884.054" ypos="126.8" zpos="89.9743" type="leag.soto.story.voracious.books" GUID="ibWgGWI+4EWt5TeeBTw+qg=="/>
