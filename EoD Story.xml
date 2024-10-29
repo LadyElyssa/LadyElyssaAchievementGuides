@@ -1,0 +1,247 @@
+<OverlayData>
+    <POIs>
+        <!-- Convergence -->
+        <!-- Good to Sea You -->
+        <POI MapID="1370" xpos="-265.1198" ypos="4.547573" zpos="154.6524" type="leag.eod.story.gtsy.eotn" GUID="5iOiktVGbE2lsOK++mwi7w=="/>
+
+        <!-- Chapter 1 -->
+        <!-- Dear Diary -->
+        <POI MapID="1457" xpos="-89.937" ypos="53.8678" zpos="-431.527" type="leag.eod.story.diary" GUID="Chy7Oy5mIkKQvqQyJ/+Sow=="/>
+        <!-- The Great Escape -->
+        <Trail type="leag.eod.story.escape" trailData="Data/EoD/Story/The Great Escape.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="0"/>
+
+        <!-- Chapter 2 -->
+        <!-- Mantis Pose -->
+        <Trail type="leag.eod.story.mantis" trailData="Data/EoD/Story/Mantis Pose.trl"/> 
+        <POI MapID="1460" xpos="-1000.661" ypos="98.09703" zpos="-183.0193" type="leag.eod.story.respect" GUID="uhglEE9W2kS4TEcKvqRLWg==" info="Follow Kasmeer's Lead, Bow when she Bows, Kneel when she Kneels." infoRange="5" iconFile="Data/Images/Icons/Blank.png"/>
+        <POI MapID="1460" xpos="-1016.454" ypos="96.59636" zpos="-182.4756" type="leag.eod.story.respect" GUID="LPwTeFI59kCbg12H30WxWw==" iconFile="Data/Images/Emote - Bow.png" alpha="0.8"/>
+        <POI MapID="1460" xpos="-1020.194" ypos="96.59636" zpos="-182.4725" type="leag.eod.story.respect" GUID="pjeEr8/vp0ibs0R0htEUvw==" iconFile="Data/Images/Emote - Kneel.png" alpha="0.8"/>
+
+        <!-- Chapter 3 -->
+        <!-- Bloudhound - Minsec Files -->
+        <POI MapID="1442" xpos="-129.351" ypos="54.1079" zpos="-427.906" type="leag.eod.story.bloodhound.minsec" GUID="jgfOc0anWEKX0SHW9JtLtQ=="/>
+        <POI MapID="1442" xpos="-139.053" ypos="55.0856" zpos="-420.785" type="leag.eod.story.bloodhound.minsec" GUID="ByFJJUE1FU6T8yCn2irh7w=="/>
+        <POI MapID="1442" xpos="-139.5184" ypos="54.6101" zpos="-419.1162" type="leag.eod.story.bloodhound.minsec" GUID="MPAuuWEMJkOdJy3HDz+I9Q=="/>
+        <POI MapID="1442" xpos="-141.859" ypos="54.6101" zpos="-415.022" type="leag.eod.story.bloodhound.minsec" GUID="rk9XAUtaGUK8EL8Q99RXYA=="/>
+        <POI MapID="1442" xpos="-144.424" ypos="54.6101" zpos="-412.785" type="leag.eod.story.bloodhound.minsec" GUID="Yt8FrSOaqEeNGJtc6QuuRQ=="/>
+        <POI MapID="1442" xpos="-141.374" ypos="54.6101" zpos="-410.735" type="leag.eod.story.bloodhound.minsec" GUID="+HBlBPoteECzkBD54tRjRw=="/>
+        <POI MapID="1442" xpos="-138.079" ypos="54.6101" zpos="-414.515" type="leag.eod.story.bloodhound.minsec" GUID="W5Yse1jhS0ObpcpaYB/cVQ=="/>
+        <POI MapID="1442" xpos="-133.383" ypos="54.9606" zpos="-412.872" type="leag.eod.story.bloodhound.minsec" GUID="gZcOJ0QawkyoytzLoJIuyg=="/>
+        <!-- Bloudhound - Aetherblade Recordings -->
+        <POI MapID="1442" xpos="-875.676" ypos="19.4246" zpos="-391.963" type="leag.eod.story.bloodhound.aetherblade" GUID="n5tL0b8Qj0KIfONj+wq4cw=="/>
+        <POI MapID="1442" xpos="-976.788" ypos="20.9141" zpos="-447.646" type="leag.eod.story.bloodhound.aetherblade" GUID="X8k8XnE3C0+aSlzUvYgbpQ=="/>
+        <POI MapID="1442" xpos="-919.681" ypos="-17.153" zpos="-520.678" type="leag.eod.story.bloodhound.aetherblade" GUID="5ZlGJ73UrECZ3PaskvBLhQ=="/>
+        <POI MapID="1442" xpos="-919.384" ypos="-7.27063" zpos="-435.402" type="leag.eod.story.bloodhound.aetherblade" GUID="3MvOxvnQ4kCYjqGQzXOjrg=="/>
+        <POI MapID="1442" xpos="-835.65" ypos="47.9233" zpos="-418.283" type="leag.eod.story.bloodhound.aetherblade" GUID="VOjxJq2kWE2BQkrFnwvKLQ=="/>
+        <POI MapID="1442" xpos="-851.523" ypos="34.6759" zpos="-513.793" type="leag.eod.story.bloodhound.aetherblade" GUID="6//D1ZOqyE2ew/M8YuR/UA=="/>
+        <POI MapID="1442" xpos="-823.825" ypos="50.2919" zpos="-523.405" type="leag.eod.story.bloodhound.aetherblade" GUID="zuslP8zQnUKXWwpiLOqGeA=="/>
+        <POI MapID="1442" xpos="-806.904" ypos="35.8153" zpos="-553.032" type="leag.eod.story.bloodhound.aetherblade" GUID="uR+Aratw70yQhXFxTwVh1w=="/>
+        
+
+        <!-- Chapter 4 -->
+        <!-- Log Date 1331 -->
+        <POI MapID="1461" xpos="391.627" ypos="47.688" zpos="-469.092" type="leag.eod.story.log" GUID="dUwq7gCXhUiBJkifxDc+Og=="/>
+        <POI MapID="1461" xpos="353.93" ypos="53.1863" zpos="-422.378" type="leag.eod.story.log" GUID="471/7laI6kSVIVTN7g0Rsg=="/>
+        <!-- Tagging the Tag -->
+        <POI MapID="1461" xpos="375.595" ypos="75.7871" zpos="-459.704" type="leag.eod.story.tagging" GUID="bdO2xhvYjUCh8efmtkI0rw=="/>
+
+        <!-- Chapter 5 -->
+        <!-- All to Code -->
+        <POI MapID="1442" xpos="113.7239" ypos="122.2036" zpos="181.7639" type="leag.eod.story.code" GUID="3b2+RiQ600+IDKactYtUjA=="/>
+        <!-- Premium Tour -->
+        <Trail type="leag.eod.story.tour" trailData="Data/EoD/Story/The Premium Tour.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="1454" xpos="-916.449" ypos="4.12894" zpos="-236.392" type="leag.eod.story.tour" GUID="sb5iDkzGQ06TDa7ldJkOMQ=="/>
+        <POI MapID="1454" xpos="-907.622" ypos="4.46127" zpos="-156.819" type="leag.eod.story.tour" GUID="6iJ/iYTr0EOFE+tESKcrig=="/>
+        <POI MapID="1454" xpos="-822.213" ypos="4.55431" zpos="-140.542" type="leag.eod.story.tour" GUID="0+cUOAkLb0ax+poTwdw+kQ=="/>
+        <POI MapID="1454" xpos="-757.568" ypos="2.75465" zpos="-78.5141" type="leag.eod.story.tour" GUID="FBCy2T6DyUS0MDUV0AE0/g=="/>
+        <POI MapID="1454" xpos="-744.53" ypos="2.72506" zpos="-130.011" type="leag.eod.story.tour" GUID="onmj3P+xckSoeMg9yVY5/w=="/>
+        <POI MapID="1454" xpos="-765.395" ypos="2.83786" zpos="-158.556" type="leag.eod.story.tour" GUID="jJmFDnwTsUeSRn10sxcF3w=="/>
+        <POI MapID="1454" xpos="-750.423" ypos="3.06288" zpos="-177.707" type="leag.eod.story.tour" GUID="6B1qjYbN40i+ZQOMs7YT5Q=="/>
+        <POI MapID="1454" xpos="-778.168" ypos="2.58106" zpos="-336.383" type="leag.eod.story.tour" GUID="nKJCvdD45EmHP1MylqRjkA=="/>
+        <POI MapID="1454" xpos="-772.341" ypos="0.549155" zpos="-351.098" type="leag.eod.story.tour" GUID="vEMIDXdzxkmEKgZSLNor8Q=="/>
+        <POI MapID="1454" xpos="-830.665" ypos="4.90916" zpos="-273.005" type="leag.eod.story.tour" GUID="L5uRmbOh70eMnifZFYk3iA=="/>
+        <POI MapID="1454" xpos="-899.855" ypos="0.709965" zpos="-244.449" type="leag.eod.story.tour" GUID="hBCxhZa73kWEH4o6MH9F7w=="/>
+        <POI MapID="1454" xpos="-1002.48" ypos="2.88447" zpos="-334.218" type="leag.eod.story.tour" GUID="YTPpVTHGCE6qJwFl3NNk3Q=="/>
+        <POI MapID="1454" xpos="-762.06" ypos="4.5594" zpos="-235.74" type="leag.eod.story.tour" GUID="CkqcbFevKEWPcM81FKnWNw=="/>
+        <POI MapID="1454" xpos="-841.504" ypos="2.85266" zpos="-378.445" type="leag.eod.story.tour" GUID="BB+ADAg+pUOovlNiJf/deg=="/>
+        <POI MapID="1454" xpos="-778.254" ypos="2.58104" zpos="-336.554" type="leag.eod.story.tour" GUID="qO/k603vBkO7XLWFG71J3A=="/>
+        <POI MapID="1454" xpos="-917.275" ypos="2.80869" zpos="-219.175" type="leag.eod.story.tour" GUID="aA5gnl0FlEu5p1JPtVk4uw=="/>
+        <POI MapID="1454" xpos="-886.785" ypos="2.67033" zpos="-91.3105" type="leag.eod.story.tour" GUID="P38G6f+KUEey4tqSUrfHgg=="/>
+        <POI MapID="1454" xpos="-744.819" ypos="2.72487" zpos="-130.184" type="leag.eod.story.tour" GUID="u4BkjPgfD0O8W7AN2FCmkg=="/>
+        <POI MapID="1454" xpos="-765.734" ypos="2.84615" zpos="-158.876" type="leag.eod.story.tour" GUID="2faTYS42kUGy7bIphN8Rtw=="/>
+        <POI MapID="1454" xpos="-750.119" ypos="3.07214" zpos="-177.406" type="leag.eod.story.tour" GUID="4Mu7m+tCi0SSmd6v35v3Ww=="/>
+
+        <!-- Chapter 6 -->
+        <!-- Industrial Espionage -->
+        <Trail type="leag.eod.story.industrial" trailData="Data/EoD/Story/Industrial Espionage.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="1415" xpos="-559.629" ypos="41.6563" zpos="40.7863" type="leag.eod.story.industrial" GUID="AYzLyL5vtE2FzLZ5jG9LCg=="/>
+        <POI MapID="1415" xpos="-592.222" ypos="37.4456" zpos="91.395" type="leag.eod.story.industrial" GUID="YKTTJURuFUesycLE1Qdltg=="/>
+        <POI MapID="1415" xpos="-662.722" ypos="18.7913" zpos="105.186" type="leag.eod.story.industrial" GUID="4l9CUXB3lU6eM7uqs2m5GQ=="/>
+        <POI MapID="1415" xpos="-679" ypos="20.0917" zpos="84.8317" type="leag.eod.story.industrial" GUID="/m974NEl60a32vG++sOfnQ=="/>
+        <!-- Time Pilot -->
+        <Trail type="leag.eod.story.time" trailData="Data/EoD/Story/Time Pilot.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="64FE11"/>
+        <!-- Duct Cleaning -->
+        <Trail type="leag.eod.story.duct" trailData="Data/EoD/Story/Duct Cleaning.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="DDDDDD"/>
+        <POI MapID="1445" xpos="629.782" ypos="137.326" zpos="589.856" type="leag.eod.story.duct" GUID="ZcQEL1VoS0mH3tUpYXGmJQ=="/>
+        <POI MapID="1445" xpos="619.774" ypos="133.304" zpos="458.667" type="leag.eod.story.duct" GUID="dPjXBWf4qUi5YjdtKB9SjA=="/>
+        <POI MapID="1445" xpos="589.048" ypos="133.751" zpos="464.764" type="leag.eod.story.duct" GUID="XOas5QyN+k2ynEFnSfS0cA=="/>
+        <POI MapID="1445" xpos="625.38" ypos="109.679" zpos="503.913" type="leag.eod.story.duct" GUID="Azrn++uZrUSmxMOTy63IPg=="/>
+        <POI MapID="1445" xpos="591.841" ypos="109.679" zpos="516.184" type="leag.eod.story.duct" GUID="0fopIlZWqUyg5fdO70rGXw=="/>
+        <POI MapID="1445" xpos="613.545" ypos="147.937" zpos="492.827" type="leag.eod.story.duct" GUID="ivxJaD8nMEeO3uWq87MD4A=="/>
+        <POI MapID="1445" xpos="578.144" ypos="145.266" zpos="497.439" type="leag.eod.story.duct" GUID="vDDE/bKvukuA8WPjHFxgJA=="/>
+        <POI MapID="1445" xpos="576.629" ypos="144.888" zpos="548.171" type="leag.eod.story.duct" GUID="r3rzZTH2yUOvJQ4PgMZdCA=="/>
+        <POI MapID="1445" xpos="668.334" ypos="147.153" zpos="558.329" type="leag.eod.story.duct" GUID="v/DB/gV0XEmxE/9E5cEIfA=="/>
+        <POI MapID="1445" xpos="678.069" ypos="147.436" zpos="581.514" type="leag.eod.story.duct" GUID="puALSk2TeEq03qyiVDA0TA=="/>
+        <POI MapID="1445" xpos="637.383" ypos="150.414" zpos="577.097" type="leag.eod.story.duct" GUID="8pqnHC8ON02QRiFN/jqw/g=="/>
+        <POI MapID="1445" xpos="575.886" ypos="111.606" zpos="550.951" type="leag.eod.story.duct" GUID="BjR/BoEHJ0ebGHfdLf++Yw=="/>
+
+        <!-- Chapter 7 -->
+        <!-- Mai Goodness -->
+        <Trail type="leag.eod.story.mai" trailData="Data/EoD/Story/Mai Goodness.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="1416" xpos="-54.9678" ypos="70.9218" zpos="-99.1643" type="leag.eod.story.mai" GUID="LRXae2DKiE+P8m+MatqoQg=="/>
+        <POI MapID="1416" xpos="-53.0679" ypos="70.8666" zpos="-100.666" type="leag.eod.story.mai" GUID="TNpUs+M/REy9Oomto7NC+g=="/>
+        <POI MapID="1416" xpos="-61.1853" ypos="70.3803" zpos="-103.491" type="leag.eod.story.mai" GUID="KuLEmzJ0SkyhDvPXWr1oMg=="/>
+        <!-- Lost Password -->
+        <POI MapID="1416" xpos="-59.90482" ypos="70.89133" zpos="-105.9966" type="leag.eod.story.password" GUID="fX99eLwXKUmDHmzlhBwe8A==" info="INTERACT with Joon's Console&#xA;- Snoop Around in Joon's data files&#xA;- Try to access the ''Private'' File&#xA;- Wait 15 seconds&#xA;- Read the Unencrypted file" infoRange="2.5"/>
+
+        <!-- Chapter 8 -->
+        <!-- Nika's Vengeance -->
+        <POI MapID="1420" xpos="663.907" ypos="4.03861" zpos="16.705" type="leag.eod.story.nika" GUID="WLIhS6Z6H0m/uq3vQyHOQA==" info="I'll try the Chef's Special&#xA;- Bring on the Chef's Special. You only live once.&#xA;&#xA;Be sure to EAT the Chef's Special after standing up." infoRange="1"/>
+        <!-- De-Escalation Training -->
+        <POI MapID="1420" xpos="651.956" ypos="2.62127" zpos="17.3636" type="leag.eod.story.det" GUID="5vxOvNkpqk2jo1TfnhCehA==" info="2. (Reason)&#xA;1. (Reconcile)&#xA;3. (Logic)&#xA;2. (Disput)&#xA;1. (Honesty)&#xA;3. (Humility)" infoRange="1.5"/>
+        <!-- Study of the Macabre -->
+        <Trail type="leag.eod.story.macabre" trailData="Data/EoD/Story/Study of the Macabre.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="1464" xpos="-835.806" ypos="12.1188" zpos="641.37" type="leag.eod.story.macabre" GUID="OyPM3y4HKkyaMOT5Z6h30g=="/>
+        <POI MapID="1464" xpos="-788.741" ypos="9.90594" zpos="578.589" type="leag.eod.story.macabre" GUID="QkBUZi+IMESyt9WiIHedzA=="/>
+        <POI MapID="1464" xpos="-765.188" ypos="13.8605" zpos="606.063" type="leag.eod.story.macabre" GUID="ZMsNhL0pUUmEOsQGnRKDQw=="/>
+        <POI MapID="1464" xpos="-723.774" ypos="11.636" zpos="617.014" type="leag.eod.story.macabre" GUID="vfVfaYDT8UqI8VoZB3RFog=="/>
+        <POI MapID="1464" xpos="-764.264" ypos="9.87114" zpos="547.123" type="leag.eod.story.macabre" GUID="jDRHaNxm4Ueg8SCCqhMv8g=="/>
+        <POI MapID="1464" xpos="-724.88" ypos="28.1855" zpos="561.788" type="leag.eod.story.macabre" GUID="zPrj7E9NqkSbhnPIglewqw=="/>
+        <POI MapID="1464" xpos="-724.651" ypos="9.73578" zpos="501.477" type="leag.eod.story.macabre" GUID="S4VT8VY2XUCilu76vlxqKQ=="/>
+        <POI MapID="1464" xpos="-771.45" ypos="2.0467" zpos="477.898" type="leag.eod.story.macabre" GUID="qcp8lwMkYkKgkbOLHNaWdg=="/>
+        <POI MapID="1464" xpos="-793.02" ypos="9.73096" zpos="423.035" type="leag.eod.story.macabre" GUID="WWSpbmro5E+nTkLH2/bPRA=="/>
+        <POI MapID="1464" xpos="-800.1" ypos="11.0726" zpos="395.705" type="leag.eod.story.macabre" GUID="YWvFrRzXwUuNfrvF7fnd+Q=="/>
+        <POI MapID="1464" xpos="-833.709" ypos="9.85601" zpos="445.594" type="leag.eod.story.macabre" GUID="zWu4g2h7l0yYgY8d+NlEdw=="/>
+        <POI MapID="1464" xpos="-834.196" ypos="11.1727" zpos="453.071" type="leag.eod.story.macabre" GUID="qxOWEiVpsUWwSBmv5HrNSw=="/>
+        <POI MapID="1464" xpos="-879.322" ypos="10.8946" zpos="482.593" type="leag.eod.story.macabre" GUID="jUVnr0BG8EeeBIaM6zeqnA=="/>
+        <POI MapID="1464" xpos="-894.23" ypos="0.730575" zpos="518.471" type="leag.eod.story.macabre" GUID="fBqNr/GyIkS8C8kdSB651Q=="/>
+
+        <!-- Chapter 9 -->
+        <!-- Stolen Thunder -->
+        <Trail type="leag.eod.story.stolen" trailData="Data/EoD/Story/Stolen Thunder.trl"/>
+        <!-- Evolution within Decay -->
+        <POI MapID="1452" xpos="-292.209" ypos="156.784" zpos="2.73405" type="leag.eod.story.evolution" GUID="87eePlFo8keVhykVy/r2tQ=="/>
+        <!-- Munitions Officer's Log -->
+        <POI MapID="1452" xpos="-258.655" ypos="150.355" zpos="10.2692" type="leag.eod.story.munitions" GUID="OwXY6hy7/UCvXWEf48OirA=="/>
+        <!-- Jade Shadow -->
+        <Trail type="leag.eod.story.jade" trailData="Data/EoD/Story/Jade Shadow 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="64FE11"/>
+        <POI MapID="1452" xpos="119.04" ypos="170.024" zpos="692.838" type="leag.eod.story.jade" GUID="dZlRhHggT0ybB1WM0GuRLw=="/>
+        <Trail type="leag.eod.story.jade" trailData="Data/EoD/Story/Jade Shadow 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="64FE11"/>
+        <POI MapID="1452" xpos="-950.492" ypos="175.305" zpos="-544.852" type="leag.eod.story.jade" GUID="+LrCsSNjuE6K857mVqX1Vw=="/>
+        <!-- Silenced Voices -->
+        <POI MapID="1452" xpos="-847.7188" ypos="181.7899" zpos="-469.5171" type="leag.eod.story.silenced" GUID="tXZYWJlCt029mimBQnsYQQ==" iconFile="Data/Images/Icons/Talk.png"/>
+        <Trail type="leag.eod.story.silenced" trailData="Data/EoD/Story/Silenced Voices 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="64FE11"/>
+        <POI MapID="1452" xpos="12.4302" ypos="170.004" zpos="692.918" type="leag.eod.story.silenced" GUID="Uw9ewkr9Y0Krri7wUifgRw==" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="1.0" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1200" fadeFar="1600"/>
+        <Trail type="leag.eod.story.silenced" trailData="Data/EoD/Story/Silenced Voices 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="64FE11"/>
+        <POI MapID="1452" xpos="-926.601" ypos="171.523" zpos="-635.573" type="leag.eod.story.silenced" GUID="SEhE2x3jI0uaE3riOS0Y/Q==" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="1.0" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1200" fadeFar="1600"/>
+
+        <!-- Chapter 10 -->
+        <!-- Things Were Different Back Then -->
+        <POI MapID="1434" xpos="-24.7836" ypos="126.05" zpos="310.868" type="leag.eod.story.twdbt" GUID="Ns7bYGwu8EudiDCSdSG6Lw=="/>
+
+        <!-- Chapter 11 -->
+        <!-- Boat Tour for Two -->
+        <Trail type="leag.eod.story.boattour" trailData="Data/EoD/Story/Boat Tour for Two.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="64FE11"/>
+        
+
+        <!-- Chapter 12 -->
+        <!-- A Woman of Culture -->
+        <POI MapID="1427" xpos="349.083" ypos="225.605" zpos="-77.5966" type="leag.eod.story.culture" GUID="m3oydd1J0UGXEartOMRs3A=="/>
+        <POI MapID="1427" xpos="340.589" ypos="226.668" zpos="-27.4273" type="leag.eod.story.culture" GUID="OsD+wSnanEy0YUEykpkecg=="/>
+        <POI MapID="1427" xpos="335.431" ypos="227.002" zpos="-17.026" type="leag.eod.story.culture" GUID="l/Dl0KyKC0uj1GGRJn4Uog=="/>
+        <POI MapID="1427" xpos="351.811" ypos="233.816" zpos="-14.6117" type="leag.eod.story.culture" GUID="l1X+Nft5MUirLLUgUb/Yuw=="/>
+        <POI MapID="1427" xpos="364.937" ypos="234.816" zpos="-6.26255" type="leag.eod.story.culture" GUID="mV8892Hng0erLk1LVO08Ng=="/>
+        <POI MapID="1427" xpos="237.497" ypos="238.498" zpos="-45.7567" type="leag.eod.story.culture" GUID="PDKp4AvlMEeygHm+A6eP9w=="/>
+
+        <!-- Almost Clever -->
+        <POI MapID="1427" xpos="348.933" ypos="234.547" zpos="-84.4949" type="leag.eod.story.clever" GUID="DgIPZA4dW0SloI2jYMCT6g=="/>
+
+        <!-- Data Breach -->
+        <POI MapID="1427" xpos="352.748" ypos="234.547" zpos="-84.595" type="leag.eod.story.breach" GUID="dN7/Z/sidkKf3vQ/q6nzzQ=="/>
+
+        <!-- Family Values -->
+        <POI MapID="1427" xpos="311.9243" ypos="225.6046" zpos="-15.86173" type="leag.eod.story.family" GUID="r/qsUvk9SUqLHw8bL0y6uQ=="/>
+
+        <!-- Munchies -->
+        <POI MapID="1427" xpos="350.52" ypos="225.981" zpos="-79.8284" type="leag.eod.story.munch" GUID="LxfvioVqKkSl80fC9h5avA=="/>
+
+        <!-- Show Stopper -->
+        <POI MapID="1427" xpos="309.969" ypos="222.269" zpos="-34.3187" type="leag.eod.story.showstopper" GUID="eznhsWs4dUS8tWOC5rKa8g=="/>
+        <POI MapID="1427" xpos="297.663" ypos="222.259" zpos="-29.3847" type="leag.eod.story.showstopper" GUID="IP0m04AvrEa3VcR76/BlLg=="/>
+        <POI MapID="1427" xpos="309.896" ypos="222.252" zpos="-50.1255" type="leag.eod.story.showstopper" GUID="uPNzdXiOnEqmpgTzbNqq4w=="/>
+        <POI MapID="1427" xpos="295.991" ypos="222.259" zpos="-53.5692" type="leag.eod.story.showstopper" GUID="O8v85ipSWUycZNf1VVzFhA=="/>
+        <POI MapID="1427" xpos="294.078" ypos="222.259" zpos="-37.5008" type="leag.eod.story.showstopper" GUID="wKXYby+nuka1gjuvsPIT/w=="/>
+
+        <!-- Chapter 13 -->
+        <!-- Competent Commander -->
+        <POI MapID="1422" xpos="-383.504" ypos="157.008" zpos="558.756" type="leag.eod.story.competent" GUID="aWTigNtSBU23+Xa7/XQLBQ=="/>
+        <POI MapID="1422" xpos="115.222" ypos="124.728" zpos="817.561" type="leag.eod.story.competent" GUID="MAsQ5z1DLU2eV1hUFJFPYg=="/>
+        <POI MapID="1422" xpos="24.8497" ypos="200.787" zpos="-935.752" type="leag.eod.story.competent" GUID="iSzWvpjFuU2SdGh6y34VTg=="/>
+        <POI MapID="1422" xpos="-438" ypos="186.619" zpos="-547.234" type="leag.eod.story.competent" GUID="etJxjxNkRk6uSGBVAfmk5A=="/>
+        <POI MapID="1422" xpos="506.711" ypos="177.813" zpos="-498.726" type="leag.eod.story.competent" GUID="gEZhRn+H6EeJiDFoR6zJUg=="/>
+
+        <!-- Chapter 15 -->
+        <!-- I Brought Flowers -->
+        <POI MapID="18" xpos="258.249" ypos="56.9934" zpos="-416.747" type="leag.eod.story.flowers" GUID="v4NH+g7Kjk6fwTYZTk6qjA=="/>
+
+        <!-- Chapter 16 -->
+        <!-- Don't Mind If I Do -->
+        <POI MapID="1489" xpos="-638.021" ypos="201.24" zpos="-334.579" type="leag.eod.story.dmiid" GUID="hIgiNY3paEKBClq7YypCaw=="/>
+        <POI MapID="1489" xpos="-638.923" ypos="201.24" zpos="-339.608" type="leag.eod.story.dmiid" GUID="Yqp2SAJLV0Caq6U3YGrdoA=="/>
+        <POI MapID="1489" xpos="-644.345" ypos="201.24" zpos="-335.425" type="leag.eod.story.dmiid" GUID="AYvibaooMUS+mRaH3FywaA=="/>
+        <POI MapID="1489" xpos="-633.072" ypos="201.24" zpos="-335.208" type="leag.eod.story.dmiid" GUID="AHX0qqNDP0GPsVpqJXIc+g=="/>
+        <POI MapID="1489" xpos="-632.648" ypos="201.24" zpos="-330.013" type="leag.eod.story.dmiid" GUID="obMKCA/9N0G74h0QbEICgg=="/>
+        <POI MapID="1489" xpos="-627.53" ypos="201.24" zpos="-330.368" type="leag.eod.story.dmiid" GUID="kjf8LbSqukyxMS22c4rljA=="/>
+
+        <!-- Party Animal -->
+        <POI MapID="1489" xpos="-610.073" ypos="198.051" zpos="-306.288" type="leag.eod.story.party" GUID="km549uiAokiJ3bM6At43tg=="/>
+        <POI MapID="1489" xpos="-630.601" ypos="200.884" zpos="-324.756" type="leag.eod.story.party" GUID="gY1PfAQ/IkqcSXtLyrwgoQ=="/>
+        <POI MapID="1489" xpos="-662.797" ypos="215.959" zpos="-284.473" type="leag.eod.story.party" GUID="HcVR0i4As0W74rKYChhirg=="/>
+        <POI MapID="1489" xpos="-688.226" ypos="214.33" zpos="-332.559" type="leag.eod.story.party" GUID="6pROJa8uO0KFLhDEXgP1fg=="/>
+        <Trail type="leag.eod.story.party" trailData="Data/EoD/Story/Party Animal 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="0" color="07D3FF"/>
+        <Trail type="leag.eod.story.party" trailData="Data/EoD/Story/Party Animal 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="0" color="07D3FF"/>
+
+        <!-- Thorough Investigator -->
+        <Trail type="leag.eod.story.investigator" trailData="Data/EoD/Story/Thorough Investigator.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="0.5" color="64FE11"/>
+        <Trail type="leag.eod.story.body" trailData="Data/EoD/Story/Body-Language Basics.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="07D3FF"/>
+        <!-- Haze Hot Spots -->
+        <POI MapID="1490" xpos="-78.6574" ypos="134.102" zpos="99.2846" type="leag.eod.story.haze" GUID="B0Obbw4giEut2T8EDqZbSg=="/>
+        <POI MapID="1490" xpos="3.27078" ypos="123.118" zpos="129.815" type="leag.eod.story.haze" GUID="c/ReMfvlykinzEHhZMxkXA=="/>
+        <POI MapID="1490" xpos="124.188" ypos="150.609" zpos="199.54" type="leag.eod.story.haze" GUID="d5aj2Uo1yEih2Nlqdd7N6g=="/>
+        <POI MapID="1490" xpos="117.438" ypos="100.671" zpos="65.9286" type="leag.eod.story.haze" GUID="1hxAQs6sFU6FWQ2PLGhi4A=="/>
+        <POI MapID="1490" xpos="362.078" ypos="100.91" zpos="-30.5539" type="leag.eod.story.haze" GUID="g0Tg7hFrI06VZE2PD1bgmg=="/>
+        <POI MapID="1490" xpos="453.712" ypos="109.459" zpos="-5.28155" type="leag.eod.story.haze" GUID="qIaBnqgz/0aIsNktSLvsdQ=="/>
+        <POI MapID="1490" xpos="424.782" ypos="55.2487" zpos="-161.7" type="leag.eod.story.haze" GUID="raY5jIDw8ECMbakKkKdubA=="/>
+        <POI MapID="1490" xpos="198.728" ypos="57.2958" zpos="-164.87" type="leag.eod.story.haze" GUID="f5Ae9+9k8EiEEb5eyDZznA=="/>
+        <POI MapID="1490" xpos="95.704" ypos="114.006" zpos="-71.6341" type="leag.eod.story.haze" GUID="T8MDRbiNeUWbyw9fZnRxgQ=="/>
+        <POI MapID="1490" xpos="77.2744" ypos="90.3896" zpos="-4.52645" type="leag.eod.story.haze" GUID="xNQxpDr4dkCIrGBXuRkCJg=="/>
+        <POI MapID="1490" xpos="-11.0434" ypos="49.7921" zpos="-156.305" type="leag.eod.story.haze" GUID="us3M4xyV/0KvdGIYLQRUxQ=="/>
+
+        <!-- Chapter 18 -->
+        <!-- Kurzick Book Wurm -->
+        <Trail type="leag.eod.story.bookwurm" trailData="Data/EoD/Story/Kurzick Book Wurm.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+
+        <!-- Chapter  -->
+
+        <!-- Chapter  -->
+
+        <!-- Chapter  -->
+
+        <!-- Chapter  -->
+
+        <!-- Chapter  -->
+
+        <!-- Chapter  -->
+        
+    </POIs>
+</OverlayData>
