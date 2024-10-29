@@ -94,6 +94,7 @@
         <Trail type="leag.festivals.halloween.maleficence.lab" trailData="Data/Festivals/Halloween/Mad Maleficence 6.trl"/>
         <Trail type="leag.festivals.halloween.maleficence.lab" trailData="Data/Festivals/Halloween/Mad Maleficence 7 To.trl"/>
         <Trail type="leag.festivals.halloween.maleficence.mkr" trailData="Data/Festivals/Halloween/Mad Maleficence 7.trl"/>
+        <Trail type="leag.festivals.halloween.maleficence.mkr" trailData="Data/Festivals/Halloween/Mad Maleficence 8.trl"/>
         <Trail type="leag.festivals.halloween.maleficence.dok" trailData="Data/Festivals/Halloween/Mad Maleficence 9.trl"/>
         <Trail type="leag.festivals.halloween.maleficence.dov" trailData="Data/Festivals/Halloween/Mad Maleficence 10.trl"/>
         <Trail type="leag.festivals.halloween.maleficence.dov" trailData="Data/Festivals/Halloween/Mad Maleficence 11.trl"/>
@@ -140,6 +141,8 @@
         <Trail type="leag.festivals.halloween.mysteries.la" trailData="Data/Festivals/Halloween/Mad Memoires II.trl"/>
         <POI MapID="50" xpos="391.571" ypos="0.876182" zpos="-3.88515" type="leag.festivals.halloween.mysteries.aqueous" GUID="XNBzYf8Wq06s/DEgZXotAA=="/>
         <Trail type="leag.festivals.halloween.mysteries.la" trailData="Data/Festivals/Halloween/Mad Memoires II.trl"/>
+        
+        <Trail type="leag.festivals.halloween.mysteries.la" trailData="Data/Festivals/Halloween/Mad Memoires III.trl"/>
         <POI MapID="50" xpos="-361.376" ypos="-58.031" zpos="-82.9358" type="leag.festivals.halloween.mysteries.etheric" GUID="3q9Ns2vSJk632Ak05lBmow=="/>
         <Trail type="leag.festivals.halloween.mysteries.queensdale" trailData="Data/Festivals/Halloween/Mad Memoires IV.trl"/>
         <POI MapID="15" xpos="-139.754" ypos="56.633" zpos="621.636" type="leag.festivals.halloween.mysteries.gaseous" GUID="EGCHlhLTmUiXSuP9Q+t+AQ=="/>
