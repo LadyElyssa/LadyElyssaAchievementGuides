@@ -83,12 +83,12 @@
 
             <MarkerCategory name="mementos" DisplayName="Mad Mementos" texture="Data/Images/Trails/Candy Gradient BW.png" animSpeed="0.8" achievementId="3943">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="bucket" DisplayName="Toggle Bucket" iconFile="Data/Images/Festivals/Bucket.png" heightOffset="0.5" maxSize="16" fadeNear="1200" faeFar="2400"/>
+                <MarkerCategory name="bucket" DisplayName="Toggle Bucket" iconFile="Data/Images/Festivals/Bucket.png" heightOffset="0.5" maxSize="16" fadeNear="1200" fadeFar="2400"/>
                 <MarkerCategory name="scan" IsSeparator="1" DisplayName="SCAN"/>
-                <MarkerCategory name="aqueous" DisplayName="Aqueous" iconFile="Data/Images/Festivals/Scan - Aqueous.png" heightOffset="0.5" maxSize="16" fadeNear="1200" faeFar="2400"/>
-                <MarkerCategory name="corpreal" DisplayName="Corporeal" iconFile="Data/Images/Festivals/Scan - Corporeal.png" heightOffset="0.5" maxSize="16" fadeNear="1200" faeFar="2400"/>
-                <MarkerCategory name="etheric" DisplayName="Etheric" iconFile="Data/Images/Festivals/Scan - Etheric.png" heightOffset="0.5" maxSize="16" fadeNear="1200" faeFar="2400"/>
-                <MarkerCategory name="gaseous" DisplayName="Gaseous" iconFile="Data/Images/Festivals/Scan - Gaseous.png" heightOffset="0.5" maxSize="16" fadeNear="1200" faeFar="2400"/>
+                <MarkerCategory name="aqueous" DisplayName="Aqueous" iconFile="Data/Images/Festivals/Scan - Aqueous.png" heightOffset="0.5" maxSize="16" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="corpreal" DisplayName="Corporeal" iconFile="Data/Images/Festivals/Scan - Corporeal.png" heightOffset="0.5" maxSize="16" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="etheric" DisplayName="Etheric" iconFile="Data/Images/Festivals/Scan - Etheric.png" heightOffset="0.5" maxSize="16" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="gaseous" DisplayName="Gaseous" iconFile="Data/Images/Festivals/Scan - Gaseous.png" heightOffset="0.5" maxSize="16" fadeNear="1200" fadeFar="2400"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONES"/>
                 <MarkerCategory name="gendarran" DisplayName="Gendarran Fields" color="ff8000"/>
                 <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands" color="ff8000"/>
@@ -96,7 +96,7 @@
 
             <MarkerCategory name="memorial" DisplayName="Mad Memorial" texture="Data/Images/Trails/Candy Gradient BW.png" animSpeed="0.8" achievementId="3922">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" heightOffset="3.5" maxSize="32" fadeNear="1200" faeFar="2400"/>
+                <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" heightOffset="3.5" maxSize="32" fadeNear="1200" fadeFar="2400"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONES"/>
                 <MarkerCategory name="la" DisplayName="Lion's Arch" color="99bbff"/>
                 <MarkerCategory name="lab" DisplayName="Mad King's Labyrinth" color="99bbff"/>
@@ -104,10 +104,10 @@
 
             <MarkerCategory name="mysteries" DisplayName="Mad Mysteries" texture="Data/Images/Trails/Candy Gradient BW.png" animSpeed="0.8" achievementId="3939">
                 <MarkerCategory name="scan" IsSeparator="1" DisplayName="SCAN"/>
-                <MarkerCategory name="aqueous" DisplayName="Aqueous" iconFile="Data/Images/Festivals/Scan - Aqueous.png" heightOffset="0.5" maxSize="16" fadeNear="1200" faeFar="2400"/>
-                <MarkerCategory name="corpreal" DisplayName="Corporeal" iconFile="Data/Images/Festivals/Scan - Corporeal.png" heightOffset="0.5" maxSize="16" fadeNear="1200" faeFar="2400"/>
-                <MarkerCategory name="etheric" DisplayName="Etheric" iconFile="Data/Images/Festivals/Scan - Etheric.png" heightOffset="0.5" maxSize="16" fadeNear="1200" faeFar="2400"/>
-                <MarkerCategory name="gaseous" DisplayName="Gaseous" iconFile="Data/Images/Festivals/Scan - Gaseous.png" heightOffset="0.5" maxSize="16" fadeNear="1200" faeFar="2400"/>
+                <MarkerCategory name="aqueous" DisplayName="Aqueous" iconFile="Data/Images/Festivals/Scan - Aqueous.png" heightOffset="0.5" maxSize="16" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="corpreal" DisplayName="Corporeal" iconFile="Data/Images/Festivals/Scan - Corporeal.png" heightOffset="0.5" maxSize="16" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="etheric" DisplayName="Etheric" iconFile="Data/Images/Festivals/Scan - Etheric.png" heightOffset="0.5" maxSize="16" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="gaseous" DisplayName="Gaseous" iconFile="Data/Images/Festivals/Scan - Gaseous.png" heightOffset="0.5" maxSize="16" fadeNear="1200" fadeFar="2400"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONES"/>
                 <MarkerCategory name="gendarran" DisplayName="Gendarran Fields" color="99ffcc"/>
                 <MarkerCategory name="kessex" DisplayName="Kessex Hills" color="99ffcc"/>

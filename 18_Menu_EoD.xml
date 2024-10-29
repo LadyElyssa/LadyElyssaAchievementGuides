@@ -4,7 +4,7 @@
         <MarkerCategory name="eod" DisplayName="End of Dragons">
 
         <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
-            
+
             <MarkerCategory name="convergence " IsSeparator="1" DisplayName="CONVERGENCE"/>
             
             <MarkerCategory name="gtsy" DisplayName="Good to See You" iconFile="Data/Images/Icons/Talk.png" achievementId="6204">
@@ -113,6 +113,17 @@
             </MarkerCategory>
 
             <MarkerCategory name="sp" DisplayName="Seitung Province">
+                <MarkerCategory name="author" DisplayName="Authorial Intent" achievementId="6069"/>
+                <MarkerCategory name="bian" DisplayName="Bian's World Tour" achievementId="6418"/>
+                <MarkerCategory name="dwrr" DisplayName="Daigo Ward Raptor Ride" achievementId="6231"/>
+                <MarkerCategory name="dtrr" DisplayName="Derelict Temple Raptor Ride" achievementId="6257"/>
+                <MarkerCategory name="itpd" DisplayName="Into the Puzzling Dark" achievementId="0000"/>
+                <MarkerCategory name="training" DisplayName="Jumping Training" achievementId="6464"/>
+                <MarkerCategory name="misty" DisplayName="Misty Leap" achievementId="6198"/>
+                <MarkerCategory name="sjrr" DisplayName="Shing Jea Monastery Raptor Ride" achievementId="6394"/>
+                <MarkerCategory name="spsr" DisplayName="Seitung Prison Springer Ride" achievementId="6136"/>
+                <MarkerCategory name="childcare" DisplayName="Spiritual Childcare" achievementId="6314"/>
+                <MarkerCategory name="trials" DisplayName="Trials of the Tengu" achievementId="6118"/>
             </MarkerCategory>
 
             <MarkerCategory name="tew" DisplayName="The Echovald Wilds">
