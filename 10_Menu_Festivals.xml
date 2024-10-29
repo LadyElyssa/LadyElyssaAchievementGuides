@@ -69,7 +69,7 @@
 
             <MarkerCategory name="maleficence" DisplayName="Mad Maleficence" texture="Data/Images/Trails/Crystal Dash.png" animSpeed="0.8" achievementId="3922">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" heightOffset="3.5" maxSize="32" fadeNear="1200" faeFar="2400"/>
+                <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" heightOffset="3.5" maxSize="32" fadeNear="1200" fadeFar="2400"/>
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONES"/>
                 <MarkerCategory name="co" DisplayName="Crystal Oasis" color="1aa3ff"/>
                 <MarkerCategory name="dok" DisplayName="Domain of Kourna" color="1aa3ff"/>
@@ -404,7 +404,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-            <MarkerCategory name="tntss" DisplayName="The Night Time Stood Still" achievementId="7647"/>
+            <MarkerCategory name="tntss" DisplayName="The Night Time Stood Still"/>
         </MarkerCategory> 
 
         

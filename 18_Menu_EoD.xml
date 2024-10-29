@@ -4,7 +4,8 @@
         <MarkerCategory name="eod" DisplayName="End of Dragons">
 
         <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
-            <MarkerCategory name="convergence " IsSeparator="1" DisplayName="Convergence"/>
+            
+            <MarkerCategory name="convergence " IsSeparator="1" DisplayName="CONVERGENCE"/>
             
             <MarkerCategory name="gtsy" DisplayName="Good to See You" iconFile="Data/Images/Icons/Talk.png" achievementId="6204">
                 <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
