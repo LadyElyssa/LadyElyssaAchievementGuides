@@ -1,10 +1,104 @@
     <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
-        <!--
+        
         <MarkerCategory name="eod" DisplayName="End of Dragons">
 
-            <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
+        <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
+            <MarkerCategory name="convergence " IsSeparator="1" DisplayName="Convergence"/>
+            
+            <MarkerCategory name="gtsy" DisplayName="Good to See You" iconFile="Data/Images/Icons/Talk.png" achievementId="6204">
+                <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                <MarkerCategory name="eotn" DisplayName="Eye of the North"/>
             </MarkerCategory>
+
+            <MarkerCategory name="ch1" IsSeparator="1" DisplayName="CHAPTER 1"/>
+            <MarkerCategory name="diary" DisplayName="Dear Diary" achievementId="6357" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+            <MarkerCategory name="escape" DisplayName="The Great Escape" achievementId="6493"/>
+
+            <MarkerCategory name="ch2" IsSeparator="1" DisplayName="CHAPTER 2"/>
+            <MarkerCategory name="respect" DisplayName="All Due Respect" achievementId="6246"/>
+            <MarkerCategory name="mantis" DisplayName="Mantis Pose" achievementId="6276"/>
+
+            <MarkerCategory name="ch3" IsSeparator="1" DisplayName="CHAPTER 3"/>
+            <MarkerCategory name="bloodhound" DisplayName="Bloodhound" achievementId="6237">
+                <MarkerCategory name="minsec" DisplayName="Minsec Files" defaulttoggle="0" iconFile="Data/Images/Icons/Orb - Blue - S.png" alpha="0.8" maxSize="12" heightOffset="-0.5" behavior="3"/>
+                <MarkerCategory name="aetherblade" DisplayName="Aetherblade Recordings" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5" behavior="3"/>
+            </MarkerCategory>
+
+            <!-- https://wiki.guildwars2.com/wiki/Can%27t_Trust_a_Pirate -->
+            <!-- https://www.ayinmaiden.com/gw2/endofdragons -->
+            
+            <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4"/>
+            <MarkerCategory name="log" DisplayName="Log Date 1331" achievementId="6210" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1000" fadeFar="1400"/>
+            <MarkerCategory name="tagging" DisplayName="Tagging the Tag" achievementId="6318" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1200" fadeFar="1600"/>
+    
+            <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5"/>
+            <MarkerCategory name="code" DisplayName="All to Code" achievementId="6345" iconFile="Data/Images/All to Code.png"/>
+            <MarkerCategory name="tour" DisplayName="The Premium Tour" achievementId="6254" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1000" fadeFar="1400"/>
+
+            <MarkerCategory name="ch6" IsSeparator="1" DisplayName="CHAPTER 6"/>
+            <MarkerCategory name="duct" DisplayName="Duct Cleaning" achievementId="6454" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="1.0" maxSize="16" heightOffset="-0.5" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="industrial" DisplayName="Industrial Espionage" achievementId="6425" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="time" DisplayName="Time Pilot" achievementId="6101"/>
+
+            <MarkerCategory name="ch7" IsSeparator="1" DisplayName="CHAPTER 7"/>
+            <MarkerCategory name="password" DisplayName="Lost Password" achievementId="6092" iconFile="Data/Images/Icons/Blank.png"/>
+            <MarkerCategory name="mai" DisplayName="Mai Goodness" achievementId="6275" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="1.0" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1200" fadeFar="1600"/>
+            
+
+            <MarkerCategory name="ch8" IsSeparator="1" DisplayName="CHAPTER 8"/>
+            <MarkerCategory name="det" DisplayName="De-Escalation Training" achievementId="6474" iconFile="Data/Images/Icons/Blank.png"/>
+            <MarkerCategory name="nika" DisplayName="Nika's Vengeance" achievementId="6208" iconFile="Data/Images/Icons/Blank.png"/>
+            <MarkerCategory name="macabre" DisplayName="Study of the Macabre" achievementId="6376" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="1.0" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1200" fadeFar="1600"/>
+
+            <MarkerCategory name="ch9" IsSeparator="1" DisplayName="CHAPTER 9"/>
+            <MarkerCategory name="evolution" DisplayName="Evolution within Decay" achievementId="6446" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="1.0" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="jade" DisplayName="Jade Shadow" achievementId="6340" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="1.0" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="munitions" DisplayName="Munitions Officer's Log" achievementId="6523" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="1.0" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="silenced" DisplayName="Silenced Voices" achievementId="6391"/>
+            <MarkerCategory name="stolen" DisplayName="Stolen Thunder" achievementId="6430" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" fadeNear="4000" fadeFar="8000" color="64FE11"/>
+
+            <MarkerCategory name="ch10" IsSeparator="1" DisplayName="CHAPTER 10"/>
+            <!--
+            <MarkerCategory name="boarding" DisplayName="Boarding Party" achievementId="6444"/>
+            -->
+            <MarkerCategory name="twdbt" DisplayName="Things Were Different Back Then" achievementId="6373" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="1.0" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1200" fadeFar="1600"/>
+
+            <MarkerCategory name="ch11" IsSeparator="1" DisplayName="CHAPTER 10"/>
+            <MarkerCategory name="boattour" DisplayName="Boat Tour for Two" achievementId="6280"/>
+
+            <MarkerCategory name="ch12" IsSeparator="1" DisplayName="CHAPTER 12"/>
+            <MarkerCategory name="culture" DisplayName="A Woman of Culture" achievementId="6081" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="1.0" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="clever" DisplayName="Almost Clever" achievementId="6491" iconFile="Data/Images/SUNG.png" alpha="1.0" behavior="3" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="breach" DisplayName="Data Breach" achievementId="6251" iconFile="Data/Images/Data Breach.png" alpha="1.0" behavior="3" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="family" DisplayName="Family Values" achievementId="6361" iconFile="Data/Images/Icons/Orb - Yellow.png" alpha="1.0" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="400" fadeFar="800"/>
+            <MarkerCategory name="munch" DisplayName="Munchies" achievementId="6120" iconFile="Data/Images/Icons/Eat.png" alpha="1.0" maxSize="16" heightOffset="2.0" behavior="3" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="showstopper" DisplayName="Show Stopper" achievementId="6400" iconFile="Data/Images/Icons/Orb - Red.png" alpha="1.0" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="400" fadeFar="800"/>
+
+            <MarkerCategory name="ch13" IsSeparator="1" DisplayName="CHAPTER 13"/>
+            <MarkerCategory name="competent" DisplayName="Competent Commander" achievementId="6240" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="1.0" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1200" fadeFar="1600"/>
+
+            <MarkerCategory name="ch15" IsSeparator="1" DisplayName="CHAPTER 15"/>
+            <MarkerCategory name="flowers" DisplayName="I Brought Flowers" achievementId="6497" iconFile="Data/Images/Icons/Talk.png" behavior="3" fadeNear="1200" fadeFar="1600"/>
+
+            <MarkerCategory name="ch16" IsSeparator="1" DisplayName="CHAPTER 16"/>
+            <MarkerCategory name="dmiid" DisplayName="Don't Mind If I Do" achievementId="6869" iconFile="Data/Images/Icons/Eat.png" alpha="1.0" maxSize="16" heightOffset="0.5" behavior="3" fadeNear="1200" fadeFar="1600"/>
+            <MarkerCategory name="party" DisplayName="Party Animal" achievementId="6862" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="1.0" maxSize="16" heightOffset="-0.5" behavior="3" fadeNear="1200" fadeFar="1600"/>
+
+            <MarkerCategory name="ch16" IsSeparator="1" DisplayName="CHAPTER 16"/>
+            <MarkerCategory name="investigator" DisplayName="Thorough Investigator" achievementId="6872" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" fadeNear="4000" fadeFar="8000" color="64FE11"/>
+            <MarkerCategory name="body" DisplayName="Body-Language Basics" achievementId="6861" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" fadeNear="4000" fadeFar="8000" color="64FE11"/>
+            <MarkerCategory name="haze" DisplayName="Haze Hot Spots" iconFile="Data/Images/Circle - Teal.png" alpha="1.0" mapDisplaySize="40" ingameVisibility="0"/>
+
+            <MarkerCategory name="ch18" IsSeparator="1" DisplayName="CHAPTER 18"/>
+            <MarkerCategory name="bookwurm" DisplayName="Kurzick Book Wurm" achievementId="6896" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" fadeNear="4000" fadeFar="8000" color="64FE11"/>
+
+            <!--
+            <MarkerCategory name="ch" IsSeparator="1" DisplayName="CHAPTER "/>
+            -->
+            
+
+        </MarkerCategory>
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
@@ -24,7 +118,7 @@
             </MarkerCategory>
 
         </MarkerCategory>
-        -->
+        
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>

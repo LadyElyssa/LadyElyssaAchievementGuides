@@ -93,6 +93,7 @@
 
             <MarkerCategory name="ch18" IsSeparator="1" DisplayName="CHAPTER 18"/>
             <MarkerCategory name="astral" DisplayName="Astral Salute" achievementId="7966" iconFile="Data/Images/Emote - Salute.png" alpha="0.8"/>
+            <MarkerCategory name="rest" DisplayName="Midnight Rest" achievementId="7955" iconFile="Data/Images/Emote - Sit.png" alpha="0.8"/>
             <MarkerCategory name="voracious" DisplayName="Voracious Reader" achievementId="8047" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5">
                 <MarkerCategory name="council" DisplayName="Memory in the Council of Houses chamber"/>
                 <MarkerCategory name="sealed" DisplayName="Memory in the sealed chamber"/>
@@ -100,11 +101,10 @@
                 <MarkerCategory name="books" DisplayName="Books"/>
             </MarkerCategory>
             <MarkerCategory name="king" DisplayName="Your Midnight King Says..." achievementId="8012" iconFile="Data/Images/Emote - Kneel.png" alpha="0.8"/>
-            <MarkerCategory name="rest" DisplayName="Midnight Rest" achievementId="7955" iconFile="Data/Images/Emote - Sit.png" alpha="0.8"/>
 
             <MarkerCategory name="ch19" IsSeparator="1" DisplayName="CHAPTER 19"/>
-            <MarkerCategory name="sovereign" DisplayName="Sovereign of Nayos"/>
             <MarkerCategory name="respect" DisplayName="A Sign of Respect" achievementId="8097"/>
+            <MarkerCategory name="sovereign" DisplayName="Sovereign of Nayos"/>
             <MarkerCategory name="bibliophile" DisplayName="Tower Bibliophile" achievementId="8062" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5">
                 <MarkerCategory name="livia" DisplayName="Find the letter to Livia"/>
                 <MarkerCategory name="isgarren" DisplayName="Find the note to Isgarren"/>
@@ -116,7 +116,7 @@
         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
         <MarkerCategory name="am" DisplayName="Amnytas">
-        <MarkerCategory name="apk" DisplayName="A Promise Kept [H] (Do Comrades in Arms First) " achievementId="7059">
+        <MarkerCategory name="apk" DisplayName="A Promise Kept [H] (Do Comrades in Arms First) " defaulttoggle="0" achievementId="7059">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="basil" DisplayName="Basil"/>
             <MarkerCategory name="la" IsSeparator="1" DisplayName="  | LION'S ARCH"/>
@@ -197,7 +197,7 @@
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
         </MarkerCategory>
         <MarkerCategory name="llliw" DisplayName="Laugh Like Lyhr Is Watching (After Lyhr Escort Event)  " texture="Data/Images/Trails/Trail Marker 1.png" achievementId="7165"/>
-        <MarkerCategory name="sorrows" DisplayName="Sorrow's Lost [H] ">
+        <MarkerCategory name="sorrows" DisplayName="Sorrow's Lost [H] " defaulttoggle="0">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="3" DisplayName="3. I: The Forager"/>
             <MarkerCategory name="4" DisplayName="4. II: The Minister Illuminate"/>
@@ -498,7 +498,7 @@
         </MarkerCategory>
 
         <MarkerCategory name="twt" DisplayName="The Wizard's Tower">
-        <MarkerCategory name="cia" DisplayName="Comrades in Arms [H] " iconFile="Data/Images/Circle.png" behavior="3" triggerRange="5" autoTrigger="1" inGameVisibility="1" achievementId="6979">
+        <MarkerCategory name="cia" DisplayName="Comrades in Arms [H] " iconFile="Data/Images/Circle.png" behavior="3" triggerRange="5" autoTrigger="1" inGameVisibility="1" achievementId="6979" defaulttoggle="0">
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
             <MarkerCategory name="1" DisplayName="1. Meeting Hortensia"/>
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
@@ -525,14 +525,14 @@
             <MarkerCategory name="19" DisplayName="19. Return to Hortensia at the Wizard's Tower Infirmary."/>
             <MarkerCategory name="20" DisplayName="20. In Memoriam"/>
         </MarkerCategory>
-        <MarkerCategory name="cwc" DisplayName="Consternation with Conri [H] " achievementId="8053"/>
-        <MarkerCategory name="fif" DisplayName="Flashing into Focus [H] " achievementId="6973"/>
+        <MarkerCategory name="cwc" DisplayName="Consternation with Conri [H] " achievementId="8053" defaulttoggle="0"/>
+        <MarkerCategory name="fif" DisplayName="Flashing into Focus [H] " achievementId="6973" defaulttoggle="0"/>
         <MarkerCategory name="hasitwt" DisplayName="Hide-and-Seek in the Wizard's Tower" texture="Data/Images/Trails/Trail Marker 1 Dark.png" achievementId="6971"/>
         <MarkerCategory name="kiu" DisplayName="Keep it Up" achievementId="7024">
             <MarkerCategory name="to" DisplayName="To Keep it Up" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
             <MarkerCategory name="trail" DisplayName="Keep it Up Trail"/>
         </MarkerCategory>
-        <MarkerCategory name="sts" DisplayName="Salute the Shopkeeper [H] " achievementId="7958">
+        <MarkerCategory name="sts" DisplayName="Salute the Shopkeeper [H] " achievementId="7958" defaulttoggle="0">
             <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
             <MarkerCategory name="hint" DisplayName="Gharr Leadclaw NW area of the Outer Ring"/>
         </MarkerCategory>
@@ -585,7 +585,7 @@
             <MarkerCategory name="twt2" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
             <MarkerCategory name="9" DisplayName="9. Completed List of Artifacts. Return to Isgarren."/>
         </MarkerCategory>
-        <MarkerCategory name="secrets2" DisplayName="Secrets Unobscured [H] " achievementId="7151"/>
+        <MarkerCategory name="secrets2" DisplayName="Secrets Unobscured [H] " achievementId="7151" defaulttoggle="0"/>
         <MarkerCategory name="twl" DisplayName="The Waylit Lantern" texture="Data/Images/Trails/Trail Marker 1.png" color="33ccff">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="2" DisplayName="2. Retrieve Lyhr's Relic"/>
@@ -606,7 +606,7 @@
             <MarkerCategory name="3" DisplayName="3. Speak to Lyhr"/>
             <MarkerCategory name="14" DisplayName="14. Return to Lyhr. "/>
         </MarkerCategory>
-        <MarkerCategory name="tb" DisplayName="Thornsprout Boom! [H] " achievementId="8004"/>
+        <MarkerCategory name="tb" DisplayName="Thornsprout Boom! [H] " achievementId="8004" defaulttoggle="0"/>
         <MarkerCategory name="ttt" DisplayName="Tyrian Taste Testing" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="33ccff" achievementId="7948">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="soto" IsSeparator="1" DisplayName="  | SECRETS OF THE OBSCURE"/>
@@ -633,8 +633,8 @@
             <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
             <MarkerCategory name="11" DisplayName="11. Return to the Kryptis delegation"/>
         </MarkerCategory>
-        <MarkerCategory name="yb" DisplayName="You Buy [H] " achievementId="7664"/>        
-        <MarkerCategory name="zojja" DisplayName="Zojja's Journal [H] " achievementId="7083">
+        <MarkerCategory name="yb" DisplayName="You Buy [H] " achievementId="7664" defaulttoggle="0"/>        
+        <MarkerCategory name="zojja" DisplayName="Zojja's Journal [H] " achievementId="7083" defaulttoggle="0">
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | WIZARD's TOWER"/>
             <MarkerCategory name="1" DisplayName="1. Speak to Zojja at the Wizard's Tower."/>
             <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>
@@ -674,7 +674,7 @@
 
         </MarkerCategory>
         
-        <MarkerCategory name="wgh" DisplayName="Wayfinder Guided Home [H] " achievementId="7353">
+        <MarkerCategory name="wgh" DisplayName="Wayfinder Guided Home [H] " achievementId="7353" defaulttoggle="0">
             <MarkerCategory name="loc" IsSeparator="1" DisplayName="  | ASCALON"/>
             <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
         </MarkerCategory>
