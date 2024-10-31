@@ -103,30 +103,208 @@
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
+            <MarkerCategory name="arb" DisplayName="Arborstone">
+                <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
+                    <MarkerCategory name="tdoz" DisplayName="The Disappearance of Zunraa">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>            
+                </MarkerCategory>
+
+                <MarkerCategory name="zunraa" DisplayName="Zunraa's Gift">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="loc" DisplayName="Toggle Location" iconFile="Data/Images/Zunraa's Gift.png" inGameVisibility="0" mapDisplaySize="32"/>
+                </MarkerCategory>
+                
+            </MarkerCategory>
+
             <MarkerCategory name="de" DisplayName="Dragon's End">
+                <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
+                    <MarkerCategory name="defsp" DisplayName="Dragon's End's First Spirit Portal">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="dessp" DisplayName="Dragon's End's Second Spirit Portal">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>                    
+                </MarkerCategory>
             </MarkerCategory>
 
             <MarkerCategory name="gd" DisplayName="Gyala Delve">
             </MarkerCategory>
 
             <MarkerCategory name="nkc" DisplayName="New Kaineng City">
+
+                <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
+                    <MarkerCategory name="nkfsp" DisplayName="New Kaineng's First Spirit Portal"/>
+
+                    <MarkerCategory name="nkssp" DisplayName="New Kaineng's Second Spirit Portal">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>                    
+                </MarkerCategory>
+
+                <MarkerCategory name="wind" DisplayName="Wind through the Walls" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="jbglider" DisplayName="Jade Bot Glide Booster Shortcut" iconFile="Data/Images/Jumping Puzzles/JadeBotGlideBooster.png" iconSize="0.5"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                </MarkerCategory>
             </MarkerCategory>
 
             <MarkerCategory name="sp" DisplayName="Seitung Province">
+                                
+                <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
+                    <MarkerCategory name="inoaf" DisplayName="In Need of a Friend">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="circle" DisplayName="Toggle Locations" iconFile="Data/Images/Circle.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    </MarkerCategory>
+                    
+                    <MarkerCategory name="itpd" DisplayName="Into the Puzzling Dark" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="128"/>
+                        <MarkerCategory name="chest" DisplayName="Toggle Chest Paths" color="FFD800" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png"/>
+                        <MarkerCategory name="blue" DisplayName="Toggle Blue Path" color="0099FF" alpha="1.0"/>
+                        <MarkerCategory name="green" DisplayName="Toggle Green Path" color="00FF00" alpha="1.0"/>
+                        <MarkerCategory name="red" DisplayName="Toggle Red Path" color="FF0000" alpha="1.0"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="E6E6E6"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="guest" DisplayName="Guest Appearance">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="hftb" DisplayName="Hope for the Best">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="loc" DisplayName="Toggle Location" iconFile="Data/Images/Circle - Orange.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="sgk" DisplayName="Seeking Greater Knowledge">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="pmp" DisplayName="Practise Makes Perfect"/>
+
+                    <MarkerCategory name="spfsp" DisplayName="Seitung Province's First Spirit Portal"/>
+
+                    <MarkerCategory name="spssp" DisplayName="Seitung Province's Second Spirit Portal">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+                    
+                </MarkerCategory>
+                
                 <MarkerCategory name="author" DisplayName="Authorial Intent" achievementId="6069"/>
-                <MarkerCategory name="bian" DisplayName="Bian's World Tour" achievementId="6418"/>
+
+                <MarkerCategory name="bian" DisplayName="Bian's World Tour" achievementId="6418" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                    <MarkerCategory name="patrol" DisplayName="Bian's Patrol Route" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="citadel" DisplayName="Black Citadel" miniMapVisibility="0"/>
+                    <MarkerCategory name="divinity" DisplayName="Divinity's Reach" miniMapVisibility="0"/>
+                    <MarkerCategory name="hoelbrak" DisplayName="Hoelbrak" miniMapVisibility="0"/>
+                    <MarkerCategory name="la" DisplayName="Lion's Arch" miniMapVisibility="0"/>
+                    <MarkerCategory name="rata" DisplayName="Rata Sum" miniMapVisibility="0"/>
+                    <MarkerCategory name="grove" DisplayName="The Grove" miniMapVisibility="0"/>
+                </MarkerCategory>
+
                 <MarkerCategory name="dwrr" DisplayName="Daigo Ward Raptor Ride" achievementId="6231"/>
                 <MarkerCategory name="dtrr" DisplayName="Derelict Temple Raptor Ride" achievementId="6257"/>
-                <MarkerCategory name="itpd" DisplayName="Into the Puzzling Dark" achievementId="0000"/>
+                <MarkerCategory name="isp" DisplayName="Illuminating Seitung Province" achievementId="6239">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                
                 <MarkerCategory name="training" DisplayName="Jumping Training" achievementId="6464"/>
                 <MarkerCategory name="misty" DisplayName="Misty Leap" achievementId="6198"/>
-                <MarkerCategory name="sjrr" DisplayName="Shing Jea Monastery Raptor Ride" achievementId="6394"/>
+                <MarkerCategory name="sjmrr" DisplayName="Shing Jea Monastery Raptor Ride" achievementId="6394"/>
                 <MarkerCategory name="spsr" DisplayName="Seitung Prison Springer Ride" achievementId="6136"/>
-                <MarkerCategory name="childcare" DisplayName="Spiritual Childcare" achievementId="6314"/>
-                <MarkerCategory name="trials" DisplayName="Trials of the Tengu" achievementId="6118"/>
+                <MarkerCategory name="childcare" DisplayName="Spiritual Childcare" achievementId="6314">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
+                    <MarkerCategory name="1" DisplayName="1. Enjoys large bridges" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="2" DisplayName="2. Watches dockworkers at Seitung" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="3" DisplayName="3. Looms high above a naga nest" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="4" DisplayName="4. Lurks near shore leading to an eerie cave" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="5" DisplayName="5. Waits by the docks near an elevator" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="6" DisplayName="6. Perches on a ledge by an expensive mansion" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="7" DisplayName="7. Lounges on the shores of a recuperative beach" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="8" DisplayName="8. Waits near a house looking over the harbor" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="9" DisplayName="9. Hides inside a tall, bright building" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="10" DisplayName="10. Enjoys the smells of food at Daigo Ward" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="11" DisplayName="11. Loves playing with baby fish" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="12" DisplayName="12. Likes to hide in garden landscaping" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="13" DisplayName="13. Hides on a balcony at the monastery" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="14" DisplayName="14. Stares at windmills and baby fish" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="15" DisplayName="15. Loves waterfalls at the monastery" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="16" DisplayName="16. Relaxes near cranes and koi" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="17" DisplayName="17. Listens to the chatter of merchants" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="18" DisplayName="18. Fears Nian statues" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="19" DisplayName="19. Lurks in a small cave in Zen Daijun" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="20" DisplayName="20. Plays near a haunted temple" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="21" DisplayName="21. Hides under a bridge" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="22" DisplayName="22. Watches Aetherblades near the monastery" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="23" DisplayName="23. Enjoys the view of a fishing hamlet and the bay" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="24" DisplayName="24. Plays with drakes" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="25" DisplayName="25. Plays amidst the monastery's landscaping" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="26" DisplayName="26. Admires the landscaping of Seitung Harbor" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="27" DisplayName="27. Looks down upon a fishing hamlet" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="28" DisplayName="28. Adores cats" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="29" DisplayName="29. Prefers the snow" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="30" DisplayName="30. Admires tengu hunters" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="31" DisplayName="31. Lounges at a lagoon island" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="32" DisplayName="32. Hides under stairs by a waterfall" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="33" DisplayName="33. Relaxes on the beach by a temple" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="34" DisplayName="34. Hides behind a waterfall in a wealthy part of town" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="35" DisplayName="35. Leaps from roof tops" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="36" DisplayName="36. Runs along the walls of the monastery" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="37" DisplayName="37. Resides along the perimeter of a temple" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="38" DisplayName="38. Sits atop the roofs of Daigo Ward" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
+
+                </MarkerCategory>
+                <MarkerCategory name="trials" DisplayName="Trials of the Tengu" achievementId="6118" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/WGlider.png" iconSize="0.5"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="zunraa" DisplayName="Zunraa's Gift">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="loc" DisplayName="Toggle Location" iconFile="Data/Images/Zunraa's Gift.png" inGameVisibility="0" mapDisplaySize="32"/>
+                </MarkerCategory>
+
             </MarkerCategory>
 
             <MarkerCategory name="tew" DisplayName="The Echovald Wilds">
+                <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
+                    <MarkerCategory name="ewfsp" DisplayName="Echovald Wild's First Spirit Portal">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="ewssp" DisplayName="Echovald Wild's Second Spirit Portal [Req's Meta]">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+                </MarkerCategory>
             </MarkerCategory>
 
         </MarkerCategory>
