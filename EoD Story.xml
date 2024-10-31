@@ -12,7 +12,7 @@
 
         <!-- Chapter 2 -->
         <!-- Mantis Pose -->
-        <Trail type="leag.eod.story.mantis" trailData="Data/EoD/Story/Mantis Pose.trl"/> 
+        <Trail type="leag.eod.story.mantis" trailData="Data/EoD/Story/Mantis Pose.trl" color="64FE11"/> 
         <POI MapID="1460" xpos="-1000.661" ypos="98.09703" zpos="-183.0193" type="leag.eod.story.respect" GUID="uhglEE9W2kS4TEcKvqRLWg==" info="Follow Kasmeer's Lead, Bow when she Bows, Kneel when she Kneels." infoRange="5" iconFile="Data/Images/Icons/Blank.png"/>
         <POI MapID="1460" xpos="-1016.454" ypos="96.59636" zpos="-182.4756" type="leag.eod.story.respect" GUID="LPwTeFI59kCbg12H30WxWw==" iconFile="Data/Images/Emote - Bow.png" alpha="0.8"/>
         <POI MapID="1460" xpos="-1020.194" ypos="96.59636" zpos="-182.4725" type="leag.eod.story.respect" GUID="pjeEr8/vp0ibs0R0htEUvw==" iconFile="Data/Images/Emote - Kneel.png" alpha="0.8"/>
