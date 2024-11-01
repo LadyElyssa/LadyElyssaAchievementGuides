@@ -283,7 +283,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="trials" DisplayName="Trials of the Tengu" achievementId="6118" texture="Data/Images/Trails/Trail Pointer - Small.png">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/WGlider.png" iconSize="0.5"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
                 </MarkerCategory>
 
