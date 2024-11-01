@@ -17,7 +17,8 @@
         <Trail type="leag.eod.sp.guardian.inoaf" trailData="Data/EoD/A Guardian Once More 1b.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="FF5016"/>
         <Trail type="leag.eod.sp.guardian.inoaf" trailData="Data/EoD/A Guardian Once More 1c.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="FF5016"/>
         <Trail type="leag.eod.sp.guardian.inoaf" trailData="Data/EoD/A Guardian Once More 1.trl" color="FF5016"/>
-        
+        <Trail type="leag.eod.sp.guardian.inoaf" trailData="Data/EoD/A Guardian Once More 2.trl" color="FF5016"/>
+
         <Trail type="leag.eod.sp.guardian.itpd.trail" trailData="Data/EoD/Into the Puzzling Dark.trl" color="FF5016"/>
         <POI MapID="1442" xpos="206.1496" ypos="54.81158" zpos="-348.0932" type="leag.eod.sp.guardian.itpd.wp" GUID="5/odpwH0n0ybetY016KBPw==" copy="[&BJ4MAAA=]" copy-message="Village Waypoint"/>
         <Trail type="leag.eod.sp.guardian.itpd.trail" trailData="Data/EoD/Mini Dungeons/Spirit Vestibule 1.trl"/>
@@ -149,7 +150,7 @@
         <POI MapID="1442" xpos="-936.846" ypos="81.5872" zpos="-302.108" type="leag.eod.sp.childcare.36" GUID="XypDmLFZXESOALw/2BE6vQ=="/>
 
         <!-- Trials of the Tengu -->
-        <Trail type="leag.eod.sp.trials" trailData="Data/EoD/Jumping Puzles/Trials of the Tengu.trl"/>
+        <Trail type="leag.eod.sp.trials" trailData="Data/EoD/Jumping Puzzles/Trials of the Tengu.trl"/>
         <POI MapID="1442" xpos="-860.2476" ypos="120.4227" zpos="-108.0494" type="leag.eod.sp.trials.sign" GUID="m0Ck45FYGEeC84QvfyMJYw==" iconFile="Data/Images/Jumping Puzzles/Trials of the Tengu.png"/>
         <POI MapID="1442" xpos="-593.251" ypos="169.747" zpos="162.216" type="leag.eod.sp.trials.glider" GUID="itSAnYARe06dWmQE6u2Ixw==" fadeNear="1200" fadeFar="1400"/>
         <POI MapID="1442" xpos="-745.992" ypos="170.003" zpos="181.25" type="leag.eod.sp.trials.glider" GUID="XZ8A0Y7oEUSKbhlA0J0CJg==" fadeNear="1200" fadeFar="1400"/>
