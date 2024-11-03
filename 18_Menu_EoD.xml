@@ -122,7 +122,10 @@
                 
                 <MarkerCategory name="bih" DisplayName="Brothers in Harms [H]" achievementId="6319"/>
 
-
+                <!-- Building a Better Bot -->
+                <!--
+                <MarkerCategory name="bot" DisplayName="Building a Better Bot" achievementId="6399"/>
+                -->
         
                 <MarkerCategory name="enmity" DisplayName="Pure Enmity" achievementId="6290"/>
                 <MarkerCategory name="celestial" DisplayName="The End of the Celestial Ministry" achievementId="6381"/>
@@ -171,9 +174,6 @@
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     </MarkerCategory>
                 </MarkerCategory>
-
-                <!-- Building a Better Bot -->
-                <MarkerCategory name="bot" DisplayName="Building a Better Bot" achievementId="0000"/>
                 
                 <MarkerCategory name="cleanup" DisplayName="Cleanup Duty" achievementId="6398">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -271,7 +271,7 @@
                         <MarkerCategory name="circle" DisplayName="Toggle Locations" iconFile="Data/Images/Circle.png" inGameVisibility="0" mapDisplaySize="40"/>
                     </MarkerCategory>
                     
-                    <MarkerCategory name="itpd" DisplayName="Into the Puzzling Dark" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="">
+                    <MarkerCategory name="itpd" DisplayName="Into the Puzzling Dark" texture="Data/Images/Trails/Trail Pointer - Small.png">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="chest" DisplayName="Toggle Chest Paths" color="FFD800" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png"/>
@@ -282,22 +282,22 @@
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     </MarkerCategory>
 
-                    <MarkerCategory name="guest" DisplayName="Guest Appearance" achievementId="">
+                    <MarkerCategory name="guest" DisplayName="Guest Appearance">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     </MarkerCategory>
 
-                    <MarkerCategory name="hftb" DisplayName="Hope for the Best" achievementId="">
+                    <MarkerCategory name="hftb" DisplayName="Hope for the Best">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="loc" DisplayName="Toggle Location" iconFile="Data/Images/Circle - Orange.png" inGameVisibility="0" mapDisplaySize="40"/>
                     </MarkerCategory>
 
-                    <MarkerCategory name="sgk" DisplayName="Seeking Greater Knowledge" achievementId="">
+                    <MarkerCategory name="sgk" DisplayName="Seeking Greater Knowledge">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     </MarkerCategory>
 
-                    <MarkerCategory name="pmp" DisplayName="Practise Makes Perfect" achievementId=""/>
+                    <MarkerCategory name="pmp" DisplayName="Practise Makes Perfect"/>
 
                     <MarkerCategory name="spfsp" DisplayName="Seitung Province's First Spirit Portal"/>
 
