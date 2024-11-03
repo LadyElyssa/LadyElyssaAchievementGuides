@@ -1,5 +1,18 @@
 <OverlayData>
     <POIs>
+        <!-- ARBORSTONE -->
+
+        <!-- A Blooming Errand -->
+
+        <!-- Brothers in Harms [H] -->
+
+        <!-- Building a Better Bot -->
+        <!-- Goes hand in hand with Golem Behavior Analysis [H] -->
+
+        <!-- The End of the Celestial Ministry -->
+        <!-- Followed by -->
+        <!-- Pure Enmity [H] -->
+
 
         <!-- A Guardian Once More -->
         <!-- ARBORSTONE -->
@@ -60,15 +73,19 @@
         <Trail type="leag.eod.sp.bian.hoelbrak" trailData="Data/EoD/Bian - Hoelbrak.trl"/>
 
         <!-- Daigo Ward Raptor Ride -->
+        <Trail type="leag.eod.sp.dwrr" trailData="Data/EoD/Daigo Ward Raptor Ride Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="leag.eod.sp.dwrr" trailData="Data/EoD/Daigo Ward Raptor Ride.trl"/>
 
         <!-- Shing Jea Monastery Raptor Ride -->
+        <Trail type="leag.eod.sp.sjmrr" trailData="Data/EoD/Shing Jea Monastery Raptor Ride Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="leag.eod.sp.sjmrr" trailData="Data/EoD/Shing Jea Monastery Raptor Ride.trl"/>
 
         <!-- Derelict Temple Raptor Ride -->
+        <Trail type="leag.eod.sp.dtrr" trailData="Data/EoD/Derelict Temple Raptor Ride Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="leag.eod.sp.dtrr" trailData="Data/EoD/Derelict Temple Raptor Ride.trl"/>
 
         <!-- Seitung Prison Springer Ride -->
+        <Trail type="leag.eod.sp.spsr" trailData="Data/EoD/Seitung Prison Springer Ride Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="leag.eod.sp.spsr" trailData="Data/EoD/Seitung Prison Springer Ride.trl"/>
 
         <!-- Illuminating Seitung Province -->
@@ -168,7 +185,22 @@
         <POI MapID="1442" xpos="-189.359" ypos="56.7007" zpos="-476.154" type="leag.eod.sp.zunraa.loc" GUID="pPnG+ChksE2cGUV1/CEgkg=="/>
 
 
-        <!-- NEW KAINENG CITY -->
+        <!-- NEW KAINENG CITY -->         
+
+        <Trail type="leag.eod.nkc.cleanup" trailData="Data/EoD/Cleanup Duty 1.trl"/>
+        <Trail type="leag.eod.nkc.cleanup" trailData="Data/EoD/Cleanup Duty 2 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.eod.nkc.cleanup" trailData="Data/EoD/Cleanup Duty 2.trl"/>
+        <POI MapID="1438" xpos="-884.92" ypos="13.9187" zpos="-715.48" type="leag.eod.nkc.cleanup.wp" GUID="Y/QinRVGAE+gGf7fU4ldtw==" copy="[&BMYMAAA=]" copy-message="Promenade Waypoint"/>
+
+        <Trail type="leag.eod.nkc.canals" trailData="Data/EoD/Clear the Canals.trl"/>
+
+        <Trail type="leag.eod.nkc.crow" trailData="Data/EoD/Crow Catcher.trl"/>
+        <POI MapID="1438" xpos="841.598" ypos="24.3107" zpos="-38.8825" type="leag.eod.nkc.crow.loc" GUID="brQAz9Ul5EKuQDv6z8k/iA=="/>
+        <POI MapID="1438" xpos="894.665" ypos="62.3479" zpos="-118.469" type="leag.eod.nkc.crow.loc" GUID="OQhZJQoaOUGhGovBMAcQuQ=="/>
+        <POI MapID="1438" xpos="983.721" ypos="68.2806" zpos="-102.756" type="leag.eod.nkc.crow.loc" GUID="7zKT6C3rUkaOGndmsa1xcQ=="/>
+        <POI MapID="1438" xpos="999.747" ypos="35.4672" zpos="-35.2112" type="leag.eod.nkc.crow.loc" GUID="U4zSLAk5wEW5GRG4CHLQBw=="/>
+        <POI MapID="1438" xpos="952.201" ypos="31.6152" zpos="-42.5328" type="leag.eod.nkc.crow.loc" GUID="Eq1y6WLvuEeMLhpp0FcSeQ=="/>
+        <POI MapID="1438" xpos="978.38" ypos="14.654" zpos="28.5748" type="leag.eod.nkc.crow.loc" GUID="LoiUc/Hr1UaFu2U2KeQmOg=="/>
 
         <Trail type="leag.eod.nkc.guardian.nkfsp" trailData="Data/EoD/New Kaineng's First Spirit Portal Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="FF5016"/>
         <Trail type="leag.eod.nkc.guardian.nkfsp" trailData="Data/EoD/New Kaineng's First Spirit Portal.trl" color="FF5016"/>
@@ -177,6 +209,99 @@
         <Trail type="leag.eod.nkc.guardian.nkssp" trailData="Data/EoD/New Kaineng's Second Spirit Portal.trl" color="FF5016"/>
         <POI MapID="1438" xpos="1046.54" ypos="24.403" zpos="579.152" type="leag.eod.nkc.guardian.nkssp.wp" GUID="hbDc4pvuPUCqRiUProoY0w==" copy="[&BMoMAAA=]" copy-message="Waypoint zu Heltzer"/>
 
+        <!-- Honorary Plumber -->
+        <Trail type="leag.eod.nkc.plumber" trailData="Data/EoD/Honorary Plumber 1.trl"/>
+        <Trail type="leag.eod.nkc.plumber" trailData="Data/EoD/Honorary Plumber 2.trl"/>
+        <Trail type="leag.eod.nkc.plumber" trailData="Data/EoD/Honorary Plumber 3.trl"/>
+        <POI MapID="1438" xpos="-886.818" ypos="-32.815" zpos="-309.705" type="leag.eod.nkc.plumber.loc" GUID="fTrFSFJ5ukOiETVLg8igAQ=="/>
+        <POI MapID="1438" xpos="-705.453" ypos="-13.8884" zpos="-567.351" type="leag.eod.nkc.plumber.loc" GUID="vvweZ9dly02hLSPy+34ZbA=="/>
+        <POI MapID="1438" xpos="-1008.02" ypos="-114.491" zpos="338.537" type="leag.eod.nkc.plumber.loc" GUID="/AAOrz1np0+0rvs9Opap6Q=="/>
+        <POI MapID="1438" xpos="-668.691" ypos="-44.7264" zpos="593.069" type="leag.eod.nkc.plumber.loc" GUID="QR5B6QzNvEGdfbAn+WJMEQ=="/>
+        <POI MapID="1438" xpos="1025.63" ypos="-12.5269" zpos="-634.627" type="leag.eod.nkc.plumber.loc" GUID="3gOEZFFv8kmQ8Bb4tCXZ9w=="/>
+        <POI MapID="1438" xpos="597.274" ypos="-12.7102" zpos="36.4613" type="leag.eod.nkc.plumber.loc" GUID="0KZ0MpmcCUS6rLfFx94qrA=="/>
+        <POI MapID="1438" xpos="919.2" ypos="-37.6496" zpos="9.16568" type="leag.eod.nkc.plumber.loc" GUID="pmb2MqfhVEGJskl9PC+pag=="/>
+        <POI MapID="1438" xpos="993.493" ypos="-127.774" zpos="581.799" type="leag.eod.nkc.plumber.loc" GUID="827UdnyfwE6Z8jJL/GWobw=="/>
+        <POI MapID="1438" xpos="459.629" ypos="-12.7304" zpos="611.837" type="leag.eod.nkc.plumber.loc" GUID="adpiuIjsgkGOIeEMWyW46Q=="/>
+        <POI MapID="1438" xpos="39.8437" ypos="-11.6153" zpos="436.193" type="leag.eod.nkc.plumber.loc" GUID="ud3mIVPRx0+3ha/R4P0qYg=="/>
+        <POI MapID="1438" xpos="-86.0736" ypos="-12.7304" zpos="172.305" type="leag.eod.nkc.plumber.loc" GUID="JZHNmRfrOkmqqrrEeFzI5g=="/>
+        <POI MapID="1438" xpos="-410.093" ypos="-10.9399" zpos="-3.36848" type="leag.eod.nkc.plumber.loc" GUID="AkYd20e+EUuef2KaHDPOhQ=="/>
+        <POI MapID="1438" xpos="-191.232" ypos="-12.7305" zpos="-203.036" type="leag.eod.nkc.plumber.loc" GUID="NJ3Ngqqnu0i9giUKL5JEsQ=="/>
+        <POI MapID="1438" xpos="203.102" ypos="-12.4336" zpos="-276.711" type="leag.eod.nkc.plumber.loc" GUID="xuf5Ac9l1kG5g2EeP8mF8w=="/>
+
+        <!-- Kaineng Unmade -->
+        <POI MapID="1438" xpos="741.764" ypos="21.1847" zpos="5.0345" type="leag.eod.nkc.unmade" GUID="c8627i+bOUC92bzcTa5mpQ=="/>
+        <POI MapID="1438" xpos="-167.988" ypos="120.157" zpos="-468.476" type="leag.eod.nkc.unmade" GUID="QD7yiCPanku+W/gK8lYqww=="/>
+        <POI MapID="1438" xpos="-548.908" ypos="120.173" zpos="-201.493" type="leag.eod.nkc.unmade" GUID="0TyS2SsAfk+S1+BZQ3IQ8w=="/>
+        <POI MapID="1438" xpos="-527.097" ypos="129.35" zpos="107.853" type="leag.eod.nkc.unmade" GUID="A9su00oA3UeRsrS6CfR2YA=="/>
+        <POI MapID="1438" xpos="-144.366" ypos="120.33" zpos="442.85" type="leag.eod.nkc.unmade" GUID="Cmajbre8YE+DDy11XAbaew=="/>
+
+        <!-- Light These Streets (Lanterns) -->
+        <Trail type="leag.eod.nkc.light.1" trailData="Data/EoD/Light These Streets 1a.trl"/>
+        <Trail type="leag.eod.nkc.light.1" trailData="Data/EoD/Light These Streets 1a Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.eod.nkc.light.1" trailData="Data/EoD/Light These Streets 1b.trl"/>
+        <Trail type="leag.eod.nkc.light.2" trailData="Data/EoD/Light These Streets 2.trl"/>
+        <POI MapID="1438" xpos="-889.552" ypos="2.84449" zpos="-142.547" type="leag.eod.nkc.light.start" GUID="FvrVDWKKtk6IaWCk58qyjg=="/>
+        <POI MapID="1438" xpos="-870.3232" ypos="1.321038" zpos="-618.3548" type="leag.eod.nkc.light.wp" GUID="9wEkV8FTU0i1N2myZNv/kw==" copy="[&BMYMAAA=]" copy-message="Promenade Waypoint"/>
+        <POI MapID="1438" xpos="-882.497" ypos="2.8632" zpos="-126.386" type="leag.eod.nkc.light.1" GUID="9SsayCXPFkuHmiFM33oDVg=="/>
+        <POI MapID="1438" xpos="-576.573" ypos="198.182" zpos="-538.341" type="leag.eod.nkc.light.jbwp" GUID="3H0H7TF9OkSND/epEGX8iw==" info="CREATE Jade Bot: Personal Waypoint" infoRange="3"/>
+        <POI MapID="1438" xpos="-572.659" ypos="198.2088" zpos="-540.7997" type="leag.eod.nkc.light.2" GUID="jt3xSV+nYUyGx38jHoF9fA=="/>
+        <POI MapID="1438" xpos="-870.04" ypos="1.33205" zpos="-620.367" type="leag.eod.nkc.light.jbpwp" GUID="gQjGnlGUmUCXRn81UuFXkw==" info="RETURN to your Jade Bot: Personal Waypoint" infoRange="3"/>
+
+        <!-- Little Foxes in the Big City -->
+        <Trail type="leag.eod.nkc.foxes.1" trailData="Data/EoD/Little Foxes 1.trl"/>
+        <Trail type="leag.eod.nkc.foxes.2" trailData="Data/EoD/Little Foxes 2.trl"/>
+        <Trail type="leag.eod.nkc.foxes.2" trailData="Data/EoD/Little Foxes 2 Alt .trl"/>
+        <Trail type="leag.eod.nkc.foxes.3" trailData="Data/EoD/Little Foxes 3a.trl"/>
+        <Trail type="leag.eod.nkc.foxes.3" trailData="Data/EoD/Little Foxes 3b.trl"/>
+        <POI MapID="1438" xpos="-889.552" ypos="2.84449" zpos="-142.547" type="leag.eod.nkc.foxes.start" GUID="2coUJAdNn0WCfKIJcMEoGg=="/>
+        <POI MapID="1438" xpos="-740.992" ypos="198.038" zpos="-229.272" type="leag.eod.nkc.foxes.jbwp" GUID="Lo/r/Yb24UGwEl/RUiwCpw==" info="CREATE Jade Bot: Personal Waypoint" infoRange="3"/>
+        <POI MapID="1438" xpos="-845.078" ypos="129.558" zpos="-21.2502" type="leag.eod.nkc.foxes.jbpwp" GUID="z7PvvhUMski5edXSO6dbMQ==" info="RETURN to your Jade Bot: Personal Waypoint" infoRange="3"/>
+        <POI MapID="1438" xpos="-887.974" ypos="2.86248" zpos="-124.763" type="leag.eod.nkc.foxes.1" GUID="YN6PKxmYO0mq5utIegJv6Q=="/>
+        <POI MapID="1438" xpos="-881.812" ypos="2.86248" zpos="-123.346" type="leag.eod.nkc.foxes.2" GUID="UNb8gzf43kSNALSbR/6vFA=="/>
+        <POI MapID="1438" xpos="-741.172" ypos="198.042" zpos="-233.273" type="leag.eod.nkc.foxes.3" GUID="tzBNShVtXE+auQLb6mtpHw=="/>
+
+        <!-- Literary Thievery -->
+        <POI MapID="1438" xpos="986.739" ypos="11.5199" zpos="-618.407" type="leag.eod.nkc.literary" GUID="ds7iClmPA02LYmlrfmZIcw=="/>
+        <POI MapID="1438" xpos="892.843" ypos="50.6586" zpos="363.355" type="leag.eod.nkc.literary" GUID="XT5jkOakc0WyA+bQHXj7+w=="/>
+        <POI MapID="1438" xpos="1030.35" ypos="2.62577" zpos="640.52" type="leag.eod.nkc.literary" GUID="SZcF6V+HxE66i3Wcbw4CcQ=="/>
+
+        <!-- Read &quot;The Secret of the Vault&quot; -->
+        <Trail type="leag.eod.nkc.read.trail" trailData="Data/EoD/The Secret of the Vault.trl"/>
+        <POI MapID="1438" xpos="982.888" ypos="-32.8344" zpos="630.038" type="leag.eod.nkc.read.1" GUID="CICWgH/2C02zBzd7delQ3Q=="/>
+        <POI MapID="1438" xpos="1012.7" ypos="-52.6647" zpos="646.753" type="leag.eod.nkc.read.3" GUID="O5wQDhr+aE2SNgzEkyERBg=="/>
+        <POI MapID="1438" xpos="937.735" ypos="-68.9752" zpos="603.914" type="leag.eod.nkc.read.2" GUID="1ARm9JSYCka87x8DC9o6HA=="/>
+        <POI MapID="1438" xpos="1026.24" ypos="-124.198" zpos="565.365" type="leag.eod.nkc.read.4" GUID="Hmokr47IUkmc62g+ugiPTg=="/>
+        <POI MapID="1438" xpos="1029.78" ypos="-77.0167" zpos="574.904" type="leag.eod.nkc.read.5" GUID="Vl49S9wqzE6jvj2dvJLh0Q=="/>
+        <POI MapID="1438" xpos="991.486" ypos="-103.07" zpos="629.05" type="leag.eod.nkc.read.6" GUID="QErelOqaeESCr7K1nKBxyg=="/>
+        <POI MapID="1438" xpos="1018.51" ypos="-147.508" zpos="502.499" type="leag.eod.nkc.read.7" GUID="35Pkr6OoWEK0BGQs/Yu2dQ=="/>
+        <POI MapID="1438" xpos="1022.81" ypos="-48.0884" zpos="520.347" type="leag.eod.nkc.read.8" GUID="fuT7espYAU6WI/H2BAUHiw=="/>
+        <POI MapID="1438" xpos="931.211" ypos="-71.4676" zpos="564.036" type="leag.eod.nkc.read.9" GUID="iEIJByvEVkyG+PAuwrrbCw=="/>
+
+        <!-- The History of New Kaineng -->
+        <POI MapID="1438" xpos="-470.677" ypos="3.13701" zpos="666.434" type="leag.eod.nkc.history.1" GUID="jd6mmUICzUO3EBwIyvTiuw=="/>
+        <POI MapID="1438" xpos="-57.601" ypos="19.9284" zpos="39.9095" type="leag.eod.nkc.history.2" GUID="HL4yUvdUjkeTQLLPmu4qAQ=="/>
+        <POI MapID="1438" xpos="-657.215" ypos="198.026" zpos="-289.158" type="leag.eod.nkc.history.3" GUID="TID5kBlNB02iztAg3Z30qw=="/>
+        <POI MapID="1438" xpos="297.994" ypos="2.92289" zpos="-520.163" type="leag.eod.nkc.history.4" GUID="nNgkG0hmZ0in976pypuFKQ=="/>
+        <POI MapID="1438" xpos="-768.77" ypos="-21.301" zpos="591.002" type="leag.eod.nkc.history.5" GUID="4dRyTrB8mUOp92Nmm02ZkA=="/>
+        <POI MapID="1438" xpos="625.79" ypos="-12.8655" zpos="331.848" type="leag.eod.nkc.history.6" GUID="NmuF+jthO0SFyF1aCXH7Og=="/>
+        <POI MapID="1438" xpos="891.635" ypos="204.246" zpos="479.788" type="leag.eod.nkc.history.7" GUID="ekc7IL5qXUmVuLpggdj4FQ=="/>
+        <POI MapID="1438" xpos="933.192" ypos="-11.0483" zpos="607.01" type="leag.eod.nkc.history.8" GUID="c6D+buLTVE+OxeuqDhi2UQ=="/>
+        
+        <!-- Raptor Runner: New Kaineng City -->
+        <Trail type="leag.eod.nkc.rrnkc" trailData="Data/EoD/Raptor Runner New Kaineng City Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.eod.nkc.rrnkc" trailData="Data/EoD/Raptor Runner New Kaineng City.trl"/>
+
+        <!-- Springer Fling: New Kaineng City -->
+        <Trail type="leag.eod.nkc.sfnkc" trailData="Data/EoD/Springer Fling New Kaineng City Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.eod.nkc.sfnkc" trailData="Data/EoD/Springer Fling New Kaineng City.trl"/>
+
+        <!-- The Hidden Vault -->
+        <Trail type="leag.eod.nkc.vault" trailData="Data/EoD/The Hidden Vault.trl"/>
+        <POI MapID="1438" xpos="933.85" ypos="-90.8932" zpos="559.146" type="leag.eod.nkc.vault" GUID="yWFvQj0YskWOeATwlHEd5g==" iconFile="Data/Images/Swirl - Sea Green.png" alpha="0.8" inGameVisibility="0" mapDisplaySize="64"/>
+        <POI MapID="1438" xpos="997.42" ypos="-59.5864" zpos="643.126" type="leag.eod.nkc.vault" GUID="SeBVCXG1QESmACZlQzX0WA==" iconFile="Data/Images/Swirl - Sea Green.png" alpha="0.8" inGameVisibility="0" mapDisplaySize="64"/>
+        <POI MapID="1438" xpos="1036.1" ypos="-98.5539" zpos="562.921" type="leag.eod.nkc.vault" GUID="fi1KxXQH30262AG+7BzkZA==" iconFile="Data/Images/Swirl - Sea Green.png" alpha="0.8" inGameVisibility="0" mapDisplaySize="64"/>
+
+        <!-- Wind Through the Walls -->
         <Trail type="leag.eod.nkc.wind" trailData="Data/EoD/Jumping Puzzles/Wind Through the Walls Start.trl"/>
         <POI MapID="1438" xpos="583.659" ypos="2.48471" zpos="-5.10766" type="leag.eod.nkc.wind.sign" GUID="ZCc1suCS9UytKSLBYAH6YQ==" iconFile="Data/Images/Jumping Puzzles/Wind Through the Walls.png"/>
         <Trail type="leag.eod.nkc.wind" trailData="Data/EoD/Jumping Puzzles/Wind Through the Walls Main.trl"/>
