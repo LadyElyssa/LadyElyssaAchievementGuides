@@ -116,7 +116,7 @@
         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
         <MarkerCategory name="am" DisplayName="Amnytas">
-        <MarkerCategory name="apk" DisplayName="A Promise Kept [H] (Do Comrades in Arms First) " defaulttoggle="0" achievementId="7059">
+        <MarkerCategory name="apk" DisplayName="A Promise Kept [H] (Do Comrades in Arms First)" defaulttoggle="0" achievementId="7059">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="basil" DisplayName="Basil"/>
             <MarkerCategory name="la" IsSeparator="1" DisplayName="  | LION'S ARCH"/>
