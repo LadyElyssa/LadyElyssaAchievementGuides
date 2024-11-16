@@ -93,43 +93,270 @@
 
             <MarkerCategory name="ch18" IsSeparator="1" DisplayName="CHAPTER 18"/>
             <MarkerCategory name="bookwurm" DisplayName="Kurzick Book Wurm" achievementId="6896" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" fadeNear="4000" fadeFar="8000" color="64FE11"/>
-
-            <!--
-            <MarkerCategory name="ch" IsSeparator="1" DisplayName="CHAPTER "/>
-            -->
             
 
         </MarkerCategory>
 
-            <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+        
+        <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
             <!-- ARBORSTONE -->
 
             <MarkerCategory name="arb" DisplayName="Arborstone">
 
-                
-
-                <MarkerCategory name="errand" DisplayName="A Blooming Errand" achievementId="6165"/>
-
-
                 <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
                     <MarkerCategory name="tdoz" DisplayName="The Disappearance of Zunraa">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-                    </MarkerCategory>            
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="snargle" DisplayName="A Sampling of Snargle" achievementId="6152">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="book" DisplayName="Toggle Book Markers" iconFile="Data/Images/Notes.png" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+                    <MarkerCategory name="de" DisplayName="Dragon's End"/>
+                    <MarkerCategory name="nkc" DisplayName="New Kaineng City"/>
+                    <MarkerCategory name="sp" DisplayName="Seitung Province"/>
+                    <MarkerCategory name="tew" DisplayName="The Echovald WIlds"/>                    
+                </MarkerCategory>
+
+                <MarkerCategory name="albax" DisplayName="Albax, the Unlucky [H] (Reqs DE Meta)" achievementId="6455" defaulttoggle="0">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" mapDisplaySize="32" heightOffset="3.5"/>
+                    <MarkerCategory name="event" DisplayName="Toggle Event Markers" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="blank" IsSeparator="1" DisplayName="   "/>
+                    <MarkerCategory name="1" DisplayName="The noble bird has been swept from solitude into the hands of chaos"/>
+                    <MarkerCategory name="2" DisplayName="The porcelain feline beckons you toward service in the name of the savory"/>
+                    <MarkerCategory name="3" DisplayName="Bathed in gold and hubris, luck itself will lead you to me"/>
+                    <MarkerCategory name="4" DisplayName="In the sea of green, among the scaly ones, a relic lies with the mistakes of one's past"/>
+                    <MarkerCategory name="5" DisplayName="Brave the dead land to claim the foot of the swiftest"/>
+                    <MarkerCategory name="6" DisplayName="Find the former walker of the blasted land, and gain a symbol of new growth"/>
+                    <MarkerCategory name="7" DisplayName="In homes in pale parchment hills, find the form of an old survivor in the hands of a young one"/>
+                    <MarkerCategory name="8" DisplayName="In lush lands wracked with waste, ask for that which glitters in their patron's gaze"/>
+                    <MarkerCategory name="9" DisplayName="A sacred weapon is held in the boughs of great trees, never to be turned against them"/>
+                    <MarkerCategory name="10" DisplayName="The needy hold tight to a hope of plenty in a pitiless golden land"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="vaulter" DisplayName="Arborstone Vaulter" achievementId="6387" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" fadeNear="900" fadeFar="1600"/>
+
+                <!-- Building a Better Bot -->
+                
+                <MarkerCategory name="bot" DisplayName="Building a Better Bot" achievementId="6399">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="scan" DisplayName="Toggle Scan Markers" iconFile="Data/Images/Icons/Scan.png"  inGameVisibility="0" mapDisplaySize="24" heightOffset="3.5"/>
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" mapDisplaySize="32" heightOffset="3.5"/>
+                    <MarkerCategory name="event" DisplayName="Toggle Event Markers" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="blank" IsSeparator="1" DisplayName="   "/>
+                    <MarkerCategory name="1" DisplayName="Meet Nozomi and accept her request"/>
+                    <MarkerCategory name="2" DisplayName="Golem Behavior Analysis [H]">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="scan" DisplayName="Toggle Scan Markers" iconFile="Data/Images/Icons/Scan.png"  inGameVisibility="0" mapDisplaySize="24" heightOffset="3.5"/>
+                        <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" mapDisplaySize="32" heightOffset="3.5"/>
+                        <MarkerCategory name="event" DisplayName="Toggle Event Markers" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="blank" IsSeparator="1" DisplayName="   "/>
+                        <MarkerCategory name="1" DisplayName="Scan the C.L.E.A.N. 5000 golem in Metrica Province"/>
+                        <MarkerCategory name="2" DisplayName="Defeat the Inquest Golem Mark II in Mount Maelstrom"/>
+                        <MarkerCategory name="3" DisplayName="Scan a deactivated DYN 4652 golem in Timberline Falls."/>
+                        <MarkerCategory name="4" DisplayName="Scan a golem memory module in Sparkfly Fen."/>
+                    </MarkerCategory>
+                    <MarkerCategory name="3" DisplayName="Return data to Nozomi"/>
+                    <MarkerCategory name="4" DisplayName="Mech Behavior Analysis [H]">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="scan" DisplayName="Toggle Scan Markers" iconFile="Data/Images/Icons/Scan.png"  inGameVisibility="0" mapDisplaySize="24" heightOffset="3.5"/>
+                        <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" mapDisplaySize="32" heightOffset="3.5"/>
+                        <MarkerCategory name="event" DisplayName="Toggle Event Markers" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="blank" IsSeparator="1" DisplayName="   "/>
+                        <MarkerCategory name="1" DisplayName="Record combat protocols at Usoku's Watchtower in Seitung Province"/>
+                        <MarkerCategory name="2" DisplayName="Scan the distressed mech in Seitung Province."/>
+                        <MarkerCategory name="3" DisplayName="Assist a merchant or cleaning mech malfunction in New Kaineng City."/>
+                        <MarkerCategory name="4" DisplayName="Attend a posh party at Tae-Jin's estate in New Kaineng City."/>
+                        <MarkerCategory name="5" DisplayName="Scan the prototype mech at the Nahpui Lab in New Kaineng City."/>
+                        <MarkerCategory name="6" DisplayName="Scan a scrapped mech at the Xunlai Jade Junkyard in Echovald Wilds."/>
+                    </MarkerCategory>
+                    <MarkerCategory name="5" DisplayName="Return data to Nozomi"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="growth" DisplayName="Character Growth" achievementId="6333" texture="Data/Images/Trails/Trail Marker 1 Shaded.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" mapDisplaySize="32" heightOffset="3.5"/>
+                    <MarkerCategory name="event" DisplayName="Toggle Event Markers" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="blank" IsSeparator="1" DisplayName="   "/>
+                    <MarkerCategory name="1" DisplayName="Speak to Snargle Goldclaw, currently in Arborstone"/>
+                    <MarkerCategory name="2" DisplayName="Talk to Mamoru in Mori Village about obtaining a tengu-made bow">
+                        <MarkerCategory name="events" IsSeparator="1" DisplayName="EVENTS"/>
+                        <MarkerCategory name="archery" DisplayName="EVENT: Compete with tengu youngsters in the archery contest" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="3" DisplayName="Get a toy bell from the children of Seitung Harbor"/>
+                    <MarkerCategory name="4" DisplayName="Purchase tea and a teapot from Lady Kanda's teahouse in Kaineng"/>
+                    <MarkerCategory name="5" DisplayName="Check in with Snargle"/>
+                    <MarkerCategory name="6" DisplayName="Ask Speaker Eunjoo in Dragon's End about acquiring a relic"/>
+                    <MarkerCategory name="7" DisplayName="Purchase a painting of Empress Ihn Seitung Province"/>
+                    <MarkerCategory name="8" DisplayName="Obtain a sprout of the Forever Tree in Echovald Wilds">
+                        <MarkerCategory name="events" IsSeparator="1" DisplayName="EVENTS"/>
+                        <MarkerCategory name="protect" DisplayName="EVENT: Protect the sylvari until the ritual is complete " iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="9" DisplayName="Follow up on Snargle's progress"/>
+                    <MarkerCategory name="10" DisplayName="Obtain some incense from Sun-Hi in Echovald Wilds">
+                        <MarkerCategory name="events" IsSeparator="1" DisplayName="EVENTS"/>
+                        <MarkerCategory name="altar" DisplayName="EVENT: Defeat the spirits haunting the Tangled Altar" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="court" DisplayName="EVENT: Defeat the spirits haunting the Court of Song" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="perch" DisplayName="EVENT: Defeat the spirits haunting Aoi's Perch" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        </MarkerCategory>
+                    <MarkerCategory name="11" DisplayName="Obtain a copy of Ja-Wen's masterwork from Special Agent Teng in Seitung Province"/>
+                    <MarkerCategory name="12" DisplayName="Check in with Bonnie Kunderah. She can be found in the Ministry of Archives"/>
+                    <MarkerCategory name="13" DisplayName="Follow up with Snargle"/>
+                    <MarkerCategory name="14" DisplayName="Obtain a jade statue from Yenna in Dragon's End"/>
+                    <MarkerCategory name="15" DisplayName="Help Sagan Malaya in Echovald Wilds"/>
+                    <MarkerCategory name="16" DisplayName="Follow up with Snargle one last time"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="has" DisplayName="Hide-and-Seek" achievementId="6397" texture="Data/Images/Trails/Trail Pointer Dark - Small.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="loc" DisplayName="Toggle Possible Locations" iconFile="Data/Images/Orb - Dark Yellow.png" heightOffset="-0.5" maxSize="16" mapDisplaySize="24"/>
+                </MarkerCategory>
+                     
+                
+                <!-- Looking Back -->
+
+                <MarkerCategory name="looking" DisplayName="Looking Back" achievementId="6175" texture="Data/Images/Trails/Trail Marker 2 Dark.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" mapDisplaySize="32" heightOffset="3.5"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="blank" IsSeparator="1" DisplayName="   "/>
+                    <MarkerCategory name="1" DisplayName="Check in with Marjory at Arborstone"/>
+                    <MarkerCategory name="2" DisplayName="Find Marjory on a bridge within Kaineng Ruins"/>
+                    <MarkerCategory name="3" DisplayName="Find Marjory high above Tengu Square in Kaineng, "/>
+                    <MarkerCategory name="4" DisplayName="Find Marjory in a garden near an enormous jade monument."/>
+                    <MarkerCategory name="5" DisplayName="Meet Marjory near Haiju Docks"/>
+                    <MarkerCategory name="6" DisplayName="Find Marjory at the monastery, near the Royal Court. "/>
+                    <MarkerCategory name="7" DisplayName="Find Marjory at the afflicted memorial. "/>
+                    <MarkerCategory name="8" DisplayName="Find Marjory near the Zen Daijun shrines. "/>
+                    <MarkerCategory name="9" DisplayName="While DE Meta is not active,Find Marjory around the Outer Terrace. "/>
+                    <MarkerCategory name="10" DisplayName="While DE Meta is not active,Find Marjory in the Harvest Complex. "/>
+                    <MarkerCategory name="11" DisplayName="While DE Meta is not active, find Marjory in Seafarer's Enclave. "/>
+                    <MarkerCategory name="12" DisplayName="Meet Marjory by the Silent Surf. "/>
                 </MarkerCategory>
 
                 
-                <MarkerCategory name="bih" DisplayName="Brothers in Harms [H]" achievementId="6319"/>
+                <!-- Lost Lore -->
 
-                <!-- Building a Better Bot -->
-                <!--
-                <MarkerCategory name="bot" DisplayName="Building a Better Bot" achievementId="6399"/>
-                -->
-        
-                <MarkerCategory name="enmity" DisplayName="Pure Enmity" achievementId="6290"/>
-                <MarkerCategory name="celestial" DisplayName="The End of the Celestial Ministry" achievementId="6381"/>
+                <MarkerCategory name="lore" DisplayName="Lost Lore" achievementId="6356">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="read" DisplayName="Toggle Read Markers" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="12" heightOffset="-0.5"/>
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" mapDisplaySize="32" heightOffset="3.5"/>
+                    <MarkerCategory name="event" DisplayName="Toggle Event Markers" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="blank" IsSeparator="1" DisplayName="   "/>
+                    <MarkerCategory name="1" DisplayName="Speak with Balam Ri and accept her request"/>
+                    <MarkerCategory name="2" DisplayName="Meet with Juwon Ral in New Kaineng City"/>
+                    <MarkerCategory name="3" DisplayName="Foil the Purist plot in the monastery gardens"/>
+                    <MarkerCategory name="4" DisplayName="Root out saboteurs in the archives district"/>
+                    <MarkerCategory name="5" DisplayName="Drive Purists out of Jaya Bluffs"/>
+                    <MarkerCategory name="6" DisplayName="Search  the Assassin's Path"/>
+                    <MarkerCategory name="7" DisplayName="Search beneath the emperor's feet"/>
+                    <MarkerCategory name="8" DisplayName="Search in a great library across the sea" mapDisplaySize="8"/>
+                    <MarkerCategory name="9" DisplayName="Search the markets of New Kaineng City"/>
+                    <MarkerCategory name="10" DisplayName="Search the mists of Zen Daijun"/>
+                    <MarkerCategory name="11" DisplayName="Return to Balam Ri"/>
+                </MarkerCategory>
+    
+
+                <!-- The End of the Celestial Ministry -->
+
+                <MarkerCategory name="celestial" DisplayName="The End of the Celestial Ministry" achievementId="6381" texture="Data/Images/Trails/Trail Pointer Dark - Small.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" mapDisplaySize="32" heightOffset="3.5"/>
+                    <MarkerCategory name="event" DisplayName="Toggle Event Markers" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="blank" IsSeparator="1" DisplayName="   "/>
+                    <MarkerCategory name="1" DisplayName="Meet with Hui and accept his request"/>
+                    <MarkerCategory name="2" DisplayName="Speak to Xiaobo, the descendant of Minister Jaisan"/>
+                    <MarkerCategory name="3" DisplayName="Search the archives for Xiaobo's family history"/>
+                    <MarkerCategory name="4" DisplayName="Return to Hui with the document about the Ministry of Earth"/>
+                    <MarkerCategory name="5" DisplayName="Speak to Ju, the descendant of Minister Nai"/>
+                    <MarkerCategory name="6" DisplayName="Find rare flowers for Ju to get in her good graces">
+                        <!-- A Blooming Errand -->
+                        <MarkerCategory name="blooming" IsSeparator="1" DisplayName="A Blooming Errand [H]" defaulttoggle="0"/>
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" mapDisplaySize="32" heightOffset="3.5"/>
+                        <MarkerCategory name="event" DisplayName="Toggle Event Markers" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="ygf" DisplayName="Toggle Yellow Gentian Flowers" iconFile="Data/Images/Icons/Yellow Gentian Flower.png" inGameVisibility="0" mapDisplaySize="32"/>
+                        <MarkerCategory name="ygf" DisplayName="Toggle Pungent Gladiolus Flower" iconFile="Data/Images/Icons/Pungent Gladiolus Flower.png" inGameVisibility="0" mapDisplaySize="32"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="blank" IsSeparator="1" DisplayName="   "/>
+                        <MarkerCategory name="1" DisplayName="Find an alpine lily in Snowden Drifts"/>
+                        <MarkerCategory name="2" DisplayName="Find a yellow gentian flower in the Fields of Ruin"/>
+                        <MarkerCategory name="3" DisplayName="Find a pungent gladiolus in the Wayfarer Foothills"/>
+                        <MarkerCategory name="4" DisplayName="Assist Researcher Yon in Seitung Province for crimson sunflowers"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="7" DisplayName="Speak to Ju to receive her family history"/>
+                    <MarkerCategory name="8" DisplayName="Return Ju's family history to Hui."/>
+                    <MarkerCategory name="9" DisplayName="Speak to Suyin, the descendant of Minister Tao"/>
+                    <MarkerCategory name="10" DisplayName="Disrupt the Jade Brotherhood in Kaineng City to get in Suyin's good graces">
+                        <!-- Brothers in Harms -->
+                        <MarkerCategory name="brothers" IsSeparator="1" DisplayName="Brothers in Harms [H]" defaulttoggle="0"/>
+                        <MarkerCategory name="events" IsSeparator="1" DisplayName="COMPLETE ANY 4 OF THESE EVENTS"/>
+                        <MarkerCategory name="1" DisplayName="EVENT: Attend the particularly posh party" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="2" DisplayName="EVENT: Bring scrap to Officer Ji-Hu" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="3" DisplayName="EVENT: Catch the battery thief!" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="4" DisplayName="EVENT: Defeat the pair of Jade Brotherhood thieves!" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="5" DisplayName="EVENT: Escort Corvus to the processing center" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="6" DisplayName="EVENT: Escort Miju as they race against the clock!" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="7" DisplayName="EVENT: Jade Brotherhood Agent" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="8" DisplayName="EVENT: Protect the repair crew" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="9" DisplayName="EVENT: Protect the technicians from the Jade Brotherhood attackers" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                        <MarkerCategory name="10" DisplayName="EVENT: Recover tea crates from the Jade Brotherhood" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="11" DisplayName="Speak to Suyin to get her family history."/>
+                    <MarkerCategory name="12" DisplayName="Return Suyin's document to Hui."/>
+                    <MarkerCategory name="13" DisplayName="Disrupt Purist activity in Kaineng City for Hui">
+                        <!--  Pure Enmity -->
+                        <MarkerCategory name="enmity" IsSeparator="1" DisplayName="Pure Enmity [H]" defaulttoggle="0"/>
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="book" DisplayName="Toggle Book Markers" iconFile="Data/Images/Notes.png" inGameVisibility="0" mapDisplaySize="32"/>
+                        <MarkerCategory name="1" DisplayName="Search the ruins of Old Kaineng for the first clue."/>
+                        <MarkerCategory name="2" DisplayName="Search the ruins of Old Kaineng for the second clue."/>
+                        <MarkerCategory name="3" DisplayName="Search the ruins of Old Kaineng for the third clue."/>
+                        <MarkerCategory name="4" DisplayName="Search the ruins of Old Kaineng for the fourth clue."/>
+                    </MarkerCategory>        
+                    <MarkerCategory name="14" DisplayName="Return to Hui to discuss your findings"/>
+                </MarkerCategory>
+
                 
+                <!-- The Fate of House zu Heltzer  -->
+
+                <MarkerCategory name="fate" DisplayName="The Fate of House zu Heltzer" achievementId="6448" texture="Data/Images/Trails/Trail Pointer Dark - Small.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" mapDisplaySize="32" heightOffset="3.5"/>
+                    <MarkerCategory name="event" DisplayName="Toggle Event Markers" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="blank" IsSeparator="1" DisplayName="   "/>
+                    <MarkerCategory name="1" DisplayName="Meet with Valeria and accept her request"/>
+                    <MarkerCategory name="2" DisplayName="Find a pristine Kurzick relic within House zu Heltzer"/>
+                    <MarkerCategory name="3" DisplayName="Return to Valeria with the pristine Kurzick relic"/>
+                    <MarkerCategory name="4" DisplayName="Pay respects to Countess Danika zu Heltzer at her gravestone"/>
+                    <MarkerCategory name="5" DisplayName="Return to Valeria in the House zu Heltzer"/>
+                    <MarkerCategory name="6" DisplayName="Track down seven of the zu Heltzer tapestry pieces">                    
+                        <!-- Tracing the Tapestry -->
+                        <MarkerCategory name="tapestry" IsSeparator="1" DisplayName="Tracing the Tapestry [H]" defaulttoggle="0"/>
+                        <MarkerCategory name="1" DisplayName="Captain Hao Luen in Lion's Arch"/>
+                        <MarkerCategory name="2" DisplayName="Durmand Priory Archives" mapDisplaySize="8" miniMapVisibility="0"/>
+                        <MarkerCategory name="3" DisplayName="Speak to tengu in Caledon Forest"/>
+                        <MarkerCategory name="4" DisplayName="Fish in the lost wreckage in Seitung Province"/>
+                        <MarkerCategory name="5" DisplayName="Officer Suni in New Kaineng City's Lutgardis Plaza"/>
+                        <MarkerCategory name="6" DisplayName="Echovald Wilds (Fort Aspenwood Meta)"/>
+                        <MarkerCategory name="7" DisplayName="Shrine Guardian in Dragon's End"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="7" DisplayName="Meet with Valeria in Mori Village in Echovald Wilds"/>
+                    <MarkerCategory name="8" DisplayName="Speak with Valeria in Arborstone"/>
+                </MarkerCategory>
 
                 <MarkerCategory name="zunraa" DisplayName="Zunraa's Gift">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
