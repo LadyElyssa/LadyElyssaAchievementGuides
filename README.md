@@ -22,6 +22,13 @@ This pack currently covers:
 ## Festivals ##
 * Festival of the Four Winds
 
+## End of Dragons ##
+* Seitung Province
+* New Kaineng City
+* Arborstone
+* The Echovald Wilds (Work in Progress)
+* Dragon's End (Work in Progress)
+
 ## Janthir Wilds ##
 * Lowland Shore
 * Janthir Syntri
