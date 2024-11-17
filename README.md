@@ -7,7 +7,7 @@ This pack focuses purely on Achievements and Collections by [Lady Elyssa](https:
 This pack starts off with Secrets of the Obscure with Janthir Wilds to follow. After that I will begin working my way backwards through the achievements to the oldest of achieves.
 
 Principles
-* Markers and Trails for non-repeatable Achievements & Collections, for mostly repeatable achievements see [LadyElyssaTacoTrails](https://github.com/LadyElyssa/LadyElyssaTacoTrails)
+* Markers and Trails for non-repeatable Achievements & Collections, for mostly repeatable content see [LadyElyssaTacoTrails](https://github.com/LadyElyssa/LadyElyssaTacoTrails)
 * Aim to provide smooth trails by:
    * avoiding un-necessary combat
    * minimising terrain obstacles, like bushes, rocks or trees
