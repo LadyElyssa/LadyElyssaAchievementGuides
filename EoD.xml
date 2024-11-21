@@ -84,7 +84,7 @@
         <POI MapID="25" xpos="20.2814" ypos="25.3867" zpos="-652.164" type="leag.eod.arb.albax.talk" GUID="F4JqW7JfmUSI+EwC1wwBuQ=="/>
         <POI MapID="25" xpos="19.9631" ypos="24.3902" zpos="-651.231" type="leag.eod.arb.albax.wp" GUID="GxHQ8UCx00muR8Iu6HWV7A==" copy="[&BE8CAAA=]" copy-message="White Paper Waypoint, Timberline Falls"/>
         <Trail type="leag.eod.arb.albax.7" trailData="Data/EoD/Albax the Unlucky 7a.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="43FFD8"/>
-        <POI MapID="29" xpos="-74.65372" ypos="44.30022" zpos="280.2586" GUID="uHF4AvhGj0qoiOU2adel6A==" copy="[&BFMCAAA=]" copy-message="Iron Veil Waypoint"/>
+        <POI MapID="29" xpos="-74.65372" ypos="44.30022" zpos="280.2586" type="leag.eod.arb.albax.wp" GUID="uHF4AvhGj0qoiOU2adel6A==" copy="[&BFMCAAA=]" copy-message="Iron Veil Waypoint"/>
         <Trail type="leag.eod.arb.albax.7" trailData="Data/EoD/Albax the Unlucky 7b.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="43FFD8"/>
         <POI MapID="29" xpos="43.0629" ypos="77.8135" zpos="730.692" type="leag.eod.arb.albax.wp" GUID="o8iUqjdAmEO5KmTgMOctlg==" copy="[&BNQCAAA=]" copy-message="Old Sledge Site Waypoint, Mount Maelstrom"/>
         <Trail type="leag.eod.arb.albax.8" trailData="Data/EoD/Albax the Unlucky 8.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="43FFD8"/>
@@ -223,11 +223,6 @@
         <Trail type="leag.eod.arb.looking.12" trailData="Data/EoD/Looking Back 12.trl" color="179B4A"/>
         <POI MapID="1422" xpos="570.663" ypos="161.764" zpos="-40.6329" type="leag.eod.arb.looking.talk" GUID="+IjdS1D9pU2c6Lclas3Ymg=="/>
         
-
-
-
-
-        
         <!-- Lost Lore - https://wiki.guildwars2.com/wiki/Lost_Lore#Walkthrough -->
         <Trail type="leag.eod.arb.lore.1" trailData="Data/EoD/Lost Lore 1.trl"/>
         <Trail type="leag.eod.arb.lore.2" trailData="Data/EoD/Lost Lore 2.trl"/>
@@ -260,11 +255,12 @@
         <Trail type="leag.eod.arb.celestial.6.1" trailData="Data/EoD/A Blooming Errand 1a.trl" color="E1553D"/>
         <Trail type="leag.eod.arb.celestial.6.1" trailData="Data/EoD/A Blooming Errand 1b.trl" color="E1553D"/>
         <Trail type="leag.eod.arb.celestial.6.2" trailData="Data/EoD/A Blooming Errand 2.trl" color="E1553D"/>
-        <POI MapID="21" xpos="-68.9601" ypos="0.566464" zpos="141.97" type="leag.eod.arb.celestial.6.ygf" GUID="KCwioqS74Uy1N/sDG8WDJA=="/>
+        <POI MapID="21" xpos="-68.9601" ypos="0.566464" zpos="141.97" type="leag.eod.arb.celestial.6.ygf" GUID="KCwioqS74Uy1N/sDG8WDJA==" iconFile="Data/Images/Icons/Yellow Gentian Flower.png"/>
         <POI MapID="21" xpos="-69.4054" ypos="0.665293" zpos="142.011" type="leag.eod.arb.celestial.wp" GUID="z/3zTav+cE6mHLu8anAeRA==" copy="[&BHUBAAA=]" copy-message="Darkriven Waypoint, Wayfarer Foothills"/>
         <Trail type="leag.eod.arb.celestial.6.3" trailData="Data/EoD/A Blooming Errand 3.trl" color="E1553D"/>
+        <POI MapID="28" xpos="204.1961" ypos="-13.24049" zpos="-532.1114" type="leag.eod.arb.celestial.6.pgf" GUID="cQ94o6Op6EqbaMjPVquWLw==" iconFile="Data/Images/Icons/Pungent Gladiolus Flower.png"/>
         <POI MapID="28" xpos="204.309" ypos="-13.2701" zpos="-532.117" type="leag.eod.arb.celestial.wp" GUID="LWEXvhK1s02tBxmnl0GDxg==" copy="[&BGUNAAA=]" copy-message="Daigo Ward Waypoint, Seitung Province"/>
-        <POI MapID="28" xpos="228.918" ypos="2.87735" zpos="-521.682" type="leag.eod.arb.celestial.6.event" GUID="gwkFwsg4dE+i+Ckx/y4v2w=="/>
+        <POI MapID="28" xpos="212.8439" ypos="-1.142876" zpos="-527.8752" type="leag.eod.arb.celestial.6.event" GUID="gwkFwsg4dE+i+Ckx/y4v2w=="/>
         <Trail type="leag.eod.arb.celestial.6.4" trailData="Data/EoD/A Blooming Errand 4 Alt.trl" color="E1553D" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="leag.eod.arb.celestial.6.4" trailData="Data/EoD/A Blooming Errand 4.trl" color="E1553D"/>
         <POI MapID="1442" xpos="911.3355" ypos="28.75722" zpos="-178.7561" type="leag.eod.arb.celestial.6.4" GUID="WKTD/3bZn0epz2SA0JndIQ==" iconFile="Data/Images/Mounts/Grab Reins.png"/>

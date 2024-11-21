@@ -288,7 +288,7 @@
                         <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" mapDisplaySize="32" heightOffset="3.5"/>
                         <MarkerCategory name="event" DisplayName="Toggle Event Markers" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="ygf" DisplayName="Toggle Yellow Gentian Flowers" iconFile="Data/Images/Icons/Yellow Gentian Flower.png" inGameVisibility="0" mapDisplaySize="32"/>
-                        <MarkerCategory name="ygf" DisplayName="Toggle Pungent Gladiolus Flower" iconFile="Data/Images/Icons/Pungent Gladiolus Flower.png" inGameVisibility="0" mapDisplaySize="32"/>
+                        <MarkerCategory name="pgf" DisplayName="Toggle Pungent Gladiolus Flower" iconFile="Data/Images/Icons/Pungent Gladiolus Flower.png" inGameVisibility="0" mapDisplaySize="32"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                         <MarkerCategory name="blank" IsSeparator="1" DisplayName="   "/>
                         <MarkerCategory name="1" DisplayName="Find an alpine lily in Snowden Drifts"/>
