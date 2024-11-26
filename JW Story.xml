@@ -113,6 +113,17 @@
         <POI MapID="1553" xpos="9.43401" ypos="361.964" zpos="-202.651" type="leag.jw.story.reflective.1" GUID="3JQ0xE7KMkGGl9RV4Tndew=="/>
         <POI MapID="1553" xpos="15.7836" ypos="362.107" zpos="-177.903" type="leag.jw.story.reflective.3" GUID="XwMqGom9R0are5uq6J3zAA=="/>
         <POI MapID="1547" xpos="479.88" ypos="222.892" zpos="-51.8897" type="leag.jw.story.reflective.2" GUID="gbfhN50r0E+zkWD4pqFk7A=="/>
+
+        <!-- CHAPTER 11 -->
+        <!-- Prying in the Priory -->
+        <POI MapID="1569" xpos="-492.1494" ypos="143.613" zpos="646.4214" type="leag.jw.story.break" GUID="Am3bIbwelUSnW1DP71NWVA=="/>
+        <POI MapID="1569" xpos="-533.866" ypos="142.914" zpos="639.899" type="leag.jw.story.prying.marker" GUID="gNewwqudk06F3v8BdAJI3w=="/>
+        <POI MapID="1569" xpos="-511.816" ypos="143.997" zpos="688.141" type="leag.jw.story.prying.marker" GUID="pAYAFJLlREGVpSavlURhzA=="/>
+        <POI MapID="1569" xpos="-472.107" ypos="143.524" zpos="684.441" type="leag.jw.story.prying.marker" GUID="CTTOdIAk40utwlo5u+Y/Og=="/>
+        <POI MapID="1569" xpos="-464.057" ypos="143.978" zpos="649.348" type="leag.jw.story.prying.marker" GUID="ec7QCG7Dsk+KCJxgJEUtmw=="/>
+        <POI MapID="1569" xpos="-489.874" ypos="143.918" zpos="641.939" type="leag.jw.story.prying.marker" GUID="FnINaEbHjUOEk9ZHhz1IIg=="/>
+        <POI MapID="1569" xpos="-502.678" ypos="143.806" zpos="659.599" type="leag.jw.story.prying.marker" GUID="Zq6d4jarnkiWNDCr4dCtTw=="/>
+        <POI MapID="1569" xpos="-501.247" ypos="144.278" zpos="619.407" type="leag.jw.story.prying.marker" GUID="j5YUpHKAH0u4zBpSnQKKnA=="/>
         
     </POIs>
 </OverlayData>

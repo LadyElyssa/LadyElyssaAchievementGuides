@@ -67,6 +67,15 @@
                         <MarkerCategory name="2" DisplayName="Stoic Alder's Journal"/>
                         <MarkerCategory name="3" DisplayName="A Collective History, Volume 6"/>
                     </MarkerCategory>
+
+                <MarkerCategory name="ch11" IsSeparator="1" DisplayName="Chapter 11: Trial & Error"/>
+                <MarkerCategory name="prying" DisplayName="Prying in the Priory" achievementId="8467">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="marker" DisplayName="Toggle Blue Orb Marker" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5" fadeNear="900" fadeFar="1200"/>
+                </MarkerCategory>
+                <MarkerCategory name="break" DisplayName="Study Break" achievementId="8453" iconFile="Data/Images/Emote - Ponder.png" fadeNear="750" fadeFar="1000" miniMapVisibility="0" mapVisibility="0"/>
+                
+
             </MarkerCategory>
             
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
