@@ -68,7 +68,7 @@
                         <MarkerCategory name="3" DisplayName="A Collective History, Volume 6"/>
                     </MarkerCategory>
 
-                <MarkerCategory name="ch11" IsSeparator="1" DisplayName="Chapter 11: Trial & Error"/>
+                <MarkerCategory name="ch11" IsSeparator="1" DisplayName="Chapter 11: Trial and Error"/>
                 <MarkerCategory name="prying" DisplayName="Prying in the Priory" achievementId="8467">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="marker" DisplayName="Toggle Blue Orb Marker" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5" fadeNear="900" fadeFar="1200"/>
