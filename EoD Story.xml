@@ -230,18 +230,6 @@
         <!-- Chapter 18 -->
         <!-- Kurzick Book Wurm -->
         <Trail type="leag.eod.story.bookwurm" trailData="Data/EoD/Story/Kurzick Book Wurm.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
-
-        <!-- Chapter  -->
-
-        <!-- Chapter  -->
-
-        <!-- Chapter  -->
-
-        <!-- Chapter  -->
-
-        <!-- Chapter  -->
-
-        <!-- Chapter  -->
         
     </POIs>
 </OverlayData>
