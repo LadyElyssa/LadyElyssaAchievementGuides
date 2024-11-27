@@ -183,6 +183,7 @@
         </MarkerCategory>
         <MarkerCategory name="ia" DisplayName="Illuminating Amnytas (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" defaulttoggle="0" achievementId="7053">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Yellow.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -291,6 +292,7 @@
         </MarkerCategory>
         <MarkerCategory name="iin" DisplayName="Illuminating Inner Nayos (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" defaulttoggle="0" achievementId="7809">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Yellow.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -417,6 +419,7 @@
 
         <MarkerCategory name="isa" DisplayName="Illuminating Skywatch Archipelago (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" defaulttoggle="0" achievementId="7126">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Yellow.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
