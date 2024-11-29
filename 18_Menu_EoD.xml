@@ -380,6 +380,19 @@
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     </MarkerCategory>                    
                 </MarkerCategory>
+
+                <MarkerCategory name="lanterns" DisplayName="Lighting Dragon's End (Lanterns)" achievementId="6369">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Green.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                </MarkerCategory>
+
             </MarkerCategory>
 
 
@@ -426,6 +439,7 @@
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="jbwp" DisplayName="Toggle JB: Personal WP" iconFile="Data/Images/Icons/JadeBotWaypoint.png" heightOffset="2.9"/>
                     <MarkerCategory name="jbpwp" DisplayName="Toggle JB: Personal WP Marker" iconFile="Data/Images/Icons/JadeBotPWP.png" triggerrange="3.9" autotrigger="true" iconSize="0.5"/>
+                    <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Green.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
@@ -552,7 +566,7 @@
                 <MarkerCategory name="dtrr" DisplayName="Derelict Temple Raptor Ride" achievementId="6257"/>
                 <MarkerCategory name="isp" DisplayName="Illuminating Seitung Province (Lanterns)" achievementId="6239">
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Green.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
                     <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                         <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -560,6 +574,7 @@
                         <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
                         <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
                     </MarkerCategory>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 </MarkerCategory>
                 
                 <MarkerCategory name="training" DisplayName="Jumping Training" achievementId="6464"/>
@@ -641,6 +656,23 @@
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     </MarkerCategory>
                 </MarkerCategory>
+
+                <MarkerCategory name="lanterns" DisplayName="Lighting the Echovald Wilds (Lanterns)" achievementId="6219">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="jbwp" DisplayName="Toggle JB: Personal WP" iconFile="Data/Images/Icons/JadeBotWaypoint.png" heightOffset="2.9"/>
+                    <MarkerCategory name="jbpwp" DisplayName="Toggle JB: Personal WP Marker" iconFile="Data/Images/Icons/JadeBotPWP.png" triggerrange="3.9" autotrigger="true" iconSize="0.5"/>
+                    <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Green.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                </MarkerCategory>
+
             </MarkerCategory>
 
         </MarkerCategory>
