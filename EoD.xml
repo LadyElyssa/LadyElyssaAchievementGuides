@@ -746,9 +746,9 @@
         <Trail type="leag.eod.tew.lanterns.1" trailData="Data/EoD/Lighting the Echovald Wilds 1 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="leag.eod.tew.lanterns.1" trailData="Data/EoD/Lighting the Echovald Wilds 1.trl"/>
         <Trail type="leag.eod.tew.lanterns.2" trailData="Data/EoD/Lighting the Echovald Wilds 2.trl"/>
-        <Trail type="leag.eod.tew.lanterns.2" trailData="Data/EoD/Lighting the Echovald Wilds 2b.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="leag.eod.tew.lanterns.2" trailData="Data/EoD/Lighting the Echovald Wilds 2c.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
-        <Trail type="leag.eod.tew.lanterns.2" trailData="Data/EoD/Lighting the Echovald Wilds 2d.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.eod.tew.lanterns.2" trailData="Data/EoD/Lighting the Echovald Wilds 3b.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.eod.tew.lanterns.2" trailData="Data/EoD/Lighting the Echovald Wilds 3c.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.eod.tew.lanterns.2" trailData="Data/EoD/Lighting the Echovald Wilds 3d.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="leag.eod.tew.lanterns.3" trailData="Data/EoD/Lighting the Echovald Wilds 3.trl"/>
         <Trail type="leag.eod.tew.lanterns.4" trailData="Data/EoD/Lighting the Echovald Wilds 4.trl"/>
         <Trail type="leag.eod.tew.lanterns.5" trailData="Data/EoD/Lighting the Echovald Wilds 5.trl"/>
