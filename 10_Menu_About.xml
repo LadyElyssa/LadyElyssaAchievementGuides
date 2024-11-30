@@ -1,7 +1,7 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" texture="Data/Images/Trails/Trail Marker 1.png" animSpeed="0.8" alpha="1.0" fadeNear="2000" fadeFar="4000">
         <MarkerCategory name="about" DisplayName="About">
-            <MarkerCategory name="version" DisplayName="Version    :: 1.8.6"/>
+            <MarkerCategory name="version" DisplayName="Version    :: 1.9"/>
             <MarkerCategory name="gw2" DisplayName="GW2       :: Lady Elyssa.2469"/>
             <MarkerCategory name="github" DisplayName="Github     :: https://github.com/LadyElyssa/"/>
             <MarkerCategory name="wiki" DisplayName="GW2 Wiki  :: https://wiki.guildwars2.com/wiki/User:Lady_Elyssa"/>
