@@ -432,7 +432,7 @@
                     <MarkerCategory name="loc" DisplayName="Toggle Crow Locations" iconFile="Data/Images/Circle - Black.png" inGameVisibility="0" mapDisplaySize="40"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="unmade" DisplayName="Kaineng Unmade" achievementId="6283" iconFile="Data/Images/Swirl - Void.png" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="unmade" DisplayName="Kaineng Unmade" achievementId="6283" iconFile="Data/Images/Swirl - Void.png" inGameVisibility="0" mapDisplaySize="32"/>
 
                 <MarkerCategory name="light" DisplayName="Light These Streets (Lanterns)" achievementId="6083">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -646,6 +646,8 @@
 
             <!-- THE ECHOVALD WILDS -->
             <MarkerCategory name="tew" DisplayName="The Echovald Wilds">
+
+                <!-- A Guardian Once More -->
                 <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
                     <MarkerCategory name="ewfsp" DisplayName="Echovald Wild's First Spirit Portal">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -657,11 +659,34 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
+                 <!-- Cryptseeker -->
+                <MarkerCategory name="cryptseeker" DisplayName="Cryptseeker [H]" achievementId="6269">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" fadeNear="1200" fadeFar="1600" heightOffset="3.5"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                </MarkerCategory>
+
+                <!-- Dancing Barefoot [H] -->
+                <MarkerCategory name="barefoot" DisplayName="Dancing Barefoot [H]" achievementId="6515" iconFile="Data/Images/Emote - Dance.png" defaulttoggle="0"/>
+
+                <!-- Dance like Bei Fung is Watching -->
+                <MarkerCategory name="dlbfiw" DisplayName="Dance like Bei Fung is Watching [H]" achievementId="6367" iconFile="Data/Images/Emote - Dance.png" defaulttoggle="0"/>
+
+                <!-- Distant Ancestry -->
+                <MarkerCategory name="ancestry" DisplayName="Distant Ancestry" achievementId="6315">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" fadeNear="1200" fadeFar="1600" heightOffset="3.5"/>
+                </MarkerCategory>
+
+
+                <!-- Echovald Unmade -->
+                <MarkerCategory name="unmade" DisplayName="Echovald Unmade" achievementId="6407" iconFile="Data/Images/Swirl - Void.png" inGameVisibility="0" mapDisplaySize="32"/>
+
+                <!-- Lighting the Echovald Wilds (Lanterns) -->
                 <MarkerCategory name="lanterns" DisplayName="Lighting the Echovald Wilds (Lanterns)" achievementId="6219">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="jbwp" DisplayName="Toggle JB: Personal WP" iconFile="Data/Images/Icons/JadeBotWaypoint.png" heightOffset="2.9"/>
-                    <MarkerCategory name="jbpwp" DisplayName="Toggle JB: Personal WP Marker" iconFile="Data/Images/Icons/JadeBotPWP.png" triggerrange="3.9" autotrigger="true" iconSize="0.5"/>
                     <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Green.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
@@ -671,6 +696,34 @@
                     <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
                     <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
                     <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                </MarkerCategory>
+
+                <!-- Raptor Runner -->
+                <MarkerCategory name="rrtew" DisplayName="Raptor Runner: The Echovald Wilds" achievementId="6138"/>
+
+                <!-- Not Too Worse for Wear -->
+
+                <!-- Respect Your Elders -->
+                <MarkerCategory name="rye" DisplayName="Respect Your Elders" achievementId="6451" iconFile="Data/Images/Icons/Circle 3.png" inGameVisibility="0" mapDisplaySize="32"/>
+
+                <!-- Springer Fling -->
+                <MarkerCategory name="sftew" DisplayName="Springer Fling: The Echovald Wilds" achievementId="6498"/>
+
+                <!-- What Did the Shrine Guardians Say? -->
+                <MarkerCategory name="wdtsgs" DisplayName="What Did the Shrine Guardians Say?" achievementId="6274">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
                 </MarkerCategory>
 
             </MarkerCategory>

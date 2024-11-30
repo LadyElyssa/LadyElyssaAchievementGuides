@@ -706,15 +706,44 @@
 
         <!-- THE ECHOVALD WILDS -->
 
+        <!-- A Guardian Once More -->
         <Trail type="leag.eod.tew.guardian.ewfsp" trailData="Data/EoD/Echovald Wild's First Spirit Portal Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="FF5016"/>
         <Trail type="leag.eod.tew.guardian.ewfsp" trailData="Data/EoD/Echovald Wild's First Spirit Portal.trl" color="FF5016"/>
         <POI MapID="1452" xpos="-743.721" ypos="126.526" zpos="-201.125" type="leag.eod.tew.guardian.ewfsp.wp" GUID="a8vkWnE1hkqB3Wb1urLuSQ==" copy="[&BMwMAAA=]" copy-message="Kropa Waypoint"/>
-
         <Trail type="leag.eod.tew.guardian.ewssp" trailData="Data/EoD/Echovald Wild's Second Spirit Portal Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="FF5016"/>
         <Trail type="leag.eod.tew.guardian.ewssp" trailData="Data/EoD/Echovald Wild's Second Spirit Portal.trl" color="FF5016"/>
         <POI MapID="1452" xpos="-524.506" ypos="25.6012" zpos="-679.499" type="leag.eod.tew.guardian.ewssp.wp" GUID="scW7mwkBE0CvyJxpw0t4tw==" copy="[&BKIMAAA=]" copy-message="Jade Quarry Waypoint in Dragon's End"/>
 
+         <!-- Cryptseeker -->
+        <Trail type="leag.eod.tew.cryptseeker" trailData="Data/EoD/Cryptseeker 0.trl" texture="Data/Images/Trails/Trail Marker 2 Small.png" color="3895CE"/>
+        <Trail type="leag.eod.tew.cryptseeker" trailData="Data/EoD/Cryptseeker 1.trl" color="3895CE"/>
+        <Trail type="leag.eod.tew.cryptseeker" trailData="Data/EoD/Cryptseeker 2.trl" color="3895CE"/>
+        <Trail type="leag.eod.tew.cryptseeker" trailData="Data/EoD/Cryptseeker 3.trl" color="3895CE"/>
+        <POI MapID="1452" xpos="-331.699" ypos="178.547" zpos="623.279" type="leag.eod.tew.cryptseeker.talk" GUID="yvT/n4NcQUSVKVuyCH2ZvQ=="/>
+        <POI MapID="1452" xpos="-331.56" ypos="178.506" zpos="623.129" type="leag.eod.tew.cryptseeker.wp" GUID="g1+FsaVg6USVPNHt3yfVmQ==" copy="[&BMwMAAA=]" copy-message="Kropa Waypoint"/>
+        <POI MapID="1452" xpos="-485.424" ypos="43.4637" zpos="-668.288" type="leag.eod.tew.cryptseeker.wp" GUID="OXVO8U8ZrkW2vtgAKNGGWw==" copy="[&BMcMAAA=]" copy-message="Mori Village Waypoint"/>
+        <POI MapID="1452" xpos="626.091" ypos="0.57545" zpos="-563.03" type="leag.eod.tew.cryptseeker.wp" GUID="zBHFHpvyK0qidIddoVSakw==" copy="[&BIsMAAA=]" copy-message="Junkyard Waypoint"/>
+        <POI MapID="1452" xpos="291.071" ypos="247.096" zpos="370.768" type="leag.eod.tew.cryptseeker.wp" GUID="gcBOHEt+FkuQ3RNUwm0PEg==" copy="[&BIsMAAA=]" copy-message="Junkyard Waypoint"/>
+
+        <!-- Dancing Barefoot -->
+        <POI MapID="1452" xpos="448.3748" ypos="114.6945" zpos="-19.14427" type="leag.eod.tew.barefoot" GUID="Wa/VVbhdhEuGnmoSZUy3cA=="/>
+
+        <!-- Dance like Bei Fung is Watching -->
+        <POI MapID="1452" xpos="-176.663" ypos="150.01" zpos="129.958" type="leag.eod.tew.dlbfiw" GUID="z3XtctqNnUSNj1/+OyXtFg=="/>
+
+        <!-- Distant Ancestry -->
+        <Trail type="leag.eod.tew.ancestry" trailData="Data/EoD/Distant Ancestry.trl"/>
+        <POI MapID="1452" xpos="128.617" ypos="0.825804" zpos="-732.29" type="leag.eod.tew.ancestry.talk" GUID="k7VMpzHoD0WHgoolLrSa6Q=="/>
+
+        <!-- Echovald Unmade -->
+        <POI MapID="1452" xpos="-880.186" ypos="177.518" zpos="-483.595" type="leag.eod.tew.unmade" GUID="CrEE/1w9RU6XKy3YP01rww=="/>
+        <POI MapID="1452" xpos="438.081" ypos="69.053" zpos="-280.191" type="leag.eod.tew.unmade" GUID="AQtsQd8qxEWJVq/jBacUhg=="/>
+        <POI MapID="1452" xpos="817.826" ypos="96.0356" zpos="-75.3837" type="leag.eod.tew.unmade" GUID="Hw2AN9NghE6dMYpzYxBJ1Q=="/>
+        <POI MapID="1452" xpos="-826.733" ypos="132.437" zpos="-81.93" type="leag.eod.tew.unmade" GUID="boaNp+PtfUGUQfciBrLtwA=="/>
+        <POI MapID="1452" xpos="-141.334" ypos="178.424" zpos="346.501" type="leag.eod.tew.unmade" GUID="yX/sMClpwk6SR5E66iGepQ=="/>        
+
         <!-- Lighting the Echovald Wilds -->
+        <Trail type="leag.eod.tew.lanterns.1" trailData="Data/EoD/Lighting the Echovald Wilds 1 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="leag.eod.tew.lanterns.1" trailData="Data/EoD/Lighting the Echovald Wilds 1.trl"/>
         <Trail type="leag.eod.tew.lanterns.2" trailData="Data/EoD/Lighting the Echovald Wilds 2.trl"/>
         <Trail type="leag.eod.tew.lanterns.2" trailData="Data/EoD/Lighting the Echovald Wilds 2b.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
@@ -724,6 +753,19 @@
         <Trail type="leag.eod.tew.lanterns.4" trailData="Data/EoD/Lighting the Echovald Wilds 4.trl"/>
         <Trail type="leag.eod.tew.lanterns.5" trailData="Data/EoD/Lighting the Echovald Wilds 5.trl"/>
         <Trail type="leag.eod.tew.lanterns.6" trailData="Data/EoD/Lighting the Echovald Wilds 6.trl"/>
+        <POI MapID="1452" xpos="-131.939" ypos="232.019" zpos="697.507" type="leag.eod.tew.lanterns.start" GUID="LMn00tZPRE2bq+Lx31XqEw=="/>
+        <POI MapID="1452" xpos="306.147" ypos="193.303" zpos="-40.7041" type="leag.eod.tew.lanterns" GUID="TluDnrqTzU2W+yIkKz4QGA==" iconFile="Data/Images/Icons/Blank.png" info="To pass through the Strange Door&#xa;&#xa;EoD Chapter 10. Empty needs to be your active Story" infoRange="5"/>
+        <POI MapID="1452" xpos="429.801" ypos="178.354" zpos="-37.6909" type="leag.eod.tew.lanterns.wp" GUID="BGB06Hm+kU+XtQYGSzd26A==" copy="[&BMwMAAA=]" copy-message="Kropa Waypoint"/>
+        <POI MapID="1452" xpos="-525.3423" ypos="1.269574" zpos="-717.2641" type="leag.eod.tew.lanterns.wp" GUID="Z/ZZd0MhK06iQAMfohdrQg==" copy="[&BMwMAAA=]" copy-message="Kropa Waypoint"/>
+        <POI MapID="1452" xpos="615.008" ypos="11.5619" zpos="97.5671" type="leag.eod.tew.lanterns.wp" GUID="UYp/tmgvA0a4W96mg469+g==" copy="[&BMcMAAA=]" copy-message="Mori Village Waypoint"/>
+        <POI MapID="1452" xpos="167.37" ypos="1.07895" zpos="-714.089" type="leag.eod.tew.lanterns.wp" GUID="fdUuPpHAEki0tSV4WfhCBA==" copy="[&BPkMAAA=]" copy-message="Jade Gate Waypoint"/>
+        <POI MapID="1452" xpos="803.53" ypos="95.1658" zpos="-65.8125" type="leag.eod.tew.lanterns.wp" GUID="Lbv7sbHIdky78UfSaSlA1Q==" copy="[&BNQMAAA=]" copy-message="Qinkai Waypoint Waypoint"/>
+        <POI MapID="1452" xpos="-122.3133" ypos="163.0503" zpos="710.4022" type="leag.eod.tew.lanterns.1" GUID="lkT97Jros02/K/87nKqg1g=="/>
+        <POI MapID="1452" xpos="-487.26" ypos="163.177" zpos="-327.669" type="leag.eod.tew.lanterns.2" GUID="BHIK8fEv306vPnas9o5gww=="/>
+        <POI MapID="1452" xpos="-487.436" ypos="164.139" zpos="-334.792" type="leag.eod.tew.lanterns.3" GUID="m8v7Vrl9sUCa5FDj+ri1zg=="/>
+        <POI MapID="1452" xpos="1056.71" ypos="8.00521" zpos="-520.572" type="leag.eod.tew.lanterns.4" GUID="eJegXqI0nEqz6OVAfdJDoQ=="/>
+        <POI MapID="1452" xpos="1012.71" ypos="88.8307" zpos="44.0131" type="leag.eod.tew.lanterns.5" GUID="0THfIxSzXE+lNgwduuwuGQ=="/>
+        <POI MapID="1452" xpos="959.781" ypos="68.8302" zpos="512.55" type="leag.eod.tew.lanterns.6" GUID="e3C5wwGMx02ooLFYN/HDuA=="/>
         <POI MapID="1452" xpos="-350.767" ypos="195.122" zpos="667.01" type="leag.eod.tew.lanterns.lantern" GUID="3YdMB1YF6U+7MeMdo1d+rg=="/>
         <POI MapID="1452" xpos="-383.242" ypos="212.38" zpos="686.311" type="leag.eod.tew.lanterns.lantern" GUID="duzZrvTU4kGA1OLqbegq9Q=="/>
         <POI MapID="1452" xpos="-588.608" ypos="164.235" zpos="604.023" type="leag.eod.tew.lanterns.lantern" GUID="1XjAvbBob0iDBPLDFsNhfg=="/>
@@ -783,7 +825,61 @@
         <POI MapID="1452" xpos="278.927" ypos="246.423" zpos="345.309" type="leag.eod.tew.lanterns.lantern" GUID="iHXk0qWwPEW7hv4LrzS+tQ=="/>
         <POI MapID="1452" xpos="295.373" ypos="232.566" zpos="118.972" type="leag.eod.tew.lanterns.lantern" GUID="lrHVLAw5UUS1IZeKxiM6sg=="/>
         <POI MapID="1452" xpos="429.801" ypos="178.354" zpos="-37.6909" type="leag.eod.tew.lanterns.lantern" GUID="vf+OVkGtUEC0OSeyMPxqSA=="/>
-        
+
+        <!-- Raptor Runner -->
+        <Trail type="leag.eod.tew.rrtew" trailData="Data/EoD/Raptor Runner The Echovald Wilds.trl"/>
+
+        <!-- Respect Your Elders -->
+        <POI MapID="1452" xpos="1114.12" ypos="66.2001" zpos="-571.032" type="leag.eod.tew.rye" GUID="t4C6bS1StEiX7LUajIZAUQ=="/>
+        <POI MapID="1452" xpos="1123.09" ypos="66.2182" zpos="-658.718" type="leag.eod.tew.rye" GUID="rcVvxKnjpkSHZ8QisiD79Q=="/>
+        <POI MapID="1452" xpos="1129.32" ypos="67.2323" zpos="-642.882" type="leag.eod.tew.rye" GUID="2hl4EZP/EUyPoiDw08t6YA=="/>
+        <POI MapID="1452" xpos="1069.75" ypos="66.7088" zpos="-665.395" type="leag.eod.tew.rye" GUID="jMqQ1h/4FkiNv2uTNNKMKQ=="/>
+        <POI MapID="1452" xpos="1060.78" ypos="66.8974" zpos="-685.198" type="leag.eod.tew.rye" GUID="AQdGffn2qkquM8/hokYREw=="/>
+        <POI MapID="1452" xpos="1073.99" ypos="66.2191" zpos="-700.716" type="leag.eod.tew.rye" GUID="dW9yjMEh7UmhNdExrbObiQ=="/>
+        <POI MapID="1452" xpos="1041.11" ypos="66.764" zpos="-679.718" type="leag.eod.tew.rye" GUID="tmYfNakRIUuN+bXT6pBmOg=="/>
+        <POI MapID="1452" xpos="1019.22" ypos="66.5984" zpos="-656.738" type="leag.eod.tew.rye" GUID="ATHgk/GiC0inOLRMx1sSFg=="/>
+        <POI MapID="1452" xpos="928.917" ypos="67.7113" zpos="-617.147" type="leag.eod.tew.rye" GUID="obZQwMZG3EqP7Xx+pqzTnQ=="/>
+        <POI MapID="1452" xpos="935.239" ypos="66.4586" zpos="-602.4" type="leag.eod.tew.rye" GUID="fRol/QFa4Uim5bBjluuYsA=="/>
+        <POI MapID="1452" xpos="950.073" ypos="67.9911" zpos="-537.404" type="leag.eod.tew.rye" GUID="2xiEQVIsREy+oQ/0x3veUg=="/>
+        <POI MapID="1452" xpos="966.055" ypos="67.9889" zpos="-537.683" type="leag.eod.tew.rye" GUID="mU16kP/5MUKyZJkWzOoO1g=="/>
+        <POI MapID="1452" xpos="961.622" ypos="67.0488" zpos="-550.221" type="leag.eod.tew.rye" GUID="YYJJBR7p3EGV14tPv8Fg8Q=="/>
+        <POI MapID="1452" xpos="1013.67" ypos="39.9332" zpos="-585.989" type="leag.eod.tew.rye" GUID="Wm4gE9B+fkGsNsYPjShVjw=="/>
+        <POI MapID="1452" xpos="1022.07" ypos="39.5684" zpos="-570.347" type="leag.eod.tew.rye" GUID="AAsG7C8qNE6W18Kk2JoiRA=="/>
+        <POI MapID="1452" xpos="1083.95" ypos="61.4316" zpos="-549.852" type="leag.eod.tew.rye" GUID="R0a5OHU7qk2cN+QJUFhEUA=="/>
+        <POI MapID="1452" xpos="1129.41" ypos="67.106" zpos="-583.171" type="leag.eod.tew.rye" GUID="0e/Ls+2M7ki/6OVwEfUlYw=="/>
+
+        <!-- Springer Fling -->
+        <Trail type="leag.eod.tew.sftew" trailData="Data/EoD/Springer Fling The Echovald Wilds.trl"/>        
+
+        <!-- What Did the Shrine Guardians Say? -->
+        <Trail type="leag.eod.tew.wdtsgs" trailData="Data/EoD/What Did the Shrine Guardians Say 1.trl"/>
+        <Trail type="leag.eod.tew.wdtsgs" trailData="Data/EoD/What Did the Shrine Guardians Say 2.trl"/>
+        <Trail type="leag.eod.tew.wdtsgs" trailData="Data/EoD/What Did the Shrine Guardians Say 3.trl"/>
+        <Trail type="leag.eod.tew.wdtsgs" trailData="Data/EoD/What Did the Shrine Guardians Say 4.trl"/>
+        <Trail type="leag.eod.tew.wdtsgs" trailData="Data/EoD/What Did the Shrine Guardians Say 5.trl"/>
+        <Trail type="leag.eod.tew.wdtsgs" trailData="Data/EoD/What Did the Shrine Guardians Say 6.trl"/>
+        <Trail type="leag.eod.tew.wdtsgs" trailData="Data/EoD/What Did the Shrine Guardians Say 7.trl"/>
+        <Trail type="leag.eod.tew.wdtsgs" trailData="Data/EoD/What Did the Shrine Guardians Say 8.trl"/>
+        <Trail type="leag.eod.tew.wdtsgs" trailData="Data/EoD/What Did the Shrine Guardians Say 9.trl"/>
+        <POI MapID="1452" xpos="-131.939" ypos="232.019" zpos="697.507" type="leag.eod.tew.wdtsgs.start" GUID="sxlKD7sSqUKpKPlWM+32jw=="/>
+        <POI MapID="1452" xpos="-125.866" ypos="162.828" zpos="705.112" type="leag.eod.tew.wdtsgs.1" GUID="MQUzQ2P/kkOx7DaEMY2ppw=="/>
+        <POI MapID="1452" xpos="-657.987" ypos="166.625" zpos="82.5762" type="leag.eod.tew.wdtsgs.2" GUID="NWGLF4CRlEmkxJxoOsYxXQ=="/>
+        <POI MapID="1452" xpos="-661.006" ypos="166.917" zpos="83.0347" type="leag.eod.tew.wdtsgs.3" GUID="rst0BqodHEakuWhKuHvQgA=="/>
+        <POI MapID="1452" xpos="-486.102" ypos="162.627" zpos="-324.825" type="leag.eod.tew.wdtsgs.4" GUID="wdf2KWX5UUiIfcl6t+1+6w=="/>
+        <POI MapID="1452" xpos="1055.09" ypos="7.26279" zpos="-522.07" type="leag.eod.tew.wdtsgs.5" GUID="1L0bD4AWeEyo8tLLJ10n2w=="/>
+        <POI MapID="1452" xpos="1018.31" ypos="89.5602" zpos="39.9992" type="leag.eod.tew.wdtsgs.6" GUID="pSEnwwy0m0eJOVPwsxhJ4g=="/>
+        <POI MapID="1452" xpos="1008.4" ypos="88.7752" zpos="35.3194" type="leag.eod.tew.wdtsgs.7" GUID="23lxw0Gj20GROrymO1Thew=="/>
+        <POI MapID="1452" xpos="954.612" ypos="68.8302" zpos="510.324" type="leag.eod.tew.wdtsgs.8" GUID="PHTlDqNQ40en3xmnME4kpQ=="/>
+        <POI MapID="1452" xpos="953.101" ypos="68.8302" zpos="514.229" type="leag.eod.tew.wdtsgs.9" GUID="/dH9LSeFvUqbaaOxc47gDw=="/>
+        <POI MapID="1452" xpos="-217.61" ypos="179.223" zpos="644.607" type="leag.eod.tew.wdtsgs.wp" GUID="mFdhF5F5/UaykovG+cTrlg==" copy="[&BMoMAAA=]" copy-message="Waypoint zu Heltzer"/>
+        <POI MapID="1452" xpos="13.4222" ypos="209.914" zpos="245.872" type="leag.eod.tew.wdtsgs.wp" GUID="+FKgcg4bkEyhAyGaUKB9EA==" copy="[&BMoMAAA=]" copy-message="Waypoint zu Heltzer"/>
+        <POI MapID="1452" xpos="-554.78" ypos="204.919" zpos="-671.604" type="leag.eod.tew.wdtsgs.wp" GUID="un82fsFlHU64/CRpNRbjmQ==" copy="[&BMwMAAA=]" copy-message="Kropa Waypoint"/>
+        <POI MapID="1452" xpos="-288.984" ypos="177.863" zpos="-458.823" type="leag.eod.tew.wdtsgs.wp" GUID="U5OyK6AAmE+dhf4eXgPuVg==" copy="[&BMcMAAA=]" copy-message="Mori Village Waypoint"/>
+        <POI MapID="1452" xpos="626.917" ypos="39.6518" zpos="-555.274" type="leag.eod.tew.wdtsgs.wp" GUID="ErRo1uTxcEefvw/H3e4wOw==" copy="[&BPkMAAA=]" copy-message="Jade Gate Waypoint"/>
+        <POI MapID="1452" xpos="1112.03" ypos="93.4206" zpos="83.7016" type="leag.eod.tew.wdtsgs.wp" GUID="FwpAgQftPEaJG+HrYMX4Ow==" copy="[&BPkMAAA=]" copy-message="Jade Gate Waypoint"/>
+        <POI MapID="1452" xpos="59.0151" ypos="223.114" zpos="-280.717" type="leag.eod.tew.wdtsgs.wp" GUID="bOWAmZsvCESzWCYXZTz2uQ==" copy="[&BNQMAAA=]" copy-message="Qinkai Waypoint"/>
+        <POI MapID="1452" xpos="1083.95" ypos="7.11156" zpos="463.777" type="leag.eod.tew.wdtsgs.wp" GUID="JfbULDRlZ0a9wYWjgujGWw==" copy="[&BNQMAAA=]" copy-message="Qinkai Waypoint"/>
+
 
         <!-- DRAGON'S END -->
 
