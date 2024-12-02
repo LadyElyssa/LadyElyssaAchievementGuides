@@ -369,6 +369,8 @@
             <!-- DRAGON'S END -->
 
             <MarkerCategory name="de" DisplayName="Dragon's End">
+
+                <!-- A Guardian Once More -->
                 <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
                     <MarkerCategory name="defsp" DisplayName="Dragon's End's First Spirit Portal">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -379,6 +381,100 @@
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     </MarkerCategory>                    
+                </MarkerCategory>
+
+                <!-- A Strange Diet -->
+                <MarkerCategory name="asd" DisplayName="A Strange Diet" achievementId="6140">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="turtle" DisplayName="Toggle Newborn Turtle" iconFile="Data/Images/Icons/Turtle.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="fish" IsSeparator="1" DisplayName="FISH"/>
+                    <MarkerCategory name="1" DisplayName="Halibut" iconFile="Data/Images/Icons/Blank.png">
+                        <MarkerCategory name="bait" IsSeparator="1" DisplayName="FAVORED BAIT"/>
+                        <MarkerCategory name="shrimplings" DisplayName="Shrimplings"/>
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATIONS"/>
+                        <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="2" DisplayName="Unholy Mackeral" iconFile="Data/Images/Icons/Blank.png">
+                        <MarkerCategory name="bait" IsSeparator="1" DisplayName="FAVORED BAIT"/>
+                        <MarkerCategory name="leeches" DisplayName="Leeches"/>
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                        <MarkerCategory name="ml" DisplayName="Malchor's Leap"/>
+                        <MarkerCategory name="sod" DisplayName="Straits of Devastation"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="3" DisplayName="Slaughterfish" iconFile="Data/Images/Icons/Blank.png">
+                        <MarkerCategory name="bait" IsSeparator="1" DisplayName="FAVORED BAIT"/>
+                        <MarkerCategory name="minnows" DisplayName="Minnows"/>
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="gf" DisplayName="Gendarran Fields"/>
+                        <MarkerCategory name="qd" DisplayName="Queensdale"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="4" DisplayName="Goliath Grouper" iconFile="Data/Images/Icons/Blank.png">
+                        <MarkerCategory name="bait" IsSeparator="1" DisplayName="FAVORED BAIT"/>
+                        <MarkerCategory name="sardines" DisplayName="Sardines"/>
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="cf" DisplayName="Caledon Forest"/>
+                        <MarkerCategory name="sf" DisplayName="Sparkfly Fen"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="5" DisplayName="Muskellunge" iconFile="Data/Images/Icons/Blank.png">
+                        <MarkerCategory name="bait" IsSeparator="1" DisplayName="FAVORED BAIT"/>
+                        <MarkerCategory name="minnows" DisplayName="Minnows"/>
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="dp" DisplayName="Diessa Plateau"/>
+                        <MarkerCategory name="im" DisplayName="Iron Marches"/>
+                        <MarkerCategory name="poa" DisplayName="Plains of Ashford"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="6" DisplayName="Dandan" iconFile="Data/Images/Icons/Blank.png">
+                        <MarkerCategory name="bait" IsSeparator="1" DisplayName="FAVORED BAIT"/>
+                        <MarkerCategory name="fisheggs" DisplayName="Fish Eggs"/>
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="doi" DisplayName="Domain of Istan"/>
+                        <MarkerCategory name="si" DisplayName="Sandswept Isles"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="7" DisplayName="Sailfish" iconFile="Data/Images/Icons/Blank.png">
+                        <MarkerCategory name="bait" IsSeparator="1" DisplayName="FAVORED BAIT"/>
+                        <MarkerCategory name="sardines" DisplayName="Sardines"/>
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="sp" DisplayName="Seitung Province"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="8" DisplayName="Swordfish" iconFile="Data/Images/Icons/Blank.png">
+                        <MarkerCategory name="bait" IsSeparator="1" DisplayName="FAVORED BAIT"/>
+                        <MarkerCategory name="mackeral" DisplayName="Mackeral"/>
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="nkc" DisplayName="New Kaineng City"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="9" DisplayName="Dark Sleeper" iconFile="Data/Images/Icons/Blank.png">
+                        <MarkerCategory name="bait" IsSeparator="1" DisplayName="FAVORED BAIT"/>
+                        <MarkerCategory name="glowworms" DisplayName="Glow Worms"/>
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="tew" DisplayName="The Echovald Wilds"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="10" DisplayName="Chambered Nautilus" iconFile="Data/Images/Icons/Blank.png">
+                        <MarkerCategory name="bait" IsSeparator="1" DisplayName="FAVORED BAIT"/>
+                        <MarkerCategory name="shrimplings" DisplayName="Shrimplings"/>
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="de" DisplayName="Dragon's End"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="11" DisplayName="Dunkleosteus" iconFile="Data/Images/Icons/Blank.png">
+                        <MarkerCategory name="bait" IsSeparator="1" DisplayName="FAVORED BAIT"/>
+                        <MarkerCategory name="lavabeetles" DisplayName="Lava Beetles"/>
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="ember" DisplayName="Ember Bay"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <!-- Dead Play -->
+                <MarkerCategory name="dead" DisplayName="Dead Play" achievementId="6186">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="jbwp" DisplayName="Toggle JB: Personal WP" iconFile="Data/Images/Icons/JadeBotWaypoint.png" heightOffset="2.9"/>
+                    <MarkerCategory name="jbpwp" DisplayName="Toggle JB: Personal WP Marker" iconFile="Data/Images/Icons/JadeBotPWP.png" triggerrange="3.9" autotrigger="true" iconSize="0.5"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="lanterns" DisplayName="Lighting Dragon's End (Lanterns)" achievementId="6369">
@@ -393,12 +489,97 @@
                     <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
                 </MarkerCategory>
 
+                <!-- Mysteries Deep Within -->
+                <MarkerCategory name="mdw" DisplayName="Mysteries Deep Within" achievementId="6292" texture="Data/Images/Trails/Trail Pointer Dark - Small.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
+                <!-- Raptor Ride: Chantry of the Crab -->
+                <MarkerCategory name="raptor" DisplayName="Raptor Ride: Chantry of the Crab" achievementId="6236">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
+                <!-- Respects Paid - https://wiki.guildwars2.com/wiki/Respects_Paid -->
+                <MarkerCategory name="respects" DisplayName="Respects Paid" achievementId="6369">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="kneel" DisplayName="Toggle Emote - Kneel"  iconFile="Data/Images/Emote - Kneel.png"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                </MarkerCategory>
+
+                <!-- Springer Ride: Kuan Jun Pavilion -->
+                <MarkerCategory name="springer" DisplayName="Springer Ride: Kuan Jun Pavilion" achievementId="6234">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
             </MarkerCategory>
 
 
             <!-- GYALA DELVE -->
 
             <MarkerCategory name="gd" DisplayName="Gyala Delve">
+
+                <!-- DELVE IN TO THE HAZE -->
+                <MarkerCategory name="haze" IsSeparator="1" DisplayName="DELVE IN TO THE HAZE"/>
+
+                <!-- Ongoing Investigations -->
+                <MarkerCategory name="ongoing" DisplayName="Ongoing Investigations" achievementId="6880">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="logs" DisplayName="Toggle Marker" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                </MarkerCategory>
+
+                <!-- Playing with the Infants - https://wiki.guildwars2.com/wiki/Playing_with_the_Infants -->
+                <MarkerCategory name="infants" DisplayName="Playing with the Infants" achievementId="6423">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                </MarkerCategory>
+
+                <!-- The Deadliest Thing on Two Legs -->
+                <MarkerCategory name="deadliest" DisplayName="The Deadliest Thing on Two Legs" achievementId="6877">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Oni Ambusher.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                </MarkerCategory>
+
+                <!-- There’s Sea Life Down Here? [H] -->
+                <MarkerCategory name="sealife" DisplayName="There's Sea Life Down Here? [H]" achievementId="5523" defaulttoggle="0">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="circle" DisplayName="Toggle Locations" iconFile="Data/Images/Circle.png" inGameVisibility="0" mapDisplaySize="40"/>
+                </MarkerCategory>
+
+                <!-- WHAT LIES WITHIN -->
+                <MarkerCategory name="within" IsSeparator="1" DisplayName="WHAT LIES WITHIN"/>
+
+                <!-- A Brotherhood's Best Friend [H] -->
+                <MarkerCategory name="abbf" DisplayName="A Brotherhood's Best Friend" achievementId="6906">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="interact" DisplayName="Toggle Head Pat" iconFile="Data/Images/Icons/Head Pat.png" miniMapVisibility="0" mapVisibility="0"/>
+                </MarkerCategory>
+
+                <!-- World Lore: Gyala Delve -->
+                <MarkerCategory name="wlgd" DisplayName="World Lore: Gyala Delve" achievementId="5250" iconFile="Data/Images/Icons/Blank.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="talk" DisplayName="Talk to Ari"/>
+                </MarkerCategory>
+
+                <!-- World Lore: Special Ops Rescue Agency -->
+                <MarkerCategory name="wlsora" DisplayName="World Lore: Special Ops Rescue Agency" achievementId="6904" iconFile="Data/Images/Icons/Blank.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="talk" DisplayName="Talk to Captain Wing Jun"/>
+                </MarkerCategory>
+
+                
+
+                <!-- Special Ops Armor Collection ??? -->
+
             </MarkerCategory>
 
 
@@ -407,6 +588,7 @@
             <MarkerCategory name="nkc" DisplayName="New Kaineng City">
 
                 <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
+                    <MarkerCategory name="ach" IsSeparator="1" DisplayName="ACHIEVEMENTS"/>
                     <MarkerCategory name="nkfsp" DisplayName="New Kaineng's First Spirit Portal"/>
 
                     <MarkerCategory name="nkssp" DisplayName="New Kaineng's Second Spirit Portal">
@@ -417,10 +599,14 @@
                 
                 <MarkerCategory name="cleanup" DisplayName="Cleanup Duty" achievementId="6398">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="canals" DisplayName="Clear the Canals" achievementId="6482"/>
+                <MarkerCategory name="canals" DisplayName="Clear the Canals" achievementId="6482">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
 
                 <MarkerCategory name="crow" DisplayName="Crow Catcher" achievementId="6242">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -429,7 +615,13 @@
 
                 <MarkerCategory name="plumber" DisplayName="Honorary Plumber" achievementId="6151" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="loc" DisplayName="Toggle Crow Locations" iconFile="Data/Images/Circle - Black.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="loc" DisplayName="Toggle Drain Locations" iconFile="Data/Images/Circle - Black.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="unmade" DisplayName="Kaineng Unmade" achievementId="6283" iconFile="Data/Images/Swirl - Void.png" inGameVisibility="0" mapDisplaySize="32"/>
@@ -487,8 +679,16 @@
                     <MarkerCategory name="8" DisplayName="New Kaineng Zoning Record 1342" heightOffset="-0.5"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="rrnkc" DisplayName="Raptor Runner: New Kaineng City" achievementId="6358"/>
-                <MarkerCategory name="sfnkc" DisplayName="Springer Fling: New Kaineng City" achievementId="6370"/>
+                <MarkerCategory name="rrnkc" DisplayName="Raptor Runner: New Kaineng City" achievementId="6358">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="sfnkc" DisplayName="Springer Fling: New Kaineng City" achievementId="6370">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
                 <MarkerCategory name="vault" DisplayName="The Hidden Vault" achievementId="6282" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
 
                 <MarkerCategory name="wind" DisplayName="Wind through the Walls" texture="Data/Images/Trails/Trail Pointer - Small.png">
@@ -506,10 +706,22 @@
             <MarkerCategory name="sp" DisplayName="Seitung Province">
                                 
                 <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="ach" IsSeparator="1" DisplayName="ACHIEVEMENTS"/>
+                    <MarkerCategory name="tdoz" DisplayName="The Disappearance of Zunraa">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                        
+                        <MarkerCategory name="trail" IsSeparator="1" DisplayName="Toggle Trail Segments"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    </MarkerCategory>
+
                     <MarkerCategory name="inoaf" DisplayName="In Need of a Friend">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                         <MarkerCategory name="circle" DisplayName="Toggle Locations" iconFile="Data/Images/Circle.png" inGameVisibility="0" mapDisplaySize="40"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="trail" IsSeparator="1" DisplayName="Toggle Trail Segments"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/2.png"/>
                     </MarkerCategory>
                     
                     <MarkerCategory name="itpd" DisplayName="Into the Puzzling Dark" texture="Data/Images/Trails/Trail Pointer - Small.png">
@@ -519,13 +731,16 @@
                         <MarkerCategory name="blue" DisplayName="Toggle Blue Path" color="0099FF" alpha="1.0"/>
                         <MarkerCategory name="green" DisplayName="Toggle Green Path" color="00FF00" alpha="1.0"/>
                         <MarkerCategory name="red" DisplayName="Toggle Red Path" color="FF0000" alpha="1.0"/>
-                        <MarkerCategory name="trail" DisplayName="Toggle Trail" color="E6E6E6"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="trail" IsSeparator="1" DisplayName="Toggle Trail Segments"/>
+                        <MarkerCategory name="3" DisplayName="One" iconFile="Data/Images/Numbers/3.png"/>
                     </MarkerCategory>
 
                     <MarkerCategory name="guest" DisplayName="Guest Appearance">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="trail" IsSeparator="1" DisplayName="Toggle Trail Segments"/>
+                        <MarkerCategory name="4" DisplayName="One" iconFile="Data/Images/Numbers/4.png"/>
                     </MarkerCategory>
 
                     <MarkerCategory name="hftb" DisplayName="Hope for the Best">
@@ -536,6 +751,8 @@
                     <MarkerCategory name="sgk" DisplayName="Seeking Greater Knowledge">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="trail" IsSeparator="1" DisplayName="Toggle Trail Segments"/>
+                        <MarkerCategory name="5" DisplayName="One" iconFile="Data/Images/Numbers/5.png"/>
                     </MarkerCategory>
 
                     <MarkerCategory name="pmp" DisplayName="Practise Makes Perfect"/>
@@ -549,7 +766,10 @@
                     
                 </MarkerCategory>
             
-                <MarkerCategory name="author" DisplayName="Authorial Intent" achievementId="6069"/>
+                <MarkerCategory name="author" DisplayName="Authorial Intent" achievementId="6069">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
 
                 <MarkerCategory name="bian" DisplayName="Bian's World Tour" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="6418">
                     <MarkerCategory name="patrol" DisplayName="Bian's Patrol Route" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
@@ -562,10 +782,18 @@
                     <MarkerCategory name="grove" DisplayName="The Grove" miniMapVisibility="0"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="dwrr" DisplayName="Daigo Ward Raptor Ride" achievementId="6231"/>
-                <MarkerCategory name="dtrr" DisplayName="Derelict Temple Raptor Ride" achievementId="6257"/>
+                <MarkerCategory name="dwrr" DisplayName="Daigo Ward Raptor Ride" achievementId="6231">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="dtrr" DisplayName="Derelict Temple Raptor Ride" achievementId="6257">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
                 <MarkerCategory name="isp" DisplayName="Illuminating Seitung Province (Lanterns)" achievementId="6239">
-                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Green.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
                     <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
@@ -577,13 +805,27 @@
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 </MarkerCategory>
                 
-                <MarkerCategory name="training" DisplayName="Jumping Training" achievementId="6464"/>
+                <MarkerCategory name="training" DisplayName="Jumping Training" achievementId="6464">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
                 <MarkerCategory name="misty" DisplayName="Misty Leap" achievementId="6198"/>
-                <MarkerCategory name="sjmrr" DisplayName="Shing Jea Monastery Raptor Ride" achievementId="6394"/>
-                <MarkerCategory name="spsr" DisplayName="Seitung Prison Springer Ride" achievementId="6136"/>
+                
+                <MarkerCategory name="sjmrr" DisplayName="Shing Jea Monastery Raptor Ride" achievementId="6394">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="spsr" DisplayName="Seitung Prison Springer Ride" achievementId="6136">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
                 <MarkerCategory name="childcare" DisplayName="Spiritual Childcare" achievementId="6314">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
@@ -632,7 +874,7 @@
                     <MarkerCategory name="38" DisplayName="38. Sits atop the roofs of Daigo Ward" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="trials" DisplayName="Trials of the Tengu" achievementId="6118" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="6118">
+                <MarkerCategory name="trials" DisplayName="Trials of the Tengu" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="6118">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" mapDisplaySize="128"/>
@@ -665,6 +907,13 @@
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" fadeNear="1200" fadeFar="1600" heightOffset="3.5"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
                 </MarkerCategory>
 
                 <!-- Dancing Barefoot [H] -->
@@ -676,9 +925,9 @@
                 <!-- Distant Ancestry -->
                 <MarkerCategory name="ancestry" DisplayName="Distant Ancestry" achievementId="6315">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" fadeNear="1200" fadeFar="1600" heightOffset="3.5"/>
                 </MarkerCategory>
-
 
                 <!-- Echovald Unmade -->
                 <MarkerCategory name="unmade" DisplayName="Echovald Unmade" achievementId="6407" iconFile="Data/Images/Swirl - Void.png" inGameVisibility="0" mapDisplaySize="32"/>
@@ -699,7 +948,10 @@
                 </MarkerCategory>
 
                 <!-- Raptor Runner -->
-                <MarkerCategory name="rrtew" DisplayName="Raptor Runner: The Echovald Wilds" achievementId="6138"/>
+                <MarkerCategory name="rrtew" DisplayName="Raptor Runner: The Echovald Wilds" achievementId="6138">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
 
                 <!-- Not Too Worse for Wear -->
 
@@ -707,7 +959,10 @@
                 <MarkerCategory name="rye" DisplayName="Respect Your Elders" achievementId="6451" iconFile="Data/Images/Icons/Circle 3.png" inGameVisibility="0" mapDisplaySize="32"/>
 
                 <!-- Springer Fling -->
-                <MarkerCategory name="sftew" DisplayName="Springer Fling: The Echovald Wilds" achievementId="6498"/>
+                <MarkerCategory name="sftew" DisplayName="Springer Fling: The Echovald Wilds" achievementId="6498">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
 
                 <!-- What Did the Shrine Guardians Say? -->
                 <MarkerCategory name="wdtsgs" DisplayName="What Did the Shrine Guardians Say?" achievementId="6274">
