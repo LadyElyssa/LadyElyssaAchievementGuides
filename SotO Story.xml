@@ -36,7 +36,9 @@
         <Trail type="leag.soto.story.gofer.one.trail" trailData="Data/SotO/Story/Astral Gofer - All.trl"/>
         <Trail type="leag.soto.story.gofer.zojja.trail" trailData="Data/SotO/Story/Astral Gofer - Zojja.trl"/>
         <Trail type="leag.soto.story.gofer.skritt.trail" trailData="Data/SotO/Story/Astral Gofer - Skritt.trl"/>
+        <!--
         <Trail type="leag.soto.story.gofer.frode.trail" trailData="Data/SotO/Story/Astral Gofer - Frode.trl"/>
+        -->
         <Trail type="leag.soto.story.keys.balance" trailData="Data/SotO/Story/Key - Balance.trl"/>
         <Trail type="leag.soto.story.keys.celestial" trailData="Data/SotO/Story/Key - Celestial.trl"/>
         <Trail type="leag.soto.story.keys.knowledge" trailData="Data/SotO/Story/Key - Knowledge.trl"/>
