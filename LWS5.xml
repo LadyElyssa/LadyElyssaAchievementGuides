@@ -1,5 +1,16 @@
 <OverlayData>
     <POIs>
-        
+        <Trail type="leag.lws5.bjora.idolatry" trailData="Data/LWS5/Idolatry 1.trl" color="5BA4C6"/>
+        <Trail type="leag.lws5.bjora.idolatry" trailData="Data/LWS5/Idolatry 2.trl" color="5BA4C6"/>
+        <Trail type="leag.lws5.bjora.idolatry" trailData="Data/LWS5/Idolatry 3.trl" color="5BA4C6"/>
+        <Trail type="leag.lws5.bjora.idolatry" trailData="Data/LWS5/Idolatry 4.trl" color="5BA4C6"/>
+        <POI MapID="1343" xpos="1100.66" ypos="181.873" zpos="496.881" type="leag.lws5.bjora.idolatry.wp" GUID="Eswv5bUkKEyYzGjaJiABAA==" copy="[&BCcMAAA=]" copy-message="Jora's Keep Waypoint"/>
+        <POI MapID="1343" xpos="267.371" ypos="154.465" zpos="-106.694" type="leag.lws5.bjora.idolatry.wp" GUID="ZIuZs1KKsk+9x7dycWyctg==" copy="[&BDkMAAA=]" copy-message="Still Waters Speaking Waypoint"/>
+        <POI MapID="1343" xpos="-691.938" ypos="67.653" zpos="29.1918" type="leag.lws5.bjora.idolatry.wp" GUID="dahA0zN3ekOteUDLSfssHA==" copy="[&BDkMAAA=]" copy-message="Still Waters Speaking Waypoint"/>
+        <POI MapID="1343" xpos="1122.14" ypos="47.6583" zpos="-131.027" type="leag.lws5.bjora.idolatry.start" GUID="NYAh+X87bUmWSPtehrD5vg=="/>
+        <POI MapID="1343" xpos="1123.78" ypos="47.6603" zpos="-122.986" type="leag.lws5.bjora.idolatry.1" GUID="ggys8Q2o6EOVICJ9uu0pBQ=="/>
+        <POI MapID="1343" xpos="1132.79" ypos="47.6629" zpos="-121.904" type="leag.lws5.bjora.idolatry.2" GUID="hfvIuyrixkGizVHGXmrjhw=="/>
+        <POI MapID="1343" xpos="-287.54" ypos="169.156" zpos="194.711" type="leag.lws5.bjora.idolatry.3" GUID="hanLFh8vwk6sdjo9qVAwmg=="/>
+        <POI MapID="1343" xpos="-283.284" ypos="170.886" zpos="181.482" type="leag.lws5.bjora.idolatry.4" GUID="Fi+sz3STl0Krf0bcUKqYPg=="/>
     </POIs>
 </OverlayData>
