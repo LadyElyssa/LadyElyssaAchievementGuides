@@ -29,8 +29,9 @@ This pack currently covers:
 * Seitung Province
 * New Kaineng City
 * Arborstone
-* The Echovald Wilds (Work in Progress)
-* Dragon's End (Work in Progress)
+* The Echovald Wilds
+* Dragon's End
+* Gyala Delve
 
 ## Janthir Wilds ##
 * Lowland Shore
