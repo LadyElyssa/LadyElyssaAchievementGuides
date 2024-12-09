@@ -107,12 +107,16 @@
 
         <!-- Gettin' the Crew Together -->
         
-        <Trail type="leag.jw.ls.gtct.1" trailData="Data/JW/Gettin' the Crew Together 1.trl" texture="Data/Images/Trails/Trail Marker 2 Dark.png" inGameVisibility="1"/>
+        <Trail type="leag.jw.ls.gtct.2" trailData="Data/JW/Gettin' the Crew Together 2.trl" texture="Data/Images/Trails/Trail Marker 2 Dark.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="558.048" ypos="423.104" zpos="-557.492" type="leag.jw.ls.gtct.2" GUID="ppwILwJOeEe6ih62L2WNVA==" iconFile="Data/Images/Numbers/2.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
-        <Trail type="leag.jw.ls.gtct.2" trailData="Data/JW/Gettin' the Crew Together 2.trl" inGameVisibility="1"/>
+        <Trail type="leag.jw.ls.gtct.3" trailData="Data/JW/Gettin' the Crew Together 3.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" animSpeed="0"/>
+        <POI MapID="1550" xpos="557.6339" ypos="395.5073" zpos="-501.5738" type="leag.jw.ls.gtct.3" GUID="dzkye8CJaEu73V0Rr+xhtg==" info="Return to Zizel"/>
         <Trail type="leag.jw.ls.gtct.5" trailData="Data/JW/Gettin' the Crew Together 5.trl" inGameVisibility="1"/>
         <Trail type="leag.jw.ls.gtct.6" trailData="Data/JW/Gettin' the Crew Together 6.trl" inGameVisibility="1"/>
-        <Trail type="leag.jw.ls.gtct.7" trailData="Data/JW/Gettin' the Crew Together 7.trl" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-493.397" ypos="-4.407524" zpos="-70.91869" type="leag.jw.ls.gtct.wp" GUID="Sb1wZ1v1oEOip30LyHhUvg==" copy="[&BMkOAAA=] then goto [&BCUPAAA=]" copy-message="Hot Springs Waypoint&#xa;EVENT: Collect Frog's at Amphibian's Knot, Exorheic Falls"/>
+        <Trail type="leag.jw.ls.gtct.7" trailData="Data/JW/Gettin' the Crew Together 7a.trl" inGameVisibility="1"/>
+        <Trail type="leag.jw.ls.gtct.7" trailData="Data/JW/Gettin' the Crew Together 7b.trl" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-189.7956" ypos="149.2855" zpos="-250.5638" type="leag.jw.ls.gtct" GUID="PyvOxwzE6ECeCQTOAxxxIQ==" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapVisibility="1" minimapVisibility="1" mapDisplaySize="128"/>
         <Trail type="leag.jw.ls.gtct.8" trailData="Data/JW/Gettin' the Crew Together 8.trl" inGameVisibility="1"/>
         <Trail type="leag.jw.ls.gtct.9" trailData="Data/JW/Gettin' the Crew Together 9.trl" inGameVisibility="1"/>
         <Trail type="leag.jw.ls.gtct.10" trailData="Data/JW/Gettin' the Crew Together 10a.trl" inGameVisibility="1"/>
@@ -130,15 +134,23 @@
         <POI MapID="1550" xpos="553.451" ypos="423.099" zpos="-557.937" type="leag.jw.ls.gtct.6" GUID="knOtHbKD7UG4QU+gQ+HTDw==" iconFile="Data/Images/Numbers/6.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
         <POI MapID="1550" xpos="-495.441" ypos="-3.11015" zpos="-70.5238" type="leag.jw.ls.gtct.6" GUID="QkTVB1R49UakXR9RrazJdA=="/>
         <POI MapID="1550" xpos="-879.012" ypos="3.2193" zpos="102.052" type="leag.jw.ls.gtct.7" GUID="OIFbEmOpk0WMxLOg0HjzaA=="/>
+        <POI MapID="1550" xpos="-341.718" ypos="212.4868" zpos="-479.0975" type="leag.jw.ls.gtct.7" GUID="irLRc2DfB0m04qqsL40i/w=="/>
+        <POI MapID="1550" xpos="-341.718" ypos="212.4868" zpos="-479.0975" type="leag.jw.ls.gtct.7" GUID="VyLHawPAfEq78b3OmxQkVw==" iconFile="Data/Images/Numbers/7.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
+        <POI MapID="1550" xpos="-878.0458" ypos="2.963018" zpos="102.7631" type="leag.jw.ls.gtct.wp" GUID="DfRzrg5bq0mIv09WAJUeuw==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
         <POI MapID="1550" xpos="539.201" ypos="218.402" zpos="35.718" type="leag.jw.ls.gtct.8" GUID="XutRxfOLv0KHsBf3TdU5SQ==" iconFile="Data/Images/Numbers/8.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
         <POI MapID="1550" xpos="511.391" ypos="212.641" zpos="-115.202" type="leag.jw.ls.gtct.8" GUID="7qggHM791UaTVaShkWZ2Ow=="/>
+        <POI MapID="1550" xpos="511.4194" ypos="212.6646" zpos="-115.5599" type="leag.jw.ls.gtct.wp" GUID="0+igeKKm0UGxv9YkmCtUNg==" copy="[&BMkOAAA=]" copy-message="After Feeding Fang the special cabbage, goto Hot Springs Waypoint"/>
         <POI MapID="1550" xpos="-339.989" ypos="213.145" zpos="-479.657" type="leag.jw.ls.gtct.9" GUID="uH4scwhkhkCVAvKLfZrVcw==" iconFile="Data/Images/Numbers/9.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
+        <POI MapID="1550" xpos="48.53198" ypos="305.1057" zpos="-516.5078" type="leag.jw.ls.gtct.wp" GUID="MhekwY2GlESqCOXDI1/b0Q==" copy="[&BCcPAAA=]" copy-message="After saving the Wolf Pup, goto Astral Ward Moon Camp Waypoint"/>
         <POI MapID="1550" xpos="-331.764" ypos="217.1" zpos="-470.237" type="leag.jw.ls.gtct.9" GUID="Yj2LV9LqukKH9vc2zwOxrA=="/>
         <POI MapID="1550" xpos="552.496" ypos="423.099" zpos="-558.865" type="leag.jw.ls.gtct.9" GUID="y7FeoVXgWEKEtWqP+qOhtA==" iconFile="Data/Images/Numbers/9.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
         <POI MapID="1550" xpos="503.775" ypos="339.185" zpos="-698.258" type="leag.jw.ls.gtct.9" GUID="+vKnlUosFUW71MhcBXlQHw=="/>
+        <POI MapID="1550" xpos="503.7067" ypos="339.2333" zpos="-698.4443" type="leag.jw.ls.gtct.10" GUID="Tg9p791QhkWjX1GnaKmC4w==" copy="[&BBAPAAA=]" copy-message="Apiary Holt PoI"/>
         <POI MapID="1550" xpos="-343.907" ypos="212.073" zpos="-478.5" type="leag.jw.ls.gtct.10" GUID="m3TydKV+DUGzb/rp4nvadA==" iconFile="Data/Images/Numbers/10.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
         <POI MapID="1550" xpos="919.283" ypos="344.941" zpos="-111.479" type="leag.jw.ls.gtct.10" GUID="PdPLeNu0QkCFvPijojLYaw=="/>
         <POI MapID="1550" xpos="-201.352" ypos="175.169" zpos="-75.0674" type="leag.jw.ls.gtct.10" GUID="HwxLfoV5WkOa2Zs9BB9RVw=="/>
+        <POI MapID="1550" xpos="919.212" ypos="344.9267" zpos="-111.6385" type="leag.jw.ls.gtct.wp" GUID="uPw8nNKwVUqPX84xa7WEBw==" copy="[&BMkOAAA=]" copy-message="10. Hot Springs Waypoint"/>
+        <POI MapID="1550" xpos="-204.2025" ypos="155.6792" zpos="-74.65552" type="leag.jw.ls.gtct.wp" GUID="ou5CwB/8DUON9DvMwTW3SA==" copy="[&BC4PAAA=]" copy-message="Autumn's Vale Waypoint"/>
         <POI MapID="1550" xpos="-107.567" ypos="44.2175" zpos="96.908" type="leag.jw.ls.gtct.11" GUID="PwoZmu35zUKkBOahal1gvA==" iconFile="Data/Images/Numbers/11.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
         <POI MapID="1550" xpos="163.968" ypos="337.448" zpos="-171.654" type="leag.jw.ls.gtct.11" GUID="1egrKdQlnUKtT0JH19xM/Q=="/>
         <POI MapID="1550" xpos="164.02" ypos="337.479" zpos="-171.953" type="leag.jw.ls.gtct.wp" GUID="1c8PpH2NcUesWfnRIdVSjg==" copy="[&BK4OAAA=]" copy-message="Goto Harvest Den WP then go to No. 5" triggerrange="2" autotrigger="true" inGameVisibility="1"/>
@@ -156,6 +168,7 @@
         <Trail type="leag.jw.ls.jth" trailData="Data/JW/Janthiri Treasure Hunter LS Warclaw.trl" texture="Data/Images/Trails/Warclaw Prints.png"/>
         <Trail type="leag.jw.ls.jth" trailData="Data/JW/Janthiri Treasure Hunter LS 1.trl"/>
         <Trail type="leag.jw.ls.jth" trailData="Data/JW/Janthiri Treasure Hunter LS 2.trl"/>
+        <Trail type="leag.jw.ls.jth" trailData="Data/JW/Janthiri Treasure Hunter LS 2 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1550" xpos="437.7385" ypos="65.56487" zpos="201.1282" type="leag.jw.ls.jth.wp" GUID="Frs0sruxFUKwxxa9Q0Z+gg==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
         <POI MapID="1550" xpos="641.181" ypos="376.857" zpos="-533.914" type="leag.jw.ls.jth.dig" GUID="udnd2A5yHkuemcvWfI2pQg=="/>
         <POI MapID="1550" xpos="742.435" ypos="359.927" zpos="-557.777" type="leag.jw.ls.jth.dig" GUID="3kqufanWtECW/IW2FplncA=="/>
@@ -554,7 +567,7 @@
         <!-- Gettin' the Crew Together -->
         <POI MapID="1554" xpos="627.432" ypos="2.07939" zpos="-633.167" type="leag.jw.js.gtct.start" GUID="dFQ2eBmF+EGyGi4EKSKp4A=="/>
         <POI MapID="1554" xpos="671.008" ypos="3.3602" zpos="-682.51" type="leag.jw.js.gtct.13" GUID="1I62T718bECGPQMsoCoWqg=="/>
-        <POI MapID="1554" xpos="-345.08" ypos="44.5738" zpos="-608.215" type="leag.jw.js.gtct.14" GUID="RpyixoptZEO59t/Iq+oPCA==" inGameVisibility="1"/>
+        <POI MapID="1554" xpos="-345.08" ypos="44.5738" zpos="-608.215" type="leag.jw.js.gtct.14" GUID="RpyixoptZEO59t/Iq+oPCA=="/>
         <POI MapID="1554" xpos="621.605" ypos="9.13316" zpos="430.167" type="leag.jw.js.gtct.15" GUID="eR1QMgVl4UiwIK0KkpsLrw=="/>
         <POI MapID="1554" xpos="863.066" ypos="-3.06071" zpos="460.158" type="leag.jw.js.gtct.16" GUID="oz/ECv/NXUWQCtMJWgTkLQ=="/>
         <POI MapID="1554" xpos="683.92" ypos="2.09485" zpos="-682.138" type="leag.jw.js.gtct.17" GUID="v2nCKXh/fEOFUst/FuKxjg=="/>
@@ -564,6 +577,9 @@
         <Trail type="leag.jw.js.gtct.14" trailData="Data/JW/Gettin' the Crew Together 14.trl" inGameVisibility="1"/>
         <Trail type="leag.jw.js.gtct.15" trailData="Data/JW/Gettin' the Crew Together 15.trl" inGameVisibility="1"/>
         <Trail type="leag.jw.js.gtct.15" trailData="Data/JW/Gettin' the Crew Together 15b.trl" inGameVisibility="1"/>
+        <POI MapID="1554" xpos="671.2905" ypos="3.361988" zpos="-681.6716" type="leag.jw.js.gtct.wp" GUID="TDarpws3Zk2B7XObm3VHXg==" copy="13. [&BLgOAAA=] - 17. [&BK4OAAA=]" copy-message="13. Festering Basin Waypoint&#xa;17. Harvest Den WP follow No. 5"/>
+        <POI MapID="1554" xpos="-343.3581" ypos="44.58147" zpos="-608.2231" type="leag.jw.js.gtct.wp" GUID="qbINOJ8zcU+hkepKsZTaSQ==" copy="[&BCoPAAA=]" copy-message="Stricken Plains Waypoint"/>
+
 
         <!-- Hero of the Woods -->
         <POI MapID="1554" xpos="-283.126" ypos="33.8376" zpos="-413.837" type="leag.jw.js.hotw.mine" GUID="gIgtWOvJuE+J8/vG3tClQg=="/>
@@ -758,6 +774,7 @@
         <POI MapID="1554" xpos="-736.642" ypos="77.9445" zpos="689.504" type="leag.jw.js.jth.dig" GUID="WePaiFYDbUyvHa+3kytimw=="/>
         <POI MapID="1554" xpos="-287.752" ypos="49.6185" zpos="433.115" type="leag.jw.js.jth.dig" GUID="/iiVZpCL6E2+zBIKisiVyA=="/>
         <POI MapID="1554" xpos="-249.897" ypos="50.581" zpos="443.346" type="leag.jw.js.jth.dig" GUID="DtzSYobY7UCm79UwBiObbw=="/>
+        <POI MapID="1554" xpos="603.0496" ypos="71.91906" zpos="-792.5899" type="leag.jw.js.jth.dig" GUID="2KcePN8mNEKq4LoCbglDVw=="/>
         <POI MapID="1554" xpos="606.777" ypos="1.88059" zpos="-611.107" type="leag.jw.js.jth.start" GUID="qOc/iaPEcUGwY7rcc9KeRQ=="/>
 
         <!-- Janthiri Smuggler -->

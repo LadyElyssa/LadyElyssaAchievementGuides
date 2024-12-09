@@ -237,9 +237,11 @@
 
             <!-- Troll Delicacy -->
             <MarkerCategory name="delicacy" DisplayName="Troll Delicacy [H]" iconFile="Data/Images/Troll Delicacy.png" defaulttoggle="0" achievementId="8294"/>
+
             <MarkerCategory name="ww" DisplayName="Warclaw Wrangling" achievementId="8190">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             </MarkerCategory>
+            
             <MarkerCategory name="wts" DisplayName="What's That Sound [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8156"/>
             <MarkerCategory name="workplace" DisplayName="Workplace Safety [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8184"/>
 
