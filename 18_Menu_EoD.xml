@@ -525,7 +525,7 @@
                 <MarkerCategory name="haze" IsSeparator="1" DisplayName="DELVE IN TO THE HAZE"/>
 
                 <!-- Ongoing Investigations -->
-                <MarkerCategory name="ongoing" DisplayName="Ongoing Investigations" achievementId="6880">
+                <MarkerCategory name="ongoing" DisplayName="Ongoing Investigations"> <!-- achievementId="6880" was removed from API -->
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="logs" DisplayName="Toggle Marker" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
                 </MarkerCategory>
