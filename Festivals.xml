@@ -590,7 +590,7 @@
         <POI MapID="50" xpos="-281.31" ypos="10.1323" zpos="152.376" type="leag.festivals.wintersday.grawnk.chef.la" GUID="0U07aZnXEE+U/PmJs82/Bg=="/>
         <POI MapID="32" xpos="-752.723" ypos="63.0834" zpos="172.17" type="leag.festivals.wintersday.grawnk.chef.diessa" GUID="4C91yupzWU+sh1I2jbvgvA=="/>
         <POI MapID="326" xpos="163.218" ypos="335.137" zpos="-139.604" type="leag.festivals.wintersday.grawnk.chef.hb" GUID="k3Hyjp07kUex3YFna4UC6Q=="/>
-        <POI MapID="218" xpos="270.073" ypos="139.231" zpos="196.559" type="leag.festivals.wintersday.grawnk.chef.la" GUID="NAuHPxY+TU2+1TeVeVr8OQ=="/>
+        <POI MapID="218" xpos="270.073" ypos="139.231" zpos="196.559" type="leag.festivals.wintersday.grawnk.chef.bc" GUID="NAuHPxY+TU2+1TeVeVr8OQ=="/>
 
         <!-- For the Children! -->
         <Trail type="leag.festivals.wintersday.ftc.human.swashbuckler" trailData="Data/Festivals/Wintersday/Swashbuckler's Cove.trl"/>
@@ -617,6 +617,8 @@
         <Trail type="leag.festivals.wintersday.ftc.asura.goemm" trailData="Data/Festivals/Wintersday/Goemm's Lab 3b.trl"/>
         <Trail type="leag.festivals.wintersday.ftc.asura.goemm" trailData="Data/Festivals/Wintersday/Goemm's Lab 4.trl"/>
         <Trail type="leag.festivals.wintersday.ftc.asura.ppl" trailData="Data/Festivals/Wintersday/Portmatt.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.spekk" trailData="Data/Festivals/Wintersday/Spekks's Laboratory 1.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.spekk" trailData="Data/Festivals/Wintersday/Spekks's Laboratory 2.trl"/>
         <Trail type="leag.festivals.wintersday.ftc.asura.hexfoundry" trailData="Data/Festivals/Wintersday/Hexfoundry Unhinged.trl"/>
 
         <Trail type="leag.festivals.wintersday.ftc.sylvari.spelunker" trailData="Data/Festivals/Wintersday/Spelunker's Delve 1a.trl"/>
