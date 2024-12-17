@@ -1,12 +1,63 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
-        <!--
+        
         <MarkerCategory name="pof" DisplayName="Path of Fire">
 
             <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
+                <MarkerCategory name="ch3" IsSeparator="1" DisplayName="CHAPTER 3: Night of Fires"/>
+                <MarkerCategory name="latf" DisplayName="Lurking among the Flames" iconFile="Data/Images/Circle - Orange.png" mapDisplaySize="40" inGameVisibility="0" achievementId="3879"/>
+                <MarkerCategory name="sok" DisplayName="Shield of Kormir" iconFile="Data/Images/Move!.png" heightOffset="3.0" maxSize="32" achievementId="3813"/>
+                <MarkerCategory name="had" DisplayName="Hidden and Dishonored [H]" defaulttoggle="0" iconFile="Data/Images/Icons/Orb - Red.png" maxSize="16" heightOffset="-0.5" achievementId="3564"/>
+
+                <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: The Sacrifice"/>
+                <MarkerCategory name="dc" DisplayName="Damage Control" iconFile="Data/Images/Circle - Orange.png" mapDisplaySize="40" inGameVisibility="0" achievementId="3568"/>
+                <MarkerCategory name="elite" DisplayName="Elite Elimination" achievementId="3811">
+                    <MarkerCategory name="assembler" DisplayName="Elite Forged Assembler"/>
+                    <MarkerCategory name="cannonade" DisplayName="Elite Forged Cannonade"/>
+                    <MarkerCategory name="officer" DisplayName="Elite Forged Officer"/>
+                </MarkerCategory>
+                <MarkerCategory name="vlast" DisplayName="Vlast from the Past" iconFile="Data/Images/Icons/Memories of Vlast.png" mapDisplaySize="32" inGameVisibility="0"/>
+
+                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: Crystalline Memories"/>
+                <MarkerCategory name="essences" DisplayName="All the Essences" iconFile="Data/Images/Orb - White.png" mapDisplaySize="16" achievementId="3668" heightOffset="-0.5" maxSize="16" fadeNear="2400" fadeFar="4800"/>
+
+                <MarkerCategory name="ch7" IsSeparator="1" DisplayName="CHAPTER 7: Facing the Truth"/>
+                <MarkerCategory name="secrets" DisplayName="Goddess of Secrets" achievementId="3861"/>
+                <MarkerCategory name="leap" DisplayName="Leap of Knowledge" achievementId="3725"/>
+                <MarkerCategory name="perfect" DisplayName="Perfect Match" texture="Data/Images/Trails/Line - Fine with Shadow.png" achievementId="3870"/>
+                <MarkerCategory name="puzzle" DisplayName="Puzzle in Time" achievementId="3748" FadeNear="2400" fadeFar="4800" maxSize="16">
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" heightOffset="3.0"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" heightOffset="3.0"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" heightOffset="3.0"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" heightOffset="3.0"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" heightOffset="3.0"/>
+                </MarkerCategory>
+                <MarkerCategory name="seeker" DisplayName="Seeker of Truth and Knowledge [H]" defaulttoggle="0" achievementId="3908">
+                    <MarkerCategory name="book" DisplayName="Toggle Books" iconFile="Data/Images/Orb - White.png" mapDisplaySize="12" heightOffset="-0.5" maxSize="12" fadeNear="2400" fadeFar="4800"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="ch8" IsSeparator="1" DisplayName="CHAPTER 8: The Way Forward"/>
+                <MarkerCategory name="twf" DisplayName="The Way Forward"/>
+                <MarkerCategory name="guided" DisplayName="Guided Remembrance" achievementId="3565" iconFile="Data/Images/Icons/Orb - Yellow.png" mapDisplaySize="12" heightOffset="0.0" maxSize="12" fadeNear="2400" fadeFar="4800"/>
+                <MarkerCategory name="sleep" DisplayName="Fast Asleep" achievementId="3909"/>
+                <MarkerCategory name="wafl" DisplayName="Walk a Fine Line" achievementId="3869"/>
+
+                <MarkerCategory name="ch9" IsSeparator="1" DisplayName="CHAPTER 9: The Departing"/>
+                <MarkerCategory name="departing" DisplayName="The Departing" miniMapVisibility="0" mapVisibility="0">
+                    <MarkerCategory name="story" DisplayName="The Whole Story" miniMapVisibility="0" mapVisibility="0" achievementId="3576"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="ch10" IsSeparator="1" DisplayName="CHAPTER 10: Enemy of my Enemy"/>
+                <MarkerCategory name="mummy" DisplayName="Mummy Legion" achievementId="3602" iconFile="Data/Images/Circle - Mummy.png" mapDisplaySize="32" inGameVisibility="0"/>
+                <MarkerCategory name="tag" DisplayName="Tag!" achievementId="3835"/>
+
+                <MarkerCategory name="ch13" IsSeparator="1" DisplayName="CHAPTER 13: Small Victory"/>
+                <MarkerCategory name="snf" DisplayName="Saturday Night Fever [H]" defaulttoggle="0" iconFile="Data/Images/Emote - Dance.png" achievementId="3903"/>
             </MarkerCategory>
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+
+            <!-- Taimi Contact Points https://wiki.guildwars2.com/wiki/Contact_Point -->
 
             <MarkerCategory name="oasis" DisplayName="Crystal Oasis">
             </MarkerCategory>
@@ -24,7 +75,7 @@
             </MarkerCategory>
         </MarkerCategory>
 
-        -->
+        
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>

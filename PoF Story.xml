@@ -1,0 +1,166 @@
+<OverlayData>
+    <POIs>
+        <!-- CHAPTER 3: Night of Fires -->
+        <!-- Hidden and Dishonoured -->
+        <POI MapID="1241" xpos="1054.691" ypos="-0.6889" zpos="-133.003" type="leag.pof.story.had" GUID="YU/s6swyK0+uvta4dQlrJQ==" maxSize="16"/>
+        <POI MapID="1241" xpos="987.388" ypos="58.5529" zpos="-63.4057" type="leag.pof.story.had" GUID="a+dPy9bxzEamogxdI+pe+Q=="/>
+        <POI MapID="1241" xpos="1040.4" ypos="106.529" zpos="131.737" type="leag.pof.story.had" GUID="7JMKqZUvA0CnR6AJ12vJjQ=="/>
+        <POI MapID="1241" xpos="1164.09" ypos="106.875" zpos="48.1126" type="leag.pof.story.had" GUID="Ekr7K5RRMkGzWZIXssFsYg=="/>
+        <POI MapID="1241" xpos="1174.61" ypos="107.079" zpos="178.731" type="leag.pof.story.had" GUID="tK0bBhDgokextRLm1WKmJw=="/>
+        <POI MapID="1241" xpos="971.619" ypos="101.009" zpos="-7.08705" type="leag.pof.story.had" GUID="h3wrvEIohk26ArlU4ezMSw=="/>
+
+        <!-- Lurking among the Flames -->
+        <POI MapID="1241" xpos="928.669" ypos="13.2108" zpos="-162.162" type="leag.pof.story.latf" GUID="7SlbkZnfVUC90rPmHEaGDA=="/>
+        <POI MapID="1241" xpos="1097.28" ypos="9.73977" zpos="-137.681" type="leag.pof.story.latf" GUID="tRnKfplLJkmMI8+B26ll4A=="/>
+        <POI MapID="1241" xpos="1100.62" ypos="99.6476" zpos="41.6155" type="leag.pof.story.latf" GUID="v0EUt4lthU2cABe17pL5aw=="/>
+        <POI MapID="1241" xpos="1177.19" ypos="102.607" zpos="55.8333" type="leag.pof.story.latf" GUID="14VkjZkoOUSbedwwrhm9tA=="/>
+        <POI MapID="1241" xpos="1227.11" ypos="111.789" zpos="74.872" type="leag.pof.story.latf" GUID="ID7ddcg9yEiRG9F4zWTW/A=="/>
+        <POI MapID="1241" xpos="1081.15" ypos="100.428" zpos="153.266" type="leag.pof.story.latf" GUID="naUqbmnvV0ezg5bT/BBJYw=="/>
+
+        <!-- Shield of Kormir -->
+        <Trail type="leag.pof.story.sok" trailData="Data/PoF/Shield of Kormir.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="0"/>
+        <POI MapID="1241" xpos="746.221" ypos="123.713" zpos="98.699" type="leag.pof.story.sok" GUID="ySJvjw5IkkW0g+MlSpylmw=="/>
+        <POI MapID="1241" xpos="682.199" ypos="122.197" zpos="97.6493" type="leag.pof.story.sok" GUID="MDiFe9x7u0C9AkSV8++9og=="/>
+        <POI MapID="1241" xpos="687.546" ypos="123.865" zpos="109.686" type="leag.pof.story.sok" GUID="0HggcH7DF06nAr/G0GfpcQ=="/>
+        <POI MapID="1241" xpos="671.422" ypos="123.811" zpos="134.178" type="leag.pof.story.sok" GUID="Uho9DnJ8GUCKkl1SOV/yvQ=="/>
+        <POI MapID="1241" xpos="735.294" ypos="124.42" zpos="120.406" type="leag.pof.story.sok" GUID="7XUKP2KSeUicmS8n2dYxJg=="/>
+
+        <!-- CHAPTER 4: The Sacrifice -->
+        <!-- Damage Control -->
+        <POI MapID="1209" xpos="637.511" ypos="139.07" zpos="-494.67" type="leag.pof.story.dc" GUID="TZTDU2Lstky9DWpvz5P5Sg=="/>
+        <POI MapID="1209" xpos="534.025" ypos="137.605" zpos="-361.732" type="leag.pof.story.dc" GUID="s07AK7cXrEqwB2j9X0Cfkg=="/>
+        <POI MapID="1209" xpos="138.873" ypos="138.975" zpos="-536.555" type="leag.pof.story.dc" GUID="Ea4mB/HF2E6fa4fo3/WRMg=="/>
+        <POI MapID="1209" xpos="253.282" ypos="149.672" zpos="-651.284" type="leag.pof.story.dc" GUID="YMjBez8U7kqwSPs8FLO2FA=="/>
+
+        <!-- Elite Elimination -->
+        <Trail type="leag.pof.story.elite.assembler" trailData="Data/PoF/Elite Elimination - Assembler.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="00ffff"/>
+        <Trail type="leag.pof.story.elite.cannonade" trailData="Data/PoF/Elite Elimination - Cannonade.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="ff0000"/>
+        <Trail type="leag.pof.story.elite.officer" trailData="Data/PoF/Elite Elimination - Officer.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="00ff00"/>
+        
+        <!-- Vlast from the Past  -->
+        <POI MapID="1211" xpos="372.316" ypos="151.324" zpos="-258.94" type="leag.pof.story.vlast" GUID="ysDijjpyE0izpY/FoQc3sA=="/>
+        <POI MapID="1211" xpos="355.72" ypos="242.647" zpos="13.8123" type="leag.pof.story.vlast" GUID="/vIY75+4bUS1K4lU/jGtww=="/>
+        <POI MapID="1211" xpos="686.401" ypos="199.371" zpos="15.2542" type="leag.pof.story.vlast" GUID="YvqkfkotDEyCnFaMHjOnMg=="/>
+        <POI MapID="1211" xpos="877.474" ypos="247.317" zpos="285.38" type="leag.pof.story.vlast" GUID="P9fML6N5e0qbKhsT5h6IDg=="/>
+        <POI MapID="1211" xpos="584.163" ypos="161.811" zpos="617.356" type="leag.pof.story.vlast" GUID="U74Cyq90EkSsME3lYd8NJw=="/>
+        <POI MapID="1211" xpos="36.1201" ypos="274.43" zpos="393.757" type="leag.pof.story.vlast" GUID="l7OyTrXjYkmNoZmH3HAj4w=="/>
+        <POI MapID="1211" xpos="33.9657" ypos="208.652" zpos="5.74279" type="leag.pof.story.vlast" GUID="lkK0vaWzm0KI5nM/RQTP+A=="/>
+        <POI MapID="1211" xpos="-418.447" ypos="68.7492" zpos="-373.378" type="leag.pof.story.vlast" GUID="9YVlOc7DgUSbKTSAyg7NNA=="/>
+        <POI MapID="1211" xpos="-719.001" ypos="37.5871" zpos="-458.279" type="leag.pof.story.vlast" GUID="Lb59E4Dkw0SUYlEdPdCBow=="/>
+        <POI MapID="1211" xpos="-371.383" ypos="318.474" zpos="616.377" type="leag.pof.story.vlast" GUID="aETS3RGDq02HX8n17m4/bw=="/>
+        <POI MapID="1211" xpos="-484.488" ypos="262.489" zpos="328.188" type="leag.pof.story.vlast" GUID="pB/OpENaGkWGaQqkRvJxQw=="/>
+        <POI MapID="1211" xpos="-605.749" ypos="339.754" zpos="108.785" type="leag.pof.story.vlast" GUID="XWsmjl2qbkOB55A/VMUOyQ=="/>
+
+        <!-- Dragon's Lair -->
+        <!--
+        <POI MapID="1252" xpos="1010.35" ypos="178.241" zpos="-437.251" type="leag.pof.story.lair" GUID="Lzv4/oIiKECl6hXA92nVKA=="/>
+        <POI MapID="1252" xpos="993.152" ypos="179.685" zpos="-436.846" type="leag.pof.story.lair" GUID="VSaGQh4DLki5WPxn0p+xpA=="/>
+        <POI MapID="1252" xpos="976.96" ypos="184.249" zpos="-435.136" type="leag.pof.story.lair" GUID="nn14nH2I20aZHraj2aBQKg=="/>
+        <POI MapID="1252" xpos="1006.33" ypos="178.441" zpos="-418.349" type="leag.pof.story.lair" GUID="gYb7Yqj1C06hGgqwmjiy2A=="/>
+        <POI MapID="1252" xpos="1025.58" ypos="176.553" zpos="-424.589" type="leag.pof.story.lair" GUID="NjolJ4xvYkibZ3by5LF0uQ=="/>
+        -->
+        <POI MapID="1252" xpos="1034.6" ypos="171.79" zpos="-395.187" type="leag.pof.story.essences" GUID="FaTrSGJS0UOrVMTte4LfRg=="/>
+        <POI MapID="1252" xpos="1043.73" ypos="174.922" zpos="-379.982" type="leag.pof.story.essences" GUID="YXhRbeOafk2iqGYZyf4Yqg=="/>
+        <POI MapID="1252" xpos="1057.59" ypos="179.17" zpos="-368.652" type="leag.pof.story.essences" GUID="MOxW2F3b8USLZT/qVw5Qsw=="/>
+        <POI MapID="1252" xpos="1091.67" ypos="195.028" zpos="-320.457" type="leag.pof.story.essences" GUID="BFNoQJb+iUKxjdyrRk4fbg=="/>
+        <POI MapID="1252" xpos="1054.76" ypos="193.052" zpos="-344.153" type="leag.pof.story.essences" GUID="PIZNDaI2hUWdrK9d+tVw8Q=="/>
+        <POI MapID="1252" xpos="1032.15" ypos="207.821" zpos="-347.809" type="leag.pof.story.essences" GUID="V7+W6WZRLUCEWYfQFeVuTQ=="/>
+        <POI MapID="1252" xpos="1078.42" ypos="204.452" zpos="-378.693" type="leag.pof.story.essences" GUID="F5iimG3CGkqRJ6nfsLGjpA=="/>
+        <POI MapID="1252" xpos="1172.73" ypos="165.591" zpos="-560.086" type="leag.pof.story.essences" GUID="QZvfaGyKT0aNLGgY1Bz4uw=="/>
+        <POI MapID="1252" xpos="1178.59" ypos="155.64" zpos="-528.5" type="leag.pof.story.essences" GUID="u5h5oHJt7EGNdRsLQ/j/3A=="/>
+        <POI MapID="1252" xpos="1161.99" ypos="139.386" zpos="-552.265" type="leag.pof.story.essences" GUID="Y2uwY3LTsUqv0TMO/RgQzw=="/>
+        <POI MapID="1252" xpos="1143.9" ypos="126.374" zpos="-538.426" type="leag.pof.story.essences" GUID="HPtFDaIUB0u0KQgLlrjyTA=="/>
+        <POI MapID="1252" xpos="1212.65" ypos="156.189" zpos="-505.693" type="leag.pof.story.essences" GUID="CVMPKr/JTkGGQFMdeyetyQ=="/>
+        <POI MapID="1252" xpos="1215.67" ypos="142.563" zpos="-540.623" type="leag.pof.story.essences" GUID="ucS9m3JOpkitlw4jZ/wy0Q=="/>
+        <POI MapID="1252" xpos="1156.67" ypos="139.655" zpos="-523.354" type="leag.pof.story.essences" GUID="c8b0/kxP6UG/nFVXa+l7BQ=="/>
+        <POI MapID="1252" xpos="1174.15" ypos="127.928" zpos="-532.227" type="leag.pof.story.essences" GUID="1/+l9dUW90am+OTOxJLSpA=="/>
+        <POI MapID="1252" xpos="1329.79" ypos="170.987" zpos="-440.586" type="leag.pof.story.essences" GUID="V3F1M/TxjEObTyYHy6tqxQ=="/>
+        <POI MapID="1252" xpos="1298" ypos="160.472" zpos="-467.011" type="leag.pof.story.essences" GUID="lpeNr2kdgESxx829IVn/vw=="/>
+        <POI MapID="1252" xpos="1303.95" ypos="154.336" zpos="-439.656" type="leag.pof.story.essences" GUID="MT3QnS28DEugjxZ7OUni0A=="/>
+        <POI MapID="1252" xpos="1305.88" ypos="152.655" zpos="-404.554" type="leag.pof.story.essences" GUID="2wjRe+rL5Ue0mOtey2MKEA=="/>
+        <POI MapID="1252" xpos="1307.41" ypos="139.726" zpos="-388.732" type="leag.pof.story.essences" GUID="6SQIRI9neUWNUJpLx5EYcw=="/>
+        <POI MapID="1252" xpos="1289.19" ypos="131.547" zpos="-402.892" type="leag.pof.story.essences" GUID="LM7PpjZuVEav0qA033oVLA=="/>
+        <POI MapID="1252" xpos="1342" ypos="168.977" zpos="-403.519" type="leag.pof.story.essences" GUID="wqDo+/yq+EOrgaPXxT+7Lg=="/>
+
+        <!-- CHAPTER 7: Facing the Truth -->
+        <!-- Perfect Match -->
+        <Trail type="leag.pof.story.perfect" trailData="Data/PoF/Perfect Match.trl" animSpeed="0" color="ffcc00"/>
+
+        <!-- Puzzle in Time -->
+        <POI MapID="1230" xpos="-738.8902" ypos="1.344816" zpos="-288.2631" type="leag.pof.story.puzzle" GUID="lfk0Gwjfq0+85yy9bHJBhA==" iconFile="Data/Images/Icons/Blank.png" info="Option: 1 or 3" infoRage="5"/>
+        <POI MapID="1230" xpos="-690.51" ypos="1.874981" zpos="-332.8394" type="leag.pof.story.puzzle" GUID="OUSaIqDzQ0yK7R8xS87m9w==" iconFile="Data/Images/Icons/Blank.png" info="Option: 3" infoRage="5"/>
+        <POI MapID="1230" xpos="-733.242" ypos="2.53921" zpos="-317.626" type="leag.pof.story.puzzle.1" GUID="PHGyzQXM4EKVO+/aJuUS2A=="/>
+        <POI MapID="1230" xpos="-700.693" ypos="3.40414" zpos="-311.457" type="leag.pof.story.puzzle.1" GUID="P+S6Jp26jEeTmVf3bKPRhA=="/>
+        <POI MapID="1230" xpos="-690.36" ypos="1.88465" zpos="-333.303" type="leag.pof.story.puzzle.2" GUID="jj+WShevakakBmC3PK9N7A=="/>
+        <POI MapID="1230" xpos="-700.628" ypos="3.40577" zpos="-290.164" type="leag.pof.story.puzzle.2" GUID="vsgWiUrhdke/264gqeSiug=="/>
+        <POI MapID="1230" xpos="-659.861" ypos="1.60598" zpos="-262.643" type="leag.pof.story.puzzle.3" GUID="fTVWZpVVQke9nxucREKp/g=="/>
+        <POI MapID="1230" xpos="-708.569" ypos="3.37677" zpos="-293.249" type="leag.pof.story.puzzle.3" GUID="m3MBOrb14ku7rW0j1fVCFQ=="/>
+        <POI MapID="1230" xpos="-739.098" ypos="1.38769" zpos="-288.196" type="leag.pof.story.puzzle.4" GUID="AJrxpQ0eZUOnAQ2bjtIKEw=="/>
+        <POI MapID="1230" xpos="-693.054" ypos="3.41244" zpos="-308.753" type="leag.pof.story.puzzle.4" GUID="5gRotiLlP0yBZ6I9SMRmbg=="/>
+        <POI MapID="1230" xpos="-629.626" ypos="2.15558" zpos="-306.314" type="leag.pof.story.puzzle.5" GUID="JlqKFBCI5k2tL8SfAb79tA=="/>
+        <POI MapID="1230" xpos="-708.174" ypos="3.48203" zpos="-308.317" type="leag.pof.story.puzzle.5" GUID="c4otwvLQaEm253lqBRL8jA=="/>
+
+        <!-- Leap of Knowledge -->
+        <POI MapID="1230" xpos="687.4661" ypos="126.5091" zpos="159.4954" type="leag.pof.story.leap" GUID="9oJ19h36pkiSCo4MSDCGgw==" iconFile="Data/Images/Diving Goggles.png"/>
+
+        <!-- Seeker of Truth and Knowledge -->
+        <Trail type="leag.pof.story.seeker" trailData="Data/PoF/Seeker of Truth and Knowledge.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="1" color="ffcc00"/>
+        <POI MapID="1230" xpos="718.296" ypos="16.3648" zpos="367.91" type="leag.pof.story.seeker.book" GUID="V3C+t5V54EGX9h2yqScamA=="/>
+        <POI MapID="1230" xpos="729.933" ypos="18.7863" zpos="404.634" type="leag.pof.story.seeker.book" GUID="bq/g2JO000uaZ5AEkuBBOg=="/>
+        <POI MapID="1230" xpos="716.337" ypos="17.5894" zpos="410.656" type="leag.pof.story.seeker.book" GUID="8fSU/i30Sk+NBGgYH7CrBw=="/>
+        <POI MapID="1230" xpos="697.252" ypos="16.4566" zpos="422.272" type="leag.pof.story.seeker.book" GUID="58CJggDaRUypBH684MukiA=="/>
+        <POI MapID="1230" xpos="671.423" ypos="16.3654" zpos="419.613" type="leag.pof.story.seeker.book" GUID="xipx+S4qlk2ydF65URSHcw=="/>
+        <POI MapID="1230" xpos="692.383" ypos="17.5876" zpos="404.696" type="leag.pof.story.seeker.book" GUID="Obd+oDmTW0+jX4NxlziTEA=="/>
+        <POI MapID="1230" xpos="678.924" ypos="17.952" zpos="373.989" type="leag.pof.story.seeker.book" GUID="y849j2IaIkCnytJjBecV5Q=="/>
+        <POI MapID="1230" xpos="455.991" ypos="2.62185" zpos="-4.30286" type="leag.pof.story.seeker.book" GUID="qSVAFTEuMEGDHARB8wGorA=="/>
+        <POI MapID="1230" xpos="407.528" ypos="2.62213" zpos="80.5607" type="leag.pof.story.seeker.book" GUID="j0zCb0Q000+mv4azNh/0hQ=="/>
+        <POI MapID="1230" xpos="650.767" ypos="16.1784" zpos="147.894" type="leag.pof.story.seeker.book" GUID="IfT9qg0BBka7Mi5n+yBlGw=="/>
+        <POI MapID="1230" xpos="658.745" ypos="15.9372" zpos="167.383" type="leag.pof.story.seeker.book" GUID="1oEUjuofvEKJWFEpbc5LaA=="/>
+        <POI MapID="1230" xpos="626.487" ypos="15.8794" zpos="182.468" type="leag.pof.story.seeker.book" GUID="SJfGnSdW9k6MYp8b4TEgBA=="/>
+        <POI MapID="1230" xpos="721.038" ypos="141.714" zpos="231.109" type="leag.pof.story.seeker.book" GUID="pkoBq0tQd06mEFqZxwc/EQ=="/>
+        <POI MapID="1230" xpos="672.807" ypos="129.335" zpos="159.971" type="leag.pof.story.seeker.book" GUID="lQxuR4/PRkOpFdKMTMgN/Q=="/>
+
+        <!-- CHAPTER 8: The Way Forward -->
+        <Trail type="leag.pof.story.twf" trailData="Data/PoF/The Way Forward.trl"            texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="64FE11"/>
+        <Trail type="leag.pof.story.twf" trailData="Data/PoF/The Way Forward - Instance.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="64FE11"/>
+
+        <!-- Guided Remembrance -->
+        <Trail type="leag.pof.story.guided" trailData="Data/PoF/Guided Remembrance.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="64FE11"/>
+        <POI MapID="1221" xpos="-413.538" ypos="10.7031" zpos="-222.834" type="leag.pof.story.guided" GUID="deW5wElj+0eAkT2MhGD5cQ=="/>
+        <POI MapID="1221" xpos="-447.616" ypos="2.16539" zpos="-290.733" type="leag.pof.story.guided" GUID="goXxYl7Gc0C1CAjCa/7WLw=="/>
+        <POI MapID="1221" xpos="-458.014" ypos="9.73597" zpos="-324.756" type="leag.pof.story.guided" GUID="k3EJXS7juEiz7UI6iiqhZA=="/>
+        <POI MapID="1221" xpos="-471.962" ypos="5.38372" zpos="-238.085" type="leag.pof.story.guided" GUID="zqIscAYccEWhObfDP49Thg=="/>
+        <POI MapID="1221" xpos="-436.402" ypos="28.0648" zpos="-382.009" type="leag.pof.story.guided" GUID="N2Amf4viB0aYeMWTTEAgPA=="/>
+
+        <!-- Fast Asleep -->
+        <Trail type="leag.pof.story.sleep" trailData="Data/PoF/Fast Asleep.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="ff6666"/>
+
+        <!-- Walk a Fine Line -->
+        <Trail type="leag.pof.story.wafl" trailData="Data/PoF/Walk a Fine Line.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="0.5" color="ffcc00" fadeNear="900" fadeFar="1600"/>
+
+        <!-- CHAPTER 9: the Departing -->
+        <Trail type="leag.pof.story.departing" trailData="Data/PoF/The Departing 1.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5"/>
+        <Trail type="leag.pof.story.departing" trailData="Data/PoF/The Departing 2.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5"/>
+        <Trail type="leag.pof.story.departing" trailData="Data/PoF/The Departing 3.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5" color="666699"/>
+        <Trail type="leag.pof.story.story" trailData="Data/PoF/The Departing 4 - Purpose.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5" color="c2c2d6"/>
+
+        <!-- CHAPTER 10: Enemy of my Enemy -->
+        <POI MapID="1255" xpos="-924.792" ypos="162.129" zpos="-186.963" type="leag.pof.story.mummy" GUID="xC1RkexEOEqd7afM8Gii9Q=="/>
+        <POI MapID="1255" xpos="-932.839" ypos="162.917" zpos="-168.155" type="leag.pof.story.mummy" GUID="UADZd1WEdUONqTcRFdF1Ug=="/>
+        <POI MapID="1255" xpos="-1111.6" ypos="118.885" zpos="-210.383" type="leag.pof.story.mummy" GUID="YawqP7IYeEqJDp9SN2z/MQ=="/>
+        <POI MapID="1255" xpos="-1297.39" ypos="118.811" zpos="-346.525" type="leag.pof.story.mummy" GUID="Ecx2ib5bKEGSUPqrv7qoUg=="/>
+        <POI MapID="1255" xpos="-1415.68" ypos="107.729" zpos="-295.119" type="leag.pof.story.mummy" GUID="CG0vhwMe60Gf5zk9mB+XDQ=="/>
+        <POI MapID="1255" xpos="-1388.86" ypos="127.175" zpos="-224.501" type="leag.pof.story.mummy" GUID="yrQa1gErTkOOWZJnD2cYwQ=="/>
+        <POI MapID="1255" xpos="-1312.6" ypos="121.048" zpos="-167.021" type="leag.pof.story.mummy" GUID="+8sgQWGSMki74At3rPvrfw=="/>
+        <POI MapID="1255" xpos="-1295.65" ypos="69.6077" zpos="-236.69" type="leag.pof.story.mummy" GUID="b5k3HxgGA0qgT9iWgfEiWg=="/>
+        <POI MapID="1255" xpos="-1297.57" ypos="69.6301" zpos="-198.289" type="leag.pof.story.mummy" GUID="E+GlxCfkbkGxyNG+oIg/MA=="/>
+        <POI MapID="1255" xpos="-1232.98" ypos="135.431" zpos="-266.026" type="leag.pof.story.mummy" GUID="LJAwsfVf2kS2SayjVjXpGA=="/>
+        <Trail type="leag.pof.story.tag" trailData="Data/PoF/Tag! Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" animSpeed="1.0"/>
+        <Trail type="leag.pof.story.tag" trailData="Data/PoF/Tag!.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" animSpeed="1.0"/>
+
+        <!-- CHAPTER 13: Small Victory -->
+        <POI MapID="1223" xpos="-870.242" ypos="8.74583" zpos="-119.945" type="leag.pof.story.snf" GUID="v1+wSzrDAEO3vIfu78ptNw=="/>
+
+
+    </POIs>
+</OverlayData>
