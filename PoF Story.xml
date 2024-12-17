@@ -87,8 +87,8 @@
         <Trail type="leag.pof.story.perfect" trailData="Data/PoF/Perfect Match.trl" animSpeed="0" color="ffcc00"/>
 
         <!-- Puzzle in Time -->
-        <POI MapID="1230" xpos="-738.8902" ypos="1.344816" zpos="-288.2631" type="leag.pof.story.puzzle" GUID="lfk0Gwjfq0+85yy9bHJBhA==" iconFile="Data/Images/Icons/Blank.png" info="Option: 1 or 3" infoRage="5"/>
-        <POI MapID="1230" xpos="-690.51" ypos="1.874981" zpos="-332.8394" type="leag.pof.story.puzzle" GUID="OUSaIqDzQ0yK7R8xS87m9w==" iconFile="Data/Images/Icons/Blank.png" info="Option: 3" infoRage="5"/>
+        <POI MapID="1230" xpos="-738.8902" ypos="1.344816" zpos="-288.2631" type="leag.pof.story.puzzle" GUID="lfk0Gwjfq0+85yy9bHJBhA==" iconFile="Data/Images/Icons/Blank.png" info="Option: 1 or 3" infoRange="5"/>
+        <POI MapID="1230" xpos="-690.51" ypos="1.874981" zpos="-332.8394" type="leag.pof.story.puzzle" GUID="OUSaIqDzQ0yK7R8xS87m9w==" iconFile="Data/Images/Icons/Blank.png" info="Option: 3" infoRange="5"/>
         <POI MapID="1230" xpos="-733.242" ypos="2.53921" zpos="-317.626" type="leag.pof.story.puzzle.1" GUID="PHGyzQXM4EKVO+/aJuUS2A=="/>
         <POI MapID="1230" xpos="-700.693" ypos="3.40414" zpos="-311.457" type="leag.pof.story.puzzle.1" GUID="P+S6Jp26jEeTmVf3bKPRhA=="/>
         <POI MapID="1230" xpos="-690.36" ypos="1.88465" zpos="-333.303" type="leag.pof.story.puzzle.2" GUID="jj+WShevakakBmC3PK9N7A=="/>
