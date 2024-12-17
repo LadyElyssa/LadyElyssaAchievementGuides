@@ -575,6 +575,87 @@
         <!-- The Night TIme Stood Still -->
         <Trail type="leag.festivals.halloween.tntss" trailData="Data/Festivals/Halloween/The Night Time Stood Still - LA.trl"/>
         <Trail type="leag.festivals.halloween.tntss" trailData="Data/Festivals/Halloween/The Night Time Stood Still - Mad Realm.trl"/>
+
+
+        <!-- WINTERSDAY -->
+        <!-- Grawnk -->
+        <Trail type="leag.festivals.wintersday.grawnk.home" trailData="Data/Festivals/Wintersday/Grawnk 0 Asura.trl"/>
+        <Trail type="leag.festivals.wintersday.grawnk.home" trailData="Data/Festivals/Wintersday/Grawnk 0 Charr.trl"/>
+        <Trail type="leag.festivals.wintersday.grawnk.home" trailData="Data/Festivals/Wintersday/Grawnk 0 Human.trl"/>
+        <Trail type="leag.festivals.wintersday.grawnk.home" trailData="Data/Festivals/Wintersday/Grawnk 0 Norn.trl"/>
+        <Trail type="leag.festivals.wintersday.grawnk.home" trailData="Data/Festivals/Wintersday/Grawnk 0 Sylvari.trl"/>
+        <POI MapID="91" xpos="-6.54" ypos="1.62158" zpos="8.41" type="leag.festivals.wintersday.grawnk.chef.tg" GUID="PA2oXKu57Uu1CS5VdozZlA=="/>
+        <POI MapID="18" xpos="-11.7684" ypos="79.6385" zpos="-269.516" type="leag.festivals.wintersday.grawnk.chef.dr" GUID="sWatuUltA0qISKE1dl3FRg=="/>
+        <POI MapID="139" xpos="-22.3675" ypos="385.835" zpos="169.92" type="leag.festivals.wintersday.grawnk.chef.rs" GUID="8ZSjjNBEukKEIPim2dyprQ=="/>
+        <POI MapID="50" xpos="-281.31" ypos="10.1323" zpos="152.376" type="leag.festivals.wintersday.grawnk.chef.la" GUID="0U07aZnXEE+U/PmJs82/Bg=="/>
+        <POI MapID="32" xpos="-752.723" ypos="63.0834" zpos="172.17" type="leag.festivals.wintersday.grawnk.chef.diessa" GUID="4C91yupzWU+sh1I2jbvgvA=="/>
+        <POI MapID="326" xpos="163.218" ypos="335.137" zpos="-139.604" type="leag.festivals.wintersday.grawnk.chef.hb" GUID="k3Hyjp07kUex3YFna4UC6Q=="/>
+        <POI MapID="218" xpos="270.073" ypos="139.231" zpos="196.559" type="leag.festivals.wintersday.grawnk.chef.la" GUID="NAuHPxY+TU2+1TeVeVr8OQ=="/>
+
+        <!-- For the Children! -->
+        <Trail type="leag.festivals.wintersday.ftc.human.swashbuckler" trailData="Data/Festivals/Wintersday/Swashbuckler's Cove.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.human.troll" trailData="Data/Festivals/Wintersday/Troll's Revenge 1.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.human.troll" trailData="Data/Festivals/Wintersday/Troll's Revenge 2.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.human.troll" trailData="Data/Festivals/Wintersday/Troll's Revenge 3.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.human.troll" trailData="Data/Festivals/Wintersday/Troll's Revenge 4.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.human.troll" trailData="Data/Festivals/Wintersday/Troll's Revenge 5.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.human.weyandt" trailData="Data/Festivals/Wintersday/Weyandt's Revenge.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.human.demongrub" trailData="Data/Festivals/Wintersday/Demongrub Pits.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.human.skipping" trailData="Data/Festivals/Wintersday/Skipping Stones 1.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.human.skipping" trailData="Data/Festivals/Wintersday/Skipping Stones 2.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.human.skipping" trailData="Data/Festivals/Wintersday/Skipping Stones 3.trl"/>
+
+        <Trail type="leag.festivals.wintersday.ftc.asura.spekk" trailData="Data/Festivals/Wintersday/Spekk's Laboratory 1.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.spekk" trailData="Data/Festivals/Wintersday/Spekk's Laboratory 2.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.goemm" trailData="Data/Festivals/Wintersday/Goemm's Lab 0.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.goemm" trailData="Data/Festivals/Wintersday/Goemm's Lab 1a.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.goemm" trailData="Data/Festivals/Wintersday/Goemm's Lab 1b.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.goemm" trailData="Data/Festivals/Wintersday/Goemm's Lab 2a.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.goemm" trailData="Data/Festivals/Wintersday/Goemm's Lab 2b Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.goemm" trailData="Data/Festivals/Wintersday/Goemm's Lab 2b.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.goemm" trailData="Data/Festivals/Wintersday/Goemm's Lab 3a.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.goemm" trailData="Data/Festivals/Wintersday/Goemm's Lab 3b.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.goemm" trailData="Data/Festivals/Wintersday/Goemm's Lab 4.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.ppl" trailData="Data/Festivals/Wintersday/Portmatt.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.hexfoundry" trailData="Data/Festivals/Wintersday/Hexfoundry Unhinged.trl"/>
+
+        <Trail type="leag.festivals.wintersday.ftc.sylvari.spelunker" trailData="Data/Festivals/Wintersday/Spelunker's Delve 1a.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.sylvari.spelunker" trailData="Data/Festivals/Wintersday/Spelunker's Delve 1b.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.sylvari.spelunker" trailData="Data/Festivals/Wintersday/Spelunker's Delve 2.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.sylvari.morgan" trailData="Data/Festivals/Wintersday/Morgan's Leap 1.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.sylvari.morgan" trailData="Data/Festivals/Wintersday/Morgan's Leap 2.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.sylvari.tears" trailData="Data/Festivals/Wintersday/Tears of Itlaocol.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.sylvari.hidden" trailData="Data/Festivals/Wintersday/Hidden Garden.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.sylvari.hidden" trailData="Data/Festivals/Wintersday/Hidden Garden - North.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.sylvari.hidden" trailData="Data/Festivals/Wintersday/Hidden Garden - South.trl"/>
+        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="leag.festivals.wintersday.ftc.sylvari.hidden" GUID="3JvV5YScOEqxnnlWeD+OeA=="  iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="leag.festivals.wintersday.ftc.sylvari.hidden" GUID="LT6G4M/Mmk6o7FhvRDxBIw==" iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="leag.festivals.wintersday.ftc.sylvari.hidden" GUID="mHNX4tPue0OaoG2DTCKDVQ==" iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="leag.festivals.wintersday.ftc.sylvari.hidden" GUID="xUUEBMx6iU279jjFmaaAnw=="   iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+
+        <Trail type="leag.festivals.wintersday.ftc.norn.shaman" trailData="Data/Festivals/Wintersday/Shaman's Rookery.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.norn.sir" trailData="Data/Festivals/Wintersday/Shattered Ice Ruins 1.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.norn.sir" trailData="Data/Festivals/Wintersday/Shattered Ice Ruins 2.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.norn.wurmhowl" trailData="Data/Festivals/Wintersday/Wurmhowl Spikes.trl"/>
+
+        <Trail type="leag.festivals.wintersday.ftc.orrian.vizier" trailData="Data/Festivals/Wintersday/Vizier's Tower.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.orrian.hope" trailData="Data/Festivals/Wintersday/Hope Falls.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.orrian.buried" trailData="Data/Festivals/Wintersday/Buried Archives.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.orrian.stream" trailData="Data/Festivals/Wintersday/Forgotten Stream.trl"/>
+
+        <Trail type="leag.festivals.wintersday.ftc.charr.crimson" trailData="Data/Festivals/Wintersday/Crimson Plateau 1.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.charr.crimson" trailData="Data/Festivals/Wintersday/Crimson Plateau 2.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.charr.pigiron" trailData="Data/Festivals/Wintersday/Pig Iron Quarry 1.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.charr.pigiron" trailData="Data/Festivals/Wintersday/Pig Iron Quarry 2 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.festivals.wintersday.ftc.charr.pigiron" trailData="Data/Festivals/Wintersday/Pig Iron Quarry 2.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.charr.pigiron" trailData="Data/Festivals/Wintersday/Pig Iron Quarry 3.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.charr.loreclaw" trailData="Data/Festivals/Wintersday/Loreclaw 1 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.festivals.wintersday.ftc.charr.loreclaw" trailData="Data/Festivals/Wintersday/Loreclaw 1.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.charr.loreclaw" trailData="Data/Festivals/Wintersday/Loreclaw 2 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.festivals.wintersday.ftc.charr.loreclaw" trailData="Data/Festivals/Wintersday/Loreclaw 3 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.festivals.wintersday.ftc.charr.loreclaw" trailData="Data/Festivals/Wintersday/Loreclaw 4.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.charr.chaos" trailData="Data/Festivals/Wintersday/Chaos Crystal Cavern.trl"/>
+
     </POIs>
 </OverlayData>
 

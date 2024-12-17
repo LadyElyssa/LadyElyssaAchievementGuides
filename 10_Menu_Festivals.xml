@@ -405,9 +405,95 @@
                 </MarkerCategory>
 
             <MarkerCategory name="tntss" DisplayName="The Night Time Stood Still"/>
-        </MarkerCategory> 
+        </MarkerCategory>
 
-        
+        <!-- WINTERSDAY -->
+        <MarkerCategory name="wintersday"  DisplayName="Wintersday" texture="Data/Images/Trails/Trail Pointer - Wintersday.png">
+            <MarkerCategory name="grawnk" DisplayName="Grawnk Munch">
+                <MarkerCategory name="home" DisplayName="Home Instance" mapDisplaySize="8"/>
+                <MarkerCategory name="chef" DisplayName="Sous-Chef Seimur Oxbone" iconFile="Data/Images/Icons/Circle - Wintersday.png" mapDisplaySize="32" inGameVisibility="0">
+                    <MarkerCategory name="mon" IsSeparator="1" DisplayName="MONDAY"/>
+                    <MarkerCategory name="hb" DisplayName="Trade Commons, Hoelbrak"/>
+                    <MarkerCategory name="tue" IsSeparator="1" DisplayName="TUESDAY"/>
+                    <MarkerCategory name="bc" DisplayName="Mustering Ground, Black Citadel"/>
+                    <MarkerCategory name="wed" IsSeparator="1" DisplayName="WEDNESDAY"/>
+                    <MarkerCategory name="tg" DisplayName="Ronan's Bower, The Grove"/>
+                    <MarkerCategory name="thu" IsSeparator="1" DisplayName="THURSDAY"/>
+                    <MarkerCategory name="dr" DisplayName="District Promenade, Divinity's Reach"/>
+                    <MarkerCategory name="fri" IsSeparator="1" DisplayName="FRIDAY"/>
+                    <MarkerCategory name="rs" DisplayName="Creator's Commons, Rata Sum"/>
+                    <MarkerCategory name="sat" IsSeparator="1" DisplayName="SATURDAY"/>
+                    <MarkerCategory name="la" DisplayName="Western Ward, Lion's Arch"/>
+                    <MarkerCategory name="sun" IsSeparator="1" DisplayName="SUNDAY"/>
+                    <MarkerCategory name="diessa" DisplayName="Butcher's Block, Diessa Plateau"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <MarkerCategory name="ftc" DisplayName="For the Children!">                
+                <MarkerCategory name="human" DisplayName="Small Doll">
+                    <MarkerCategory name="gendarran" IsSeparator="1" DisplayName="GENDARRAN FIELDS"/>
+                    <MarkerCategory name="swashbuckler" DisplayName="Swashbuckler's Cove"/>
+                    <MarkerCategory name="la" IsSeparator="1" DisplayName="LION'S ARCH"/>
+                    <MarkerCategory name="troll" DisplayName="Troll's Revenge"/>
+                    <MarkerCategory name="weyandt" DisplayName="Weyandt's Revenge"/>
+                    <MarkerCategory name="queensdale" IsSeparator="1" DisplayName="QUEENSDALE"/>
+                    <MarkerCategory name="demongrub" DisplayName="Demongrub Pits"/>
+                    <MarkerCategory name="southsun" IsSeparator="1" DisplayName="SOUTHSUN COVE"/>
+                    <MarkerCategory name="skipping" DisplayName="Skipping Stones"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="asura" DisplayName="Sparkling Tinsel">
+                    <MarkerCategory name="caledon" IsSeparator="1" DisplayName="CALEDON FOREST"/>
+                    <MarkerCategory name="spekk" DisplayName="Spekk's Laboratory"/>
+                    <MarkerCategory name="metrica" IsSeparator="1" DisplayName="METRICA PROVINCE"/>
+                    <MarkerCategory name="goemm" DisplayName="Goemm's Lab"/>
+                    <MarkerCategory name="bloodtide" IsSeparator="1" DisplayName="BLOODTIDE COAST"/>
+                    <MarkerCategory name="ppl" DisplayName="Professor Portmatt's Lab"/>
+                    <MarkerCategory name="sparkfly" IsSeparator="1" DisplayName="SPARKFLY FEN"/>
+                    <MarkerCategory name="hexfoundry" DisplayName="Hexfoundry Unhinged"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="sylvari" DisplayName="Purple Ball">
+                    <MarkerCategory name="caledon" IsSeparator="1" DisplayName="CALEDON FOREST"/>
+                    <MarkerCategory name="spelunker" DisplayName="Spelunker's Delve"/>
+                    <MarkerCategory name="morgan" DisplayName="Morgan's Leap"/>
+                    <MarkerCategory name="tears" DisplayName="Tears of Itlaocol"/>
+                    <MarkerCategory name="maelstrom" IsSeparator="1" DisplayName="MOUNT MAELSTROM"/>
+                    <MarkerCategory name="hidden" DisplayName="Hidden Garden"/> 
+                </MarkerCategory>
+
+                <MarkerCategory name="norn" DisplayName="Rocking Horse">
+                    <MarkerCategory name="wayfarer" IsSeparator="1" DisplayName="WAYFARER FOOTHILLS"/>
+                    <MarkerCategory name="shaman" DisplayName="Shaman's Rookery"/>
+                    <MarkerCategory name="wurmhowl" DisplayName="Wurmhowl Spikes"/>
+                    <MarkerCategory name="frostgorge" IsSeparator="1" DisplayName="FROSTGORGE SOUND"/>
+                    <MarkerCategory name="sir" DisplayName="Shattered Ice Ruins"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="orrian" DisplayName="Gold Ball">
+                    <MarkerCategory name="" IsSeparator="1" DisplayName="STRAITS OF DEVASTATION"/>
+                    <MarkerCategory name="vizier" DisplayName="Vizier's Tower"/>
+                    <MarkerCategory name="malchors" IsSeparator="1" DisplayName="MALCHOR'S LEAP"/>
+                    <MarkerCategory name="hope" DisplayName="Hope Falls"/>
+                    <MarkerCategory name="cs" IsSeparator="1" DisplayName="CURSED SHORE"/>
+                    <MarkerCategory name="buried" DisplayName="Buried Archives"/>
+                    <MarkerCategory name="stream" DisplayName="Forgotten Stream"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="charr" DisplayName="Green Ball">
+                    <MarkerCategory name="diessa" IsSeparator="1" DisplayName="DIESSA PLATEAU"/>
+                    <MarkerCategory name="crimson" DisplayName="Crimson Plateau"/>
+                    <MarkerCategory name="fireheart" IsSeparator="1" DisplayName="FIREHEART RISE"/>
+                    <MarkerCategory name="pigiron" DisplayName="Pig Iron Quarry"/>
+                    <MarkerCategory name="ashford" IsSeparator="1" DisplayName="PLAINS OF ASHFORD"/>
+                    <MarkerCategory name="loreclaw" DisplayName="Loreclaw Expanse"/>
+                    <MarkerCategory name="iron" IsSeparator="1" DisplayName="IRON MARCHES"/>
+                    <MarkerCategory name="chaos" DisplayName="Chaos Crystal Cavern"/>
+                </MarkerCategory>
+            </MarkerCategory>
+        </MarkerCategory>
+
+
 
         <!-- End Festivals -->
         </MarkerCategory> 
