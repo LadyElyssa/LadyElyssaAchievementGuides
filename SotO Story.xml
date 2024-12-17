@@ -3,15 +3,15 @@
         <!-- PROLOGUE -->
         <!-- Beta Tester -->
         <!-- Asura -->
-        <POI MapID="650" xpos="-513.967" ypos="327.8" zpos="639.359" type="leag.soto.story.beta.marker" GUID="z5UiL/4HYEqjlbETEYpC1A=="/>
+        <POI MapID="650" xpos="-513.967" ypos="327.8" zpos="639.359" type="leag.soto.story.beta" GUID="z5UiL/4HYEqjlbETEYpC1A=="/>
         <!-- Charr -->
-        <POI MapID="371" xpos="305.409" ypos="131.69" zpos="292.414" type="leag.soto.story.beta.marker" GUID="5WMCdf60Uk2sqtFHeg8B9w=="/>
+        <POI MapID="371" xpos="305.409" ypos="131.69" zpos="292.414" type="leag.soto.story.beta" GUID="5WMCdf60Uk2sqtFHeg8B9w=="/>
         <!-- Human -->
-        <POI MapID="248" xpos="205.689" ypos="75.3983" zpos="168.235" type="leag.soto.story.beta.marker" GUID="Ma9Qrvr4Dkeb+VtlDyyeRw=="/>
+        <POI MapID="248" xpos="205.689" ypos="75.3983" zpos="168.235" type="leag.soto.story.beta" GUID="Ma9Qrvr4Dkeb+VtlDyyeRw=="/>
         <!-- Norn -->
-        <POI MapID="375" xpos="73.5789" ypos="341.972" zpos="-343.785" type="leag.soto.story.beta.marker" GUID="zkZDMxrUFUad3lgd6uhKZg=="/>
+        <POI MapID="375" xpos="73.5789" ypos="341.972" zpos="-343.785" type="leag.soto.story.beta" GUID="zkZDMxrUFUad3lgd6uhKZg=="/>
         <!-- Sylvari -->
-        <POI MapID="647" xpos="39.9385" ypos="1.14038" zpos="47.8786" type="leag.soto.story.beta.marker" GUID="WL81cKwKUEOpAplzIHPGLQ=="/>
+        <POI MapID="647" xpos="39.9385" ypos="1.14038" zpos="47.8786" type="leag.soto.story.beta" GUID="WL81cKwKUEOpAplzIHPGLQ=="/>
 
 
         <!-- CHAPTER 1 -->
