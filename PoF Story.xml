@@ -18,7 +18,7 @@
         <POI MapID="1241" xpos="1081.15" ypos="100.428" zpos="153.266" type="leag.pof.story.latf" GUID="naUqbmnvV0ezg5bT/BBJYw=="/>
 
         <!-- Shield of Kormir -->
-        <Trail type="leag.pof.story.sok" trailData="Data/PoF/Shield of Kormir.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="0"/>
+        <Trail type="leag.pof.story.sok" trailData="Data/PoF/Story/Shield of Kormir.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="0"/>
         <POI MapID="1241" xpos="746.221" ypos="123.713" zpos="98.699" type="leag.pof.story.sok" GUID="ySJvjw5IkkW0g+MlSpylmw=="/>
         <POI MapID="1241" xpos="682.199" ypos="122.197" zpos="97.6493" type="leag.pof.story.sok" GUID="MDiFe9x7u0C9AkSV8++9og=="/>
         <POI MapID="1241" xpos="687.546" ypos="123.865" zpos="109.686" type="leag.pof.story.sok" GUID="0HggcH7DF06nAr/G0GfpcQ=="/>
@@ -33,9 +33,9 @@
         <POI MapID="1209" xpos="253.282" ypos="149.672" zpos="-651.284" type="leag.pof.story.dc" GUID="YMjBez8U7kqwSPs8FLO2FA=="/>
 
         <!-- Elite Elimination -->
-        <Trail type="leag.pof.story.elite.assembler" trailData="Data/PoF/Elite Elimination - Assembler.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="00ffff"/>
-        <Trail type="leag.pof.story.elite.cannonade" trailData="Data/PoF/Elite Elimination - Cannonade.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="ff0000"/>
-        <Trail type="leag.pof.story.elite.officer" trailData="Data/PoF/Elite Elimination - Officer.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="00ff00"/>
+        <Trail type="leag.pof.story.elite.assembler" trailData="Data/PoF/Story/Elite Elimination - Assembler.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="00ffff"/>
+        <Trail type="leag.pof.story.elite.cannonade" trailData="Data/PoF/Story/Elite Elimination - Cannonade.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="ff0000"/>
+        <Trail type="leag.pof.story.elite.officer" trailData="Data/PoF/Story/Elite Elimination - Officer.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="00ff00"/>
         
         <!-- Vlast from the Past  -->
         <POI MapID="1211" xpos="372.316" ypos="151.324" zpos="-258.94" type="leag.pof.story.vlast" GUID="ysDijjpyE0izpY/FoQc3sA=="/>
@@ -84,7 +84,7 @@
 
         <!-- CHAPTER 7: Facing the Truth -->
         <!-- Perfect Match -->
-        <Trail type="leag.pof.story.perfect" trailData="Data/PoF/Perfect Match.trl" animSpeed="0" color="ffcc00"/>
+        <Trail type="leag.pof.story.perfect" trailData="Data/PoF/Story/Perfect Match.trl" animSpeed="0" color="ffcc00"/>
 
         <!-- Puzzle in Time -->
         <POI MapID="1230" xpos="-738.8902" ypos="1.344816" zpos="-288.2631" type="leag.pof.story.puzzle" GUID="lfk0Gwjfq0+85yy9bHJBhA==" iconFile="Data/Images/Icons/Blank.png" info="Option: 1 or 3" infoRange="5"/>
@@ -104,7 +104,7 @@
         <POI MapID="1230" xpos="687.4661" ypos="126.5091" zpos="159.4954" type="leag.pof.story.leap" GUID="9oJ19h36pkiSCo4MSDCGgw==" iconFile="Data/Images/Diving Goggles.png"/>
 
         <!-- Seeker of Truth and Knowledge -->
-        <Trail type="leag.pof.story.seeker" trailData="Data/PoF/Seeker of Truth and Knowledge.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="1" color="ffcc00"/>
+        <Trail type="leag.pof.story.seeker" trailData="Data/PoF/Story/Seeker of Truth and Knowledge.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="1" color="ffcc00"/>
         <POI MapID="1230" xpos="718.296" ypos="16.3648" zpos="367.91" type="leag.pof.story.seeker.book" GUID="V3C+t5V54EGX9h2yqScamA=="/>
         <POI MapID="1230" xpos="729.933" ypos="18.7863" zpos="404.634" type="leag.pof.story.seeker.book" GUID="bq/g2JO000uaZ5AEkuBBOg=="/>
         <POI MapID="1230" xpos="716.337" ypos="17.5894" zpos="410.656" type="leag.pof.story.seeker.book" GUID="8fSU/i30Sk+NBGgYH7CrBw=="/>
@@ -121,11 +121,11 @@
         <POI MapID="1230" xpos="672.807" ypos="129.335" zpos="159.971" type="leag.pof.story.seeker.book" GUID="lQxuR4/PRkOpFdKMTMgN/Q=="/>
 
         <!-- CHAPTER 8: The Way Forward -->
-        <Trail type="leag.pof.story.twf" trailData="Data/PoF/The Way Forward.trl"            texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="64FE11"/>
-        <Trail type="leag.pof.story.twf" trailData="Data/PoF/The Way Forward - Instance.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="64FE11"/>
+        <Trail type="leag.pof.story.twf" trailData="Data/PoF/Story/The Way Forward.trl"            texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="64FE11"/>
+        <Trail type="leag.pof.story.twf" trailData="Data/PoF/Story/The Way Forward - Instance.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="64FE11"/>
 
         <!-- Guided Remembrance -->
-        <Trail type="leag.pof.story.guided" trailData="Data/PoF/Guided Remembrance.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="64FE11"/>
+        <Trail type="leag.pof.story.guided" trailData="Data/PoF/Story/Guided Remembrance.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="64FE11"/>
         <POI MapID="1221" xpos="-413.538" ypos="10.7031" zpos="-222.834" type="leag.pof.story.guided" GUID="deW5wElj+0eAkT2MhGD5cQ=="/>
         <POI MapID="1221" xpos="-447.616" ypos="2.16539" zpos="-290.733" type="leag.pof.story.guided" GUID="goXxYl7Gc0C1CAjCa/7WLw=="/>
         <POI MapID="1221" xpos="-458.014" ypos="9.73597" zpos="-324.756" type="leag.pof.story.guided" GUID="k3EJXS7juEiz7UI6iiqhZA=="/>
@@ -133,16 +133,16 @@
         <POI MapID="1221" xpos="-436.402" ypos="28.0648" zpos="-382.009" type="leag.pof.story.guided" GUID="N2Amf4viB0aYeMWTTEAgPA=="/>
 
         <!-- Fast Asleep -->
-        <Trail type="leag.pof.story.sleep" trailData="Data/PoF/Fast Asleep.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="ff6666"/>
+        <Trail type="leag.pof.story.sleep" trailData="Data/PoF/Story/Fast Asleep.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="1" color="ff6666"/>
 
         <!-- Walk a Fine Line -->
-        <Trail type="leag.pof.story.wafl" trailData="Data/PoF/Walk a Fine Line.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="0.5" color="ffcc00" fadeNear="900" fadeFar="1600"/>
+        <Trail type="leag.pof.story.wafl" trailData="Data/PoF/Story/Walk a Fine Line.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" animSpeed="0.5" color="ffcc00" fadeNear="900" fadeFar="1600"/>
 
         <!-- CHAPTER 9: the Departing -->
-        <Trail type="leag.pof.story.departing" trailData="Data/PoF/The Departing 1.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5"/>
-        <Trail type="leag.pof.story.departing" trailData="Data/PoF/The Departing 2.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5"/>
-        <Trail type="leag.pof.story.departing" trailData="Data/PoF/The Departing 3.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5" color="666699"/>
-        <Trail type="leag.pof.story.story" trailData="Data/PoF/The Departing 4 - Purpose.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5" color="c2c2d6"/>
+        <Trail type="leag.pof.story.departing" trailData="Data/PoF/Story/The Departing 1.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5"/>
+        <Trail type="leag.pof.story.departing" trailData="Data/PoF/Story/The Departing 2.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5"/>
+        <Trail type="leag.pof.story.departing" trailData="Data/PoF/Story/The Departing 3.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5" color="666699"/>
+        <Trail type="leag.pof.story.story" trailData="Data/PoF/Story/The Departing 4 - Purpose.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5" color="c2c2d6"/>
 
         <!-- CHAPTER 10: Enemy of my Enemy -->
         <POI MapID="1255" xpos="-924.792" ypos="162.129" zpos="-186.963" type="leag.pof.story.mummy" GUID="xC1RkexEOEqd7afM8Gii9Q=="/>
@@ -155,8 +155,8 @@
         <POI MapID="1255" xpos="-1295.65" ypos="69.6077" zpos="-236.69" type="leag.pof.story.mummy" GUID="b5k3HxgGA0qgT9iWgfEiWg=="/>
         <POI MapID="1255" xpos="-1297.57" ypos="69.6301" zpos="-198.289" type="leag.pof.story.mummy" GUID="E+GlxCfkbkGxyNG+oIg/MA=="/>
         <POI MapID="1255" xpos="-1232.98" ypos="135.431" zpos="-266.026" type="leag.pof.story.mummy" GUID="LJAwsfVf2kS2SayjVjXpGA=="/>
-        <Trail type="leag.pof.story.tag" trailData="Data/PoF/Tag! Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" animSpeed="1.0"/>
-        <Trail type="leag.pof.story.tag" trailData="Data/PoF/Tag!.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" animSpeed="1.0"/>
+        <Trail type="leag.pof.story.tag" trailData="Data/PoF/Story/Tag! Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" animSpeed="1.0"/>
+        <Trail type="leag.pof.story.tag" trailData="Data/PoF/Story/Tag!.trl" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" animSpeed="1.0"/>
 
         <!-- CHAPTER 13: Small Victory -->
         <POI MapID="1223" xpos="-870.242" ypos="8.74583" zpos="-119.945" type="leag.pof.story.snf" GUID="v1+wSzrDAEO3vIfu78ptNw=="/>

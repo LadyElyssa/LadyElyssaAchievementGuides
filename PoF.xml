@@ -1,5 +1,278 @@
 <OverlayData>
     <POIs>
+        <!-- CRYSTAL OASIS -->
+        <!-- Bleached Bones -->
+        <Trail type="leag.pof.oasis.bones.1" trailData="Data/PoF/Bleached Bones 1.trl"/>
+        <Trail type="leag.pof.oasis.bones.2" trailData="Data/PoF/Bleached Bones 2.trl"/>
+        <Trail type="leag.pof.oasis.bones.3" trailData="Data/PoF/Bleached Bones 3 Alt.trl"/>
+        <Trail type="leag.pof.oasis.bones.3" trailData="Data/PoF/Bleached Bones 3.trl"/>
+        <POI MapID="1210" xpos="-741.054" ypos="1.41356" zpos="-108.298" type="leag.pof.oasis.bones.start" GUID="ubrpq1DB3k+rvtTnykB2MQ=="/>
+        <POI MapID="1210" xpos="-736.88" ypos="1.0503" zpos="-97.7798" type="leag.pof.oasis.bones.1" GUID="mAgNM4JZlEaFxtV/ORwRGw=="/>
+        <POI MapID="1210" xpos="-736.876" ypos="1.09445" zpos="-94.7679" type="leag.pof.oasis.bones.2" GUID="Fa5sENDi5kKrBTfiVJZpUw=="/>
+        <POI MapID="1210" xpos="700.779" ypos="122.794" zpos="201.914" type="leag.pof.oasis.bones.3" GUID="pb+55UPnhE2R4fh+ekD5MQ=="/>
+        <POI MapID="1210" xpos="-492.853" ypos="-9.61417" zpos="-514.921" type="leag.pof.oasis.bones.wp" GUID="jp/iI4SHZ0SfE09GzNZGuw==" copy="[&BLsKAAA=]" copy-message="Amnoon Waypoint"/>
+        <POI MapID="1210" xpos="290.593" ypos="58.9922" zpos="514.716" type="leag.pof.oasis.bones.wp" GUID="r4eONnJGhUyLirBRqaGc9A==" copy="[&BEAKAAA=]" copy-message="Temple of Kormir Waypoint"/>
+        <POI MapID="1210" xpos="644.478" ypos="122.114" zpos="193.34" type="leag.pof.oasis.bones.mount.springer" GUID="sCbgTd70HkiN1CNC8lxaig=="/>
+        <POI MapID="1210" xpos="-1248.32" ypos="-31.4521" zpos="-218.225" type="leag.pof.oasis.bones.mount.skimmer" GUID="Atkcth2+80qp98x8ah4qWA=="/>
+        <POI MapID="1210" xpos="-1233.25" ypos="14.6235" zpos="-596.045" type="leag.pof.oasis.bones.mount.springer" GUID="1rila3xaFUWainIElyNcJA=="/>
+        <POI MapID="1210" xpos="-820.992" ypos="8.74358" zpos="-26.8681" type="leag.pof.oasis.bones.mount.springer" GUID="LWmRL4qASUOd8HUltEUKAA=="/>
+        <POI MapID="1210" xpos="-1069.39" ypos="0.0470299" zpos="450.085" type="leag.pof.oasis.bones.mount.springer" GUID="k2XzAfSQlkK+lVbTE24Tjg=="/>
+        <POI MapID="1210" xpos="-969.054" ypos="17.7232" zpos="340.208" type="leag.pof.oasis.bones.mount.springer" GUID="lfDzvp0VrkGwXFWOzB1awg=="/>
+        <POI MapID="1210" xpos="-926.915" ypos="44.7468" zpos="355.183" type="leag.pof.oasis.bones.mount.raptor" GUID="dDVDVhkUeUSf1eMbAMnYrg=="/>
+        <POI MapID="1210" xpos="-823.616" ypos="14.4482" zpos="340.412" type="leag.pof.oasis.bones.mount.raptor" GUID="yF2gSylktUScz+qd5hkjaA=="/>
+        <POI MapID="1210" xpos="-813.389" ypos="24.8414" zpos="659.958" type="leag.pof.oasis.bones.mount.springer" GUID="n/JgGZ+AhUmTN0muZr4SJQ=="/>
+        <POI MapID="1210" xpos="-669.86" ypos="55.7804" zpos="709.371" type="leag.pof.oasis.bones.mount.raptor" GUID="1fEYLIY9oU6pADuLpJw4Tg=="/>
+        <POI MapID="1210" xpos="-327.347" ypos="46.5114" zpos="603.771" type="leag.pof.oasis.bones.mount.skimmer" GUID="krjqTq/2uEud1NeqRyhang=="/>
+        <POI MapID="1210" xpos="-25.3981" ypos="66.6224" zpos="678.104" type="leag.pof.oasis.bones.mount.springer" GUID="7F6c8Cz9P0eAtOUo4CiWYQ=="/>
+        <POI MapID="1210" xpos="632.377" ypos="149.506" zpos="193.086" type="leag.pof.oasis.bones.mount.raptor" GUID="NYYIp7rgEEeOmeQHIoYeMw=="/>
+        <POI MapID="1210" xpos="552.874" ypos="99.6943" zpos="233.493" type="leag.pof.oasis.bones.mount.raptor" GUID="a68CW/uvBkyIBzqc6p3/qw=="/>
+        <POI MapID="1210" xpos="575.695" ypos="146.431" zpos="201.621" type="leag.pof.oasis.bones.mount.griffon" GUID="7V2xUvSmZk67m7q/GyHJOw=="/>
+        <POI MapID="1210" xpos="666.576" ypos="114.835" zpos="355.515" type="leag.pof.oasis.bones.mount.springer" GUID="nYrr5TuuskyPDRM1lL9saw=="/>
+        <POI MapID="1210" xpos="601.369" ypos="197.438" zpos="473.986" type="leag.pof.oasis.bones.mount.springer" GUID="+mxV+9f34UukYRH6Qx92qw=="/>
+        <POI MapID="1210" xpos="567.241" ypos="278.295" zpos="393.032" type="leag.pof.oasis.bones.mount.griffon" GUID="daaEj2l6xUeWSk6TgF9Ldg=="/>
+        <POI MapID="1210" xpos="808.513" ypos="204.976" zpos="702.23" type="leag.pof.oasis.bones.mount.raptor" GUID="fuu3KLRd50yt/KvK44nj2w=="/>
+        <POI MapID="1210" xpos="981.428" ypos="200.676" zpos="487.199" type="leag.pof.oasis.bones.mount.springer" GUID="7BrIxx3pbUm5Fk4H+23GaA=="/>
+        <POI MapID="1210" xpos="1187.83" ypos="186.955" zpos="387.259" type="leag.pof.oasis.bones.mount.springer" GUID="MUuhbgXukUeg/EgsDQDMYA=="/>
         
+        <POI MapID="1210" xpos="1241.24" ypos="274.469" zpos="433.61" type="leag.pof.oasis.bones.mount.jackal" GUID="g/rbLT60MkCphVqODkrBnQ=="/>
+
+        <POI MapID="1210" xpos="1399.61" ypos="104.654" zpos="-249.125" type="leag.pof.oasis.bones.mount.springer" GUID="DQgiKZHJcEyDIErslSeJ/g=="/>
+        <POI MapID="1210" xpos="1195.53" ypos="170.542" zpos="-372.579" type="leag.pof.oasis.bones.mount.springer" GUID="NtIfeD9m0EeHQlks46PH8g=="/>
+        <POI MapID="1210" xpos="1053.87" ypos="104.25" zpos="-305.747" type="leag.pof.oasis.bones.mount.springer" GUID="kqoRywKAc0m3fQR20aKtyA=="/>
+        <POI MapID="1210" xpos="906.056" ypos="62.5021" zpos="-245.358" type="leag.pof.oasis.bones.mount.springer" GUID="MV1Gv7+StU6htMXealPllg=="/>
+        <POI MapID="1210" xpos="821.56" ypos="136.886" zpos="-377.647" type="leag.pof.oasis.bones.mount.raptor" GUID="BIS+CUQ5iUCio3dU1MNFbQ=="/>
+        <POI MapID="1210" xpos="860.416" ypos="136.66" zpos="-419.204" type="leag.pof.oasis.bones.mount.springer" GUID="bAoCsDOFgku4oD22c1+9+A=="/>
+        <POI MapID="1210" xpos="840.238" ypos="145.627" zpos="-498.299" type="leag.pof.oasis.bones.mount.jackal" GUID="27eHWaTgJ0qZ6xOnJkkJ2Q=="/>
+        <POI MapID="1210" xpos="790.244" ypos="97.064" zpos="-595.687" type="leag.pof.oasis.bones.mount.raptor" GUID="Z/00Iqkyp0i324FIgfqUfw=="/>
+        <POI MapID="1210" xpos="642.986" ypos="82.6631" zpos="-555.84" type="leag.pof.oasis.bones.mount.jackal" GUID="35NHUPG1EkeizZXEN3IYYw=="/>
+        <POI MapID="1210" xpos="422.939" ypos="48.0211" zpos="-138.356" type="leag.pof.oasis.bones.mount.raptor" GUID="mjlZtfvUvEiG+oQO4wUq3Q=="/>
+        <POI MapID="1210" xpos="335.643" ypos="74.0084" zpos="-33.4744" type="leag.pof.oasis.bones.mount.raptor" GUID="0z88MwoSbEiCbic/fj+ECw=="/>
+
+        <!-- Lost Lore of Crystal Oasis -->
+        <Trail type="leag.pof.oasis.lloco.1" trailData="Data/PoF/Lost Lore of Crystal Oasis 1.trl"/>
+        <Trail type="leag.pof.oasis.lloco.2" trailData="Data/PoF/Lost Lore of Crystal Oasis 2.trl"/>
+        <Trail type="leag.pof.oasis.lloco.3" trailData="Data/PoF/Lost Lore of Crystal Oasis 3.trl"/>
+        <Trail type="leag.pof.oasis.lloco.4" trailData="Data/PoF/Lost Lore of Crystal Oasis 4.trl"/>
+        <POI MapID="1210" xpos="-741.054" ypos="1.41356" zpos="-108.298" type="leag.pof.oasis.lloco.start" GUID="khVeX+jJAkaqsV7Nljk3lQ=="/>
+        <POI MapID="1210" xpos="-735.817" ypos="1.07026" zpos="-95.2952" type="leag.pof.oasis.lloco.1" GUID="v2aGwBRv0kiQPgXlwy8FwQ=="/>
+        <POI MapID="1210" xpos="705.231" ypos="122.857" zpos="208.493" type="leag.pof.oasis.lloco.2" GUID="SH4t3Pxcx0i4T1kqJOSztA=="/>
+        <POI MapID="1210" xpos="705.98" ypos="122.842" zpos="196.67" type="leag.pof.oasis.lloco.3" GUID="fxwxS2YAyEClnj3wgWWIYQ=="/>
+        <POI MapID="1210" xpos="1080.38" ypos="19.5586" zpos="-362.655" type="leag.pof.oasis.lloco.4" GUID="sZeg+tKIfUeM9PuljqoIfQ=="/>
+        <POI MapID="1210" xpos="-1226.439" ypos="3.47823" zpos="-570.6094" type="leag.pof.oasis.lloco.wp" GUID="d6Lj0KRRd0+EL+fKmkOHBg==" copy="[&BEAKAAA=]" copy-message="Temple of Kormir Waypoint"/>
+        <POI MapID="1210" xpos="256.989" ypos="60.5408" zpos="620.936" type="leag.pof.oasis.lloco.wp" GUID="X1pAoBBK2kW5qPBVck7o2g==" copy="[&BEAKAAA=]" copy-message="Temple of Kormir Waypoint"/>
+        <POI MapID="1210" xpos="1207.95" ypos="372.064" zpos="391.749" type="leag.pof.oasis.lloco.wp" GUID="/PUvgIWg1UC5whtVwA13oQ==" copy="[&BJMKAAA=]" copy-message="Destiny's Gorge Waypoint"/>
+        <POI MapID="1210" xpos="732.956" ypos="121.552" zpos="56.0668" type="leag.pof.oasis.lloco.mount.jackal" GUID="cD3DDVpHlkmgQmsm3q33zA=="/>
+        <POI MapID="1210" xpos="890.504" ypos="184.51" zpos="140.588" type="leag.pof.oasis.lloco.mount.springer" GUID="s0FVdT0LjkCsbSKyMUXZqA=="/>
+        <POI MapID="1210" xpos="921.199" ypos="215.887" zpos="197.515" type="leag.pof.oasis.lloco.mount.raptor" GUID="EtqYashheUSXHXHyebsErg=="/>
+        <POI MapID="1210" xpos="991.628" ypos="185.182" zpos="392.266" type="leag.pof.oasis.lloco.mount.springer" GUID="GaCCV7xtuk25P9JACFuWCA=="/>
+        <POI MapID="1210" xpos="1188.09" ypos="187.047" zpos="387.416" type="leag.pof.oasis.lloco.mount.springer" GUID="tLw9hfk9XUuU7pQ7Fn+u7g=="/>
+        <POI MapID="1210" xpos="1241.24" ypos="274.469" zpos="433.61" type="leag.pof.oasis.bones.mount.jackal" GUID="7vNZHE/Lu0ySnysgwJm/ZQ=="/>
+        <POI MapID="1210" xpos="1399.35" ypos="104.651" zpos="-249.598" type="leag.pof.oasis.lloco.mount.springer" GUID="kc+SoTYrmEacmVyqW7o2Hw=="/>
+
+        <!-- Lost Pilgrims -->
+        <Trail type="leag.pof.oasis.pilgrims.1" trailData="Data/PoF/Lost Pilgrims 1.trl"/>
+        <Trail type="leag.pof.oasis.pilgrims.2" trailData="Data/PoF/Lost Pilgrims 2.trl"/>
+        <POI MapID="1210" xpos="701.843" ypos="122.857" zpos="193.813" type="leag.pof.oasis.pilgrims.start" GUID="MbKoaCxeQk2IEqa05X7n8w=="/>
+        <POI MapID="1210" xpos="705.111" ypos="122.855" zpos="208.101" type="leag.pof.oasis.pilgrims.1" GUID="9JjZtDr/bU+4HZ3l0uMnAA=="/>
+        <POI MapID="1210" xpos="711.081" ypos="122.912" zpos="203.556" type="leag.pof.oasis.pilgrims.2" GUID="a4QKTyMdJk+N7d8VMJ5Lqg=="/>
+        <POI MapID="1210" xpos="531.639" ypos="228.023" zpos="163.702" type="leag.pof.oasis.pilgrims.wp" GUID="ocYK+qeYgUuoGdJ4SdNO/A==" copy="[&BEAKAAA=]" copy-message="Temple of Kormir Waypoint"/>
+        <POI MapID="1210" xpos="672.073" ypos="114.808" zpos="356.5" type="leag.pof.oasis.pilgrims.mount.springer" GUID="QIM8Z1vAOUWGa4DSKAHQMg=="/>
+        <POI MapID="1210" xpos="601.378" ypos="197.542" zpos="474.446" type="leag.pof.oasis.pilgrims.mount.springer" GUID="LdiTBkgOiECvO9hKz/w9uw=="/>
+        <POI MapID="1210" xpos="561.898" ypos="230.507" zpos="406.971" type="leag.pof.oasis.pilgrims.mount.springer" GUID="WDRyw4kqG0SQ1OiB+GBjTg=="/>
+        <POI MapID="1210" xpos="561.984" ypos="276.881" zpos="321.099" type="leag.pof.oasis.pilgrims.mount.griffon" GUID="ucKY+ajCrUOk8GBNzJpjAg=="/>
+        <POI MapID="1210" xpos="578.56" ypos="185.077" zpos="75.1927" type="leag.pof.oasis.pilgrims.mount.springer" GUID="hpG/1Gf/u0qyvxFsnxtdOQ=="/>
+
+        <!-- Makeshift Weapons / Up in Arms -->
+        <POI MapID="1210" xpos="1188.9" ypos="1.94287" zpos="-216.575" type="leag.pof.oasis.junkyard.makeshift" GUID="CVAAwdCK80SSt6lLxXovVA=="/>
+        <POI MapID="1210" xpos="1201.29" ypos="0.231595" zpos="-251.595" type="leag.pof.oasis.junkyard.makeshift" GUID="3WD2uvdLsEysvWWXZoghPw=="/>
+        <POI MapID="1210" xpos="1190.98" ypos="10.5841" zpos="-268.178" type="leag.pof.oasis.junkyard.makeshift" GUID="9NPshbu3vE+B0Emgp1mIiQ=="/>
+        <POI MapID="1210" xpos="1174.54" ypos="9.82564" zpos="-272.579" type="leag.pof.oasis.junkyard.makeshift" GUID="14eWW7mua0ezpnVBr3WENg=="/>
+        <POI MapID="1210" xpos="1174.75" ypos="11.9661" zpos="-278.153" type="leag.pof.oasis.junkyard.makeshift" GUID="zkEg1Q3tyEmsvtONTmegGw=="/>
+        <POI MapID="1210" xpos="1171.65" ypos="13.6537" zpos="-302.129" type="leag.pof.oasis.junkyard.makeshift" GUID="adQ+ILbPGUS0wXrdbCscqA=="/>
+        <POI MapID="1210" xpos="1173.38" ypos="13.0635" zpos="-326.565" type="leag.pof.oasis.junkyard.makeshift" GUID="8lz6MjTQqEmeBlD/afqGuw=="/>
+        <POI MapID="1210" xpos="1184.39" ypos="16.3481" zpos="-339.997" type="leag.pof.oasis.junkyard.makeshift" GUID="ZeGK1YPVeE6mncAOjgDYmg=="/>
+        <POI MapID="1210" xpos="1168.08" ypos="17.2364" zpos="-362.448" type="leag.pof.oasis.junkyard.makeshift" GUID="DM7piFRnPEexj3NRbjw0ug=="/>
+        <POI MapID="1210" xpos="1144.55" ypos="0.866573" zpos="-323.396" type="leag.pof.oasis.junkyard.makeshift" GUID="HSn48KXmU0GTp/czSn9Ycw=="/>
+        <POI MapID="1210" xpos="1152.06" ypos="2.56157" zpos="-277.297" type="leag.pof.oasis.junkyard.makeshift" GUID="rjDQVGg3QUaPJoGD8XUYJw=="/>
+        <POI MapID="1210" xpos="1115.49" ypos="0.264766" zpos="-331.789" type="leag.pof.oasis.junkyard.makeshift" GUID="2XQCJS20OkasiImfZGEMfg=="/>
+        <POI MapID="1210" xpos="1115.92" ypos="1.18499" zpos="-349.982" type="leag.pof.oasis.junkyard.makeshift" GUID="RxkJduronkurnasFCsEF3A=="/>
+        <POI MapID="1210" xpos="1108.14" ypos="2.04522" zpos="-298.906" type="leag.pof.oasis.junkyard.makeshift" GUID="xjkN7jL5tUy8dUvLp3YRmA=="/>
+        <POI MapID="1210" xpos="1109.41" ypos="0.972204" zpos="-254.867" type="leag.pof.oasis.junkyard.makeshift" GUID="6rr5w096Q0OoJ/XS/dcxsg=="/>
+        <POI MapID="1210" xpos="1107.03" ypos="1.98307" zpos="-255.981" type="leag.pof.oasis.junkyard.makeshift" GUID="+LibwDUWjUqkk5LpXckcGQ=="/>
+        <POI MapID="1210" xpos="1121.22" ypos="0.231339" zpos="-220.612" type="leag.pof.oasis.junkyard.makeshift" GUID="6WoBVsrbvkWVMAxe4U4gzQ=="/>
+        <POI MapID="1210" xpos="1107.49" ypos="0.870072" zpos="-213.142" type="leag.pof.oasis.junkyard.makeshift" GUID="7tUXSEiVZUiy5B8Y9Fodkw=="/>
+        <POI MapID="1210" xpos="1109.13" ypos="2.41679" zpos="-203.71" type="leag.pof.oasis.junkyard.makeshift" GUID="0HYlQTTfMUiKeepWIqqT7g=="/>
+        <POI MapID="1210" xpos="1151.24" ypos="9.52048" zpos="-196.263" type="leag.pof.oasis.junkyard.makeshift" GUID="l9rSvrm+ykma5u6PNsE17w=="/>
+        <POI MapID="1210" xpos="1147.28" ypos="9.7546" zpos="-182.121" type="leag.pof.oasis.junkyard.makeshift" GUID="l0B08dCaP0uhF5+89XeAAg=="/>
+        <POI MapID="1210" xpos="1140.56" ypos="11.6669" zpos="-161.71" type="leag.pof.oasis.junkyard.makeshift" GUID="v2ARg2BPl0Oxv3mRZ0TwKA=="/>
+        <POI MapID="1210" xpos="1138.43" ypos="11.7609" zpos="-159.195" type="leag.pof.oasis.junkyard.makeshift" GUID="iTtCuSBGQkGKfl/SQg4TOQ=="/>
+        <POI MapID="1210" xpos="1126.05" ypos="24.7629" zpos="-134.989" type="leag.pof.oasis.junkyard.makeshift" GUID="7kzv+xwC6U+dY2BbCHTjpw=="/>
+        <POI MapID="1210" xpos="1109.77" ypos="24.4659" zpos="-135.602" type="leag.pof.oasis.junkyard.makeshift" GUID="GMyQeR6hn0mruH26OSWgPg=="/>
+        <POI MapID="1210" xpos="1106.47" ypos="24.251" zpos="-124.426" type="leag.pof.oasis.junkyard.makeshift" GUID="2N7SnpgU50SmIjGo7SoHgw=="/>
+        <POI MapID="1210" xpos="1092.98" ypos="8.90876" zpos="-134.039" type="leag.pof.oasis.junkyard.makeshift" GUID="iTuiUcqsjEao7ntevIn05A=="/>
+        <POI MapID="1210" xpos="1107.3" ypos="4.06156" zpos="-167.103" type="leag.pof.oasis.junkyard.makeshift" GUID="Cz8MZPA4JEuDc1Y54C7zhQ=="/>
+        <POI MapID="1210" xpos="1051.68" ypos="3.9633" zpos="-206.742" type="leag.pof.oasis.junkyard.makeshift" GUID="UKB1nJmlU0Ky6nJqTiKGzA=="/>
+        <POI MapID="1210" xpos="1066.14" ypos="5.93262" zpos="-227.95" type="leag.pof.oasis.junkyard.makeshift" GUID="D/4cxbFN8UeXZNVK74sC9A=="/>
+        <POI MapID="1210" xpos="1071.29" ypos="6.22441" zpos="-235.632" type="leag.pof.oasis.junkyard.makeshift" GUID="xbwH16h9S0SDaA66++o48g=="/>
+        <POI MapID="1210" xpos="1086.34" ypos="13.0346" zpos="-265.42" type="leag.pof.oasis.junkyard.makeshift" GUID="2HbI/997fkS0iNWMkFiztg=="/>
+        <POI MapID="1210" xpos="1083.77" ypos="15.1584" zpos="-280.18" type="leag.pof.oasis.junkyard.makeshift" GUID="qF2KeoeFIka+0P6TwYKheg=="/>
+        <POI MapID="1210" xpos="1085.71" ypos="16.6651" zpos="-292.274" type="leag.pof.oasis.junkyard.makeshift" GUID="9Fu5gvfUPk+ns9h42fZMMg=="/>
+        <POI MapID="1210" xpos="1111.48" ypos="0.294544" zpos="-286.534" type="leag.pof.oasis.junkyard.makeshift" GUID="f8cCB8wiU0iOSx+MqBrMRQ=="/>
+        <POI MapID="1210" xpos="1122.71" ypos="-0.186177" zpos="-294.42" type="leag.pof.oasis.junkyard.makeshift" GUID="i4ta4tpzZ0OCIMor62YE3Q=="/>
+        <POI MapID="1210" xpos="1140.05" ypos="0.264398" zpos="-301.558" type="leag.pof.oasis.junkyard.makeshift" GUID="0FhyPFOfeUWBV6+gxl/R7A=="/>
+        
+
+        <!-- DESERT HIGHLANDS -->
+        <!-- A Family Heirloom -->
+        <Trail type="leag.pof.highlands.heirloom.1" trailData="Data/PoF/A Family Heirloom 1.trl"/>
+        <Trail type="leag.pof.highlands.heirloom.2" trailData="Data/PoF/A Family Heirloom 2.trl"/>
+        <POI MapID="1211" xpos="-133.07" ypos="251.606" zpos="411.77" type="leag.pof.highlands.heirloom.start" GUID="vnLrZUZBb0O0+hs9xWaI6w=="/>
+        <POI MapID="1211" xpos="-129.226" ypos="253.385" zpos="425.941" type="leag.pof.highlands.heirloom.1" GUID="4UhT+vIXtkO0VekMaCZ6lQ=="/>
+        <POI MapID="1211" xpos="-125.072" ypos="252.336" zpos="417.758" type="leag.pof.highlands.heirloom.2" GUID="j40SZwD28UyOBXWyhGOYJQ=="/>
+        <POI MapID="1211" xpos="-365.969" ypos="293.122" zpos="609.286" type="leag.pof.highlands.heirloom.mount.springer" GUID="PhcSYbg5W0CYorvgMa/0kw=="/>
+        <POI MapID="1211" xpos="-511.219" ypos="311.66" zpos="638.713" type="leag.pof.highlands.heirloom.mount.springer" GUID="Qwnb62VM5EegT4ovJ3a+uA=="/>
+        <POI MapID="1211" xpos="-547.261" ypos="325.376" zpos="642.245" type="leag.pof.highlands.heirloom.wp" GUID="p52nvvPeUUm95H+xZg+woQ==" copy="[&BJ0KAAA=]" copy-message="Highjump Ranch Waypoint"/>
+
+        <!-- Carrot Collector -->
+        <Trail type="leag.pof.highlands.carrot" trailData="Data/PoF/Carrot Collector.trl"/>
+        <POI MapID="1211" xpos="-133.07" ypos="251.606" zpos="411.77" type="leag.pof.highlands.carrot.start" GUID="wJyokov9GkSeWEfEun6bWQ=="/>
+        <POI MapID="1211" xpos="-108.187" ypos="251.376" zpos="402.672" type="leag.pof.highlands.carrot.mount.springer" GUID="wdvC17A0FEurpr9EcuNr6w=="/>
+        
+        <!-- Dwarven Remnants -->
+        <Trail type="leag.pof.highlands.remnants.1" trailData="Data/PoF/Dwarven Remnants 1.trl"/>
+        <Trail type="leag.pof.highlands.remnants.2" trailData="Data/PoF/Dwarven Remnants 2.trl"/>
+        <Trail type="leag.pof.highlands.remnants.3" trailData="Data/PoF/Dwarven Remnants 3.trl"/>
+        <Trail type="leag.pof.highlands.remnants.4" trailData="Data/PoF/Dwarven Remnants 4.trl"/>
+        <Trail type="leag.pof.highlands.remnants.5" trailData="Data/PoF/Dwarven Remnants 5.trl"/>
+        <Trail type="leag.pof.highlands.remnants.6" trailData="Data/PoF/Dwarven Remnants 6.trl"/>
+        <Trail type="leag.pof.highlands.remnants.7" trailData="Data/PoF/Dwarven Remnants 7.trl"/>
+        <POI MapID="1211" xpos="518.476" ypos="165.998" zpos="-698.986" type="leag.pof.highlands.remnants.start" GUID="sBn9awoZEEyjvc7zbkjiag=="/>
+        <POI MapID="1211" xpos="520.351" ypos="162.489" zpos="-682.699" type="leag.pof.highlands.remnants.1" GUID="psefmMcg4EezS12V/l97iw=="/>
+        <POI MapID="1211" xpos="-282.567" ypos="14.9589" zpos="-530.393" type="leag.pof.highlands.remnants.2" GUID="eu0JM7CymUWnp/vUYjz/Vw=="/>
+        <POI MapID="1211" xpos="-1299.22" ypos="342.283" zpos="421.405" type="leag.pof.highlands.remnants.3" GUID="/MaKnyyRTkWef7ahBhBbYQ=="/>
+        <POI MapID="1211" xpos="-1293.74" ypos="341.609" zpos="415.389" type="leag.pof.highlands.remnants.4" GUID="rwaunT0Ml0idPMHpLIVxJg=="/>
+        <POI MapID="1211" xpos="-124.614" ypos="252.344" zpos="417.783" type="leag.pof.highlands.remnants.5" GUID="3RBCR9ZtjkOihlRDBupfQw=="/>
+        <POI MapID="1211" xpos="473.661" ypos="208.218" zpos="353.562" type="leag.pof.highlands.remnants.6" GUID="bfnLJVUuWEqCmHi819+ygA=="/>
+        <POI MapID="1211" xpos="475.525" ypos="207.748" zpos="342.411" type="leag.pof.highlands.remnants.7" GUID="LAl8t5JcZUSRO9RfnpoImw=="/>
+        <POI MapID="1211" xpos="-34.9204" ypos="463.618" zpos="-190.055" type="leag.pof.highlands.remnants.wp" GUID="tbcUYEN96UW2cn3VIYIjCA==" copy="[&BJEKAAA=]" copy-message="Brightwater Waypoint"/>
+        <POI MapID="1211" xpos="-448.198" ypos="4.97446" zpos="-573.84" type="leag.pof.highlands.remnants.wp" GUID="0Ib3ujp+xk6UsFLyiRXB0g==" copy="[&BNkKAAA=]" copy-message="Derelict Delve Waypoint"/>
+        <POI MapID="1211" xpos="-1371.3" ypos="2.45248" zpos="-484.352" type="leag.pof.highlands.remnants.wp" GUID="LCA9H1h/E0+5FU5dh73pNw==" copy="[&BJ0KAAA=]" copy-message="Highjump Ranch Waypoint"/>
+        <POI MapID="1211" xpos="-56.34998" ypos="320.907" zpos="419.1086" type="leag.pof.highlands.remnants.wp" GUID="oWNNem1FYUOy+cxCmzCUOQ==" copy="[&BGoKAAA=]" copy-message="Lommuld Kraal Waypoint"/>
+        <POI MapID="1211" xpos="548.82" ypos="295.059" zpos="622.709" type="leag.pof.highlands.remnants.wp" GUID="qgiOsdu3Fk6AWEYt3jmqFA==" copy="[&BGoKAAA=]" copy-message="Lommuld Kraal Waypoint"/>
+        <POI MapID="1211" xpos="466.4624" ypos="155.13" zpos="-666.355" type="leag.pof.highlands.remnants.mount.raptor" GUID="sDtrlsq3kEmKoxJElYssgg=="/>
+        <POI MapID="1211" xpos="212.324" ypos="181.216" zpos="-661.237" type="leag.pof.highlands.remnants.mount.raptor" GUID="/KhdyJokhkeW3ykPd1/Wpw=="/>
+        <POI MapID="1211" xpos="-129.708" ypos="151.775" zpos="-269.429" type="leag.pof.highlands.remnants.mount.jackal" GUID="JCz7J0oFok2ioCRHHsjLmw=="/>
+        <POI MapID="1211" xpos="-157.773" ypos="286.451" zpos="-19.9752" type="leag.pof.highlands.remnants.mount.springer" GUID="EGUSic2nUUG+8i40ZfEMjg=="/>
+        <POI MapID="1211" xpos="-114.507" ypos="312.514" zpos="19.7897" type="leag.pof.highlands.remnants.mount.jackal" GUID="llHY/UleSU2SjGvLnrA+yg=="/>
+        <POI MapID="1211" xpos="-1202.77" ypos="353.893" zpos="385.482" type="leag.pof.highlands.remnants.mount.springer" GUID="iTUXuRRlAku3sL0GSPdvVQ=="/>
+        <POI MapID="1211" xpos="-1013.69" ypos="367.756" zpos="440.651" type="leag.pof.highlands.remnants.mount.springer" GUID="jJx7DGyXOEOpKcYv/S1sPQ=="/>
+        <POI MapID="1211" xpos="-988.14" ypos="381.475" zpos="538.523" type="leag.pof.highlands.remnants.mount.springer" GUID="KFEEB3j6YkeUBHM06lL3IQ=="/>
+        <POI MapID="1211" xpos="-1294.31" ypos="334.978" zpos="100.049" type="leag.pof.highlands.remnants.mount.springer" GUID="h6dRD/oK/0S0ziV2SKBxnw=="/>
+        <POI MapID="1211" xpos="-1203.74" ypos="339.538" zpos="161.407" type="leag.pof.highlands.remnants.mount.springer" GUID="m4/C+839cUeCZ0W3gQ/kBA=="/>
+        <POI MapID="1211" xpos="-951.626" ypos="450.391" zpos="-191.389" type="leag.pof.highlands.remnants.mount.springer" GUID="9eScUQj42kCZnoLZkNG4Ng=="/>
+        <POI MapID="1211" xpos="-981.392" ypos="477.147" zpos="-258.936" type="leag.pof.highlands.remnants.mount.raptor" GUID="DEvwQjY6hU2RAR53OV+plA=="/>
+        <POI MapID="1211" xpos="-1232.81" ypos="299.128" zpos="-184.212" type="leag.pof.highlands.remnants.mount.springer" GUID="sbFZh3fuyEOebex7LUxy7w=="/>
+        <POI MapID="1211" xpos="-1216.92" ypos="298.699" zpos="-274.366" type="leag.pof.highlands.remnants.mount.raptor" GUID="wOCu8TEkJEm6EdexZysM+g=="/>
+        <POI MapID="1211" xpos="-1217.59" ypos="298.502" zpos="-350.652" type="leag.pof.highlands.remnants.mount.jackal" GUID="X69PXY9vbkmy7QZM4qsHAA=="/>
+        <POI MapID="1211" xpos="-1254.58" ypos="5.95331" zpos="-532.87" type="leag.pof.highlands.remnants.mount.jackal" GUID="i+zkIn/zW0m927LHtQX9JA=="/>
+        <POI MapID="1211" xpos="556.926" ypos="232.778" zpos="611.491" type="leag.pof.highlands.remnants.mount.springer" GUID="YuPzi32AEUG/cqfFIhO3MA=="/>
+        <POI MapID="1211" xpos="-45.5103" ypos="265.658" zpos="394.116" type="leag.pof.highlands.remnants.mount.springer" GUID="eLNmkkVHqEawhUSnxfdViw=="/>
+        <POI MapID="1211" xpos="-109.074" ypos="251.486" zpos="403.879" type="leag.pof.highlands.remnants.mount.springer" GUID="NLcssaygb0aLmLrYWBPJnA=="/>
+        <POI MapID="1211" xpos="666.254" ypos="200.926" zpos="49.7359" type="leag.pof.highlands.remnants.mount.raptor" GUID="kuDPAwW1/0uQwhk2E6Wisg=="/>
+        <POI MapID="1211" xpos="754.386" ypos="201.287" zpos="-22.8109" type="leag.pof.highlands.remnants.mount.raptor" GUID="pi3MRT7jpUK18vqN3qHjzQ=="/>
+        <POI MapID="1211" xpos="899.078" ypos="207.159" zpos="29.5814" type="leag.pof.highlands.remnants.mount.jackal" GUID="v6IGp5f6qU2cdaS0UQzUpg=="/>
+        <POI MapID="1211" xpos="1254.76" ypos="183.369" zpos="478.125" type="leag.pof.highlands.remnants.mount.springer" GUID="k2GGWsm4wk63wn9+5C39AA=="/>
+        <POI MapID="1211" xpos="1322.49" ypos="192.356" zpos="227.051" type="leag.pof.highlands.remnants.mount.jackal" GUID="nt1VeB+XGUeSGj794MKDHw=="/>
+        
+        <!-- Fire Dancer -->
+        <POI MapID="1211" xpos="-457.4409" ypos="66.1399" zpos="-274.5053" type="leag.pof.highlands.dancer.emote" GUID="VuMevP4Z+k+bh+qGiFARHg=="/>
+
+        <!-- Hidden Carrot Hunt -->            
+        <Trail type="leag.pof.highlands.hunt" trailData="Data/PoF/Hidden Carrot Hunt.trl"/>
+        <POI MapID="1211" xpos="-286.767" ypos="14.5641" zpos="-532.754" type="leag.pof.highlands.hunt.start" GUID="0Q1MJ7LP00yxkaOsEW/mzQ=="/>
+        <POI MapID="1211" xpos="-370.26" ypos="37.7451" zpos="-672.773" type="leag.pof.highlands.hunt.mount.raptor" GUID="+digWjWvQkSCma57P6gghw=="/>
+
+        <!-- Lost Lore of Desert Highlands -->
+        <Trail type="leag.pof.highlands.llodh.1" trailData="Data/PoF/Lost Lore of Desert Highlands 1.trl"/>
+        <Trail type="leag.pof.highlands.llodh.2" trailData="Data/PoF/Lost Lore of Desert Highlands 2.trl"/>
+        <Trail type="leag.pof.highlands.llodh.3" trailData="Data/PoF/Lost Lore of Desert Highlands 3.trl"/>
+        <POI MapID="1211" xpos="518.476" ypos="165.998" zpos="-698.986" type="leag.pof.highlands.llodh.start" GUID="qwYZg1qw90+H5CO748Unfg=="/>
+        <POI MapID="1211" xpos="-700.517" ypos="194.25" zpos="-250.158" type="leag.pof.highlands.llodh.wp" GUID="5diarKfGr0WaOgj1RHCzvA==" copy="[&BNkKAAA=]" copy-message="Derelict Delve Waypoint"/>
+        <POI MapID="1211" xpos="-1239.89" ypos="277.16" zpos="157.208" type="leag.pof.highlands.llodh.wp" GUID="BOiFrTBL9U2tAfQXJ1iQQw==" copy="[&BGoKAAA=]" copy-message="Lommuld Kraal Waypoint"/>
+        <POI MapID="1211" xpos="-131.269" ypos="152.31" zpos="-272.141" type="leag.pof.highlands.llodh.mount.jackal" GUID="yqOKJblgPEqV1vPa/VNXww=="/>
+        <POI MapID="1211" xpos="-334.143" ypos="197.676" zpos="-90.7387" type="leag.pof.highlands.llodh.mount.springer" GUID="p9bxQEQEeUqaqxDxrRLvsQ=="/>
+        <POI MapID="1211" xpos="-386.945" ypos="220.004" zpos="-11.4214" type="leag.pof.highlands.llodh.mount.springer" GUID="uKsuSTS+A0SHSP6pmPPcEA=="/>
+        <POI MapID="1211" xpos="-350.6211" ypos="214.9973" zpos="-46.8779" type="leag.pof.highlands.llodh.mount.raptor" GUID="bbCNUJnrLUqVEk95uCadEQ=="/>
+        <POI MapID="1211" xpos="-1294.47" ypos="342.055" zpos="373.047" type="leag.pof.highlands.llodh.mount.springer" GUID="zuDzW2bseUCpJ+gXSRi4yQ=="/>
+        <POI MapID="1211" xpos="-1310.69" ypos="434.809" zpos="308.112" type="leag.pof.highlands.llodh.mount.springer" GUID="pgiXRYSklEaAPhRqJY8XQA=="/>        
+        <POI MapID="1211" xpos="449.232" ypos="239.778" zpos="570.046" type="leag.pof.highlands.llodh.mount.springer" GUID="3VudlsVy10CdQOsjjxts/A=="/>
+        <POI MapID="1211" xpos="914.637" ypos="187.976" zpos="357.458" type="leag.pof.highlands.llodh.mount.springer" GUID="L31ajxetTE6q6gpzcDHe8w=="/>
+        
+
+        <!-- Nap Time -->
+        <POI MapID="1211" xpos="439.7832" ypos="154.8772" zpos="-340.5365" type="leag.pof.highlands.nap" GUID="3grMADii8Uq0lnW3/qjSCQ=="/>
+
+        <!-- Night Lights -->
+        <POI MapID="1211" xpos="-69.70159" ypos="461.8404" zpos="-229.3355" type="leag.pof.highlands.night" GUID="S4yZOonTx06n4xfIe9eGWQ=="/>
+
+        <!-- Rune-Locked Doors -->
+        <Trail type="leag.pof.highlands.rune.path.to" trailData="Data/PoF/Rune-Locked Doors 0.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.pof.highlands.rune.path.cold" trailData="Data/PoF/Rune-Locked Doors 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.pof.highlands.rune.path.lava" trailData="Data/PoF/Rune-Locked Doors 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.pof.highlands.rune.path.lava" trailData="Data/PoF/Rune-Locked Doors 3.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.pof.highlands.rune.path.lava" trailData="Data/PoF/Rune-Locked Doors 4.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.pof.highlands.rune.path.lava" trailData="Data/PoF/Rune-Locked Doors 5.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.pof.highlands.rune.path.lava" trailData="Data/PoF/Rune-Locked Doors 6.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.pof.highlands.rune.path.cobweb" trailData="Data/PoF/Rune-Locked Doors 7.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.pof.highlands.rune.path.cobweb" trailData="Data/PoF/Rune-Locked Doors 7b.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.pof.highlands.rune.path.cobweb" trailData="Data/PoF/Rune-Locked Doors 8.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.pof.highlands.rune.path.cobweb" trailData="Data/PoF/Rune-Locked Doors 9.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.pof.highlands.rune.path.water" trailData="Data/PoF/Rune-Locked Doors 10.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="1211" xpos="-1301.81" ypos="341.54" zpos="412.297" type="leag.pof.highlands.rune.start" GUID="GrVXrGWKYEmyk34Wlnn2XQ=="/>
+        <POI MapID="1211" xpos="-1138.75" ypos="340.412" zpos="157.528" type="leag.pof.highlands.rune.rune.1" GUID="ukNDOlFzUUOeNkxg20uG9Q=="/>
+        <POI MapID="1211" xpos="-1222.37" ypos="340.002" zpos="125.077" type="leag.pof.highlands.rune.rune.1" GUID="GWCXkVFq50acHkPVosRaLQ=="/>
+        <POI MapID="1211" xpos="-1150.42" ypos="356.691" zpos="81.4204" type="leag.pof.highlands.rune.rune.2" GUID="V84gXJe0Nk6vVP5yqT5U3A=="/>
+        <POI MapID="1211" xpos="-1245.43" ypos="278.537" zpos="126.965" type="leag.pof.highlands.rune.rune.2" GUID="XOHhm1XDukiIGWZYVEfHwA=="/>
+        <POI MapID="1211" xpos="-1245.36" ypos="278.693" zpos="123.143" type="leag.pof.highlands.rune.rune.3" GUID="hzbWfcYNAUS5Owam7N9PAQ=="/>
+        <POI MapID="1211" xpos="-1224.42" ypos="321.066" zpos="68.9512" type="leag.pof.highlands.rune.rune.3" GUID="lgcCz9GISkSBHDAEQHLC5w=="/>
+        <POI MapID="1211" xpos="-1335.28" ypos="299.589" zpos="201.924" type="leag.pof.highlands.rune.rune.7" GUID="0GSRW7DAZEWKNWC02Zendg=="/>
+        <POI MapID="1211" xpos="-1333.95" ypos="299.452" zpos="203.712" type="leag.pof.highlands.rune.rune.8" GUID="S0Ra0ZlPZkuscRelR2FUAg=="/>
+        <POI MapID="1211" xpos="-1333.96" ypos="299.459" zpos="205.989" type="leag.pof.highlands.rune.rune.9" GUID="0DDoEwFUXE+EM1RVFhk3iQ=="/>
+        <POI MapID="1211" xpos="-1335.24" ypos="299.498" zpos="207.809" type="leag.pof.highlands.rune.rune.10" GUID="HgSy6iZOtkCFWDnzyDnGbw=="/>
+        <POI MapID="1211" xpos="-1283.85" ypos="284.414" zpos="202.202" type="leag.pof.highlands.rune.rune.4" GUID="1S/Xo8urTES2XRKRxQ+OOA=="/>
+        <POI MapID="1211" xpos="-1281.06" ypos="284.418" zpos="201.066" type="leag.pof.highlands.rune.rune.5" GUID="s6GUMbrQxEiqVhg84LwfJA=="/>
+        <POI MapID="1211" xpos="-1278.14" ypos="284.421" zpos="202.308" type="leag.pof.highlands.rune.rune.6" GUID="X8tGOv8hWE+bcsQbT0qQEw=="/>
+        <POI MapID="1211" xpos="-1157.16" ypos="239.047" zpos="155.11" type="leag.pof.highlands.rune.rune.4" GUID="zpGq1rhnJEKbl4m2Z0Td9w=="/>
+        <POI MapID="1211" xpos="-1048.84" ypos="242.436" zpos="112.388" type="leag.pof.highlands.rune.rune.5" GUID="8ztb9G5LWkqs3BsJbUF4AQ=="/>
+        <POI MapID="1211" xpos="-1077.37" ypos="214.091" zpos="159.271" type="leag.pof.highlands.rune.rune.6" GUID="0+4sluMlb0+HlpO5NBRq6Q=="/>
+        <POI MapID="1211" xpos="-1292.94" ypos="223.933" zpos="385.374" type="leag.pof.highlands.rune.rune.7" GUID="dDLAZcCmkkil5QUE/uOw9Q=="/>
+        <POI MapID="1211" xpos="-1179.77" ypos="235.217" zpos="334.049" type="leag.pof.highlands.rune.rune.8" GUID="rD/jPlFYH0WhumS9ssUfEQ=="/>
+        <POI MapID="1211" xpos="-1285.27" ypos="253.865" zpos="345.448" type="leag.pof.highlands.rune.rune.10" GUID="gpl5iL7IfEqX0jlBxQGr3w=="/>
+        <POI MapID="1211" xpos="-1203.79" ypos="252.184" zpos="368.514" type="leag.pof.highlands.rune.rune.9" GUID="IEasYHGBCUeGGS4c/eeWcg=="/>
+        <POI MapID="1211" xpos="-1156.81" ypos="340.645" zpos="81.4527" type="leag.pof.highlands.rune.mount.springer" GUID="gCOkMfcL1UGM1VDqENsmnQ=="/>
+        <POI MapID="1211" xpos="-1118.77" ypos="327.505" zpos="69.732" type="leag.pof.highlands.rune.mount.raptor" GUID="1/lIroRScUeiHAsRX1NVUA=="/>
+        <POI MapID="1211" xpos="-1241.31" ypos="277.085" zpos="140.973" type="leag.pof.highlands.rune.mount.springer" GUID="CyxoYRpouEacWJ8TMGuLkw=="/>
+        <POI MapID="1211" xpos="-1296.42" ypos="283.886" zpos="205.07" type="leag.pof.highlands.rune.mount.raptor" GUID="cD+z4AGLXUqgz5CTRc3KqQ=="/>
+        <POI MapID="1211" xpos="-1309.76" ypos="282.339" zpos="204.658" type="leag.pof.highlands.rune.mount.springer" GUID="TMu1t/JgD0+QgejOVbXi3Q=="/>
+        <POI MapID="1211" xpos="-1055" ypos="232.228" zpos="111.519" type="leag.pof.highlands.rune.mount.springer" GUID="RrozzKML3k6aNlcvaAd6dQ=="/>
+        <POI MapID="1211" xpos="-1102.83" ypos="210.851" zpos="137.395" type="leag.pof.highlands.rune.mount.raptor" GUID="QDk8DUPmFke9xCAAZLezYQ=="/>
+        <POI MapID="1211" xpos="-1181.05" ypos="226.407" zpos="381.811" type="leag.pof.highlands.rune.mount.springer" GUID="tGX8shoS50iT/hu5I/ryXg=="/>
+
+
+        <!-- The Curious Bowl -->
+        <Trail type="leag.pof.highlands.bowl" trailData="Data/PoF/The Curious Bowl.trl" color="ffcc00"/>
+        <POI MapID="1211" xpos="-1299.96" ypos="341.602" zpos="412.355" type="leag.pof.highlands.bowl.start" GUID="v65/UFXjwU+dzJGXdWhs+w=="/>
+        <POI MapID="1211" xpos="-1314.5" ypos="338.86" zpos="203.715" type="leag.pof.highlands.bowl.mount.raptor" GUID="5MFy66Us8k+2I1RX1Mw4XA=="/>
+
+        <!-- The Lost Dolyak -->
+        <Trail type="leag.pof.highlands.dolyak" trailData="Data/PoF/The Lost Dolyak 0.trl"/>
+        <Trail type="leag.pof.highlands.dolyak" trailData="Data/PoF/The Lost Dolyak Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.pof.highlands.dolyak" trailData="Data/PoF/The Lost Dolyak Escort.trl"/>
+        <POI MapID="1211" xpos="-286.767" ypos="14.5641" zpos="-532.754" type="leag.pof.highlands.dolyak.start" GUID="pQy2vKEOpk+cFWIhqcySdA=="/>
+        <POI MapID="1211" xpos="-409.508" ypos="25.9254" zpos="-372.073" type="leag.pof.highlands.dolyak.mount.springer" GUID="v2aKjufrR0KkyFeFqr4D1Q=="/>
+        <POI MapID="1211" xpos="-376.028" ypos="152.122" zpos="-187.964" type="leag.pof.highlands.dolyak.event" GUID="YXT09c1uaUyQ9BZoaffqWA=="/>
+        <POI MapID="1211" xpos="-284.3152" ypos="203.5443" zpos="95.72302" type="leag.pof.highlands.dolyak" GUID="vFSgi3KqgkKH9q2NYskmgw==" iconFile="Data/Images/Diamond.png" mapDisplaySize="40" inGameVisibility="0"/>
+
+
     </POIs>
 </OverlayData>
