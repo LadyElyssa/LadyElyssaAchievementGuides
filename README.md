@@ -28,7 +28,9 @@ This pack currently covers:
 
 ## Path of Fire ##
 * Story Achievements
-* Map achievements to follow...
+* Crystal Oasis
+* Desert Highlands
+* More Map achievements to follow...
 
 ## End of Dragons ##
 * Story Achievements
