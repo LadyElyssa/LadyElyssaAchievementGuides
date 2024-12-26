@@ -24,8 +24,14 @@ This pack currently covers:
 ## Festivals ##
 * Festival of the Four Winds
 * Halloween (Festival of the Mad King)
+* Wintersday
+
+## Path of Fire ##
+* Story Achievements
+* Map achievements to follow...
 
 ## End of Dragons ##
+* Story Achievements
 * Seitung Province
 * New Kaineng City
 * Arborstone
@@ -33,15 +39,17 @@ This pack currently covers:
 * Dragon's End
 * Gyala Delve
 
-## Janthir Wilds ##
-* Lowland Shore
-* Janthir Syntri
-
 ## Secrets of the Obscure ##
+* Story Achievements
 * Skywatch Archipelago
 * The Wizard's Tower
 * Amnytas
 * Inner Nayos
+
+## Janthir Wilds ##
+* Story Achievements
+* Lowland Shore
+* Janthir Syntri
   
 ### Want to know more? ### 
 * [User:Lady Elyssa @ Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
