@@ -409,6 +409,7 @@
 
         <!-- WINTERSDAY -->
         <MarkerCategory name="wintersday"  DisplayName="Wintersday" texture="Data/Images/Trails/Trail Pointer - Wintersday.png">
+            <MarkerCategory name="finders" DisplayName="Finders Keepers"/>
             <MarkerCategory name="grawnk" DisplayName="Grawnk Munch">
                 <MarkerCategory name="home" DisplayName="Home Instance" mapDisplaySize="8"/>
                 <MarkerCategory name="chef" DisplayName="Sous-Chef Seimur Oxbone" iconFile="Data/Images/Icons/Circle - Wintersday.png" mapDisplaySize="32" inGameVisibility="0">

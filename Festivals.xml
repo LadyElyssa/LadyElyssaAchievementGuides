@@ -578,6 +578,8 @@
 
 
         <!-- WINTERSDAY -->
+        <Trail type="leag.festivals.wintersday.finders" trailData="Data/Festivals/Wintersday/Finders Keepers.trl"/>
+
         <!-- Grawnk -->
         <Trail type="leag.festivals.wintersday.grawnk.home" trailData="Data/Festivals/Wintersday/Grawnk 0 Asura.trl"/>
         <Trail type="leag.festivals.wintersday.grawnk.home" trailData="Data/Festivals/Wintersday/Grawnk 0 Charr.trl"/>
