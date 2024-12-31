@@ -7,7 +7,7 @@
                 <MarkerCategory name="ch3" IsSeparator="1" DisplayName="CHAPTER 3: Night of Fires"/>
                 <MarkerCategory name="latf" DisplayName="Lurking among the Flames" iconFile="Data/Images/Circle - Orange.png" mapDisplaySize="40" inGameVisibility="0" achievementId="3879"/>
                 <MarkerCategory name="sok" DisplayName="Shield of Kormir" iconFile="Data/Images/Move!.png" heightOffset="3.0" maxSize="32" achievementId="3813"/>
-                <MarkerCategory name="had" DisplayName="Hidden and Dishonored [H]" defaulttoggle="0" iconFile="Data/Images/Icons/Orb - Red.png" maxSize="16" heightOffset="-0.5" achievementId="3564"/>
+                <MarkerCategory name="had" DisplayName="Hidden and Dishonored [H]" defaulttoggle="0" iconFile="Data/Images/Icons/Orb - Red.png" maxSize="16" heightOffset="1.5" achievementId="3564"/>
 
                 <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: The Sacrifice"/>
                 <MarkerCategory name="dc" DisplayName="Damage Control" iconFile="Data/Images/Circle - Orange.png" mapDisplaySize="40" inGameVisibility="0" achievementId="3568"/>
@@ -252,7 +252,106 @@
             <MarkerCategory name="vabbi" DisplayName="Domain of Vabbi">
             </MarkerCategory>
 
-            <MarkerCategory name="riverlands" DisplayName="Elon Riverlands">
+            <!-- Elon Riverlands -->
+            <MarkerCategory name="riverlands" DisplayName="Elon Riverlands" mapDisplaySize="16">
+                <MarkerCategory name="augury" DisplayName="Augury Ascended" achievementId="3801"/>
+                <MarkerCategory name="sand" DisplayName="Blood and Sand" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128" achievementId="3681"/>
+                <MarkerCategory name="defector" DisplayName="Defector Protector" achievementId="3611">
+                    <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" heightOffset="3.0" maxSize="16" mapDisplaySize="128"/>
+                    <MarkerCategory name="exile" DisplayName="Toggle Restless Exiles" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.5" maxSize="16" mapDisplaySize="32"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="tracker" DisplayName="Equipment Tracker" achievementId="3849">
+                    <MarkerCategory name="list" DisplayName="Shadi's Shopping List" iconFile="Data/Images/Icons/Talk.png" mapDisplaySize="24" maxSize="16" heightOffset="4"/>
+                    <MarkerCategory name="armor" DisplayName="Shadi's Armor" iconFile="Data/Images/Shadi's Armor.png" mapDisplaySize="24" inGameVisibility="0"/>
+                    <MarkerCategory name="boots" DisplayName="Shadi's Boots" iconFile="Data/Images/Shadi's Boots.png" mapDisplaySize="24" inGameVisibility="0"/>
+                    <MarkerCategory name="gloves" DisplayName="Shadi's Gloves" iconFile="Data/Images/Shadi's Gloves.png" mapDisplaySize="24" inGameVisibility="0"/>
+                    <MarkerCategory name="helm" DisplayName="Shadi's Helm" iconFile="Data/Images/Shadi's Helm.png" mapDisplaySize="24" inGameVisibility="0"/>
+                    <MarkerCategory name="sword" DisplayName="Shadi's Sword" iconFile="Data/Images/Shadi's Sword.png" mapDisplaySize="24" inGameVisibility="0"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="doppel" DisplayName="Doppel Dropper" achievementId="3571">
+                    <MarkerCategory name="wild" DisplayName="Wild Magical Energy" iconFile="Data/Images/Orb - White.png" heightOffset="-0.5" maxSize="16"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="flameseeker" DisplayName="Flameseeker Prophecies" achievementId="3604">
+                    <MarkerCategory name="1" DisplayName="Verse 1" iconFile="Data/Images/Numbers/n1.png" heightOffset="0.5" maxSize="16"/>
+                    <MarkerCategory name="2" DisplayName="Verse 2" iconFile="Data/Images/Numbers/n2.png" heightOffset="0.5" maxSize="16"/>
+                    <MarkerCategory name="3" DisplayName="Verse 3" iconFile="Data/Images/Numbers/n3.png" heightOffset="0.5" maxSize="16"/>
+                    <MarkerCategory name="4" DisplayName="Verse 4" iconFile="Data/Images/Numbers/n4.png" heightOffset="0.5" maxSize="16"/>
+                    <MarkerCategory name="5" DisplayName="Verse 5" iconFile="Data/Images/Numbers/n5.png" heightOffset="0.5" maxSize="16"/>
+                    <MarkerCategory name="6" DisplayName="Verse 6" iconFile="Data/Images/Numbers/n6.png" heightOffset="0.5" maxSize="16"/>
+                    <MarkerCategory name="7" DisplayName="Verse 7" iconFile="Data/Images/Numbers/n7.png" heightOffset="0.5" maxSize="16"/>
+                    <MarkerCategory name="8" DisplayName="Verse 8" iconFile="Data/Images/Numbers/n8.png" heightOffset="0.5" maxSize="16"/>
+                    <MarkerCategory name="9" DisplayName="Verse 9" iconFile="Data/Images/Numbers/n9.png" heightOffset="0.5" maxSize="16"/>
+                    <MarkerCategory name="10" DisplayName="Verse 10" iconFile="Data/Images/Numbers/n10.png" heightOffset="0.5" maxSize="16"/>
+                    <MarkerCategory name="11" DisplayName="Verse 11" iconFile="Data/Images/Numbers/n11.png" heightOffset="0.5" maxSize="16"/>
+                    <MarkerCategory name="12" DisplayName="Verse 12" iconFile="Data/Images/Numbers/n12.png" heightOffset="0.5" maxSize="16"/>
+                    <MarkerCategory name="13" DisplayName="Verse 13" iconFile="Data/Images/Numbers/n13.png" heightOffset="0.5" maxSize="16"/>
+                    <MarkerCategory name="14" DisplayName="Verse 14" iconFile="Data/Images/Numbers/n14.png" heightOffset="0.5" maxSize="16"/>
+                    <MarkerCategory name="15" DisplayName="Verse 15" iconFile="Data/Images/Numbers/n15.png" heightOffset="0.5" maxSize="16"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="flowers" DisplayName="Flowers for Jimoh" achievementId="3706" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" heightOffset="4.0"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="trail" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" mapDisplaySize="8" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png"/>
+                </MarkerCategory>
+                     
+                
+                <MarkerCategory name="debris" DisplayName="Forgotten Debris" achievementId="3629">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="trail" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" mapDisplaySize="8"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="teleporter" DisplayName="Frequent Forgotten Teleporter" iconFile="Data/Images/Icons/Forgotten Teleporter.png" inGameVisibility="0" achievementId="3826" mapDisplaySize="32">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="teleporters" IsSeparator="1" DisplayName="TELEPORTERS"/>
+                    <MarkerCategory name="augury" DisplayName="Augury Rock"/>
+                    <MarkerCategory name="east" DisplayName="Vulture Drifts Eastbound"/>
+                    <MarkerCategory name="west" DisplayName="Vulture Drifts Westbound"/>
+                    <MarkerCategory name="south" DisplayName="Ustulate Barrens Southbound"/>
+                    <MarkerCategory name="north" DisplayName="Ustulate Barrens Northbound"/>
+                    <MarkerCategory name="grotto" DisplayName="Whispering Grotto"/>
+                    <MarkerCategory name="quickmire" DisplayName="The Quickmire"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="trio" DisplayName="Ghostly Trio" achievementId="3699" texture="Data/Images/Trails/Trail Marker 1 Shaded.png" color="b3e6ff"/>
+
+                <MarkerCategory name="lloer" DisplayName="Lost Lore of Elon Riverlands" achievementId="3632"/>
+
+                <MarkerCategory name="magic" DisplayName="Magic Hunter [H]" defaulttoggle="0" achievementId="3669">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="trail" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" mapDisplaySize="8"/>
+                </MarkerCategory>
+
             </MarkerCategory>
 
             <MarkerCategory name="desolation" DisplayName="The Desolation">
