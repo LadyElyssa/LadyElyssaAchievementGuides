@@ -300,8 +300,16 @@
         <!-- Equipment Tracker -->
         <Trail type="leag.pof.riverlands.tracker" trailData="Data/PoF/Equipment Tracker 1.trl"/>
         <Trail type="leag.pof.riverlands.tracker" trailData="Data/PoF/Equipment Tracker 2.trl"/>
-        <POI MapID="1228" xpos="-594.3123" ypos="26.68033" zpos="-343.8982" type="leag.pof.riverlands.tracker.wp" GUID="vOj4ve7sdEu4JjpbpQSCLQ=="/>
-        <POI MapID="1228" xpos="1037.128" ypos="57.2901" zpos="737.9057" type="leag.pof.riverlands.tracker.wp" GUID="ykF05s/FokODEdeSDbFYgg==" info="Return to" infoRange="3"/>
+        <Trail type="leag.pof.riverlands.tracker" trailData="Data/PoF/Equipment Tracker 3.trl"/>
+        <POI MapID="1228" xpos="-594.3123" ypos="26.68033" zpos="-343.8982" type="leag.pof.riverlands.tracker.wp" GUID="vOj4ve7sdEu4JjpbpQSCLQ==" copy="[&BGcKAAA=]" copy-message="Skimmer Ranch Waypoint"/>
+        <POI MapID="1228" xpos="-344.448" ypos="4.92999" zpos="175.02" type="leag.pof.riverlands.tracker.wp" GUID="UpnFlhvv4Uiz4NadLQ1F+w==" copy="[&BFMKAAA=]" copy-message="Augury's Shadow Waypoint"/>
+        <POI MapID="1228" xpos="1037.128" ypos="57.2901" zpos="737.9057" type="leag.pof.riverlands.tracker.wp" GUID="ykF05s/FokODEdeSDbFYgg==" info="Return to Master Sergeant Shadi" infoRange="3"/>
+        <POI MapID="1228" xpos="-833.814" ypos="99.3211" zpos="890.99" type="leag.pof.riverlands.tracker.list" GUID="S7RF4yrZ8UaByHjmUu4ViQ=="/>
+        <POI MapID="1228" xpos="-883.589" ypos="89.9778" zpos="878.308" type="leag.pof.riverlands.tracker.sword" GUID="UOeNIASAKkqy9SOycRkzkw=="/>
+        <POI MapID="1228" xpos="-985.017" ypos="42.2108" zpos="279.243" type="leag.pof.riverlands.tracker.boots" GUID="HXnJkZAWDEuY3IVnDaTwkg=="/>
+        <POI MapID="1228" xpos="-593.098" ypos="26.6695" zpos="-342.927" type="leag.pof.riverlands.tracker.gloves" GUID="eJ0gOtrDJUaTwJeC9OpWyA=="/>
+        <POI MapID="1228" xpos="1036.4" ypos="58.1717" zpos="736.279" type="leag.pof.riverlands.tracker.helm" GUID="eAQyYUc1iEKVwtqTgBZ9eQ=="/>
+        <POI MapID="1228" xpos="-343.553" ypos="4.93143" zpos="176.278" type="leag.pof.riverlands.tracker.armor" GUID="Sj9rS1gcQkGJ1+NjVnDkeA=="/>
 
         <!-- Doppel Dropper -->
         <POI MapID="1228" xpos="145.832" ypos="82.6591" zpos="735.303" type="leag.pof.riverlands.doppel.wild" GUID="fsUdEbkhNUuTbjcw2/DNXg=="/>
@@ -359,11 +367,6 @@
         <POI MapID="1228" xpos="14.0134" ypos="103.229" zpos="627.338" type="leag.pof.riverlands.doppel.wild" GUID="vYFZW/8URUePP1vXPMUYyg=="/>
         <POI MapID="1228" xpos="-639.845" ypos="119.339" zpos="898.413" type="leag.pof.riverlands.doppel.wild" GUID="JkKt5QNgSEmpi4OyOthTIQ=="/>
         <POI MapID="1228" xpos="-485.429" ypos="62.275" zpos="431.322" type="leag.pof.riverlands.doppel.wild" GUID="XuAfSjw2KkWon9wH8IH2YQ=="/>
-        <POI MapID="1228" xpos="-833.814" ypos="99.3211" zpos="890.99" type="leag.pof.riverlands.tracker.list" GUID="S7RF4yrZ8UaByHjmUu4ViQ=="/>
-        <POI MapID="1228" xpos="-883.589" ypos="89.9778" zpos="878.308" type="leag.pof.riverlands.tracker.sword" GUID="UOeNIASAKkqy9SOycRkzkw=="/>
-        <POI MapID="1228" xpos="-985.017" ypos="42.2108" zpos="279.243" type="leag.pof.riverlands.tracker.boots" GUID="HXnJkZAWDEuY3IVnDaTwkg=="/>
-        <POI MapID="1228" xpos="-593.098" ypos="26.6695" zpos="-342.927" type="leag.pof.riverlands.tracker.armor" GUID="eJ0gOtrDJUaTwJeC9OpWyA=="/>
-        <POI MapID="1228" xpos="1036.4" ypos="58.1717" zpos="736.279" type="leag.pof.riverlands.tracker.helm" GUID="eAQyYUc1iEKVwtqTgBZ9eQ=="/>
         <POI MapID="1228" xpos="124.863" ypos="75.037" zpos="493.578" type="leag.pof.riverlands.doppel.wild" GUID="sGgiuRui9kyE69kEOB1hjg=="/>
         <POI MapID="1228" xpos="110.07" ypos="74.4702" zpos="434.28" type="leag.pof.riverlands.doppel.wild" GUID="7dyQik7J30+gqz8qpggSog=="/>
         <POI MapID="1228" xpos="204.259" ypos="85.2558" zpos="351.278" type="leag.pof.riverlands.doppel.wild" GUID="NZYaSCNzek6yRAupL7qdYw=="/>
@@ -481,9 +484,6 @@
         <POI MapID="1228" xpos="-806.664" ypos="21.8516" zpos="352.937" type="leag.pof.riverlands.debris.wp" GUID="4MYLB8IuVUuInbnE+iOjmA=="/>
         <POI MapID="1228" xpos="-413.832" ypos="4.47673" zpos="165.097" type="leag.pof.riverlands.debris.wp" GUID="UQ4L8S5IPkiFQXoe3e2JFA=="/>
         
-        
-
-
         <!-- Frequent Forgotten Teleporter -->
         <Trail type="leag.pof.riverlands.teleporter" trailData="Data/PoF/Frequent Forgotten Teleporter 1.trl" inGameVisibility="1" mapDisplaySize="8"/>
         <Trail type="leag.pof.riverlands.teleporter" trailData="Data/PoF/Frequent Forgotten Teleporter 2.trl" inGameVisibility="1" mapDisplaySize="8"/>
