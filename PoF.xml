@@ -274,5 +274,256 @@
         <POI MapID="1211" xpos="-284.3152" ypos="203.5443" zpos="95.72302" type="leag.pof.highlands.dolyak" GUID="vFSgi3KqgkKH9q2NYskmgw==" iconFile="Data/Images/Diamond.png" mapDisplaySize="40" inGameVisibility="0"/>
 
 
+        <!-- ELON RIVERLANDS -->
+
+        <!-- Augury Ascended -->
+        <Trail type="leag.pof.riverlands.augury" trailData="Data/PoF/Augury Ascended 1.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="ffcc00"/>
+        <Trail type="leag.pof.riverlands.augury" trailData="Data/PoF/Augury Ascended 2.trl"  texture="Data/Images/Trails/Dashed Line with Shadow.png" mapDisplaySize="8" color="ffcc00"/>
+        <POI MapID="1228" xpos="983.6307" ypos="48.18036" zpos="430.5462" type="leag.pof.riverlands.augury" GUID="k+8OsUXysEWI1JvqwYDO+g==" iconFile="Data/Images/Icons/Portal.png" inGameVisibility="0" mapDisplaySize="24"/>
+
+        <!-- Blood and Sand -->
+        <POI MapID="1228" xpos="172.905" ypos="83.51814" zpos="528.0699" type="leag.pof.riverlands.sand" GUID="8e0PCxRSy0K4TyVMXgcGWg=="/>
+
+        <!-- Defector Protector -->
+        <POI MapID="1228" xpos="473.526" ypos="4.85294" zpos="41.0937" type="leag.pof.riverlands.defector.event" GUID="Gn84m33Sh0axr5RTEQQ0Pg=="/>
+        <POI MapID="1228" xpos="524.258" ypos="4.81979" zpos="10.4769" type="leag.pof.riverlands.defector.exile" GUID="KHAMp/P4uEu3p/wtp6KJqw=="/>
+        <POI MapID="1228" xpos="522.74" ypos="2.12482" zpos="-37.2518" type="leag.pof.riverlands.defector.exile" GUID="PiOFaxtrsUGWZrJXbhaoxw=="/>
+        <POI MapID="1228" xpos="580.095" ypos="3.79391" zpos="1.56703" type="leag.pof.riverlands.defector.exile" GUID="xirZDlda8kW8aMdWHAg6kw=="/>
+        <POI MapID="1228" xpos="465.153" ypos="5.0184" zpos="32.5203" type="leag.pof.riverlands.defector.exile" GUID="Y5f4x9RkN02wdS648i5sQg=="/>
+        <POI MapID="1228" xpos="409.023" ypos="2.2537" zpos="-107.714" type="leag.pof.riverlands.defector.exile" GUID="Uxr51i3cO0uagCKcyhxS5g=="/>
+        <POI MapID="1228" xpos="428.402" ypos="0.545689" zpos="-168.4" type="leag.pof.riverlands.defector.exile" GUID="7N2IIXXxGkau3FTMjM72bw=="/>
+        <POI MapID="1228" xpos="461.088" ypos="2.26636" zpos="-48.8253" type="leag.pof.riverlands.defector.exile" GUID="4ZIOBYEEfUyaBLeLufNPUA=="/>
+        <POI MapID="1228" xpos="336.544" ypos="13.9958" zpos="2.36047" type="leag.pof.riverlands.defector.exile" GUID="j0/xvgWCWEC8fVR09RLOAA=="/>
+        <POI MapID="1228" xpos="410.929" ypos="9.10268" zpos="25.4293" type="leag.pof.riverlands.defector.exile" GUID="fn9sB3v0Ak+XvTrQkkq2Ng=="/>
+        <POI MapID="1228" xpos="434.075" ypos="5.37557" zpos="-10.0424" type="leag.pof.riverlands.defector.exile" GUID="e5DcEHV0xES5ln55VhbqWw=="/>
+        
+        <!-- Equipment Tracker -->
+        <Trail type="leag.pof.riverlands.tracker" trailData="Data/PoF/Equipment Tracker 1.trl"/>
+        <Trail type="leag.pof.riverlands.tracker" trailData="Data/PoF/Equipment Tracker 2.trl"/>
+        <POI MapID="1228" xpos="-594.3123" ypos="26.68033" zpos="-343.8982" type="leag.pof.riverlands.tracker.wp" GUID="vOj4ve7sdEu4JjpbpQSCLQ=="/>
+        <POI MapID="1228" xpos="1037.128" ypos="57.2901" zpos="737.9057" type="leag.pof.riverlands.tracker.wp" GUID="ykF05s/FokODEdeSDbFYgg==" info="Return to" infoRange="3"/>
+
+        <!-- Doppel Dropper -->
+        <POI MapID="1228" xpos="145.832" ypos="82.6591" zpos="735.303" type="leag.pof.riverlands.doppel.wild" GUID="fsUdEbkhNUuTbjcw2/DNXg=="/>
+        <POI MapID="1228" xpos="9.38862" ypos="86.7413" zpos="724.452" type="leag.pof.riverlands.doppel.wild" GUID="sXnnxCFkIky8OHsX0kcdtw=="/>
+        <POI MapID="1228" xpos="-57.0095" ypos="99.8953" zpos="660.314" type="leag.pof.riverlands.doppel.wild" GUID="pOQrJT05U0umFVEdUBaiJA=="/>
+        <POI MapID="1228" xpos="-16.0638" ypos="78.1278" zpos="536.181" type="leag.pof.riverlands.doppel.wild" GUID="0mzlfDcFvkieFyGGq94uxQ=="/>
+        <POI MapID="1228" xpos="286.895" ypos="63.5238" zpos="400.034" type="leag.pof.riverlands.doppel.wild" GUID="k87CoEEBVEyJoxSq7+wVOA=="/>
+        <POI MapID="1228" xpos="247.638" ypos="86.8589" zpos="298.614" type="leag.pof.riverlands.doppel.wild" GUID="lCOHWl1ybkaIp9uUw7hkmw=="/>
+        <POI MapID="1228" xpos="287.013" ypos="74.7696" zpos="233.343" type="leag.pof.riverlands.doppel.wild" GUID="5XyhY0kKakW2EBheWKU9cQ=="/>
+        <POI MapID="1228" xpos="448.098" ypos="27.029" zpos="151.502" type="leag.pof.riverlands.doppel.wild" GUID="boRf3CAVDk6+N/1b2ChWdA=="/>
+        <POI MapID="1228" xpos="489.039" ypos="52.8823" zpos="222.082" type="leag.pof.riverlands.doppel.wild" GUID="3kk8/PG/okWYZPMglGoawA=="/>
+        <POI MapID="1228" xpos="401.381" ypos="44.5464" zpos="267.57" type="leag.pof.riverlands.doppel.wild" GUID="qIKjUUTikEWrWZK+Cdma1g=="/>
+        <POI MapID="1228" xpos="386.69" ypos="54.5547" zpos="371.248" type="leag.pof.riverlands.doppel.wild" GUID="ohZvaaHuvUq2+bRpEoie8A=="/>
+        <POI MapID="1228" xpos="551.15" ypos="67.4777" zpos="465.146" type="leag.pof.riverlands.doppel.wild" GUID="44GguqbOYEqQsCQiE8wlnA=="/>
+        <POI MapID="1228" xpos="517.372" ypos="71.1909" zpos="552.52" type="leag.pof.riverlands.doppel.wild" GUID="pvx05CscRUKiRegdr0KJYQ=="/>
+        <POI MapID="1228" xpos="338.134" ypos="111.334" zpos="609.726" type="leag.pof.riverlands.doppel.wild" GUID="dsuCvjcShkm7DzZsnqypWg=="/>
+        <POI MapID="1228" xpos="464.262" ypos="81.699" zpos="479.474" type="leag.pof.riverlands.doppel.wild" GUID="UULWbCXMu0GwvHUZ2s89Qw=="/>
+        <POI MapID="1228" xpos="641.374" ypos="92.4519" zpos="654.51" type="leag.pof.riverlands.doppel.wild" GUID="3Wy629h5/keXnkX9TezEyA=="/>
+        <POI MapID="1228" xpos="805.574" ypos="93.4462" zpos="608.627" type="leag.pof.riverlands.doppel.wild" GUID="pc9zDg2ze0OHnSDtyUS9Og=="/>
+        <POI MapID="1228" xpos="917.024" ypos="84.313" zpos="569.422" type="leag.pof.riverlands.doppel.wild" GUID="vRYvSQB10UagpOE0/FNyMg=="/>
+        <POI MapID="1228" xpos="924.868" ypos="101.298" zpos="692.856" type="leag.pof.riverlands.doppel.wild" GUID="VVg6xS+sqUCFv18YKlr2CQ=="/>
+        <POI MapID="1228" xpos="993.745" ypos="111.703" zpos="776.229" type="leag.pof.riverlands.doppel.wild" GUID="xou5Qjb49k6F63XDFunqoA=="/>
+        <POI MapID="1228" xpos="850.93" ypos="112.208" zpos="853.202" type="leag.pof.riverlands.doppel.wild" GUID="QevXJCO5jUi42owuAzy7NA=="/>
+        <POI MapID="1228" xpos="670.543" ypos="102.631" zpos="844.447" type="leag.pof.riverlands.doppel.wild" GUID="1GY0puC3FUWM3uLQwXud4A=="/>
+        <POI MapID="1228" xpos="581.119" ypos="92.5506" zpos="905.937" type="leag.pof.riverlands.doppel.wild" GUID="XbX7lVMDxkG9t+HCWBA2VQ=="/>
+        <POI MapID="1228" xpos="500.456" ypos="100.063" zpos="948.15" type="leag.pof.riverlands.doppel.wild" GUID="jxmRAblOF0KhgAG/YSb3Dw=="/>
+        <POI MapID="1228" xpos="253.433" ypos="117.094" zpos="919.377" type="leag.pof.riverlands.doppel.wild" GUID="QdZeztd3b0qzmAUBckK85g=="/>
+        <POI MapID="1228" xpos="134.339" ypos="103.985" zpos="886.094" type="leag.pof.riverlands.doppel.wild" GUID="bDDQNrs0OUSGYhTeb7SeNw=="/>
+        <POI MapID="1228" xpos="39.5095" ypos="99.6797" zpos="945.262" type="leag.pof.riverlands.doppel.wild" GUID="/ETyQXGPS0G2errjFwxpww=="/>
+        <POI MapID="1228" xpos="-490.615" ypos="99.9594" zpos="849.038" type="leag.pof.riverlands.doppel.wild" GUID="5y6ElxfRuk2eEBwVsZdmzA=="/>
+        <POI MapID="1228" xpos="-469.978" ypos="89.8243" zpos="761.178" type="leag.pof.riverlands.doppel.wild" GUID="6CnAR9OQCk+w8NUQfMMT2A=="/>
+        <POI MapID="1228" xpos="-339.27" ypos="88.0453" zpos="758.416" type="leag.pof.riverlands.doppel.wild" GUID="mp7eBv58pUiV/3FeTc9y4A=="/>
+        <POI MapID="1228" xpos="-288" ypos="95.6336" zpos="699.914" type="leag.pof.riverlands.doppel.wild" GUID="6K8PMtUiF0i0L8pv7CfFAw=="/>
+        <POI MapID="1228" xpos="-120.081" ypos="110.344" zpos="727.375" type="leag.pof.riverlands.doppel.wild" GUID="EY+ZSm68MECfKNMmEsYSUQ=="/>
+        <POI MapID="1228" xpos="-554.449" ypos="96.1144" zpos="924.591" type="leag.pof.riverlands.doppel.wild" GUID="JBH3cu3w6EecPJZX/LPu+Q=="/>
+        <POI MapID="1228" xpos="-703.336" ypos="103.175" zpos="818.776" type="leag.pof.riverlands.doppel.wild" GUID="7Uw8Bzoo6UiYmVyN9gIx9g=="/>
+        <POI MapID="1228" xpos="-789.539" ypos="93.9043" zpos="741.144" type="leag.pof.riverlands.doppel.wild" GUID="VNYXuwHvXUmgvops1du2rQ=="/>
+        <POI MapID="1228" xpos="-779.425" ypos="73.88" zpos="552.279" type="leag.pof.riverlands.doppel.wild" GUID="puO+erT9lEuSMPO55wmVBw=="/>
+        <POI MapID="1228" xpos="-746.742" ypos="56.835" zpos="434.375" type="leag.pof.riverlands.doppel.wild" GUID="LzALVtFCAkOltC0Xn+NAog=="/>
+        <POI MapID="1228" xpos="-660.488" ypos="84.0854" zpos="601.492" type="leag.pof.riverlands.doppel.wild" GUID="ff7xmBk7Ik2ri4HXggvQ5A=="/>
+        <POI MapID="1228" xpos="-661.554" ypos="78.7017" zpos="717.558" type="leag.pof.riverlands.doppel.wild" GUID="9yuXisOL8k6YonRdXEbppA=="/>
+        <POI MapID="1228" xpos="-553.12" ypos="109.202" zpos="683.478" type="leag.pof.riverlands.doppel.wild" GUID="QNcwTID9Uk6fx5S9VZHoYw=="/>
+        <POI MapID="1228" xpos="-511.195" ypos="73.6724" zpos="591.181" type="leag.pof.riverlands.doppel.wild" GUID="1n8wjaffFkWPq56bXs9AxA=="/>
+        <POI MapID="1228" xpos="-558.773" ypos="58.0749" zpos="313.949" type="leag.pof.riverlands.doppel.wild" GUID="+5PsVjbPT0qIPK/6EkKiUA=="/>
+        <POI MapID="1228" xpos="-450.309" ypos="40.8383" zpos="95.0445" type="leag.pof.riverlands.doppel.wild" GUID="vTBjMgNlRU2XpNBX8QEOOA=="/>
+        <POI MapID="1228" xpos="-297.211" ypos="46.8068" zpos="134.185" type="leag.pof.riverlands.doppel.wild" GUID="tMgUy02TjU+nrspwJY8vEA=="/>
+        <POI MapID="1228" xpos="-271.759" ypos="67.7584" zpos="229.152" type="leag.pof.riverlands.doppel.wild" GUID="7DKJP6uvH0yrXyP/Z8Zjnw=="/>
+        <POI MapID="1228" xpos="-158.701" ypos="88.3337" zpos="223.622" type="leag.pof.riverlands.doppel.wild" GUID="rIZ1CdLas02SWrUS2uB6kw=="/>
+        <POI MapID="1228" xpos="-105.052" ypos="79.1026" zpos="291.66" type="leag.pof.riverlands.doppel.wild" GUID="Q4Xab+PvUkiWc1IVkD2gbQ=="/>
+        <POI MapID="1228" xpos="-47.2429" ypos="48.4364" zpos="99.6949" type="leag.pof.riverlands.doppel.wild" GUID="AAGm8EKkcEq7sRKew3MdfQ=="/>
+        <POI MapID="1228" xpos="-25.4479" ypos="32.6236" zpos="-40.3875" type="leag.pof.riverlands.doppel.wild" GUID="HJUAFAmzYkSYXPRyTBFAOw=="/>
+        <POI MapID="1228" xpos="-56.1125" ypos="14.9357" zpos="-135.569" type="leag.pof.riverlands.doppel.wild" GUID="Qwerqdx3m0u4sdffJqwtaw=="/>
+        <POI MapID="1228" xpos="88.093" ypos="3.65897" zpos="-91.7885" type="leag.pof.riverlands.doppel.wild" GUID="/KIIuwNprUidB24gJNhX3g=="/>
+        <POI MapID="1228" xpos="176.964" ypos="39.1175" zpos="-9.25026" type="leag.pof.riverlands.doppel.wild" GUID="bOKAOX0hfE6ENYLEupjD9Q=="/>
+        <POI MapID="1228" xpos="14.0134" ypos="103.229" zpos="627.338" type="leag.pof.riverlands.doppel.wild" GUID="vYFZW/8URUePP1vXPMUYyg=="/>
+        <POI MapID="1228" xpos="-639.845" ypos="119.339" zpos="898.413" type="leag.pof.riverlands.doppel.wild" GUID="JkKt5QNgSEmpi4OyOthTIQ=="/>
+        <POI MapID="1228" xpos="-485.429" ypos="62.275" zpos="431.322" type="leag.pof.riverlands.doppel.wild" GUID="XuAfSjw2KkWon9wH8IH2YQ=="/>
+        <POI MapID="1228" xpos="-833.814" ypos="99.3211" zpos="890.99" type="leag.pof.riverlands.tracker.list" GUID="S7RF4yrZ8UaByHjmUu4ViQ=="/>
+        <POI MapID="1228" xpos="-883.589" ypos="89.9778" zpos="878.308" type="leag.pof.riverlands.tracker.sword" GUID="UOeNIASAKkqy9SOycRkzkw=="/>
+        <POI MapID="1228" xpos="-985.017" ypos="42.2108" zpos="279.243" type="leag.pof.riverlands.tracker.boots" GUID="HXnJkZAWDEuY3IVnDaTwkg=="/>
+        <POI MapID="1228" xpos="-593.098" ypos="26.6695" zpos="-342.927" type="leag.pof.riverlands.tracker.armor" GUID="eJ0gOtrDJUaTwJeC9OpWyA=="/>
+        <POI MapID="1228" xpos="1036.4" ypos="58.1717" zpos="736.279" type="leag.pof.riverlands.tracker.helm" GUID="eAQyYUc1iEKVwtqTgBZ9eQ=="/>
+        <POI MapID="1228" xpos="124.863" ypos="75.037" zpos="493.578" type="leag.pof.riverlands.doppel.wild" GUID="sGgiuRui9kyE69kEOB1hjg=="/>
+        <POI MapID="1228" xpos="110.07" ypos="74.4702" zpos="434.28" type="leag.pof.riverlands.doppel.wild" GUID="7dyQik7J30+gqz8qpggSog=="/>
+        <POI MapID="1228" xpos="204.259" ypos="85.2558" zpos="351.278" type="leag.pof.riverlands.doppel.wild" GUID="NZYaSCNzek6yRAupL7qdYw=="/>
+        <POI MapID="1228" xpos="83.3077" ypos="87.3474" zpos="196.809" type="leag.pof.riverlands.doppel.wild" GUID="oOJ3yIhNPEOW1Gk/rTXP8g=="/>
+        <POI MapID="1228" xpos="129.206" ypos="57.4161" zpos="93.3548" type="leag.pof.riverlands.doppel.wild" GUID="Cud4LoeNxUGXb1cSy3/RaQ=="/>
+        <POI MapID="1228" xpos="-537.232" ypos="6.16437" zpos="113.475" type="leag.pof.riverlands.doppel.wild" GUID="/F9KDn3Zb0KHS4B5eB8nUA=="/>
+        <POI MapID="1228" xpos="-559.793" ypos="20.7902" zpos="221.58" type="leag.pof.riverlands.doppel.wild" GUID="LEeOLFuqU0G+62FvipWT7Q=="/>
+        <POI MapID="1228" xpos="-613.35" ypos="35.6914" zpos="171.135" type="leag.pof.riverlands.doppel.wild" GUID="FtcZcM/lN0CQC1h6uVvm5g=="/>
+        <POI MapID="1228" xpos="-356.397" ypos="106.647" zpos="591.489" type="leag.pof.riverlands.doppel.wild" GUID="pKoPdFaHLEmGHi4pDYqaZA=="/> 
+        <POI MapID="1228" xpos="632.029" ypos="70.4985" zpos="417.446" type="leag.pof.riverlands.doppel.wild" GUID="cwtMwjn0lk6rh7DHR1jnlA=="/>
+        <POI MapID="1228" xpos="613.904" ypos="44.6132" zpos="333.553" type="leag.pof.riverlands.doppel.wild" GUID="J7jaKUkghkGsufdeBRB7pg=="/>
+        <POI MapID="1228" xpos="696.151" ypos="49.5416" zpos="331.542" type="leag.pof.riverlands.doppel.wild" GUID="obRssQNCVEyAk8fCaOxpkg=="/>
+        <POI MapID="1228" xpos="792.22" ypos="56.115" zpos="352.262" type="leag.pof.riverlands.doppel.wild" GUID="u9kxeZZe8kmQndOnN0WiwQ=="/>
+        <POI MapID="1228" xpos="815.12" ypos="70.2965" zpos="448.286" type="leag.pof.riverlands.doppel.wild" GUID="6RgASsnHnEWSszYuqLapEg=="/>
+        <POI MapID="1228" xpos="883.864" ypos="75.906" zpos="477.284" type="leag.pof.riverlands.doppel.wild" GUID="5eYTuu8gXEWgGsP/4HIviQ=="/>
+        <POI MapID="1228" xpos="841.974" ypos="61.2112" zpos="207.411" type="leag.pof.riverlands.doppel.wild" GUID="AbEGrbtU4Eu4UF5bex2PgA=="/>
+        <POI MapID="1228" xpos="656.37" ypos="46.9113" zpos="213.006" type="leag.pof.riverlands.doppel.wild" GUID="ARaCzA2bXkyBVaUHmMR0Kw=="/>
+        <POI MapID="1228" xpos="632.928" ypos="30.9386" zpos="121.625" type="leag.pof.riverlands.doppel.wild" GUID="5MaBnjou70eHj44LoibVag=="/>
+        <POI MapID="1228" xpos="707.83" ypos="52.4015" zpos="136.503" type="leag.pof.riverlands.doppel.wild" GUID="FFI6TfKDl0KXc5ZAwD6KfQ=="/>
+        <POI MapID="1228" xpos="780.063" ypos="47.4762" zpos="21.5072" type="leag.pof.riverlands.doppel.wild" GUID="I5XWDIwrSEWRtfcmwultxA=="/>
+        <POI MapID="1228" xpos="745.231" ypos="20.6129" zpos="-49.4054" type="leag.pof.riverlands.doppel.wild" GUID="dDL8F6txvU2biiW3VW3IWA=="/>
+        <POI MapID="1228" xpos="560.809" ypos="35.4004" zpos="98.3208" type="leag.pof.riverlands.doppel.wild" GUID="1ICZSoOJekaEDd6lGbJfaA=="/>
+        <POI MapID="1228" xpos="559.727" ypos="0.841794" zpos="-35.5663" type="leag.pof.riverlands.doppel.wild" GUID="tgC2gRfgwk+Tp5ZtHrL0BA=="/>
+        <POI MapID="1228" xpos="305.961" ypos="7.96209" zpos="-14.529" type="leag.pof.riverlands.doppel.wild" GUID="3jUpX5lK30awsHqCU1JNjA=="/>
+        <POI MapID="1228" xpos="316.253" ypos="0.509936" zpos="-292.127" type="leag.pof.riverlands.doppel.wild" GUID="MuOrSHkox02dg3BBYiP7ww=="/>
+        <POI MapID="1228" xpos="202.956" ypos="5.9502" zpos="-264.466" type="leag.pof.riverlands.doppel.wild" GUID="0Oq6GKUC/USIORAusl0F6g=="/>
+        <POI MapID="1228" xpos="47.3682" ypos="57.7638" zpos="18.2264" type="leag.pof.riverlands.doppel.wild" GUID="5d1lwaWPBka3EElaK4m3fA=="/>
+        <POI MapID="1228" xpos="344.808" ypos="52.1783" zpos="193.59" type="leag.pof.riverlands.doppel.wild" GUID="kSkD78hAJU+sG/YAqg49Ww=="/>
+        <POI MapID="1228" xpos="765.474" ypos="81.0285" zpos="542.447" type="leag.pof.riverlands.doppel.wild" GUID="Q3cyvTmPNECN5ZclhluC2g=="/>
+        <POI MapID="1228" xpos="899.279" ypos="66.9549" zpos="333.703" type="leag.pof.riverlands.doppel.wild" GUID="T5N96ydgR0asAl8lljv9Fw=="/>
+        <POI MapID="1228" xpos="969.572" ypos="62.9138" zpos="293.182" type="leag.pof.riverlands.doppel.wild" GUID="ebg4li6lb0+GtN7EtN04GA=="/>
+        <POI MapID="1228" xpos="964.679" ypos="49.6473" zpos="362.427" type="leag.pof.riverlands.doppel.wild" GUID="RLNOHZoCAkWyUpi1OcrpJw=="/>
+        <POI MapID="1228" xpos="815.555" ypos="57.8699" zpos="67.0106" type="leag.pof.riverlands.doppel.wild" GUID="1USj+Cmj+0eomlGpt5o9fA=="/>
+        <POI MapID="1228" xpos="855.644" ypos="56.2991" zpos="-50.6921" type="leag.pof.riverlands.doppel.wild" GUID="RRQQBY7nbUeF7FdqlUnlbw=="/>
+        <POI MapID="1228" xpos="730.753" ypos="3.22875" zpos="-201.093" type="leag.pof.riverlands.doppel.wild" GUID="gIZlGUnrg0m/5dpQWzoq5g=="/>
+        <POI MapID="1228" xpos="661.273" ypos="0.280435" zpos="-267.46" type="leag.pof.riverlands.doppel.wild" GUID="u6JT3N7W0U2oIUl5I+KYZQ=="/>
+        <POI MapID="1228" xpos="375.155" ypos="0.573066" zpos="-449.738" type="leag.pof.riverlands.doppel.wild" GUID="/+jNJUULpkCdc6JNa6ZLIA=="/>
+        <POI MapID="1228" xpos="218.545" ypos="0.951093" zpos="-393.511" type="leag.pof.riverlands.doppel.wild" GUID="nENWL+ToX0GX3UtF1hwejg=="/>
+        <POI MapID="1228" xpos="98.7585" ypos="3.59512" zpos="-327.857" type="leag.pof.riverlands.doppel.wild" GUID="LkdFmpeW/0ygVb8BmjZSTg=="/>
+
+        <!-- Flameseeker Prophecies -->
+        <Trail type="leag.pof.riverlands.flameseeker.1" trailData="Data/PoF/Flameseeker Prophecies 1.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flameseeker.2" trailData="Data/PoF/Flameseeker Prophecies 2.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flameseeker.3" trailData="Data/PoF/Flameseeker Prophecies 3.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flameseeker.4" trailData="Data/PoF/Flameseeker Prophecies 4.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flameseeker.5" trailData="Data/PoF/Flameseeker Prophecies 5.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flameseeker.6" trailData="Data/PoF/Flameseeker Prophecies 6.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flameseeker.7" trailData="Data/PoF/Flameseeker Prophecies 7.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flameseeker.8" trailData="Data/PoF/Flameseeker Prophecies 8.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flameseeker.9" trailData="Data/PoF/Flameseeker Prophecies 9.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flameseeker.10" trailData="Data/PoF/Flameseeker Prophecies 10.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flameseeker.11" trailData="Data/PoF/Flameseeker Prophecies 11.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flameseeker.12" trailData="Data/PoF/Flameseeker Prophecies 12.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flameseeker.13" trailData="Data/PoF/Flameseeker Prophecies 13.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flameseeker.14" trailData="Data/PoF/Flameseeker Prophecies 14.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flameseeker.15" trailData="Data/PoF/Flameseeker Prophecies 15.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <POI MapID="1228" xpos="321.794" ypos="90.4112" zpos="746.08" type="leag.pof.riverlands.flameseeker.1" GUID="BcKvPwzWyEGMTXouE5m4+g=="/>
+        <POI MapID="1228" xpos="326.747" ypos="89.1215" zpos="733.352" type="leag.pof.riverlands.flameseeker.2" GUID="ZaqqK0cqKkOgTBzB6mgbew=="/>
+        <POI MapID="1228" xpos="351.374" ypos="87.6626" zpos="746.53" type="leag.pof.riverlands.flameseeker.3" GUID="oZmaOB7vv0ampihhFVpSiQ=="/>
+        <POI MapID="1228" xpos="380.293" ypos="94.7344" zpos="776.844" type="leag.pof.riverlands.flameseeker.4" GUID="9b5nlAS6hUGA3ovhx1Ojrg=="/>
+        <POI MapID="1228" xpos="423.969" ypos="101.907" zpos="790.826" type="leag.pof.riverlands.flameseeker.5" GUID="eR7xzTKbcUiEJvXvy7grkw=="/>
+        <POI MapID="1228" xpos="461.099" ypos="105.395" zpos="762.013" type="leag.pof.riverlands.flameseeker.6" GUID="fgVgUceCBkWqRRjGacJSqw=="/>
+        <POI MapID="1228" xpos="460.069" ypos="105.408" zpos="717.634" type="leag.pof.riverlands.flameseeker.7" GUID="zn43wRipXU+hZ7eDRJESGw=="/>
+        <POI MapID="1228" xpos="423.779" ypos="101.235" zpos="691.714" type="leag.pof.riverlands.flameseeker.8" GUID="u4dnbLr5H0G9xkqmijHBpw=="/>
+        <POI MapID="1228" xpos="382.239" ypos="92.9709" zpos="702.636" type="leag.pof.riverlands.flameseeker.9" GUID="4r5FbCfISkahmrnlU7fJpw=="/>
+        <POI MapID="1228" xpos="451.256" ypos="151.915" zpos="699.111" type="leag.pof.riverlands.flameseeker.10" GUID="RleAh+3iiUWYfaINfY9kmA=="/>
+        <POI MapID="1228" xpos="401.261" ypos="170.197" zpos="688.527" type="leag.pof.riverlands.flameseeker.11" GUID="asAC70sPrEa/GSibdH/H7Q=="/>
+        <POI MapID="1228" xpos="351.372" ypos="184.398" zpos="724.35" type="leag.pof.riverlands.flameseeker.12" GUID="woVtvJbj706K3wtWQqHuAQ=="/>
+        <POI MapID="1228" xpos="368.802" ypos="186.256" zpos="768.404" type="leag.pof.riverlands.flameseeker.13" GUID="zIa72OJbnE+k5yiIdU69bw=="/>
+        <POI MapID="1228" xpos="421.359" ypos="207.44" zpos="795.734" type="leag.pof.riverlands.flameseeker.14" GUID="b86XKMuHnECApF6yO1YhkA=="/>
+        <POI MapID="1228" xpos="461.944" ypos="208.177" zpos="769.167" type="leag.pof.riverlands.flameseeker.15" GUID="9v2yB2duiUuyf4dps4taVw=="/>
+
+        <!-- Flowers for Jimoh -->
+        <Trail type="leag.pof.riverlands.flowers.1" trailData="Data/PoF/Flowers for Jimoh 0.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.pof.riverlands.flowers.1" trailData="Data/PoF/Flowers for Jimoh 1.trl"/>
+        <Trail type="leag.pof.riverlands.flowers.2" trailData="Data/PoF/Flowers for Jimoh 2.trl"/>
+        <Trail type="leag.pof.riverlands.flowers.3" trailData="Data/PoF/Flowers for Jimoh 3.trl"/>
+        <Trail type="leag.pof.riverlands.flowers.4" trailData="Data/PoF/Flowers for Jimoh 4.trl"/>
+        <Trail type="leag.pof.riverlands.flowers.5" trailData="Data/PoF/Flowers for Jimoh 5.trl"/>
+        <Trail type="leag.pof.riverlands.flowers.6" trailData="Data/PoF/Flowers for Jimoh 6.trl"/>
+        <Trail type="leag.pof.riverlands.flowers.7" trailData="Data/PoF/Flowers for Jimoh 7.trl"/>
+        <POI MapID="1228" xpos="195.053" ypos="33.6567" zpos="84.2164" type="leag.pof.riverlands.flowers.start" GUID="gAjlR68i20KW70farP62gQ=="/>
+        <POI MapID="1228" xpos="473.397" ypos="4.84709" zpos="41.092" type="leag.pof.riverlands.flowers.talk" GUID="w+VR4GjPfUmAWEhfTI6rpw=="/>
+        <POI MapID="1228" xpos="384.534" ypos="58.7023" zpos="231.974" type="leag.pof.riverlands.flowers.talk" GUID="Oc4zFqOBmEed+huqsTvLpA=="/>
+        <POI MapID="1228" xpos="471.741" ypos="4.91669" zpos="44.2462" type="leag.pof.riverlands.flowers.1" GUID="edSTC9hnQECB1HG5t9kY9w=="/>
+        <POI MapID="1228" xpos="386.922" ypos="58.7078" zpos="229.402" type="leag.pof.riverlands.flowers.2" GUID="PLtvCgj/vEu3VKB2mg2w3w=="/>
+        <POI MapID="1228" xpos="473.969" ypos="5.11215" zpos="45.0616" type="leag.pof.riverlands.flowers.3" GUID="vSP/0oxRhESF2dosS3QANA=="/>
+        <POI MapID="1228" xpos="362.451" ypos="78.0955" zpos="462.323" type="leag.pof.riverlands.flowers.4" GUID="OdrfMwGty0O9sF/QcPcU1w=="/>
+        <POI MapID="1228" xpos="199.761" ypos="33.6567" zpos="94.3599" type="leag.pof.riverlands.flowers.5" GUID="XwU0v29sqEqgWcq21C4IhA=="/>
+        <POI MapID="1228" xpos="382.973" ypos="58.6598" zpos="236.994" type="leag.pof.riverlands.flowers.wp" GUID="mRrQiIWZRE6cpTzlqLrdvg==" copy="[&BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
+        <POI MapID="1228" xpos="-196.289" ypos="25.5877" zpos="26.0273" type="leag.pof.riverlands.flowers.wp" GUID="X18ZsYPF2E68OCZ8KyBmvw==" info="DEFEAT the Awakened Exile and then TALK to them&#xA;&#xA;RETURN to Jimoh" infoRange="5"/>
+
+
+        <!-- Forgotten Debris -->
+        <Trail type="leag.pof.riverlands.debris.1" trailData="Data/PoF/Forgotten Debris 1.trl"/>
+        <Trail type="leag.pof.riverlands.debris.2" trailData="Data/PoF/Forgotten Debris 2.trl"/>
+        <Trail type="leag.pof.riverlands.debris.3" trailData="Data/PoF/Forgotten Debris 3.trl"/>
+        <Trail type="leag.pof.riverlands.debris.4" trailData="Data/PoF/Forgotten Debris 4.trl"/>
+        <Trail type="leag.pof.riverlands.debris.5" trailData="Data/PoF/Forgotten Debris 5.trl"/>
+        <Trail type="leag.pof.riverlands.debris.6" trailData="Data/PoF/Forgotten Debris 6.trl"/>
+        <Trail type="leag.pof.riverlands.debris.7" trailData="Data/PoF/Forgotten Debris 7a.trl"/>
+        <Trail type="leag.pof.riverlands.debris.7" trailData="Data/PoF/Forgotten Debris 7b.trl"/>
+        <POI MapID="1228" xpos="983.6307" ypos="48.18036" zpos="430.5462" type="leag.pof.riverlands.augury" GUID="dTn9BrPJ1E+ECnNKjKaL1A==" iconFile="Data/Images/Icons/Portal.png" inGameVisibility="0" mapDisplaySize="24"/>
+        <POI MapID="1228" xpos="627.467" ypos="88.6904" zpos="564.989" type="leag.pof.riverlands.debris.start" GUID="5yWQUeG3Gkuhbhfvw3U+AA=="/>
+        <POI MapID="1228" xpos="638.945" ypos="86.7757" zpos="580.506" type="leag.pof.riverlands.debris.1" GUID="Yy/K6tOz+EieId/2QrO/pg=="/>
+        <POI MapID="1228" xpos="639.211" ypos="86.9993" zpos="573.588" type="leag.pof.riverlands.debris.2" GUID="xnKZLqBcLkeRCy+GfxNIXQ=="/>
+        <POI MapID="1228" xpos="206.896" ypos="33.8837" zpos="95.8964" type="leag.pof.riverlands.debris.3" GUID="ayTD3PmZoE6xQV62QF4CNg=="/>
+        <POI MapID="1228" xpos="197.454" ypos="33.6568" zpos="100.453" type="leag.pof.riverlands.debris.4" GUID="bIsmVQrWGUeTDeShTyz16Q=="/>
+        <POI MapID="1228" xpos="-565.853" ypos="4.58174" zpos="-12.7303" type="leag.pof.riverlands.debris.5" GUID="/dAcnsHCmkK7I8ODrzzHKw=="/>
+        <POI MapID="1228" xpos="-577.933" ypos="4.61039" zpos="-15.4167" type="leag.pof.riverlands.debris.6" GUID="5PxSZvNNukOdhYenY2JdwA=="/>
+        <POI MapID="1228" xpos="660.719" ypos="86.5938" zpos="600.47" type="leag.pof.riverlands.debris.7" GUID="23lL5T14lESfEHUJAXmRJQ=="/>
+        <POI MapID="1228" xpos="1009.775" ypos="83.81512" zpos="958.9052" type="leag.pof.riverlands.debris.wp" GUID="9ztf5c/eAUmV0Y2wSCo8KQ==" copy="[&BFMKAAA=]" copy-message="Augury's Shadow Waypoint"/>
+        <POI MapID="1228" xpos="936.593" ypos="11.0128" zpos="2.58182" type="leag.pof.riverlands.debris.wp" GUID="QtIW04Oe6USw2+jacvoWdA==" copy="[&BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
+        <POI MapID="1228" xpos="235.21" ypos="-74.8965" zpos="35.1952" type="leag.pof.riverlands.debris.wp" GUID="pTUVd8SgoEOd2SCJdfM3BA==" copy="[&BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
+        <POI MapID="1228" xpos="-806.664" ypos="21.8516" zpos="352.937" type="leag.pof.riverlands.debris.wp" GUID="4MYLB8IuVUuInbnE+iOjmA=="/>
+        <POI MapID="1228" xpos="-413.832" ypos="4.47673" zpos="165.097" type="leag.pof.riverlands.debris.wp" GUID="UQ4L8S5IPkiFQXoe3e2JFA=="/>
+        
+        
+
+
+        <!-- Frequent Forgotten Teleporter -->
+        <Trail type="leag.pof.riverlands.teleporter" trailData="Data/PoF/Frequent Forgotten Teleporter 1.trl" inGameVisibility="1" mapDisplaySize="8"/>
+        <Trail type="leag.pof.riverlands.teleporter" trailData="Data/PoF/Frequent Forgotten Teleporter 2.trl" inGameVisibility="1" mapDisplaySize="8"/>
+        <POI MapID="1228" xpos="195.053" ypos="33.6567" zpos="84.2164" type="leag.pof.riverlands.teleporter.start" GUID="w/N6a7nDsUuJO8hCKeyEpw=="/>
+        <POI MapID="1228" xpos="-247.3108" ypos="80.03384" zpos="459.0305" type="leag.pof.riverlands.teleporter.wp" GUID="M0zseokOoEaAatMTu4P3kg==" copy="[&BFMKAAA=]" copy-message="Augury's Shadow Waypoint"/>
+        <POI MapID="1228" xpos="138.598" ypos="115.671" zpos="681.992" type="leag.pof.riverlands.teleporter.augury" GUID="p6yyrXeF9UKH4AISiGzw5g=="/>
+        <POI MapID="1228" xpos="-128.927" ypos="23.1653" zpos="-203.063" type="leag.pof.riverlands.teleporter.east" GUID="F4dCC6Bg30WPer6+8P/vDQ=="/>
+        <POI MapID="1228" xpos="-201.38" ypos="47.5088" zpos="-263.436" type="leag.pof.riverlands.teleporter.west" GUID="b3ArzrketU+Tx+yYQ106Ag=="/>
+        <POI MapID="1228" xpos="-198.438" ypos="27.3004" zpos="417.324" type="leag.pof.riverlands.teleporter.quickmire" GUID="PTtaEx5Qx0y14zrHmYGiug=="/>
+        <POI MapID="1228" xpos="923.889" ypos="68.6393" zpos="287.011" type="leag.pof.riverlands.teleporter.north" GUID="y3nHvEXsc0+xvkKo/r0GLA=="/>
+        <POI MapID="1228" xpos="948.122" ypos="52.182" zpos="355.671" type="leag.pof.riverlands.teleporter.south" GUID="yO++f9j9AkaHJNct6F7ZpQ=="/>
+        <POI MapID="1228" xpos="948.176" ypos="52.1823" zpos="355.836" type="leag.pof.riverlands.teleporter.north" GUID="Htz90aLthE68fDXZ1qbcEw=="/>
+        <POI MapID="1228" xpos="924.182" ypos="68.639" zpos="287.467" type="leag.pof.riverlands.teleporter.south" GUID="LYngRQYEIUW8G/m6LYj+NQ=="/>
+        <POI MapID="1228" xpos="1012.99" ypos="15.4323" zpos="-82.0659" type="leag.pof.riverlands.teleporter.grotto" GUID="bMz7mw5P90O2TBHxOSdnVg=="/>
+
+        <!-- Ghostly Trio -->
+        <Trail type="leag.pof.riverlands.trio" trailData="Data/PoF/Ghostly Trio.trl"/>
+
+        <!-- Lost Lore of Elon Riverlands -->
+        <Trail type="leag.pof.riverlands.lloer" trailData="Data/PoF/Lost Lore of Elon Riverlands 1a.trl"/>
+        <Trail type="leag.pof.riverlands.lloer" trailData="Data/PoF/Lost Lore of Elon Riverlands 1b.trl"/>
+        <Trail type="leag.pof.riverlands.lloer" trailData="Data/PoF/Lost Lore of Elon Riverlands 2.trl"/>
+        <Trail type="leag.pof.riverlands.lloer" trailData="Data/PoF/Lost Lore of Elon Riverlands 3.trl"/>
+        <POI MapID="1228" xpos="983.6307" ypos="48.18036" zpos="430.5462" type="leag.pof.riverlands.lloer" GUID="0+/XGP9Zb0iLt6WHF6YMuw==" iconFile="Data/Images/Icons/Portal.png" inGameVisibility="0" mapDisplaySize="24"/>
+
+        <!-- Magic Hunter [H] -->
+        <Trail type="leag.pof.riverlands.magic.1" trailData="Data/PoF/Magic Hunter 1.trl" color="99ccff"/>
+        <Trail type="leag.pof.riverlands.magic.2" trailData="Data/PoF/Magic Hunter 2.trl" color="99ccff"/>
+        <Trail type="leag.pof.riverlands.magic.3" trailData="Data/PoF/Magic Hunter 3.trl" color="99ccff"/>
+        <Trail type="leag.pof.riverlands.magic.4" trailData="Data/PoF/Magic Hunter 4.trl" color="99ccff"/>
+        <POI MapID="1228" xpos="-579.516" ypos="3.59626" zpos="-23.9084" type="leag.pof.riverlands.magic.start" GUID="0VpafQTF5EaJNzK5lDlugg=="/>
+        <POI MapID="1228" xpos="-962.132" ypos="111.495" zpos="841.782" type="leag.pof.riverlands.magic.wp" GUID="TbuudCHYZ0i+msT01md6Ng==" copy="[&BGcKAAA=]" copy-message="Skimmer Ranch Waypoint"/>
+        <POI MapID="1228" xpos="557.963" ypos="91.9665" zpos="768.851" type="leag.pof.riverlands.magic.wp" GUID="YGAHcBqhiUqRU0hhejhhvA==" copy="[&BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
+        <POI MapID="1228" xpos="954.086" ypos="1.46626" zpos="-863.541" type="leag.pof.riverlands.magic.wp" GUID="4KSTAVkTTEi2xH5reFlLdQ==" copy="[&BGcKAAA=]" copy-message="Skimmer Ranch Waypoint"/>
+        <POI MapID="1228" xpos="-578.877" ypos="4.92001" zpos="-13.3957" type="leag.pof.riverlands.magic.1" GUID="DssBhCrDhUyt5w3ryqTq/A=="/>
+        <POI MapID="1228" xpos="-566.597" ypos="4.59097" zpos="-12.8067" type="leag.pof.riverlands.magic.2" GUID="NhnLk7Kd4UCDWhg3PoyxBA=="/>
+        <POI MapID="1228" xpos="205.304" ypos="33.7529" zpos="94.4599" type="leag.pof.riverlands.magic.3" GUID="Q8lnFnJULUeuocUaf8v6yw=="/>
+        <POI MapID="1228" xpos="-578.078" ypos="4.60305" zpos="-15.4946" type="leag.pof.riverlands.magic.4" GUID="k+WeZXoAHUi6OZVuIU8eZQ=="/>
+
+
+
     </POIs>
 </OverlayData>
