@@ -355,6 +355,127 @@
             </MarkerCategory>
 
             <MarkerCategory name="desolation" DisplayName="The Desolation">
+
+                <!-- A Family's Sacrifice [H] -->
+
+                <!-- A Redeemer's Friend - Requires: Shadow Patroller -->
+                <!--
+                <MarkerCategory name="redeemer" DisplayName="A Redeemer's Friend" achievementId="3771" iconFile="Data/Images/Icons/Talk.png" heightOffset="4.0"/>
+                -->
+
+                <!-- A Soaring Stench -->
+                <MarkerCategory name="stench" DisplayName="A Soaring Stench" achievementId="3670">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+
+                    <MarkerCategory name="air" DisplayName="Glider / Flying Mount">
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        </MarkerCategory>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="land" DisplayName="No Glider / Flying Mount">
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                            <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        </MarkerCategory>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <!-- Acrid Springs Recovery -->
+                <MarkerCategory name="acrid" DisplayName="Acrid Springs Recovery" achievementId="3759">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
+                <!-- Bone Palace Pinnacle -->
+                <MarkerCategory name="pinnacle" DisplayName="Bone Palace Pinnacle" achievementId="3804">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
+                <!-- Cleansing Tormented Remnants -->
+                <MarkerCategory name="ctr" DisplayName="Cleansing Tormented Remnants" achievementId="3683">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="remnant" DisplayName="Toggle Remnant Markers" iconFile="Data/Images/Flame - Purple.png" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
+                </MarkerCategory>
+
+                <!-- Dance Till You Drop [H] -->
+                <MarkerCategory name="dance" DisplayName="Dance Till You Drop [H]" achievementId="3587" iconFile="Data/Images/Emote - Dance.png" fadeNear="1200" fadeFar="2400" heightOffset="4.0"/>
+
+                <!-- Honoring the Fallen -->
+                <MarkerCategory name="fallen" DisplayName="Honoring the Fallen" achievementId="3728" iconFile="Data/Images/Emote - Bow.png" fadeNear="1200" fadeFar="2400" mapDisplaySize="8"/>
+
+                <!-- Joko's Hidden Chamber -->
+                <MarkerCategory name="jhc" DisplayName="Joko's Hidden Chamber" achievementId="3637" mapDisplaySize="8">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Event Marker" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
+                <!-- Lost Lore of the Desolation -->
+                <MarkerCategory name="llotd" DisplayName="Lost Lore of the Desolation" achievementId="3633">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
+                </MarkerCategory>
+
+                <!-- Path of the Gods -->
+                <MarkerCategory name="potg" DisplayName="Path of the Gods" achievementId="3593">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="emote" DisplayName="Toggle Kneel Marker" iconFile="Data/Images/Emote - Kneel.png" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" mapDisplaySize="8"/>
+                </MarkerCategory>
+
+                <!-- Shadow Patroller -->
+                <MarkerCategory name="patroller" DisplayName="Shadow Patroller" achievementId="3677">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="event" DisplayName="Toggle Event Marker" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
+                <!-- Shadows Provisions -->
+                <MarkerCategory name="provisions" DisplayName="Shadows Provisions" achievementId="3737">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="5" DisplayName="Four" iconFile="Data/Images/Numbers/5.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="6" DisplayName="Four" iconFile="Data/Images/Numbers/6.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="7" DisplayName="Four" iconFile="Data/Images/Numbers/7.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="8" DisplayName="Four" iconFile="Data/Images/Numbers/8.png" mapDisplaySize="8"/>
+                </MarkerCategory>
+
+                <!-- Sulfur Shooter -->
+                <MarkerCategory name="shooter" DisplayName="Sulfur Shooter" achievementId="3857" iconFile="Data/Images/Icons/Talk.png" heightOffset="4.0" mapDisplaySize="8"/>
+
+                <!-- The Throne of Bones -->
+                <MarkerCategory name="throne" DisplayName="The Throne of Bones" achievementId="3720">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="emote" DisplayName="Toggle Sit Marker" iconFile="Data/Images/Emote - Sit.png" fadeNear="1200" fadeFar="2400"/>
+                </MarkerCategory>
+
             </MarkerCategory>
         </MarkerCategory>
 

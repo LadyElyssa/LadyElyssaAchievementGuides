@@ -123,6 +123,7 @@
         
 
         <!-- DESERT HIGHLANDS -->
+
         <!-- A Family Heirloom -->
         <Trail type="leag.pof.highlands.heirloom.1" trailData="Data/PoF/A Family Heirloom 1.trl"/>
         <Trail type="leag.pof.highlands.heirloom.2" trailData="Data/PoF/A Family Heirloom 2.trl"/>
@@ -208,7 +209,6 @@
         <POI MapID="1211" xpos="449.232" ypos="239.778" zpos="570.046" type="leag.pof.highlands.llodh.mount.springer" GUID="3VudlsVy10CdQOsjjxts/A=="/>
         <POI MapID="1211" xpos="914.637" ypos="187.976" zpos="357.458" type="leag.pof.highlands.llodh.mount.springer" GUID="L31ajxetTE6q6gpzcDHe8w=="/>
         
-
         <!-- Nap Time -->
         <POI MapID="1211" xpos="439.7832" ypos="154.8772" zpos="-340.5365" type="leag.pof.highlands.nap" GUID="3grMADii8Uq0lnW3/qjSCQ=="/>
 
@@ -257,7 +257,6 @@
         <POI MapID="1211" xpos="-1055" ypos="232.228" zpos="111.519" type="leag.pof.highlands.rune.mount.springer" GUID="RrozzKML3k6aNlcvaAd6dQ=="/>
         <POI MapID="1211" xpos="-1102.83" ypos="210.851" zpos="137.395" type="leag.pof.highlands.rune.mount.raptor" GUID="QDk8DUPmFke9xCAAZLezYQ=="/>
         <POI MapID="1211" xpos="-1181.05" ypos="226.407" zpos="381.811" type="leag.pof.highlands.rune.mount.springer" GUID="tGX8shoS50iT/hu5I/ryXg=="/>
-
 
         <!-- The Curious Bowl -->
         <Trail type="leag.pof.highlands.bowl" trailData="Data/PoF/The Curious Bowl.trl" color="ffcc00"/>
@@ -459,7 +458,6 @@
         <POI MapID="1228" xpos="382.973" ypos="58.6598" zpos="236.994" type="leag.pof.riverlands.flowers.wp" GUID="mRrQiIWZRE6cpTzlqLrdvg==" copy="[&BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
         <POI MapID="1228" xpos="-196.289" ypos="25.5877" zpos="26.0273" type="leag.pof.riverlands.flowers.wp" GUID="X18ZsYPF2E68OCZ8KyBmvw==" info="DEFEAT the Awakened Exile and then TALK to them&#xA;&#xA;RETURN to Jimoh" infoRange="5"/>
 
-
         <!-- Forgotten Debris -->
         <Trail type="leag.pof.riverlands.debris.1" trailData="Data/PoF/Forgotten Debris 1.trl"/>
         <Trail type="leag.pof.riverlands.debris.2" trailData="Data/PoF/Forgotten Debris 2.trl"/>
@@ -523,6 +521,135 @@
         <POI MapID="1228" xpos="205.304" ypos="33.7529" zpos="94.4599" type="leag.pof.riverlands.magic.3" GUID="Q8lnFnJULUeuocUaf8v6yw=="/>
         <POI MapID="1228" xpos="-578.078" ypos="4.60305" zpos="-15.4946" type="leag.pof.riverlands.magic.4" GUID="k+WeZXoAHUi6OZVuIU8eZQ=="/>
 
+
+        <!-- THE DESOLATION -->
+
+        <!-- A Family's Sacrifice [H] -->
+
+        <!-- A Redeemer's Friend - Requires: Shadow Patroller -->
+
+        <!-- A Soaring Stench -->
+        <Trail type="leag.pof.desolation.stench.air" trailData="Data/PoF/A Soaring Stench - Glider.trl"/>
+        <POI MapID="1226" xpos="-521.935" ypos="278.211" zpos="136.881" type="leag.pof.desolation.stench.air.mount.springer" GUID="D/JoQ6jV2kyUVtRMamlVog=="/>
+        <POI MapID="1226" xpos="-782.964" ypos="256.938" zpos="120.669" type="leag.pof.desolation.stench.air.mount.springer" GUID="DeNVhXYbZUGln+ca+TRpXA=="/>
+        <POI MapID="1226" xpos="-791.7" ypos="353.085" zpos="143.625" type="leag.pof.desolation.stench.air.glider" GUID="4DIlUgLx/EaKHTopvgt/jQ=="/>
+        <Trail type="leag.pof.desolation.stench.land" trailData="Data/PoF/A Soaring Stench - No Glider.trl"/>
+        <POI MapID="1226" xpos="-521.935" ypos="278.211" zpos="136.881" type="leag.pof.desolation.stench.air.mount.springer" GUID="iY39n8cO702irn5lZDoxVQ=="/>
+        <POI MapID="1226" xpos="-782.964" ypos="256.938" zpos="120.669" type="leag.pof.desolation.stench.air.mount.springer" GUID="10n44PrROkeawtu0pmmKFA=="/>
+        <POI MapID="1226" xpos="-800.818" ypos="272.387" zpos="125.673" type="leag.pof.desolation.stench.land.mount.raptor" GUID="Xhr0OnuHiEaL4EV1RsS5Vw=="/>
+        <POI MapID="1226" xpos="-843.751" ypos="230.082" zpos="203.415" type="leag.pof.desolation.stench.land.mount.springer" GUID="HHzjVxybE0ih1ZxoEo4jmQ=="/>
+        <POI MapID="1226" xpos="-844.662" ypos="237.557" zpos="208.983" type="leag.pof.desolation.stench.land.mount.raptor" GUID="l2XqHws5702p4m5NUxOU/A=="/>
+        <POI MapID="1226" xpos="-863.17" ypos="238.886" zpos="251.284" type="leag.pof.desolation.stench.land.mount.springer" GUID="kLXSqjM70kmejI/X0DuH8A=="/>
+        <POI MapID="1226" xpos="-894.239" ypos="311.525" zpos="262.507" type="leag.pof.desolation.stench.land.mount.raptor" GUID="pRTkbsuK3Uu933T6pCSVbQ=="/>
+
+        <!-- Acrid Springs Recovery -->
+        <Trail type="leag.pof.desolation.acrid" trailData="Data/PoF/Acrid Springs Recovery.trl"/>
+        <POI MapID="1226" xpos="23.0032" ypos="0.738206" zpos="1416.28" type="leag.pof.desolation.acrid.start" GUID="jf3JK99ZwkSl7FX5aOBiBA=="/>
+
+        <!-- Bone Palace Pinnacle -->
+        <Trail type="leag.pof.desolation.pinnacle" trailData="Data/PoF/Bone Palace Pinnacle.trl"/>
+        <POI MapID="1226" xpos="514.644" ypos="258.481" zpos="-962.453" type="leag.pof.desolation.pinnacle.start" GUID="BNTNh8btXUOQLQp1M9RtjQ=="/>
+
+        <!-- Cleansing Tormented Remnants -->
+        <Trail type="leag.pof.desolation.ctr" trailData="Data/PoF/Cleansing Tormented Remnants.trl" color="CAA6FF"/>
+        <POI MapID="1226" xpos="841.254" ypos="266.392" zpos="-248.202" type="leag.pof.desolation.ctr.start" GUID="r+hnuc0mlEa8Tz0Avg77yQ=="/>
+        <POI MapID="1226" xpos="1026.93" ypos="266.974" zpos="184.403" type="leag.pof.desolation.ctr.remnant" GUID="hRTYPhw0ckazhFoOKcCXWQ=="/>
+        <POI MapID="1226" xpos="822.773" ypos="299.912" zpos="231.913" type="leag.pof.desolation.ctr.remnant" GUID="UJpWrc6cDEeuZQhoC67B8A=="/>
+        <POI MapID="1226" xpos="878.886" ypos="257.577" zpos="300.253" type="leag.pof.desolation.ctr.remnant" GUID="gSKCuLeemEmE8MX1l2wVrw=="/>
+        <POI MapID="1226" xpos="839.159" ypos="281.721" zpos="355.868" type="leag.pof.desolation.ctr.remnant" GUID="u3thZrGAjUuXpOHLd9pq8w=="/>
+        <POI MapID="1226" xpos="727.991" ypos="294.817" zpos="267.817" type="leag.pof.desolation.ctr.remnant" GUID="m7GXo9SjH06ZLRuqXqk8+w=="/>
+        <POI MapID="1226" xpos="628.442" ypos="258.089" zpos="307.499" type="leag.pof.desolation.ctr.remnant" GUID="WHArEEWfrUC0lFjliQMdJQ=="/>
+        <POI MapID="1226" xpos="558.597" ypos="273.905" zpos="108.51" type="leag.pof.desolation.ctr.remnant" GUID="ZPshQZJyk0yE0W5SkLMYJw=="/>
+        <POI MapID="1226" xpos="483.795" ypos="262.513" zpos="136.65" type="leag.pof.desolation.ctr.remnant" GUID="OjU+j1e2RkWKOXxdMojzrw=="/>
+        <POI MapID="1226" xpos="491.994" ypos="257.252" zpos="328.107" type="leag.pof.desolation.ctr.remnant" GUID="CjD/FjT8Dk6bnBANNAES0g=="/>
+        <POI MapID="1226" xpos="533.268" ypos="264.223" zpos="447.413" type="leag.pof.desolation.ctr.remnant" GUID="zXExTFNhZE6hdyuRSJWc0g=="/>
+        <POI MapID="1226" xpos="521.834" ypos="301.181" zpos="557.455" type="leag.pof.desolation.ctr.remnant" GUID="fCDgn88yXke3TSb+Y49ofw=="/>
+        <POI MapID="1226" xpos="627.17" ypos="253.535" zpos="456.845" type="leag.pof.desolation.ctr.remnant" GUID="SHFXiU2udkuOp8fgxye1eQ=="/>
+        <POI MapID="1226" xpos="701.035" ypos="275.382" zpos="427.972" type="leag.pof.desolation.ctr.remnant" GUID="ZOruZIJ8gkatjqZ9R0uJQQ=="/>
+        <POI MapID="1226" xpos="859.323" ypos="253.52" zpos="501.661" type="leag.pof.desolation.ctr.remnant" GUID="ry2cM2sbS0eMPbd4AEfqjw=="/>
+        <POI MapID="1226" xpos="807.488" ypos="286.419" zpos="582.723" type="leag.pof.desolation.ctr.remnant" GUID="IjXWcjIzHEG6J0bU2Svgvw=="/>
+
+        <!-- Dance Till You Drop [H] -->
+        <POI MapID="1226" xpos="1056.2" ypos="53.6984" zpos="1449.05" type="leag.pof.desolation.dance" GUID="/HVmaIjiE0O8bFaKDsv1AA=="/>
+
+        <!-- Honoring the Fallen -->
+        <Trail type="leag.pof.desolation.fallen" trailData="Data/PoF/Honoring the Fallen.trl"/>
+        <POI MapID="1226" xpos="-628.938" ypos="297.85" zpos="290.238" type="leag.pof.desolation.fallen" GUID="PWsKILhDbEyZi6s7cByGqg=="/>
+
+        <!-- Joko's Hidden Chamber -->
+        <Trail type="leag.pof.desolation.jhc" trailData="Data/PoF/Joko's Hidden Chamber.trl"/>
+        <POI MapID="1226" xpos="893.322" ypos="253.472" zpos="-198.335" type="leag.pof.desolation.jhc.start" GUID="A7q+Qspy4kCwteRmGVdPCw=="/>
+
+        <!-- Lost Lore of the Desolation -->
+        <Trail type="leag.pof.desolation.llotd" trailData="Data/PoF/Lost Lore of The Desolation 1.trl"/>
+        <Trail type="leag.pof.desolation.llotd" trailData="Data/PoF/Lost Lore of The Desolation 2.trl"/>
+        <Trail type="leag.pof.desolation.llotd" trailData="Data/PoF/Lost Lore of The Desolation 3.trl"/>
+        <Trail type="leag.pof.desolation.llotd" trailData="Data/PoF/Lost Lore of The Desolation 4.trl"/>
+        <Trail type="leag.pof.desolation.llotd" trailData="Data/PoF/Lost Lore of The Desolation 5.trl"/>
+        <Trail type="leag.pof.desolation.llotd" trailData="Data/PoF/Lost Lore of The Desolation 6.trl"/>
+        <POI MapID="1226" xpos="23.0032" ypos="0.738206" zpos="1416.28" type="leag.pof.desolation.llotd.start" GUID="AU9fmWORMU2C5kqIjBb9gw=="/>
+        <POI MapID="1226" xpos="934.478" ypos="200.962" zpos="947.004" type="leag.pof.desolation.llotd.wp" GUID="tCvliuU1AEKcfiK9cnf1SQ==" copy="[&BNwKAAA=]" copy-message="Bonestrand Waypoint"/>
+        <POI MapID="1226" xpos="-927.348" ypos="86.6652" zpos="794.832" type="leag.pof.desolation.llotd.wp" GUID="LsnS02udr0q01rLn4TCoDg==" copy="[&BKMKAAA=]" copy-message="The Darklands Waypoint"/>
+        <POI MapID="1226" xpos="-120.661" ypos="207.398" zpos="57.4503" type="leag.pof.desolation.llotd.wp" GUID="AxRfBndoo0afzVeNYprWQA==" copy="[&BMEKAAA=]" copy-message="Lair of the Forgotten Waypoint"/>
+        <POI MapID="1226" xpos="774.999" ypos="294.486" zpos="-459.42" type="leag.pof.desolation.llotd.wp" GUID="J/6qLpW50kOcHB2xqOPAIw==" copy="[&BAsKAAA=]" copy-message="Joko's Domain Waypoint"/>
+        <POI MapID="1226" xpos="335.705" ypos="291.21" zpos="-956.002" type="leag.pof.desolation.llotd.wp" GUID="oH/q/WpIskubqokYYT2F3g==" copy="[&BHcKAAA=]" copy-message="Sand Jackal Run Waypoint"/>
+        <POI MapID="1226" xpos="33.5561" ypos="0.700136" zpos="1425.65" type="leag.pof.desolation.llotd.1" GUID="3hrTLIQNzEqwAinjal5lkg=="/>
+        <POI MapID="1226" xpos="24.1372" ypos="0.701656" zpos="1430.95" type="leag.pof.desolation.llotd.2" GUID="7443kNCHZEyF4KjkgQ5RCg=="/>
+
+        <!-- Path of the Gods -->
+        <Trail type="leag.pof.desolation.potg.1" trailData="Data/PoF/Path of the Gods 1.trl"/>
+        <Trail type="leag.pof.desolation.potg.2" trailData="Data/PoF/Path of the Gods 2.trl"/>
+        <Trail type="leag.pof.desolation.potg.3" trailData="Data/PoF/Path of the Gods 3.trl"/>
+        <Trail type="leag.pof.desolation.potg.4" trailData="Data/PoF/Path of the Gods 4.trl"/>
+        <Trail type="leag.pof.desolation.potg.5" trailData="Data/PoF/Path of the Gods 5.trl"/>
+        <POI MapID="1226" xpos="23.0032" ypos="0.738206" zpos="1416.28" type="leag.pof.desolation.potg.start" GUID="vwA910grekiu9bRF64kD/A=="/>
+        <POI MapID="1226" xpos="1051.79" ypos="53.6739" zpos="1449.77" type="leag.pof.desolation.potg.wp" GUID="sZH0UtEuMkmzyvXzy5b57g==" copy="[&BNwKAAA=]" copy-message="Bonestrand Waypoint"/>
+        <POI MapID="1226" xpos="-644.493" ypos="0.095579" zpos="1387.67" type="leag.pof.desolation.potg.wp" GUID="VkRH8vUqo0mFQQa4g7zfpQ==" copy="[&BHMKAAA=]" copy-message="The Scourgeway Waypoint"/>
+        <POI MapID="1226" xpos="437.734" ypos="272.569" zpos="436.7" type="leag.pof.desolation.potg.wp" GUID="xT5Czt203EGPjv9RMLNEXg==" copy="[&BHMKAAA=]" copy-message="The Scourgeway Waypoint"/>
+        <POI MapID="1226" xpos="-56.4526" ypos="265.163" zpos="9.38916" type="leag.pof.desolation.potg.wp" GUID="YeZVdrT4ZEmJPci0dDE0rQ==" copy="[&BHcKAAA=]" copy-message="Sand Jackal Run Waypoint"/>
+        <POI MapID="1226" xpos="33.7815" ypos="0.144554" zpos="1432.37" type="leag.pof.desolation.potg.1" GUID="u0quUFPA4UCv3IW4uVkEcQ=="/>
+        <POI MapID="1226" xpos="735.395" ypos="23.6074" zpos="1521.92" type="leag.pof.desolation.potg.emote" GUID="JW0bwd0JSUyYz1AEt22KZw=="/>
+        <POI MapID="1226" xpos="1056.2" ypos="53.6984" zpos="1449.05" type="leag.pof.desolation.potg.emote" GUID="/HVmaIjiE0O8bFaKDsv1AA=="/>
+        <POI MapID="1226" xpos="-647.729" ypos="0.194782" zpos="1387.95" type="leag.pof.desolation.potg.emote" GUID="68vfg0jF202JtZiHiAayag=="/>
+        <POI MapID="1226" xpos="437.454" ypos="272.638" zpos="438.885" type="leag.pof.desolation.potg.emote" GUID="mbjZFtObTku+kCwSuzrTFg=="/>
+        <POI MapID="1226" xpos="17.2445" ypos="273.866" zpos="201.411" type="leag.pof.desolation.potg.emote" GUID="I5pcba0vVkCkmc2TZ+Jlpw=="/>
+        <POI MapID="1226" xpos="-54.668" ypos="265.225" zpos="9.29547" type="leag.pof.desolation.potg.emote" GUID="MkZoC5X9okee+mINnFETnQ=="/>
+        <POI MapID="1226" xpos="-1033.35" ypos="268.893" zpos="-725.771" type="leag.pof.desolation.potg.emote" GUID="DjEaHMxutECamXH3A419KQ=="/>
+
+        <!-- Shadow Patroller -->
+        <POI MapID="1226" xpos="-435.676" ypos="284.587" zpos="53.6739" type="leag.pof.desolation.patroller.event" GUID="Frn9vCiPbkqsCzIBAOtYLw=="/>
+
+        <!-- Shadows Provisions -->
+        <Trail type="leag.pof.desolation.provisions.1" trailData="Data/PoF/Shadows Provisions 1 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.pof.desolation.provisions.1" trailData="Data/PoF/Shadows Provisions 1.trl"/>
+        <Trail type="leag.pof.desolation.provisions.2" trailData="Data/PoF/Shadows Provisions 2.trl"/>
+        <Trail type="leag.pof.desolation.provisions.3" trailData="Data/PoF/Shadows Provisions 3.trl"/>
+        <Trail type="leag.pof.desolation.provisions.4" trailData="Data/PoF/Shadows Provisions 4.trl"/>
+        <Trail type="leag.pof.desolation.provisions.5" trailData="Data/PoF/Shadows Provisions 5.trl"/>
+        <Trail type="leag.pof.desolation.provisions.6" trailData="Data/PoF/Shadows Provisions 6.trl"/>
+        <Trail type="leag.pof.desolation.provisions.7" trailData="Data/PoF/Shadows Provisions 7.trl"/>
+        <Trail type="leag.pof.desolation.provisions.8" trailData="Data/PoF/Shadows Provisions 8.trl"/>
+        <POI MapID="1226" xpos="23.0032" ypos="0.738206" zpos="1416.28" type="leag.pof.desolation.provisions.start" GUID="L3LegyvDs0255IMBDzKn1w=="/>
+        <POI MapID="1226" xpos="26.6878" ypos="1.02944" zpos="1426.4" type="leag.pof.desolation.provisions.1" GUID="wRYUGihaAUeEveXGwIoI4Q=="/>
+        <POI MapID="1226" xpos="34.8771" ypos="0.414081" zpos="1432.55" type="leag.pof.desolation.provisions.2" GUID="0R98Ae0UpkSRoy+1bgaRQA=="/>
+        <POI MapID="1226" xpos="441.114" ypos="158.265" zpos="872.455" type="leag.pof.desolation.provisions.wp" GUID="6RlcOgje10mgexAhNyyx6w==" copy="[&BNwKAAA=]" copy-message="Bonestrand Waypoint"/>
+        <POI MapID="1226" xpos="548.99" ypos="264.629" zpos="444.115" type="leag.pof.desolation.provisions.wp" GUID="JSACg7uiyE6MGgar6bz5QQ==" copy="[&BHMKAAA=]" copy-message="The Scourgeway Waypoint"/>
+        <POI MapID="1226" xpos="-644.944" ypos="50.2993" zpos="928.315" type="leag.pof.desolation.provisions.wp" GUID="Oqq4/UoN6k+YZrT//I+z9A==" copy="[&BMEKAAA=]" copy-message="Lair of the Forgotten Waypoint"/>
+        <POI MapID="1226" xpos="1047.84" ypos="305.063" zpos="-279.993" type="leag.pof.desolation.provisions.wp" GUID="kQ4aZ4C+kEy0bruQxgHiJw==" copy="[&BAsKAAA=]" copy-message="Joko's Domain Waypoint"/>
+        <POI MapID="1226" xpos="289.578" ypos="407.503" zpos="-1348.08" type="leag.pof.desolation.provisions.wp" GUID="dDVU4egXCkyVWNDVO8RwnA==" copy="[&BHcKAAA=]" copy-message="Sand Jackal Run Waypoint"/>
+        <POI MapID="1226" xpos="-73.8264" ypos="266.564" zpos="-572.932" type="leag.pof.desolation.provisions.wp" GUID="FPiiApnl6ka6C3n5LP++rA==" copy="[&BHcKAAA=]" copy-message="Sand Jackal Run Waypoint"/>
+        <POI MapID="1226" xpos="525.452" ypos="258.24" zpos="-949.766" type="leag.pof.desolation.provisions.1" GUID="2VW8g+V/ukKiGmrdzw45+w=="/>
+        <POI MapID="1226" xpos="517.317" ypos="258.473" zpos="-952.234" type="leag.pof.desolation.provisions.2" GUID="bKmLB8kIlUmiS3ykkIex+g=="/>
+        <POI MapID="1226" xpos="-548.669" ypos="239.049" zpos="-1206.9" type="leag.pof.desolation.provisions.1" GUID="fsQGduYio06Gx1FaDIFxeQ=="/>
+        <POI MapID="1226" xpos="-558.7543" ypos="237.8601" zpos="-1206.342" type="leag.pof.desolation.provisions.2" GUID="/RTqCcnUcEa6lrOEMVnZng=="/>
+
+        <!-- Sulfur Shooter -->
+        <Trail type="leag.pof.desolation.shooter" trailData="Data/PoF/Sulfur Shooter.trl"/>
+
+        <!-- The Throne of Bones -->
+        <Trail type="leag.pof.desolation.throne" trailData="Data/PoF/The Throne of Bones.trl"/>
+        <POI MapID="1226" xpos="514.644" ypos="258.481" zpos="-962.453" type="leag.pof.desolation.throne.start" GUID="qORmMrstQ0uBx9HIZKcbUw=="/>
+        <POI MapID="1226" xpos="311.7916" ypos="278.9751" zpos="-1359.899" type="leag.pof.desolation.throne.emote" GUID="jKEO/dhziEacLc7anqNrOA=="/>
 
 
     </POIs>
