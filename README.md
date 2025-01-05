@@ -30,7 +30,9 @@ This pack currently covers:
 * Story Achievements
 * Crystal Oasis
 * Desert Highlands
-* More Map achievements to follow...
+* Elon Riverlands
+* The Desolation
+* Domain of Vabbi
 
 ## End of Dragons ##
 * Story Achievements
