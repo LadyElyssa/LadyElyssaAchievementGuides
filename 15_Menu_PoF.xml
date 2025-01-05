@@ -244,13 +244,90 @@
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
                 </MarkerCategory>
-
-
-
             </MarkerCategory>
 
+
+            <!-- Domain of Vabbi -->
             <MarkerCategory name="vabbi" DisplayName="Domain of Vabbi">
+
+                <!-- Court is Adjourned -->
+                <MarkerCategory name="court" DisplayName="Court is Adjourned" achievementId="3824">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" maxSize="16" mapDisplaySize="128" inGameVisibility="0"/>
+                    <MarkerCategory name="judges" IsSeparator="1" DisplayName="JUDGES"/>
+                    <MarkerCategory name="ejele" DisplayName="High Judge Ejele" iconFile="Data/Images/Swirl - Purple.png" maxSize="16" mapDisplaySize="64" inGameVisibility="0"/>
+                    <MarkerCategory name="kulul" DisplayName="High Judge Kulul" iconFile="Data/Images/Swirl - Orange.png" maxSize="16" mapDisplaySize="64" inGameVisibility="0"/>
+                    <MarkerCategory name="sidan" DisplayName="High Judge Sidan" iconFile="Data/Images/Swirl - Golden.png" maxSize="16" mapDisplaySize="64" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <!-- Dispersed Energy -->
+                <MarkerCategory name="energy" DisplayName="Dispersed Energy" achievementId="3928" mapDisplaySize="8">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <!-- Dogs of War -->
+                <MarkerCategory name="dogs" DisplayName="Dogs of War" achievementId="3809">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" maxSize="16" mapDisplaySize="128" inGameVisibility="0"/>
+                </MarkerCategory>
+
+
+                <!-- Lost Lore of the Domain of Vabbi -->
+                <MarkerCategory name="llotdov" DisplayName="Lost Lore of the Domain of Vabbi" achievementId="3555">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
+                </MarkerCategory>
+
+                <!-- Praise Joko -->
+                <MarkerCategory name="joko" DisplayName="Praise Joko!" achievementId="3887">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="emote" DisplayName="Toggle Emote" iconFile="Data/Images/Emote - Bow.png"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <!-- Scourge Buster -->
+                <MarkerCategory name="scourge" DisplayName="Scourge Buster" achievementId="3732">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" mapDisplaySize="8"/>
+                </MarkerCategory>
+
             </MarkerCategory>
+
 
             <!-- Elon Riverlands -->
             <MarkerCategory name="riverlands" DisplayName="Elon Riverlands" mapDisplaySize="16">
@@ -460,10 +537,10 @@
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
                     <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" mapDisplaySize="8"/>
                     <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" mapDisplaySize="8"/>
-                    <MarkerCategory name="5" DisplayName="Four" iconFile="Data/Images/Numbers/5.png" mapDisplaySize="8"/>
-                    <MarkerCategory name="6" DisplayName="Four" iconFile="Data/Images/Numbers/6.png" mapDisplaySize="8"/>
-                    <MarkerCategory name="7" DisplayName="Four" iconFile="Data/Images/Numbers/7.png" mapDisplaySize="8"/>
-                    <MarkerCategory name="8" DisplayName="Four" iconFile="Data/Images/Numbers/8.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" mapDisplaySize="8"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" mapDisplaySize="8"/>
                 </MarkerCategory>
 
                 <!-- Sulfur Shooter -->
