@@ -570,7 +570,7 @@
         <POI MapID="1226" xpos="807.488" ypos="286.419" zpos="582.723" type="leag.pof.desolation.ctr.remnant" GUID="IjXWcjIzHEG6J0bU2Svgvw=="/>
 
         <!-- Dance Till You Drop [H] -->
-        <POI MapID="1226" xpos="1056.2" ypos="53.6984" zpos="1449.05" type="leag.pof.desolation.dance" GUID="/HVmaIjiE0O8bFaKDsv1AA=="/>
+        <POI MapID="1226" xpos="1056.2" ypos="53.6984" zpos="1449.05" type="leag.pof.desolation.dance" GUID="uJBFuX90G0i1pklL65IWIA=="/>
 
         <!-- Honoring the Fallen -->
         <Trail type="leag.pof.desolation.fallen" trailData="Data/PoF/Honoring the Fallen.trl"/>
@@ -651,6 +651,182 @@
         <POI MapID="1226" xpos="514.644" ypos="258.481" zpos="-962.453" type="leag.pof.desolation.throne.start" GUID="qORmMrstQ0uBx9HIZKcbUw=="/>
         <POI MapID="1226" xpos="311.7916" ypos="278.9751" zpos="-1359.899" type="leag.pof.desolation.throne.emote" GUID="jKEO/dhziEacLc7anqNrOA=="/>
 
+
+        <!-- DOMAIN OF VABBI -->
+
+        <!-- Court is Adjourned -->
+        <Trail type="leag.pof.vabbi.court" trailData="Data/PoF/Court is Adjourned.trl"/>
+        <POI MapID="1248" xpos="-576.895" ypos="114.085" zpos="-440.838" type="leag.pof.vabbi.court.start" GUID="ODNOQdZGmUi7LEV1YniWQQ=="/>
+        <POI MapID="1248" xpos="-936.538" ypos="179.072" zpos="-715.607" type="leag.pof.vabbi.court.sidan" GUID="ndTsqYJ/mUq3hVqAIZ1LEg=="/>
+        <POI MapID="1248" xpos="-867.665" ypos="180.763" zpos="-618.279" type="leag.pof.vabbi.court.event" GUID="Vvr3cQvoukmrIsWJ8mWZ6A=="/>
+        <POI MapID="1248" xpos="-867.665" ypos="180.763" zpos="-618.279" type="leag.pof.vabbi.court.ejele" GUID="cZPCHiGlf06vuI0nB2IRjw=="/>
+        <POI MapID="1248" xpos="-735.727" ypos="181.208" zpos="-672.843" type="leag.pof.vabbi.court.kulul" GUID="jvCS9FXFIki11i/DOUdB3g=="/>
+        
+
+        <!-- Dispersed Energy -->
+        <Trail type="leag.pof.vabbi.energy" trailData="Data/PoF/Dispersed Energy.trl" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="FE03FF"/>
+        <POI MapID="1248" xpos="803.715" ypos="142.294" zpos="41.9244" type="leag.pof.vabbi.energy.start" GUID="KsTeRS8uGUi9QdUmzWyl2A=="/>
+        <POI MapID="1248" xpos="816.196" ypos="142.423" zpos="59.3909" type="leag.pof.vabbi.energy.mount.skimmer" GUID="5ncUQ4nYaUqpPVyaY1Nb4w=="/>
+        <POI MapID="1248" xpos="1329.71" ypos="132.014" zpos="792.487" type="leag.pof.vabbi.energy.mount.skimmer" GUID="46pUifVdgUer3pvMPHP4qQ=="/>
+
+        <!-- Dogs of War -->
+        <Trail type="leag.pof.vabbi.dogs" trailData="Data/PoF/Dogs of War.trl"/>
+        <POI MapID="1248" xpos="-576.895" ypos="114.085" zpos="-440.838" type="leag.pof.vabbi.dogs.start" GUID="jLck8kI710yhwJy7bBxlXg=="/>
+        <POI MapID="1248" xpos="-1331.05" ypos="69.6762" zpos="-221.151" type="leag.pof.vabbi.dogs.event" GUID="FzWXcKl9h0yHgEJccBwjvw=="/>
+
+        <!-- Lost Lore of the Domain of Vabbi -->
+        <Trail type="leag.pof.vabbi.llotdov" trailData="Data/PoF/Lost Lore of the Domain of Vabbi 1.trl"/>
+        <Trail type="leag.pof.vabbi.llotdov" trailData="Data/PoF/Lost Lore of the Domain of Vabbi 2.trl"/>
+        <Trail type="leag.pof.vabbi.llotdov" trailData="Data/PoF/Lost Lore of the Domain of Vabbi 3.trl"/>
+        <Trail type="leag.pof.vabbi.llotdov" trailData="Data/PoF/Lost Lore of the Domain of Vabbi 4.trl"/>
+        <Trail type="leag.pof.vabbi.llotdov" trailData="Data/PoF/Lost Lore of the Domain of Vabbi 5.trl"/>
+        <Trail type="leag.pof.vabbi.llotdov" trailData="Data/PoF/Lost Lore of the Domain of Vabbi 6.trl"/>
+        <POI MapID="1248" xpos="-1075.54" ypos="139.356" zpos="421.982" type="leag.pof.vabbi.llotdov.start" GUID="R0o1HogykEWZOL8C9eGkHA=="/>
+        <POI MapID="1248" xpos="-1230.71" ypos="120.401" zpos="346.968" type="leag.pof.vabbi.llotdov.wp" GUID="L6hXCOzv20auZCZs4M8P6Q==" copy="[&BNAKAAA=]" copy-message="Seborhin Waypoint"/>
+        <POI MapID="1248" xpos="-744.393" ypos="217.922" zpos="497.746" type="leag.pof.vabbi.llotdov.wp" GUID="4MgvB0xIzkWtnX1Pm6leTA==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint"/>
+        <POI MapID="1248" xpos="-1459.84" ypos="313.684" zpos="-685.788" type="leag.pof.vabbi.llotdov.wp" GUID="tEPuO1mk6UOlcDW23LmibQ==" copy="[&BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
+        <POI MapID="1248" xpos="284.363" ypos="263.179" zpos="-93.9848" type="leag.pof.vabbi.llotdov.wp" GUID="MY7ACkT+hkek/OFmbDB37w==" copy="[&BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
+        <POI MapID="1248" xpos="807.625" ypos="142.294" zpos="47.0635" type="leag.pof.vabbi.llotdov.1" GUID="uVaBOokczky5zKbvM4pTmA=="/>
+        <POI MapID="1248" xpos="812.216" ypos="142.294" zpos="46.5977" type="leag.pof.vabbi.llotdov.2" GUID="KP+2DaV4VECubtBPDVYZDQ=="/>
+        <POI MapID="1248" xpos="-724.627" ypos="169.5" zpos="464.47" type="leag.pof.vabbi.llotdov.mount.springer" GUID="TSubvwXsnkOBEn88PFmt1Q=="/>
+        <POI MapID="1248" xpos="-723.445" ypos="170.356" zpos="417.312" type="leag.pof.vabbi.llotdov.mount.raptor" GUID="mQP1Lx1CTUGPp9VGTi/4aA=="/>
+        <POI MapID="1248" xpos="-682.255" ypos="138.541" zpos="375.058" type="leag.pof.vabbi.llotdov.mount.springer" GUID="AYxo6tUrbkOBHtDg13CnPA=="/>
+        <POI MapID="1248" xpos="-460.629" ypos="144.211" zpos="304.69" type="leag.pof.vabbi.llotdov.mount.springer" GUID="YyuxuNnru0KmaLNCdp7sGQ=="/>
+        <POI MapID="1248" xpos="-334.216" ypos="107.701" zpos="310.349" type="leag.pof.vabbi.llotdov.mount.springer" GUID="lBK+Kz/jI0WF8NOCc1aWJw=="/>
+        <POI MapID="1248" xpos="-1153.99" ypos="140.449" zpos="369.882" type="leag.pof.vabbi.llotdov.mount.jackal" GUID="8EgXYqrIRU6Oj2Aa1g5MNg=="/>
+        <POI MapID="1248" xpos="-1343.57" ypos="318.642" zpos="-799.995" type="leag.pof.vabbi.llotdov.mount.raptor" GUID="af2LcTl/iEy7oW0PYSzBYg=="/>
+        <POI MapID="1248" xpos="-1389.97" ypos="315.219" zpos="-825.759" type="leag.pof.vabbi.llotdov.mount.jackal" GUID="jRCdp0FyKESLCVYd/ANQsQ=="/>
+        <POI MapID="1248" xpos="-829.515" ypos="273.776" zpos="-808.865" type="leag.pof.vabbi.llotdov.mount.springer" GUID="cumPyzDGL02xlgPnJgQHPg=="/>
+        <POI MapID="1248" xpos="-823.638" ypos="312.388" zpos="-803.149" type="leag.pof.vabbi.llotdov.mount.raptor" GUID="SHCa0f86P0iwh3zaV/N5ow=="/>
+        <POI MapID="1248" xpos="-793.579" ypos="311.065" zpos="-821.102" type="leag.pof.vabbi.llotdov.mount.springer" GUID="5BgcZRU8xUSQtuTehjaTag=="/>
+        <POI MapID="1248" xpos="-761.552" ypos="360.606" zpos="-832.186" type="leag.pof.vabbi.llotdov.mount.griffon" GUID="Vnszo1ap50a09Moj8e09eA=="/>
+        <POI MapID="1248" xpos="732.251" ypos="194.125" zpos="4.38226" type="leag.pof.vabbi.llotdov.mount.springer" GUID="x+/ga+3kVEe6nWpZ2ahC9g=="/>
+        <POI MapID="1248" xpos="759.863" ypos="178.083" zpos="67.3096" type="leag.pof.vabbi.llotdov.mount.springer" GUID="HO1cXTgb/kKHVRYgy2N7EA=="/>
+        <POI MapID="1248" xpos="430.567" ypos="290.801" zpos="-40.5719" type="leag.pof.vabbi.llotdov.mount.griffon" GUID="B4EnqeDFdEGbOG/HFu1Nkg=="/>
+        <POI MapID="1248" xpos="1062.26" ypos="66.382" zpos="-571.068" type="leag.pof.vabbi.llotdov.mount.springer" GUID="l371nxWavU+TraEeLmybiA=="/>
+        <POI MapID="1248" xpos="1073.17" ypos="57.9637" zpos="-601.885" type="leag.pof.vabbi.llotdov.mount.jackal" GUID="jqBXy+WFvUyAKVasTv0Y/w=="/>
+        <POI MapID="1248" xpos="1245.14" ypos="54.9205" zpos="-637.836" type="leag.pof.vabbi.llotdov.mount.jackal" GUID="6enS5h/PbEGM+PXnm2CbEw=="/>
+
+        <!-- Praise Joko -->
+        <Trail type="leag.pof.vabbi.joko" trailData="Data/PoF/Praise Joko! 1.trl"/>
+        <Trail type="leag.pof.vabbi.joko" trailData="Data/PoF/Praise Joko! 2.trl"/>
+        <Trail type="leag.pof.vabbi.joko" trailData="Data/PoF/Praise Joko! 3.trl"/>
+        <Trail type="leag.pof.vabbi.joko" trailData="Data/PoF/Praise Joko! 4.trl"/>
+        <POI MapID="1248" xpos="-1075.54" ypos="139.356" zpos="421.982" type="leag.pof.vabbi.joko.start" GUID="4xavYdm0X0mBhTKd+uv3oQ=="/>
+        <POI MapID="1248" xpos="-1090.7" ypos="119.81" zpos="-187.45" type="leag.pof.vabbi.joko.wp" GUID="ZRYleHSBWU+bvwaAoUqVOw==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint"/>
+        <POI MapID="1248" xpos="-952.968" ypos="107.319" zpos="-733.849" type="leag.pof.vabbi.joko.wp" GUID="n1BNGfQgFU6Xonto+Kcb0A==" copy="[&BNAKAAA=]" copy-message="Seborhin Waypoint"/>
+        <POI MapID="1248" xpos="-755.715" ypos="109.184" zpos="500.789" type="leag.pof.vabbi.joko.wp" GUID="Ds/wlj0GdkGuNJGvmimBGQ==" copy="[&BA8KAAA=]" copy-message="Vehtendi Academy Waypoint"/>
+        <POI MapID="1248" xpos="-1213.47" ypos="165.866" zpos="424.883" type="leag.pof.vabbi.joko.emote" GUID="ZktkClS+FEG/meNyJ9BREQ=="/>
+        <POI MapID="1248" xpos="-1249.72" ypos="164.345" zpos="371.055" type="leag.pof.vabbi.joko.emote" GUID="/ViMSuVMtEq5PgWSXJp5qA=="/>
+        <POI MapID="1248" xpos="-1295.82" ypos="164.317" zpos="369.664" type="leag.pof.vabbi.joko.emote" GUID="2aGhCuIKukiKWJia0wSUrw=="/>
+        <POI MapID="1248" xpos="-1305.82" ypos="164.42" zpos="318.929" type="leag.pof.vabbi.joko.emote" GUID="Wc2uEZX8D0uNAxo2h5MCvA=="/>
+        <POI MapID="1248" xpos="-1299.07" ypos="164.444" zpos="273.328" type="leag.pof.vabbi.joko.emote" GUID="zVyP1QXxXkynZn+T7zMcow=="/>
+        <POI MapID="1248" xpos="-1249.93" ypos="164.345" zpos="268.621" type="leag.pof.vabbi.joko.emote" GUID="X0sreVLLRk6K/DhRvIEQhQ=="/>
+        <POI MapID="1248" xpos="-1200.01" ypos="164.317" zpos="270.527" type="leag.pof.vabbi.joko.emote" GUID="s5rKTnArkkWgBEJf5juJDA=="/>
+        <POI MapID="1248" xpos="-1193.55" ypos="164.421" zpos="319.198" type="leag.pof.vabbi.joko.emote" GUID="XGpbiuSBKUmiTM95OnBpvg=="/>
+        <POI MapID="1248" xpos="-1199.41" ypos="164.445" zpos="364.931" type="leag.pof.vabbi.joko.emote" GUID="WHAneYuj90ybuad7E7Qcpw=="/>
+        <POI MapID="1248" xpos="-1141.51" ypos="165.827" zpos="282.294" type="leag.pof.vabbi.joko.emote" GUID="AWJYdSLijE69WhbtH5yclw=="/>
+        <POI MapID="1248" xpos="-1161.54" ypos="134.357" zpos="202.994" type="leag.pof.vabbi.joko.emote" GUID="wG5ICRP4d0SmEWtw69JUBw=="/>
+        <POI MapID="1248" xpos="-1125.28" ypos="120.094" zpos="-152.19" type="leag.pof.vabbi.joko.emote" GUID="9fFpr0jfqUOV3uPsEGq2wg=="/>
+        <POI MapID="1248" xpos="-1089.1" ypos="119.821" zpos="-188.949" type="leag.pof.vabbi.joko.emote" GUID="2dirrWA/00C7ejr39fDmqg=="/>
+        <POI MapID="1248" xpos="-692.961" ypos="108.464" zpos="-456.999" type="leag.pof.vabbi.joko.emote" GUID="owyn6XI1SEmP78f1txvT5A=="/>
+        <POI MapID="1248" xpos="-703.771" ypos="197.369" zpos="-583.645" type="leag.pof.vabbi.joko.emote" GUID="yNAhZvUxTkGTzeQ+kf/gZA=="/>
+        <POI MapID="1248" xpos="-852.418" ypos="181.775" zpos="-638.86" type="leag.pof.vabbi.joko.emote" GUID="qjlTAvi3Y0qBXcPcFgsGeA=="/>
+        <POI MapID="1248" xpos="-887.762" ypos="181.775" zpos="-622.396" type="leag.pof.vabbi.joko.emote" GUID="K41s32ZSk0GgwyzvKEITZA=="/>
+        <POI MapID="1248" xpos="-979.562" ypos="127.082" zpos="-736.609" type="leag.pof.vabbi.joko.emote" GUID="lXSOAas94EezU6p1W54AoQ=="/>
+        <POI MapID="1248" xpos="-934.344" ypos="107.346" zpos="-738.514" type="leag.pof.vabbi.joko.emote" GUID="Fq5iENCi0Uut1LNFrUAP7A=="/>
+        <POI MapID="1248" xpos="-954.725" ypos="107.508" zpos="-733.258" type="leag.pof.vabbi.joko.emote" GUID="w0CvmYamakKVTygouMY46A=="/>
+        <POI MapID="1248" xpos="-133.219" ypos="21.9313" zpos="385.445" type="leag.pof.vabbi.joko.emote" GUID="6H7pJ4hHj0GQj1egkQ5X+w=="/>
+        <POI MapID="1248" xpos="25.9501" ypos="21.9324" zpos="385.552" type="leag.pof.vabbi.joko.emote" GUID="PcoPyRv+oEOBmQi/c14ThQ=="/>
+        <POI MapID="1248" xpos="26.6064" ypos="21.4442" zpos="613.72" type="leag.pof.vabbi.joko.emote" GUID="om3h4eRomk+HXac6axSgeg=="/>
+        <POI MapID="1248" xpos="-132.92" ypos="21.4995" zpos="612.947" type="leag.pof.vabbi.joko.emote" GUID="7Zan/jdEbEqfvx5t+qn4sw=="/>
+        <POI MapID="1248" xpos="-469.049" ypos="39.9193" zpos="611.764" type="leag.pof.vabbi.joko.emote" GUID="iZS8V1trR06aP/vnbX5vcg=="/>
+        <POI MapID="1248" xpos="-757.748" ypos="109.184" zpos="500.799" type="leag.pof.vabbi.joko.emote" GUID="cx3bCdQ7jUmMOzgAz6b5DA=="/>
+        <POI MapID="1248" xpos="58.0794" ypos="182.445" zpos="-536.886" type="leag.pof.vabbi.joko.emote" GUID="kfAgRNszT0SQo4/1axS8ig=="/>
+        <POI MapID="1248" xpos="55.7343" ypos="167.039" zpos="-535.212" type="leag.pof.vabbi.joko.emote" GUID="MbDAR1/UIU+gAc6tSB/eow=="/>
+        <POI MapID="1248" xpos="18.931" ypos="106.104" zpos="-373.934" type="leag.pof.vabbi.joko.emote" GUID="3ZEsmc1cUE2Bz5o5UxrjMQ=="/>
+        <POI MapID="1248" xpos="-63.203" ypos="112.571" zpos="-81.6775" type="leag.pof.vabbi.joko.emote" GUID="rhPwSyvCx02wBpkzN8zv1A=="/>
+        <POI MapID="1248" xpos="48.9034" ypos="131.963" zpos="-37.8348" type="leag.pof.vabbi.joko.emote" GUID="EBDLaplQOEujKE1C1gWrhg=="/>
+        <POI MapID="1248" xpos="77.8758" ypos="138.544" zpos="-64.9356" type="leag.pof.vabbi.joko.emote" GUID="x/N47dE/Lk+qJwBFHQhyXQ=="/>
+        <POI MapID="1248" xpos="208.24" ypos="157.913" zpos="-89.7817" type="leag.pof.vabbi.joko.emote" GUID="oT2l/n4M/UGANRDB+pgWoA=="/>
+        <POI MapID="1248" xpos="310.851" ypos="133.568" zpos="-167.603" type="leag.pof.vabbi.joko.emote" GUID="Eb625McQ6Ey4AmaazCVQgA=="/>
+        <POI MapID="1248" xpos="505.918" ypos="183.085" zpos="49.9255" type="leag.pof.vabbi.joko.emote" GUID="X6TWkMlW2UiWDkV+TZ2MAw=="/>
+        <POI MapID="1248" xpos="460.487" ypos="183.085" zpos="49.6418" type="leag.pof.vabbi.joko.emote" GUID="xl3RbD8CjkqtBb1O9dPFwA=="/>
+        <POI MapID="1248" xpos="469.745" ypos="228.826" zpos="42.3241" type="leag.pof.vabbi.joko.emote" GUID="UxPJ0005dk6TZBu/MVL+6w=="/>
+        <POI MapID="1248" xpos="446.994" ypos="290.683" zpos="12.7892" type="leag.pof.vabbi.joko.emote" GUID="mq9DBRR8O0Wgzk36Pfd4lw=="/>
+        <POI MapID="1248" xpos="447.014" ypos="290.683" zpos="-42.0018" type="leag.pof.vabbi.joko.emote" GUID="JIoxNoFDwEePg1Mas9SlAA=="/>
+        <POI MapID="1248" xpos="426.582" ypos="228.909" zpos="-14.1999" type="leag.pof.vabbi.joko.emote" GUID="FD11SXRvIkSiw8hkiNYkbA=="/>
+        <POI MapID="1248" xpos="484.33" ypos="228.857" zpos="-71.0401" type="leag.pof.vabbi.joko.emote" GUID="E5BlhNkJrUWtfuVYBcXyCg=="/>
+        <POI MapID="1248" xpos="548.211" ypos="221.592" zpos="-62.1318" type="leag.pof.vabbi.joko.emote" GUID="TDCEVowY20att87NZuMDfw=="/>
+        <POI MapID="1248" xpos="594.056" ypos="221.489" zpos="-61.2482" type="leag.pof.vabbi.joko.emote" GUID="4FivuRcudkWSMAyxNVWVHg=="/>
+        <POI MapID="1248" xpos="599.899" ypos="129.425" zpos="-307.064" type="leag.pof.vabbi.joko.emote" GUID="e7oXlnrrMUucYRYmDAW5JQ=="/>
+        <POI MapID="1248" xpos="668.489" ypos="129.381" zpos="-349.477" type="leag.pof.vabbi.joko.emote" GUID="0GDZ0HEGuk6CxNh1obDZWQ=="/>
+        <POI MapID="1248" xpos="814.698" ypos="99.8036" zpos="-189.649" type="leag.pof.vabbi.joko.emote" GUID="ezyUS3imZUaPhdNgBnzUpQ=="/>
+        <POI MapID="1248" xpos="-185.404" ypos="9.4281" zpos="586.023" type="leag.pof.vabbi.joko.mount.jackal" GUID="2zsU1aPeX0e76JbTEDHRZg=="/>
+        <POI MapID="1248" xpos="-377.472" ypos="64.562" zpos="559.543" type="leag.pof.vabbi.joko.mount.springer" GUID="bCvcshKca0q7l6/4TdIbGA=="/>
+        <POI MapID="1248" xpos="-381.755" ypos="90.6193" zpos="534.744" type="leag.pof.vabbi.joko.mount.jackal" GUID="FIHUp5rbwk+PVEK1gbi/Ew=="/>
+        <POI MapID="1248" xpos="203.884" ypos="84.9082" zpos="-489.961" type="leag.pof.vabbi.joko.mount.jackal" GUID="2Loua+WmJkmi2HB/EaxOIg=="/>
+        <POI MapID="1248" xpos="54.5528" ypos="166.146" zpos="-528.062" type="leag.pof.vabbi.joko.mount.raptor" GUID="0ctw9NIAAEyxH2Bhn5OP3g=="/>
+        <POI MapID="1248" xpos="-53.3229" ypos="108.016" zpos="-203.713" type="leag.pof.vabbi.joko.mount.raptor" GUID="ZpDyVFzKDkW5IqmGuOLYdw=="/>
+        <POI MapID="1248" xpos="348.181" ypos="120.406" zpos="-56.7287" type="leag.pof.vabbi.joko.mount.raptor" GUID="jQRRIUQZ8E2EQHM0GWjvug=="/>
+        <POI MapID="1248" xpos="421.885" ypos="138.363" zpos="5.17951" type="leag.pof.vabbi.joko.mount.springer" GUID="BUYB/oUQhk6NXp6LVqwTEw=="/>
+        <POI MapID="1248" xpos="464.995" ypos="183.151" zpos="51.1566" type="leag.pof.vabbi.joko.mount.raptor" GUID="jKKh6F48n0GAixqntmMxAA=="/>
+        <POI MapID="1248" xpos="609.37" ypos="158.088" zpos="44.0634" type="leag.pof.vabbi.joko.mount.springer" GUID="5VbgiE/SN0qDcy5nTXf+Pg=="/>
+        <POI MapID="1248" xpos="535.91" ypos="234.882" zpos="47.3969" type="leag.pof.vabbi.joko.mount.raptor" GUID="pxRs8imke0WqT8oQBB9shw=="/>
+        <POI MapID="1248" xpos="468.26" ypos="228.826" zpos="42.6225" type="leag.pof.vabbi.joko.mount.springer" GUID="9QuXSbj+hEWRjhsAVIGcCw=="/>
+        <POI MapID="1248" xpos="552.47" ypos="221.615" zpos="-62.2254" type="leag.pof.vabbi.joko.mount.raptor" GUID="Fc0+ctyTTkuf/oVN9yuYlg=="/>
+
+        <!-- Scourge Buster -->
+        <POI MapID="1248" xpos="-1382.54" ypos="66.9366" zpos="758.211" type="leag.pof.vabbi.scourge.start" GUID="FOYEF9itukWzHrIYeGc+HQ=="/>
+        <Trail type="leag.pof.vabbi.scourge" trailData="Data/PoF/Scourge Buster 1.trl"/>
+        <Trail type="leag.pof.vabbi.scourge" trailData="Data/PoF/Scourge Buster 2.trl"/>
+        <Trail type="leag.pof.vabbi.scourge" trailData="Data/PoF/Scourge Buster 3.trl"/>
+        <Trail type="leag.pof.vabbi.scourge" trailData="Data/PoF/Scourge Buster 4.trl"/>
+        <Trail type="leag.pof.vabbi.scourge" trailData="Data/PoF/Scourge Buster 5.trl"/>
+        <Trail type="leag.pof.vabbi.scourge" trailData="Data/PoF/Scourge Buster 6.trl"/>
+        <Trail type="leag.pof.vabbi.scourge" trailData="Data/PoF/Scourge Buster 7.trl"/>
+        <Trail type="leag.pof.vabbi.scourge" trailData="Data/PoF/Scourge Buster 8.trl"/>
+        <Trail type="leag.pof.vabbi.scourge" trailData="Data/PoF/Scourge Buster 9.trl"/>
+        <POI MapID="1248" xpos="-1412.54" ypos="86.4803" zpos="614.441" type="leag.pof.vabbi.scourge.wp" GUID="VWcHS5P2HEyKM5Jb5PAdyA==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint"/>
+        <POI MapID="1248" xpos="-1227.71" ypos="135.4" zpos="-260.093" type="leag.pof.vabbi.scourge.wp" GUID="HN274OgVWUeJ0PkQKNwlNw==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint"/>
+        <POI MapID="1248" xpos="-999.833" ypos="126.342" zpos="-737.781" type="leag.pof.vabbi.scourge.wp" GUID="9Hh1OfECTUy01LwoejuIgg==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint"/>
+        <POI MapID="1248" xpos="-366.026" ypos="125.641" zpos="-133.306" type="leag.pof.vabbi.scourge.wp" GUID="BRc27G2zk0OSiIJLaaueyg==" copy="[&BNAKAAA=]" copy-message="Seborhin Waypoint"/>
+        <POI MapID="1248" xpos="945.937" ypos="5.85914" zpos="930.9" type="leag.pof.vabbi.scourge.wp" GUID="htWxRFIe8kKLHAjUA8pzng==" copy="[&BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
+        <POI MapID="1248" xpos="1420.27" ypos="151.447" zpos="243.711" type="leag.pof.vabbi.scourge.wp" GUID="sNNeAcQ9/EyRJPOWlZHP/g==" copy="[&BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
+        <POI MapID="1248" xpos="1273.38" ypos="191.897" zpos="-486.521" type="leag.pof.vabbi.scourge.wp" GUID="1A7HhYObb0as+w2n/IyE7w==" copy="[&BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
+        <POI MapID="1248" xpos="512.004" ypos="68.9481" zpos="69.4125" type="leag.pof.vabbi.scourge.wp" GUID="6+9tjB8whEyNK26mIuZNQg==" copy="[&BA8KAAA=]" copy-message="Vehtendi Academy Waypoint"/>
+        <POI MapID="1248" xpos="-571.817" ypos="117.3514" zpos="-422.7876" type="leag.pof.vabbi.scourge.1" GUID="+hs3rIVYa0u/v/mGtHGaSw=="/>
+        <POI MapID="1248" xpos="-576.3594" ypos="116.096" zpos="-426.0884" type="leag.pof.vabbi.scourge.2" GUID="dXIeWpkhpUiZC0tax3dhtA=="/>
+        <POI MapID="1248" xpos="-564.6011" ypos="117.5517" zpos="-429.2737" type="leag.pof.vabbi.scourge.3" GUID="y+79DsrNvUq9Ju07OJr0pQ=="/>
+        <POI MapID="1248" xpos="807.6671" ypos="142.3156" zpos="56.20072" type="leag.pof.vabbi.scourge.1" GUID="nD0J4gDLUEOKFfIj5fbgQw=="/>
+        <POI MapID="1248" xpos="812.2347" ypos="142.2941" zpos="46.6007" type="leag.pof.vabbi.scourge.2" GUID="FEGfljWO10SCEr+IYItUMw=="/>
+        <POI MapID="1248" xpos="807.6897" ypos="142.2941" zpos="45.8984" type="leag.pof.vabbi.scourge.3" GUID="rGU5gVgVAEasOAuEkxhtkQ=="/>
+        <POI MapID="1248" xpos="-772.287" ypos="194.861" zpos="-614.927" type="leag.pof.vabbi.scourge.mount.springer" GUID="NjQ7S5hxf02PuqN1O+GMNw=="/>
+        <POI MapID="1248" xpos="-796.108" ypos="228.525" zpos="-621.295" type="leag.pof.vabbi.scourge.mount.griffon" GUID="UwKeQAadOUKsX43gyEVoaw=="/>
+        <POI MapID="1248" xpos="-828.828" ypos="214.614" zpos="-724.121" type="leag.pof.vabbi.scourge.mount.springer" GUID="lgkyS+4KsUSZowK21t3EMw=="/>
+        <POI MapID="1248" xpos="-310.163" ypos="154.755" zpos="-457.969" type="leag.pof.vabbi.scourge.mount.springer" GUID="+PRP2+YU/0ak4jTvOfb4FA=="/>
+        <POI MapID="1248" xpos="-303.879" ypos="211.132" zpos="-492.642" type="leag.pof.vabbi.scourge.mount.raptor" GUID="yyGqOFiEoEq2ROUSVAHvzw=="/>
+        <POI MapID="1248" xpos="81.0995" ypos="113.467" zpos="750.821" type="leag.pof.vabbi.scourge.mount.raptor" GUID="XP1lUSJ7V0usA7tWBBeReA=="/>
+        <POI MapID="1248" xpos="43.6303" ypos="106.06" zpos="855.836" type="leag.pof.vabbi.scourge.mount.springer" GUID="k6+ytCQVFU+XcJJ+eZUh6Q=="/>
+        <POI MapID="1248" xpos="28.4664" ypos="148.62" zpos="873.198" type="leag.pof.vabbi.scourge.mount.raptor" GUID="twRdVar1q0y4NxoLqwdZKw=="/>
+        <POI MapID="1248" xpos="166.707" ypos="117.701" zpos="845.613" type="leag.pof.vabbi.scourge.mount.springer" GUID="0/QbkY+y3ky2/m7sTzWdMw=="/>
+        <POI MapID="1248" xpos="178.124" ypos="131.764" zpos="880.305" type="leag.pof.vabbi.scourge.mount.springer" GUID="i+HLfbI7vEuEzPTVLptAYA=="/>
+        <POI MapID="1248" xpos="677.931" ypos="180.377" zpos="889.145" type="leag.pof.vabbi.scourge.mount.springer" GUID="FW4QYzusGEG7VcLQCHEcWA=="/>
+        <POI MapID="1248" xpos="848.061" ypos="109.671" zpos="892.496" type="leag.pof.vabbi.scourge.mount.raptor" GUID="W/cQ2y2WlEW33dIGA3l3Jw=="/>
+        <POI MapID="1248" xpos="927.837" ypos="6.41516" zpos="944.66" type="leag.pof.vabbi.scourge.mount.raptor" GUID="RnSNazsIgkGck6BIw57mMw=="/>
+        <POI MapID="1248" xpos="806.231" ypos="142.418" zpos="59.377" type="leag.pof.vabbi.scourge.mount.griffon" GUID="Bz5qycJw9EWIkFe/taXOKw=="/>
+        <POI MapID="1248" xpos="980.362" ypos="122.453" zpos="394.981" type="leag.pof.vabbi.scourge.mount.griffon" GUID="meCeNT5780WuZUQGHWFjFA=="/>
+        <POI MapID="1248" xpos="1141.41" ypos="77.2334" zpos="305.321" type="leag.pof.vabbi.scourge.mount.skimmer" GUID="Z4lGFOWz/kWxSL9RjZYGQw=="/>
+        <POI MapID="1248" xpos="815.888" ypos="142.358" zpos="40.4282" type="leag.pof.vabbi.scourge.mount.skimmer" GUID="bp2ZLXWaTEiyLg4n1A7tkg=="/>
+        <POI MapID="1248" xpos="859.801" ypos="71.2463" zpos="-551.192" type="leag.pof.vabbi.scourge.mount.springer" GUID="Gq9cRwLMhUiwPXfG6gTYFQ=="/>
+        <POI MapID="1248" xpos="1053.45" ypos="171.737" zpos="-589.679" type="leag.pof.vabbi.scourge.mount.jackal" GUID="kHftlOe7JES9z1+LRxRFwA=="/>
+        <POI MapID="1248" xpos="1245.56" ypos="54.7812" zpos="-637.535" type="leag.pof.vabbi.scourge.mount.jackal" GUID="03a8dE6BRkuKrgoC7IX2og=="/>
+        <POI MapID="1248" xpos="1417.89" ypos="150.967" zpos="-470.978" type="leag.pof.vabbi.scourge.mount.springer" GUID="GU47pY/WpEy+5BC6wHrJ6Q=="/>
+        <POI MapID="1248" xpos="737.101" ypos="178.136" zpos="-14.8916" type="leag.pof.vabbi.scourge.mount.springer" GUID="9SUSRIQPwUaDVtY3KoTZkw=="/>
+        <POI MapID="1248" xpos="418.456" ypos="103.618" zpos="-512.891" type="leag.pof.vabbi.scourge.mount.springer" GUID="aK3YqdSAVk27Dc11THfYrw=="/>
+        <POI MapID="1248" xpos="441.368" ypos="242.784" zpos="-572.206" type="leag.pof.vabbi.scourge.mount.raptor" GUID="yHyyDXh0yU6GVCGyQsQEAA=="/>
+        <POI MapID="1248" xpos="191.963" ypos="101.337" zpos="-798.182" type="leag.pof.vabbi.scourge.mount.springer" GUID="2t1IsZxrVUeWgcAxnUyrHg=="/>
+        <POI MapID="1248" xpos="146.751" ypos="133.942" zpos="-870.08" type="leag.pof.vabbi.scourge.mount.raptor" GUID="oOyIAs1nEkKNFwOXn2Pm4Q=="/>
 
     </POIs>
 </OverlayData>
