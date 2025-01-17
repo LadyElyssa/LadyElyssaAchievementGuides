@@ -26,6 +26,9 @@ This pack currently covers:
 * Halloween (Festival of the Mad King)
 * Wintersday
 
+## Heart of Thorns ##
+* Work in Progress...
+
 ## Path of Fire ##
 * Story Achievements
 * Crystal Oasis
