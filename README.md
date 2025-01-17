@@ -4,7 +4,7 @@ For more information on Getting Started with either [GW2 TacO](https://www.gw2ta
 
 A new collection of Markers and Trails for use with [GW2 TacO](https://www.gw2taco.com/) (Online Marker Packs) and [Blish HUD](https://blishhud.com/) (Markers and Trails icon, Download Marker Packs) and look for Lady Elyssa's Achievements & Collections.
 
-This pack focuses purely on Achievements and Collections by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) with over **_6,000_** downloads (as of November 2024). [[1]](https://somsubhra.github.io/github-release-stats/?username=LadyElyssa&repository=LadyElyssaAchievementGuides&page=1&per_page=10000) [[2]](https://qwertycube.com/github-release-stats/) [[3]](https://mp-repo.blishhud.com/LadyElyssaAP.taco.html) comprising of **_700+ Trails_** and **_1100+ Markers_**.
+This pack focuses purely on Achievements and Collections by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of **_1000+ Trails_** and **_3000+ Markers_**. [[1]](https://mp-repo.blishhud.com/LadyElyssaAP.taco.html), [[2]](https://somsubhra.github.io/github-release-stats/?username=LadyElyssa&repository=LadyElyssaAchievementGuides&page=1&per_page=10000), [[3]](https://qwertycube.com/github-release-stats/) 
 
 This pack began with Secrets of the Obscure and followed up with Janthir Wilds. I am now working my way back through the End of Dragons, Path of Fire and finally Heart of Thorns expansion before working my way forwward through the Living World Episodes.
 
