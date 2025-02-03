@@ -79,7 +79,6 @@
         <POI MapID="1550" xpos="-261.617" ypos="210.013" zpos="-307.877" type="leag.jw.ls.cc.wp" GUID="sLmaop0NfEaDMLQ33KrF/w==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
         <POI MapID="1550" xpos="690.696" ypos="326.615" zpos="52.5225" type="leag.jw.ls.cc.wp" GUID="0MNTZPv+K0i5UBKukdc5yQ==" copy="[&BPsOAAA=]" copy-message="Journeykin Outpost Waypoint"/>
         <POI MapID="1550" xpos="-534.977" ypos="2.1053" zpos="416.657" type="leag.jw.ls.cc.wp" GUID="MA2IMb90BkSEsh3MNwSBzw==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint - Return to Echoes of Night"/>
-        <POI MapID="1550" xpos="951.458" ypos="332.253" zpos="54.584" type="leag.jw.ls.cc.wp" GUID="/prKrmSaakqXLZ5AoxFkgg==" info="/bow and then follow the Wisp" infoRange="5"/>
         <POI MapID="1550" xpos="820.574" ypos="261.635" zpos="272.329" type="leag.jw.ls.cc.wp" GUID="h9cv1IALmEaFNGyOoW61ew==" copy="[&BK4OAAA=]" copy-message="Autumn's Vale Waypoint"/>
         <POI MapID="1550" xpos="-168.266" ypos="199.496" zpos="-44.2857" type="leag.jw.ls.cc" GUID="+EnP0lKV102efOKnEH1cfg==" iconFile="Data/Images/Icons/Talk.png"/>
         <POI MapID="1550" xpos="-169.584" ypos="195.96" zpos="-44.1255" type="leag.jw.ls.cc.wp" GUID="ej/D5P5KY0WNrksqAa4GTw==" copy="[&BCcPAAA=]" copy-message="After Event - Astral Ward Moon Camp Waypoint"/>
@@ -438,7 +437,7 @@
         <POI MapID="1550" xpos="-144.11" ypos="108.305" zpos="458.15" type="leag.jw.ls.totlw.wp" GUID="VqzL9gQhekWPeMPI4zGJag==" copy="[&BPsOAAA=]" copy-message="Journeykin Outpost Waypoint" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-714.982" ypos="210.306" zpos="-58.9454" type="leag.jw.ls.totlw.9" GUID="Tdohe3zI+EKKC1Ii3owYsA==" iconFile="Data/Images/Numbers/9.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-509.354" ypos="27.0998" zpos="266.114" type="leag.jw.ls.totlw.9" GUID="wPJd+7cQKUeHyuiXvpL49Q==" iconFile="Data/Images/Numbers/n9.png"/>
-        <POI MapID="1550" xpos="-903.3" ypos="21.6833" zpos="379.619" type="leag.jw.ls.totlw.wp" GUID="7P7rAIKKXUuXtuVhf1pR0w==" copy="[&BK4OAAA=]" copy-message="Autumn's Vale Waypoint" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-903.3" ypos="21.6833" zpos="379.619" type="leag.jw.ls.totlw.wp" GUID="7P7rAIKKXUuXtuVhf1pR0w==" copy="[&BC4PAAA=]" copy-message="Autumn's Vale Waypoint" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-107.835" ypos="44.2652" zpos="96.8051" type="leag.jw.ls.totlw.10" GUID="NtaWirXOuk+GXjv0tZlCsQ==" iconFile="Data/Images/Numbers/10.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-216.936" ypos="129.213" zpos="61.4977" type="leag.jw.ls.totlw.10" GUID="WZSEJaNY9kmCP3DZryYgLg==" iconFile="Data/Images/Numbers/n10.png"/>
         <POI MapID="1550" xpos="-203.852" ypos="219.621" zpos="2.27546" type="leag.jw.ls.totlw.11" GUID="/VYMGfT3T0CYPucN5vEWnw==" iconFile="Data/Images/Numbers/11.png" inGameVisibility="1"/>
@@ -453,7 +452,10 @@
         <POI MapID="1550" xpos="536.61" ypos="218.825" zpos="45.6336" type="leag.jw.ls.totlw.15" GUID="cJF4C70C/kOXb1CWpCyaSQ==" iconFile="Data/Images/Numbers/15.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="676.642" ypos="100.345" zpos="185.107" type="leag.jw.ls.totlw.15" GUID="aCjNVw6IBEuH718pSXn+bQ==" iconFile="Data/Images/Numbers/n15.png"/>
         <POI MapID="1550" xpos="434.132" ypos="106.923" zpos="206.049" type="leag.jw.ls.totlw.16" GUID="Dmm8BeU+50a54ctL6raOWA==" iconFile="Data/Images/Numbers/n16.png"/>
-        <POI MapID="1550" xpos="435.325" ypos="107.637" zpos="201.579" type="leag.jw.ls.totlw.wp" GUID="fUPH15ttmkiVmW5a1pZI6Q==" copy="[&BK4OAAA=]" copy-message="Autumn's Vale Waypoint&#xA;Follow Route 8 back to Stalwart Heart" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="435.325" ypos="107.637" zpos="201.579" type="leag.jw.ls.totlw.wp" GUID="fUPH15ttmkiVmW5a1pZI6Q==" copy="[&BC4PAAA=]" copy-message="Autumn's Vale Waypoint&#xA;Follow Route 8 back to Stalwart Heart" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-248.8621" ypos="308.5166" zpos="-584.4116" type="leag.jw.ls.totlw.wp" GUID="QEhBBL4bH0K9ohtl2VGGog==" copy="[&BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
+        <POI MapID="1550" xpos="951.458" ypos="332.253" zpos="54.584" type="leag.jw.ls.totlw.wp" GUID="/prKrmSaakqXLZ5AoxFkgg==" info="/bow and then follow the Wisp" infoRange="5"/>
+        
         <POI MapID="1550" xpos="-151.917" ypos="108.305" zpos="457.878" type="leag.jw.ls.totlw.17" GUID="l9YRgC2E90Krsmrnb+B1tA==" iconFile="Data/Images/Numbers/n17.png"/>
 
         <!-- Troll Delicacy -->
