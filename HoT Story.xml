@@ -1,0 +1,86 @@
+<OverlayData>
+    <POIs>
+        <!-- CHAPTER 3 -->
+        <!-- Now That’s a Fungus -->
+        <Trail type="leag.hot.story.ntaf" trailData="Data/HoT/Story/Now That's a Fungus.trl"/>
+
+        <!-- Totems of the Itzel -->
+        <Trail type="leag.hot.story.toti" trailData="Data/HoT/Story/Totems of the Itzel 0.trl"/>
+        <Trail type="leag.hot.story.toti" trailData="Data/HoT/Story/Totems of the Itzel 1.trl"/>
+        <Trail type="leag.hot.story.toti" trailData="Data/HoT/Story/Totems of the Itzel 2.trl"/>
+        <Trail type="leag.hot.story.toti" trailData="Data/HoT/Story/Totems of the Itzel 3.trl"/>
+        <Trail type="leag.hot.story.toti" trailData="Data/HoT/Story/Totems of the Itzel 4.trl"/>
+        <Trail type="leag.hot.story.toti" trailData="Data/HoT/Story/Totems of the Itzel 5.trl"/>
+        <POI MapID="1037" xpos="462.7994" ypos="365.9646" zpos="251.3462" type="leag.hot.story.toti.info" GUID="UMXPhaB3c02uC/UjctB3fQ==" infoRange="5" info="Talk to Ibli and then Confer with your Comrades&#xa;to allow you to access the Itzel Village"/>
+        <POI MapID="1037" xpos="728.3685" ypos="332.7844" zpos="155.5239" type="leag.hot.story.toti.totem" GUID="TlLbp+jlrEeTEq4qOiKH8w=="/>
+        <POI MapID="1037" xpos="870.5558" ypos="325.4971" zpos="353.4137" type="leag.hot.story.toti.totem" GUID="Ltdpm/ekHUyHI/+L+aubuw=="/>
+        <POI MapID="1037" xpos="721.163" ypos="340.5408" zpos="332.6908" type="leag.hot.story.toti.totem" GUID="phSceb1rvEKa51Rv2gJ/ug=="/>
+        <POI MapID="1037" xpos="526.0059" ypos="442.4617" zpos="367.0711" type="leag.hot.story.toti.totem" GUID="kotFH+zgk0mA+c9R2ePBWw=="/>
+        <POI MapID="1037" xpos="528.3804" ypos="414.0235" zpos="294.6082" type="leag.hot.story.toti.totem" GUID="RyNMK4yRHUC/CYh8+tYibw=="/>
+        
+        <!-- CHAPTER 6 -->
+        <!-- My Friends, the Smiths -->
+        <Trail type="leag.hot.story.mfts" trailData="Data/HoT/Story/My Friends, the Smiths.trl"/>
+        <POI MapID="1051" xpos="-699.22" ypos="422.768" zpos="-12.755" type="leag.hot.story.mfts.smiths" GUID="8FxJn1N0sk67N+xiEj2vzg=="/>
+        <POI MapID="1051" xpos="-653.221" ypos="464.381" zpos="53.543" type="leag.hot.story.mfts.smiths" GUID="eEMQEDHAVUCvFlvVyv99XQ=="/>
+        <POI MapID="1051" xpos="-733.222" ypos="464.25" zpos="-26.2194" type="leag.hot.story.mfts.smiths" GUID="HACcWoE6xE+FxQrYUqVrEA=="/>
+        <POI MapID="1051" xpos="-601.707" ypos="452.445" zpos="155.792" type="leag.hot.story.mfts.smiths" GUID="0sNrhWWbYkGdIDmxW9wl5Q=="/>
+        <POI MapID="1051" xpos="-513.922" ypos="463.285" zpos="65.5341" type="leag.hot.story.mfts.smiths" GUID="nWXYRqWZ+kmSDnPqW8DcFA=="/>
+
+        <!-- Peer Review -->
+        <Trail type="leag.hot.story.peer" trailData="Data/HoT/Story/Peer Review.trl"/>
+        <POI MapID="1051" xpos="-565.967" ypos="370.197" zpos="-33.0694" type="leag.hot.story.peer.review" GUID="G7qZeV27hUuwdt8nsnaViA=="/>
+        <POI MapID="1051" xpos="-576.596" ypos="379.473" zpos="-6.79752" type="leag.hot.story.peer.review" GUID="MV/3YNFkZEqbGUQ6StuF8A=="/>
+        <POI MapID="1051" xpos="-614.576" ypos="386.22" zpos="6.3879" type="leag.hot.story.peer.review" GUID="sfOIKil4nkSPMVad7MeOvA=="/>
+        <POI MapID="1051" xpos="-616.2593" ypos="386.2939" zpos="6.811688" type="leag.hot.story.peer.review" GUID="fNkKXT6m8UuIIlpszPPF9w=="/>
+        <POI MapID="1051" xpos="-586.543" ypos="398.444" zpos="-4.02294" type="leag.hot.story.peer.review" GUID="hUPXOz+oxE+0YUioVj8f6Q=="/>
+        <POI MapID="1051" xpos="-608.339" ypos="411.958" zpos="2.38447" type="leag.hot.story.peer.review" GUID="Lg9PwkXioECE2XDbNQpb1w=="/>
+        <POI MapID="1051" xpos="-649.714" ypos="423.015" zpos="71.4258" type="leag.hot.story.peer.review" GUID="Zvoe4PC+hE+GjoluDLlYqA=="/>
+        <POI MapID="1051" xpos="-656.633" ypos="425.688" zpos="83.1562" type="leag.hot.story.peer.review" GUID="pDAd2p6Ze0+/vkHbU3C+QQ=="/>
+        <POI MapID="1051" xpos="-659.984" ypos="427.014" zpos="97.395" type="leag.hot.story.peer.review" GUID="Ap/jbVaUoUmvb84QzqJ/Vg=="/>
+        <POI MapID="1051" xpos="-655.314" ypos="426.668" zpos="94.2715" type="leag.hot.story.peer.review" GUID="/C/9kuND8UC0O6r8QPgo9w=="/>
+        
+        <!-- CHAPTER 7 -->
+        <!-- Wild Dragon Chase -->
+        <Trail type="leag.hot.story.wdc" trailData="Data/HoT/Story/Wild Dragon Chase.trl"/>
+
+        <!-- CHAPTER 8 -->
+        <!-- No More Time -->
+        <Trail type="leag.hot.story.nmt" trailData="Data/HoT/Story/No More Time.trl" color="FFFF00"/>
+        <POI MapID="1048" xpos="-118.212" ypos="15.7005" zpos="36.1223" type="leag.hot.story.nmt.glider" GUID="5Q0U24s0/EemoyZSLzGKQQ=="/>
+        <POI MapID="1048" xpos="-138.88" ypos="13.7903" zpos="38.3028" type="leag.hot.story.nmt.glider" GUID="V2HML4seIka/Rp8Itd2oZQ=="/>
+        <POI MapID="1048" xpos="-118.92" ypos="15.7665" zpos="94.2221" type="leag.hot.story.nmt.glider" GUID="rZr3EMDqxEOTKPLV7EPHZQ=="/>
+
+        <!-- CHAPTER 11 -->
+        <!-- The Dark Path -->
+        <Trail type="leag.hot.story.path" trailData="Data/HoT/Story/The Dark Path.trl"/>
+        <Trail type="leag.hot.story.pit" trailData="Data/HoT/Story/The Pit of Despair Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.hot.story.pit" trailData="Data/HoT/Story/The Pit of Despair.trl"/>
+        <Trail type="leag.hot.story.road" trailData="Data/HoT/Story/The Troll Road.trl"/>
+
+        <!-- CHAPTER 13 -->
+        <Trail type="leag.hot.story.ignoble" trailData="Data/HoT/Story/An Ignoble End.trl"/>
+
+        <Trail type="leag.hot.story.horizons" trailData="Data/HoT/Story/New Horizons 1.trl"/>
+        <Trail type="leag.hot.story.horizons" trailData="Data/HoT/Story/New Horizons 2.trl"/>
+        <Trail type="leag.hot.story.horizons" trailData="Data/HoT/Story/New Horizons 3.trl"/>
+        <Trail type="leag.hot.story.horizons" trailData="Data/HoT/Story/New Horizons 4.trl"/>
+        <Trail type="leag.hot.story.horizons" trailData="Data/HoT/Story/New Horizons 5.trl"/>
+        <POI MapID="1033" xpos="443.8084" ypos="6.060534" zpos="581.663" type="leag.hot.story.horizons.terminal" GUID="t11rCb7r+0eD5mCzVm8DEA==" info="Terminal Code: 01172" infoRange="3"/>
+
+        <Trail type="leag.hot.story.cleaning" trailData="Data/HoT/Story/Cleaning House.trl"/>
+
+        <Trail type="leag.hot.story.sign" trailData="Data/HoT/Story/Sign Cutting.trl"/>
+        <POI MapID="1045" xpos="-628.4067" ypos="169.0461" zpos="-275.8002" type="leag.hot.story.sign.glider" GUID="q+YGEignek+OEIX/75/yiA=="/>
+        <POI MapID="1045" xpos="-537.246" ypos="125.6481" zpos="-309.9395" type="leag.hot.story.sign.glider" GUID="RtvYyXwoJUKbQAm8jLN27g=="/>
+        <POI MapID="1045" xpos="-457.7937" ypos="79.42249" zpos="-416.8041" type="leag.hot.story.sign.glider" GUID="DM/HaiWHIEiQplcy6U2iqA=="/>
+        <POI MapID="1045" xpos="-570.927" ypos="209.747" zpos="-32.2906" type="leag.hot.story.sign.cutting" GUID="pTzqBtB/mU2keWfNvfIKcA=="/>
+        <POI MapID="1045" xpos="-658.514" ypos="215.447" zpos="79.4628" type="leag.hot.story.sign.cutting" GUID="1gIhDj8gUESZ3ndyqaahOQ=="/>
+        <POI MapID="1045" xpos="-637.63" ypos="181.927" zpos="-194.023" type="leag.hot.story.sign.cutting" GUID="1WW1R2bovkeWdKT6BRz/OQ=="/>
+        <POI MapID="1045" xpos="-467.525" ypos="1.56922" zpos="-474.827" type="leag.hot.story.sign.cutting" GUID="AHIakzZ9Y0GFdBJzwUrhhg=="/>
+        <POI MapID="1045" xpos="-793.264" ypos="-0.186335" zpos="-504.947" type="leag.hot.story.sign.cutting" GUID="q3SueGY+qkevwUyompezKw=="/>
+
+        <Trail type="leag.hot.story.lof" trailData="Data/HoT/Story/Line of Fire.trl"/>
+        <POI MapID="1054" xpos="433.9282" ypos="107.5602" zpos="-667.773" type="leag.hot.story.lof.glider" GUID="spJJdd8f4UKWfsP8I0BGyA=="/>
+    </POIs>
+</OverlayData>
