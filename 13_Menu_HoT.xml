@@ -1,26 +1,363 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
-        <!--
+        
         <MarkerCategory name="hot" DisplayName="Heart of Thorns">
 
-            <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
+            <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: The Jungle Provides"/>
+                
+                <MarkerCategory name="ntaf" DisplayName="Now That's a Fungus" color="FFFF00" achievementId="2632"/>
+                
+                <MarkerCategory name="toti" DisplayName="Totems of the Itzel" achievementId="2174">
+                    <MarkerCategory name="info" DisplayName="Toggle Info" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true"/>
+                    <MarkerCategory name="totem" DisplayName="Toggle Itzel Totems" iconFile="Data/Images/Icons/Itzel Totem.png" mapDisplaySize="40" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="ch6" IsSeparator="1" DisplayName="CHAPTER 6: Prisoners of the Dragon"/>
+                <MarkerCategory name="mfts" DisplayName="My Friends, the Smiths"  achievementId="2639">
+                    <MarkerCategory name="smiths" DisplayName="Toggle Smiths" iconFile="Data/Images/Icons/Orb - Red.png" mapDisplaySize="24" MaxSize="16" heightOffset="-0.5"/>
+                </MarkerCategory>
+                <MarkerCategory name="peer" DisplayName="Peer Review" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" fadeNear="1200" fadeFar="2400" achievementId="2301">
+                    <MarkerCategory name="review" DisplayName="Toggle Torn Journal Page" iconFile="Data/Images/Notes.png" mapDisplaySize="24" MaxSize="16" heightOffset="-0.5"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="ch7" IsSeparator="1" DisplayName="CHAPTER 7: Prized Possessions"/>
+                <MarkerCategory name="wdc" DisplayName="Wild Dragon Chase" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FFFF" achievementId="2348"/>
+
+                <MarkerCategory name="ch8" IsSeparator="1" DisplayName="CHAPTER 8: City of Hope"/>
+                <MarkerCategory name="nmt" DisplayName="No More Time" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" achievementId="2225">
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="ch11" IsSeparator="1" DisplayName="CHAPTER 11: Roots of Terror"/>
+                <MarkerCategory name="path" DisplayName="The Dark Path" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" achievementId="2619"/>
+                <MarkerCategory name="pit" DisplayName="The Pit of Despair" achievementId="2635"/>
+                <MarkerCategory name="road" DisplayName="The Troll Road" achievementId="2271"/>
+
+                <MarkerCategory name="ch13" IsSeparator="1" DisplayName="CHAPTER 13: Buried Insight"/>
+                <MarkerCategory name="ignoble" DisplayName="An Ignoble End" achievementId="2176"/>
+                <MarkerCategory name="cleaning" DisplayName="Cleaning House" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" achievementId="2551"/>
+                <MarkerCategory name="horizons" DisplayName="New Horizons" achievementId="2589">
+                    <MarkerCategory name="terminal" DisplayName="Terminal Code 01172" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="ch14" IsSeparator="1" DisplayName="CHAPTER 14: Sign Cutting"/>
+                <MarkerCategory name="sign" DisplayName="Sign Cutting" texture="Data/Images/Trails/Warclaw Prints - Small.png" animSpeed="0" achievementId="2392">
+                    <MarkerCategory name="cutting" DisplayName="Toggle Signs" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.5" maxSize="16"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="ch15" IsSeparator="1" DisplayName="CHAPTER 15: Bitter Harvest"/>
+                <MarkerCategory name="lof" DisplayName="Line of Fire" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" achievementId="2562">
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                
             </MarkerCategory>
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
             <MarkerCategory name="vb" DisplayName="Verdant Brink">
-            </MarkerCategory>
+                <MarkerCategory name="ffs" DisplayName="''Faren's Flyer'' Strongbox" achievementId="2631">
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="gots" DisplayName="''Glory of Tyria'' Strongbox" achievementId="2249">
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="lvs" DisplayName="''Lethal Vantage'' Strongbox" achievementId="2505">
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="mvs" DisplayName="''Mellaggan's Valor'' Strongbox" achievementId="2552">
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="ts" DisplayName="''Thunderbreaker'' Strongbox" achievementId="2624">
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+                <!-- Diarmid Dropper -->
+                <MarkerCategory name="diarmid" DisplayName="Diarmid Dropper" iconFile="Data/Images/Champion Blighted Diarmid.png" mapDisplaySize="64" inGameVisibility="0" achievementId="2429"/>
 
+                <!-- Father of Wyverns -->
+                <MarkerCategory name="fow" DisplayName="Father of Wyverns [Canopy]" iconFile="Data/Images/Legendary Wyvern Patriarch.png" mapDisplaySize="64" inGameVisibility="0" achievementId="2369"/>
+
+                <!-- Froglicker -->
+                <MarkerCategory name="frog" DisplayName="Froglicker [Canopy]" achievementId="2333">
+                    <MarkerCategory name="cotoni" DisplayName="Champion Cotoni" iconFile="Data/Images/Champion Cotoni.png" mapDisplaySize="64" inGameVisibility="0"/>
+                    <MarkerCategory name="huetzi" DisplayName="Champion Huetzi" iconFile="Data/Images/Champion Huetzi.png" mapDisplaySize="64" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <!-- Jungle Totem Hunter -->
+                <MarkerCategory name="jth" DisplayName="Jungle Totem Hunter" achievementId="2489">
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="totem" DisplayName="Toggle Ancient Itzel Totems" iconFile="Data/Images/Icons/Itzel Totem.png" mapDisplaySize="40" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <!-- Mother of Wyverns --> 
+                <MarkerCategory name="mow" DisplayName="Mother of Wyverns [Canopy]" iconFile="Data/Images/Legendary Wyvern Matriarch.png" mapDisplaySize="64" inGameVisibility="0" achievementId="2423"/>
+
+                <!-- Skritt Salvager -->
+                <MarkerCategory name="salvager" DisplayName="Skritt Salvager" iconFile="Data/Images/Skritt Salvager.png" heightOffset="2" maxSize="32" mapDisplaySize="32" inGameVisibility="1" achievementId="2532"/>
+
+                <!-- Sky Stalker -->
+                <MarkerCategory name="stalker" DisplayName="Sky Stalker [Canopy]" iconFile="Data/Images/Champion Gwyllion.png" mapDisplaySize="64" inGameVisibility="0" achievementId="2211"/>
+
+                <!-- Tetrad Trouncer -->
+                <MarkerCategory name="tetrad" DisplayName="Tetrad Trouncer [Canopy]" achievementId="2294">
+                    <MarkerCategory name="anwir" DisplayName="Champion Stavemaster Anwir" iconFile="Data/Images/Champion Stavemaster Anwir.png" mapDisplaySize="64" inGameVisibility="0"/>
+                    <MarkerCategory name="morthwyl" DisplayName="Champion Hammermaster Morthwyl" iconFile="Data/Images/Champion Hammermaster Morthwyl.png" mapDisplaySize="64" inGameVisibility="0"/>
+                    <MarkerCategory name="cadogg" DisplayName="Champion Blademaster Cadogg" iconFile="Data/Images/Champion Blademaster Cadogg.png" mapDisplaySize="64" inGameVisibility="0"/>
+                    <MarkerCategory name="macsen" DisplayName="Legendary Spellmaster Macsen" iconFile="Data/Images/Legendary Spellmaster Macsen.png" mapDisplaySize="64" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <!-- Wartime Sommelier -->
+                <MarkerCategory name="wine" DisplayName="Wartime Sommelier" iconFile="Data/Images/Icons/Orb - Blue - S.png" maxSize="16" mapDisplaySize="32" heightOffset="-0.5" achievementId="2563"/>
+
+            </MarkerCategory>
+            
             <MarkerCategory name="ab" DisplayName="Auric Basin">
+
+                <MarkerCategory name="es" DisplayName="''Endurance'' Strongbox" achievementId="2565">
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="soss" DisplayName="''Slice of Sky'' Strongbox" achievementId="2583">
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="vrs" DisplayName="''Vengeance Rising'' Strongbox" achievementId="2240">
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="sans" DisplayName="''Straight and Narrow'' Strongbox" achievementId="2617">
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="ots" DisplayName="''Obsidian Triumph'' Strongbox" achievementId="2512">
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <!-- A Study in Gold -->
+                <MarkerCategory name="study" DisplayName="A Study in Gold" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="2373">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                </MarkerCategory>
+
+                <!-- Egg Bearer -->
+                <MarkerCategory name="bearer" DisplayName="Egg Bearer" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="2263">
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <!-- Hidden Amphibian -->
+                <MarkerCategory name="amphib" DisplayName="Hidden Amphibian" achievementId="2216">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <!-- Invisible King -->
+                <MarkerCategory name="king" DisplayName="Invisible King" iconFile="Data/Images/Swirl - Golden.png" achievementId="2614" mapDisplaySize="128"/>
+
+                <!-- No Mask Left Behind -->
+                <MarkerCategory name="mask" DisplayName="No Mask Left Behind" achievementId="2602">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
+                </MarkerCategory>
+
+                <!-- Tarnished Traitor -->
+                <MarkerCategory name="traitor" DisplayName="Tarnished Traitor" iconFile="Data/Images/Swirl - Golden.png" achievementId="2549" mapDisplaySize="128"/>
+
+                <!-- The Golden Chicken -->
+                <MarkerCategory name="golden" DisplayName="The Golden Chicken" achievementId="2283">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <!-- Treetop Retriever -->
+                <MarkerCategory name="treetop" DisplayName="Treetop Retriever" achievementId="2574">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <!-- Vinetooth Hunter -->
+                <MarkerCategory name="hunter" DisplayName="Vinetooth Hunter" iconFile="Data/Images/Swirl - Golden.png" achievementId="2194" mapDisplaySize="128"/>
+
+                <!-- Where Exalted Dare -->
+                <MarkerCategory name="wed" DisplayName="Where Exalted Dare" color="ffcc00" achievementId="2516"/>
+
             </MarkerCategory>
 
             <MarkerCategory name="td" DisplayName="Tangled Depths">
+                
+                <!-- Cryptonym Strongbox -->
+                <MarkerCategory name="cryptonym" DisplayName="''Cryptonym'' Strongbox" achievementId="2365">
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <!-- Plains of Golghein Strongbox -->
+                <MarkerCategory name="golghein" DisplayName="''Plains of Golghein'' Strongbox [Req's Meta]" achievementId="2446">
+                    <MarkerCategory name="info" DisplayName="Toggle Info" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true"/>
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <!-- Shard of Brilliance Strongbox -->
+                <MarkerCategory name="shard" DisplayName="''Shard of Brilliance''  Strongbox" achievementId="2210">
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <!-- Sword of Smodur Strongbox -->
+                <MarkerCategory name="smodur" DisplayName="''Sword of Smodur'' Strongbox" achievementId="2326">
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <!-- Whitebear's Pride II Strongbox -->
+                <MarkerCategory name="whitebear" DisplayName="''Whitebear's Pride II'' Strongbox" achievementId="2437">
+                    <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <!-- Archeotech Adept -->
+                <MarkerCategory name="archeotech" DisplayName="Archeotech Adept" achievementId="2453">
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="32" inGameVisibility="1"/>
+                    <MarkerCategory name="items" IsSeparator="1" DisplayName="Collection items"/>
+                    <MarkerCategory name="coolant" DisplayName="Toggle Coolant Tank (Blue)" iconFile="Data/Images/Circle - Teal.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="accelerator" DisplayName="Toggle Inertial Accelerator (Orange)" iconFile="Data/Images/Circle - Orange.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="core" DisplayName="Toggle Power Core (Green)" iconFile="Data/Images/Circle - Green.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="unit" DisplayName="Toggle Processing Unit (Pink)" iconFile="Data/Images/Circle - Pink.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="gyroscope" DisplayName="Toggle Whirling Gyroscope (Red)" iconFile="Data/Images/Circle - Red.png" maxSize="24" inGameVisibility="1" heightOffset="0"/>
+                </MarkerCategory>
+
+                <!-- Disco Dancing Delver -->
+                <MarkerCategory name="disco" DisplayName="Disco Dancing Delver" achievementId="2207">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="emote" DisplayName="Toggle Dance Emote" iconFile="Data/Images/Emote - Dance.png"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="trail" IsSeparator="1" DisplayName="TRAIL"/>
+                    <MarkerCategory name="main" DisplayName="Toggle Main Trail"/>
+                    <MarkerCategory name="alt" DisplayName="Toggle No Exalted Markings Trail"/>
+                </MarkerCategory>
+
+                <!-- Elusive Elemental Eliminator  -->
+                <MarkerCategory name="elusive" DisplayName="Elusive Elemental Eliminator" achievementId="2459">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Swirl - Golden.png" mapDisplaySize="128" inGameVisibility="0"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <!-- Lore Untangler -->
+                <MarkerCategory name="lore" DisplayName="Lore Untangler" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="2579">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <!-- Lost Lab Locator -->
+                <MarkerCategory name="lost" DisplayName="Lost Lab Locator" achievementId="2603">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <!-- Ogre Airship Climber -->
+                <MarkerCategory name="ogre" DisplayName="Ogre Airship Climber" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="2323">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <!-- Potoni Masher -->
+                <MarkerCategory name="potoni" DisplayName="Potoni Masher" achievementId="2615" iconFile="Data/Images/Swirl - Golden.png" mapDisplaySize="128" inGameVisibility="0"/>
+
+                <!-- Pulse Room Glider -->
+                <MarkerCategory name="pulse" DisplayName="Pulse Room Glider" achievementId="2321">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <!-- Regurgicidal -->
+                <MarkerCategory name="regurgicidal" DisplayName="Regurgicidal" iconFile="Data/Images/Swirl - Golden.png" mapDisplaySize="128" inGameVisibility="0" achievementId="2237"/>
+
+                <!-- The Longest Glide -->
+                <MarkerCategory name="glide" DisplayName="The Longest Glide" achievementId="2462">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
             </MarkerCategory>
 
+            <!-- DRAGON'S STAND -->
             <MarkerCategory name="ds" DisplayName="Dragon's Stand">
+
+
+            <!-- Dragon's Stand Overviewer -->
+
+            <!-- Strongboxes -->
+            <MarkerCategory name="dragonrender" DisplayName="''Dragonrender'' Strongbox" achievementId="2538">
+                <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+            </MarkerCategory>
+            <MarkerCategory name="owl" DisplayName="''Legacy of Owl'' Strongbox" achievementId="2515">
+                <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+            </MarkerCategory>
+            <MarkerCategory name="pride" DisplayName="''Pride of Lion's Arch'' Strongbox" achievementId="2214">
+                <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+            </MarkerCategory>
+            <MarkerCategory name="scorchrazor" DisplayName="''Scorchrazor II'' Strongbox" achievementId="2544">
+                <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+                <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+            </MarkerCategory>
+            <MarkerCategory name="unsolved" DisplayName="''Unsolved Conundrum'' Strongbox" achievementId="2243">
+                <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
+            </MarkerCategory>
+
+            <!-- Dragon's Stand Overviewer -->
+            <MarkerCategory name="overview" DisplayName="Dragon's Stand Overviewer" achievementId="2265">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+            </MarkerCategory>
+
+            <!-- Ley Line Glider -->
+            <MarkerCategory name="leyline" DisplayName="Ley Line Glider" achievementId="2425">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+            </MarkerCategory>
+
+            <!-- Prismatic Percher -->
+            <MarkerCategory name="percher" DisplayName="Prismatic Percher" achievementId="2601">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+            </MarkerCategory>
+
+            <!-- Shooting Star -->
+            <MarkerCategory name="star" DisplayName="Shooting Star" achievementId="2439">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+            </MarkerCategory>
+
+            <!-- Sum Viewer -->
+            <MarkerCategory name="sum" DisplayName="Sum Viewer" achievementId="2401">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+            </MarkerCategory>
+
+            <!-- Wallowing Whiz -->
+            <MarkerCategory name="whiz" DisplayName="Wallowing Whiz" achievementId="2387">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+            </MarkerCategory>
+
             </MarkerCategory>
         </MarkerCategory>
-        -->
+        
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>
