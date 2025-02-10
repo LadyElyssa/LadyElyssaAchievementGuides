@@ -311,8 +311,8 @@
         <Trail type="leag.hot.td.elusive" trailData="Data/HoT/Elusive Elemental Eliminator.trl"/>
         <POI MapID="1045" xpos="21.4489" ypos="125" zpos="366.779" type="leag.hot.td.elusive.start" GUID="SlEBLwZdp02Cd3eAawPVzA=="/>
         <POI MapID="1045" xpos="146.974" ypos="127.657" zpos="-20.6777" type="leag.hot.td.elusive.event" GUID="1GNAPBZ78UenO4cb0E6Feg=="/>
-        <POI MapID="1045" xpos="72.2145" ypos="104.829" zpos="-6.85529" type="leag.hot.td.elusive.glider" GUID="4hhB+SC9f0CAF/dOiEcdZA=="/>
-        <POI MapID="1045" xpos="87.1477" ypos="123.576" zpos="-73.8659" type="leag.hot.td.elusive.glider" GUID="YexRj7Qz/kqUZTVdltTA3g=="/>
+        <POI MapID="1045" xpos="72.2145" ypos="104.829" zpos="-6.85529" type="leag.hot.td.elusive.glider" GUID="+z8fYTHCvkizNj5OUKIQDQ=="/>
+        <POI MapID="1045" xpos="87.1477" ypos="123.576" zpos="-73.8659" type="leag.hot.td.elusive.glider" GUID="jnKCQPXLrEqVo1m0GKs9Ng=="/>
 
         <!-- Lore Untangler -->
         <Trail type="leag.hot.td.lore" trailData="Data/HoT/Lore Untangler Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
