@@ -6,8 +6,6 @@ A new collection of Markers and Trails for use with [GW2 TacO](https://www.gw2ta
 
 This pack focuses purely on Achievements and Collections by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of **_1000+ Trails_** and **_3000+ Markers_**. [[1]](https://mp-repo.blishhud.com/LadyElyssaAP.taco.html), [[2]](https://somsubhra.github.io/github-release-stats/?username=LadyElyssa&repository=LadyElyssaAchievementGuides&page=1&per_page=10000), [[3]](https://qwertycube.com/github-release-stats/) 
 
-This pack began with Secrets of the Obscure and followed up with Janthir Wilds. I am now working my way back through the End of Dragons, Path of Fire and finally Heart of Thorns expansion before working my way forwward through the Living World Episodes.
-
 Principles
 * Markers and Trails for non-repeatable Achievements & Collections, for mostly repeatable content see [LadyElyssaTacoTrails](https://github.com/LadyElyssa/LadyElyssaTacoTrails)
 * Aim to provide smooth trails by:
@@ -27,7 +25,11 @@ This pack currently covers:
 * Wintersday
 
 ## Heart of Thorns ##
-* Work in Progress...
+* Story Achievements
+* Verdant Brink
+* Auric Basin
+* Tangled Depths
+* Dragons Stand
 
 ## Path of Fire ##
 * Story Achievements
