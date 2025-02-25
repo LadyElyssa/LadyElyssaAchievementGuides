@@ -1,0 +1,184 @@
+<OverlayData>
+    <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
+        
+        <MarkerCategory name="lws1" DisplayName="LWS1: Scarlet's War">
+
+            <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
+
+                <MarkerCategory name="ch1" IsSeparator="1" DisplayName="CHAPTER 1: Flame and Frost"/>
+                
+                <MarkerCategory name="istudy1" DisplayName="Investigative Study 1" achievementId="6535">
+                    <MarkerCategory name="info" DisplayName="Information" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.5" maxSize="16" MapDisplaySize="32" behavior="3"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="memorial" DisplayName="Molten Memorial" achievementId="6548">
+                    <MarkerCategory name="keepsake" DisplayName="Keepsakes" iconFile="Data/Images/Notes.png" inGameVisibility="0" MapDisplaySize="32">
+                        <MarkerCategory name="drawing" DisplayName="Crude Drawing [Lion's Arch]" iconFile="Data/Images/Icons/Talk.png" heightOffset="3.0" MapDisplaySize="32"/>
+                        <MarkerCategory name="pages" DisplayName="Crumpled Pages [Black Citadel]" iconFile="Data/Images/Icons/Talk.png" heightOffset="3.0" MapDisplaySize="32"/>
+                        <MarkerCategory name="letter" DisplayName="Torn Letter [Hoelbrak]" iconFile="Data/Images/Icons/Talk.png" heightOffset="3.0" MapDisplaySize="32"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="ron" DisplayName="Ready Ore Not" achievementId="6528">
+                    <MarkerCategory name="ore" DisplayName="Ore Node" iconFile="Data/Images/Icons/Ore.png" inGameVisibility="0" MapDisplaySize="40" behavior="3"/>
+                </MarkerCategory>
+                <MarkerCategory name="contact" DisplayName="Secret Contact" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" MapDisplaySize="32" achievementId="537">
+                    <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                    <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="ch2" IsSeparator="1" DisplayName="CHAPTER 2: Sky Pirates of Tyria"/>
+
+                <MarkerCategory name="aether" DisplayName="Aether Investigation" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" MapDisplaySize="32" achievementId="665"/>
+                <MarkerCategory name="asset" DisplayName="Asset Recovery" iconFile="Data/Images/Icons/Chests - Asura.png" behavior="3" inGameVisibility="0" MapDisplaySize="32" achievementId="665"/>
+                <MarkerCategory name="brute" DisplayName="Don't be Rude to the Brute" iconFile="Data/Images/Emote - Salute.png" achievementId="679"/>
+                <MarkerCategory name="epm" DisplayName="Every Piece Matters" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" MapDisplaySize="32" achievementId="665"/>
+                <MarkerCategory name="istudy2" DisplayName="Investigative Study 2" achievementId="6560">
+                    <MarkerCategory name="info" DisplayName="Information" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.5" maxSize="16" MapDisplaySize="32" behavior="3"/>
+                </MarkerCategory>
+                <MarkerCategory name="mai" DisplayName="Questions for Mai" iconFile="Data/Images/Icons/Talk.png" achievementId="681" heightOffset="2.5" maxSize="24" behavior="3"/>
+                
+                <MarkerCategory name="tassi" DisplayName="Tassi Master" iconFile="Data/Images/Icons/Target with Shadow.png" achievementId="6567" heightOffset="-0.1" maxSize="16"/>
+
+
+                <MarkerCategory name="ch3" IsSeparator="1" DisplayName="CHAPTER 3: Clockwork Chaos"/>
+
+                <MarkerCategory name="finest" DisplayName="Kryta's Finest" iconFile="Data/Images/Emote - Cheer.png" info="Cheer for Logan after he claims victory in the arena.&#xa;&#xa;(when Watchknight is Downed)" infoRange="5" autoTrigger="1" achievementId="6695"/>
+                
+                <MarkerCategory name="defusing" DisplayName="Deft Defusing" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00" achievementId="6691"/>
+
+                <MarkerCategory name="invasion" DisplayName="Clockwork Invasion" achievementId="6684"/>
+
+                <MarkerCategory name="irecord1" DisplayName="Investigative Record 1" achievementId="6685">
+                    <MarkerCategory name="record" DisplayName="Record" iconFile="Data/Images/Icons/Orb - Purple - S.png" heightOffset="-0.5" maxSize="16" MapDisplaySize="32" behavior="3"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="istudy3" DisplayName="Investigative Study 3" achievementId="6690">
+                    <MarkerCategory name="info" DisplayName="Information" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.5" maxSize="16" MapDisplaySize="32" behavior="3"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="spoils" DisplayName="Spoils of Chaos" achievementId="6687">
+                    <MarkerCategory name="chest" DisplayName="Chest" iconFile="Data/Images/Icons/Chest_Red.png" heightOffset="-0.5" maxSize="16" MapDisplaySize="32" behavior="3"/>
+                </MarkerCategory>
+
+
+                <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: Tower of Nightmares"/>
+
+                <MarkerCategory name="irecord2" DisplayName="Investigative Record 2" achievementId="6760">
+                    <MarkerCategory name="record" DisplayName="Record" iconFile="Data/Images/Icons/Orb - Purple - S.png" heightOffset="-0.5" maxSize="16" MapDisplaySize="32" behavior="3"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="istudy4" DisplayName="Investigative Study 4" achievementId="6756">
+                    <MarkerCategory name="info" DisplayName="Information" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.5" maxSize="16" MapDisplaySize="32" behavior="3"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="antitoxin" DisplayName="Making the Antitoxin" achievementId="6751" iconFile="Data/Images/Swirl - Light Green.png" inGameVisibility="0"  mapDisplaySize="128"/>
+                <MarkerCategory name="ton" DisplayName="Tower of Nightmares (Instance)" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+                <MarkerCategory name="tot" DisplayName="Tower of Treasures" achievementId="6762" iconFile="Data/Images/Icons/Chest_Green.png" inGameVisibility="0"  mapDisplaySize="32"/>
+
+                
+                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: Battle for Lion's Arch"/>
+
+                <!-- CHAPTER 5: Battle for Lion's Arch -->
+
+                <!-- All Bets Are Off -->
+                <MarkerCategory name="moa" DisplayName="All Bets Are Off" achievementId="1385" iconFile="Data/Images/Icons/Racing Moa.png" inGameVisibility="0" MapDisplaySize="32" behavior="3"/>                
+
+                <!-- All Bets Are Still Off -->
+
+                <!-- I've Lived Things -->
+                <MarkerCategory name="taimi" DisplayName="I've Lived Things" achievementId="6789" iconFile="Data/Images/Icons/Talk.png" heightOffset="4.0" maxSize="16" MapDisplaySize="32" behavior="3"/>
+
+                <!-- Investigative Record -->
+                <MarkerCategory name="irecord3" DisplayName="Investigative Record 3" achievementId="6799">
+                    <MarkerCategory name="record" DisplayName="Record" iconFile="Data/Images/Icons/Orb - Purple - S.png" heightOffset="-0.5" maxSize="16" MapDisplaySize="32" behavior="3"/>
+                </MarkerCategory>
+
+                <!-- Investigative Study -->
+                <MarkerCategory name="istudy5" DisplayName="Investigative Study 5" achievementId="6812">
+                    <MarkerCategory name="info" DisplayName="Information" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.5" maxSize="16" MapDisplaySize="32" behavior="3"/>
+                </MarkerCategory>
+
+                <!-- Liberate Lion's Arch from Scarlet's Forces -->
+                <MarkerCategory name="liberate" DisplayName="Liberate Lion's Arch">
+                    <MarkerCategory name="aetherblades" IsSeparator="1" DisplayName="AETHERBLADES"/>
+                    <MarkerCategory name="elite" DisplayName="Elite Aetherblades" iconFile="Data/Images/Icons/Elite Rank NPC.png" inGameVisibility="0" MapDisplaySize="64"/>
+                    <MarkerCategory name="admiral" DisplayName="Champion Aetherblade Admiral" iconFile="Data/Images/Champion Aetherblade Admiral.png" inGameVisibility="0" MapDisplaySize="64"/>
+                    <MarkerCategory name="cannoneer" DisplayName="Champion Aetherblade Cannoneer" iconFile="Data/Images/Champion Aetherblade Cannoneer.png" inGameVisibility="0" MapDisplaySize="64"/>
+                    <MarkerCategory name="molten" IsSeparator="1" DisplayName="MOLTEN"/>
+                    <MarkerCategory name="berserker" DisplayName="Champion Molten Berserker" iconFile="Data/Images/Champion Molten Berserker.png" inGameVisibility="0" MapDisplaySize="64"/>
+                    <MarkerCategory name="munitions" DisplayName="Champion Molten Munitions Specialist" iconFile="Data/Images/Champion Molten Munitions Specialist.png" inGameVisibility="0" MapDisplaySize="64"/>
+                    <MarkerCategory name="shaman" DisplayName="Champion Molten Fire Shaman" iconFile="Data/Images/Champion Molten Fire Shaman.png" inGameVisibility="0" MapDisplaySize="64"/>
+                    <MarkerCategory name="toxic" IsSeparator="1" DisplayName="TOXIC"/>
+                    <MarkerCategory name="spider" DisplayName="Champion Toxic Spider Queen" iconFile="Data/Images/Champion Toxic Spider Queen.png" inGameVisibility="0" MapDisplaySize="64"/>
+                    <MarkerCategory name="warlock" DisplayName="Champion Toxic Warlock" iconFile="Data/Images/Champion Toxic Warlock.png" inGameVisibility="0" MapDisplaySize="64"/>
+                    <MarkerCategory name="wurm" DisplayName="Champion Toxic Wurm Queen" iconFile="Data/Images/Champion Toxic Wurm Queen.png" inGameVisibility="0" MapDisplaySize="64"/>
+                    <!--
+                    <MarkerCategory name="assault" IsSeparator="1" DisplayName="ASSAULT KNIGHTS"/>
+                    <MarkerCategory name="dynamic" DisplayName="Dynamic Assault Knight (Blue)" iconFile="Data/Images/Swirl - Purple.png" inGameVisibility="0" MapDisplaySize="128"/>
+                    <MarkerCategory name="static" DisplayName="Static Assault Knight (Red)" iconFile="Data/Images/Swirl - Purple.png" inGameVisibility="0" MapDisplaySize="128"/>
+                    <MarkerCategory name="synergetic" DisplayName="Synergetic Assault Knight (Green)" iconFile="Data/Images/Swirl - Purple.png" inGameVisibility="0" MapDisplaySize="128"/>
+                    -->
+                </MarkerCategory>
+
+                <!-- Memories in Your Hand -->
+                <MarkerCategory name="memories" DisplayName="Memories in Your Hand" achievementId="1396" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                    <MarkerCategory name="heirloom" DisplayName="Heirloom" iconFile="Data/Images/Icons/Heirloom.png" inGameVisibility="0" MapDisplaySize="32" behavior="3"/>
+                </MarkerCategory>
+
+                <!-- Please Follow Me to the Exit -->
+                <MarkerCategory name="exit" DisplayName="Please Follow Me to the Exit" achievementId="1392" iconFile="Data/Images/Icons/Talk.png" inGameVisibility="0" MapDisplaySize="32" behavior="3"/>
+
+                <!-- Soft Lander -->
+                <MarkerCategory name="soft" DisplayName="Soft Lander" achievementId="816" iconFile="Data/Images/Icons/Jumping.png" MaxSize="16" MapDisplaySize="32"/>
+
+            </MarkerCategory>
+
+            <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+            
+            <MarkerCategory name="bc" DisplayName="Black Citadel">
+                <MarkerCategory name="memorial" DisplayName="Molten Memorial" achievementId="6548">
+                    <MarkerCategory name="pages" DisplayName="Crumpled Pages" iconFile="Data/Images/Icons/Talk.png" heightOffset="4.0" MapDisplaySize="32"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <MarkerCategory name="hb" DisplayName="Hoelbrak">
+                <MarkerCategory name="memorial" DisplayName="Molten Memorial" achievementId="6548">
+                    <MarkerCategory name="letter" DisplayName="Torn Letter" iconFile="Data/Images/Icons/Talk.png" heightOffset="4.0" MapDisplaySize="32"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <MarkerCategory name="la" DisplayName="Lion's Arch">
+                <MarkerCategory name="memorial" DisplayName="Molten Memorial" achievementId="6548">
+                    <MarkerCategory name="drawing" DisplayName="Crude Drawing" iconFile="Data/Images/Icons/Talk.png" heightOffset="4.0" MapDisplaySize="32"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+            <MarkerCategory name="diessa" DisplayName="Diessa Plateau">
+
+                <MarkerCategory name="laf" DisplayName="Lost and Found" achievementId="536">
+                    <MarkerCategory name="dirt" DisplayName="Dirt-Covered Object" iconFile="Data/Images/Circlet.png" inGameVisibility="0" MapDisplaySize="32"/>
+                </MarkerCategory>
+
+
+                <MarkerCategory name="refugee" DisplayName="Refugee Volunteer" achievementId="460">
+                    <MarkerCategory name="events" DisplayName="Events" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" MapDisplaySize="128"/>
+                    <MarkerCategory name="campfire" DisplayName="Campfire" iconFile="Data/Images/Icons/Campfire.png" inGameVisibility="0" MapDisplaySize="32"/>
+                    <MarkerCategory name="eavesdroppers" DisplayName="Eavesdroppers" iconFile="Data/Images/Icons/Eavesdropper.png" inGameVisibility="0" MapDisplaySize="32"/>
+                    <MarkerCategory name="sign" DisplayName="Refugee Sign Post" iconFile="Data/Images/Icons/Refugee Sign.png" inGameVisibility="0" MapDisplaySize="32"/>
+                </MarkerCategory>
+
+            </MarkerCategory>
+
+            <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills">
+
+                <MarkerCategory name="laf" DisplayName="Lost and Found" achievementId="536">
+                    <MarkerCategory name="snow" DisplayName="Snow-Covered Object" iconFile="Data/Images/Circlet.png" inGameVisibility="0" MapDisplaySize="32"/>
+                </MarkerCategory>
+
+            </MarkerCategory>
+
+        </MarkerCategory>
+        
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's AP Guides -->
+</OverlayData>

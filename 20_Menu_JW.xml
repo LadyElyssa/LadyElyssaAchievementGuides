@@ -163,15 +163,14 @@
 
             <MarkerCategory name="gmg" DisplayName="Golden Mushroom Guru" achievementId="8183"/>
 
-            <MarkerCategory name="jth" DisplayName="Janthiri Treasure Hunter">
+            <MarkerCategory name="jth" DisplayName="Janthiri Treasure Hunter" behavior="2">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-                <MarkerCategory name="dig" DisplayName="Possible Dig Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="0" iconFile="Data/Images/Warclaw Dig.png"/>
+                <MarkerCategory name="dig" DisplayName="Possible Dig Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" iconFile="Data/Images/Warclaw Dig.png"/>
                 <MarkerCategory name="path" DisplayName="Path Number" miniMapVisibility="1" inGameVisibility="1">
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
                 </MarkerCategory>
             </MarkerCategory>
 
@@ -328,7 +327,7 @@
             <!-- Island Adventure -->
             <MarkerCategory name="islandadv" DisplayName="Island Adventurer" texture="Data/Images/Trails/Trail Marker 2.png" achievementId="8281"/>
 
-            <MarkerCategory name="jth" DisplayName="Janthiri Treasure Hunter">
+            <MarkerCategory name="jth" DisplayName="Janthiri Treasure Hunter" behavior="2">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
