@@ -1,0 +1,322 @@
+<OverlayData>
+    <POIs>
+        <!-- CHAPTER 1: Flame and Frost -->
+    
+        <!-- Molten Memorial -->
+        <POI MapID="901" xpos="-133.438" ypos="127.317" zpos="-42.425" type="leag.lws1.story.memorial.keepsake" GUID="R4AJp12LaUmhHpxSKOt/bQ=="/>
+        <POI MapID="901" xpos="-157.997" ypos="215.644" zpos="-114.72" type="leag.lws1.story.memorial.keepsake" GUID="td0AeD4X9UmZLM4BJhri0Q=="/>
+        <POI MapID="901" xpos="-42.435" ypos="139.888" zpos="-35.7132" type="leag.lws1.story.memorial.keepsake" GUID="i+8D50SxAEmb0Wcabv4DPg=="/>
+
+        <!-- Investigative Study 1 -->
+        <POI MapID="1467" xpos="1.98183" ypos="246.533" zpos="207.632" type="leag.lws1.story.istudy1.info" GUID="Mwme9H0qCkeId+klkPsn7Q=="/>
+        <POI MapID="1467" xpos="12.781" ypos="246.389" zpos="224.329" type="leag.lws1.story.istudy1.info" GUID="9/LeeqtTrUm3Lh9BzxvjWw=="/>
+        <POI MapID="1467" xpos="12.5014" ypos="246.389" zpos="227.235" type="leag.lws1.story.istudy1.info" GUID="eapazMC96keSag/iyS1mBg=="/>
+        <POI MapID="1364" xpos="-315.343" ypos="210.669" zpos="-67.4562" type="leag.lws1.story.istudy1.info" GUID="G6qffij9dEGQK6+b8pMBGA=="/>
+        <POI MapID="901" xpos="-178.703" ypos="227.376" zpos="30.0227" type="leag.lws1.story.istudy1.info" GUID="f6TOeoRd3UmTshjXn93fuQ=="/>
+        <POI MapID="901" xpos="-242.975" ypos="209.481" zpos="-149.683" type="leag.lws1.story.istudy1.info" GUID="rEmBYbZAkU+zxQ0Yn/ehHA=="/>
+        <POI MapID="901" xpos="4.96023" ypos="148.254" zpos="-62.0258" type="leag.lws1.story.istudy1.info" GUID="CRUlBFZ2EE6wzzgDDHhrWA=="/>
+        <POI MapID="901" xpos="-222.052" ypos="209.486" zpos="-164.07" type="leag.lws1.story.istudy1.info" GUID="PvLKHWkRykiVYsiD7HzGng=="/>
+
+        <!-- Lost and Found - Diessa Plateau -->
+        <POI MapID="32" xpos="-833.958" ypos="61.6405" zpos="21.8057" type="leag.lws1.diessa.laf.dirt" GUID="6lA8g6e/eECpJHc4SVFMAQ=="/>
+        <POI MapID="32" xpos="-694.321" ypos="36.0728" zpos="-63.9853" type="leag.lws1.diessa.laf.dirt" GUID="T6Lzoz0GsUedhFDLdFl2RQ=="/>
+        <POI MapID="32" xpos="-732.402" ypos="92.2128" zpos="303.9" type="leag.lws1.diessa.laf.dirt" GUID="4sJzLmvubUqp7Hd0XNn2jQ=="/>
+        <POI MapID="32" xpos="-534.387" ypos="30.8329" zpos="-445.764" type="leag.lws1.diessa.laf.dirt" GUID="agenePLxEkynKxjbL+gVtA=="/>
+        <POI MapID="32" xpos="-565.342" ypos="55.0639" zpos="224.123" type="leag.lws1.diessa.laf.dirt" GUID="NR6LI+erSUKPMAifUMr26g=="/>
+        <POI MapID="32" xpos="-738.961" ypos="46.2788" zpos="-50.0223" type="leag.lws1.diessa.laf.dirt" GUID="87WPVdiz7EOMfcnDqNB8yQ=="/>
+        <POI MapID="32" xpos="-779.791" ypos="46.9052" zpos="3.6209" type="leag.lws1.diessa.laf.dirt" GUID="ZJImtqSff0aRIfx0i20Aqw=="/>
+        <POI MapID="32" xpos="-799.288" ypos="55.9188" zpos="34.7636" type="leag.lws1.diessa.laf.dirt" GUID="EjA/+NUz9ECg4YDrBKPfsw=="/>
+        <POI MapID="32" xpos="-733.283" ypos="46.4681" zpos="-38.2152" type="leag.lws1.diessa.laf.dirt" GUID="5l2LDLJ6V0mYWH83DO1uJQ=="/>
+        <POI MapID="32" xpos="-603.175" ypos="72.9619" zpos="338.353" type="leag.lws1.diessa.laf.dirt" GUID="oNq8D691JU+tBTgmf1sRkQ=="/>
+        <POI MapID="32" xpos="-493.139" ypos="88.2271" zpos="288.819" type="leag.lws1.diessa.laf.dirt" GUID="HLOhwNdM1Em2jajA+Aw79Q=="/>
+        
+        <!-- Lost and Found - Wayfarer Foothills -->
+        <POI MapID="28" xpos="328.652" ypos="111.602" zpos="882.72" type="leag.lws1.wayfarer.laf.snow" GUID="1PVLwz565UaMQAO/THEJ3Q=="/>
+        <POI MapID="28" xpos="329.208" ypos="114.067" zpos="845.818" type="leag.lws1.wayfarer.laf.snow" GUID="AiHe9DwaeECvqO/HQnGnEQ=="/>
+        <POI MapID="28" xpos="370.65" ypos="70.5124" zpos="165.189" type="leag.lws1.wayfarer.laf.snow" GUID="T6T6sth6RUOLoVFVXX66Ng=="/>
+        <POI MapID="28" xpos="87.5015" ypos="110.372" zpos="891.166" type="leag.lws1.wayfarer.laf.snow" GUID="5owk7ofHckaTjUw3MmAEVQ=="/>
+        <POI MapID="28" xpos="241.973" ypos="183.768" zpos="1178.05" type="leag.lws1.wayfarer.laf.snow" GUID="7wsOOWIoeUeqeAVGbnTPlg=="/>
+        <POI MapID="28" xpos="323.673" ypos="58.5011" zpos="95.6898" type="leag.lws1.wayfarer.laf.snow" GUID="8L3JhnyDIUOWWymnGDpP4w=="/>
+        <POI MapID="28" xpos="210.134" ypos="203.892" zpos="1233.23" type="leag.lws1.wayfarer.laf.snow" GUID="RlINLcTi1kKylHUxWPMiWQ=="/>
+        <POI MapID="28" xpos="30.5009" ypos="120.865" zpos="844.56" type="leag.lws1.wayfarer.laf.snow" GUID="Yrg0PxhQt0mMqZwJQtep5w=="/>
+        <POI MapID="28" xpos="-32.1151" ypos="124.71" zpos="723.713" type="leag.lws1.wayfarer.laf.snow" GUID="OeNQJcR8uUCFff6LdWvM2g=="/>
+        <POI MapID="28" xpos="133.174" ypos="84.117" zpos="397.431" type="leag.lws1.wayfarer.laf.snow" GUID="fVoJxz9m30WBDHonXGWx+Q=="/>
+        <POI MapID="28" xpos="351.612" ypos="73.4206" zpos="100.558" type="leag.lws1.wayfarer.laf.snow" GUID="PWX1u+2zUEqYRuWJVdEqYg=="/>
+        <POI MapID="28" xpos="5.30077" ypos="105.589" zpos="443.507" type="leag.lws1.wayfarer.laf.snow" GUID="4p5CbIWFQEqQh1V7Kaw3dg=="/>
+        <POI MapID="28" xpos="154.846" ypos="199.711" zpos="1190.07" type="leag.lws1.wayfarer.laf.snow" GUID="BhmghCmITEuKKYmRZQr9DA=="/>
+        <POI MapID="28" xpos="154.846" ypos="199.711" zpos="1190.07" type="leag.lws1.wayfarer.laf.snow" GUID="BhmghCmITEuKKYmRZQr9DA=="/>
+        <POI MapID="28" xpos="-17.9609" ypos="109.434" zpos="404.099" type="leag.lws1.wayfarer.laf.snow" GUID="+uBEg3HWYkiCNiFwaXlHQA=="/>
+
+        <!-- Molten Memorial -->
+        <POI MapID="50" xpos="371.978" ypos="29.5842" zpos="332.211" type="leag.lws1.la.memorial.drawing" GUID="3/uhi/eR6k6g1dlODQ9dew=="/>
+        <POI MapID="326" xpos="391.801" ypos="261.967" zpos="-118.79" type="leag.lws1.hb.memorial.letter" GUID="fXp4NVGoZE6MVkQaeBBdew=="/>
+        <POI MapID="218" xpos="-97.096" ypos="18.2097" zpos="-187.225" type="leag.lws1.bc.memorial.pages" GUID="4qul89P2yU+qJXuaLjZ49A=="/>
+
+        <!-- Ready Ore Not -->
+        <POI MapID="901" xpos="277.724" ypos="260.923" zpos="168.749" type="leag.lws1.story.ron.ore" GUID="0HcXEwmy5ECR0IRQErPkvA=="/>
+        <POI MapID="901" xpos="134.312" ypos="258.175" zpos="164.222" type="leag.lws1.story.ron.ore" GUID="Is2BWWHaGUulItQh2h9crA=="/>
+        <POI MapID="901" xpos="54.832" ypos="257.913" zpos="157.489" type="leag.lws1.story.ron.ore" GUID="P1hFB+9PnUqYoO8cQwRl/A=="/>
+        <POI MapID="901" xpos="26.2171" ypos="255.227" zpos="111.385" type="leag.lws1.story.ron.ore" GUID="Y8OoGMHDfU60HJPacUDSQQ=="/>
+        <POI MapID="901" xpos="-17.3229" ypos="255.289" zpos="150.492" type="leag.lws1.story.ron.ore" GUID="cI7pK+xJEE+4CJStvoMj8A=="/>
+        <POI MapID="901" xpos="-17.0719" ypos="264.775" zpos="156.195" type="leag.lws1.story.ron.ore" GUID="LCpEZyxaekOxLdaMXWqHyA=="/>
+        <POI MapID="901" xpos="20.0028" ypos="264.208" zpos="162.431" type="leag.lws1.story.ron.ore" GUID="vIR/y4cubEyCmgsbUTnTQg=="/>
+        <POI MapID="901" xpos="-249.693" ypos="215.34" zpos="193.006" type="leag.lws1.story.ron.ore" GUID="QrdvgYiXZkiCxznL2ri3qw=="/>
+        <POI MapID="901" xpos="-167.42" ypos="240.684" zpos="80.3957" type="leag.lws1.story.ron.ore" GUID="qatbOW2js0ekBGIEZbtxGw=="/>
+        <POI MapID="901" xpos="-244.803" ypos="227.363" zpos="-18.3431" type="leag.lws1.story.ron.ore" GUID="oWZXBRVfMUSpOoNCdQNGag=="/>
+        <POI MapID="901" xpos="-160.445" ypos="206.193" zpos="-157.081" type="leag.lws1.story.ron.ore" GUID="3ebX6oij8EuphWYAGPhq5w=="/>
+        <POI MapID="901" xpos="-96.8618" ypos="140.429" zpos="-118.217" type="leag.lws1.story.ron.ore" GUID="Ii5vo+oHVkKRaKipSLsP7A=="/>
+        <POI MapID="901" xpos="-100.273" ypos="131.847" zpos="54.8796" type="leag.lws1.story.ron.ore" GUID="E9Eqd9NEMUWpcm5/RuiTsA=="/>
+        <POI MapID="901" xpos="86.7105" ypos="255.737" zpos="112.697" type="leag.lws1.story.ron.ore" GUID="XTFElaRTlU2hmKMxfxcOAA=="/>
+        <POI MapID="901" xpos="-125.818" ypos="269.327" zpos="141.076" type="leag.lws1.story.ron.ore" GUID="pJAuwFkyI0W+WGvyTCdqng=="/>
+        <POI MapID="901" xpos="29.4533" ypos="170.139" zpos="-231.361" type="leag.lws1.story.ron.ore" GUID="53PXgcdXm0OVVy7gsxM2Tw=="/>
+
+        <!-- Refugee Volunteer -->
+
+        <POI MapID="32" xpos="-905.704" ypos="77.5297" zpos="-507.085" type="leag.lws1.diessa.refugee.eavesdroppers" GUID="Jq53gQCaJ0S2jRu8+6xq/w=="/>
+        <POI MapID="32" xpos="-529.483" ypos="69.7673" zpos="369.396" type="leag.lws1.diessa.refugee.eavesdroppers" GUID="Tpjlg6z7RUibpbnxZQ5X5A=="/>
+        <POI MapID="32" xpos="-584.538" ypos="50.8218" zpos="99.1193" type="leag.lws1.diessa.refugee.eavesdroppers" GUID="SEcOBiKY2kOAoP4Xep77Cw=="/>
+        <POI MapID="32" xpos="-130.79" ypos="37.7603" zpos="288.806" type="leag.lws1.diessa.refugee.eavesdroppers" GUID="Tnb2sr9JdUe2me3iSlwyWw=="/>
+        <POI MapID="32" xpos="-148.477" ypos="37.3298" zpos="-245.193" type="leag.lws1.diessa.refugee.eavesdroppers" GUID="qk61BgFBrU+MtYS4vTKCxg=="/>
+        <POI MapID="32" xpos="90.0279" ypos="39.3509" zpos="-109.543" type="leag.lws1.diessa.refugee.eavesdroppers" GUID="bZ5dEk8fi02XrtHbPGeTiA=="/>
+        <POI MapID="32" xpos="444.844" ypos="30.3357" zpos="175.65" type="leag.lws1.diessa.refugee.eavesdroppers" GUID="Wk4yBzYkv06W5TCyX9kr0Q=="/>
+        <POI MapID="32" xpos="855.792" ypos="32.9526" zpos="-92.229" type="leag.lws1.diessa.refugee.eavesdroppers" GUID="984eAsg9skmD0wuWll0cVQ=="/>
+        <POI MapID="32" xpos="620.196" ypos="29.6757" zpos="-318.969" type="leag.lws1.diessa.refugee.eavesdroppers" GUID="GbQBUa+HYk2n272GVbp4dg=="/>
+        <POI MapID="32" xpos="294.503" ypos="25.5512" zpos="-403.105" type="leag.lws1.diessa.refugee.eavesdroppers" GUID="hX74+QBIVE6H5sh8O5GimQ=="/>
+
+        <POI MapID="32" xpos="-490.372" ypos="33.2877" zpos="-471.318" type="leag.lws1.diessa.refugee.events" GUID="W49WBf5PGkyTaJSC2zBVqQ=="/>
+        <POI MapID="32" xpos="-537.965" ypos="67.9923" zpos="283.829" type="leag.lws1.diessa.refugee.events" GUID="FgcktQLoq0G4D8s8F4FWtg=="/>
+        <POI MapID="32" xpos="-797.511" ypos="90.596" zpos="326.85" type="leag.lws1.diessa.refugee.events" GUID="Z507GDNjXUC5Xaa0IP4BGQ=="/>
+        <POI MapID="32" xpos="-792.4219" ypos="55.32172" zpos="43.67097" type="leag.lws1.diessa.refugee.events" GUID="8DgVKVZvaUiTCKHAWlKlAw=="/>
+        <POI MapID="32" xpos="-703.67" ypos="37.2889" zpos="-29.1118" type="leag.lws1.diessa.refugee.events" GUID="x814IkGrr0GwjOk9x1yJzA=="/>
+
+        <POI MapID="32" xpos="-375.592" ypos="43.6212" zpos="-115.312" type="leag.lws1.diessa.refugee.sign" GUID="RBfTK3ESAk+wwJrUJV51vw=="/>
+        <POI MapID="32" xpos="-421.401" ypos="45.8008" zpos="-49.5166" type="leag.lws1.diessa.refugee.sign" GUID="qwplp7+YLUCxP/CU2CoK1w=="/>
+        <POI MapID="32" xpos="-488.807" ypos="45.5771" zpos="42.1197" type="leag.lws1.diessa.refugee.sign" GUID="SRhCQTLpQ0u+wsGASXrE5w=="/>
+        <POI MapID="32" xpos="-548.591" ypos="46.8441" zpos="55.982" type="leag.lws1.diessa.refugee.sign" GUID="Fq1TOSxHG0KDST+PBKPYow=="/>
+        <POI MapID="32" xpos="-609.233" ypos="44.9062" zpos="47.3151" type="leag.lws1.diessa.refugee.sign" GUID="IPBc6xv4YUifYKUZXovueg=="/>
+        <POI MapID="32" xpos="-377.798" ypos="32.1366" zpos="-237.773" type="leag.lws1.diessa.refugee.sign" GUID="nAdYm2lJt0KjxU+strpoaQ=="/>
+        <POI MapID="32" xpos="-416.46" ypos="28.0503" zpos="-354.898" type="leag.lws1.diessa.refugee.sign" GUID="ulQ9RXe3kkeKeslLMzzEnw=="/>
+        <POI MapID="32" xpos="-527.21" ypos="26.9641" zpos="-401.996" type="leag.lws1.diessa.refugee.sign" GUID="0qr7mnhUqEKbu9ssnZeu4A=="/>
+        <POI MapID="32" xpos="-624.057" ypos="38.1559" zpos="-465.845" type="leag.lws1.diessa.refugee.sign" GUID="QxUfljm/V0K/5MtScO3J7Q=="/>
+        <POI MapID="32" xpos="-745.791" ypos="28.3659" zpos="-537.536" type="leag.lws1.diessa.refugee.sign" GUID="Iu+H/vFZbkOt6uk4Y0k0UQ=="/>
+        <POI MapID="32" xpos="-757.702" ypos="32.4217" zpos="-579.706" type="leag.lws1.diessa.refugee.sign" GUID="5JcFBuI5vU2cgLu2dgZgug=="/>
+
+        <POI MapID="32" xpos="-390.384" ypos="32.4759" zpos="-308.939" type="leag.lws1.diessa.refugee.campfire" GUID="H9GT3nz4+0+EvlyA/IkeeA=="/>
+        <POI MapID="32" xpos="-622.8" ypos="42.9955" zpos="29.6617" type="leag.lws1.diessa.refugee.campfire" GUID="mpmjd8+cPEyfuMhqurlPPg=="/>
+        <POI MapID="32" xpos="-749.198" ypos="35.7751" zpos="-582.863" type="leag.lws1.diessa.refugee.campfire" GUID="ij/sP50fzUqVQSYgBCeInA=="/>
+
+        <!-- Questions for Mai -->
+        <POI MapID="1471" xpos="274.051" ypos="59.466" zpos="-437.799" type="leag.lws1.story.mai" GUID="7KSqQXc4gUGGeNhfaAXLlQ=="/>
+
+        <!-- Secret Contact -->
+        <POI MapID="32" xpos="-597.415" ypos="32.4691" zpos="-367.006" type="leag.lws1.story.contact.diessa" GUID="V4yA8BQz80aA8FrFKAmHzA=="/>
+        <POI MapID="32" xpos="-907.696" ypos="67.3957" zpos="-184.803" type="leag.lws1.story.contact.diessa" GUID="8MFgL2TgZ0m2sJ+7Efs6IQ=="/>
+        <POI MapID="32" xpos="-899.528" ypos="101.353" zpos="323.704" type="leag.lws1.story.contact.diessa" GUID="701wyIPFskq/YX3E6OAqDg=="/>
+        <POI MapID="32" xpos="-543.894" ypos="102.14" zpos="475.584" type="leag.lws1.story.contact.diessa" GUID="bLhRRJP6UUGQJ+s8vjE9Ng=="/>
+        <POI MapID="32" xpos="-430.018" ypos="120.413" zpos="354.73" type="leag.lws1.story.contact.diessa" GUID="rIBeUO3Ib06JoAQPT6VD4Q=="/>
+        <POI MapID="32" xpos="-447.858" ypos="41.0609" zpos="176.718" type="leag.lws1.story.contact.diessa" GUID="OPbNNM4pUU6BkQVJoQrViQ=="/>
+        <POI MapID="28" xpos="312.646" ypos="205.163" zpos="1189.82" type="leag.lws1.story.contact.wayfarer" GUID="wyQfVP8iz0OU0cgphljh+g=="/>
+        <POI MapID="28" xpos="-309.734" ypos="144.712" zpos="1206.26" type="leag.lws1.story.contact.wayfarer" GUID="5+I5MESL2EeQhAhN/j1dpw=="/>
+        <POI MapID="28" xpos="-3.37088" ypos="131.265" zpos="836.754" type="leag.lws1.story.contact.wayfarer" GUID="GQFl229bykSDbqf6Z0RoFA=="/>
+        <POI MapID="28" xpos="264.394" ypos="90.6714" zpos="114.236" type="leag.lws1.story.contact.wayfarer" GUID="ZTyOPJK7OkqnsSX2dsUE6A=="/>
+        <POI MapID="28" xpos="-213.117" ypos="123.359" zpos="368.319" type="leag.lws1.story.contact.wayfarer" GUID="LQELhvVRPkCuJPJ/A2v+Rg=="/>
+        <POI MapID="28" xpos="371.254" ypos="71.7272" zpos="-34.3222" type="leag.lws1.story.contact.wayfarer" GUID="h+j+VwRB4EOxpKhJxdpDog=="/>
+        <POI MapID="913" xpos="-14.4384" ypos="22.6095" zpos="72.2776" type="leag.lws1.story.tassi" GUID="QYZZOgI72EW+59k+nDK6Hg=="/>
+        <POI MapID="913" xpos="-12.1056" ypos="22.6095" zpos="70.2947" type="leag.lws1.story.tassi" GUID="1ptP2ddneE2643wQBNiG+g=="/>
+        <POI MapID="913" xpos="-6.85746" ypos="23.0883" zpos="59.7028" type="leag.lws1.story.tassi" GUID="ZupaBx1D6USLlhJbAoeejA=="/>
+        <POI MapID="913" xpos="-9.53554" ypos="23.0883" zpos="59.3109" type="leag.lws1.story.tassi" GUID="CWP3ZyIax0OKHerJcizBpw=="/>
+        <POI MapID="913" xpos="-19.4992" ypos="23.6793" zpos="63.151" type="leag.lws1.story.tassi" GUID="3n18jO0Nv0S+144Ivn88YQ=="/>
+        <POI MapID="913" xpos="-21.1528" ypos="23.6793" zpos="65.7606" type="leag.lws1.story.tassi" GUID="qm/V/xxhIE2ZxRdChxIuTQ=="/>
+        <POI MapID="913" xpos="-23.1987" ypos="23.6793" zpos="62.4855" type="leag.lws1.story.tassi" GUID="0l7S6lfwzkSBrzVsXijoHw=="/>
+        <POI MapID="913" xpos="-52.0037" ypos="21.5318" zpos="88.9783" type="leag.lws1.story.tassi" GUID="htR14z4T9kGD0apoJK0skw=="/>
+        <POI MapID="913" xpos="-9.01034" ypos="21.5366" zpos="74.4564" type="leag.lws1.story.tassi" GUID="kEpd86tWkEKtn2PXwv3/Zg=="/>
+        <POI MapID="913" xpos="-10.8719" ypos="21.5025" zpos="75.2663" type="leag.lws1.story.tassi" GUID="dbX0a4kYJk6XkIxvkvZqkw=="/>
+
+        
+        <!-- CHAPTER 2: Sky Pirates of Tyria -->
+
+        <!-- Aether Investigation -->
+        <POI MapID="73" xpos="-420.785" ypos="10.6367" zpos="438.944" type="leag.lws1.story.aether" GUID="glri5ogezUOQZ7vqdpAb7w=="/>
+        <POI MapID="73" xpos="-101.635" ypos="17.2952" zpos="160.674" type="leag.lws1.story.aether" GUID="eHi6vVAYa0+k3vKD1Tz5EQ=="/>
+        <POI MapID="73" xpos="339.286" ypos="36.5679" zpos="46.7814" type="leag.lws1.story.aether" GUID="VQxrYk+vJEeLlKIjWzMdug=="/>
+        <POI MapID="73" xpos="344.059" ypos="0.315576" zpos="-703.102" type="leag.lws1.story.aether" GUID="GVllgNjwCkC0X3lJqkUaCA=="/>
+        <POI MapID="73" xpos="-290.598" ypos="-0.426247" zpos="-816.534" type="leag.lws1.story.aether" GUID="+mGFkleyrUCtWrVaGHnh3w=="/>
+
+        <!-- Asset Recovery -->
+        <POI MapID="915" xpos="-84.5911" ypos="5.49234" zpos="68.9144" type="leag.lws1.story.asset" GUID="HSI4syYm00K/Xjgs3ncGtQ=="/>
+        <POI MapID="915" xpos="-51.0548" ypos="4.36729" zpos="207.425" type="leag.lws1.story.asset" GUID="I2vCPLMhkkaUWlZ0+tNi1Q=="/>
+        <POI MapID="915" xpos="-71.6444" ypos="8.14635" zpos="12.2104" type="leag.lws1.story.asset" GUID="saMIkr/8WEiiOYJh+U63gQ=="/>
+        <POI MapID="915" xpos="-89.3341" ypos="46.7781" zpos="-38.8276" type="leag.lws1.story.asset" GUID="uDBsRy6dfE6dHzOxR3khKw=="/>
+        <POI MapID="915" xpos="-80.5384" ypos="84.5591" zpos="-180.734" type="leag.lws1.story.asset" GUID="Pxm8CgiDUUGvAPBC1DjA4g=="/>
+
+        <!-- Don't be Rude to the Brute -->
+        <POI MapID="915" xpos="-20.2842" ypos="77.746" zpos="-77.5225" type="leag.lws1.story.brute" GUID="dmPZNh2HbkyMf16LVGADjA=="/>
+
+        <!-- Every Piece Matters -->
+        <POI MapID="31" xpos="628.52" ypos="55.472" zpos="519.877" type="leag.lws1.story.epm" GUID="VfuEd5EnDEmwAfglKXwkMA=="/>
+        <POI MapID="24" xpos="648.76" ypos="0.835345" zpos="-110.227" type="leag.lws1.story.epm" GUID="VcTp+hBvskyb04FCnCvDBg=="/>
+        <POI MapID="50" xpos="-540.651" ypos="0.687755" zpos="-153.779" type="leag.lws1.story.epm" GUID="MddwkKl48EGCTSgHBBX8+g=="/>
+        <POI MapID="73" xpos="-378.775" ypos="-60.7082" zpos="770.109" type="leag.lws1.story.epm" GUID="eFxjMU1J8ECgd2AgzxfMbA=="/>
+        <POI MapID="34" xpos="305.925" ypos="9.42459" zpos="1148.94" type="leag.lws1.story.epm" GUID="6GOrqjnu3ESWjYPW4tkUjA=="/>
+
+        <!-- Investigative Study 2 -->
+        <POI MapID="1472" xpos="273.682" ypos="59.5882" zpos="-441.762" type="leag.lws1.story.istudy2.info" GUID="pdxHZ62/UUKdufzyJNgchg=="/>
+        <POI MapID="1472" xpos="271.673" ypos="59.552" zpos="-425.529" type="leag.lws1.story.istudy2.info" GUID="3n6CKRRXYUyQ56D0IJzvsA=="/>
+        <POI MapID="915" xpos="-47.2134" ypos="5.24623" zpos="212.678" type="leag.lws1.story.istudy2.info" GUID="lOqyqWvSE0qvosP62AN9Iw=="/>
+        <POI MapID="915" xpos="-81.0567" ypos="8.28622" zpos="13.6764" type="leag.lws1.story.istudy2.info" GUID="yP/cRofNU0GOuZTB9tGNVw=="/>
+        <POI MapID="915" xpos="-56.8575" ypos="69.1355" zpos="-151.186" type="leag.lws1.story.istudy2.info" GUID="3BWoEL4luUadT/NMx1Iejg=="/>
+        <POI MapID="1471" xpos="271.682" ypos="59.5408" zpos="-426.878" type="leag.lws1.story.istudy2.info" GUID="R8My9nj1BkmFED7U1dlptA=="/>
+
+
+
+
+        <!-- CHAPTER 3: Clockwork Chaos -->
+
+        <!-- Clockwork Invasion -->
+        <POI MapID="18" xpos="-224.5985" ypos="60.85187" zpos="-14.95355" type="leag.lws1.story.invasion" GUID="L9+X1Q063EOXOgIeihNJtQ==" iconFile="Data/Images/Icons/Blank.png" copy="[&BOIAAAA=]" copy-message="Oogooth Waypoint" autoTrigger="1" behavior="3"/>
+        <Trail type="leag.lws1.story.invasion" trailData="Data/LWS1/3. Clockwork Chaos/Clockwork Invasion.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" color="00FF00"/>
+        <POI MapID="24" xpos="-353.5054" ypos="28.09958" zpos="63.15148" type="leag.lws1.story.invasion" GUID="M9eqEZxEEEOBb473EQHFYw==" iconFile="Data/Images/Circle - Green.png" mapDisplaySize="42" inGameVisibility="0"/>
+        <POI MapID="24" xpos="305.218" ypos="17.7782" zpos="424.537" type="leag.lws1.story.invasion" GUID="V7CLHmVY6kmHc59HVWda9A==" iconFile="Data/Images/Circle - Green.png" mapDisplaySize="32" inGameVisibility="0"/>
+        <POI MapID="24" xpos="417.585" ypos="45.2566" zpos="361.025" type="leag.lws1.story.invasion" GUID="tvSWkXs7WkWOIUtEgtVPAA==" iconFile="Data/Images/Circle - Green.png" mapDisplaySize="32" inGameVisibility="0"/>
+        <POI MapID="24" xpos="804.639" ypos="25.4191" zpos="-133.035" type="leag.lws1.story.invasion" GUID="AtYtIOBKc0+YuBtjXScwxw==" iconFile="Data/Images/Circle - Green.png" mapDisplaySize="32" inGameVisibility="0"/>
+
+        <!-- Deft Defusing -->
+        <Trail type="leag.lws1.story.defusing" trailData="Data/LWS1/3. Clockwork Chaos/Deft Defusing.trl"/>
+
+        <!-- Kryta's Finest -->
+        <POI MapID="930" xpos="-21.8239" ypos="32.4847" zpos="-4.38186" type="leag.lws1.story.finest" GUID="m/ocutdb4UmKvcAtaSdYIw=="/>
+
+        <!-- Investigative Record -->
+        <POI MapID="931" xpos="98.9812" ypos="39.5185" zpos="-25.0379" type="leag.lws1.story.irecord1.record" GUID="uavTlHu3IU6ho4MmV3awrw=="/>
+        <POI MapID="931" xpos="87.9935" ypos="37.6834" zpos="-30.5414" type="leag.lws1.story.irecord1.record" GUID="2fgjdP0nuEyuKmH8ciunkg=="/>
+        <POI MapID="931" xpos="94.4827" ypos="39.238" zpos="-29.1994" type="leag.lws1.story.irecord1.record" GUID="KY46N1S4B0+w2eOVvaqepQ=="/>
+        <POI MapID="931" xpos="-42.4995" ypos="32.4114" zpos="-3.4084" type="leag.lws1.story.irecord1.record" GUID="sZQL/hDAAkOOiBTy2++mGw=="/>
+
+        <!-- Investigative Study 3 -->
+        <POI MapID="930" xpos="-33.0612" ypos="33.1188" zpos="-4.5302" type="leag.lws1.story.istudy3.info" GUID="bJKVZiUk+Uu5UbhfuCeV/Q=="/>
+        <POI MapID="931" xpos="-149.308" ypos="19.5196" zpos="112.705" type="leag.lws1.story.istudy3.info" GUID="lCJVAtjSQE685RxCUTLqfA=="/>
+        <POI MapID="931" xpos="-55.8256" ypos="3.51724" zpos="-30.6205" type="leag.lws1.story.istudy3.info" GUID="hCmux1Ni6kOp1IbT/dtNaA=="/>
+        <POI MapID="931" xpos="-109.201" ypos="22.9262" zpos="-104.012" type="leag.lws1.story.istudy3.info" GUID="/QtTq35S3EWIM5Hwcq6lhQ=="/>
+        <POI MapID="931" xpos="83.8982" ypos="28.6601" zpos="-144.782" type="leag.lws1.story.istudy3.info" GUID="4y8LrIKCCEGFDn+cxOVd8g=="/>
+        <POI MapID="1474" xpos="129.166" ypos="135.862" zpos="22.76" type="leag.lws1.story.istudy3.info" GUID="X/p18w6pp0GP0q9A+hhl0g=="/>
+        <POI MapID="1474" xpos="133.141" ypos="135.859" zpos="23.0822" type="leag.lws1.story.istudy3.info" GUID="GnmroJk/0kO7FYW75zJe8A=="/>
+        <POI MapID="1474" xpos="132.495" ypos="135.858" zpos="21.3121" type="leag.lws1.story.istudy3.info" GUID="eAMnvyEEQEenQf43cnFLvA=="/>
+
+
+        <POI MapID="931" xpos="108.331" ypos="21.0034" zpos="159.907" type="leag.lws1.story.spoils.chest" GUID="U5HXUZGchU+NxjASunaSJQ=="/>
+        <POI MapID="931" xpos="-158.292" ypos="23.4308" zpos="53.4542" type="leag.lws1.story.spoils.chest" GUID="9nFGdEClC02Mn5bYRlsMcA=="/>
+        <POI MapID="931" xpos="-46.5627" ypos="22.9571" zpos="-46.788" type="leag.lws1.story.spoils.chest" GUID="3qUEGoXWR0GPPnRpSZPHdQ=="/>
+        <POI MapID="931" xpos="83.2608" ypos="28.6311" zpos="-141.846" type="leag.lws1.story.spoils.chest" GUID="igmqC+IRlEmwjZDCPXiPhw=="/>
+        <POI MapID="931" xpos="16.1246" ypos="14.5205" zpos="45.0503" type="leag.lws1.story.spoils.chest" GUID="eoIPZ6TUMkmAK/DmGFJ8tQ=="/>
+
+        
+
+        <!-- CHAPTER 4: Tower of Nightmares -->
+
+        <!-- Investigative Record 2 -->
+        <POI MapID="943" xpos="-57.433" ypos="-23.3334" zpos="-154.706" type="leag.lws1.story.irecord2.record" GUID="aLTNRQOGfk6QvknGMYHLTQ=="/>
+        <POI MapID="945" xpos="274.145" ypos="17.3939" zpos="423.473" type="leag.lws1.story.irecord2.record" GUID="ha5TtLgsb0Kpj62DHwKlMQ=="/>
+
+        <!-- Investigative Study 4 -->
+        <POI MapID="943" xpos="-23.6736" ypos="3.80633" zpos="57.9242" type="leag.lws1.story.istudy4.info" GUID="IpcJD0XPmEa/+8tftHiiQA=="/>
+        <POI MapID="943" xpos="162.699" ypos="75.9407" zpos="-324.648" type="leag.lws1.story.istudy4.info" GUID="jEAacAXeG0S42KfrWPoz8g=="/>
+        <POI MapID="943" xpos="-141.712" ypos="0.145544" zpos="498.985" type="leag.lws1.story.istudy4.info" GUID="ZIbAxOis00yabDDc/xT7bw=="/>
+        <POI MapID="943" xpos="-225.174" ypos="176.121" zpos="-264.92" type="leag.lws1.story.istudy4.info" GUID="dWDxtcsUbkGIdJbFP87otw=="/>
+        <POI MapID="1361" xpos="218.536" ypos="4.0931" zpos="532.586" type="leag.lws1.story.istudy4.info" GUID="hv7D9fZA7k2eNEqqyqLH/Q=="/>
+        <POI MapID="23" xpos="-741.52" ypos="62.5105" zpos="172.451" type="leag.lws1.story.istudy4.info" GUID="jrfpj6qh9Uam97xOm6ff9Q=="/>
+        <POI MapID="945" xpos="265.007" ypos="19.2028" zpos="419.86" type="leag.lws1.story.istudy4.info" GUID="0w/wXdcRRUuyepvTiR3S4A=="/>
+
+        <!-- Making the Antitoxin -->
+        <POI MapID="23" xpos="-147.5849" ypos="33.81316" zpos="-19.62586" type="leag.lws1.story.antitoxin" GUID="pF/AO8bDYkK0AztgWd5vJw=="/>
+        <POI MapID="23" xpos="-419.171" ypos="-107.54" zpos="-172.772" type="leag.lws1.story.antitoxin" GUID="T6lc6xDDaUKmZ2ociHpovw=="/>
+        <POI MapID="23" xpos="-422.564" ypos="16.2483" zpos="223.065" type="leag.lws1.story.antitoxin" GUID="NfqHGt/4NU22pYwD4AXm8g=="/>
+        <POI MapID="23" xpos="-139.27" ypos="33.4803" zpos="-54.4301" type="leag.lws1.story.antitoxin" GUID="wW+p6kggIE63uf/dFk+pfg=="/>
+        <POI MapID="23" xpos="743.546" ypos="85.2276" zpos="-314.494" type="leag.lws1.story.antitoxin" GUID="gebY6POPmEeM4yF4RcpOKw=="/>
+        <POI MapID="23" xpos="53.0996" ypos="32.0043" zpos="418.006" type="leag.lws1.story.antitoxin" GUID="d7LMcuF9uU6D5sALtLVt8A=="/>
+        <POI MapID="23" xpos="489.829" ypos="56.2337" zpos="372.947" type="leag.lws1.story.antitoxin" GUID="0dLlFo8SM0iAlFX2h2lWTg=="/>
+
+        <!-- Tower of Nightmares -->
+        <Trail type="leag.lws1.story.ton" trailData="Data/LWS1/4. The Tower of Nightmares/The Tower of Nightmares 0.trl"/>
+        <Trail type="leag.lws1.story.ton" trailData="Data/LWS1/4. The Tower of Nightmares/The Tower of Nightmares 1 Alt a.trl" color="ffffff"/>
+        <Trail type="leag.lws1.story.ton" trailData="Data/LWS1/4. The Tower of Nightmares/The Tower of Nightmares 1 Alt b.trl" color="ffffff"/>
+        <Trail type="leag.lws1.story.ton" trailData="Data/LWS1/4. The Tower of Nightmares/The Tower of Nightmares 1.trl"/>
+        <Trail type="leag.lws1.story.ton" trailData="Data/LWS1/4. The Tower of Nightmares/The Tower of Nightmares 2 Alt.trl" color="ffffff"/>
+        <Trail type="leag.lws1.story.ton" trailData="Data/LWS1/4. The Tower of Nightmares/The Tower of Nightmares 2.trl"/>
+        <Trail type="leag.lws1.story.ton" trailData="Data/LWS1/4. The Tower of Nightmares/The Tower of Nightmares 3 Alt.trl" color="ffffff"/>
+        <Trail type="leag.lws1.story.ton" trailData="Data/LWS1/4. The Tower of Nightmares/The Tower of Nightmares 3.trl"/>
+        <Trail type="leag.lws1.story.ton" trailData="Data/LWS1/4. The Tower of Nightmares/The Tower of Nightmares 4 Alt.trl" color="ffffff"/>
+        <Trail type="leag.lws1.story.ton" trailData="Data/LWS1/4. The Tower of Nightmares/The Tower of Nightmares 4.trl"/>
+        <Trail type="leag.lws1.story.ton" trailData="Data/LWS1/4. The Tower of Nightmares/The Tower of Nightmares 5 Alt.trl" color="ffffff"/>
+
+        <!-- Tower of Treasures -->
+        <POI MapID="943" xpos="27.6858" ypos="47.4553" zpos="-4.31856" type="leag.lws1.story.tot" GUID="XGkgaxnjDka53WSb4YCLzQ=="/>
+        <POI MapID="943" xpos="267.182" ypos="71.9535" zpos="-383.626" type="leag.lws1.story.tot" GUID="I2sMH3DXikqqXCe7nKKh/A=="/>
+        <POI MapID="943" xpos="-91.9107" ypos="167.015" zpos="-268.694" type="leag.lws1.story.tot" GUID="/G0aDr6+NESx9emNKpkNMA=="/>
+        <POI MapID="943" xpos="-168.895" ypos="193.952" zpos="-215.118" type="leag.lws1.story.tot" GUID="2V/i0DAEJku5grgbt6qxlw=="/>
+        <POI MapID="943" xpos="-72.3239" ypos="211.166" zpos="-117.623" type="leag.lws1.story.tot" GUID="pqC9jIUdg0a0Su/tSoUh7g=="/>
+
+        <!-- CHAPTER 5: Battle for Lion's Arch -->
+
+        <!-- All Bets Are Off -->
+        <POI MapID="973" xpos="-251.288" ypos="11.3485" zpos="241.674" type="leag.lws1.story.moa" GUID="zsInWfzhEE6zSAK2rGxnjw=="/>
+        <POI MapID="973" xpos="26.605" ypos="1.7166" zpos="-8.23014" type="leag.lws1.story.moa" GUID="OZtCkziYcUKdAbexC36gcQ=="/>
+        <POI MapID="973" xpos="147.252" ypos="35.4709" zpos="174.632" type="leag.lws1.story.moa" GUID="1p8jNy4CRUaNELh7nZqw/w=="/>
+        <POI MapID="973" xpos="539.251" ypos="43.6923" zpos="-85.0146" type="leag.lws1.story.moa" GUID="EVK3v/JO3EqyyCppCNKVOQ=="/>
+        <POI MapID="973" xpos="417.024" ypos="0.0954614" zpos="-11.4396" type="leag.lws1.story.moa" GUID="3+zyHc5ALECw8U57zYSREA=="/>
+        <POI MapID="973" xpos="299.892" ypos="-0.858099" zpos="128.636" type="leag.lws1.story.moa" GUID="fBKh//79KUmwY/pA9UaT0g=="/>
+        <POI MapID="973" xpos="272.548" ypos="-0.201129" zpos="347.356" type="leag.lws1.story.moa" GUID="y+xIbZGWukqHz3JEcE2hAQ=="/>
+
+        <!-- All Bets Are Still Off -->
+
+        <!-- I've Lived Things -->
+        <POI MapID="987" xpos="-51.0979" ypos="5.10181" zpos="-188.884" type="leag.lws1.story.taimi" GUID="fKXZdHgAYE+sQg3EtuzwOQ=="/>
+
+        <!-- Investigative Record -->
+        <POI MapID="973" xpos="106.17" ypos="49.4653" zpos="-269.026" type="leag.lws1.story.irecord3.record" GUID="zp77oVegnkS5vQ7dPiK93w=="/>
+        <POI MapID="937" xpos="-254.72" ypos="216.581" zpos="-123.384" type="leag.lws1.story.irecord3.record" GUID="wftHNz3usEmma61oSbEuQQ=="/>
+
+        <!-- Investigative Study 5 -->
+        <POI MapID="964" xpos="-445.58" ypos="118.527" zpos="776.142" type="leag.lws1.story.istudy5.info" GUID="U316ydCJK0CvfW8m3S5H1w=="/>
+        <POI MapID="964" xpos="-435.4555" ypos="117.29" zpos="773.0777" type="leag.lws1.story.istudy5.info" GUID="xAcXgKsabkaC86xNupJDBw==" info="INTERACT: O.M.A.D.D." infoRange="3.5"/>
+        <POI MapID="1487" xpos="74.2824" ypos="68.1098" zpos="-204.225" type="leag.lws1.story.istudy5.info" GUID="60U/EZAS1ECTZU6dDm9dNQ=="/>
+        <POI MapID="1484" xpos="725.885" ypos="58.5997" zpos="248.575" type="leag.lws1.story.istudy5.info" GUID="vpAyQsV8o0ypBLv5aOCnyw=="/>
+        <POI MapID="1484" xpos="731.38" ypos="67.8348" zpos="415.225" type="leag.lws1.story.istudy5.info" GUID="RXCLV9H1k0Cytmq3MPi+Vw=="/>
+        <POI MapID="980" xpos="282.024" ypos="59.5413" zpos="-428.198" type="leag.lws1.story.istudy5.info" GUID="P2yr5ETnL0+qgsok4Tbztw=="/>
+        <POI MapID="987" xpos="-53.5228" ypos="6.69107" zpos="-206.063" type="leag.lws1.story.istudy5.info" GUID="5QJmmx7C7EGZQvvfoQdW1Q=="/>
+        <POI MapID="987" xpos="-56.4735" ypos="6.28514" zpos="-210.366" type="leag.lws1.story.istudy5.info" GUID="7qWNMOZJIkSd8umWqlIYrw=="/>
+
+        <!-- Liberate Lion's Arch -->
+        <POI MapID="1482" xpos="-39.16934" ypos="21.3731" zpos="79.1666" type="leag.lws1.story.liberate.elite" GUID="2UxwjS1QcEeKOk6ikrt+KQ=="/>
+        <POI MapID="1482" xpos="-277.723" ypos="11.4896" zpos="121.525" type="leag.lws1.story.liberate.admiral" GUID="UKJ980rMt0SiEriWkptB2Q=="/>
+        <POI MapID="1482" xpos="-577.501" ypos="26.9387" zpos="81.3334" type="leag.lws1.story.liberate.cannoneer" GUID="kX5e+6/AY0GO/ELOaG/VQQ=="/>
+        <POI MapID="1482" xpos="550.9563" ypos="30.01614" zpos="-148.1069" type="leag.lws1.story.liberate.munitions" GUID="TI8QOipRNEOYFCXoKQ6p0w=="/>
+        <POI MapID="1482" xpos="-0.6716457" ypos="51.27966" zpos="-303.2024" type="leag.lws1.story.liberate.berserker" GUID="HTCPAe5hR0OMXjVNnutcjQ=="/>
+        <POI MapID="1482" xpos="327.147" ypos="7.57197" zpos="-239.05" type="leag.lws1.story.liberate.shaman" GUID="nYY5RJhFvkG2RB+ZYV79xQ=="/>
+        <POI MapID="1482" xpos="574.9996" ypos="10.3287" zpos="345.7168" type="leag.lws1.story.liberate.spider" GUID="G/TH7ijMjUu9sGJpxJEBaA=="/>
+        <POI MapID="1482" xpos="288.3019" ypos="27.01242" zpos="231.1716" type="leag.lws1.story.liberate.warlock" GUID="gjQrx4Uzi0q1at9k9MRbOw=="/>
+        <POI MapID="1482" xpos="354.1682" ypos="-0.6797583" zpos="-93.97326" type="leag.lws1.story.liberate.wurm" GUID="8DJ0xlveH0WC64IeJR17Zg=="/>
+        <!-- Assault Knights -->
+        <!--
+        <POI MapID="1482" xpos="-8.965322" ypos="21.5145" zpos="89.88594" type="leag.lws1.story.liberate.dynamic" GUID="rToYEEusNEqavoB6jUpGFw=="/>
+        <POI MapID="1482" xpos="-42.11172" ypos="46.92957" zpos="-316.2955" type="leag.lws1.story.liberate.static" GUID="weGRDfstUkWNEGuAHREZFA=="/>
+        <POI MapID="1482" xpos="-349.6099" ypos="1.173478" zpos="-0.8891458" type="leag.lws1.story.liberate.synergetic" GUID="+TQNE4cpQ0mBj+ck7uCcHw=="/>
+        -->
+        
+        <!-- Memories in Your Hand -->
+        <Trail type="leag.lws1.story.memories" trailData="Data/LWS1/5. The Battle for Lion's Arch/Memories in Your Hand Alt 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.lws1.story.memories" trailData="Data/LWS1/5. The Battle for Lion's Arch/Memories in Your Hand Alt 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.lws1.story.memories" trailData="Data/LWS1/5. The Battle for Lion's Arch/Memories in Your Hand.trl"/>
+        <POI MapID="973" xpos="-152.77" ypos="19.7797" zpos="400.399" type="leag.lws1.story.memories.heirloom" GUID="DCE+DPeKiEa5BQITrZggsw=="/>
+
+        <!-- Please Follow Me to the Exit -->
+        <POI MapID="973" xpos="-176.443" ypos="-0.266763" zpos="248.268" type="leag.lws1.story.exit" GUID="HjK/AiB1mUSSFiH1yPlYng=="/>
+        <POI MapID="973" xpos="80.4692" ypos="68.624" zpos="309.495" type="leag.lws1.story.exit" GUID="lWjIepnKn0qSgWuCDUTwgw=="/>
+        <POI MapID="973" xpos="627.572" ypos="14.9576" zpos="271.638" type="leag.lws1.story.exit" GUID="6bVY0O51XEeJ0FOQUNQY8g=="/>
+        <POI MapID="973" xpos="400.218" ypos="35.0418" zpos="-16.2095" type="leag.lws1.story.exit" GUID="tdFExAHbV0GBFN00emN75A=="/>
+        <POI MapID="973" xpos="67.0796" ypos="47.4211" zpos="-210.527" type="leag.lws1.story.exit" GUID="pj/OiazmVUWWGdKwd4Pn8A=="/>
+
+        <!-- Soft Lander -->
+        <POI MapID="931" xpos="24.2334" ypos="77.1252" zpos="-122.959" type="leag.lws1.story.soft" GUID="/nBtgzr/yEGOKq3THBwKug=="/>
+
+    </POIs>
+</OverlayData>
