@@ -1,20 +1,144 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
-        <!--
+        
         <MarkerCategory name="lws2" DisplayName="LWS2: Glint's Prophecy">
 
             <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
+
+                <!-- CHAPTER 1 -->
+                <MarkerCategory name="ch1" IsSeparator="1" DisplayName="CHAPTER 1: Gates of Maguuma"/>
+                <MarkerCategory name="dashed" DisplayName="Dashed Advantage" iconFile="Data/Images/Icons/Talk.png" MaxSize="16" behavior="3"/>
+                <MarkerCategory name="hopes" DisplayName="Fallen Hopes" iconFile="Data/Images/Icons/Talk.png" MaxSize="16" behavior="3"/>
+                <MarkerCategory name="opportune" DisplayName="Opportune Moment" iconFile="Data/Images/Icons/Talk.png" MaxSize="16" behavior="3"/>
+                <MarkerCategory name="rock" DisplayName="No Rock Unturned" iconFile="Data/Images/Icons/Orb - Red.png" heightOffset="-1.5" MaxSize="16" mapDisplaySize="16" achievementId="1643"/>
+                <MarkerCategory name="ascent" DisplayName="Zephyr's Ascent" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" MaxSize="16" achievementId="1640"/>
+                <MarkerCategory name="leap" DisplayName="Zephyr's Leap" iconFile="Data/Images/Icons/Jumping.png" MaxSize="32" mapDisplaySize="32" achievementId="1642">
+                    <MarkerCategory name="landing" DisplayName="Landing" iconFile="Data/Images/Icons/Orb - Yellow - S.png" MaxSize="16" mapDisplaySize="32" heightOffset="-3.0" fadeNear="1600" fadeFar="3600"/>
+                </MarkerCategory>
+
+                <!-- CHAPTER 2 -->
+                <MarkerCategory name="ch2" IsSeparator="1" DisplayName="CHAPTER 2: Entanglement"/>
+                <MarkerCategory name="minion" DisplayName="Butterflies and Viscera" iconFile="Data/Images/Bone Minion.png" mapDisplaySize="32" inGameVisibility="0"/>
+                <MarkerCategory name="swift" DisplayName="On Swift Wings" achievementId="1661">
+                    <MarkerCategory name="info" DisplayName="Info" iconFile="Data/Images/Icons/Blank.png" autotrigger="true"/>
+                    <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" MaxSize="32" heightOffset="2.5" behavior="3"/>
+                </MarkerCategory>
+                <MarkerCategory name="tafs" DisplayName="Trouble at Fort Salma"/>
+                <MarkerCategory name="timely" DisplayName="Timely Arrival"/>
+
+                <!-- CHAPTER 3 -->
+                <MarkerCategory name="ch3" IsSeparator="1" DisplayName="CHAPTER 3: The Dragon's Reach - Part 1"/>
+
+                <!-- Crate Scrapper -->
+                <MarkerCategory name="crate" DisplayName="Crate Scrapper" iconFile="Data/Images/Icons/Targeted Object.png" MaxSize="32" heightOffset="1.0" behavior="3" achievementId="1673"/>
+
+                <!-- Nary a Pitfall -->
+                <MarkerCategory name="pitfall" DisplayName="Nary a Pitfall" iconFile="Data/Images/Icons/Orb - Blue - S.png" MaxSize="32" heightOffset="0.5" achievementId="1671">
+                    <MarkerCategory name="fluid" DisplayName="Sterilization Fluid" autotrigger="true"  maxSize="16"/>
+                    <MarkerCategory name="generator" DisplayName="Aetheric Armature" autotrigger="true"/>
+                    <MarkerCategory name="samples" DisplayName="Ley-Line Infused Rock"/>
+                </MarkerCategory>
+
+                <!-- Leave No Survivors -->
+                <MarkerCategory name="lns" DisplayName="Leave No Survivors" iconFile="Data/Images/Icons/Orb - Red.png" maxSize="16" heightOffset="-0.5" achievementId="1672"/>
+
+                <MarkerCategory name="poa" DisplayName="Plan of Attack"/>
+
+                <!-- CHAPTER 4 -->
+                <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: The Dragon's Reach - Part 2"/>
+
+                <!-- Party Politics -->
+                
+                <!-- Super Sleuth -->
+                <MarkerCategory name="super" DisplayName="Super Sleuth" achievementId="1705">
+                    <MarkerCategory name="dialogue" DisplayName="Dialogue" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                </MarkerCategory>
+                
+                <!-- Sneaky Sleuth -->
+                <MarkerCategory name="Sneaky" DisplayName="Sneaky Sleuth" achievementId="1704">
+                    <MarkerCategory name="dialogue" DisplayName="Dialogue" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                </MarkerCategory>
+                
+                <!-- Shoddy Sleuth -->
+                <MarkerCategory name="Shoddy" DisplayName="Shoddy Sleuth" achievementId="1706">
+                    <MarkerCategory name="dialogue" DisplayName="Dialogue" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                </MarkerCategory>
+
+                <!-- CHAPTER 5 -->
+                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: Echoes of the Past"/>
+                <MarkerCategory name="tgofs" DisplayName="The Ghosts of Fort Salma" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+                <MarkerCategory name="recon" DisplayName="Recon Demolitionist" iconFile="Data/Images/Icons/Death.png" maxSize="32" behavior="1" achievementId="1789"/>
+                <MarkerCategory name="cypher" DisplayName="Explorer Campbell (Password)" iconFile="Data/Images/Icons/Blank.png" info="PASSWORD: Long live the king of Deldrimor." infoRange="3"/>
+
+                <!-- CHAPTER 6 -->
+                <MarkerCategory name="ch6" IsSeparator="1" DisplayName="CHAPTER 6: Tangled Depths"/>
+                <MarkerCategory name="connect" DisplayName="Connect the Dots" achievementId="1818"/>
+                <MarkerCategory name="light" DisplayName="Light 'Em Up" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" behavior="1" heightOffset="-0.5" achievementId="1820"/>
+
+                <!-- CHAPTER 7 -->
+                <MarkerCategory name="ch7" IsSeparator="1" DisplayName="CHAPTER 7: Seeds of Truth"/>
+                
+                <MarkerCategory name="infiltration" DisplayName="Invisible Infiltration" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" behavior="1" heightOffset="-0.5" achievementId="1832"/>
+                <MarkerCategory name="memory" DisplayName="Memory Locations" iconFile="Data/Images/Icons/Orb - Blue - S.png" maxSize="16" behavior="3" heightOffset="-0.5" mapDisplaySize="40"/>
+
+                <!-- CHAPTER 8 -->
+                <MarkerCategory name="ch8" IsSeparator="1" DisplayName="CHAPTER 8: Point of No Return"/>
+
+                <MarkerCategory name="book" DisplayName="Fire of the Gods" iconFile="Data/Images/Icons/Orb - Blue - S.png" maxSize="16" behavior="1" heightOffset="-0.5" mapDisplaySize="40"/>
+                <MarkerCategory name="memorycave" DisplayName="Memory Locations" iconFile="Data/Images/Icons/Orb - Blue - S.png" maxSize="16" behavior="3" heightOffset="-0.5" mapDisplaySize="40"/>
+                <MarkerCategory name="mirror" DisplayName="Distorted Reflection" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" behavior="1" heightOffset="-0.5" mapDisplaySize="40" achievementId="2056"/>
+                <MarkerCategory name="relics" DisplayName="Relics" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" behavior="1" heightOffset="-0.5" mapDisplaySize="40"/>
+
+
+
+                
             </MarkerCategory>
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
             <MarkerCategory name="drytop" DisplayName="Dry Top">
+                <MarkerCategory name="coins" DisplayName="Coin Collector">
+                    <MarkerCategory name="cliffs" DisplayName="Challenger Cliffs" achievementId="1694">
+                        <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="valley" DisplayName="Prospect Valley" achievementId="1634">
+                        <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="uplands" DisplayName="Uplands" achievementId="1653">
+                        <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="lll" DisplayName="Legendary Llama Locator" iconFile="Data/Images/Icons/Llama.png" heightOffset="2.0" maxSize="12" mapDisplaySize="32" achievementId="1636"/>
+                <MarkerCategory name="llll" DisplayName="Learned Legendary Llama Locator" iconFile="Data/Images/Icons/Llama.png" heightOffset="2.0" maxSize="12" mapDisplaySize="32" achievementId="1655"/>
+                <MarkerCategory name="lllll" DisplayName="Licensed Learned Legendary Llama Locator" iconFile="Data/Images/Icons/Llama.png" heightOffset="2.0" maxSize="12" mapDisplaySize="32" achievementId="1693"/>
             </MarkerCategory>
 
             <MarkerCategory name="silverwastes" DisplayName="The Silverwastes">
+                <MarkerCategory name="badges" DisplayName="Lost Badges" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="1810"/>
+                <MarkerCategory name="gold" DisplayName="Go for the Gold" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" achievementId="1835">
+                    <MarkerCategory name="swiftness" DisplayName="Swiftness" iconFile="Data/Images/Icons/Boon - Swiftness.png" maxSize="16" heightOffset="0"  fadeNear="1200" fadeFar="2400" miniMapVisibility="0" mapVisibility="0"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                </MarkerCategory>
             </MarkerCategory>
         </MarkerCategory>
-    -->
+    
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>
