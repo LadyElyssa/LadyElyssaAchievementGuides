@@ -21,7 +21,7 @@
                 <MarkerCategory name="ron" DisplayName="Ready Ore Not" achievementId="6528">
                     <MarkerCategory name="ore" DisplayName="Ore Node" iconFile="Data/Images/Icons/Ore.png" inGameVisibility="0" MapDisplaySize="40" behavior="3"/>
                 </MarkerCategory>
-                <MarkerCategory name="contact" DisplayName="Secret Contact" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" MapDisplaySize="32" achievementId="537">
+                <MarkerCategory name="contact" DisplayName="Secret Contact  (Green Circle)" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" MapDisplaySize="32" achievementId="537">
                     <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
                     <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills"/>
                 </MarkerCategory>
@@ -155,7 +155,7 @@
 
             <MarkerCategory name="diessa" DisplayName="Diessa Plateau">
 
-                <MarkerCategory name="laf" DisplayName="Lost and Found" achievementId="536">
+                <MarkerCategory name="laf" DisplayName="Lost and Found (Yellow Circle)" achievementId="536">
                     <MarkerCategory name="dirt" DisplayName="Dirt-Covered Object" iconFile="Data/Images/Circlet.png" inGameVisibility="0" MapDisplaySize="32"/>
                 </MarkerCategory>
 
@@ -171,7 +171,7 @@
 
             <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills">
 
-                <MarkerCategory name="laf" DisplayName="Lost and Found" achievementId="536">
+                <MarkerCategory name="laf" DisplayName="Lost and Found (Yellow Circle)" achievementId="536">
                     <MarkerCategory name="snow" DisplayName="Snow-Covered Object" iconFile="Data/Images/Circlet.png" inGameVisibility="0" MapDisplaySize="32"/>
                 </MarkerCategory>
 
