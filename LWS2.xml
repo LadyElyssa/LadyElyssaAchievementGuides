@@ -1,5 +1,263 @@
 <OverlayData>
     <POIs>
+        <!-- CHAPTER 1: Gates of Maguuma -->
+
+        <!-- Dashed Advantage -->
+        <Trail type="leag.lws2.story.dashed" trailData="Data/LWS2/1. Gates of Maguuma/Dashed Advantage.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png"/>
+
+        <!-- Fallen Hopes -->
+        <POI MapID="988" xpos="408.347" ypos="25.6133" zpos="-521.746" type="leag.lws2.story.hopes" GUID="QMcb7VjOMkeAi21xbOaDCw=="/>
+        <POI MapID="988" xpos="406.086" ypos="25.5709" zpos="-524.208" type="leag.lws2.story.hopes" GUID="yMli53GdzEqXFYcLetpu7g==" heightOffset="3.0"/>
+
+        <!-- No Rock Unturned -->
+        <POI MapID="992" xpos="403.433" ypos="51.9918" zpos="-321.861" type="leag.lws2.story.rock" GUID="nfuYFWFhhkanQZ0udl0Rxw=="/>
+        <POI MapID="992" xpos="365.511" ypos="86.5899" zpos="-444.433" type="leag.lws2.story.rock" GUID="HwPGw2STeE2OsTPMjtwPeA=="/>
+        <POI MapID="992" xpos="333.866" ypos="78.3124" zpos="-431.672" type="leag.lws2.story.rock" GUID="t0OWESvmo0CLSp89c/iAyQ=="/>
+        <POI MapID="992" xpos="333.982" ypos="71.6014" zpos="-330.463" type="leag.lws2.story.rock" GUID="qJcnPw6+Y0WT9gqYteWc7w=="/>
+
+        <!-- Opportune Moment -->
+        <Trail type="leag.lws2.story.opportune" trailData="Data/LWS2/1. Gates of Maguuma/Opportune Moment.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" color="FFFFFF" animSpeed="0"/>
+
+        <!-- Zephyr's Ascent -->
+        <Trail type="leag.lws2.story.ascent" trailData="Data/LWS2/1. Gates of Maguuma/Zephyr's Ascent.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" color="FFFFFF" animSpeed="0"/>
+
+        <!-- Zephyr's Leap -->
+        <POI MapID="992" xpos="324.705" ypos="136.356" zpos="-405.213" type="leag.lws2.story.leap" GUID="hu+LKnwndEC+oB8g3g4GoA=="/>
+        <POI MapID="992" xpos="328.5298" ypos="84.53114" zpos="-397.333" type="leag.lws2.story.leap.landing" GUID="EBpOvwXFqkuB8DDFzjfGuQ=="/>
+
         
+        <!-- CHAPTER 2 - Entanglement -->
+
+        <!-- On Swift Wings -->
+        <Trail type="leag.lws2.story.swift" trailData="Data/LWS2/2. Entanglement/On Swift Wings To.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" color="FFFFFF" animSpeed="0"/>
+        <Trail type="leag.lws2.story.swift" trailData="Data/LWS2/2. Entanglement/On Swift Wings.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <POI MapID="994" xpos="-518.627" ypos="14.9155" zpos="-73.5434" type="leag.lws2.story.swift.info" GUID="rz+CrTH9u0abcxhRrWIQwA==" info="After talking to Magister Lindsey&#xa;Move quickly to save the survivors before they are killed." infoRange="3"/>
+        <POI MapID="994" xpos="-453.977" ypos="9.63625" zpos="-88.3981" type="leag.lws2.story.swift.talk" GUID="pxK68UXKVUi42C4WnfTaTQ=="/>
+        <POI MapID="994" xpos="-446.427" ypos="10.791" zpos="-101.879" type="leag.lws2.story.swift.talk" GUID="2rBY2FDhTUWOQvYsZDD8+g=="/>
+        <POI MapID="994" xpos="-445.614" ypos="18.56" zpos="-89.8572" type="leag.lws2.story.swift.talk" GUID="0yIxG7P26kSRKddz9qK2xA=="/>
+        <POI MapID="994" xpos="-489.423" ypos="24.1679" zpos="-178.726" type="leag.lws2.story.swift.talk" GUID="5FD/Fi8LzkSmGojzCzdzWw=="/>
+        <POI MapID="994" xpos="-488.443" ypos="24.328" zpos="-182.177" type="leag.lws2.story.swift.talk" GUID="SXoyrJcnwEevRcjqhcUNGg=="/>
+        <POI MapID="994" xpos="-422.882" ypos="-0.680424" zpos="-145.802" type="leag.lws2.story.swift.talk" GUID="F59pul1sqkqmaQjgAdByeQ=="/>
+
+        <!-- Butterflies and Viscera -->
+        <POI MapID="999" xpos="-674.434" ypos="82.0065" zpos="530.133" type="leag.lws2.story.minion" GUID="OMs3XNz8ykaZwrVzynxy9A=="/>
+        <POI MapID="999" xpos="-682.694" ypos="75.4" zpos="443.397" type="leag.lws2.story.minion" GUID="ZJzssTre9kiWhBEpaQxDhA=="/>
+        <POI MapID="999" xpos="-747.614" ypos="90.1652" zpos="487.138" type="leag.lws2.story.minion" GUID="t0X8Ud4/1Uy+Q+Pe3IKexA=="/>
+        <POI MapID="999" xpos="-645.007" ypos="80.4898" zpos="488.31" type="leag.lws2.story.minion" GUID="hRBNcyNNlUOKcR1kzP5OpQ=="/>
+
+        <!-- Trouble at Fort Salma -->
+        <Trail type="leag.lws2.story.tafs" trailData="Data/LWS2/2. Entanglement/Trouble at Fort Salma.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png"/>
+
+        <!-- Timely Arrival -->
+        <Trail type="leag.lws2.story.timely" trailData="Data/LWS2/2. Entanglement/Timely Arrival.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+
+
+        <!-- CHAPTER 3. The Dragon's Reach - Part 1 -->
+
+        <!-- Crate Scrapper -->
+        <POI MapID="1000" xpos="-121.352" ypos="8.20632" zpos="-644.22" type="leag.lws2.story.crate" GUID="kLmFYItb0kWfI56to/+tPg=="/>
+
+        <!-- Nary a Pitfall -->
+        <Trail type="leag.lws2.story.pitfall" trailData="Data/LWS2/3. The Dragon's Reach - Part 1/Nary a Pitfall.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <POI MapID="1000" xpos="-315.7566" ypos="7.340244" zpos="-678.5536" type="leag.lws2.story.pitfall.fluid" GUID="HdQV3xC6PUqOr56hSr9YOw=="/>
+        <POI MapID="1000" xpos="-320.524" ypos="1.739362" zpos="-730.5034" type="leag.lws2.story.pitfall.generator" GUID="ktIiYRN5JkGY1rQXHJcXMA==" info="Turn off the generator&#xa;Open the generator's casing&#xa;Deactivate the aetheric field&#xa;Grab the armature from the generator" infoRange="3"/>
+        <POI MapID="1000" xpos="-177.6208" ypos="4.703259" zpos="-724.5707" type="leag.lws2.story.pitfall.generator" GUID="X5jt8MEkE060u2poYa9sCw=="/>
+
+        <!-- Leave No Survivors -->
+        <!-- AOE Trap Area -->
+        <POI MapID="1000" xpos="-416.61" ypos="19.1206" zpos="-690.898" type="leag.lws2.story.lns" GUID="NYiuUtZVV0iTrTbJ3V/VtA==" mapDisplaySize="48" inGameVisibility="0"/>
+        <POI MapID="1000" xpos="-356.808" ypos="-0.195138" zpos="-688.703" type="leag.lws2.story.lns" GUID="JlxsmFGOjEm9w+ZGw6lY6w==" mapDisplaySize="48" inGameVisibility="0"/>
+        <POI MapID="1000" xpos="-300.024" ypos="-0.195441" zpos="-703.344" type="leag.lws2.story.lns" GUID="8zg7tn5ENUeSe8VxCyqjfQ==" mapDisplaySize="48" inGameVisibility="0"/>
+        <POI MapID="1000" xpos="-240.192" ypos="3.35033" zpos="-752.767" type="leag.lws2.story.lns" GUID="VpuuD7Unx0uxUsHHfb/AFA==" mapDisplaySize="48" inGameVisibility="0"/>
+        <POI MapID="1000" xpos="-223.289" ypos="-0.195316" zpos="-718.148" type="leag.lws2.story.lns" GUID="/SyC0r7i9kCTT3tYIbxRlg==" mapDisplaySize="48" inGameVisibility="0"/>
+        <POI MapID="1000" xpos="-235.519" ypos="5.6494" zpos="-677.884" type="leag.lws2.story.lns" GUID="6F9WVXWys0iGRJZ9ugLoPw==" mapDisplaySize="48" inGameVisibility="0"/>
+        <POI MapID="1000" xpos="-210.089" ypos="16.1592" zpos="-656.014" type="leag.lws2.story.lns" GUID="hfSetV5IiEmQPTShsdoMZA==" mapDisplaySize="48" inGameVisibility="0"/>
+        <!-- Trapped Object -->
+        <POI MapID="1000" xpos="-121.289" ypos="8.20097" zpos="-644.294" type="leag.lws2.story.lns" GUID="jqkWsFAy00CIxYpMn+RxqQ=="/>
+        <POI MapID="1000" xpos="-320.587" ypos="2.21727" zpos="-732.575" type="leag.lws2.story.lns" GUID="H63WKEN9dkSFXb4YBjBS4Q=="/>
+        <POI MapID="1000" xpos="-315.752" ypos="7.34945" zpos="-678.584" type="leag.lws2.story.lns" GUID="b9w8dDw+rUiBrbjo0n4w7A=="/>
+        <POI MapID="1000" xpos="-310.251" ypos="7.77779" zpos="-674.916" type="leag.lws2.story.lns" GUID="ixkA5q0h3kuVIQ0ufLOnwg=="/>
+        <POI MapID="1000" xpos="-316.42" ypos="7.41939" zpos="-680.576" type="leag.lws2.story.lns" GUID="RjKFB+ruKU23ooxvytgpdg=="/>
+        <POI MapID="1000" xpos="-187.127" ypos="6.57926" zpos="-729.872" type="leag.lws2.story.lns" GUID="ft7GPHbz7E6JWPpJPn3n2w=="/>
+        <POI MapID="1000" xpos="-180.934" ypos="5.57544" zpos="-723.352" type="leag.lws2.story.lns" GUID="FMQmfYj3aEKiBQYbH28opg=="/>
+        <POI MapID="1000" xpos="-176.459" ypos="5.17026" zpos="-723.367" type="leag.lws2.story.lns" GUID="gscJcNzDBkqnGeaJK9s5DA=="/>
+        <POI MapID="1000" xpos="-186.141" ypos="5.75859" zpos="-727.961" type="leag.lws2.story.lns" GUID="Zb6jiEhuckmbq5NZ+z3AiA=="/>
+        <POI MapID="1000" xpos="-177.5252" ypos="4.693093" zpos="-724.6516" type="leag.lws2.story.lns" GUID="Sb/7WaCLI0u/PfW7VpNNhg=="/>
+
+        <!-- Plan of Attack -->
+        <Trail type="leag.lws2.story.poa" trailData="Data/LWS2/3. The Dragon's Reach - Part 1/Plan of Attack - Serenity.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" color="00FF00"/>
+
+
+        <!-- CHAPTER 4. The Dragon's Reach - Part 2 -->
+
+        <!-- Party Politics -->
+        
+        <!-- Super Sleuth -->
+        <Trail type="leag.lws2.story.super" trailData="Data/LWS2/4. The Dragon's Reach - Part 2/Super Sleuth.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png"/>
+        <POI MapID="1005" xpos="-274.871" ypos="63.9921" zpos="50.1671" type="leag.lws2.story.super.dialogue" GUID="kPx08PBQU0qefz2JKg1MFQ==" info="1.2" infoRange="3"/>
+        <POI MapID="1005" xpos="-235.189" ypos="63.0783" zpos="40.4481" type="leag.lws2.story.super.dialogue" GUID="EdUi0lZNhES+BoN+YrW4rg==" info="1.1" infoRange="3"/>
+        <POI MapID="1005" xpos="-300.528" ypos="60.8216" zpos="61.0353" type="leag.lws2.story.super.dialogue" GUID="+A87YCk8J0mXEqZB2IcAfQ==" info="2.1" infoRange="3"/>
+        <POI MapID="1005" xpos="-313.684" ypos="60.8216" zpos="59.1775" type="leag.lws2.story.super.dialogue" GUID="4Q9CiiYD0Eeq3Qn2ylJs3g==" info="1st Talk - 1&#xa;2nd Talk - 1.1.2.2.2.2.2.1&#xa;            1.2.2.1&#xa;              1.1.2.2.2.1" infoRange="3"/>
+        
+        <!-- Sneaky Sleuth -->
+        <Trail type="leag.lws2.story.sneaky" trailData="Data/LWS2/4. The Dragon's Reach - Part 2/Sneaky Sleuth.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png"/>
+        <POI MapID="1005" xpos="-324.306" ypos="60.82165" zpos="65.53698" type="leag.lws2.story.sneaky.dialogue" GUID="TgT/mjwGt0SjHqy5wfL0xw==" info="1.3" infoRange="3"/>
+        <POI MapID="1005" xpos="-207.877" ypos="60.20046" zpos="25.31248" type="leag.lws2.story.sneaky.dialogue" GUID="bXm5MjyR+0Wqm2Fx19qH8Q==" info="1.2" infoRange="3"/>
+        <POI MapID="1005" xpos="-180.3137" ypos="63.84909" zpos="-1.832802" type="leag.lws2.story.sneaky.dialogue" GUID="u3GEwKcj2U2c0GqNOZE5pA==" info="1.2.1" infoRange="3"/>
+        <POI MapID="1005" xpos="-274.767" ypos="63.9526" zpos="50.2378" type="leag.lws2.story.sneaky.dialogue" GUID="OrV6bIazEUqtN0CfGWmSsQ==" info="1.2" infoRange="3"/>
+        <POI MapID="1005" xpos="-235.4" ypos="63.099" zpos="40.3802" type="leag.lws2.story.sneaky.dialogue" GUID="frqAItXtPUWWiakC3ZKt3w==" info="1.1" infoRange="3"/>
+        <POI MapID="1005" xpos="-300.528" ypos="60.8216" zpos="61.0353" type="leag.lws2.story.sneaky.dialogue" GUID="bch7ekpdcUaaUlNYl2DXCQ==" info="2.1" infoRange="3"/>
+        <POI MapID="1005" xpos="-313.684" ypos="60.8216" zpos="59.1775" type="leag.lws2.story.sneaky.dialogue" GUID="5rOETJcsIkCCnTDFm/PDmw==" info="1.1.2.2.2.2.2.1&#xa;  1.2.2.1&#xa;    1.1.2.2.2.1" infoRange="3"/>
+
+        <!-- Shoddy Sleuth -->
+        <Trail type="leag.lws2.story.shoddy" trailData="Data/LWS2/4. The Dragon's Reach - Part 2/Shoddy Sleuth.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png"/>
+        <POI MapID="1005" xpos="-207.253" ypos="60.1951" zpos="25.0806" type="leag.lws2.story.shoddy.dialogue" GUID="z5QNgHbF3E+Oa5yECfpxJA==" info="1.3" infoRange="3"/>
+        <POI MapID="1005" xpos="-179.415" ypos="63.8498" zpos="-1.99838" type="leag.lws2.story.shoddy.dialogue" GUID="TwocTDHHC0GkOIXNv4dJKQ==" info="1.2.1" infoRange="3"/>
+        <POI MapID="1005" xpos="-274.722" ypos="63.9398" zpos="50.242" type="leag.lws2.story.shoddy.dialogue" GUID="gIb88BQDEU2wE34YrTTkAg==" info="1.2" infoRange="3"/>
+        <POI MapID="1005" xpos="-235.304" ypos="63.0991" zpos="40.5083" type="leag.lws2.story.shoddy.dialogue" GUID="Q2ua9MHCiEKNnduiWfBRtg==" info="1.1" infoRange="3"/>
+        <POI MapID="1005" xpos="-300.509" ypos="60.8241" zpos="61.0618" type="leag.lws2.story.shoddy.dialogue" GUID="9arUC7Z4c0avoqkLrViUOQ==" info="2.1" infoRange="3"/>
+        <POI MapID="1005" xpos="-313.745" ypos="60.8216" zpos="59.2737" type="leag.lws2.story.shoddy.dialogue" GUID="3DRl+SxGbkusQ/G9bO4Vbw==" info="1.1.2.2.2.2.2.1&#xa;  1.2.2.1&#xa;    1.1.2.2.2.1" infoRange="3"/>
+
+        <!-- CHAPTER 5 -->
+
+        <Trail type="leag.lws2.story.tgofs" trailData="Data/LWS2/5. Echoes of the Past/The Ghosts of Fort Salma.trl"/>
+
+        <POI MapID="1018" xpos="-173.658" ypos="416.862" zpos="226.96" type="leag.lws2.story.recon" GUID="aXWEnhppKke9/9hUzKVGYQ=="/>
+        <POI MapID="1018" xpos="-178.44" ypos="417.655" zpos="266.915" type="leag.lws2.story.recon" GUID="W9z3Dy++n0CQqcp3bi74Iw=="/>
+        <POI MapID="1018" xpos="-242.892" ypos="418.85" zpos="245.151" type="leag.lws2.story.recon" GUID="ibCt7aQwZ0S7U7NIfK5tjA=="/>
+        <POI MapID="1018" xpos="-234.629" ypos="420.192" zpos="286.49" type="leag.lws2.story.recon" GUID="DLojIpw/c0KAt5isfZj4Zg=="/>
+        <POI MapID="1018" xpos="-267.406" ypos="418.866" zpos="260.392" type="leag.lws2.story.recon" GUID="HA5aEpvrm0iKcdojqzzuoQ=="/>
+        <POI MapID="1018" xpos="-303.686" ypos="419.92" zpos="235.822" type="leag.lws2.story.recon" GUID="PfaKTbDg+EOclFIveuz/uA=="/>
+        <POI MapID="1018" xpos="-280.277" ypos="418.988" zpos="219.298" type="leag.lws2.story.recon" GUID="XqPT+UAxjECdkEMCH0z2Xw=="/>
+        <POI MapID="1018" xpos="-331.107" ypos="419.138" zpos="203.682" type="leag.lws2.story.recon" GUID="9/F0cOv+jEuTeoxXy9OgHg=="/>
+        <POI MapID="1018" xpos="-370.243" ypos="426.621" zpos="182.449" type="leag.lws2.story.recon" GUID="azEAyhEZOEaHefWlPJ8S7w=="/>
+        <POI MapID="1018" xpos="-423.795" ypos="426.523" zpos="189.177" type="leag.lws2.story.recon" GUID="Cx024ItW0U6tFBMeRJZiXw=="/>
+        
+        <POI MapID="1015" xpos="-163.78" ypos="418.707" zpos="-114.605" type="leag.lws2.story.cypher" GUID="mxdw1m5PRUe7yLidsv5nNA=="/>
+
+        <!-- CHAPTER 6 -->
+        <Trail type="leag.lws2.story.light" trailData="Data/LWS2/6. Tangled Paths/Light 'Em Up.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" color="00FF00"/>
+        <POI MapID="1023" xpos="180.473" ypos="360.222" zpos="-190.53" type="leag.lws2.story.light" GUID="rFK4HadT8kOyb+iNg1YTcg=="/>
+        <Trail type="leag.lws2.story.connect" trailData="Data/LWS2/6. Tangled Paths/Connect the Dots.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" color="00FF00"/>
+
+        <!-- CHAPTER 7 -->
+        <POI MapID="1025" xpos="30.1249" ypos="103.475" zpos="59.4902" type="leag.lws2.story.memory" GUID="tCUgvSPukUqDLG1xqnLKdA=="/>
+        <POI MapID="1026" xpos="376.596" ypos="38.5868" zpos="749.898" type="leag.lws2.story.memory" GUID="QROlKn7k102ACDuBv55wFg=="/>
+        <POI MapID="1024" xpos="257.857" ypos="368.673" zpos="256.371" type="leag.lws2.story.memory" GUID="afV7tFiNaEqQr00cV5jKLA=="/>
+
+        <POI MapID="1026" xpos="407.767" ypos="80.8475" zpos="838.669" type="leag.lws2.story.infiltration" GUID="uBnXqZLolk2RBiBnCWYUNA=="/>
+        <POI MapID="1026" xpos="423.111" ypos="80.638" zpos="854.619" type="leag.lws2.story.infiltration" GUID="I9U9IkwOx0yNiDpj0Ye7oQ=="/>
+        <POI MapID="1026" xpos="423.3" ypos="80.6308" zpos="864.515" type="leag.lws2.story.infiltration" GUID="PFQ8HaIXSUqeAOjWCmQSIw=="/>
+        <POI MapID="1026" xpos="423.112" ypos="80.6339" zpos="875.666" type="leag.lws2.story.infiltration" GUID="fkZTXajAzU6WTsgJ4EM8Dg=="/>
+        <POI MapID="1026" xpos="428.452" ypos="80.6308" zpos="879.331" type="leag.lws2.story.infiltration" GUID="OO+ODPKGOE25qCvC93vbBQ=="/>
+        <POI MapID="1026" xpos="465.118" ypos="72.4553" zpos="850.408" type="leag.lws2.story.infiltration" GUID="YdpBtoN55UKedOMLlkQp7Q=="/>
+        <POI MapID="1026" xpos="464.719" ypos="72.4567" zpos="859.376" type="leag.lws2.story.infiltration" GUID="DFrYs3BhnUy/DfkZbhK/rg=="/>
+        <POI MapID="1026" xpos="455.918" ypos="72.453" zpos="859.564" type="leag.lws2.story.infiltration" GUID="lJkW858N/UufKzDH0uQwrw=="/>
+        <POI MapID="1026" xpos="455.8" ypos="72.445" zpos="849.953" type="leag.lws2.story.infiltration" GUID="G7yF1ms0V0quXRJh+Fy7hA=="/>
+        <POI MapID="1026" xpos="463.629" ypos="72.4452" zpos="842.17" type="leag.lws2.story.infiltration" GUID="XYCY+NNILECbS8TOqx2a7g=="/>
+        <POI MapID="1026" xpos="456.764" ypos="72.4411" zpos="842.338" type="leag.lws2.story.infiltration" GUID="wSwAEvEUI0u/aAEGUd1MUw=="/>
+
+        <!-- CHAPTER 8 -->
+
+        <!-- Arcana Obscura -->
+        <POI MapID="1029" xpos="-155.108" ypos="32.6397" zpos="-179.816" type="leag.lws2.story.book" GUID="WGKMhhJ1W06Yg3zYBTc3sw=="/>
+        
+        <POI MapID="1029" xpos="-83.0362" ypos="12.3605" zpos="-166.169" type="leag.lws2.story.relics" GUID="7ytYuTufGEyI6OV6Jjm5zQ=="/>
+        <POI MapID="1029" xpos="-211.445" ypos="42.7481" zpos="-137.37" type="leag.lws2.story.relics" GUID="ci5DWWy1aUKQRZ77b7v9ZA=="/>
+        <POI MapID="1029" xpos="-128.808" ypos="36.7298" zpos="-240.397" type="leag.lws2.story.relics" GUID="zN7a6Q78H0aop4qWouvxXA=="/>
+
+        <POI MapID="1029" xpos="-81.4213" ypos="12.3601" zpos="-154.732" type="leag.lws2.story.mirror" GUID="ajpThYRVLke5N/9qHXYtCA=="/>
+
+        <!-- The Mystery Cave -->
+        <POI MapID="1028" xpos="-482.527" ypos="2.44183" zpos="164.835" type="leag.lws2.story.memorycave" GUID="gRXemSne0UWMElLQ0D30qQ=="/>
+
+
+        <!-- DRY TOP -->
+
+        <!-- Coin Collector - Challenger Cliffs -->
+        <Trail type="leag.lws2.drytop.coins.cliffs" trailData="Data/LWS2/Coin Collector - Challenger Cliffs 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FF8800"/>
+        <Trail type="leag.lws2.drytop.coins.cliffs" trailData="Data/LWS2/Coin Collector - Challenger Cliffs 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FF8800"/>
+        <Trail type="leag.lws2.drytop.coins.cliffs" trailData="Data/LWS2/Coin Collector - Challenger Cliffs 3.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FF8800"/>
+        <Trail type="leag.lws2.drytop.coins.cliffs" trailData="Data/LWS2/Coin Collector - Challenger Cliffs 4.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FF8800"/>
+        <POI MapID="988" xpos="-571.031" ypos="74.7226" zpos="-316.354" type="leag.lws2.drytop.coins.cliffs.start" GUID="x1Y0T589+keIEOMbD0o32A=="/>
+        <POI MapID="988" xpos="-580.639" ypos="14.9502" zpos="-442.764" type="leag.lws2.drytop.coins.cliffs.wp" GUID="zOVyiOBgB0OBqWg15/en/A==" copy="[&BJcHAAA=]" copy-message="Repair Station Waypoint"/>
+        <POI MapID="988" xpos="-295.3631" ypos="101.1805" zpos="-386.6475" type="leag.lws2.drytop.coins.cliffs.wp" GUID="3tnb/8YzTUuY48euomRIfg==" copy="[&BIgHAAA=]" copy-message="Repair Station Waypoint"/>
+        <POI MapID="988" xpos="-564.9566" ypos="55.86182" zpos="-537.0505" type="leag.lws2.drytop.coins.cliffs" GUID="MM6fXlCEU0OWBJylFyBoQA==" iconFile="Data/Images/Icons/Target with Shadow.png" maxSize="16" heightOffset="0" fadeNear="1200" fadeFar="2400" miniMapVisibility="0" mapVisibility="0"/>
+        <POI MapID="988" xpos="-586.9634" ypos="47.19953" zpos="-545.2575" type="leag.lws2.drytop.coins.cliffs" GUID="C2ZVYSQxTEez4EAvlTjhGg==" iconFile="Data/Images/Icons/Target with Shadow.png" maxSize="16" heightOffset="0" fadeNear="1200" fadeFar="2400" miniMapVisibility="0" mapVisibility="0"/>
+        <POI MapID="988" xpos="-468.9763" ypos="120.8359" zpos="-555.5834" type="leag.lws2.drytop.coins.cliffs" GUID="uzzGQ5+lOkqGE+7t3CJVQQ==" iconFile="Data/Images/Icons/Target with Shadow.png" maxSize="16" heightOffset="0" fadeNear="1200" fadeFar="2400" miniMapVisibility="0" mapVisibility="0"/>
+        <POI MapID="988" xpos="-555.2951" ypos="80.2092" zpos="-310.5659" type="leag.lws2.drytop.coins.cliffs.1" GUID="Y3Y8UF0StU21lKGJnW3mWg=="/>
+        <POI MapID="988" xpos="-556.3793" ypos="80.00531" zpos="-311.2058" type="leag.lws2.drytop.coins.cliffs.3" GUID="PTU9bWI17kiVBUzckSYn/A=="/>
+        <POI MapID="988" xpos="-557.3267" ypos="79.82584" zpos="-311.8882" type="leag.lws2.drytop.coins.cliffs.4" GUID="cAU8YLsl7E21OYuyOkLoCw=="/>
+        <POI MapID="988" xpos="-560.5718" ypos="78.8167" zpos="-312.142" type="leag.lws2.drytop.coins.cliffs.2" GUID="MCS91PJQFUidboEwhzFcWw=="/>
+        <POI MapID="988" xpos="-527.558" ypos="84.3885" zpos="-331.196" type="leag.lws2.drytop.coins.cliffs.3" GUID="PIg4BD1aVEq/T60kehdz7w=="/>
+        <POI MapID="988" xpos="-528.593" ypos="84.1941" zpos="-333.206" type="leag.lws2.drytop.coins.cliffs.4" GUID="jFtqE+Ul0kGeWfahgmxzNA=="/>
+
+        <!-- Coin Collector - Prospect Valley -->
+        <Trail type="leag.lws2.drytop.coins.valley" trailData="Data/LWS2/Coin Collector - Prospect Valley 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.lws2.drytop.coins.valley" trailData="Data/LWS2/Coin Collector - Prospect Valley 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="988" xpos="399.299" ypos="24.1442" zpos="-517.54" type="leag.lws2.drytop.coins.valley.start" GUID="wHtFVS8IIU2BSV+zQ9J9hQ=="/>
+        <POI MapID="988" xpos="290.51" ypos="8.18932" zpos="-211.541" type="leag.lws2.drytop.coins.valley.wp" GUID="1g61bdcpvESFdpJUSZyHoA==" copy="[&BHoHAAA=]" copy-message="Prosperity Waypoint"/>
+        <POI MapID="988" xpos="190.093" ypos="35.6254" zpos="-253.97" type="leag.lws2.drytop.coins.valley.wp" GUID="Q4yoTkynWUGkzHUOmg9r0g==" copy="[&BIgHAAA=]" copy-message="Prosperity Waypoint&#xa;&#xa;For Lost Coins - Uplands"/>
+        
+        <!-- Coin Collector - Uplands -->
+        <Trail type="leag.lws2.drytop.coins.uplands" trailData="Data/LWS2/Coin Collector - Uplands 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FFD800"/>
+        <Trail type="leag.lws2.drytop.coins.uplands" trailData="Data/LWS2/Coin Collector - Uplands 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FFD800"/>
+        <Trail type="leag.lws2.drytop.coins.uplands" trailData="Data/LWS2/Coin Collector - Uplands 3.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FFD800"/>
+        <Trail type="leag.lws2.drytop.coins.uplands" trailData="Data/LWS2/Coin Collector - Uplands 4.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FFD800"/>
+        <POI MapID="988" xpos="208.947" ypos="13.4024" zpos="-290.714" type="leag.lws2.drytop.coins.uplands.start" GUID="zRrCU+NYW06KKD8OX86V/Q=="/>
+        <POI MapID="988" xpos="235.611" ypos="0.637612" zpos="-156.724" type="leag.lws2.drytop.coins.uplands.wp" GUID="80sBNhfuAUKBu9+qblFQKg==" copy="[&BIgHAAA=]" copy-message="Restoration Refuge Waypoint"/>
+        <POI MapID="988" xpos="-5.73564" ypos="82.0839" zpos="-69.4317" type="leag.lws2.drytop.coins.uplands.wp" GUID="3xkFNy10skyvDSNwZJq8ow==" copy="[&BIYHAAA=]" copy-message="Vine Bridge Waypoint"/>
+        <POI MapID="988" xpos="-444.51" ypos="78.7618" zpos="-257.819" type="leag.lws2.drytop.coins.uplands.1" GUID="FCV/q/6d0EWyzszUSvwmMg=="/>
+        <POI MapID="988" xpos="-527.717" ypos="-1.02994" zpos="13.9078" type="leag.lws2.drytop.coins.uplands.wp" GUID="nau8/ba3x06fGz9szt1S0g==" copy="[&BIYHAAA=]" copy-message="Vine Bridge Waypoint"/>
+        <POI MapID="988" xpos="-443.167" ypos="78.7613" zpos="-260.596" type="leag.lws2.drytop.coins.uplands.2" GUID="p6O/l0xTlU6Rox7pw2HdXw=="/>
+        <POI MapID="988" xpos="-219.5" ypos="45.2665" zpos="-536.256" type="leag.lws2.drytop.coins.uplands.wp" GUID="bf7HdjDEz0CbCFB6t7meYg==" copy="[&BJcHAAA=]" copy-message="Repair Station Waypoint"/>
+
+        <!-- Legendary Llama Locator -->
+        <Trail type="leag.lws2.drytop.lll" trailData="Data/LWS2/Legendary Llama Locator Alt.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.lws2.drytop.lll" trailData="Data/LWS2/Legendary Llama Locator.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <POI MapID="988" xpos="580.359" ypos="44.1382" zpos="-313.1" type="leag.lws2.drytop.lll" GUID="4H7kD05qdEixfHO2fnXpgw=="/>
+
+        <!-- Learned Legendary Llama Locator -->
+        <Trail type="leag.lws2.drytop.llll" trailData="Data/LWS2/Learned Legendary Llama Locator.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <POI MapID="988" xpos="201.608" ypos="82.0699" zpos="-128.474" type="leag.lws2.drytop.llll" GUID="KaxwMjpXeUO+/9b6DHrFIA=="/>
+
+        <!-- Licensed Learned Legendary Llama Locator -->
+        <Trail type="leag.lws2.drytop.lllll" trailData="Data/LWS2/Licensed Learned Legendary Llama Locator.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <POI MapID="988" xpos="-604.202" ypos="117.592" zpos="-141.364" type="leag.lws2.drytop.lllll" GUID="wPN+iNO670Gx/1czaX2UAg=="/>
+
+
+        <!-- THE SILVERWASTES -->
+
+        <!-- Go for the Gold -->
+        <Trail type="leag.lws2.silverwastes.gold.1" trailData="Data/LWS2/Go for the Gold 1 Far SW.trl"/>
+        <Trail type="leag.lws2.silverwastes.gold.1" trailData="Data/LWS2/Go for the Gold 1.trl" fadeNear="1500" fadeFar="2000"/>
+        <Trail type="leag.lws2.silverwastes.gold.2" trailData="Data/LWS2/Go for the Gold 2 - 3.trl" fadeNear="1500" fadeFar="2000"/>
+        <Trail type="leag.lws2.silverwastes.gold.4" trailData="Data/LWS2/Go for the Gold 4.trl" fadeNear="1500" fadeFar="2000"/>
+        <Trail type="leag.lws2.silverwastes.gold.4" trailData="Data/LWS2/Go for the Gold 4a.trl" fadeNear="1500" fadeFar="2000"/>
+        <Trail type="leag.lws2.silverwastes.gold.4" trailData="Data/LWS2/Go for the Gold 4b.trl" fadeNear="1500" fadeFar="2000"/>
+        <Trail type="leag.lws2.silverwastes.gold.5" trailData="Data/LWS2/Go for the Gold 5.trl" fadeNear="1200" fadeFar="1600"/>
+        <POI MapID="1015" xpos="360.403" ypos="282.793" zpos="144.283" type="leag.lws2.silverwastes.gold.1" GUID="+o5kt4mdi06OGIESCvVcJQ=="/>
+        <POI MapID="1015" xpos="362.985" ypos="282.808" zpos="143.133" type="leag.lws2.silverwastes.gold.3" GUID="bQ3LsOeD5EaHkx/UWdddGw=="/>
+        <POI MapID="1015" xpos="361.821" ypos="282.805" zpos="143.668" type="leag.lws2.silverwastes.gold.2" GUID="lsQKo/AkQUyqG6IoDSSeyw=="/>
+        <POI MapID="1015" xpos="364.591" ypos="282.664" zpos="142.382" type="leag.lws2.silverwastes.gold.4" GUID="B5NpJyNiBE2fDJ1puWWlCA=="/>
+        <POI MapID="1015" xpos="304.4589" ypos="290.7246" zpos="183.1393" type="leag.lws2.silverwastes.gold.1" GUID="kn5d16ZudkWk4j0zWnAYhA==" iconFile="Data/Images/Icons/Blank.png" info="Keep to the left side of the rope" infoRange="3" autoTrigger="True"/>
+        <POI MapID="1015" xpos="271.562" ypos="245.093" zpos="99.9283" type="leag.lws2.silverwastes.gold.wp" GUID="JLBe6XZwMECrnpAJ6aKkfA==" copy="[&BLoHAAA=]" copy-message="Drydock Grotto Waypoint"/>
+        <POI MapID="1015" xpos="208.363" ypos="279.898" zpos="146.987" type="leag.lws2.silverwastes.gold.wp" GUID="WGrn1u+nf0KNb5c0yX4u2w==" copy="[&BLoHAAA=]" copy-message="Drydock Grotto Waypoint&#xa;&#xa;Follow middle path again and follow route 2."/>
+        <POI MapID="1015" xpos="211.608" ypos="279.987" zpos="145.644" type="leag.lws2.silverwastes.gold.1" GUID="H3iHfltmQEiPhnFZ/Nugqw=="/>
+        <POI MapID="1015" xpos="203.735" ypos="295.921" zpos="133.113" type="leag.lws2.silverwastes.gold.2" GUID="ArfkVP5GEUCnLrJd4mHyCA=="/>
+        <POI MapID="1015" xpos="276.507" ypos="298.643" zpos="-117.33" type="leag.lws2.silverwastes.gold.swiftness" GUID="hGKVd/iZaUSUK2PCMt1YzA=="/>
+        <POI MapID="1015" xpos="191.338" ypos="373.976" zpos="-170.941" type="leag.lws2.silverwastes.gold.swiftness" GUID="GshmbuhyU0+kb3SnR7lf5Q=="/>
+        <POI MapID="1015" xpos="-48.442" ypos="406.808" zpos="-51.0197" type="leag.lws2.silverwastes.gold.swiftness" GUID="Fba0C85H3EuRgyGiC5W8Kw=="/>
+        <POI MapID="1015" xpos="-18.1251" ypos="290.186" zpos="35.1595" type="leag.lws2.silverwastes.gold.1" GUID="iceEXd2opUylbYkV+Jo0dQ=="/>
+        <POI MapID="1015" xpos="-16.1265" ypos="289.798" zpos="35.4543" type="leag.lws2.silverwastes.gold.2" GUID="bjgzq68pukejOZIyx2c5DQ=="/>
+        <POI MapID="1015" xpos="19.8182" ypos="271.721" zpos="11.5588" type="leag.lws2.silverwastes.gold.1" GUID="BhlFtDdTpk2jGVSaK/T/yw=="/>
+        <POI MapID="1015" xpos="20.9976" ypos="271.492" zpos="12.723" type="leag.lws2.silverwastes.gold.2" GUID="D2tq7mOjk0qRMUSWRRcQcQ=="/>
+        <POI MapID="1015" xpos="-47.6722" ypos="221.825" zpos="-25.999" type="leag.lws2.silverwastes.gold.1" GUID="dF1R5QkbskuuXMsdSLOrUQ=="/>
+        <POI MapID="1015" xpos="-48.6357" ypos="221.162" zpos="-24.1643" type="leag.lws2.silverwastes.gold.2" GUID="hwjShJr1qkeGTpqfijX2kQ=="/>
+        <POI MapID="1015" xpos="-192.058" ypos="241.629" zpos="57.7872" type="leag.lws2.silverwastes.gold.swiftness" GUID="cRjhucuheE+ogVuoGUqgYQ=="/>
+        <POI MapID="1015" xpos="-553.776" ypos="74.1769" zpos="-203.242" type="leag.lws2.silverwastes.gold.swiftness" GUID="lX4NQsMTUky3QwCAyXkNXw=="/>
+        
+        <Trail type="leag.lws2.silverwastes.badges" trailData="Data/LWS2/Lost Badges.trl"/>
+
     </POIs>
 </OverlayData>
