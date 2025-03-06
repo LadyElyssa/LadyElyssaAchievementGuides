@@ -29,6 +29,10 @@
         <POI MapID="32" xpos="-733.283" ypos="46.4681" zpos="-38.2152" type="leag.lws1.diessa.laf.dirt" GUID="5l2LDLJ6V0mYWH83DO1uJQ=="/>
         <POI MapID="32" xpos="-603.175" ypos="72.9619" zpos="338.353" type="leag.lws1.diessa.laf.dirt" GUID="oNq8D691JU+tBTgmf1sRkQ=="/>
         <POI MapID="32" xpos="-493.139" ypos="88.2271" zpos="288.819" type="leag.lws1.diessa.laf.dirt" GUID="HLOhwNdM1Em2jajA+Aw79Q=="/>
+        <POI MapID="32" xpos="-450.421" ypos="29.851" zpos="-461.093" type="leag.lws1.diessa.laf.dirt" GUID="iicYl38FnUGtO3OwkqhZ/g=="/>
+        <POI MapID="32" xpos="-812.945" ypos="93.3824" zpos="346.995" type="leag.lws1.diessa.laf.dirt" GUID="OPTAxCCvzEalAhzwPJBk1w=="/>
+        <POI MapID="32" xpos="-515.545" ypos="74.831" zpos="307.81" type="leag.lws1.diessa.laf.dirt" GUID="cgpPRQwJUkaCguOaM3OYdw=="/>
+        <POI MapID="32" xpos="-783.781" ypos="71.4548" zpos="77.5454" type="leag.lws1.diessa.laf.dirt" GUID="cZ0Q5naO5kiaApCtneynQg=="/>
         
         <!-- Lost and Found - Wayfarer Foothills -->
         <POI MapID="28" xpos="328.652" ypos="111.602" zpos="882.72" type="leag.lws1.wayfarer.laf.snow" GUID="1PVLwz565UaMQAO/THEJ3Q=="/>
@@ -45,6 +49,7 @@
         <POI MapID="28" xpos="5.30077" ypos="105.589" zpos="443.507" type="leag.lws1.wayfarer.laf.snow" GUID="4p5CbIWFQEqQh1V7Kaw3dg=="/>
         <POI MapID="28" xpos="154.846" ypos="199.711" zpos="1190.07" type="leag.lws1.wayfarer.laf.snow" GUID="BhmghCmITEuKKYmRZQr9DA=="/>
         <POI MapID="28" xpos="-17.9609" ypos="109.434" zpos="404.099" type="leag.lws1.wayfarer.laf.snow" GUID="+uBEg3HWYkiCNiFwaXlHQA=="/>
+        <POI MapID="28" xpos="46.7341" ypos="100.563" zpos="381.952" type="leag.lws1.wayfarer.laf.snow" GUID="lLPJa29McEG647dbRuMHCQ=="/>
 
         <!-- Molten Memorial -->
         <POI MapID="50" xpos="371.978" ypos="29.5842" zpos="332.211" type="leag.lws1.la.memorial.drawing" GUID="3/uhi/eR6k6g1dlODQ9dew=="/>
@@ -167,8 +172,6 @@
         <POI MapID="1471" xpos="271.682" ypos="59.5408" zpos="-426.878" type="leag.lws1.story.istudy2.info" GUID="R8My9nj1BkmFED7U1dlptA=="/>
 
 
-
-
         <!-- CHAPTER 3: Clockwork Chaos -->
 
         <!-- Clockwork Invasion -->
@@ -201,15 +204,13 @@
         <POI MapID="1474" xpos="133.141" ypos="135.859" zpos="23.0822" type="leag.lws1.story.istudy3.info" GUID="GnmroJk/0kO7FYW75zJe8A=="/>
         <POI MapID="1474" xpos="132.495" ypos="135.858" zpos="21.3121" type="leag.lws1.story.istudy3.info" GUID="eAMnvyEEQEenQf43cnFLvA=="/>
 
-
         <POI MapID="931" xpos="108.331" ypos="21.0034" zpos="159.907" type="leag.lws1.story.spoils.chest" GUID="U5HXUZGchU+NxjASunaSJQ=="/>
         <POI MapID="931" xpos="-158.292" ypos="23.4308" zpos="53.4542" type="leag.lws1.story.spoils.chest" GUID="9nFGdEClC02Mn5bYRlsMcA=="/>
         <POI MapID="931" xpos="-46.5627" ypos="22.9571" zpos="-46.788" type="leag.lws1.story.spoils.chest" GUID="3qUEGoXWR0GPPnRpSZPHdQ=="/>
         <POI MapID="931" xpos="83.2608" ypos="28.6311" zpos="-141.846" type="leag.lws1.story.spoils.chest" GUID="igmqC+IRlEmwjZDCPXiPhw=="/>
         <POI MapID="931" xpos="16.1246" ypos="14.5205" zpos="45.0503" type="leag.lws1.story.spoils.chest" GUID="eoIPZ6TUMkmAK/DmGFJ8tQ=="/>
 
-        
-
+    
         <!-- CHAPTER 4: Tower of Nightmares -->
 
         <!-- Investigative Record 2 -->
