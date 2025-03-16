@@ -911,11 +911,11 @@
         <Trail type="leag.jw.mb.scout" trailData="Data/JW/Missing Scout 1.trl"/>
         <Trail type="leag.jw.mb.scout" trailData="Data/JW/Missing Scout 2.trl"/>
         <Trail type="leag.jw.mb.scout" trailData="Data/JW/Missing Scout 3.trl"/>
-        
+
         <Trail type="leag.jw.mb.game.1" trailData="Data/JW/Mursaat's Game 1.trl"/>
         <Trail type="leag.jw.mb.game.2" trailData="Data/JW/Mursaat's Game 2.trl"/>
-        <Trail type="leag.jw.mb.game.3" trailData="Data/JW/Mursaat's Game 3 Alt.trl" texture="Data/Images/Trails/Warclaw Prints.png"/>
         <Trail type="leag.jw.mb.game.3" trailData="Data/JW/Mursaat's Game 3.trl"/>
+        <Trail type="leag.jw.mb.game.4" trailData="Data/JW/Mursaat's Game 4 Alt.trl" texture="Data/Images/Trails/Warclaw Prints.png"/>
         <Trail type="leag.jw.mb.game.4" trailData="Data/JW/Mursaat's Game 4.trl"/>
         <Trail type="leag.jw.mb.game.5" trailData="Data/JW/Mursaat's Game 5.trl"/>
         <Trail type="leag.jw.mb.game.6" trailData="Data/JW/Mursaat's Game 6.trl"/>
