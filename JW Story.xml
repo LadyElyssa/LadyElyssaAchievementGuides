@@ -124,6 +124,38 @@
         <POI MapID="1569" xpos="-489.874" ypos="143.918" zpos="641.939" type="leag.jw.story.prying.marker" GUID="FnINaEbHjUOEk9ZHhz1IIg=="/>
         <POI MapID="1569" xpos="-502.678" ypos="143.806" zpos="659.599" type="leag.jw.story.prying.marker" GUID="Zq6d4jarnkiWNDCr4dCtTw=="/>
         <POI MapID="1569" xpos="-501.247" ypos="144.278" zpos="619.407" type="leag.jw.story.prying.marker" GUID="j5YUpHKAH0u4zBpSnQKKnA=="/>
+
+        <!-- CHAPTER 14 -->
+        <!-- Told Ya So --> 
+        <POI MapID="1580" xpos="-936.689" ypos="73.3412" zpos="-98.5529" type="leag.jw.story.tys" GUID="tLgipaPisk2JBG0xmb8XGw=="/>
+
+        <!-- CHAPTER 15 -->
+        <!-- Once Golden, Now Tarnished -->
+        <Trail type="leag.jw.story.ognt" trailData="Data/JW/Story/Once Golden, Now Tarnished.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" color="00FF00"/>
+        <POI MapID="1577" xpos="-620.083" ypos="8.23329" zpos="-630.403" type="leag.jw.story.ognt" GUID="zTHXxVQyNkyRdgIFUo8hdA=="/>
+        <POI MapID="1577" xpos="-980.35" ypos="0.931368" zpos="-534.355" type="leag.jw.story.ognt" GUID="OgkV0IqV70y7lG22BtP8mw=="/>
+
+        <!-- Expert Exterminator -->
+        <Trail type="leag.jw.story.ee.jade" trailData="Data/JW/Story/Strange Tablets.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" color="FF0000" inGameVisibility="1"/>
+        <POI MapID="1573" xpos="-439.936" ypos="112.33" zpos="37.724" type="leag.jw.story.ee.jade.talisman" GUID="APufw21jxkuAvO//Bcoqsg=="/>
+        <POI MapID="1573" xpos="-476.322" ypos="112.274" zpos="37.1285" type="leag.jw.story.ee.jade.talisman" GUID="V1fON9mPCkWQAw/Fy7R2AQ=="/>
+        <POI MapID="1573" xpos="-476.008" ypos="112.337" zpos="-38.3765" type="leag.jw.story.ee.jade.talisman" GUID="y3H1ECcWuki4+dji962wtg=="/>
+        <POI MapID="1573" xpos="-439.425" ypos="112.554" zpos="-38.4684" type="leag.jw.story.ee.jade.talisman" GUID="EKJ+2hr6YkqppK6knj8unA=="/>
+        <POI MapID="1573" xpos="-434.325" ypos="110.764" zpos="80.4564" type="leag.jw.story.ee.jade" GUID="+3fqF7r220CSdzNrn/PtDg=="/>
+        <POI MapID="1573" xpos="-472.046" ypos="84.5035" zpos="64.8035" type="leag.jw.story.ee.murellow.meat" GUID="45N7YqfOvUm1SRc+cRryjA=="/>
+        <POI MapID="1573" xpos="-507.208" ypos="84.5435" zpos="65.8201" type="leag.jw.story.ee.murellow.meat" GUID="PphvOcsEWUaML0smzuAUdw=="/>
+        <POI MapID="1573" xpos="-499.423" ypos="110.736" zpos="42.3994" type="leag.jw.story.ee.murellow.meat" GUID="733GqV+jnUacX/l75s7Npw=="/>
+        <POI MapID="1573" xpos="-511.78" ypos="83.9288" zpos="-55.9737" type="leag.jw.story.ee.murellow" GUID="ffe9XzuD+Ei8J7uCle5q1w=="/>
+        <POI MapID="1573" xpos="-522.144" ypos="82.2961" zpos="-19.2429" type="leag.jw.story.ee.spider.ambush" GUID="elf2VRjex02GXL1BwmW09g=="/>
+        <POI MapID="1573" xpos="-418.391" ypos="83.7681" zpos="28.3627" type="leag.jw.story.ee.spider.ambush" GUID="TQ/7iHNo6ESb/JXFEyxofg=="/>
+        <POI MapID="1573" xpos="-394.2" ypos="85.3558" zpos="-0.115279" type="leag.jw.story.ee.spider.ambush" GUID="/uvPrSQEEEeyYb57j7sxrQ=="/>
+        <POI MapID="1573" xpos="-419.597" ypos="110.765" zpos="49.1779" type="leag.jw.story.ee.spider.ambush" GUID="uOjiOYaSsEG2DfskRGVZIw=="/>
+        <POI MapID="1573" xpos="-522.47" ypos="82.1559" zpos="19.0816" type="leag.jw.story.ee.spider.ambush" GUID="EGjAtDuBlUaTC4+yAUgIhQ=="/>
+        <POI MapID="1573" xpos="-412.194" ypos="114.912" zpos="-60.0497" type="leag.jw.story.ee.spider" GUID="/QHBFhwsUUeTZIlBjBskCA=="/>
+        
+        
+
+
         
     </POIs>
 </OverlayData>

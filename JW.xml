@@ -904,5 +904,87 @@
         <!-- True Artist -->
         <Trail type="leag.jw.js.artist" trailData="Data/JW/True Artist.trl"/>
 
+
+        <!-- MISTBURNED BARRENS -->
+        <Trail type="leag.jw.mb.scout" trailData="Data/JW/Missing Scout 0.trl"/>
+        <POI MapID="1575" xpos="-1027.53" ypos="93.8764" zpos="27.9009" type="leag.jw.mb.scout.start" GUID="ser/pGjg+0GrJm484zg8Mg=="/>
+        <Trail type="leag.jw.mb.scout" trailData="Data/JW/Missing Scout 1.trl"/>
+        <Trail type="leag.jw.mb.scout" trailData="Data/JW/Missing Scout 2.trl"/>
+        <Trail type="leag.jw.mb.scout" trailData="Data/JW/Missing Scout 3.trl"/>
+        
+        <Trail type="leag.jw.mb.game.1" trailData="Data/JW/Mursaat's Game 1.trl"/>
+        <Trail type="leag.jw.mb.game.2" trailData="Data/JW/Mursaat's Game 2.trl"/>
+        <Trail type="leag.jw.mb.game.3" trailData="Data/JW/Mursaat's Game 3 Alt.trl" texture="Data/Images/Trails/Warclaw Prints.png"/>
+        <Trail type="leag.jw.mb.game.3" trailData="Data/JW/Mursaat's Game 3.trl"/>
+        <Trail type="leag.jw.mb.game.4" trailData="Data/JW/Mursaat's Game 4.trl"/>
+        <Trail type="leag.jw.mb.game.5" trailData="Data/JW/Mursaat's Game 5.trl"/>
+        <Trail type="leag.jw.mb.game.6" trailData="Data/JW/Mursaat's Game 6.trl"/>
+        <Trail type="leag.jw.mb.game.7" trailData="Data/JW/Mursaat's Game 7.trl"/>
+        <Trail type="leag.jw.mb.game.8" trailData="Data/JW/Mursaat's Game 8 Alt.trl"/>
+        <Trail type="leag.jw.mb.game.8" trailData="Data/JW/Mursaat's Game 8.trl"/>
+        <Trail type="leag.jw.mb.game.9" trailData="Data/JW/Mursaat's Game 9.trl"/>
+        <Trail type="leag.jw.mb.game.10" trailData="Data/JW/Mursaat's Game 10.trl"/>
+        <Trail type="leag.jw.mb.game.11" trailData="Data/JW/Mursaat's Game 11.trl"/>
+        <POI MapID="1575" xpos="-1027.53" ypos="93.8764" zpos="27.9009" type="leag.jw.mb.game.start" GUID="RAhUD9II1kuXVSPlbTctyg=="/>
+        <POI MapID="1575" xpos="-1042.65" ypos="93.8764" zpos="-29.4313" type="leag.jw.mb.game.wp" GUID="kuHic30HC0+oGagY72qfAA==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
+        <POI MapID="1550" xpos="587.809" ypos="173.03" zpos="151.464" type="leag.jw.mb.game.wp" GUID="cE6IE88/gEaCtaA2Xtmy3Q==" copy="[&BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
+        <POI MapID="1550" xpos="-392.461" ypos="208.926" zpos="-522.97" type="leag.jw.mb.game.wp" GUID="qLk+GPy7L020R4yKKJIt7w==" copy="[&BCwPAAA=]" copy-message="Sanguine Crater Waypoint"/>
+        <POI MapID="1554" xpos="-458.221" ypos="193.918" zpos="-140.332" type="leag.jw.mb.game.wp" GUID="kXt4pdC3vky5PxZIGZC7kw==" copy="[&BCoPAAA=]" copy-message="Stricken Plains Waypoint"/>
+        <POI MapID="1554" xpos="835.138" ypos="14.0918" zpos="311.612" type="leag.jw.mb.game.wp" GUID="8e3/QhecQkOX2xzA6PT37A==" copy="[&BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
+        <POI MapID="1575" xpos="-150.01" ypos="0.28589" zpos="474.63" type="leag.jw.mb.game.wp" GUID="mi6kVh7r2EGvJLlDrPUSiQ==" copy="[&BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
+        <POI MapID="1575" xpos="-188.715" ypos="178.839" zpos="-568.348" type="leag.jw.mb.game.wp" GUID="YNxqm35SHU+Pd6w7TNBXbg==" copy="[&BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
+        <POI MapID="1554" xpos="-472.362" ypos="105.164" zpos="-151.432" type="leag.jw.mb.game.mount.skyscale" GUID="mgTm+Ls+qUOjG8brcWWb/A=="/>
+        <POI MapID="1575" xpos="-1011.75" ypos="93.8764" zpos="29.2978" type="leag.jw.mb.game.mount.skyscale" GUID="/fyCFkHv5kyMn8La7uysoQ=="/>
+        <POI MapID="1575" xpos="-1022.13" ypos="93.8764" zpos="33.9841" type="leag.jw.mb.game.1" GUID="WgShE0xynU6Wx+IQeb7/pA=="/>
+        <POI MapID="1550" xpos="536.79" ypos="218.787" zpos="44.8087" type="leag.jw.mb.game.2" GUID="5QCKmdYIfUOzgUf4hkUGmw=="/>
+        <POI MapID="1550" xpos="-348.628" ypos="213.456" zpos="-491.525" type="leag.jw.mb.game.3" GUID="of6p4R0lSUyNEib16zPreQ=="/>
+        <POI MapID="1554" xpos="-367.606" ypos="82.0234" zpos="51.0162" type="leag.jw.mb.game.4" GUID="GARVTPm+2UeeVaRNDNGVdw=="/>
+        <POI MapID="1554" xpos="187.352" ypos="2.62134" zpos="579.057" type="leag.jw.mb.game.5" GUID="htRpFI5RXUi2nbnh+7i8Pw=="/>
+        <POI MapID="1575" xpos="-1011.27" ypos="93.8764" zpos="36.4901" type="leag.jw.mb.game.6" GUID="UEGa/Us28EmZgch5jG1whw=="/>
+        <POI MapID="1575" xpos="-1015.18" ypos="93.8764" zpos="33.7088" type="leag.jw.mb.game.7" GUID="srv+jGrUuUiNU7AriByifQ=="/>
+        <POI MapID="1575" xpos="-1018.66" ypos="93.8764" zpos="32.8483" type="leag.jw.mb.game.8" GUID="H/To/cdnN0WzhFNWNfINjw=="/>
+        <POI MapID="1575" xpos="-996.775" ypos="162.961" zpos="46.0278" type="leag.jw.mb.game.9" GUID="dZWgH7QPrEWkBFf2OkowIw=="/>
+
+        <Trail type="leag.jw.mb.reading.journal.thunderbay" trailData="Data/JW/Reading Between the Lines 1.trl" inGameVisibility="1" mapDisplaySize="16"/>
+        <Trail type="leag.jw.mb.reading.journal.thunderbay" trailData="Data/JW/Reading Between the Lines 2.trl" inGameVisibility="1" mapDisplaySize="16"/>
+        <POI MapID="1554" xpos="171.222" ypos="2.62368" zpos="573.723" type="leag.jw.mb.reading.start" GUID="wjBwWppiOEWSeLEQDoji8A=="/>
+        <POI MapID="1554" xpos="149.819" ypos="1.26299" zpos="697.901" type="leag.jw.mb.reading.wp" GUID="Cii9vFcTOkej8czxuUUl7w==" copy="[&BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
+        <POI MapID="1554" xpos="148.535" ypos="0.950978" zpos="699.951" type="leag.jw.mb.reading.journal.thunderbay" GUID="CAYfFNUYdkGgEMU64SRAIA=="/>
+        <POI MapID="1575" xpos="-635.663" ypos="43.3845" zpos="-67.4745" type="leag.jw.mb.reading.journal.nexus" GUID="cPUbbBSQHUCxsjYuNe5WdA=="/>
+        <POI MapID="1575" xpos="-1025.75" ypos="95.488" zpos="2.31483" type="leag.jw.mb.reading.journal.table" GUID="G2JsCPxag0qD+Vrv7hO99w=="/>
+        <POI MapID="1575" xpos="-182.81" ypos="98.8399" zpos="12.2552" type="leag.jw.mb.reading.journal.ga" GUID="fFXOJ0zNZEmzC/N4YbIzAg=="/>
+
+        <Trail type="leag.jw.mb.archive.1" trailData="Data/JW/Scouring the Archive 1.trl"/>
+        <Trail type="leag.jw.mb.archive.2" trailData="Data/JW/Scouring the Archive 2.trl"/>
+        <POI MapID="1575" xpos="-1027.53" ypos="93.8764" zpos="27.9009" type="leag.jw.mb.archive.start" GUID="5jrNcyzO5EGxfadzH+f93g=="/>
+        <POI MapID="1575" xpos="-1010.11" ypos="93.8764" zpos="35.3192" type="leag.jw.mb.archive.1" GUID="CzsG8gxD8kSOziEJUHmH0g=="/>
+        <POI MapID="1575" xpos="-1013.34" ypos="93.8764" zpos="31.6688" type="leag.jw.mb.archive.2" GUID="AaVxNTOHEEGkJ8R9R9t+EA=="/>
+        <POI MapID="1575" xpos="-365.987" ypos="83.7689" zpos="13.8342" type="leag.jw.mb.archive.wp" GUID="XRI5Pduv5kWOQUtBZm0Sfw==" copy="[&BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
+        <POI MapID="1575" xpos="-599.938" ypos="104.972" zpos="-59.8188" type="leag.jw.mb.archive.journal" GUID="nKTRZsW6HUGqHsGgnUd7Dg=="/>
+        <POI MapID="1575" xpos="-707.753" ypos="66.1343" zpos="88.4327" type="leag.jw.mb.archive.journal" GUID="7iEdOCnBIE2VTr3CvVy1iw=="/>
+        <POI MapID="1575" xpos="-421.965" ypos="110.764" zpos="44.3264" type="leag.jw.mb.archive.journal" GUID="5RfKzJ9v5k26qUWO36yajw=="/>
+        <POI MapID="1575" xpos="-504.243" ypos="84.5429" zpos="65.8828" type="leag.jw.mb.archive.journal" GUID="EpeK9ijO30G3DUtbsWXwfA=="/>
+        <POI MapID="1575" xpos="-509.354" ypos="110.728" zpos="-43.9815" type="leag.jw.mb.archive.journal" GUID="jwrEeteIeUC90Ji5QimtHA=="/>
+        <POI MapID="1575" xpos="-366.554" ypos="83.7675" zpos="15.2501" type="leag.jw.mb.archive.journal" GUID="t3LzMb1QoE6Qm730N7BV/A=="/>
+
+        <!-- The Wayward Wisp -->
+        <Trail type="leag.jw.mb.tww" trailData="Data/JW/The Wayward Wisp 1.trl" color="66FFFF"/>
+        <Trail type="leag.jw.mb.tww" trailData="Data/JW/The Wayward Wisp 2.trl" color="66FFFF"/>
+        <Trail type="leag.jw.mb.tww" trailData="Data/JW/The Wayward Wisp 3.trl" color="66FFFF"/>
+        <POI MapID="1575" xpos="-1027.53" ypos="93.8764" zpos="27.9009" type="leag.jw.mb.tww.start" GUID="7WKdmMuxIkC+fHq0jf05wg=="/>
+        <POI MapID="1575" xpos="-841.999" ypos="43.6911" zpos="-508.597" type="leag.jw.mb.tww.wp" GUID="bcOGf/J+5k+Ba2kX8SGp6Q==" copy="[&BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
+        <POI MapID="1575" xpos="-813.66" ypos="8.28503" zpos="520.058" type="leag.jw.mb.tww.wp" GUID="BX/D0pt7g0K9N1R2Nuzu4Q==" copy="[&BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
+        <POI MapID="1575" xpos="-1020.49" ypos="93.8764" zpos="46.2319" type="leag.jw.mb.tww.1" GUID="SyLiGDgRT0WBPrvwgBKZQw=="/>
+        <POI MapID="1575" xpos="-1028.81" ypos="94.5277" zpos="94.1532" type="leag.jw.mb.tww.2" GUID="4dDTgzEHNEaoIiC4ZQEBFw=="/>
+        <POI MapID="1575" xpos="-1031.85" ypos="94.5279" zpos="94.8768" type="leag.jw.mb.tww.3" GUID="EYGuMydDLUKCjKxUKdtsLw=="/>
+        <POI MapID="1575" xpos="-879.189" ypos="79.1127" zpos="82.5868" type="leag.jw.mb.tww.sighting" GUID="uNQJoVlMYUKeRjDDc7TtJg=="/>
+        <POI MapID="1575" xpos="-898.546" ypos="79.644" zpos="-73.4476" type="leag.jw.mb.tww.sighting" GUID="yDhyV/PFnEmF/e5A2fx8Iw=="/>
+        <POI MapID="1575" xpos="-737.039" ypos="77.6677" zpos="-0.902887" type="leag.jw.mb.tww.sighting" GUID="NT6vkoIjg0S5Mf2EE81+Cw=="/>
+        <POI MapID="1575" xpos="-939.401" ypos="68.0111" zpos="174.585" type="leag.jw.mb.tww.sighting" GUID="KWviwnsXFkGJSi5NGTP48A=="/>
+        <POI MapID="1575" xpos="-253.244" ypos="129.483" zpos="304.869" type="leag.jw.mb.tww.outreach" GUID="vLZDKw4diUy5xOy6O7kCZw=="/>
+        <POI MapID="1575" xpos="-565.817" ypos="218.641" zpos="-0.864019" type="leag.jw.mb.tww.outreach" GUID="Sni39wQ8h0W2uJQXc+RqGg=="/>
+        <POI MapID="1575" xpos="-260.329" ypos="214.388" zpos="-151.007" type="leag.jw.mb.tww.outreach" GUID="cxcsrTrpRUSTl/Kyx31SjQ=="/>
+        <POI MapID="1575" xpos="-843.794" ypos="43.6911" zpos="-508.628" type="leag.jw.mb.tww.outreach" GUID="UweRPIeGcUi3ilp/4IMfjQ=="/>
+
     </POIs>
 </OverlayData>
