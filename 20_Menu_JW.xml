@@ -408,7 +408,7 @@
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             </MarkerCategory>
 
-            <MarkerCategory name="game" DisplayName="Mursaat's Game [H]" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" defaulttoggle="0" achievementId="0">
+            <MarkerCategory name="game" DisplayName="Mursaat's Game [H]" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" defaulttoggle="0" achievementId="8584">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                 <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
