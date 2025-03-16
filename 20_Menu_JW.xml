@@ -74,7 +74,28 @@
                     <MarkerCategory name="marker" DisplayName="Toggle Blue Orb Marker" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5" fadeNear="900" fadeFar="1200"/>
                 </MarkerCategory>
                 <MarkerCategory name="break" DisplayName="Study Break" achievementId="8453" iconFile="Data/Images/Emote - Ponder.png" fadeNear="750" fadeFar="1000" miniMapVisibility="0" mapVisibility="0"/>
-                
+
+                <MarkerCategory name="ch14" IsSeparator="1" DisplayName="Chapter 14: Into the Valley of Shadow"/>
+                <MarkerCategory name="tys" DisplayName="Told Ya So" achievementId="8613" iconFile="Data/Images/Emote - Facepalm.png" fadeNear="750" fadeFar="1000" miniMapVisibility="0" mapVisibility="0"/>
+
+                <!-- Once Golden, Now Tarnished -->
+                <MarkerCategory name="ognt" DisplayName="Once Golden, Now Tarnished" achievementId="8558" iconFile="Data/Images/Icons/Orb - Yellow - S.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <!-- Expert Exterminator -->
+                <MarkerCategory name="ee" DisplayName="Expert Exterminator" achievementId="8573">
+                    <!-- Hunger Crazed Murellow -->
+                    <MarkerCategory name="murellow" DisplayName="Hunger Crazed Murellow" iconFile="Data/Images/Circle - Orange.png" inGameVisibility="0" mapDisplaySize="32">
+                        <MarkerCategory name="meat" DisplayName="Rotten Meat" iconFile="Data/Images/Icons/Orb - Orange - S.png" alpha="0.8" maxSize="16" heightOffset="-0.5" fadeNear="1200" fadeFar="2400" inGameVisibility="1"/>
+                    </MarkerCategory>
+                    <!-- Imprisoned Jade Armor -->
+                    <MarkerCategory name="jade" DisplayName="Imprisoned Jade Armor" iconFile="Data/Images/Circle - Red.png" inGameVisibility="0" mapDisplaySize="32">
+                        <MarkerCategory name="talisman" DisplayName="Talisman" iconFile="Data/Images/Icons/Orb - Red - S.png" alpha="0.8" maxSize="16" heightOffset="-0.5" fadeNear="1200" fadeFar="2400" inGameVisibility="1"/>
+                    </MarkerCategory>
+                    <!-- The Source Of The Spider Infestation -->
+                    <MarkerCategory name="spider" DisplayName="The Source Of The Spider Infestation" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" mapDisplaySize="32">
+                        <MarkerCategory name="ambush" DisplayName="Ambush" iconFile="Data/Images/Icons/Orb - Green - S.png" alpha="0.8" maxSize="16" heightOffset="-0.5" fadeNear="1200" fadeFar="2400" inGameVisibility="1"/>
+                    </MarkerCategory>
+                </MarkerCategory>
 
             </MarkerCategory>
             
@@ -380,6 +401,69 @@
             <MarkerCategory name="artist" DisplayName="True Artist" achievementId="8172"/>
 
         </MarkerCategory>
+
+        <!-- MISTBURNED BARRENS -->
+        <MarkerCategory name="mb" DisplayName="Mistburned Barrens">
+            <MarkerCategory name="scout" DisplayName="Missing Scout" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="8552">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="game" DisplayName="Mursaat's Game [H]" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" defaulttoggle="0" achievementId="0">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                </MarkerCategory>
+                <MarkerCategory name="path" IsSeparator="1" DisplayName="  Path"/>
+                <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three"    iconFile="Data/Images/Numbers/3.png"/>
+                <MarkerCategory name="4" DisplayName="Four"     iconFile="Data/Images/Numbers/4.png"/>
+                <MarkerCategory name="5" DisplayName="Five"     iconFile="Data/Images/Numbers/5.png"/>
+                <MarkerCategory name="6" DisplayName="Six"      iconFile="Data/Images/Numbers/6.png"/>
+                <MarkerCategory name="7" DisplayName="Seven"    iconFile="Data/Images/Numbers/7.png"/>
+                <MarkerCategory name="8" DisplayName="Eight"    iconFile="Data/Images/Numbers/8.png"/>
+                <MarkerCategory name="9" DisplayName="Nine"     iconFile="Data/Images/Numbers/9.png"/>
+                <MarkerCategory name="10" DisplayName="Ten"     iconFile="Data/Images/Numbers/10.png"/>
+            </MarkerCategory>
+            
+            <MarkerCategory name="reading" DisplayName="Reading Between the Lines" achievementId="8610">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="journal" DisplayName="Toggle Journal Fragment" iconFile="Data/Images/Icons/Tattered Journal.png"  miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="32">
+                    <MarkerCategory name="js" IsSeparator="1" DisplayName="Thunder Bay, Janthir Syntri"/>
+                    <MarkerCategory name="thunderbay" DisplayName="Near a Fishing Spot in Thunder Bay"/>
+                    <MarkerCategory name="mb" IsSeparator="1" DisplayName="Mistburned Barrens"/>
+                    <MarkerCategory name="table" DisplayName="On a table at the Alliance Staging Ground"/>
+                    <MarkerCategory name="nexus" DisplayName="Nexus of Moonlight"/>
+                    <MarkerCategory name="ga" DisplayName="Grand Athenaeum."/>
+                </MarkerCategory>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            </MarkerCategory>
+            
+            <MarkerCategory name="archive" DisplayName="Scouring the Archive" achievementId="8564">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="journal" DisplayName="Toggle Journal Fragment" iconFile="Data/Images/Icons/Journal Fragment.png"  miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="32"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="path" IsSeparator="1" DisplayName="  Path"/>
+                <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png"/>
+            </MarkerCategory>
+            
+            <MarkerCategory name="tww" DisplayName="The Wayward Wisp: Vault Dispatch" achievementId="8616">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wisp" DisplayName="Toggle Wisp Markers" iconFile="Data/Images/Wisp.png" heightOffset="2" mapDisplaySize="32"/>
+                <MarkerCategory name="outreach" DisplayName="Wisp Outreach" iconFile="Data/Images/Wisp.png" achievementId="8635" maxSize="8" heightOffset="-0.5" mapDisplaySize="24"/>
+                <MarkerCategory name="sighting" DisplayName="Wisp Sighting (Events/Rifts)" iconFile="Data/Images/Yellow Swirl.png" achievementId="8567" inGameVisibility="0" mapDisplaySize="128"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="path" IsSeparator="1" DisplayName="  Path"/>
+                <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three"    iconFile="Data/Images/Numbers/3.png"/>
+            </MarkerCategory>
+            
+        </MarkerCategory>
+
+
         </MarkerCategory>
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
