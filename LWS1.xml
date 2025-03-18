@@ -50,6 +50,7 @@
         <POI MapID="28" xpos="154.846" ypos="199.711" zpos="1190.07" type="leag.lws1.wayfarer.laf.snow" GUID="BhmghCmITEuKKYmRZQr9DA=="/>
         <POI MapID="28" xpos="-17.9609" ypos="109.434" zpos="404.099" type="leag.lws1.wayfarer.laf.snow" GUID="+uBEg3HWYkiCNiFwaXlHQA=="/>
         <POI MapID="28" xpos="46.7341" ypos="100.563" zpos="381.952" type="leag.lws1.wayfarer.laf.snow" GUID="lLPJa29McEG647dbRuMHCQ=="/>
+        <POI MapID="28" xpos="362.296" ypos="124.561" zpos="918.566" type="leag.lws1.wayfarer.laf.snow" GUID="cjGm/2ivk06Jki4eoUjXOw=="/>
 
         <!-- Molten Memorial -->
         <POI MapID="50" xpos="371.978" ypos="29.5842" zpos="332.211" type="leag.lws1.la.memorial.drawing" GUID="3/uhi/eR6k6g1dlODQ9dew=="/>
@@ -73,6 +74,9 @@
         <POI MapID="901" xpos="86.7105" ypos="255.737" zpos="112.697" type="leag.lws1.story.ron.ore" GUID="XTFElaRTlU2hmKMxfxcOAA=="/>
         <POI MapID="901" xpos="-125.818" ypos="269.327" zpos="141.076" type="leag.lws1.story.ron.ore" GUID="pJAuwFkyI0W+WGvyTCdqng=="/>
         <POI MapID="901" xpos="29.4533" ypos="170.139" zpos="-231.361" type="leag.lws1.story.ron.ore" GUID="53PXgcdXm0OVVy7gsxM2Tw=="/>
+        <POI MapID="901" xpos="127.814" ypos="257.968" zpos="157.263" type="leag.lws1.story.ron.ore" GUID="Nr/fP862M0+IWWJftqw2Fw=="/>
+        <POI MapID="901" xpos="87.2195" ypos="253.948" zpos="107.563" type="leag.lws1.story.ron.ore" GUID="B47mU+LsDk+rv0UHMbR1lA=="/>
+        <POI MapID="901" xpos="13.6384" ypos="256.771" zpos="108.614" type="leag.lws1.story.ron.ore" GUID="bqYnzFOP2US8+qjV2Ug9kw=="/>
 
         <!-- Refugee Volunteer -->
 

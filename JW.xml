@@ -920,7 +920,7 @@
         <Trail type="leag.jw.mb.game.5" trailData="Data/JW/Mursaat's Game 5.trl"/>
         <Trail type="leag.jw.mb.game.6" trailData="Data/JW/Mursaat's Game 6.trl"/>
         <Trail type="leag.jw.mb.game.7" trailData="Data/JW/Mursaat's Game 7.trl"/>
-        <Trail type="leag.jw.mb.game.8" trailData="Data/JW/Mursaat's Game 8 Alt.trl"/>
+        <Trail type="leag.jw.mb.game.8" trailData="Data/JW/Mursaat's Game 8 Alt.trl" texture="Data/Images/Trails/Warclaw Prints.png"/>
         <Trail type="leag.jw.mb.game.8" trailData="Data/JW/Mursaat's Game 8.trl"/>
         <Trail type="leag.jw.mb.game.9" trailData="Data/JW/Mursaat's Game 9.trl"/>
         <Trail type="leag.jw.mb.game.10" trailData="Data/JW/Mursaat's Game 10.trl"/>
