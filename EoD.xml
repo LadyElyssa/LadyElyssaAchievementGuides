@@ -552,7 +552,6 @@
         <Trail type="leag.eod.nkc.canals" trailData="Data/EoD/Clear the Canals.trl"/>
         <POI MapID="1438" xpos="-889.552" ypos="2.84449" zpos="-142.547" type="leag.eod.nkc.canals.start" GUID="Kh0Fx51m9kGoD1kEDf8/cg=="/>
 
-        <Trail type="leag.eod.nkc.crow" trailData="Data/EoD/Crow Catcher.trl"/>
         <POI MapID="1438" xpos="841.598" ypos="24.3107" zpos="-38.8825" type="leag.eod.nkc.crow.loc" GUID="brQAz9Ul5EKuQDv6z8k/iA=="/>
         <POI MapID="1438" xpos="894.665" ypos="62.3479" zpos="-118.469" type="leag.eod.nkc.crow.loc" GUID="OQhZJQoaOUGhGovBMAcQuQ=="/>
         <POI MapID="1438" xpos="983.721" ypos="68.2806" zpos="-102.756" type="leag.eod.nkc.crow.loc" GUID="7zKT6C3rUkaOGndmsa1xcQ=="/>
