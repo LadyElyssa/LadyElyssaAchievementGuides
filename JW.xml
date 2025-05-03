@@ -924,7 +924,6 @@
         <Trail type="leag.jw.mb.game.8" trailData="Data/JW/Mursaat's Game 8.trl"/>
         <Trail type="leag.jw.mb.game.9" trailData="Data/JW/Mursaat's Game 9.trl"/>
         <Trail type="leag.jw.mb.game.10" trailData="Data/JW/Mursaat's Game 10.trl"/>
-        <Trail type="leag.jw.mb.game.11" trailData="Data/JW/Mursaat's Game 11.trl"/>
         <POI MapID="1575" xpos="-1027.53" ypos="93.8764" zpos="27.9009" type="leag.jw.mb.game.start" GUID="RAhUD9II1kuXVSPlbTctyg=="/>
         <POI MapID="1575" xpos="-1042.65" ypos="93.8764" zpos="-29.4313" type="leag.jw.mb.game.wp" GUID="kuHic30HC0+oGagY72qfAA==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
         <POI MapID="1550" xpos="587.809" ypos="173.03" zpos="151.464" type="leag.jw.mb.game.wp" GUID="cE6IE88/gEaCtaA2Xtmy3Q==" copy="[&BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
