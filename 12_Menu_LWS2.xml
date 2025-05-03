@@ -106,6 +106,7 @@
                         <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
                         <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
                         <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
                     </MarkerCategory>
                     <MarkerCategory name="valley" DisplayName="Prospect Valley" achievementId="1634">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
@@ -119,9 +120,9 @@
                         <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
                     </MarkerCategory>
                 </MarkerCategory>
-                <MarkerCategory name="lll" DisplayName="Legendary Llama Locator" iconFile="Data/Images/Icons/Llama.png" heightOffset="2.0" maxSize="12" mapDisplaySize="32" achievementId="1636"/>
-                <MarkerCategory name="llll" DisplayName="Learned Legendary Llama Locator" iconFile="Data/Images/Icons/Llama.png" heightOffset="2.0" maxSize="12" mapDisplaySize="32" achievementId="1655"/>
-                <MarkerCategory name="lllll" DisplayName="Licensed Learned Legendary Llama Locator" iconFile="Data/Images/Icons/Llama.png" heightOffset="2.0" maxSize="12" mapDisplaySize="32" achievementId="1693"/>
+                <MarkerCategory name="lll" DisplayName="Legendary Llama" iconFile="Data/Images/Icons/Llama.png" heightOffset="2.0" maxSize="12" mapDisplaySize="32" achievementId="1636"/>
+                <MarkerCategory name="llll" DisplayName="Learned Legendary Llama" iconFile="Data/Images/Icons/Llama.png" heightOffset="2.0" maxSize="12" mapDisplaySize="32" achievementId="1655"/>
+                <MarkerCategory name="lllll" DisplayName="Licensed Learned Legendary Llama" iconFile="Data/Images/Icons/Llama.png" heightOffset="2.0" maxSize="12" mapDisplaySize="32" achievementId="1693"/>
             </MarkerCategory>
 
             <MarkerCategory name="silverwastes" DisplayName="The Silverwastes">
