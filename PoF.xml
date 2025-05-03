@@ -680,7 +680,6 @@
         <Trail type="leag.pof.vabbi.llotdov" trailData="Data/PoF/Lost Lore of the Domain of Vabbi 3.trl"/>
         <Trail type="leag.pof.vabbi.llotdov" trailData="Data/PoF/Lost Lore of the Domain of Vabbi 4.trl"/>
         <Trail type="leag.pof.vabbi.llotdov" trailData="Data/PoF/Lost Lore of the Domain of Vabbi 5.trl"/>
-        <Trail type="leag.pof.vabbi.llotdov" trailData="Data/PoF/Lost Lore of the Domain of Vabbi 6.trl"/>
         <POI MapID="1248" xpos="-1075.54" ypos="139.356" zpos="421.982" type="leag.pof.vabbi.llotdov.start" GUID="R0o1HogykEWZOL8C9eGkHA=="/>
         <POI MapID="1248" xpos="-1230.71" ypos="120.401" zpos="346.968" type="leag.pof.vabbi.llotdov.wp" GUID="L6hXCOzv20auZCZs4M8P6Q==" copy="[&BNAKAAA=]" copy-message="Seborhin Waypoint"/>
         <POI MapID="1248" xpos="-744.393" ypos="217.922" zpos="497.746" type="leag.pof.vabbi.llotdov.wp" GUID="4MgvB0xIzkWtnX1Pm6leTA==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint"/>
