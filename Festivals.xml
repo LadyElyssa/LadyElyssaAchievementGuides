@@ -572,7 +572,7 @@
         <POI MapID="28" xpos="73.5376" ypos="118.011" zpos="921.877" type="leag.festivals.halloween.pumpkin.wayfarer.wp" GUID="evvMJNIVdkaWOVAjAK+azg==" copy="[&BHsBAAA=]" copy-message="Dolyak Pass Waypoint"/>
         <POI MapID="28" xpos="395.672" ypos="129.021" zpos="948.096" type="leag.festivals.halloween.pumpkin.wayfarer.wp" GUID="pDqz5pJlWE6bd01BhFuQDA==" copy="[&BHwBAAA=]" copy-message="Solitude Waypoint"/>
 
-        <!-- The Night TIme Stood Still -->
+        <!-- The Night Time Stood Still -->
         <Trail type="leag.festivals.halloween.tntss" trailData="Data/Festivals/Halloween/The Night Time Stood Still - LA.trl"/>
         <Trail type="leag.festivals.halloween.tntss" trailData="Data/Festivals/Halloween/The Night Time Stood Still - Mad Realm.trl"/>
 
@@ -607,8 +607,8 @@
         <Trail type="leag.festivals.wintersday.ftc.human.skipping" trailData="Data/Festivals/Wintersday/Skipping Stones 2.trl"/>
         <Trail type="leag.festivals.wintersday.ftc.human.skipping" trailData="Data/Festivals/Wintersday/Skipping Stones 3.trl"/>
 
-        <Trail type="leag.festivals.wintersday.ftc.asura.spekk" trailData="Data/Festivals/Wintersday/Spekk's Laboratory 1.trl"/>
-        <Trail type="leag.festivals.wintersday.ftc.asura.spekk" trailData="Data/Festivals/Wintersday/Spekk's Laboratory 2.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.spekk" trailData="Data/Festivals/Wintersday/Spekks's Laboratory 1.trl"/>
+        <Trail type="leag.festivals.wintersday.ftc.asura.spekk" trailData="Data/Festivals/Wintersday/Spekks's Laboratory 2.trl"/>
         <Trail type="leag.festivals.wintersday.ftc.asura.goemm" trailData="Data/Festivals/Wintersday/Goemm's Lab 0.trl"/>
         <Trail type="leag.festivals.wintersday.ftc.asura.goemm" trailData="Data/Festivals/Wintersday/Goemm's Lab 1a.trl"/>
         <Trail type="leag.festivals.wintersday.ftc.asura.goemm" trailData="Data/Festivals/Wintersday/Goemm's Lab 1b.trl"/>
