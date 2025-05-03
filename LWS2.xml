@@ -179,25 +179,31 @@
         <Trail type="leag.lws2.drytop.coins.cliffs" trailData="Data/LWS2/Coin Collector - Challenger Cliffs 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FF8800"/>
         <Trail type="leag.lws2.drytop.coins.cliffs" trailData="Data/LWS2/Coin Collector - Challenger Cliffs 3.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FF8800"/>
         <Trail type="leag.lws2.drytop.coins.cliffs" trailData="Data/LWS2/Coin Collector - Challenger Cliffs 4.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FF8800"/>
+        <Trail type="leag.lws2.drytop.coins.cliffs" trailData="Data/LWS2/Coin Collector - Challenger Cliffs 5.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FF8800"/>
         <POI MapID="988" xpos="-571.031" ypos="74.7226" zpos="-316.354" type="leag.lws2.drytop.coins.cliffs.start" GUID="x1Y0T589+keIEOMbD0o32A=="/>
         <POI MapID="988" xpos="-580.639" ypos="14.9502" zpos="-442.764" type="leag.lws2.drytop.coins.cliffs.wp" GUID="zOVyiOBgB0OBqWg15/en/A==" copy="[&BJcHAAA=]" copy-message="Repair Station Waypoint"/>
-        <POI MapID="988" xpos="-295.3631" ypos="101.1805" zpos="-386.6475" type="leag.lws2.drytop.coins.cliffs.wp" GUID="3tnb/8YzTUuY48euomRIfg==" copy="[&BIgHAAA=]" copy-message="Repair Station Waypoint"/>
+        <POI MapID="988" xpos="-295.3631" ypos="101.1805" zpos="-386.6475" type="leag.lws2.drytop.coins.cliffs.wp" GUID="3tnb/8YzTUuY48euomRIfg==" copy="[&BJcHAAA=]" copy-message="Repair Station Waypoint"/>
         <POI MapID="988" xpos="-564.9566" ypos="55.86182" zpos="-537.0505" type="leag.lws2.drytop.coins.cliffs" GUID="MM6fXlCEU0OWBJylFyBoQA==" iconFile="Data/Images/Icons/Target with Shadow.png" maxSize="16" heightOffset="0" fadeNear="1200" fadeFar="2400" miniMapVisibility="0" mapVisibility="0"/>
         <POI MapID="988" xpos="-586.9634" ypos="47.19953" zpos="-545.2575" type="leag.lws2.drytop.coins.cliffs" GUID="C2ZVYSQxTEez4EAvlTjhGg==" iconFile="Data/Images/Icons/Target with Shadow.png" maxSize="16" heightOffset="0" fadeNear="1200" fadeFar="2400" miniMapVisibility="0" mapVisibility="0"/>
         <POI MapID="988" xpos="-468.9763" ypos="120.8359" zpos="-555.5834" type="leag.lws2.drytop.coins.cliffs" GUID="uzzGQ5+lOkqGE+7t3CJVQQ==" iconFile="Data/Images/Icons/Target with Shadow.png" maxSize="16" heightOffset="0" fadeNear="1200" fadeFar="2400" miniMapVisibility="0" mapVisibility="0"/>
-        <POI MapID="988" xpos="-555.2951" ypos="80.2092" zpos="-310.5659" type="leag.lws2.drytop.coins.cliffs.1" GUID="Y3Y8UF0StU21lKGJnW3mWg=="/>
-        <POI MapID="988" xpos="-556.3793" ypos="80.00531" zpos="-311.2058" type="leag.lws2.drytop.coins.cliffs.3" GUID="PTU9bWI17kiVBUzckSYn/A=="/>
-        <POI MapID="988" xpos="-557.3267" ypos="79.82584" zpos="-311.8882" type="leag.lws2.drytop.coins.cliffs.4" GUID="cAU8YLsl7E21OYuyOkLoCw=="/>
-        <POI MapID="988" xpos="-560.5718" ypos="78.8167" zpos="-312.142" type="leag.lws2.drytop.coins.cliffs.2" GUID="MCS91PJQFUidboEwhzFcWw=="/>
-        <POI MapID="988" xpos="-527.558" ypos="84.3885" zpos="-331.196" type="leag.lws2.drytop.coins.cliffs.3" GUID="PIg4BD1aVEq/T60kehdz7w=="/>
-        <POI MapID="988" xpos="-528.593" ypos="84.1941" zpos="-333.206" type="leag.lws2.drytop.coins.cliffs.4" GUID="jFtqE+Ul0kGeWfahgmxzNA=="/>
+        <POI MapID="988" xpos="-555.2951" ypos="81.7795" zpos="-310.5659" type="leag.lws2.drytop.coins.cliffs.1" GUID="Y3Y8UF0StU21lKGJnW3mWg=="/>
+        <POI MapID="988" xpos="-555.274" ypos="80.1749" zpos="-310.493" type="leag.lws2.drytop.coins.cliffs.2" GUID="fB8/Gsip+EKeFU/UbfeZTw=="/>
+        <POI MapID="988" xpos="-401.71" ypos="111.035" zpos="-316.358" type="leag.lws2.drytop.coins.cliffs.1" GUID="nj4bnDegXEyWvawFdQ6m1w=="/>
+        <POI MapID="988" xpos="-401.402" ypos="111.53" zpos="-318.546" type="leag.lws2.drytop.coins.cliffs.2" GUID="olsre1st5UOUGnnMOjQu8Q=="/>
+        <POI MapID="988" xpos="-560.5718" ypos="78.8167" zpos="-312.142" type="leag.lws2.drytop.coins.cliffs.3" GUID="MCS91PJQFUidboEwhzFcWw=="/>
+        <POI MapID="988" xpos="-557.695" ypos="81.065" zpos="-311.658" type="leag.lws2.drytop.coins.cliffs.4" GUID="KIPRHwv9d0ygPqpZv15lHw=="/>
+        <POI MapID="988" xpos="-557.695" ypos="79.665" zpos="-311.658" type="leag.lws2.drytop.coins.cliffs.5" GUID="PTU9bWI17kiVBUzckSYn/A=="/>
+        <POI MapID="988" xpos="-527.709" ypos="84.4078" zpos="-331.105" type="leag.lws2.drytop.coins.cliffs.4" GUID="hJUDZsSeIU2Gk3niu6NtaQ=="/>
+        <POI MapID="988" xpos="-528.71" ypos="84.2534" zpos="-332.957" type="leag.lws2.drytop.coins.cliffs.5" GUID="aAhdydpsD0CWoKsbqbDuFg=="/>
+        <POI MapID="988" xpos="-540.919" ypos="118.224" zpos="-148.537" type="leag.lws2.drytop.coins.cliffs.wp" GUID="mHSJz8R66kiDBdt+etRIMQ==" copy="[&BJcHAAA=]" copy-message="Repair Station Waypoint"/>
 
         <!-- Coin Collector - Prospect Valley -->
         <Trail type="leag.lws2.drytop.coins.valley" trailData="Data/LWS2/Coin Collector - Prospect Valley 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
         <Trail type="leag.lws2.drytop.coins.valley" trailData="Data/LWS2/Coin Collector - Prospect Valley 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
         <POI MapID="988" xpos="399.299" ypos="24.1442" zpos="-517.54" type="leag.lws2.drytop.coins.valley.start" GUID="wHtFVS8IIU2BSV+zQ9J9hQ=="/>
-        <POI MapID="988" xpos="290.51" ypos="8.18932" zpos="-211.541" type="leag.lws2.drytop.coins.valley.wp" GUID="1g61bdcpvESFdpJUSZyHoA==" copy="[&BHoHAAA=]" copy-message="Prosperity Waypoint"/>
-        <POI MapID="988" xpos="190.093" ypos="35.6254" zpos="-253.97" type="leag.lws2.drytop.coins.valley.wp" GUID="Q4yoTkynWUGkzHUOmg9r0g==" copy="[&BIgHAAA=]" copy-message="Prosperity Waypoint&#xa;&#xa;For Lost Coins - Uplands"/>
+        <POI MapID="988" xpos="191.283" ypos="35.7452" zpos="-251.615" type="leag.lws2.drytop.coins.valley.wp" GUID="XQGSEuZw50Syt+HxOMFNOQ=="copy="[&BHoHAAA=]" copy-message="Prosperity Waypoint"/>
+        <POI MapID="988" xpos="190.093" ypos="35.6254" zpos="-253.97" type="leag.lws2.drytop.coins.valley.wp" GUID="Q4yoTkynWUGkzHUOmg9r0g==" copy="[&BHoHAAA=]" copy-message="Prosperity Waypoint&#xa;&#xa;For Lost Coins - Uplands"/>
+
         
         <!-- Coin Collector - Uplands -->
         <Trail type="leag.lws2.drytop.coins.uplands" trailData="Data/LWS2/Coin Collector - Uplands 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FFD800"/>
