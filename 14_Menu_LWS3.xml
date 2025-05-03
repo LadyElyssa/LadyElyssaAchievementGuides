@@ -1,23 +1,171 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
-        <!--
+
         <MarkerCategory name="lws3" DisplayName="LWS3: Glint's Legacy">
 
             <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
+                <MarkerCategory name="ch1" IsSeparator="1" DisplayName="CHAPTER 1: Out of the Shadows"/>
+                <MarkerCategory name="puzzle" DisplayName="Was it Blue or Red?" iconFile="Data/Images/RiRN Puzzle.png" heightOffset="0" minSize="96"/>
+                <MarkerCategory name="tidan" DisplayName="Take It Down a Notch [H]" iconFile="Data/Images/Icons/Targeted.png" maxSize="32" heightOffset="3.5" defaulttoggle="0"/>
+
+                <MarkerCategory name="ch2" IsSeparator="1" DisplayName="CHAPTER 2: Rising Flames"/>
+
+
+                <MarkerCategory name="ch3" IsSeparator="1" DisplayName="CHAPTER 3: A Crack in the Ice"/>
+                
+                <MarkerCategory name="attache" DisplayName="Cultural Attaché">
+                    <MarkerCategory name="set" DisplayName="SETTINGS">
+                        <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="collect" IsSeparator="1" DisplayName="COLLECTION"/>
+                    <MarkerCategory name="watchknight" DisplayName="Watchknight Statue">
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="dr" DisplayName="Divinity's Reach"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="car" DisplayName="Small Charr Car">
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="bc" DisplayName="Black Citadel"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="eir" DisplayName="Souvenir Eir Statue">
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="hoelbrak" DisplayName="Hoelbrak"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="gate" DisplayName="Model Asura Gates">
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="rs" DisplayName="Rata Sum"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="plant" DisplayName="Sylvari Potted Plant">
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="grove" DisplayName="The Grove"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="chicken" DisplayName="Caged Orrian Chicken">
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="sanctum" DisplayName="Model Zephyr Sanctum">
+                        <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                        <MarkerCategory name="dt" DisplayName="Dry Top"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                
+                <MarkerCategory name="toys" DisplayName="New in Box"/>
+
+
+                <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: The Head of the Snake"/>
+
+
+                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: Flashpoint"/>
+
+
+                <MarkerCategory name="ch6" IsSeparator="1" DisplayName="CHAPTER 6: One Path Ends"/>
+                
             </MarkerCategory>
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
             
             <MarkerCategory name="bff" DisplayName="Bitterfrost Frontier">
+                <MarkerCategory name="desserts" DisplayName="Delicious Desserts" iconFile="Data/Images/Icons/Talk.png" maxSize="32" heightOffset="3.5"/>
+                <MarkerCategory name="sampling" DisplayName="Thorough Sampling">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+                <MarkerCategory name="quaggan" DisplayName="Quirky Quaggan">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                </MarkerCategory>
+
             </MarkerCategory>
 
             <MarkerCategory name="bsf" DisplayName="Bloodstone Fen">
+
+                <MarkerCategory name="notebook" DisplayName="Apprentice Kasandra's Notebook [H]" defaulttoggle="0">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="journal" DisplayName="Grand Savant Valis the Learned's Research Journal [H]" defaulttoggle="0">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="lostsouls" DisplayName="Lost Souls">
+                    <MarkerCategory name="ehrin" DisplayName="Savant Ehrin" iconFile="Data/Images/Savant Ehrin.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="nyle" DisplayName="Nyle the Compassionate" iconFile="Data/Images/Nyle the Compassionate.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="josa" DisplayName="Ritualist Josa" iconFile="Data/Images/Ritualist Josa.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="lloyd" DisplayName="Thief Lloyd" iconFile="Data/Images/Thief Lloyd.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="unbound" DisplayName="Magic Unbound: The Gathering">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="memoirs" DisplayName="The Memoirs of Justiciar Bauer [H]" defaulttoggle="0">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="hablion" DisplayName="This Time, Stay Dead" iconFile="Data/Images/Champion Ghostly Justiciar Hablion.png" inGameVisibility="0" mapDisplaySize="64">
+                    <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                    <MarkerCategory name="coul" DisplayName="Colosseum of the Faithful"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="guardian" DisplayName="Unbound Guardian" iconFile="Data/Images/Unbound Guardian.png" inGameVisibility="0" mapDisplaySize="96">
+                    <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
+                    <MarkerCategory name="coul" DisplayName="Cavern of Unseen Lights"/>
+                </MarkerCategory>
+
             </MarkerCategory>
 
             <MarkerCategory name="draconis" DisplayName="Draconis Mons">
             </MarkerCategory>
 
             <MarkerCategory name="ember" DisplayName="Ember Bay">
+                
+                <MarkerCategory name="broodmother" DisplayName="Broodmother Down By The Bay" iconFile="Data/Images/Champion Rock Drake Broodmother.png" inGameVisibility="0" mapDisplaySize="64"/>
+
+                <MarkerCategory name="cami" DisplayName="Cami's Final Voyage">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="coalescence" DisplayName="Collecting Coalescence" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+
+                <MarkerCategory name="jade" DisplayName="Return of the Jade Construct" iconFile="Data/Images/Champion Pyroclastic Jade Construct.png" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="karka" DisplayName="Krackin' Karka" iconFile="Data/Images/Champion Karka.png" inGameVisibility="0" mapDisplaySize="64"/>
+
+                <MarkerCategory name="tablets" DisplayName="Tablets of the Unseen">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="token" DisplayName="Token Collector" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                    <MarkerCategory name="portal" DisplayName="Toggle Portal" iconFile="Data/Images/tokenportal.png" maxSize="32" heightOffset="0" inGameVisibility="1"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="wurm" DisplayName="Verm the Burnin' Wurm" iconFile="Data/Images/Vermignus.png" inGameVisibility="0" mapDisplaySize="64"/>
+
             </MarkerCategory>
 
             <MarkerCategory name="doric" DisplayName="Lake Doric">
@@ -26,7 +174,7 @@
             <MarkerCategory name="sirens" DisplayName="Siren's Landing">
             </MarkerCategory>        
         </MarkerCategory>
-        -->
+
     </MarkerCategory>
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>
