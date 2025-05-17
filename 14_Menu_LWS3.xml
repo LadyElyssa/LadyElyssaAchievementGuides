@@ -83,8 +83,9 @@
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
                 </MarkerCategory>
 
-
+                <!--
                 <MarkerCategory name="ch6" IsSeparator="1" DisplayName="CHAPTER 6: One Path Ends"/>
+                -->
                 
             </MarkerCategory>
 
