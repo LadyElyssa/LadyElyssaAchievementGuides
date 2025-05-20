@@ -1,15 +1,17 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" texture="Data/Images/Trails/Trail Marker 1.png" animSpeed="0.8" alpha="1.0" fadeNear="2000" fadeFar="4000">
         <MarkerCategory name="about" DisplayName="About">
-            <MarkerCategory name="version" DisplayName="Version    :: 4.1"/>
+            <MarkerCategory name="version" DisplayName="Version    :: 4.2"/>
             <MarkerCategory name="gw2" DisplayName="GW2       :: Lady Elyssa.2469"/>
             <MarkerCategory name="github" DisplayName="Github     :: https://github.com/LadyElyssa/"/>
             <MarkerCategory name="wikiuser" DisplayName="GW2 Wiki  :: https://wiki.guildwars2.com/wiki/User:Lady_Elyssa"/>
             <MarkerCategory name="credits" IsSeparator="1" DisplayName="CREDITS"/>
             <MarkerCategory name="emz" DisplayName="Emz"/>
-            <MarkerCategory name="freesnow" Displayname="Freesn&#xf6;w"/>
+            <MarkerCategory name="freesnow" Displayname="Freesn&#xf6;w [BlishHUD]"/>
             <MarkerCategory name="mmm" DisplayName="Metallis"/>
             <MarkerCategory name="sha" DisplayName="Sha"/>
+            <MarkerCategory name="tanetris" DisplayName="Tanetris"/>
+            <MarkerCategory name="tekkit" DisplayName="Tekkit [GW2TacO]"/>
             <MarkerCategory name="wikikrewe" DisplayName="The Wiki Krewe"/>
             <MarkerCategory name="followers" DisplayName="My GW2 Followers"/>
             <MarkerCategory name="git" DisplayName="My Github Contributors"/>
