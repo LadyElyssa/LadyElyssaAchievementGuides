@@ -311,7 +311,7 @@
         <Trail type="leag.lws3.bff.koda.estability.ironmarches" trailData="Data/LWS3/Offering for Elemental Stability.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
         <Trail type="leag.lws3.bff.koda.recovery.wayfarer" trailData="Data/LWS3/Offering for Elemental Recovery.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
         <Trail type="leag.lws3.bff.koda.balance.straits" trailData="Data/LWS3/Offering for Life's Balance.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.mbalance.bsf" trailData="Data/LWS3/Offering to Restore Magical Balance .trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
+        <Trail type="leag.lws3.bff.koda.mbalance.bsf" trailData="Data/LWS3/Offering to Restore Magical Balance.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
         <POI MapID="1178" xpos="24.941" ypos="43.9511" zpos="-74.4576" type="leag.lws3.bff.koda.start" GUID="r+iyQ7NP/0qRKJbIXzxCLw=="/>
         <POI MapID="1178" xpos="32.1747" ypos="44.6742" zpos="-68.3115" type="leag.lws3.bff.koda.talk" GUID="dD2etfWMDUKYhdOfG6+lBw==" info="BUY 19 Offering Baskets" infoRange="3"/>
         <POI MapID="39" xpos="1077.41" ypos="31.7517" zpos="470.378" type="leag.lws3.bff.koda.glider" GUID="lEWzkxOjwUGA3dHn3Xq5yw=="/>
