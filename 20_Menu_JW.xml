@@ -97,6 +97,26 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
+                <MarkerCategory name="ch17" IsSeparator="1" DisplayName="Chapter 17: Forced Shadow"/>
+                <MarkerCategory name="fact" DisplayName="Fact Finder" achievementId="8716">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="marker" DisplayName="Toggle Blue Orb Marker" iconFile="Data/Images/Icons/Orb - Blue - S.png" alpha="0.8" maxSize="16" heightOffset="-0.5" fadeNear="1200" fadeFar="1600"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="ch19" IsSeparator="1" DisplayName="Chapter 19: Salvation's Cost"/>
+                <MarkerCategory name="evidentiary" DisplayName="Evidentiary Standards" achievementId="8712">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="marker" DisplayName="Toggle Blue Orb Marker" iconFile="Data/Images/Icons/Orb - Green - S.png" alpha="0.8" maxSize="16" heightOffset="-0.5" fadeNear="1200" fadeFar="1600" behavior="3"/>
+                </MarkerCategory>
+                <MarkerCategory name="cuisine" DisplayName="International Cuisine" achievementId="8712">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="marker" DisplayName="Toggle Blue Orb Marker" iconFile="Data/Images/Icons/Orb - Blue - S.png" alpha="0.8" maxSize="16" heightOffset="-0.5" fadeNear="1200" fadeFar="1600" behavior="3"/>
+                </MarkerCategory>
+                <MarkerCategory name="introvert" DisplayName="True Introvert" achievementId="8775">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="marker" DisplayName="Toggle Talk Marker" iconFile="Data/Images/Icons/Talk.png" alpha="0.8" maxSize="16" heightOffset="2.5" fadeNear="1200" fadeFar="1600" behavior="3"/>
+                </MarkerCategory>
+
             </MarkerCategory>
             
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
@@ -463,6 +483,85 @@
             
         </MarkerCategory>
 
+        <!-- BAVA NISOS -->
+        <MarkerCategory name="bn" DisplayName="Bava Nisos">
+
+            <MarkerCategory name="chaos" DisplayName="Assorted Chaos" achievementId="8740">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="case382" DisplayName="Case 382: Titan Organ Smuggling" achievementId="8706">
+                <MarkerCategory name="requires" IsSeparator="1" DisplayName="REQUIRES: A Titanic Voyage"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="info" DisplayName="Toggle Info" iconFile="Data/Images/Icons/Blank.png" triggerrange="3" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="path" IsSeparator="1" DisplayName="  Path"/>
+                <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png"/>
+                <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png"/>
+                <MarkerCategory name="3" DisplayName="Three"    iconFile="Data/Images/Numbers/3.png"/>
+                <MarkerCategory name="4" DisplayName="Four"    iconFile="Data/Images/Numbers/4.png"/>
+                <MarkerCategory name="5" DisplayName="Five"     iconFile="Data/Images/Numbers/5.png"/>
+                <MarkerCategory name="6" DisplayName="Six"      iconFile="Data/Images/Numbers/6.png"/>
+                <MarkerCategory name="7" DisplayName="Seven"    iconFile="Data/Images/Numbers/7.png">
+                    <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+                <MarkerCategory name="8" DisplayName="Eight"    iconFile="Data/Images/Numbers/8.png"/>
+                <MarkerCategory name="9" DisplayName="Nine"     iconFile="Data/Images/Numbers/9.png"/>
+                <MarkerCategory name="10" DisplayName="Ten"     iconFile="Data/Images/Numbers/10.png"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="door" DisplayName="Close the Door" achievementId="8755">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="demolition" DisplayName="Demolition Expert" achievementId="8718">
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="fots" DisplayName="For Old Times' Sake" achievementId="8785" iconFile="Data/Images/Icons/Starlight Lantern.png" mapDisplaySize="32" inGameVisibility="0"/>
+
+            <MarkerCategory name="mirror" DisplayName="Mirror Memory Master" achievementId="8756">
+                 <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="ritualist" DisplayName="Ritualist Training" achievementId="8709">
+                 <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="separation" DisplayName="Separation Anxiety" achievementId="8767">
+                <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="sweet" DisplayName="Sweet Relief" achievementId="8721">
+                <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="tif" DisplayName="This Is Fine [H]" achievementId="8724" iconFile="Data/Images/Emote - Sit.png" defaulttoggle="0">
+                 <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="twobirds" DisplayName="Two Birds" achievementId="8708">
+                <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="collections" IsSeparator="1" DisplayName="COLLECTIONS"/>
+            <MarkerCategory name="bff" DisplayName="Best Friends Forever [H]" achievementId="8782">
+                <MarkerCategory name="location" IsSeparator="1" DisplayName="Lion's Arch Aerodrome"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            </MarkerCategory>
+            <MarkerCategory name="work" DisplayName="Work Hard for Now" achievementId="8753">
+                <MarkerCategory name="location" IsSeparator="1" DisplayName="Farshore Ward, Lion's Arch"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            </MarkerCategory>
+
+
+        </MarkerCategory>
 
         </MarkerCategory>
     </MarkerCategory>
