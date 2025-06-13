@@ -153,7 +153,40 @@
         <POI MapID="1573" xpos="-522.47" ypos="82.1559" zpos="19.0816" type="leag.jw.story.ee.spider.ambush" GUID="EGjAtDuBlUaTC4+yAUgIhQ=="/>
         <POI MapID="1573" xpos="-412.194" ypos="114.912" zpos="-60.0497" type="leag.jw.story.ee.spider" GUID="/QHBFhwsUUeTZIlBjBskCA=="/>
         
-        
+        <!-- CHAPTER 17 -->
+        <!-- Fact Finder -->
+        <POI MapID="1587" xpos="-589.291" ypos="94.8315" zpos="-138.404" type="leag.jw.story.fact.marker" GUID="oPPt9TZlC0e7XXIB2MpJ2Q=="/>
+        <POI MapID="1587" xpos="-590.477" ypos="95.0772" zpos="-130.932" type="leag.jw.story.fact.marker" GUID="0ZyXZ9heD06p9np8z9+yqA=="/>
+        <POI MapID="1587" xpos="-601.545" ypos="94.1174" zpos="-98.0218" type="leag.jw.story.fact.marker" GUID="EFYLJRG54kuJylkaCsSmLw=="/>
+        <POI MapID="1587" xpos="-623.71" ypos="94.1188" zpos="-119.389" type="leag.jw.story.fact.marker" GUID="8D6dNdgWekKG4dB+jgXXHw=="/>
+        <POI MapID="1587" xpos="-633.966" ypos="94.1247" zpos="-116.132" type="leag.jw.story.fact.marker" GUID="hs/t1sALfk2Mzh1pQdevFw=="/>
+        <POI MapID="1587" xpos="-648.358" ypos="94.7669" zpos="-101.566" type="leag.jw.story.fact.marker" GUID="uWkl0zDRQE2kWl67QMOm3g=="/>
+        <POI MapID="1587" xpos="-621.513" ypos="95.0772" zpos="-89.1564" type="leag.jw.story.fact.marker" GUID="TpGrTAxP9keT+/46r32T5w=="/>
+        <POI MapID="1587" xpos="-619.347" ypos="93.9261" zpos="-83.5908" type="leag.jw.story.fact.marker" GUID="UYV/H3DsK0+rkjrtpDv9eA=="/>
+        <POI MapID="1587" xpos="-619.842" ypos="94.0992" zpos="-48.6292" type="leag.jw.story.fact.marker" GUID="jyxpd6zcb0Ww49qtZ7zQ/w=="/>
+        <POI MapID="1587" xpos="-621.372" ypos="95.2621" zpos="-49.293" type="leag.jw.story.fact.marker" GUID="bN6mONctvEGyLNGqpPgb9Q=="/>
+
+        <!-- Evidentiary Standards -->
+        <POI MapID="18" xpos="458.981" ypos="91.1941" zpos="103.97" type="leag.jw.story.evidentiary.marker" GUID="ZuyHDusxzEKDep18lmsB7Q=="/>
+        <POI MapID="18" xpos="445.536" ypos="80.409" zpos="92.652" type="leag.jw.story.evidentiary.marker" GUID="N0uOIAfi8ECtszQ3pjPGYA=="/>
+        <POI MapID="18" xpos="456.231" ypos="79.3391" zpos="99.5404" type="leag.jw.story.evidentiary.marker" GUID="RgwruQdZJ0+cibNFuWnKeA=="/>
+        <POI MapID="18" xpos="458.59" ypos="79.6843" zpos="103.326" type="leag.jw.story.evidentiary.marker" GUID="XCXqSjgDyUGFyqFB9d+ZSA=="/>
+        <POI MapID="18" xpos="455.243" ypos="79.4852" zpos="103.303" type="leag.jw.story.evidentiary.marker" GUID="Sh1qbWJ4Dky4ZhJJiIAWsQ=="/>
+        <POI MapID="15" xpos="980.642" ypos="38.5478" zpos="547.816" type="leag.jw.story.evidentiary.marker" GUID="ULr7iSV8v0WmGcv35Zz4yg=="/>
+        <POI MapID="15" xpos="977.281" ypos="37.6789" zpos="544.589" type="leag.jw.story.evidentiary.marker" GUID="omYPgZNvVUGywNkJ5H/P9A=="/>
+        <POI MapID="15" xpos="974.79" ypos="38.1058" zpos="541.542" type="leag.jw.story.evidentiary.marker" GUID="5hhldrVHK0iz1lnOe+2hGA=="/>
+        <POI MapID="54" xpos="677.587" ypos="109.161" zpos="770.244" type="leag.jw.story.evidentiary.marker" GUID="7sJTGYjsrk+zGbQlh+/LAg=="/>
+        <POI MapID="54" xpos="674.815" ypos="108.546" zpos="769.697" type="leag.jw.story.evidentiary.marker" GUID="LyWb9WptgUaOj6vw3ISJNQ=="/>
+        <POI MapID="54" xpos="675.804" ypos="108.603" zpos="775.804" type="leag.jw.story.evidentiary.marker" GUID="GkH7HAqbCkelzcExvQdjjw=="/>
+        <POI MapID="54" xpos="683.087" ypos="109.746" zpos="775.876" type="leag.jw.story.evidentiary.marker" GUID="wZpjbGJpgkOy7ASyM7mp1A=="/>
+
+        <POI MapID="1588" xpos="541.346" ypos="32.0301" zpos="213.351" type="leag.jw.story.cuisine.marker" GUID="yuQYnhKEnEarpnvyiwiR8g=="/>
+        <POI MapID="1588" xpos="532.009" ypos="32.1222" zpos="217.021" type="leag.jw.story.cuisine.marker" GUID="LANKmG0E/kOqP+yEcDYNsA=="/>
+        <POI MapID="1588" xpos="521.255" ypos="32.1078" zpos="215.06" type="leag.jw.story.cuisine.marker" GUID="p2iwHpzsCU6CXktXMRGAqw=="/>
+        <POI MapID="1588" xpos="513.966" ypos="32.0907" zpos="209.026" type="leag.jw.story.cuisine.marker" GUID="eh7SV9CSiku4DNzHIj78qQ=="/>
+        <POI MapID="1588" xpos="510.24" ypos="32.1042" zpos="197.29" type="leag.jw.story.cuisine.marker" GUID="JUKrc2Xw+0y09nG7WFA1Ug=="/>
+
+        <POI MapID="1588" xpos="546.027" ypos="31.1981" zpos="187.888" type="leag.jw.story.introvert.marker" GUID="c6l3NvQMx0+HNUUU+D1FaQ=="/>
 
 
         

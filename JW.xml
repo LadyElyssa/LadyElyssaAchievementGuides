@@ -985,5 +985,160 @@
         <POI MapID="1575" xpos="-260.329" ypos="214.388" zpos="-151.007" type="leag.jw.mb.tww.outreach" GUID="cxcsrTrpRUSTl/Kyx31SjQ=="/>
         <POI MapID="1575" xpos="-843.794" ypos="43.6911" zpos="-508.628" type="leag.jw.mb.tww.outreach" GUID="UweRPIeGcUi3ilp/4IMfjQ=="/>
 
+
+        <!-- BAVA NISOS -->
+
+        <POI MapID="1574" xpos="-616.098" ypos="93.7601" zpos="61.2777" type="leag.jw.bn.fots" GUID="CYx+Iky5f0a4kdGD3PnxZA=="/>
+        
+        <Trail type="leag.jw.bn.chaos" trailData="Data/JW/Assorted Chaos.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="1574" xpos="-585.12" ypos="98.3695" zpos="-25.6057" type="leag.jw.bn.chaos.start" GUID="OZw6b1v1LE6rhjC/49rx/Q=="/>
+        <POI MapID="1574" xpos="-458.815" ypos="99.0622" zpos="111.268" type="leag.jw.bn.chaos.event" GUID="0sjHN4AzTU+tC018ylPmgg==" tip-name="Assorted Chaos"/>
+        
+        <Trail type="leag.jw.bn.case382.1" trailData="Data/JW/Case 382 - Titan Organ Smuggling 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FFFF"/>
+        <Trail type="leag.jw.bn.case382.2" trailData="Data/JW/Case 382 - Titan Organ Smuggling 2.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FFFF"/>
+        <Trail type="leag.jw.bn.case382.3" trailData="Data/JW/Case 382 - Titan Organ Smuggling 3.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FFFF"/>
+        <Trail type="leag.jw.bn.case382.3" trailData="Data/JW/Case 382 - Titan Organ Smuggling 3 Instance.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FFFF"/>
+        <Trail type="leag.jw.bn.case382.4" trailData="Data/JW/Case 382 - Titan Organ Smuggling 4.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FFFF"/>
+        <Trail type="leag.jw.bn.case382.5" trailData="Data/JW/Case 382 - Titan Organ Smuggling 5.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FFFF"/>
+        <Trail type="leag.jw.bn.case382.6" trailData="Data/JW/Case 382 - Titan Organ Smuggling 6.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FFFF"/>
+        <Trail type="leag.jw.bn.case382.7" trailData="Data/JW/Case 382 - Titan Organ Smuggling 7.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FFFF"/>
+        <Trail type="leag.jw.bn.case382.8" trailData="Data/JW/Case 382 - Titan Organ Smuggling 8.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FFFF"/>
+        <Trail type="leag.jw.bn.case382.9" trailData="Data/JW/Case 382 - Titan Organ Smuggling 9.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FFFF"/>
+        <Trail type="leag.jw.bn.case382.10" trailData="Data/JW/Case 382 - Titan Organ Smuggling 10.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="1574" xpos="-585.12" ypos="98.3695" zpos="-25.6057" type="leag.jw.bn.case382.start" GUID="YjMGr2st50KujpXT4j2+1g=="/>
+        <POI MapID="1574" xpos="-577.869" ypos="97.5576" zpos="-12.1647" type="leag.jw.bn.case382.1" GUID="lCHyV8IoCUiFE8YpsaM4Ig=="/>
+        <POI MapID="1574" xpos="-641.467" ypos="93.7612" zpos="74.6823" type="leag.jw.bn.case382.info" GUID="uTpHyxZa70CXjE6wGB+oWg==" info="2. Mantle's Arrival Waypoint&#xa;3. Home Instance, Salma District, Divinity's Reach&#xa;4. Mantle's Arrival Waypoint&#xa;5. Mantle's Arrival Waypoint&#xa;6. Sanctum Harbor, Lion's Arch&#xa;23. Talk to Chief Inspector Lutze again.&#xa;24. Twinspur Haven, Wayfarer Foothills" infoRange="3"/>
+        <POI MapID="1574" xpos="-571.557" ypos="97.5828" zpos="-19.0072" type="leag.jw.bn.case382.2" GUID="DyzZpD2CiUuWkaHC0O9icQ=="/>
+        <POI MapID="1574" xpos="-558.781" ypos="97.8621" zpos="-18.647" type="leag.jw.bn.case382.info" GUID="Fh98IFrEJ0+DE4kkTCagWA==" info="Return to Chief Inspector Lutze" infoRange="3"/>
+        <POI MapID="18" xpos="216.602" ypos="79.7922" zpos="129.698" type="leag.jw.bn.case382.3" GUID="eprQKP8dJkSguDsuiZT/nw=="/>
+        <POI MapID="248" xpos="170.808" ypos="81.9844" zpos="206.023" type="leag.jw.bn.case382.wp" GUID="KDwsNFls6UWA7me6EerWKw==" copy="[&BGEPAAA=]" copy-message="Mantle's Arrival Waypoint&#xa;Bava Nisos"/>
+        <POI MapID="1574" xpos="-573.671" ypos="97.72" zpos="-22.1531" type="leag.jw.bn.case382.4" GUID="RSUa8grzSkaRBs6fjGuKUA=="/>
+        <POI MapID="1574" xpos="-612.913" ypos="94.6518" zpos="-56.3792" type="leag.jw.bn.case382.info" GUID="1mqClCXYSEKDGY+JBA1H3A==" info="Return to Chief Inspector Lutze" infoRange="3"/>
+        <POI MapID="1574" xpos="-573.962" ypos="97.5766" zpos="-14.0137" type="leag.jw.bn.case382.5" GUID="j8++9xZiRkK01twB9qArrQ=="/>
+        <POI MapID="50" xpos="-292.725" ypos="10.382" zpos="51.7499" type="leag.jw.bn.case382.6" GUID="nO61JUzR8UqdbMli2gh52A=="/>
+        <POI MapID="50" xpos="-138.078" ypos="-1.15536" zpos="-93.7011" type="leag.jw.bn.case382.wp" GUID="Rn8tzEZhKkijOHGAfe7QlA==" copy="[&BGEPAAA=]" copy-message="Mantle's Arrival Waypoint&#xa;Bava Nisos"/>
+        <POI MapID="1574" xpos="-572.779" ypos="97.5767" zpos="-16.2319" type="leag.jw.bn.case382.7" GUID="+V5Lzy5hfkaaZqYZmqPOTA=="/>
+        <POI MapID="1574" xpos="307.424" ypos="160.63" zpos="521.819" type="leag.jw.bn.case382.7.event" GUID="0mIzKuc3Rk2Xsva7NlBTaw=="/>
+        <POI MapID="1574" xpos="261.887" ypos="99.1827" zpos="452.345" type="leag.jw.bn.case382.info" GUID="X0wPxITMyEWANHZ1s67Uag==" info="Return to Chief Inspector Lutze" infoRange="3"/>
+        <POI MapID="28" xpos="-1.97114" ypos="97.5802" zpos="133.588" type="leag.jw.bn.case382.wp" GUID="ilDAdPgpH0CtesZDL1MhpQ==" copy="[&BC4EAAA=]" copy-message="Western Ward Waypoint&#xa;Lion's Arch"/>
+        <POI MapID="50" xpos="-602.478" ypos="11.1974" zpos="414.804" type="leag.jw.bn.case382.wp" GUID="ksrenlWH8EmrUN6RcSC3Nw==" copy="[&BGEPAAA=]" copy-message="Return to Chief Inspector Lutze&#xa;&#xa;Mantle's Arrival Waypoint, Bava Nisos"/>
+
+        <Trail type="leag.jw.bn.door" trailData="Data/JW/Close the Door.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="1574" xpos="-585.12" ypos="98.3695" zpos="-25.6057" type="leag.jw.bn.door.start" GUID="cyEadlsaTUeVKHybcaHpTQ=="/>
+        <POI MapID="1574" xpos="-458.073" ypos="97.529" zpos="-103.55" type="leag.jw.bn.door.event" GUID="DhAPeGqIsUyhZgke5HLb9g==" tip-name="Close the Door"/>
+
+        <Trail type="leag.jw.bn.demolition" trailData="Data/JW/Demolition Expert.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="1574" xpos="-585.12" ypos="98.3695" zpos="-25.6057" type="leag.jw.bn.demolition.start" GUID="vCc3vzKU80KFxR8fSztzyw=="/>
+        <POI MapID="1574" xpos="113.634" ypos="236.35" zpos="-173.253" type="leag.jw.bn.demolition.event" GUID="5ABmyir3H0eN3FD8o2PPRQ==" tip-name="Demolition Expert"/>
+
+        <POI MapID="1574" xpos="-192.992" ypos="197.82" zpos="200.702" type="leag.jw.bn.mirror.event" GUID="DkJCFOWl9U+2PEcQD4d8SQ==" tip-name="Mirror Memory Master"/>
+
+        <POI MapID="1574" xpos="60.9877" ypos="130.238" zpos="-293.27" type="leag.jw.bn.ritualist.event" GUID="+1E34NA7706HaVJHUc/rYw==" tip-name="Ritualist Training"/>
+
+        <POI MapID="1574" xpos="417.201" ypos="152.54" zpos="-326.684" type="leag.jw.bn.separation.event" GUID="GTg7H7HUeEW8c8GX2EwvlA==" tip-name="Separation Anxiety"/>
+
+        <POI MapID="1574" xpos="-140.945" ypos="107.928" zpos="-63.1385" type="leag.jw.bn.sweet.event" GUID="0lz1Q6eruUqrdaHXg2rnYg==" tip-name="Sweet Relief"/>
+        <POI MapID="1574" xpos="279.697" ypos="152.544" zpos="-262.956" type="leag.jw.bn.sweet.event" GUID="QtOLcaI8S0iECTM858J0Ew==" tip-name="Sweet Relief"/>
+        <POI MapID="1574" xpos="373.16" ypos="149.728" zpos="398.087" type="leag.jw.bn.sweet.event" GUID="GDXGZeIjIEie+wfYsJztRA==" tip-name="Sweet Relief"/>
+
+        <POI MapID="1574" xpos="219.74" ypos="234.404" zpos="-295.175" type="leag.jw.bn.tif" GUID="ZBDCF2k7uE2YvyTiPDkwtA=="/>
+        <POI MapID="1574" xpos="218.903" ypos="232.295" zpos="-318.455" type="leag.jw.bn.tif" GUID="eNQcPa+dBkGHP8B+jB8WrQ=="/>
+        <POI MapID="1574" xpos="228.802" ypos="232.872" zpos="-344.121" type="leag.jw.bn.tif" GUID="0LQdivrq0kqyKMP3z20boA=="/>
+        <POI MapID="1574" xpos="223.844" ypos="232.072" zpos="-350.383" type="leag.jw.bn.tif" GUID="nJ3VoQ0ck0anOlhy6aXq9g=="/>
+        <POI MapID="1574" xpos="231.816" ypos="229.543" zpos="-366.183" type="leag.jw.bn.tif" GUID="qE1Dj6AnWUu/hdIjr2+64A=="/>
+        <POI MapID="1574" xpos="249.717" ypos="234.661" zpos="-365.536" type="leag.jw.bn.tif" GUID="ddZ+vhH0k0qi/nmAKOdNsw=="/>
+        <POI MapID="1574" xpos="236.812" ypos="231.833" zpos="-287.304" type="leag.jw.bn.tif" GUID="uhfpasAg/Ui9Hu2I07tLzA=="/>
+        <POI MapID="1574" xpos="246.358" ypos="230.044" zpos="-274.432" type="leag.jw.bn.tif" GUID="tSSFhb3MW02U6W/3fDZRSQ=="/>
+        <POI MapID="1574" xpos="262.178" ypos="234.57" zpos="-290.253" type="leag.jw.bn.tif" GUID="cl3c+jdh9U6ch3OrYFYDMA=="/>
+        <POI MapID="1574" xpos="252.172" ypos="232.087" zpos="-307.027" type="leag.jw.bn.tif" GUID="/XtEwvvS+EOFH9d87aYJkg=="/>
+        <POI MapID="1574" xpos="269.756" ypos="235.819" zpos="-314.134" type="leag.jw.bn.tif" GUID="Iyz4IebuxE+eitN7h746yA=="/>
+        <POI MapID="1574" xpos="287.591" ypos="237.069" zpos="-308.237" type="leag.jw.bn.tif" GUID="dS19XhsLKkupCGt0+oSG3w=="/>
+        <POI MapID="1574" xpos="292.438" ypos="232.732" zpos="-327.466" type="leag.jw.bn.tif" GUID="pr80fZEjWESjWOGMicNXWA=="/>
+        <POI MapID="1574" xpos="299.906" ypos="231.102" zpos="-337.355" type="leag.jw.bn.tif" GUID="2bZg/SnsFkirSWUa0I4vJQ=="/>
+        <POI MapID="1574" xpos="323.664" ypos="234.56" zpos="-339.363" type="leag.jw.bn.tif" GUID="4qtxsnthQkGPPMDWu1EliQ=="/>
+        <POI MapID="1574" xpos="311.427" ypos="241.358" zpos="-357.957" type="leag.jw.bn.tif" GUID="AeSo5WTb40SRpnoAsDbjzQ=="/>
+        <POI MapID="1574" xpos="284.687" ypos="235.517" zpos="-364.848" type="leag.jw.bn.tif" GUID="+8DtNQh4pkWvMvnqv7+72Q=="/>
+        <POI MapID="1574" xpos="297.248" ypos="234.689" zpos="-390.464" type="leag.jw.bn.tif" GUID="2DeHNsnxAUm1PONqjSE7Pw=="/>
+        <POI MapID="1574" xpos="250.734" ypos="228.635" zpos="-394.351" type="leag.jw.bn.tif" GUID="MNFpiF72a0qk3xssz6EfBQ=="/>
+        <POI MapID="1574" xpos="230.394" ypos="220.478" zpos="-393.406" type="leag.jw.bn.tif" GUID="pQfqlVMLNkeYOlY45LU/8g=="/>
+        <POI MapID="1574" xpos="257.727" ypos="235.363" zpos="-377.699" type="leag.jw.bn.tif" GUID="u0n3vhOpHUSXcA1lJkfVHQ=="/>
+        <POI MapID="1574" xpos="266.619" ypos="232.002" zpos="-356.448" type="leag.jw.bn.tif" GUID="wq1S+pq7BEeveATAq8lAvw=="/>
+        <POI MapID="1574" xpos="276.432" ypos="235.824" zpos="-336.358" type="leag.jw.bn.tif" GUID="xFxdN1jvm0S9pNhXpLHHUQ=="/>
+        <POI MapID="1574" xpos="284.478" ypos="237.269" zpos="-319.852" type="leag.jw.bn.tif" GUID="1iqzMr0+ZUqYkZpRGMTCqg=="/>
+        <POI MapID="1574" xpos="248.311" ypos="238.759" zpos="-322.632" type="leag.jw.bn.tif" GUID="O1MqKC/s2EGyGx6jFThABQ=="/>
+        <POI MapID="1574" xpos="254.405" ypos="238.97" zpos="-343.019" type="leag.jw.bn.tif" GUID="Mgo8Gsg6b0KSHhcD9eaSig=="/>
+        <POI MapID="1574" xpos="243.746" ypos="236.607" zpos="-341.936" type="leag.jw.bn.tif" GUID="sy2e3tdreUakRUzvgtBzKg=="/>
+        <POI MapID="1574" xpos="201.955" ypos="241.7" zpos="-300.76" type="leag.jw.bn.tif.event" GUID="2buRRA+bc0SAGhnXU0jM0A==" tip-name="This Is Fine"/>
+
+        <POI MapID="1574" xpos="307.424" ypos="160.63" zpos="521.819" type="leag.jw.bn.twobirds.event" GUID="smsDhusin0aAGMgrY+jvCQ==" tip-name="Two Birds"/>
+
+        <!-- COLLECTIONS -->
+        <!-- Work Hard for Now -->
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 2.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 3.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 4.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 5.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 6.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 7.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 8.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 9.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 10.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 11.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 12.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 13.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 14.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 15.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 16.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 17.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 18.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 19.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 20.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 21.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 22.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 23.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 24.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 25.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 26.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 27.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 28.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 29.trl"/>
+        <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 30.trl"/>
+        <POI MapID="50" xpos="484.46" ypos="22.8107" zpos="-131.631" type="leag.jw.bn.work.start" GUID="9ETTXtYOI0qEuL6HXCxqEQ=="/>
+        <POI MapID="50" xpos="466.268" ypos="25.5852" zpos="-274.118" type="leag.jw.bn.work.wp" GUID="nnXegOozWUe8BOham20nBg==" copy="[&BE4DAAA=]" copy-message="Lowland Burns Waypoint&#xa;Blazeridge Steppes"/>
+        <POI MapID="20" xpos="-186.721" ypos="113.901" zpos="663.277" type="leag.jw.bn.work.wp" GUID="wII5cwRui0CRlZUQVANU8A==" copy="[&BK8BAAA=]" copy-message="Jelako Waypoint&#xa;Bloodtide Coast"/>
+        <POI MapID="73" xpos="-286.55" ypos="24.2043" zpos="-804.913" type="leag.jw.bn.work.wp" GUID="9WXPp4ulA0KgiN8KZ8Rzsg==" copy="[&BGIAAAA=]" copy-message="Seraph Observers Waypoint&#xa;Brisban Wildlands"/>
+        <POI MapID="54" xpos="-236.237" ypos="5.25945" zpos="712.868" type="leag.jw.bn.work.wp" GUID="l/3VzcX8oUWWrsBC0tnuiA==" copy="[&BDkBAAA=]" copy-message="Sperrins Waypoint&#xa;Caledon Forest"/>
+        <POI MapID="34" xpos="298.111" ypos="19.7354" zpos="-130.236" type="leag.jw.bn.work.wp" GUID="o6enbhjzfUiA5/6MLsMvGw==" copy="[&BBsDAAA=]" copy-message="Verdance Waypoint&#xa;Cursed Shore"/>
+        <POI MapID="62" xpos="325.07" ypos="8.48359" zpos="491.168" type="leag.jw.bn.work.wp" GUID="bGYRelj4wEqc/ltyPaQ7dQ==" copy="[&BN4AAAA=]" copy-message="Nolan Waypoint&#xa;Diessa Plateau"/>
+        <POI MapID="32" xpos="-1034.51" ypos="76.4407" zpos="-606.898" type="leag.jw.bn.work.wp" GUID="RbzLNs0XC0qlhEzeKI1WrA==" copy="[&BFoCAAA=]" copy-message="Grey Road Waypoint&#xa;Dredgehaunt Cliffs"/>
+        <POI MapID="26" xpos="-5.17995" ypos="140.465" zpos="-82.2527" type="leag.jw.bn.work.wp" GUID="+faXa3eykE6Gyvbv3aBdMQ==" copy="[&BHoHAAA=]" copy-message="Prosperity Waypoint&#xa;Dry Top"/>
+        <POI MapID="988" xpos="232.771" ypos="66.8138" zpos="-250.998" type="leag.jw.bn.work.wp" GUID="x/0FcdTJYU2tZuf2TsoRYA==" copy="[&BEwBAAA=]" copy-message="Fangfury Watch Waypoint&#xa;Fields of Ruin"/>
+        <POI MapID="21" xpos="771.491" ypos="38.8468" zpos="415.927" type="leag.jw.bn.work.wp" GUID="yNGQPQb9+UGuI/vwasR4gw==" copy="[&BEAFAAA=]" copy-message="The Citadel of Flame Waypoint&#xa;Fireheart Rise"/>
+        <POI MapID="22" xpos="809.88" ypos="62.0712" zpos="578.148" type="leag.jw.bn.work.wp" GUID="2PD+LD3OHk2S3sZyRCYn3g" copy="[&BEMFAAA=]" copy-message="Honor of the Waves Waypoint&#xa;Frostgorge Sound"/>
+        <POI MapID="30" xpos="390.659" ypos="72.8293" zpos="434.773" type="leag.jw.bn.work.wp" GUID="wYaW8htE8kKYkd2P9UwtQQ==" copy="[&BOEAAAA=]" copy-message="Broadhollow Waypoint&#xa;Gendarran Fields"/>
+        <POI MapID="24" xpos="-253.58" ypos="64.9394" zpos="-475.306" type="leag.jw.bn.work.wp" GUID="Dw1gnAvrpUKnMXSgOuS9UQ==" copy="[&BKgAAAA=]" copy-message="Wynchona Rally Point Waypoint&#xa;Harathi Hinterlands"/>
+        <POI MapID="17" xpos="-276.457" ypos="83.2757" zpos="-282.645" type="leag.jw.bn.work.wp" GUID="+LoH2zQPT0a3byAK4WEIkA==" copy="[&BO4BAAA=]" copy-message="Gladefall Waypoint&#xa;Iron Marches"/>
+        <POI MapID="25" xpos="-307.786" ypos="78.5089" zpos="1066.79" type="leag.jw.bn.work.wp" GUID="PLrn6PfpNUC8eadyQFB3Jw==" copy="[&BBYAAAA=]" copy-message="Greyhoof Camp Waypoint&#xa;Kessex Hills"/>
+        <POI MapID="23" xpos="-475.821" ypos="91.631" zpos="429.482" type="leag.jw.bn.work.wp" GUID="DxXDR6ikYkS+Wso8coIjWA==" copy="[&BDEHAAA=]" copy-message="False River Waypoint&#xa;Lornar's Pass"/>
+        <POI MapID="27" xpos="219.85" ypos="166.072" zpos="-318.012" type="leag.jw.bn.work.wp" GUID="4mDXaY/Vc0OiVYzmxM4y6A==" copy="[&BK4CAAA=]" copy-message="Blighted Arch Waypoint&#xa;Malchor's Leap"/>
+        <POI MapID="65" xpos="173.925" ypos="110.687" zpos="-57.6126" type="leag.jw.bn.work.wp" GUID="ekFSQ7RKZUmFNbInkUyqgg==" copy="[&BEIAAAA=]" copy-message="Akk Wilds Waypoint&#xa;Metrica Province"/>
+        <POI MapID="35" xpos="335.554" ypos="66.8086" zpos="-374.633" type="leag.jw.bn.work.wp" GUID="mEhwH0svx0u/fzu1jcHFEg==" copy="[&BEIFAAA=]" copy-message="Crucible of Eternity Waypoint&#xa;Mount Maelstrom"/>
+        <POI MapID="39" xpos="762.908" ypos="31.3402" zpos="694.833" type="leag.jw.bn.work.wp" GUID="kJBe1sWvK0WqWpXK7sT06Q==" copy="[&BIcBAAA=]" copy-message="Ascalon City Waypoint&#xa;Plains of Ashford"/>
+        <POI MapID="19" xpos="797.068" ypos="3.97015" zpos="340.327" type="leag.jw.bn.work.wp" GUID="p0ky0kKGq0KUxYcoE94rew==" copy="[&BPMAAAA=]" copy-message="Phinney Waypoint&#xa;Queensdale"/>
+        <POI MapID="15" xpos="-93.9506" ypos="15.5662" zpos="-245.709" type="leag.jw.bn.work.wp" GUID="PWiKqNcu5ky6mjzHccuCHw==" copy="[&BMEAAAA=]" copy-message="Owl Waypoint&#xa;Snowden Drifts"/>
+        <POI MapID="31" xpos="1042" ypos="144.35" zpos="-406.027" type="leag.jw.bn.work.wp" GUID="Il7f82txX0afdbCiyB1Ung==" copy="[&BNgGAAA=]" copy-message="Owain's Refuge Waypoint&#xa;Southsun Cove"/>
+        <POI MapID="873" xpos="-251.567" ypos="40.9798" zpos="112.307" type="leag.jw.bn.work.wp" GUID="7dEhVj5p30O35jMLO8Pi1g==" copy="[&BNABAAA=]" copy-message="Splintered Coast Waypoint&#xa;Sparkfly Fen"/>
+        <POI MapID="53" xpos="-343.281" ypos="33.6112" zpos="-906.191" type="leag.jw.bn.work.wp" GUID="/X8zAdBUykKDd7pZV2Aryg==" copy="[&BPgCAAA=]" copy-message="Waywarde Waypoint&#xa;Straits of Devastation"/>
+        <POI MapID="51" xpos="-592.707" ypos="30.3396" zpos="-733.114" type="leag.jw.bn.work.wp" GUID="CUdmElUidUadANpdkiQx2w==" copy="[&BKcHAAA=]" copy-message="Camp Resolve Waypoint&#xa;The Silverwastes"/>
+        <POI MapID="1015" xpos="-270.505" ypos="465.573" zpos="142.836" type="leag.jw.bn.work.wp" GUID="bOGOkndCsEW6X9WcAnyOUg==" copy="[&BEsCAAA=]" copy-message="Gyre Rapids Waypoint&#xa;Timberline Falls"/>
+        <POI MapID="29" xpos="-329.377" ypos="34.8733" zpos="-160.523" type="leag.jw.bn.work.wp" GUID="UxzKrlBvckOfh920xtODew==" copy="[&BHQBAAA=]" copy-message="Horncall Waypoint&#xa;Wayfarer Foothills"/>
+        <POI MapID="28" xpos="-72.9063" ypos="177.608" zpos="-561.78" type="leag.jw.bn.work.wp" GUID="7xxMqzJHWUeUTT7d1/C1dw==" copy="[&BDMEAAA=]" copy-message="Farshore Waypoint&#xa;Lion's Arch"/>
+        <POI MapID="50" xpos="-648.932" ypos="1.23832" zpos="357.046" type="leag.jw.bn.work.wp" GUID="0Swz9SIHPUq4Qle6Vf6Nig==" copy="[&BCAJAAA=]" copy-message="Aerodrome Waypoint&#xa;Lion's Arch Aerodrome"/>
+
+        <Trail type="leag.jw.bn.bff" trailData="Data/JW/Collections/Best Friends Forever 1.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="d966ff"/>
+        <Trail type="leag.jw.bn.bff" trailData="Data/JW/Collections/Best Friends Forever 2.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="d966ff"/>
+
+
     </POIs>
 </OverlayData>
