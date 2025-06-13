@@ -982,6 +982,8 @@
         <POI MapID="1185" xpos="-31.7536" ypos="50.1378" zpos="22.2466" type="leag.lws3.doric.good.crawdad" GUID="tshuAI14PkulXAcsjbu7Tw=="/>
         <POI MapID="1185" xpos="-97.7374" ypos="37.9214" zpos="-11.8718" type="leag.lws3.doric.good.crawdad" GUID="yGjigkyYnUai7GKkOri/ig=="/>
         <POI MapID="1185" xpos="-105.005" ypos="37.9211" zpos="-28.3021" type="leag.lws3.doric.good.crawdad" GUID="GmX+FlycPkmqsWoiqgaJpw=="/>
+        <POI MapID="1185" xpos="62.8045" ypos="28.787" zpos="76.3396" type="leag.lws3.doric.good.crawdad" GUID="FBwRkAU4XkqC5KRFdLApeA=="/>
+        <POI MapID="1185" xpos="35.3871" ypos="28.0957" zpos="78.3548" type="leag.lws3.doric.good.crawdad" GUID="6vcsGfcAQE6plhUWbOAaRQ=="/>
         <POI MapID="1185" xpos="309.972" ypos="48.1573" zpos="-326.128" type="leag.lws3.doric.good.pearl" GUID="8LVq5p8Ft0KMAV18lONbBA=="/>
         <!-- Cin Business -->
         <Trail type="leag.lws3.doric.cin" trailData="Data/LWS3/Cin Business 1.trl"/>
