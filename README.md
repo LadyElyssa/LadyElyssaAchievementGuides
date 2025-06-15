@@ -24,12 +24,37 @@ This pack currently covers:
 * Halloween (Festival of the Mad King)
 * Wintersday
 
+## Living World Season 1 - Scarlet's War ##
+* Flame and Frost
+* Sky Pirates
+* Clockwork Chaos
+* Tower of Nightmares
+* Battle for Lion's Arch
+
+## Living World Season 2 - Glint's Prophecy ##
+* Gates of Maguuma
+* Entanglement
+* The Dragon's Reach: Part 1
+* The Dragon's Reach: Part 2
+* Echoes of the Past
+* Tangled Paths
+* Seeds of Truth
+* Point of No Return
+
 ## Heart of Thorns ##
 * Story Achievements
 * Verdant Brink
 * Auric Basin
 * Tangled Depths
 * Dragons Stand
+
+## Living World Season 3 - Glint's Legacy ##
+* Out of the Shadows
+* Rising Flames
+* A Crack in the Ice
+* The Head of the Snake
+* Flashpoint
+* One Path Ends
 
 ## Path of Fire ##
 * Story Achievements
@@ -38,6 +63,12 @@ This pack currently covers:
 * Elon Riverlands
 * The Desolation
 * Domain of Vabbi
+
+## Living World Season 4 - Rise of Kralkatorrik ##
+* Work in Progress
+  
+## Living World Season 5 - The Icebrood Saga
+* Work in Progress
 
 ## End of Dragons ##
 * Story Achievements
@@ -59,6 +90,8 @@ This pack currently covers:
 * Story Achievements
 * Lowland Shore
 * Janthir Syntri
+* Mistburned Barrens
+* Bava Nisos
   
 ### Want to know more? ### 
 * [User:Lady Elyssa @ Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
