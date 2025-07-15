@@ -1,5 +1,10 @@
-# Lady Elyssa's Achievement & Collection Guides
+## ArenaNet Partner ##
+You can Buy Guild Wars 2 using these links:
+* Partner Link: http://guildwars2.go2cloud.org/aff_c?offer_id=34&aff_id=718
+* Free to Play Link: http://guildwars2.go2cloud.org/aff_c?offer_id=19&aff_id=718
 
+## Lady Elyssa's Achievement & Collection Guides ##
+  
 For more information on Getting Started with either [GW2 TacO](https://www.gw2taco.com/) or [Blish HUD](https://blishhud.com/), see [here](https://github.com/LadyElyssa/LadyElyssaAchievementGuides/wiki/Getting-Started).
 
 A new collection of Markers and Trails for use with [GW2 TacO](https://www.gw2taco.com/) (Online Marker Packs) and [Blish HUD](https://blishhud.com/) (Markers and Trails icon, Download Marker Packs) and look for Lady Elyssa's Achievements & Collections.
