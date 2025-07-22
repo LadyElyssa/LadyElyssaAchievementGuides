@@ -104,3 +104,4 @@ This pack currently covers:
 ### Latest Pack Direct Download Link: ###
 * [LadyElyssa.taco](https://github.com/LadyElyssa/LadyElyssaAchievementGuides/releases/latest/download/LadyElyssaAP.taco)
  
+<img width="300" height="60" alt="image" src="https://github.com/user-attachments/assets/dac2cf8d-5162-44c2-af97-bad05aaf91cc" />
