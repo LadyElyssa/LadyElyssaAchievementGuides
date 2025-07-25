@@ -233,8 +233,14 @@
         <POI MapID="1203" xpos="257.6406" ypos="-60.19202" zpos="331.2728" type="leag.lws3.sirens.storyteller.lyssa.wp" GUID="0DidwaiCx0mEgYZJ5O/TnA==" copy="[&BOUJAAA=]" copy-message="Camp Reclamation Waypoint"/>
         <POI MapID="1203" xpos="448.278" ypos="6.45911" zpos="-216.555" type="leag.lws3.sirens.storyteller.lyssa.7" GUID="8QrdYOp/jUOCUr5Dz8YN7A=="/>
         
-        <Trail type="leag.lws3.sirens.storyteller.melandru" trailData="Data/LWS3/Storyteller Melandru.trl" color="63B64A"/>
-
+        <Trail type="leag.lws3.sirens.storyteller.melandru.1" trailData="Data/LWS3/Storyteller Melandru 1.trl" color="63B64A"/>
+        <Trail type="leag.lws3.sirens.storyteller.melandru.2" trailData="Data/LWS3/Storyteller Melandru 2.trl" color="63B64A"/>
+        <POI MapID="1203" xpos="1.84094" ypos="95.2619" zpos="-319.428" type="leag.lws3.sirens.storyteller.melandru.start" GUID="HkKJNRRef0CcQxTU+Z9E9g=="/>
+        <POI MapID="1203" xpos="10.9221" ypos="91.6423" zpos="-306.183" type="leag.lws3.sirens.storyteller.melandru.1" GUID="7ZPUrPopFEu1Rn+mpAEMDA=="/>
+        <POI MapID="1203" xpos="6.54532" ypos="90.7853" zpos="-303.837" type="leag.lws3.sirens.storyteller.melandru.2" GUID="+Pez3v6mNEaJVsxlH8/bMg=="/>
+        <POI MapID="1203" xpos="-62.8056" ypos="-2.83479" zpos="-166.266" type="leag.lws3.sirens.storyteller.melandru.wp" GUID="DTqhZ9RdAUayoZc8Mi552g==" info="Return To South East Shrine"/>
+        
+        
 
         <!-- MAP ACHIEVEMENTS -->
         <!-- Bitterfrost Frontier -->
