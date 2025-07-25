@@ -1,0 +1,252 @@
+<OverlayData>
+    <POIs>
+        <!-- Chapter 1 - Daybreak -->
+        <!--Eye of the Brandstorm -->
+        <POI MapID="1260" xpos="-14.8961" ypos="8.25839" zpos="-144.965" type="leag.lws4.story.evac" GUID="+l0qZ7OQ+ki5FvlVBKFrLQ=="/>
+        <POI MapID="1260" xpos="-42.3702" ypos="9.45645" zpos="-121.451" type="leag.lws4.story.evac" GUID="1O39L4zx7ka0CDajEe6u3w=="/>
+        <POI MapID="1260" xpos="-69.0931" ypos="9.31544" zpos="-145.101" type="leag.lws4.story.evac" GUID="9Z7sot1or0uIrT8QES3i8Q=="/>
+        <POI MapID="1260" xpos="-20.7531" ypos="9.19441" zpos="-136.193" type="leag.lws4.story.evac" GUID="aiQVSkkKWUyEhweR4KfoVg=="/>
+        <POI MapID="1260" xpos="-148.855" ypos="18.6162" zpos="-116.391" type="leag.lws4.story.evac" GUID="sokB/zp4W0e8yIueTiOy4A=="/>
+        <POI MapID="1260" xpos="-121.557" ypos="21.0894" zpos="-269.46" type="leag.lws4.story.evac" GUID="FmRYIWEOH0+596mKU8Drpw=="/>
+        <POI MapID="1260" xpos="-149.856" ypos="21.2069" zpos="-275.719" type="leag.lws4.story.evac" GUID="rJuBvUJg0U+deXj9bTR0gw=="/>
+        <POI MapID="1260" xpos="-152.57" ypos="21.1656" zpos="-281.266" type="leag.lws4.story.evac" GUID="ARxC1FY0SEW9JMjrjNFWpA=="/>
+        <POI MapID="1260" xpos="-170.849" ypos="21.2736" zpos="-211.335" type="leag.lws4.story.evac" GUID="fKF1Ax8l9UWDITy8jcah6Q=="/>
+        <POI MapID="1260" xpos="-216.45" ypos="18.2995" zpos="-286.569" type="leag.lws4.story.evac" GUID="2y9A60T3/UqMf0wIj3gSWw=="/>
+        <POI MapID="1260" xpos="-232.451" ypos="17.7061" zpos="-253.823" type="leag.lws4.story.evac" GUID="ajysYqQYVUSqdzuV8ZaeYw=="/>
+        <POI MapID="1260" xpos="-245.204" ypos="19.0475" zpos="-221.026" type="leag.lws4.story.evac" GUID="jby4Rn7dskSBDA5biQlkWQ=="/>
+        <POI MapID="1260" xpos="-287.131" ypos="26.4993" zpos="-241.721" type="leag.lws4.story.evac" GUID="T+NlD9+05UWYgdrDlazrJA=="/>
+        <POI MapID="1260" xpos="-142.748" ypos="21.2395" zpos="-249.702" type="leag.lws4.story.evac" GUID="BiXSZELFFkq129TvCejH6w=="/>
+        <POI MapID="1260" xpos="-272.066" ypos="18.3876" zpos="-285.174" type="leag.lws4.story.evac" GUID="cC/rswlqfEWbHGYvBaKaNA=="/>
+        <POI MapID="1260" xpos="-308.183" ypos="10.4013" zpos="7.20979" type="leag.lws4.story.evac" GUID="DHLHby//WEaU8F+69FlaUg=="/>
+        <POI MapID="1260" xpos="-330.868" ypos="8.74358" zpos="90.3481" type="leag.lws4.story.evac" GUID="0GtUe390FEen93MT3elUMA=="/>
+        <POI MapID="1260" xpos="-332.594" ypos="8.74363" zpos="146.608" type="leag.lws4.story.evac" GUID="VlL4VredJkKjs2TuXvhYkg=="/>
+        <POI MapID="1260" xpos="-333.571" ypos="8.74358" zpos="208.94" type="leag.lws4.story.evac" GUID="rnST6fqJAUOQ/6vRPmkUwQ=="/>
+        <POI MapID="1260" xpos="-329.33" ypos="8.64246" zpos="130.656" type="leag.lws4.story.evac" GUID="V/hBxhYCNkCgD9KIFZME4g=="/>
+        <POI MapID="1260" xpos="-334.22" ypos="8.74359" zpos="212.888" type="leag.lws4.story.evac" GUID="8Ff8JjCtVUCST853UOjckQ=="/>
+        <POI MapID="1260" xpos="-338.005" ypos="8.74359" zpos="206.843" type="leag.lws4.story.evac" GUID="FjAElzffQ0axmykyHZXM2A=="/>
+        <POI MapID="1260" xpos="-289.065" ypos="21.2859" zpos="293.79" type="leag.lws4.story.evac" GUID="w51Kq/Xwp0aej7O9nGrf4A=="/>
+        <POI MapID="1260" xpos="-220.111" ypos="2.62594" zpos="80.0357" type="leag.lws4.story.evac" GUID="iooVraZAvk2AYnN0XnGV9g=="/>
+        <POI MapID="1260" xpos="-323.493" ypos="8.88062" zpos="205.531" type="leag.lws4.story.evac" GUID="Cr2NbJqGFU+Y2soVVI+07w=="/>
+        <POI MapID="1260" xpos="-292.502" ypos="21.2859" zpos="293.948" type="leag.lws4.story.evac" GUID="ytC116PCWUakxt+mWHdH9A=="/>
+        <POI MapID="1260" xpos="-268.901" ypos="1.00948" zpos="63.123" type="leag.lws4.story.evac" GUID="vTZJi+R3J0muvWhPWOJQ8w=="/>
+        <POI MapID="1260" xpos="-242.153" ypos="2.97343" zpos="55.7813" type="leag.lws4.story.evac" GUID="w8t/slQdp0qlF+jTdVpBSg=="/>
+        <POI MapID="1260" xpos="-296.353" ypos="9.17989" zpos="88.0481" type="leag.lws4.story.evac" GUID="Z5OsuZiByUafqQY4zdg7Pg=="/>
+        <POI MapID="1260" xpos="-299.089" ypos="23.7417" zpos="-81.9377" type="leag.lws4.story.evac" GUID="MKnQPXzxFUim9nOYRSA8wA=="/>
+        <POI MapID="1260" xpos="-265.613" ypos="22.3729" zpos="-58.6499" type="leag.lws4.story.evac" GUID="/qJKiEZr4keY9Z1tgs2Eqw=="/>
+        <POI MapID="1260" xpos="-233.135" ypos="15.7025" zpos="-41.1871" type="leag.lws4.story.evac" GUID="JGIpSA1mBEGynTtyg+cFww=="/>
+        <POI MapID="1260" xpos="-192.967" ypos="7.53034" zpos="6.96264" type="leag.lws4.story.evac" GUID="WOzCWU0Z8U6j+5Gy8nIcSg=="/>
+        <POI MapID="1260" xpos="-183.066" ypos="7.58637" zpos="1.18077" type="leag.lws4.story.evac" GUID="9MPvAtY3v0+qC8DqqgANuA=="/>
+        <POI MapID="1260" xpos="-173.103" ypos="7.56063" zpos="6.31341" type="leag.lws4.story.evac" GUID="0n8350sC4EaiOTmscdZP3g=="/>
+        <POI MapID="1260" xpos="-217.274" ypos="24.1107" zpos="-74.9617" type="leag.lws4.story.evac" GUID="dZPlA0DcKkGTLR9ZVa8bbA=="/>
+        <POI MapID="1260" xpos="-172.359" ypos="7.58533" zpos="1.52027" type="leag.lws4.story.evac" GUID="o07YaSxBAEK/XhVQe2F8zg=="/>
+        <POI MapID="1260" xpos="-283.784" ypos="17.9216" zpos="-34.1577" type="leag.lws4.story.evac" GUID="bO4qSYEsKkenKHpqVBNHEg=="/>
+        <POI MapID="1260" xpos="-220.209" ypos="24.2975" zpos="-79.335" type="leag.lws4.story.evac" GUID="vWa0mOdfwESe2HrbtMy7/A=="/>
+        <POI MapID="1260" xpos="-319.485" ypos="8.98367" zpos="188.796" type="leag.lws4.story.evac" GUID="8CVQiWEMw06Xxw0erKPfXA=="/>
+        <POI MapID="1260" xpos="-299.478" ypos="9.09804" zpos="188.641" type="leag.lws4.story.evac" GUID="J5AW13q27UiNkXC5p+hZ8g=="/>
+        <POI MapID="1260" xpos="-194.868" ypos="2.5646" zpos="80.4423" type="leag.lws4.story.evac" GUID="j4pPP3bfZEyUBYNP7oBq9g=="/>
+        <POI MapID="1260" xpos="-199.652" ypos="2.56114" zpos="82.621" type="leag.lws4.story.evac" GUID="qrIBdJrfUE2Wpt3IEUpGqA=="/>
+        <POI MapID="1260" xpos="-340.343" ypos="10.7871" zpos="269.525" type="leag.lws4.story.evac" GUID="IuNIE5pHBk+tfWs2ruoMjg=="/>
+
+        <POI MapID="1260" xpos="-232.108" ypos="0.845125" zpos="148.572" type="leag.lws4.story.qais" GUID="YUieGfCf40yb6nF+NiCeIA=="/>
+
+        <!-- Under the Stars -->
+        <POI MapID="1263" xpos="-953.461" ypos="95.375" zpos="785.52" type="leag.lws4.story.nightfall" GUID="t1j33cCaCUSC42/pNWDqxA=="/>
+
+        <POI MapID="1263" xpos="-843.241" ypos="30.6576" zpos="692.2" type="leag.lws4.story.ally" GUID="aCgAqjR7FESAunghrpKelQ=="/>
+        <POI MapID="1263" xpos="-812.436" ypos="30.6576" zpos="696.442" type="leag.lws4.story.ally" GUID="zorWoNkPKE6uN8mAaWtxAA=="/>
+        <POI MapID="1263" xpos="-803.9" ypos="30.5629" zpos="639.042" type="leag.lws4.story.ally" GUID="bvu9q40+kUSB6hRmJ6gmNA=="/>
+        <POI MapID="1263" xpos="-756.594" ypos="30.668" zpos="658.9" type="leag.lws4.story.ally" GUID="mpCDkWKiJUuER8SXywca2g=="/>
+        <POI MapID="1263" xpos="-795.007" ypos="30.6576" zpos="589.304" type="leag.lws4.story.ally" GUID="awicLRid10KPe0j3wd8rDw=="/>
+        <POI MapID="1263" xpos="-812.703" ypos="29.315" zpos="589.947" type="leag.lws4.story.ally" GUID="k/r146dSBkCvVGcDk04mKw=="/>
+        <POI MapID="1263" xpos="-845.389" ypos="30.6576" zpos="584.159" type="leag.lws4.story.ally" GUID="mVCsKtRpn0qCeOx6LW8MRg=="/>
+        <POI MapID="1263" xpos="-837.473" ypos="30.6576" zpos="564.278" type="leag.lws4.story.ally" GUID="0HvI22gVzEyWeX5OV2WmwQ=="/>
+        <POI MapID="1263" xpos="-838.077" ypos="29.9749" zpos="651.061" type="leag.lws4.story.ally" GUID="b8TDl6tKMU6gFWBsZwNPXA=="/>
+        <POI MapID="1263" xpos="-831.401" ypos="30.2548" zpos="655.571" type="leag.lws4.story.ally" GUID="GpFmPJS+WECn5v5M9RnaKA=="/>
+
+        <POI MapID="1268" xpos="-90.1157" ypos="44.0066" zpos="-204.805" type="leag.lws4.story.downtown" GUID="Ue03Zwk/qkiVlAO6//P/iQ=="/>
+        <POI MapID="1268" xpos="-38.3473" ypos="44.0066" zpos="-182.755" type="leag.lws4.story.downtown" GUID="Ch48t/AcaUuoZRHRgmkdaQ=="/>
+        <POI MapID="1268" xpos="17.7946" ypos="44.0066" zpos="-204.749" type="leag.lws4.story.downtown" GUID="j9wW3O7W1U20vvTZ3Y3z7w=="/>
+        <POI MapID="1268" xpos="19.3697" ypos="44.0084" zpos="-312.552" type="leag.lws4.story.downtown" GUID="7g9N0oMWtka4uwpgCn2DJA=="/>
+        <POI MapID="1268" xpos="-35.404" ypos="44.0084" zpos="-335.581" type="leag.lws4.story.downtown" GUID="KD9EraTnnU6d0n5T1bxOvQ=="/>
+        <POI MapID="1268" xpos="-89.7498" ypos="44.1144" zpos="-310.749" type="leag.lws4.story.downtown" GUID="bqzFf0kdQUi/8UhZAK6cKQ=="/>
+
+        <POI MapID="1268" xpos="242.817" ypos="121.026" zpos="148.705" type="leag.lws4.story.museum" GUID="SNkuBrwTIUup67PRCOMtKA=="/>
+        <POI MapID="1268" xpos="-371.502" ypos="89.7453" zpos="279.611" type="leag.lws4.story.museum" GUID="+HM3fZqorUi2jK9uZUJ71w=="/>
+        <POI MapID="1268" xpos="-331.133" ypos="77.1264" zpos="115.009" type="leag.lws4.story.museum" GUID="YyD0NssI5E+v/7wQFIceYw=="/>
+        <POI MapID="1268" xpos="-161.227" ypos="87.7497" zpos="46.6274" type="leag.lws4.story.museum" GUID="X4MqDDc0gki9VdtJYKbM0w=="/>
+        <POI MapID="1268" xpos="-297.68" ypos="59.6422" zpos="-155.168" type="leag.lws4.story.museum" GUID="dVVMdiFmzU6HT67VTbUtZA=="/>
+        <POI MapID="1268" xpos="-4.23386" ypos="23.6968" zpos="-245.304" type="leag.lws4.story.museum" GUID="zQ2pPFjf+UCZypXEUEghsg=="/>
+        <POI MapID="1268" xpos="43.8961" ypos="2.95224" zpos="52.8765" type="leag.lws4.story.museum" GUID="LBzpj0+iuka2epHRhJs2Ew=="/>
+
+        <POI MapID="1268" xpos="-165.367" ypos="94.1935" zpos="238.414" type="leag.lws4.story.ribbon" GUID="viUtC2HXDEe46M5CQ0oVTA=="/>
+
+        <POI MapID="1268" xpos="197.752" ypos="93.9492" zpos="104.964" type="leag.lws4.story.swimming" GUID="T5jSjteeeEqtH6QSda5PPg=="/>
+
+
+        <!-- CHAPTER 2 - A Bug in the System -->
+        <Trail type="leag.lws4.story.cabbage" trailData="Data/LWS4/2. A Bug in the System/Cabbage Shredder.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" miniMapVisibility="0" color="99FF33"/>
+        <POI MapID="1281" xpos="-15.6999" ypos="29.1391" zpos="737.96" type="leag.lws4.story.cabbage.springer" GUID="t2D7yJio6EOFRBkVwOWOeQ=="/>
+
+        <Trail type="leag.lws4.story.drones" trailData="Data/LWS4/2. A Bug in the System/Drones Disabled.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" miniMapVisibility="0" color="99FF33"/>
+        <POI MapID="1282" xpos="-246.004" ypos="156.372" zpos="403.257" type="leag.lws4.story.golem.blue" GUID="3ziOe7NPJ0qSF4v86ryCXw=="/>
+        <POI MapID="1282" xpos="-240.431" ypos="156.361" zpos="412.305" type="leag.lws4.story.golem.green" GUID="VCJMYzOy/Eu8sdnEXborIw=="/>
+        <POI MapID="1282" xpos="-234.886" ypos="156.388" zpos="421.26" type="leag.lws4.story.golem.red" GUID="OCq27j/39EmYJPxQfYE1Vw=="/>
+
+        <Trail type="leag.lws4.story.gate" trailData="Data/LWS4/2. A Bug in the System/Gate Crasher.trl" color="99FF33"/>
+        <POI MapID="1282" xpos="-7.90656" ypos="124.831" zpos="333.933" type="leag.lws4.story.gate.overload" GUID="XgOOR8YuEUGMDmRC10jCvw=="/>
+        <POI MapID="1282" xpos="35.6587" ypos="124.393" zpos="372.973" type="leag.lws4.story.gate.overload" GUID="u86LCgPguki9NeY7CjZerw=="/>
+        <POI MapID="1282" xpos="-26.1642" ypos="129.345" zpos="371.034" type="leag.lws4.story.gate.overload" GUID="j3zRZ9S6QkuvklMnlYiCbQ=="/>
+        <POI MapID="1282" xpos="-117.732" ypos="140.113" zpos="379.438" type="leag.lws4.story.gate.overload" GUID="UstvLdjqRkuuu9OYh2o0gw=="/>
+        <POI MapID="1282" xpos="-88.7799" ypos="151.501" zpos="410.309" type="leag.lws4.story.gate.overload" GUID="GLnlplj6uE68ye/3pOvOFw=="/>
+        <POI MapID="1282" xpos="-94.6452" ypos="151.502" zpos="419.805" type="leag.lws4.story.gate.overload" GUID="HOaXej6UQE+x9UPpk6pRDw=="/>
+        <POI MapID="1282" xpos="-75.8448" ypos="151.502" zpos="413.945" type="leag.lws4.story.gate.overload" GUID="nB08gGyDPkmfJETOcDbMIw=="/>
+        <POI MapID="1282" xpos="-129.023" ypos="140.007" zpos="439.746" type="leag.lws4.story.gate.overload" GUID="HXM5GmtuFEyvwxPLPwytUg=="/>
+        <POI MapID="1282" xpos="-154.933" ypos="140.625" zpos="479.59" type="leag.lws4.story.gate.overload" GUID="lt4VUv+m/kmnt+KeIxj6KQ=="/>
+        <POI MapID="1282" xpos="-31.6192" ypos="129.38" zpos="430.748" type="leag.lws4.story.gate.overload" GUID="cwQrf6TNP0Wj/GhiWgvvWQ=="/>
+        <POI MapID="1282" xpos="-173.989" ypos="140.007" zpos="450.019" type="leag.lws4.story.gate.overload" GUID="tNPHUVkRGkKmFZnDn+ZaIQ=="/>
+        <POI MapID="1282" xpos="-152.181" ypos="151.762" zpos="409.496" type="leag.lws4.story.gate.stealth" GUID="FWXzxDW2d0K0vJ9ejsVyPA=="/>
+        <POI MapID="1282" xpos="-90.6464" ypos="151.501" zpos="440.776" type="leag.lws4.story.gate.stealth" GUID="KbMv1vuXpkuf+qwrvcKB7A=="/>
+
+        
+        <Trail type="leag.lws4.story.liberator" trailData="Data/LWS4/2. A Bug in the System/Inquest-Specimen Liberator.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" miniMapVisibility="0" color="99FF33"/>
+        <POI MapID="1276" xpos="498.957" ypos="2.30778" zpos="425.925" type="leag.lws4.story.drones" GUID="DueMuF9J10SKZQTuClQQjQ=="/>
+        <POI MapID="1276" xpos="555.784" ypos="2.37874" zpos="435.072" type="leag.lws4.story.drones" GUID="8PW1z39eYkC06RM5ey6PdQ=="/>
+        <POI MapID="1276" xpos="564.627" ypos="16.5226" zpos="435.003" type="leag.lws4.story.liberator" GUID="WhwGjR7/PUC7Mlq19Hhngg=="/>
+        <POI MapID="1276" xpos="526.624" ypos="16.6871" zpos="435.207" type="leag.lws4.story.liberator" GUID="yZnIBniCLUGA7ulfhPtFHQ=="/>
+        <POI MapID="1276" xpos="496.502" ypos="16.6101" zpos="436.996" type="leag.lws4.story.liberator" GUID="CJlbAdP/5ESXz9mEMeY98Q=="/>
+        <POI MapID="1276" xpos="485.606" ypos="16.6087" zpos="397.695" type="leag.lws4.story.liberator" GUID="y4IRW1sSgUqhM+oTSX9bsA=="/>
+        
+        <!-- STORY - The Road to Rata Primus -->
+        <!-- First Barrier -->
+        <POI MapID="1271" xpos="-252.147" ypos="0.990591" zpos="-19.0885" type="leag.lws4.story.stimulus.number.1" GUID="ctlgy2desk6Ex5+za8w2vw==" iconFile="Data/Images/Numbers/1.png" maxSize="16"/>
+        <POI MapID="1271" xpos="-252.196" ypos="0.990591" zpos="-15.413" type="leag.lws4.story.stimulus.number.2" GUID="Typ5/cdOg0iPXSeveM8hKA==" iconFile="Data/Images/Numbers/2.png" maxSize="16"/>
+        <!-- Second Barrier -->
+        <POI MapID="1271" xpos="-279.25" ypos="3.90019" zpos="37.8518" type="leag.lws4.story.stimulus.number.1" GUID="x5jx9TqZuUqX7Dhs4WNGtQ=="/>
+        <POI MapID="1271" xpos="-290.336" ypos="3.97415" zpos="37.2927" type="leag.lws4.story.stimulus.number.2" GUID="tiixUzPAL0S4NOC6vB3ObQ=="/>
+        <POI MapID="1271" xpos="-286.733" ypos="3.97427" zpos="37.4054" type="leag.lws4.story.stimulus.number.3" GUID="vYcdXKXL3EiZr9nCBMCUmQ=="/>
+        <!-- Third Barrier -->
+        <POI MapID="1271" xpos="-334.93" ypos="6.64621" zpos="34.6028" type="leag.lws4.story.stimulus.number.1" GUID="0e5iohy7FU6yyYhcfsdvxw=="/>
+        <POI MapID="1271" xpos="-341.249" ypos="6.61656" zpos="34.0971" type="leag.lws4.story.stimulus.number.2" GUID="4aYGmn0KnUmVp9N+plRZpA=="/>
+        <POI MapID="1271" xpos="-338.11" ypos="6.55245" zpos="34.5496" type="leag.lws4.story.stimulus.number.3" GUID="/Ai0+ojw9UCvqTDXSAp8zA=="/>
+        <POI MapID="1271" xpos="-350.506" ypos="6.08332" zpos="34.1089" type="leag.lws4.story.stimulus.number.4" GUID="fw6ynaUzyE+pWhhzW2yCdA=="/>
+        <!-- Fourth Barrier -->
+        <POI MapID="1271" xpos="-370.554" ypos="5.22472" zpos="19.4501" type="leag.lws4.story.stimulus.number.1" GUID="aYvOM74wdUmBcG7BbmMX3Q=="/>
+        <POI MapID="1271" xpos="-371.335" ypos="5.22472" zpos="27.1342" type="leag.lws4.story.stimulus.number.2" GUID="JGferqBwf0aUQQwQ7udoFw=="/>
+        <POI MapID="1271" xpos="-371.357" ypos="5.22472" zpos="31.0549" type="leag.lws4.story.stimulus.number.3" GUID="MuU86RUw5kyGYqs+ciTUAg=="/>
+
+        <Trail type="leag.lws4.story.primus.damos" trailData="Data/LWS4/2. A Bug in the System/Damos Isle Lab.trl" color="99FF33"/>
+        <Trail type="leag.lws4.story.primus.eastern" trailData="Data/LWS4/2. A Bug in the System/Eastern Complex Lab.trl" color="99FF33"/>
+        <Trail type="leag.lws4.story.primus.invariant" trailData="Data/LWS4/2. A Bug in the System/Invariant Enclave Lab 1.trl" color="99FF33"/>
+        <Trail type="leag.lws4.story.primus.invariant" trailData="Data/LWS4/2. A Bug in the System/Invariant Enclave Lab 2.trl" color="3399FF"/>
+        <Trail type="leag.lws4.story.primus.invariant" trailData="Data/LWS4/2. A Bug in the System/Invariant Enclave Lab 3.trl" color="FF9933"/>
+        <Trail type="leag.lws4.story.primus.invariant" trailData="Data/LWS4/2. A Bug in the System/Invariant Enclave Lab 4.trl" color="99FF33"/>
+        <POI MapID="1271" xpos="726.247" ypos="36.2817" zpos="-508.196" type="leag.lws4.story.primus.invariant.1" GUID="IgFEwxe9T0aW2lg19C96ng=="/>
+        <POI MapID="1271" xpos="726.424" ypos="36.3165" zpos="-501.349" type="leag.lws4.story.primus.invariant.2" GUID="eeFhpCTXg0KeRtWhdNi+tw=="/>
+        <POI MapID="1271" xpos="774.241" ypos="42.8482" zpos="-503.944" type="leag.lws4.story.primus.invariant.3" GUID="NMacBaab20OMSeZ5l1zefA=="/>
+        <POI MapID="1271" xpos="726.124" ypos="36.2521" zpos="-500.833" type="leag.lws4.story.primus.invariant.4" GUID="MdK+ZcZO/USBVrEqM7dbqg=="/>
+        <POI MapID="1271" xpos="726.827" ypos="36.269" zpos="-506.895" type="leag.lws4.story.primus.invariant.5" GUID="fnQV7/ZWf0SBXPtJS7ovJQ=="/>
+        <POI MapID="1271" xpos="743.862" ypos="42.6441" zpos="-478.046" type="leag.lws4.story.primus.invariant.6" GUID="kJqAmGP+T0qtZ+fWZGR4gw=="/>
+        <POI MapID="1271" xpos="725.2" ypos="36.3581" zpos="-499.604" type="leag.lws4.story.primus.invariant.7" GUID="+snCcIMIt0aCs0dwm4BCyA=="/>
+        
+        <POI MapID="1274" xpos="154.935" ypos="454.265" zpos="-257.955" type="leag.lws4.story.inquest" GUID="zMUu7Faf9EyxKl/txZv/Vg=="/>
+        <POI MapID="1274" xpos="193.318" ypos="454.331" zpos="-254.442" type="leag.lws4.story.inquest" GUID="Lp/cXKu6mkCxnYZz/T3n0Q=="/>
+        <POI MapID="1274" xpos="126.565" ypos="454.343" zpos="-65.2498" type="leag.lws4.story.inquest" GUID="KjmqyLYmHU+wZuhqmH/RbA=="/>
+        <POI MapID="1274" xpos="-22.1897" ypos="454.316" zpos="-218.194" type="leag.lws4.story.inquest" GUID="UXZ3yusurUq6l6OmFkd9ng=="/>
+        <POI MapID="1274" xpos="108.481" ypos="407.656" zpos="-222.624" type="leag.lws4.story.inquest" GUID="nI8k/Bm3lky55sw+Rj8/6w=="/>
+        <POI MapID="1274" xpos="235.512" ypos="405.361" zpos="-298.343" type="leag.lws4.story.inquest" GUID="jSwIwyrKIkyFDBiW1ol4rQ=="/>
+        
+        <Trail type="leag.lws4.story.saving" trailData="Data/LWS4/2. A Bug in the System/Saving Skritt.trl" color="99FF33"/>
+        <POI MapID="1274" xpos="88.48782" ypos="462.7684" zpos="-274.1664" type="leag.lws4.story.saving" GUID="5dXDDzkGBEOzO30n8cyblQ==" iconFile="Data/Images/Icons/Skritt.png" maxSize="32"/>
+        
+        
+        <!-- CHAPTER 3 - Long Live the Lich -->
+        <POI MapID="1289" xpos="-205.205" ypos="14.953" zpos="-34.1323" type="leag.lws4.story.orator" GUID="pBYDUuT+h02vu9FLYBGLgg=="/>
+        <Trail type="leag.lws4.story.forearmed" trailData="Data/LWS4/3. Long Live the Lich/Forearmed is Forewarned.trl"/>
+        
+        <Trail type="leag.lws4.story.forearmed" trailData="Data/LWS4/3. Long Live the Lich/Glory Hog.trl"/>
+        <POI MapID="1291" xpos="-450.055" ypos="26.9877" zpos="156.617" type="leag.lws4.story.glory.seeds" GUID="jAB2I5YSBk6+yUoRlYyMZA=="/>
+        <POI MapID="1291" xpos="-403.847" ypos="30.1181" zpos="181.781" type="leag.lws4.story.glory.displacement" GUID="9ex7RbHlHECnBOYwCEXQdw=="/>
+        <POI MapID="1291" xpos="-370.432" ypos="-2.07748" zpos="169.632" type="leag.lws4.story.glory.target" GUID="t3XQUpNzVEiDqCkM0ODd1Q=="/>
+        <POI MapID="1291" xpos="-370.432" ypos="-0.670975" zpos="169.632" type="leag.lws4.story.glory.seeds" GUID="AA+M9exB7Eqs7+SVgiwIFg=="/>
+        <POI MapID="1291" xpos="-570" ypos="19.2829" zpos="45.2456" type="leag.lws4.story.glory.seeds" GUID="DNBTo6bKrUeWLHw3FLoyzw=="/>
+        <POI MapID="1291" xpos="-618.411" ypos="13.3886" zpos="48.028" type="leag.lws4.story.glory.displacement" GUID="lXzkKAV7T0abC+5En49uBA=="/>
+        <POI MapID="1291" xpos="-683.799" ypos="-1.59347" zpos="19.4417" type="leag.lws4.story.glory.target" GUID="amuiL+XK0kyFdJElMr9qxg=="/>
+        <POI MapID="1291" xpos="-742.386" ypos="-0.372146" zpos="-14.3548" type="leag.lws4.story.glory.seeds" GUID="L7FDg/PNWkuV06EVFRwfng=="/>
+        <POI MapID="1291" xpos="-560.36" ypos="36.4359" zpos="145.114" type="leag.lws4.story.glory.displacement" GUID="dXXFKYVusEiwYzlnDFJCkA=="/>
+        <POI MapID="1291" xpos="-487.655" ypos="25.4035" zpos="152.408" type="leag.lws4.story.glory.target" GUID="GBAQ0EDAIEWQcvTHwuGV7w=="/>
+        <POI MapID="1291" xpos="-381.667" ypos="-2.24305" zpos="122.314" type="leag.lws4.story.glory.displacement" GUID="8drRALEu6kCSEVupJmLVgw=="/>
+        <POI MapID="1291" xpos="-438.663" ypos="1.52164" zpos="75.3467" type="leag.lws4.story.glory.target" GUID="QzI9JxNnsUSwhOPThR42tQ=="/>
+        <POI MapID="1291" xpos="-451.595" ypos="0.358702" zpos="65.4429" type="leag.lws4.story.glory.displacement" GUID="KwRt8AL260WPouF0x0Gn9g=="/>
+        <POI MapID="1291" xpos="-513.379" ypos="17.1827" zpos="31.5046" type="leag.lws4.story.glory.target" GUID="nbUqgOhXOEyGFpFQdB+jTg=="/>
+        
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 1.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 2.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 3.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 4.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 5.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 6.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 7.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 8.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 9.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 10.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 11.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 12.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 13.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 14.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 15.trl"/>
+        <Trail type="leag.lws4.story.audience" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 16.trl"/>
+
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 1.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 2.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 3.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 4.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 5.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 6.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 7.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 8.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 9.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 10.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 11.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 12.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 13.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 14.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 15.trl"/>
+        <Trail type="leag.lws4.story.daf" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 16.trl"/>
+
+        <Trail type="leag.lws4.story.guest" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 17.trl"/>
+        <Trail type="leag.lws4.story.guest" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 18.trl"/>
+        <Trail type="leag.lws4.story.guest" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 19.trl"/>
+        <Trail type="leag.lws4.story.guest" trailData="Data/LWS4/3. Long Live the Lich/Be My Guest 20.trl"/>
+
+        <!-- A STAR TO GUIDE US -->
+        <POI MapID="1297" xpos="736.734" ypos="151.472" zpos="185.862" type="leag.lws4.story.splat" GUID="SIhtoh/C4E2+hjby54maBQ=="/>
+        <Trail type="leag.lws4.story.friend" trailData="Data/LWS4/4. A Star to Guide Us/I Brought a Friend.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" color="00FF00"/>
+        <POI MapID="1300" xpos="-100.253" ypos="53.8536" zpos="-470.755" type="leag.lws4.story.friend" GUID="EEZZ0/Mw0USSHp+M3UnotA=="/>
+        <POI MapID="1300" xpos="-88.8157" ypos="56.1208" zpos="-500.571" type="leag.lws4.story.friend.swiftness" GUID="Bq/CW+KZ+UyhRz20MfTIgA=="/>
+        <Trail type="leag.lws4.story.raptor" trailData="Data/LWS4/4. A Star to Guide Us/Raptor Out.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="00FF00"/>
+
+        <!-- CHAPTER 5: All or Nothing -->
+        <!-- Resonance: Pill Oil Locations -->
+        <POI MapID="1310" xpos="-561.688" ypos="1.38898" zpos="-649.047" type="leag.lws4.story.oil" GUID="oQzXRL+JM0mI64X7giQieg=="/>
+        <POI MapID="1310" xpos="-565.38" ypos="1.31633" zpos="-646.013" type="leag.lws4.story.oil" GUID="r6vFMNwaNUKIH7CBITEd6w=="/>
+        <POI MapID="1310" xpos="-569.303" ypos="1.24821" zpos="-642.79" type="leag.lws4.story.oil" GUID="sQqDeRfHuE6Zy57tXIfQQQ=="/>
+        <POI MapID="1310" xpos="-390.4" ypos="7.85887" zpos="-793.474" type="leag.lws4.story.oil" GUID="liXoFq6a6USMnAvrUzEDuA=="/>
+        <POI MapID="1310" xpos="-385.924" ypos="7.79062" zpos="-796.849" type="leag.lws4.story.oil" GUID="gMMF53xlh0un+NBT+SO6rg=="/>
+        <POI MapID="1310" xpos="-380.811" ypos="8.51452" zpos="-798.397" type="leag.lws4.story.oil" GUID="ELh/ZcsXAEi8K0T84M6JfQ=="/>
+        <POI MapID="1310" xpos="-377.201" ypos="7.75717" zpos="-799.067" type="leag.lws4.story.oil" GUID="MtJoPLipFUK5IkU6DMc2kg=="/>
+        <POI MapID="1310" xpos="-627.102" ypos="2.7263" zpos="-937.798" type="leag.lws4.story.oil" GUID="C/AeaSs9uEqym8RdvgBVog=="/>
+        <POI MapID="1310" xpos="-627.179" ypos="2.3474" zpos="-932.133" type="leag.lws4.story.oil" GUID="HwJdpb/xF0SFlW0VfMmzkg=="/>
+        <POI MapID="1310" xpos="-627.612" ypos="3.34735" zpos="-926.078" type="leag.lws4.story.oil" GUID="PvZ6E7BhVEOuN8X7SrYDSw=="/>
+        <POI MapID="1310" xpos="-627.576" ypos="3.32826" zpos="-920.513" type="leag.lws4.story.oil" GUID="1lcqmNu+PkmELedSTunmRg=="/>
+        <POI MapID="1310" xpos="-626.718" ypos="3.28719" zpos="-913.619" type="leag.lws4.story.oil" GUID="1/OcVTljj0KWFYYVkRBY7w=="/>
+
+        <POI MapID="1313" xpos="468.621" ypos="158.784" zpos="-326.454" type="leag.lws4.story.hyped" GUID="2oPTa7Y9EEG5serx+w87nQ==" info="Respond with ''YEAH!'' 5 - 7 times until Hyped" infoRange="3"/>
+        <POI MapID="1313" xpos="460.427" ypos="159.347" zpos="-324.488" type="leag.lws4.story.stubborn.mellitus" GUID="800k/K9YEEOtZz1/9PWYbg=="/>
+        <POI MapID="1313" xpos="367.665" ypos="164.042" zpos="-250.75" type="leag.lws4.story.stubborn.amira" GUID="coNH3Xma10mtYq3rowuoEg=="/>
+        <POI MapID="1313" xpos="365.365" ypos="164.182" zpos="-271.839" type="leag.lws4.story.stubborn.solvi" GUID="0lpX/K6xK0a2x+A72i+1ow=="/>
+
+        <!-- CHAPTER 6. War Eternal -->
+        <!-- Glory of Dragons -->
+        <Trail type="leag.lws4.story.dragons" trailData="Data/LWS4/6. War Eternal/Glory of Dragons.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="00FF00"/>
+    </POIs>
+</OverlayData>
