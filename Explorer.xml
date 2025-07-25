@@ -1,0 +1,93 @@
+<OverlayData>
+	<POIs>
+		<Trail type="leag.explorer.lae" trailData="Data/Explorer/LA Exterminator 1.trl"/>
+		<Trail type="leag.explorer.lae" trailData="Data/Explorer/LA Exterminator 2.trl"/>
+		<Trail type="leag.explorer.lae" trailData="Data/Explorer/LA Exterminator 3.trl"/>
+		<Trail type="leag.explorer.lae" trailData="Data/Explorer/LA Exterminator 4.trl"/>
+		<Trail type="leag.explorer.lae" trailData="Data/Explorer/LA Exterminator 5.trl"/>
+		<Trail type="leag.explorer.lae" trailData="Data/Explorer/LA Exterminator 6.trl"/>
+		<Trail type="leag.explorer.lae" trailData="Data/Explorer/LA Exterminator 7.trl"/>
+		<Trail type="leag.explorer.lae" trailData="Data/Explorer/LA Exterminator 8.trl" fadeNear="1200" fadeFar="1600"/>
+		<Trail type="leag.explorer.lae" trailData="Data/Explorer/LA Exterminator 9.trl"/>
+		<Trail type="leag.explorer.lae" trailData="Data/Explorer/LA Exterminator 10.trl"/>
+		<Trail type="leag.explorer.lae" trailData="Data/Explorer/LA Exterminator 11.trl"/>
+		<Trail type="leag.explorer.lae" trailData="Data/Explorer/LA Exterminator 12.trl"/>
+		<Trail type="leag.explorer.lae" trailData="Data/Explorer/LA Exterminator 13.trl"/>
+		<POI MapID="50" xpos="-362.828" ypos="26.9899" zpos="368.143" type="leag.explorer.lae.start" GUID="WTbGqX55YEO6muZxhXR5nw=="/>
+		<POI MapID="50" xpos="-291.81" ypos="33.2494" zpos="366.764" type="leag.explorer.lae.talk" GUID="eJ7NRJkEVkik/OvSM0FB/w=="/>
+		<POI MapID="50" xpos="-284.062" ypos="43.5787" zpos="385.022" type="leag.explorer.lae.wp" GUID="tN+qwRipMU+cYLLVk81txg==" copy="[&BAwEAAA=]" copy-message="Commodore's Quarter Waypoint"/>
+		<POI MapID="50" xpos="-467.506" ypos="42.6846" zpos="353.424" type="leag.explorer.lae.wp" GUID="gbHYHlxeG0eChDBkKnVgww==" copy="[&BC8EAAA=]" copy-message="Sanctum Harbor Waypoint"/>
+		<POI MapID="50" xpos="-357.805" ypos="0.692009" zpos="153.19" type="leag.explorer.lae.wp" GUID="pMTza8TOhkCBvD2mBSkiJA==" copy="[&BC8EAAA=]" copy-message="Sanctum Harbor Waypoint"/>
+		<POI MapID="50" xpos="-422.409" ypos="3.10644" zpos="232.477" type="leag.explorer.lae.wp" GUID="nf/vPonii06kAUc0jFH5Ag==" copy="[&BC0EAAA=]" copy-message="Diverse Ledges Waypoint"/>
+		<POI MapID="50" xpos="-534.77" ypos="1.88949" zpos="-166.411" type="leag.explorer.lae.wp" GUID="MqKdMPrlJkiJ2Nl7iZ8T5A==" copy="[&BC0EAAA=]" copy-message="Diverse Ledges Waypoint"/>
+		<POI MapID="50" xpos="-521.755" ypos="7.47065" zpos="-201.591" type="leag.explorer.lae.wp" GUID="1QwojQaKpkOEfkVAbzbacA==" copy="[&BBAEAAA=]" copy-message="Trader's Forum Waypoint"/>
+		<POI MapID="50" xpos="267.405" ypos="-0.200772" zpos="357.84" type="leag.explorer.lae.wp" GUID="shnNmXE9Gk6Xz8Oy1pkg1Q==" copy="[&BDEEAAA=]" copy-message="Eastern Ward Waypoint"/>
+		<POI MapID="50" xpos="367.421" ypos="29.5728" zpos="329.504" type="leag.explorer.lae.wp" GUID="iP8/BSKhz0qFTu0i+IVNvQ==" info="Can Only Enter at Night (21:00 - 0500, use /time)&#xa;Password is: Password" infoRange="3"/>
+		<POI MapID="50" xpos="694.041" ypos="39.3966" zpos="271.071" type="leag.explorer.lae.wp" GUID="bkoPie+SkkODkAjj6OnQyg==" copy="[&BDIEAAA=]" copy-message="Cavern Waypoint"/>
+		<POI MapID="50" xpos="328.997" ypos="20.3125" zpos="422.324" type="leag.explorer.lae.wp" GUID="8OjVB84lb0Wmv/CQfjVWsQ==" copy="[&BA0EAAA=]" copy-message="Guild Bluff Waypoint"/>
+		<POI MapID="50" xpos="371.571" ypos="10.2627" zpos="-3.57608" type="leag.explorer.lae.wp" GUID="MzrJduoO70e6tzEPZM2G9Q==" copy="[&BDMEAAA=]" copy-message="Farshore Waypoint"/>
+		<POI MapID="50" xpos="654.909" ypos="-1.11835" zpos="-401.312" type="leag.explorer.lae.wp" GUID="l54mq3F5Z0moHYwr46lzEQ==" info="Duck under the water and then come up just below the surface" infoRange="5"/>
+		<POI MapID="50" xpos="453.334" ypos="-0.527015" zpos="-324.03" type="leag.explorer.lae.wp" GUID="NOPfMenPhkiqXwqIfFLcIw==" copy="[&BA8EAAA=]" copy-message="Claw Island Portage Waypoint"/>
+		<POI MapID="50" xpos="-65.0323" ypos="0.947049" zpos="-51.9388" type="leag.explorer.lae.wp" GUID="hWoRGzIa+USvqSwLdlL9XQ==" copy="[&BA8EAAA=]" copy-message="Claw Island Portage Waypoint"/>
+		<POI MapID="50" xpos="-291.597" ypos="32.0613" zpos="370.523" type="leag.explorer.lae.karka" GUID="Gq5Ux/ir/06r26cXtIg4pg=="/>
+		<POI MapID="50" xpos="-284.854" ypos="42.1211" zpos="383.998" type="leag.explorer.lae.karka" GUID="XsJSdU8uTkGcuQXfkIAx6g=="/>
+		<POI MapID="50" xpos="-289.263" ypos="41.8503" zpos="377.295" type="leag.explorer.lae.karka" GUID="Q7xZbhNBjkePCiZ9JTUbFg=="/>
+		<POI MapID="50" xpos="-353.138" ypos="25.8545" zpos="351.867" type="leag.explorer.lae.karka" GUID="Nm7eK3lYwEm0Acvy6sdhpw=="/>
+		<POI MapID="50" xpos="-320.998" ypos="32.0005" zpos="341.833" type="leag.explorer.lae.karka" GUID="5QlPoF2MZ0WYj31LrOfNpQ=="/>
+		<POI MapID="50" xpos="-347.111" ypos="17.7357" zpos="340.499" type="leag.explorer.lae.karka" GUID="gb3AhO+ly0yCLNe1afx2wQ=="/>
+		<POI MapID="50" xpos="-405.803" ypos="27.325" zpos="374.688" type="leag.explorer.lae.karka" GUID="a2QGDbh3d0GCrjfMBw+goQ=="/>
+		<POI MapID="50" xpos="-465.268" ypos="41.3662" zpos="355.492" type="leag.explorer.lae.karka" GUID="EFczAR81Dk25xtiVs0hYdA=="/>
+		<POI MapID="50" xpos="-423.757" ypos="24.8263" zpos="296.77" type="leag.explorer.lae.karka" GUID="Ct2rGlfM30i1zL/WoRHM4A=="/>
+		<POI MapID="50" xpos="-351.998" ypos="12.0716" zpos="62.664" type="leag.explorer.lae.karka" GUID="mhd4+3tbzU2whGovYJz5Qg=="/>
+		<POI MapID="50" xpos="-355.367" ypos="2.28854" zpos="155.166" type="leag.explorer.lae.karka" GUID="S39IUtLlT02VDKXQZePuaA=="/>
+		<POI MapID="50" xpos="-420.521" ypos="10.1442" zpos="230.909" type="leag.explorer.lae.karka" GUID="E9grR3/m90yOdXcousGxQw=="/>
+		<POI MapID="50" xpos="-281.083" ypos="41.4085" zpos="221.069" type="leag.explorer.lae.karka" GUID="iq5yHquXFUuguiH8v2uY4w=="/>
+		<POI MapID="50" xpos="-562.688" ypos="27.6677" zpos="2.27558" type="leag.explorer.lae.karka" GUID="2CNSh8Rwn0my4smSTY5sBQ=="/>
+		<POI MapID="50" xpos="-613.752" ypos="40.6891" zpos="-76.5821" type="leag.explorer.lae.karka" GUID="kvGF4Jm9zUOMwqc0dX97tA=="/>
+		<POI MapID="50" xpos="-539.641" ypos="-0.935464" zpos="-44.334" type="leag.explorer.lae.karka" GUID="hjCOL92MS0SXV1pxiZ8pUw=="/>
+		<POI MapID="50" xpos="-528.701" ypos="6.54241" zpos="-173.318" type="leag.explorer.lae.karka" GUID="h6G6YdPlVE6jRyqvwKulpg=="/>
+		<POI MapID="50" xpos="-531.429" ypos="20.748" zpos="-193.391" type="leag.explorer.lae.karka" GUID="ztzh1XNIfUKybu0dTDL65A=="/>
+		<POI MapID="50" xpos="-532.444" ypos="62.5382" zpos="-140.657" type="leag.explorer.lae.karka" GUID="9P0Y/JuUV0aIzq6a/eZIsQ=="/>
+		<POI MapID="50" xpos="-61.7411" ypos="5.44738" zpos="-33.2522" type="leag.explorer.lae.karka" GUID="ZRjoy+ad2kyD2tw5HAkdRA==" fadeNear="1200" fadeFar="1600"/>
+		<POI MapID="50" xpos="-14.6843" ypos="42.0976" zpos="330.062" type="leag.explorer.lae.karka" GUID="aIxLoaucB0mToQeMocbLAw==" fadeNear="1200" fadeFar="1600"/>
+		<POI MapID="50" xpos="97.3279" ypos="29.1146" zpos="305.411" type="leag.explorer.lae.karka" GUID="VUQaDEiR/Ue5fAAdRotVug=="/>
+		<POI MapID="50" xpos="240.935" ypos="41.6444" zpos="206.564" type="leag.explorer.lae.karka" GUID="TFtEbAAfSE+9lhdPVKXvbw=="/>
+		<POI MapID="50" xpos="258.732" ypos="-1.94807" zpos="361.731" type="leag.explorer.lae.karka" GUID="TJ4VlPmDtEiF0Eo9HLjxFg=="/>
+		<POI MapID="50" xpos="348.129" ypos="9.63266" zpos="281.765" type="leag.explorer.lae.karka" GUID="2UyX5RVF0EeXXTxxJ0lXRg=="/>
+		<POI MapID="50" xpos="369.383" ypos="33.0442" zpos="336.14" type="leag.explorer.lae.karka" GUID="ho49SUsYBk6lbtr6RxffRw==" fadeFar="300"/>
+		<POI MapID="50" xpos="382.095" ypos="24.5959" zpos="417.288" type="leag.explorer.lae.karka" GUID="8l3u6Rq9Z0Gbwo1Z6Pbb7g=="/>
+		<POI MapID="50" xpos="345.288" ypos="27.5348" zpos="429.435" type="leag.explorer.lae.karka" GUID="ytqm+y892U2gq6LBOSI6gw=="/>
+		<POI MapID="50" xpos="435.404" ypos="-2.2591" zpos="233.3" type="leag.explorer.lae.karka" GUID="lg6+0wYj8E6XEbfMGwLj1Q=="/>
+		<POI MapID="50" xpos="586.896" ypos="15.8418" zpos="382.344" type="leag.explorer.lae.karka" GUID="QcP8qj0AG0iloPOP9rpnWg=="/>
+		<POI MapID="50" xpos="662.326" ypos="29.4546" zpos="251.986" type="leag.explorer.lae.karka" GUID="pS0u0fQLEE6DjrOb6Alodg=="/>
+		<POI MapID="50" xpos="696.73" ypos="44.0994" zpos="272.08" type="leag.explorer.lae.karka" GUID="imEUAhlOWUWTzu1FjOemOw=="/>
+		<POI MapID="50" xpos="431.466" ypos="9.4914" zpos="184.862" type="leag.explorer.lae.karka" GUID="zcNbMua3FkiN1G7JEY5feA=="/>
+		<POI MapID="50" xpos="312.143" ypos="10.4693" zpos="139.332" type="leag.explorer.lae.karka" GUID="g+XT4UpmDkuUBhft+uftTQ=="/>
+		<POI MapID="50" xpos="375.181" ypos="9.68195" zpos="-7.33874" type="leag.explorer.lae.karka" GUID="2axmByusf0SVFeGGa4dPhQ=="/>
+		<POI MapID="50" xpos="384.638" ypos="29.2284" zpos="-86.2268" type="leag.explorer.lae.karka" GUID="yKHM2tv/0Eew99hsj6X2LA==" fadeNear="1600" fadeFar="2000"/>
+		<POI MapID="50" xpos="467.116" ypos="24.2211" zpos="-279.067" type="leag.explorer.lae.karka" GUID="Css+GSuDaE2qTwIF0AWVqg=="/>
+		<POI MapID="50" xpos="462.358" ypos="1.6098" zpos="-323.37" type="leag.explorer.lae.karka" GUID="eE2CTsXR3kCy6vCfmqTSbw=="/>
+		<POI MapID="50" xpos="445.858" ypos="13.9719" zpos="-316.51" type="leag.explorer.lae.karka" GUID="/ok0ORKHb0ypdlXIfY3kJw=="/>
+		<POI MapID="50" xpos="675.19" ypos="15.0914" zpos="-434.087" type="leag.explorer.lae.karka" GUID="M7zjzEn4CEu46X7hxCzqpg=="/>
+		<POI MapID="50" xpos="711.533" ypos="28.4335" zpos="-395.44" type="leag.explorer.lae.karka" GUID="EMiH83lYXkOvZFqVc/4sVA=="/>
+		<POI MapID="50" xpos="684.354" ypos="61.2335" zpos="-359.186" type="leag.explorer.lae.karka" GUID="PkJhnzr8wkaP0GWQSp4lcw=="/>
+		<POI MapID="50" xpos="718.353" ypos="72.6427" zpos="-329.003" type="leag.explorer.lae.karka" GUID="ftsqh6NomU68MD95RrTZQQ=="/>
+		<POI MapID="50" xpos="604.04" ypos="41.9368" zpos="-343.389" type="leag.explorer.lae.karka" GUID="QhK3FEWi+0GKU2QJk7QQig=="/>
+		<POI MapID="50" xpos="523.001" ypos="7.97804" zpos="-377.488" type="leag.explorer.lae.karka" GUID="Z+uJopNETUSuDScsxw3YyQ=="/>
+		<POI MapID="50" xpos="-148.542" ypos="10.085" zpos="-360.76" type="leag.explorer.lae.karka" GUID="/EeF9bjNX0ygmQy1jeU8Hw=="/>
+		<POI MapID="50" xpos="-310.26" ypos="2.87572" zpos="-388.586" type="leag.explorer.lae.karka" GUID="0euAp9aAS0Kgm1qXRiOTUQ=="/>
+		<POI MapID="50" xpos="-565.986" ypos="41.0243" zpos="-117.791" type="leag.explorer.lae.number.1" GUID="AFwNiU3T+k+/9j5pfNZ2gg=="/>
+		<POI MapID="50" xpos="-558.448" ypos="42.3879" zpos="-119.173" type="leag.explorer.lae.number.2" GUID="H04S8xRd6UC/kriYcpNfmQ=="/>
+		<POI MapID="50" xpos="-500.639" ypos="74.9821" zpos="-161.296" type="leag.explorer.lae.karka" GUID="dTe/vqm/5kaVHlC1J4P8XQ=="/>
+		<POI MapID="50" xpos="-295.943" ypos="10.3647" zpos="60.5695" type="leag.explorer.lae.number.2" GUID="ZavNIM4Pi0OSY1QQHp+M4A=="/>
+		<POI MapID="50" xpos="-300.706" ypos="10.3647" zpos="53.4426" type="leag.explorer.lae.number.1" GUID="7e4DNwFrZ02igD0ncNJV+g=="/>
+		<POI MapID="50" xpos="-95.5524" ypos="11.0915" zpos="-217.712" type="leag.explorer.lae.number.1" GUID="hunWc1gXR0uTZSleYvJ6Rw=="/>
+		<POI MapID="50" xpos="-349.476" ypos="29.6443" zpos="374.026" type="leag.explorer.lae.number.2" GUID="LhDNvZ1MEkqhXktdjd+ONA=="/>
+		<POI MapID="50" xpos="-348.408" ypos="29.8072" zpos="376.301" type="leag.explorer.lae.number.1" GUID="kYUEvHqTgE6r72YDyqkndA=="/>
+		<POI MapID="50" xpos="-89.6432" ypos="9.83025" zpos="-228.637" type="leag.explorer.lae.number.2" GUID="8fB4U8nWZkWVaTk/ek6MCg=="/>
+		<POI MapID="50" xpos="-140.582" ypos="33.7106" zpos="-356.839" type="leag.explorer.lae.karka" GUID="kjE3cznlqUu088LVSl44/A=="/>
+		<POI MapID="50" xpos="-324.857" ypos="58.0826" zpos="-379.218" type="leag.explorer.lae.karka" GUID="Giwj+xHPzkuuw+3Nt6XkNA==" fadeNear="1200" fadeFar="1800"/>
+		
+		
+	</POIs>
+</OverlayData>
