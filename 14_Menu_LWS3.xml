@@ -1,15 +1,16 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
 
-        <MarkerCategory name="lws3" DisplayName="LWS3: Glint's Legacy">
+        <MarkerCategory name="lws3" DisplayName="Season 3">
 
             <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
                 <MarkerCategory name="ch1" IsSeparator="1" DisplayName="CHAPTER 1: Out of the Shadows"/>
                 <MarkerCategory name="puzzle" DisplayName="Was it Blue or Red?" iconFile="Data/Images/RiRN Puzzle.png" heightOffset="0" minSize="96" achievementId="3077"/>
                 <MarkerCategory name="tidan" DisplayName="Take It Down a Notch [H]" iconFile="Data/Images/Icons/Targeted.png" maxSize="32" heightOffset="3.5" defaulttoggle="0" achievementId="3084"/>
 
+                <!--
                 <MarkerCategory name="ch2" IsSeparator="1" DisplayName="CHAPTER 2: Rising Flames"/>
-
+                -->
 
                 <MarkerCategory name="ch3" IsSeparator="1" DisplayName="CHAPTER 3: A Crack in the Ice"/>
                 
@@ -48,8 +49,8 @@
                         <MarkerCategory name="dt" DisplayName="Dry Top"/>
                     </MarkerCategory>
                 </MarkerCategory>
-                <MarkerCategory name="toys" DisplayName="New in Box" achievementId="3231"/>
 
+                <MarkerCategory name="toys" DisplayName="New in Box" achievementId="3231"/>
 
                 <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: The Head of the Snake"/>
                 <MarkerCategory name="courtly" DisplayName="Courtly Discourtesy" achievementId="3380">
@@ -73,10 +74,10 @@
                 <MarkerCategory name="vigil" DisplayName="The Vigil Way" achievementId="3308"/>
                 <MarkerCategory name="whispers" DisplayName="The Whispers Way" achievementId="3374"/>
 
-                <MarkerCategory name="chief" DisplayName="Upper City Security Chief" iconFile="Data/Images/Icons/Orb - Blue - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32" achievementId="3329" minimapVisibility="0" mapVisibility="0"/>
+                <MarkerCategory name="chief" DisplayName="Upper City Security Chief" iconFile="Data/Images/Icons/Orb - Blue - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32" achievementId="3329" minimapVisibility="0" mapVisibility="0" achievementId="3329"/>
 
                 <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: Flashpoint"/>
-                <MarkerCategory name="arrival" DisplayName="Arrival and Survival"/>
+                <MarkerCategory name="arrival" DisplayName="Arrival and Survival" achievementId="3401"/>
                 <MarkerCategory name="excess" DisplayName="Excess Energy" achievementId="3408"/>
                 <MarkerCategory name="fire" DisplayName="Fire Fighter" achievementId="3441">
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
@@ -100,7 +101,7 @@
                 <MarkerCategory name="mess" DisplayName="Cleaning Up the Mess" achievementId="3497"/>
 
                 <MarkerCategory name="madness" DisplayName="Into the Mind of Madness" achievementId="3548">
-                    <MarkerCategory name="documents" DisplayName="Toggle Documents" iconFile="Data/Images/Icons/Documents.png" inGameVisibility="0" mapDisplaySize="32" tip-name="King Crab"/>
+                    <MarkerCategory name="documents" DisplayName="Toggle Documents" iconFile="Data/Images/Icons/Documents.png" inGameVisibility="0" mapDisplaySize="32"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="graffiti" DisplayName="Graffiti Artist" achievementId="3493"/>
@@ -152,6 +153,7 @@
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
                     <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
                 </MarkerCategory>
+                
                 <MarkerCategory name="collect" IsSeparator="1" DisplayName="COLLECTION"/>
 
                 <MarkerCategory name="koda" DisplayName="Koda's Blessing" achievementId="3239">
@@ -835,6 +837,10 @@
                     </MarkerCategory>
                     <MarkerCategory name="melandru" DisplayName="Melandru" achievementId="3481">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
                     </MarkerCategory>
                 </MarkerCategory>
             </MarkerCategory>

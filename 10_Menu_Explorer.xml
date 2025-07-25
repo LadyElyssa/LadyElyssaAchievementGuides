@@ -1,0 +1,22 @@
+<OverlayData>
+    <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
+        
+        <MarkerCategory name="explorer" DisplayName="Explorer">
+
+            <MarkerCategory name="lae" DisplayName="Lion's Arch Exterminator" fadeNear="1600" fadeFar="3000" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" achievementId="2128">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                <MarkerCategory name="karka" DisplayName="Karka Target" iconFile="Data/Images/Icons/Target - LAE.png" maxSize="16" mapDisplaySize="16" fadeNear="1100" fadeFar="1200"/>
+                <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2.0" autotrigger="true"/>
+                <MarkerCategory name="number" DisplayName="Path Number">
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" maxSize="32" miniMapVisibility="0" mapVisibility="0"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" maxSize="32" miniMapVisibility="0" mapVisibility="0"/>
+                </MarkerCategory>
+            </MarkerCategory>
+
+        </MarkerCategory>
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's AP Guides -->
+</OverlayData>
