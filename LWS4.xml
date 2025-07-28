@@ -594,10 +594,15 @@
         <POI MapID="1301" xpos="-891.671" ypos="52.8593" zpos="819.337" type="leag.lws4.jahai.hunter.tooth" GUID="d69o74Sa/0ibUEkSgLuhfA=="/>
         <POI MapID="1301" xpos="282.175" ypos="38.0312" zpos="-211.731" type="leag.lws4.jahai.hunter.vihn" GUID="uf1pqimMbEiglL8KbA7Fcw=="/>
 
+        <Trail type="leag.lws4.jahai.bottled" trailData="Data/LWS4/4. A Star to Guide Us/Bottled No More.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="CCA301"/>
         <POI MapID="1301" xpos="744.036" ypos="46.0538" zpos="-786.621" type="leag.lws4.jahai.bottled.ziya" GUID="pgpzUx7E0UahBKcSMf1AVQ=="/>
         <POI MapID="1301" xpos="1071.39" ypos="119.9" zpos="-296.749" type="leag.lws4.jahai.bottled.vemyen" GUID="STXApXOSFkye2uSDLWeZkg=="/>
 
-        <Trail type="leag.lws4.jahai.bottled" trailData="Data/LWS4/4. A Star to Guide Us/Bottled No More.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="CCA301"/>
+        <POI MapID="1294" xpos="-820.002" ypos="1.69979" zpos="-609.508" type="leag.lws4.jahai.door.thorn" GUID="ODU4f2bun06TD+BSWY7Zvg=="/>
+        <POI MapID="1294" xpos="-817.061" ypos="1.69979" zpos="-607.547" type="leag.lws4.jahai.door.earth" GUID="9dr2NebOVEubFC5Uv6swsA=="/>
+        <POI MapID="1294" xpos="-814.356" ypos="1.69979" zpos="-605.743" type="leag.lws4.jahai.door.wind" GUID="cKdkllfc8UW5T8ECQsK/UA=="/>
+        <POI MapID="1294" xpos="-811.449" ypos="1.69979" zpos="-603.804" type="leag.lws4.jahai.door.seed" GUID="XFWSKVuaO0OSAPNmHKpKcA=="/>
+        <POI MapID="1294" xpos="-822.673" ypos="1.69979" zpos="-611.29" type="leag.lws4.jahai.door.vine" GUID="fSTzrxXt+EWQbEkH/npT+Q=="/>
         
         <Trail type="leag.lws4.jahai.ethereal" trailData="Data/LWS4/4. A Star to Guide Us/Ethereal Exchange.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png"/>
         <POI MapID="1301" xpos="550.543" ypos="144.018" zpos="920.792" type="leag.lws4.jahai.ethereal.start" GUID="hCSpD8X5Z0SxL6d8NYplvQ=="/>
