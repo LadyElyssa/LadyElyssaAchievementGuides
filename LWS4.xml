@@ -213,7 +213,7 @@
 
         <Trail type="leag.lws4.sandswept.bonds.here" trailData="Data/LWS4/Collections/Lasting Bonds 2 -  What We Do Here 1.trl"/>
         <Trail type="leag.lws4.sandswept.bonds.here" trailData="Data/LWS4/Collections/Lasting Bonds 2 -  What We Do Here 2.trl" color="FFFF00"/>
-        <Trail type="leag.lws4.sandswept.bonds.here.vase" trailData="Data/LWS4/Collections/Lasting Bonds 2 -  What We Do Here 3.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="16" /> <!-- Smashed Vase -->
+        <Trail type="leag.lws4.sandswept.bonds.here.vase" trailData="Data/LWS4/Collections/Lasting Bonds 2 -  What We Do Here 3.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="16"/> <!-- Smashed Vase -->
         <POI MapID="1271" xpos="-121.544" ypos="1.83127" zpos="687.014" type="leag.lws4.sandswept.bonds.here.number.1" GUID="5vvW/jhfbEKcuct4nODYmQ=="/>
         <POI MapID="1271" xpos="474.3967" ypos="0.4602255" zpos="822.3364" type="leag.lws4.sandswept.bonds.here.vase" GUID="RdVV2/BEZE2r6XweTxg5Nw=="/>
         <POI MapID="1271" xpos="-58.5594" ypos="15.4793" zpos="539.685" type="leag.lws4.sandswept.bonds.here.stonehoof" GUID="/QDZPc0R2EiZIhj9cIKbfQ=="/>
@@ -300,7 +300,6 @@
         <POI MapID="1271" xpos="-305.148" ypos="76.8057" zpos="-436.266" type="leag.lws4.sandswept.ig6417.reboot.raptor" GUID="Rad+z9gsgUWj2VHD2FSnAQ=="/>
         <POI MapID="1271" xpos="-142.17" ypos="57.9892" zpos="-599.536" type="leag.lws4.sandswept.ig6417.reboot.glider" GUID="9d0OYdDu3ESeM4ow90YpcA=="/>
         <POI MapID="1271" xpos="78.8911" ypos="61.6133" zpos="-654.648" type="leag.lws4.sandswept.ig6417.reboot.xd356.module" GUID="VRaY35HEakSNd3hyk7uewQ=="/>
-        <POI MapID="1271" xpos="92.9187" ypos="61.3648" zpos="-612.2" type="leag.lws4.sandswept.ig6417.reboot.glider" GUID="UXffSiDCoUKb1dz4tsu/lw=="/>
         <POI MapID="1271" xpos="31.5584" ypos="-1.16357" zpos="-478.591" type="leag.lws4.sandswept.ig6417.reboot.skimmer" GUID="Hk72N5RCeUuHpPI8LxEbRw=="/>
         <POI MapID="1271" xpos="163.825" ypos="4.7283" zpos="-256.297" type="leag.lws4.sandswept.ig6417.reboot.springer" GUID="sx5rnL9XsUWkPs8OjBOpoA=="/>
         <POI MapID="1271" xpos="319.409" ypos="84.6654" zpos="-329.963" type="leag.lws4.sandswept.ig6417.reboot.kl411.module" GUID="+HyZH5tJSUmxL2SnhP5Q7g=="/>
@@ -630,7 +629,6 @@
 
         <POI MapID="1301" xpos="838.457" ypos="124.551" zpos="-202.337" type="leag.lws4.jahai.fishy.talk" GUID="on/g5RayKEKuAVRrtGjQ0Q==" info="Talk to Lofa after completing the Heart&#xa;Enter Sun's Refuge from the East and visit the Waterfall" infoRange="5"/>
         <POI MapID="1294" xpos="-851.613" ypos="-1.05015" zpos="-438.482" type="leag.lws4.jahai.fishy.fish" GUID="Ut5i1W3oF0q94mAkGrj6Hg=="/>
-        <POI MapID="1294" xpos="-851.613" ypos="-1.05015" zpos="-438.482" type="leag.lws4.jahai.fishy.fish" GUID="Ut5i1W3oF0q94mAkGrj6Hg=="/>
         
         <Trail type="leag.lws4.jahai.fragments.sr" trailData="Data/LWS4/4. A Star to Guide Us/Fragments I Have Shored.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png"/>
         <POI MapID="1294" xpos="-756.928" ypos="11.5719" zpos="-500.158" type="leag.lws4.jahai.fragments.start" GUID="y2O9vd7F4U2BH+VUL34a3w=="/>
@@ -768,7 +766,7 @@
 
         <Trail type="leag.lws4.jahai.watchful.sr" trailData="Data/LWS4/Collections/Venta Pass WP to Sun's Refuge.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png"/>
         <Trail type="leag.lws4.jahai.watchful.sr" trailData="Data/LWS4/4. A Star to Guide Us/Watchful Eyes.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" color="93424E"/>
-        <POI MapID="1301" xpos="-847.069" ypos="68.819" zpos="99.8107" type="leag.lws4.jahai.watchful.start" GUID="pt7z7Rm0Y0+NW62rV20BFA=="/>
+        <POI MapID="1301" xpos="-847.069" ypos="68.819" zpos="99.8107" type="leag.lws4.jahai.watchful.start" GUID="6D5sKrA100qghMdOUGpUkg=="/>
         <POI MapID="1294" xpos="-871.982" ypos="50.4378" zpos="-215.304" type="leag.lws4.jahai.watchful.mount.springer" GUID="Xv1aNBY/QkSzzFPW/4kcng=="/>
         <POI MapID="1294" xpos="-875.236" ypos="72.9763" zpos="-224.938" type="leag.lws4.jahai.watchful.kneel" GUID="L3VN1srakUWvf0/xRDFfJg=="/>
         <POI MapID="1294" xpos="-897.095" ypos="72.9763" zpos="-250.844" type="leag.lws4.jahai.watchful.kneel" GUID="YuSAOfLDEESTDd1bUdTiaA=="/>
@@ -950,7 +948,7 @@
         <POI MapID="1301" xpos="739.426" ypos="69.2998" zpos="-343.561" type="leag.lws4.jahai.memorabilia.number.1" GUID="liYMG2idpkudt3PC4jqm4A=="/>
         <POI MapID="1301" xpos="731.13" ypos="69.1149" zpos="-346.722" type="leag.lws4.jahai.memorabilia.number.2" GUID="4ubSlLYry02z+kxQvv+eVA=="/>
         <POI MapID="1301" xpos="640.534" ypos="44.8916" zpos="-365.603" type="leag.lws4.jahai.memorabilia.talk" GUID="QtTafU4V2k6f8M7B8KzJhA=="/>
-        <POI MapID="1301" xpos="640.534" ypos="44.8916" zpos="-365.603" type="leag.lws4.jahai.memorabilia.wp" GUID="okIX/Ejx2EC4ZEqgbUgDmg==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint, Enter Sun's Refuge"/>
+        <POI MapID="1301" xpos="640.534" ypos="44.8916" zpos="-365.603" type="leag.lws4.jahai.memorabilia.wp" GUID="XiwKzbmlhkebk5jMilay6A==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint, Enter Sun's Refuge"/>
         <Trail type="leag.lws4.jahai.memorabilia.sr" trailData="Data/LWS4/Collections/Soul's Vendetta WP to Sun's Refuge.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png"/>
         <POI MapID="1301" xpos="-481.617" ypos="37.4592" zpos="-595.049" type="leag.lws4.jahai.memorabilia.number.3" GUID="p+vJm2g45E+kvRyToJBQ+g=="/>
         <POI MapID="1301" xpos="110.32" ypos="50.3622" zpos="-487.567" type="leag.lws4.jahai.memorabilia.emote.salute" GUID="AVRCo1+i2ESWiQt4nQTfMQ=="/>
@@ -1893,9 +1891,9 @@
         <Trail type="leag.lws4.dragonfall.raising.toys.lamp.dt" trailData="Data/LWS4/Collections/3. Raising Skyscales/Skyscale Toys 4.trl"/>
 
         <!-- 4. Troublesome Skyscales -->
-        <Trail type="leag.lws4.dragonfall.trouble.reflexes.sunspear" trailData="Data/LWS4/Collections/3. Raising Skyscales/Skyscale.trl"/>
-        <Trail type="leag.lws4.dragonfall.trouble.reflexes.sunspear" trailData="Data/LWS4/Collections/3. Raising Skyscales/Skyscale SR.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
-
+        <Trail type="leag.lws4.dragonfall.trouble.reflexes.sunspear" trailData="Data/LWS4/Collections/4. Troublesome Skyscales/Skyscale.trl"/>
+        <Trail type="leag.lws4.dragonfall.trouble.reflexes.sunspear" trailData="Data/LWS4/Collections/4. Troublesome Skyscales/Skyscale SR.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.lws4.dragonfall.trouble.reflexes.sunspear" trailData="Data/LWS4/Collections/4. Troublesome Skyscales/Skyscale Reflexes.trl"/>
         <POI MapID="1294" xpos="-878.34" ypos="50.4378" zpos="-222.62" type="leag.lws4.dragonfall.trouble.stealth.sunspear" GUID="MOQqiB9EjEKkGkodUy80xw=="/>
         <POI MapID="1294" xpos="-877.086" ypos="33.4808" zpos="-237.002" type="leag.lws4.dragonfall.trouble.stealth.sunspear" GUID="P25zXL7kZku1vPVpNGRM/Q=="/>
         <POI MapID="1294" xpos="-875.528" ypos="22.9767" zpos="-224.953" type="leag.lws4.dragonfall.trouble.stealth.sunspear" GUID="Mq6v/0Y3vUOcU1CqpBVzbA=="/>
