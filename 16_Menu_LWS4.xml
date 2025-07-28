@@ -295,6 +295,14 @@
                     <MarkerCategory name="vemyen" DisplayName="Branded djinn Vemyan" iconFile="Data/Images/Vemyen.png" mapDisplaySize="64" inGameVisibility="0" tip-name="Branded djinn Vemyan"/>
                 </MarkerCategory>
 
+                <MarkerCategory name="door" DisplayName="Door to the Past [H]" achievementId="4348" defaulttoggle="0">
+                    <MarkerCategory name="earth" DisplayName="Rune of the Earth" iconFile="Data/Images/Rune of the Earth.png" maxSize="32"/>
+                    <MarkerCategory name="seed" DisplayName="Rune of the Seed" iconFile="Data/Images/Rune of the Seed.png" maxSize="32"/>
+                    <MarkerCategory name="thorn" DisplayName="Rune of the Thorn" iconFile="Data/Images/Rune of the Thorn.png" maxSize="32"/>
+                    <MarkerCategory name="vine" DisplayName="Rune of the Vine" iconFile="Data/Images/Rune of the Vine.png" maxSize="32"/>
+                    <MarkerCategory name="wind" DisplayName="Rune of the Wind" iconFile="Data/Images/Rune of the Wind.png" maxSize="32"/>
+                </MarkerCategory>
+
                 <MarkerCategory name="ethereal" DisplayName="Ethereal Exchange [H]" iconFile="Data/Images/Emote - Kneel.png" maxSize="32" achievementId="4414" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64" inGameVisibility="0"/>                    
