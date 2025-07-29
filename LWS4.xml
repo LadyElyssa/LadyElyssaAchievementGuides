@@ -387,7 +387,7 @@
         <POI MapID="1210" xpos="702.88" ypos="128.271" zpos="132.647" type="leag.lws4.sandswept.ig6417.redeem.kormir.recording" GUID="sTEpImlIgEymh+vToqPa3A=="/>
         <Trail type="leag.lws4.sandswept.ig6417.redeem.olmakhan.si" trailData="Data/LWS4/Collections/Olmakhan Defense Recording.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1271" xpos="-176.965" ypos="1.71687" zpos="741.723" type="leag.lws4.sandswept.ig6417.redeem.olmakhan.event" GUID="AnyYoj3AVEGCRekk68Hhsg=="/>
-        <POI MapID="1271" xpos="474.3967" ypos="0.4602255" zpos="822.3364" type="leag.lws4.sandswept.ig6417.redeem.olmakhan.recording" GUID="IRFAKjV0V0uFj+8GPcNzUQ=="/>
+        <POI MapID="1271" xpos="474.3967" ypos="0.4602255" zpos="822.3364" type="leag.lws4.sandswept.ig6417.redeem.olmakhan.recording" GUID="WvP4XjbpSk6aU7KWNLKyfg=="/>
         <Trail type="leag.lws4.sandswept.ig6417.redeem.elonian.dov" trailData="Data/LWS4/Collections/Elonian Defense Recording.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
         <POI MapID="1248" xpos="-867.665" ypos="180.763" zpos="-618.279" type="leag.lws4.sandswept.ig6417.redeem.elonian.recording" GUID="b4r0GFbiS0CdOEw2qgddoQ=="/>
         <POI MapID="1248" xpos="-936.538" ypos="179.072" zpos="-715.607" type="leag.lws4.sandswept.ig6417.redeem.elonian.sidan" GUID="AQTkEgqBzkO2eRxQi6sdTQ=="/>
@@ -906,7 +906,7 @@
         <POI MapID="1226" xpos="768.875" ypos="272.177" zpos="566.099" type="leag.lws4.jahai.sand.mount.springer" GUID="MrsThZgiQEyoe1TTRM6nGg=="/>
 
         <Trail type="leag.lws4.jahai.nest.sr" trailData="Data/LWS4/Collections/Soul's Vendetta WP to Sun's Refuge.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png"/>
-        <POI MapID="1301" xpos="-374.623" ypos="50.7408" zpos="-682.107" type="leag.lws4.jahai.sand.start" GUID="pt7z7Rm0Y0+NW62rV20BFA=="/>
+        <POI MapID="1301" xpos="-374.623" ypos="50.7408" zpos="-682.107" type="leag.lws4.jahai.sand.start" GUID="gWWevX5rdkmno5p1I+zEiw=="/>
         <Trail type="leag.lws4.jahai.nest.sr" trailData="Data/LWS4/Collections/Good, Better, Nest 1.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" color="92FF84"/>
         <Trail type="leag.lws4.jahai.nest.sr" trailData="Data/LWS4/Collections/Good, Better, Nest 2.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="92FF84"/>
         <Trail type="leag.lws4.jahai.nest.sr" trailData="Data/LWS4/Collections/Good, Better, Nest 3.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="92FF84"/>
@@ -1046,34 +1046,61 @@
         <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
         <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 2b.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
         <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 2c.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FFA27F"/>
-        <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
-        <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 4.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
         <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 5.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
+        <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 6.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
+        <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 7.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
+        <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 8.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
+        <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 11.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
+        <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 12.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
+
+        <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 13.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
+        <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 14.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
+        <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 15.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
+        <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 16.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
+        <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 17.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
+
         <Trail type="leag.lws4.jahai.elegy" trailData="Data/LWS4/Collections/The Convergence of Sorrow I/Elegy 18.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="FFA27F"/>
+        <POI MapID="1301" xpos="-373.898" ypos="50.9024" zpos="-678.503" type="leag.lws4.jahai.elegy.start" GUID="EDXmItOeoki2NFuWLj4ZOw=="/>
         <POI MapID="1294" xpos="-1056.41" ypos="24.6555" zpos="-442.303" type="leag.lws4.jahai.elegy.talk" GUID="0698TPSNz0SL6nUyCNDy2g=="/>
-        <POI MapID="1294" xpos="-1055.989" ypos="22.24216" zpos="-444.8415" type="leag.lws4.jahai.elegy.wp" GUID="7/ok5eQI+UOePyXi44Zg3g==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
+        <POI MapID="1294" xpos="-1055.989" ypos="22.24216" zpos="-444.8415" type="leag.lws4.jahai.elegy.wp" GUID="7/ok5eQI+UOePyXi44Zg3g==" copy="2. [&BJMLAAA=] - 5. [&BJkLAAA=]" copy-message="2. Venta Pass Waypoint&#xa;5. Reclaimed Chantry Waypoint"/>
         <POI MapID="1301" xpos="-892.403" ypos="72.0099" zpos="152.44" type="leag.lws4.jahai.elegy.wp" GUID="3/6NuWpy9EyWQNkXZDbynQ==" info="TALK to Eladaar" infoRange="5"/>
-        <POI MapID="1294" xpos="-1055.75" ypos="22.2717" zpos="-439.05" type="leag.lws4.jahai.elegy.wp" GUID="csTdEXg51EesP8CXrokRuw==" copy="5. [&BJkLAAA=]" copy-message="5. Reclaimed Chantry Waypoint"/>
+        <POI MapID="1294" xpos="-1055.75" ypos="22.2717" zpos="-439.05" type="leag.lws4.jahai.elegy.wp" GUID="csTdEXg51EesP8CXrokRuw==" copy="11.[&BIMLAAA=] - 12,16.[&BH4LAAA=] - 13,14.[&BJkLAAA=] - 15,17.[&BJMLAAA=]" copy-message="11. Soul's Vendetta WP&#xa;12, 16. Yatendi Village WP&#xa;13, 14. Reclaimed Chantry WP&#xa;15, 17. Venta Pass WP"/>
         <POI MapID="1301" xpos="1161.58" ypos="122.887" zpos="686.786" type="leag.lws4.jahai.elegy.wp" GUID="aWjOJzwcDU62zl/BSInrhQ==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
         <POI MapID="1301" xpos="1157.5" ypos="123.501" zpos="683.363" type="leag.lws4.jahai.elegy.talk" GUID="2p3EZ8YjQ0SH6V7tOg+Q5Q=="/>
         <POI MapID="1301" xpos="1162.82" ypos="124.428" zpos="687.141" type="leag.lws4.jahai.elegy.talk" GUID="P3n4mFrwrEWpo2KoZh9m8A=="/>
-        <POI MapID="1301" xpos="-843.548" ypos="71.1166" zpos="112.117" type="leag.lws4.jahai.elegy.number.2" GUID="ZJ3IpLe4tk68y+NbtusKJw=="/>
         <POI MapID="1301" xpos="-371.547" ypos="50.9027" zpos="-675.276" type="leag.lws4.jahai.elegy.number.1" GUID="TgaXgQe54UCmvktKjxMQrA=="/>
-        <POI MapID="1301" xpos="561.859" ypos="140.724" zpos="927.955" type="leag.lws4.jahai.elegy.number.3" GUID="P9JX7zZxKkKxJ07CpZFo2w=="/>
-        <POI MapID="1301" xpos="-842.384" ypos="71.1206" zpos="113.424" type="leag.lws4.jahai.elegy.number.4" GUID="ofj3iHvN8kenEfLsKt4gjQ=="/>
+        <POI MapID="1301" xpos="-843.548" ypos="71.1166" zpos="112.117" type="leag.lws4.jahai.elegy.number.2" GUID="ZJ3IpLe4tk68y+NbtusKJw=="/>
+        <POI MapID="1301" xpos="562.2749" ypos="140.6137" zpos="928.3824" type="leag.lws4.jahai.elegy.number.5" GUID="P9JX7zZxKkKxJ07CpZFo2w=="/>
+        <POI MapID="1301" xpos="-842.384" ypos="71.1206" zpos="113.424" type="leag.lws4.jahai.elegy.number.7" GUID="ofj3iHvN8kenEfLsKt4gjQ=="/>
+        <POI MapID="1301" xpos="-844.253" ypos="70.5385" zpos="105.797" type="leag.lws4.jahai.elegy.number.10" GUID="GWQS1YYikkykA2nxWpJ1Ag=="/>
+        <POI MapID="1301" xpos="-361.475" ypos="50.8955" zpos="-668.768" type="leag.lws4.jahai.elegy.number.11" GUID="VJ2O7tR2I0yHQNKT5zvgVw=="/>
+        <POI MapID="1301" xpos="732.946" ypos="68.9967" zpos="-341.76" type="leag.lws4.jahai.elegy.number.12" GUID="CRLzcRflyEmpqE96wBWzyg=="/>
+        <POI MapID="1301" xpos="561.874" ypos="140.814" zpos="927.346" type="leag.lws4.jahai.elegy.number.13" GUID="FpkaohIymEmZJj4AzujaJg=="/>
+        <POI MapID="1301" xpos="562.605" ypos="140.467" zpos="929.468" type="leag.lws4.jahai.elegy.number.14" GUID="mqi0vjbsVk2DlcwKSG2v1A=="/>
+        <POI MapID="1301" xpos="-838.08" ypos="71.1663" zpos="114.993" type="leag.lws4.jahai.elegy.number.15" GUID="KgT+59WkN0SY9WmuoApFKA=="/>
+        <POI MapID="1301" xpos="730.004" ypos="69.0972" zpos="-345.873" type="leag.lws4.jahai.elegy.number.16" GUID="KJqEIVhFSkOYfyWw5E0e3g=="/>
         <POI MapID="1301" xpos="-915.68" ypos="60.5756" zpos="376.524" type="leag.lws4.jahai.elegy.mount.springer" GUID="i03GrbnC106srham8Yd4JQ=="/>
         <POI MapID="1301" xpos="-941.109" ypos="80.8758" zpos="417.631" type="leag.lws4.jahai.elegy.mount.springer" GUID="2nhLCNpNk0G0pkmRdz9kdw=="/>
         <POI MapID="1301" xpos="-958.078" ypos="41.3441" zpos="195.702" type="leag.lws4.jahai.elegy.wp" GUID="1UdcBQu+MEyEysTE1v08Lw==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira in Sun's Refuge"/>
         <POI MapID="1301" xpos="-957.797" ypos="43.0757" zpos="193.286" type="leag.lws4.jahai.elegy.talk" GUID="qs7/TtYnJE28i2fqYOyaZg=="/>
         <POI MapID="1294" xpos="-1059.57" ypos="22.43295" zpos="-440.8308" type="leag.lws4.jahai.elegy" GUID="H5ZsW3vMa0Gm3QUdi/bNgQ==" iconFile="Data/Images/Commission.png" maxSize="128"/>
-        <POI MapID="1301" xpos="-844.253" ypos="70.5385" zpos="105.797" type="leag.lws4.jahai.elegy.number.5" GUID="GWQS1YYikkykA2nxWpJ1Ag=="/>
-        <POI MapID="1301" xpos="68.8746" ypos="32.2108" zpos="-712.772" type="leag.lws4.jahai.elegy.memorial.wp" GUID="dL3cXYNuPUeIP1s96JgMrw==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="574.696" ypos="50.4304" zpos="-228.369" type="leag.lws4.jahai.elegy.memorial.wp" GUID="kvfqhBhGVkeY52dbtBp0Ag==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="315.671" ypos="125.621" zpos="359.335" type="leag.lws4.jahai.elegy.memorial.wp" GUID="+rHWq6/+oEGz7ZwpE0f8ZQ==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="856.629" ypos="123.409" zpos="791.593" type="leag.lws4.jahai.elegy.memorial.wp" GUID="edtR7Tg1Qk+5LPB99moKBA==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="-495.917" ypos="70.3961" zpos="533.1" type="leag.lws4.jahai.elegy.memorial.wp" GUID="6wkUHQwRg0CAq/JsfHqAeQ==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="71.1552" ypos="55.8527" zpos="-46.9456" type="leag.lws4.jahai.elegy.memorial.wp" GUID="DKhUid6YOkeTFFJokLmcdg==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="-894.95" ypos="73.3676" zpos="154.298" type="leag.lws4.jahai.elegy.memorial.wp" GUID="kr6g8+mOH0mMkjQu/Zs/3Q==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint&#xa;Return to Amira"/>
+        
+        <POI MapID="1301" xpos="68.8746" ypos="32.2108" zpos="-712.772" type="leag.lws4.jahai.elegy.memorial.icon" GUID="dL3cXYNuPUeIP1s96JgMrw==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="574.696" ypos="50.4304" zpos="-228.369" type="leag.lws4.jahai.elegy.memorial.icon" GUID="kvfqhBhGVkeY52dbtBp0Ag==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="315.671" ypos="125.621" zpos="359.335" type="leag.lws4.jahai.elegy.memorial.icon" GUID="+rHWq6/+oEGz7ZwpE0f8ZQ==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="856.629" ypos="123.409" zpos="791.593" type="leag.lws4.jahai.elegy.memorial.icon" GUID="edtR7Tg1Qk+5LPB99moKBA==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="-495.917" ypos="70.3961" zpos="533.1" type="leag.lws4.jahai.elegy.memorial.icon" GUID="6wkUHQwRg0CAq/JsfHqAeQ==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="71.1552" ypos="55.8527" zpos="-46.9456" type="leag.lws4.jahai.elegy.memorial.icon" GUID="DKhUid6YOkeTFFJokLmcdg==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="-894.95" ypos="73.3676" zpos="154.298" type="leag.lws4.jahai.elegy.memorial.icon" GUID="kr6g8+mOH0mMkjQu/Zs/3Q==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+
+        <POI MapID="1301" xpos="68.8746" ypos="32.2108" zpos="-712.772" type="leag.lws4.jahai.elegy.memorial.wp" GUID="7fgVvBiIcEuFURSGt9S8cw==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="574.696" ypos="50.4304" zpos="-228.369" type="leag.lws4.jahai.elegy.memorial.wp" GUID="IxXHl8bhREOIEsnUeyuv4g==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="315.671" ypos="125.621" zpos="359.335" type="leag.lws4.jahai.elegy.memorial.wp" GUID="KOzmx6SKWkWsmjPO26ZRPg==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="856.629" ypos="123.409" zpos="791.593" type="leag.lws4.jahai.elegy.memorial.wp" GUID="chbA2jX/U0K8DUI2TuHUPQ==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="-495.917" ypos="70.3961" zpos="533.1" type="leag.lws4.jahai.elegy.memorial.wp" GUID="4JsPVto6hkanJSc3az5MGg==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="71.1552" ypos="55.8527" zpos="-46.9456" type="leag.lws4.jahai.elegy.memorial.wp" GUID="IruRadimJUmJr+w6+rbXXA==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="-894.95" ypos="73.3676" zpos="154.298" type="leag.lws4.jahai.elegy.memorial.wp" GUID="LGIzEFsLJ0G/CYSskg8Isg==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+
         <POI MapID="1301" xpos="-350.5456" ypos="50.87579" zpos="-631.1685" type="leag.lws4.jahai.elegy" GUID="sOKsHe36qEOtgANVmhYz5Q==" iconFile="Data/Images/Icons/Eladaar.png" inGameVisibility="0" mapDisplaySize="32" tip-name="Invitation" tip-description="Eladaar"/>
         <POI MapID="1301" xpos="-349.391" ypos="50.6218" zpos="-632.186" type="leag.lws4.jahai.elegy.wp" GUID="QC6FU+gWZE61pzF9xVxrfg==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
 

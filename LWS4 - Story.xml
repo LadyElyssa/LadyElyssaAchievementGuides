@@ -136,7 +136,7 @@
 
         <Trail type="leag.lws4.story.primus.damos" trailData="Data/LWS4/2. A Bug in the System/Damos Isle Lab.trl" color="99FF33"/>
         <Trail type="leag.lws4.story.primus.eastern" trailData="Data/LWS4/2. A Bug in the System/Eastern Complex Lab.trl" color="99FF33"/>
-        <Trail type="leag.lws4.story.primus." trailData="Data/LWS4/2. A Bug in the System/Invariant Enclave Lab 1.trl" color="99FF33"/>
+        <Trail type="leag.lws4.story.primus.invariant" trailData="Data/LWS4/2. A Bug in the System/Invariant Enclave Lab 1.trl" color="99FF33"/>
         <Trail type="leag.lws4.story.primus.invariant" trailData="Data/LWS4/2. A Bug in the System/Invariant Enclave Lab 2.trl" color="3399FF"/>
         <Trail type="leag.lws4.story.primus.invariant" trailData="Data/LWS4/2. A Bug in the System/Invariant Enclave Lab 3.trl" color="FF9933"/>
         <Trail type="leag.lws4.story.primus.invariant" trailData="Data/LWS4/2. A Bug in the System/Invariant Enclave Lab 4.trl" color="99FF33"/>
