@@ -510,17 +510,26 @@
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32"/>
                     <MarkerCategory name="interact" DisplayName="Interact" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="20" mapDisplaySize="32" heightOffset="-0.5"/>
-                    <MarkerCategory name="memorial" DisplayName="Awakened Memorial" iconFile="Data/Images/Icons/Awakened Memorial.png" maxSize="20" mapDisplaySize="32" inGameVisibility="0">
+                    <MarkerCategory name="memorial">
+                        <MarkerCategory name="icon" DisplayName="Awakened Memorial" iconFile="Data/Images/Icons/Awakened Memorial.png" mapDisplaySize="32" inGameVisibility="0"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
                     </MarkerCategory>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                     <MarkerCategory name="number" DisplayName="Path Number" MaxSize="32">
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                         <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
                         <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
                         <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
+                        <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png"/>
+                        <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/Images/Numbers/11.png"/>
+                        <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/Images/Numbers/12.png"/>
+                        <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/Images/Numbers/13.png"/>
+                        <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/Images/Numbers/14.png"/>
+                        <MarkerCategory name="15" DisplayName="Fifteen" iconFile="Data/Images/Numbers/15.png"/>
+                        <MarkerCategory name="16" DisplayName="Sixteen" iconFile="Data/Images/Numbers/16.png"/>
+                        <MarkerCategory name="18" DisplayName="Eighteen" iconFile="Data/Images/Numbers/18.png"/>
                     </MarkerCategory>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
