@@ -137,6 +137,14 @@
         <POI MapID="1043" xpos="121.354" ypos="177.352" zpos="177.38" type="leag.hot.ab.study.glider" GUID="mHTALUi6NE21nimcaMfbvA=="/>
         <POI MapID="1043" xpos="39.1887" ypos="234.502" zpos="-219.037" type="leag.hot.ab.study.glider" GUID="K9iwKj7qmUCQDRmI+iCY7Q=="/>
         <POI MapID="1043" xpos="40.1858" ypos="116.681" zpos="-9.3931" type="leag.hot.ab.study.glider" GUID="gHK+WnqoTUSAyu5DSW0U1Q=="/>
+        <Trail type="leag.hot.ab.study" trailData="Data/HoT/A Study in Gold 16.trl"/>
+        <POI MapID="1043" xpos="-360.172" ypos="270.437" zpos="242.572" type="leag.hot.ab.study.1" GUID="11aJ5kSlPUeuGkfmDtFdUw=="/>
+        <POI MapID="1043" xpos="54.035" ypos="332.033" zpos="472.178" type="leag.hot.ab.study.2" GUID="cnG/Xm1RpkWxB1doMJqsog=="/>
+        <POI MapID="1043" xpos="447.523" ypos="291.468" zpos="70.2651" type="leag.hot.ab.study.3" GUID="flyepSoGkkey58j9XvtVJQ=="/>
+        <POI MapID="1043" xpos="-43.703" ypos="268.008" zpos="-403.668" type="leag.hot.ab.study.4" GUID="nyol4rpp1UaJj1UYGoELIQ=="/>
+        <POI MapID="1043" xpos="11.1308" ypos="71.4764" zpos="-22.4868" type="leag.hot.ab.study.5" GUID="n1gN/lHRdUatrFAodHopdg=="/>
+        <POI MapID="1043" xpos="458.658" ypos="292.074" zpos="74.5378" type="leag.hot.ab.study.6" GUID="76arsXDwNkSr/MsTt2NARQ=="/>
+        <POI MapID="1043" xpos="6.40871" ypos="21.1649" zpos="212.591" type="leag.hot.ab.study.wp" GUID="XREr2XIpMUOUZLRg2BT1Ew==" copy="[&BGwIAAA=]" copy-message="Eastwatch Waypoint"/>
 
         <!-- Egg Bearer -->
         <Trail type="leag.hot.ab.bearer" trailData="Data/HoT/Egg Bearer.trl"/>
