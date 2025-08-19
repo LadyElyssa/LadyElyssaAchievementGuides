@@ -306,10 +306,26 @@
         -->
         
         <!-- Memories in Your Hand -->
-        <Trail type="leag.lws1.story.memories" trailData="Data/LWS1/5. The Battle for Lion's Arch/Memories in Your Hand Alt 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
-        <Trail type="leag.lws1.story.memories" trailData="Data/LWS1/5. The Battle for Lion's Arch/Memories in Your Hand Alt 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
-        <Trail type="leag.lws1.story.memories" trailData="Data/LWS1/5. The Battle for Lion's Arch/Memories in Your Hand.trl"/>
+        <Trail type="leag.lws1.story.memories" trailData="Data/LWS1/5. The Battle for Lion's Arch/Memories in Your Hand - Story.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
         <POI MapID="973" xpos="-152.77" ypos="19.7797" zpos="400.399" type="leag.lws1.story.memories.heirloom" GUID="DCE+DPeKiEa5BQITrZggsw=="/>
+        <POI MapID="973" xpos="-23.7385" ypos="2.25501" zpos="186.969" type="leag.lws1.story.memories.heirloom" GUID="sx+2aaw0okq20HBi6uAf3w=="/>
+        <POI MapID="973" xpos="-38.1338" ypos="51.1429" zpos="340.888" type="leag.lws1.story.memories.heirloom" GUID="c1mb/OYFo0awY+DBDqTCgg=="/>
+        <POI MapID="973" xpos="113.74" ypos="0.703769" zpos="314.637" type="leag.lws1.story.memories.heirloom" GUID="m82vw9ONf0CNiDoFzVNLZA=="/>
+        <POI MapID="973" xpos="178.964" ypos="48.1235" zpos="233.855" type="leag.lws1.story.memories.heirloom" GUID="ry1P7xFDbUqeer4hS1hSyQ=="/>
+        <POI MapID="973" xpos="275.2" ypos="1.97048" zpos="361.297" type="leag.lws1.story.memories.heirloom" GUID="GoeYE+ZYCEaOo7GrPyu97w=="/>
+        <POI MapID="973" xpos="575.045" ypos="38.5209" zpos="394.783" type="leag.lws1.story.memories.heirloom" GUID="UfTcQ0cJHUOXQ54V4PIvpQ=="/>
+        <POI MapID="973" xpos="661.946" ypos="26.9352" zpos="243.191" type="leag.lws1.story.memories.heirloom" GUID="1shn+YAf0U6FnmGbH+OxKw=="/>
+        <POI MapID="973" xpos="610.52" ypos="2.37679" zpos="278.157" type="leag.lws1.story.memories.heirloom" GUID="OyDbtnvsGEioRjF3rKP1fg=="/>
+        <POI MapID="973" xpos="551.755" ypos="28.6659" zpos="183.108" type="leag.lws1.story.memories.heirloom" GUID="dHAGMaYaFU2W+pAfhiQKwA=="/>
+        <POI MapID="973" xpos="510.234" ypos="31.4079" zpos="83.3648" type="leag.lws1.story.memories.heirloom" GUID="69DjG3hYqkOm1X9HwXau1w=="/>
+        <POI MapID="973" xpos="434.188" ypos="0.376877" zpos="-25.2838" type="leag.lws1.story.memories.heirloom" GUID="fbO1s5YceU6P3H0AQW8lqA=="/>
+        <POI MapID="973" xpos="250.298" ypos="34.4138" zpos="-374.594" type="leag.lws1.story.memories.heirloom" GUID="8VRRRgoDhEqzK/Prcf54zA=="/>
+        <POI MapID="973" xpos="229.401" ypos="5.63916" zpos="-123.197" type="leag.lws1.story.memories.heirloom" GUID="F5ktJJFPKkS/whfWVrrlWg=="/>
+
+        <Trail type="leag.lws1.la.memories" trailData="Data/LWS1/5. The Battle for Lion's Arch/Memories in Your Hand Alt 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.lws1.la.memories" trailData="Data/LWS1/5. The Battle for Lion's Arch/Memories in Your Hand Alt 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.lws1.la.memories" trailData="Data/LWS1/5. The Battle for Lion's Arch/Memories in Your Hand.trl"/>
+        
 
         <!-- Please Follow Me to the Exit -->
         <POI MapID="973" xpos="-176.443" ypos="-0.266763" zpos="248.268" type="leag.lws1.story.exit" GUID="HjK/AiB1mUSSFiH1yPlYng=="/>
