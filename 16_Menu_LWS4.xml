@@ -529,7 +529,7 @@
                         <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/Images/Numbers/14.png"/>
                         <MarkerCategory name="15" DisplayName="Fifteen" iconFile="Data/Images/Numbers/15.png"/>
                         <MarkerCategory name="16" DisplayName="Sixteen" iconFile="Data/Images/Numbers/16.png"/>
-                        <MarkerCategory name="18" DisplayName="Eighteen" iconFile="Data/Images/Numbers/18.png"/>
+                        <MarkerCategory name="17" DisplayName="Seventeen" iconFile="Data/Images/Numbers/17.png"/>
                     </MarkerCategory>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>

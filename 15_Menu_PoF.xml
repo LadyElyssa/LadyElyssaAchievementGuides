@@ -194,7 +194,7 @@
 
                 <MarkerCategory name="night" DisplayName="Night Lights" achievementId="3654" iconFile="Data/Images/Night Lights.png" mapDisplaySize="48"/>
 
-                <MarkerCategory name="rune" DisplayName="Rune-Locked Doors" achievementId="3583">
+                <MarkerCategory name="rune" DisplayName="Rune-Locked Doors">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>

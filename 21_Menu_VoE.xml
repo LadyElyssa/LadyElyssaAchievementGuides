@@ -1,0 +1,90 @@
+<OverlayData>
+    <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" mapDisplaySize="16">
+        <!--
+        <MarkerCategory name="voe" DisplayName="Visions of Eternity">
+        
+            <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
+                
+                <MarkerCategory name="prologue" IsSeparator="1" DisplayName="PROLOGUE: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch1" IsSeparator="1" DisplayName="Chapter 1: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+                
+                <MarkerCategory name="ch2" IsSeparator="1" DisplayName="Chapter 2: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch3" IsSeparator="1" DisplayName="Chapter 3: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+                
+                <MarkerCategory name="ch4" IsSeparator="1" DisplayName="Chapter 4: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="Chapter 5: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch6" IsSeparator="1" DisplayName="Chapter 6: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch7" IsSeparator="1" DisplayName="Chapter 7: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch8" IsSeparator="1" DisplayName="Chapter 8: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch9" IsSeparator="1" DisplayName="Chapter 9: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch10" IsSeparator="1" DisplayName="Chapter 10: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch11" IsSeparator="1" DisplayName="Chapter 11: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch12" IsSeparator="1" DisplayName="Chapter 12: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch13" IsSeparator="1" DisplayName="Chapter 13: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch14" IsSeparator="1" DisplayName="Chapter 14: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch15" IsSeparator="1" DisplayName="Chapter 15: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch16" IsSeparator="1" DisplayName="Chapter 16: "/>
+                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+
+            </MarkerCategory>
+            
+
+            <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
+
+            <MarkerCategory name="map1" DisplayName="Map One">
+
+            <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
+                <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                </MarkerCategory>
+                <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/n1.png" inGameVisibility="0"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/n2.png" inGameVisibility="0"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/n3.png" inGameVisibility="0"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/n4.png" inGameVisibility="0"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/n5.png" inGameVisibility="0"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/n6.png" inGameVisibility="0"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/n7.png" inGameVisibility="0"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/n8.png" inGameVisibility="0"/>
+            </MarkerCategory>
+
+        </MarkerCategory>
+        -->
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's AP Guides -->
+</OverlayData>

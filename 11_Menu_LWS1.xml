@@ -28,8 +28,8 @@
 
                 <MarkerCategory name="ch2" IsSeparator="1" DisplayName="CHAPTER 2: Sky Pirates of Tyria"/>
 
-                <MarkerCategory name="aether" DisplayName="Aether Investigation" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" MapDisplaySize="32" achievementId="665"/>
-                <MarkerCategory name="asset" DisplayName="Asset Recovery" iconFile="Data/Images/Icons/Chests - Asura.png" behavior="3" inGameVisibility="0" MapDisplaySize="32" achievementId="665"/>
+                <MarkerCategory name="aether" DisplayName="Aether Investigation" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" MapDisplaySize="32" achievementId="6577"/>
+                <MarkerCategory name="asset" DisplayName="Asset Recovery" iconFile="Data/Images/Icons/Chests - Asura.png" behavior="3" inGameVisibility="0" MapDisplaySize="32" achievementId="6561"/>
                 <MarkerCategory name="brute" DisplayName="Don't be Rude to the Brute" iconFile="Data/Images/Emote - Salute.png" achievementId="679"/>
                 <MarkerCategory name="epm" DisplayName="Every Piece Matters" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" MapDisplaySize="32" achievementId="665"/>
                 <MarkerCategory name="istudy2" DisplayName="Investigative Study 2" achievementId="6560">
@@ -121,8 +121,8 @@
                 </MarkerCategory>
 
                 <!-- Memories in Your Hand -->
-                <MarkerCategory name="memories" DisplayName="Memories in Your Hand" achievementId="1396" texture="Data/Images/Trails/Trail Pointer - Small.png">
-                    <MarkerCategory name="heirloom" DisplayName="Heirloom" iconFile="Data/Images/Icons/Heirloom.png" inGameVisibility="0" MapDisplaySize="32" behavior="3"/>
+                <MarkerCategory name="memories" DisplayName="Memories in Your Hand (Story &amp; Public Instance)" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                    <MarkerCategory name="heirloom" DisplayName="Heirloom" iconFile="Data/Images/Icons/Heirloom.png" inGameVisibility="0" MapDisplaySize="24" behavior="3"/>
                 </MarkerCategory>
 
                 <!-- Please Follow Me to the Exit -->
@@ -149,7 +149,10 @@
 
             <MarkerCategory name="la" DisplayName="Lion's Arch">
                 <MarkerCategory name="memorial" DisplayName="Molten Memorial" achievementId="6548">
-                    <MarkerCategory name="drawing" DisplayName="Crude Drawing" iconFile="Data/Images/Icons/Talk.png" heightOffset="4.0" MapDisplaySize="32"/>
+                    <MarkerCategory name="drawing" DisplayName="Crude Drawing" iconFile="Data/Images/Icons/Talk.png" heightOffset="4.0" MapDisplaySize="24"/>
+                </MarkerCategory>
+                <MarkerCategory name="memories" DisplayName="Memories in Your Hand (Story &amp; Public Instance)" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                    <MarkerCategory name="heirloom" DisplayName="Heirloom" iconFile="Data/Images/Icons/Heirloom.png" inGameVisibility="0" MapDisplaySize="32" behavior="3"/>
                 </MarkerCategory>
             </MarkerCategory>
 

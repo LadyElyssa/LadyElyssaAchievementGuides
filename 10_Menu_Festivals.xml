@@ -7,9 +7,9 @@
             <MarkerCategory name="lc"     IsSeparator="1" DisplayName="  : Labyrinthine Cliffs"/>
             <MarkerCategory name="aspect" DisplayName="Aspect Gatherer">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <!--
+                <MarkerCategory name="dash" DisplayName="Light Dash" iconFile="Data/Images/Festivals/Light Dash.png" heightOffset="0" maxSize="24" alpha="1.0"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-                -->
+                
                 <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -19,7 +19,11 @@
             </MarkerCategory>
             <MarkerCategory name="barnstorming" DisplayName="Barnstorming the Cliffs (Griffon Master)" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
             <MarkerCategory name="bundle" DisplayName="Bundle Plunderer (Treasure Hunt Event)"/>
-            <MarkerCategory name="dolyak" DisplayName="Dolyak Flyer" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+            <MarkerCategory name="dolyak" DisplayName="Dolyak Flyer" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                <MarkerCategory name="leap" DisplayName="Assisted Leap" iconFile="Data/Images/Festivals/Assisted Leap.png" heightOffset="0" maxSize="24" alpha="1.0"/>
+                <MarkerCategory name="dash" DisplayName="Light Dash" iconFile="Data/Images/Festivals/Light Dash.png" heightOffset="0" maxSize="24" alpha="1.0"/>
+                <MarkerCategory name="pull" DisplayName="Lightning Pull" iconFile="Data/Images/Festivals/Lightning Pull.png" heightOffset="0" maxSize="24" alpha="1.0"/>
+            </MarkerCategory>
             <MarkerCategory name="effigy" DisplayName="Effigy Extinguisher"/>
             <MarkerCategory name="man" DisplayName="Man Overboard (Diving Goggles)">
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -44,7 +48,7 @@
 
             <MarkerCategory name="qp"     IsSeparator="1" DisplayName="  : Queens Pavilion"/>
             <MarkerCategory name="bb" DisplayName="Bandit's Bane" inGameVisibility="0"/>
-            <MarkerCategory name="bbbbb" DisplayName="Boss Blitz: Beat Boom-Boom" iconFile="Data/Images/Festivals/Boom-Boom.png" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="bbbbb" DisplayName="Boss Blitz: Boom-Boom Baines" iconFile="Data/Images/Festivals/Boom-Boom.png" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="bbhh" DisplayName="Boss Blitz: Halt Hablion" iconFile="Data/Images/Festivals/Halt Hablion.png" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="bbkk" DisplayName="Boss Blitz: Kill Kuraii" iconFile="Data/Images/Festivals/Kill Kuraii.png" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="bbpop" DisplayName="Boss Blitz: Put Out Pyroxis" iconFile="Data/Images/Festivals/Put Out Pyroxis.png" inGameVisibility="0" mapDisplaySize="64"/>
