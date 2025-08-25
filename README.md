@@ -70,7 +70,13 @@ This pack currently covers:
 * Domain of Vabbi
 
 ## Living World Season 4 - Rise of Kralkatorrik ##
-* Work in Progress
+* Story Achievements
+* Domain of Istan
+* Sandswept Isles
+* Domain of Kourna
+* Jahai Bluffs
+* Thunderhead Peaks
+* Dragonfall
   
 ## Living World Season 5 - The Icebrood Saga
 * Work in Progress
