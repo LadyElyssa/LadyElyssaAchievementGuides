@@ -110,6 +110,7 @@
         <POI MapID="1043" xpos="586.549" ypos="246.546" zpos="185.721" type="leag.hot.ab.vrs.strongbox" GUID="t5/qZy/hTUucH8m4+gdfHA=="/>
 
         <!-- A Study in Gold -->
+        
         <Trail type="leag.hot.ab.study" trailData="Data/HoT/A Study in Gold 0.trl"/>
         <Trail type="leag.hot.ab.study" trailData="Data/HoT/A Study in Gold 1.trl"/>
         <Trail type="leag.hot.ab.study" trailData="Data/HoT/A Study in Gold 2.trl"/>
@@ -145,6 +146,7 @@
         <POI MapID="1043" xpos="11.1308" ypos="71.4764" zpos="-22.4868" type="leag.hot.ab.study.5" GUID="n1gN/lHRdUatrFAodHopdg=="/>
         <POI MapID="1043" xpos="458.658" ypos="292.074" zpos="74.5378" type="leag.hot.ab.study.6" GUID="76arsXDwNkSr/MsTt2NARQ=="/>
         <POI MapID="1043" xpos="6.40871" ypos="21.1649" zpos="212.591" type="leag.hot.ab.study.wp" GUID="XREr2XIpMUOUZLRg2BT1Ew==" copy="[&BGwIAAA=]" copy-message="Eastwatch Waypoint"/>
+
 
         <!-- Egg Bearer -->
         <Trail type="leag.hot.ab.bearer" trailData="Data/HoT/Egg Bearer.trl"/>
