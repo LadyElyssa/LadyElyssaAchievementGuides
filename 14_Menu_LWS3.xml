@@ -74,7 +74,7 @@
                 <MarkerCategory name="vigil" DisplayName="The Vigil Way" achievementId="3308"/>
                 <MarkerCategory name="whispers" DisplayName="The Whispers Way" achievementId="3374"/>
 
-                <MarkerCategory name="chief" DisplayName="Upper City Security Chief" iconFile="Data/Images/Icons/Orb - Blue - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32" achievementId="3329" minimapVisibility="0" mapVisibility="0" achievementId="3329"/>
+                <MarkerCategory name="chief" DisplayName="Upper City Security Chief" iconFile="Data/Images/Icons/Orb - Blue - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32" achievementId="3329" minimapVisibility="0" mapVisibility="0"/>
 
                 <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: Flashpoint"/>
                 <MarkerCategory name="arrival" DisplayName="Arrival and Survival" achievementId="3401"/>

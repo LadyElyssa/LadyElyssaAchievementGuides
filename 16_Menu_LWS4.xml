@@ -119,6 +119,7 @@
                 <MarkerCategory name="lost" DisplayName="Lost to Time" achievementId="3995">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
+                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/Images/Icons/Finish.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                     <MarkerCategory name="cache" DisplayName="Toggle Sunspear Cache" iconFile="Data/Images/Icons/Sunspear Cache.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
@@ -902,7 +903,7 @@
             <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks">
 
                 <MarkerCategory name="shatterer" DisplayName="A Different Kind of Shatterer" iconFile="Data/Images/Icons/Branded Crystal.png" mapDisplaySize="32" inGameVisibility="0" achievementId="4604" tip-name="EVENT: A Different Kind of Shatterer"/>
-                <MarkerCategory name="mine" DisplayName="Don't Mine If I Do" achievementId="4507" iconFile="Data/Images/Icons/Dragonsblood Shrapnel Mine.png" maxSize="16" mapDisplaySize="32" inGameVisibility="1" achievementId="4604" tip-name="Don't Mine If I Do" tip-description="Place Dragonsblood Shrapnel Mines"/>
+                <MarkerCategory name="mine" DisplayName="Don't Mine If I Do" iconFile="Data/Images/Icons/Dragonsblood Shrapnel Mine.png" maxSize="16" mapDisplaySize="32" inGameVisibility="1" achievementId="4507" tip-name="Don't Mine If I Do" tip-description="Place Dragonsblood Shrapnel Mines"/>
                 
                 <!-- Dwarven Room Raider -->
                 <MarkerCategory name="dwarven" DisplayName="Dwarven Room Raider" achievementId="4559">
@@ -929,7 +930,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
                 
-                <MarkerCategory name="archaeologist" DisplayName="Expert Archaeologist" achievementId="4591" iconFile="Data/Images/Swirl - Golden.png" mapDisplaySize="128" inGameVisibility="0" achievementId="4604" tip-name="Expert Archaeologist"/>
+                <MarkerCategory name="archaeologist" DisplayName="Expert Archaeologist" achievementId="4591" iconFile="Data/Images/Swirl - Golden.png" mapDisplaySize="128" inGameVisibility="0" tip-name="Expert Archaeologist"/>
                 
                 <MarkerCategory name="prize" DisplayName="Grand Prize" achievementId="4564" iconFile="Data/Images/Icons/Orb - Yellow - S.png" inGameVisibility="1" maxSize="16" mapDisplaySize="24" heightOffset="-0.5"/>
                 <MarkerCategory name="ritual" DisplayName="Honored Ritual" achievementId="4515" iconFile="Data/Images/Honored Ritual Notes.png" maxSize="32" mapDisplaySize="40" tip-name="Honoured Ritual"/>
@@ -1191,9 +1192,18 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-                <MarkerCategory name="saving" DisplayName="Saving Skyscales (WiP)" achievementId="4712">
+                <MarkerCategory name="saving" DisplayName="Saving Skyscales" achievementId="4712" mapDisplaySize="16">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="hiddengarden" DisplayName="Hidden Garden">
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png" mapDisplaySize="128"/>
+                        <MarkerCategory name="events"  IsSeparator="1" DisplayName="EVENTS"/>
+                        <MarkerCategory name="earth" DisplayName="Defeat the Keepers of Earth" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+                        <MarkerCategory name="light" DisplayName="Defeat the Keepers of Light" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+                        <MarkerCategory name="waves" DisplayName="Defeat the Keepers of Waves" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+                        <MarkerCategory name="winds" DisplayName="Defeat the Keepers of Winds" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+                    </MarkerCategory>
                     <MarkerCategory name="talk" DisplayName="Talk to Gorrik" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
@@ -1296,7 +1306,24 @@
                 </MarkerCategory>
 
                 <MarkerCategory name="trouble" DisplayName="Troublesome Skyscales" achievementId="4675">
-                    <MarkerCategory name="lost" DisplayName="Skyscale Lost (WiP)"/>
+                    <MarkerCategory name="lost" DisplayName="Skyscale Lost">
+                        <MarkerCategory name="talk" DisplayName="Talk to Gorrik" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                        <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                            <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
+                            <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
+                            <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
+                            <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                            <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                            <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                            <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                        </MarkerCategory>
+                        <MarkerCategory name="number" DisplayName="Path Number">
+                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" maxSize="32" miniMapVisibility="0" mapVisibility="0"/>
+                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" maxSize="32" miniMapVisibility="0" mapVisibility="0"/>
+                        </MarkerCategory>
+                    </MarkerCategory>
 
                     <MarkerCategory name="reflexes" DisplayName="Skyscale Reflexes">
                         <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
@@ -1310,32 +1337,59 @@
                 </MarkerCategory>
                 <MarkerCategory name="riding" DisplayName="Riding Skyscales" achievementId="4745">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="talk" DisplayName="Talk to Gorrik" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
-                    <MarkerCategory name="sandpaper" DisplayName="Elonian Sandpaper">
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="beetle" DisplayName="Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png"/>
+                        <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="number" DisplayName="Trail Segment">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
+                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
+                        <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="collect" IsSeparator="1" DisplayName="COLLECTIBLES"/>
+                    <MarkerCategory name="sandpaper" DisplayName="Elonian Sandpaper" mapDisplaySize="16">
                         <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
                         <MarkerCategory name="elisa" DisplayName="Priory Historian Elisa, Crystal Desert"/>
                     </MarkerCategory>
-                    <MarkerCategory name="sailcloth" DisplayName="Corsair Sailcloth" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32">
+                    <MarkerCategory name="sailcloth" DisplayName="Corsair Sailcloth" mapDisplaySize="16">
+                        <MarkerCategory name="kralkatite" DisplayName="Kralkatite" mapDisplaySize="16"/>
+                        <MarkerCategory name="cache" DisplayName="Toggle Sunspear Cache" iconFile="Data/Images/Icons/Sunspear Cache.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0"/>
                         <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
                         <MarkerCategory name="istan" DisplayName="Domain of Istan"/>
                     </MarkerCategory>
-                    <MarkerCategory name="leather" DisplayName="Olmakhan Leather" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32">
+                    <MarkerCategory name="leather" DisplayName="Olmakhan Leather" mapDisplaySize="16">
                         <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
                         <MarkerCategory name="sandswept" DisplayName="Sandswept Isles"/>
                     </MarkerCategory>
-                    <MarkerCategory name="tar" DisplayName="Extra-Sticky Tar" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32">
+                    <MarkerCategory name="tar" DisplayName="Extra-Sticky Tar" mapDisplaySize="16">
                         <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
                         <MarkerCategory name="kourna" DisplayName="Domain of Kourna"/>
                     </MarkerCategory>
-                    <MarkerCategory name="silk" DisplayName="Lubinella Cadentis Silk" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32">
+                    <MarkerCategory name="silk" DisplayName="Lubinella Cadentis Silk" mapDisplaySize="16">
                         <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
                         <MarkerCategory name="jahai" DisplayName="Jahai Bluffs"/>
                     </MarkerCategory>
-                    <MarkerCategory name="rivets" DisplayName="Deldrimor Rivets" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32">
+                    <MarkerCategory name="rivets" DisplayName="Deldrimor Rivets" mapDisplaySize="16">
                         <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
                         <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks"/>
                     </MarkerCategory>
-                    <MarkerCategory name="oil" DisplayName="Mist-Infused Saddle Oil" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32">
+                    <MarkerCategory name="oil" DisplayName="Mist-Infused Saddle Oil" mapDisplaySize="16">
                         <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
                         <MarkerCategory name="dragonfall" DisplayName="Dragonfall"/>
                     </MarkerCategory>
