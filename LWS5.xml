@@ -14,28 +14,28 @@
         <POI MapID="1343" xpos="-283.284" ypos="170.886" zpos="181.482" type="leag.lws5.bjora.idolatry.4" GUID="Fi+sz3STl0Krf0bcUKqYPg=="/>
         <POI MapID="1343" xpos="1170.06" ypos="48.2551" zpos="-189.008" type="leag.lws5.bjora.idolatry.mount.springer" GUID="eNgHxUnse0Gk9CCg61PE5g=="/>
         <POI MapID="1343" xpos="933.377" ypos="66.8193" zpos="28.6793" type="leag.lws5.bjora.idolatry.mount.springer" GUID="ZSqn1kHSrkq6FdsXNbj6Uw=="/>
-        <POI MapID="1343" xpos="735.439" ypos="223.635" zpos="65.4406" type="leag.lws5.bjora.idolatry.mount.skimmer" GUID="FIOhqtM7cE2SP7HCV1OChQ=="/>
-        <POI MapID="1343" xpos="545.983" ypos="160.743" zpos="261.312" type="leag.lws5.bjora.idolatry.mount.skimmer" GUID="tVwz0aQgNUCtE8TW9EoL7Q=="/>
-        <POI MapID="1343" xpos="625.204" ypos="135.858" zpos="413.109" type="leag.lws5.bjora.idolatry.mount.skimmer" GUID="BtHG+JKp8EKYOhGGui1O/Q=="/>
-        <POI MapID="1343" xpos="755.599" ypos="141.648" zpos="443.306" type="leag.lws5.bjora.idolatry.mount.skimmer" GUID="SlvfCwTqb0ihUa7onvQ0Cw=="/>
-        <POI MapID="1343" xpos="1211.89" ypos="102.282" zpos="-331.505" type="leag.lws5.bjora.idolatry.mount.skimmer" GUID="6BxZIYbnXkapSmHneFZ/lA=="/>
-        <POI MapID="1343" xpos="1175.32" ypos="108.795" zpos="-391.234" type="leag.lws5.bjora.idolatry.mount.skimmer" GUID="e5DKKI/AV0WKywDJ0Qe+Bg=="/>
+        <POI MapID="1343" xpos="735.439" ypos="223.635" zpos="65.4406" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="FIOhqtM7cE2SP7HCV1OChQ=="/>
+        <POI MapID="1343" xpos="545.983" ypos="160.743" zpos="261.312" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="tVwz0aQgNUCtE8TW9EoL7Q=="/>
+        <POI MapID="1343" xpos="625.204" ypos="135.858" zpos="413.109" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="BtHG+JKp8EKYOhGGui1O/Q=="/>
+        <POI MapID="1343" xpos="755.599" ypos="141.648" zpos="443.306" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="SlvfCwTqb0ihUa7onvQ0Cw=="/>
+        <POI MapID="1343" xpos="1211.89" ypos="102.282" zpos="-331.505" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="6BxZIYbnXkapSmHneFZ/lA=="/>
+        <POI MapID="1343" xpos="1175.32" ypos="108.795" zpos="-391.234" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="e5DKKI/AV0WKywDJ0Qe+Bg=="/>
         <POI MapID="1343" xpos="854.292" ypos="126.389" zpos="-441.865" type="leag.lws5.bjora.idolatry.mount.raptor" GUID="6vRuELZD6EWt+C/g4n/pFQ=="/>
         <POI MapID="1343" xpos="754.175" ypos="134.111" zpos="-277.328" type="leag.lws5.bjora.idolatry.mount.springer" GUID="z0pOo4AYH0GQaK5oXvln3w=="/>
-        <POI MapID="1343" xpos="585.845" ypos="145.466" zpos="-309.723" type="leag.lws5.bjora.idolatry.mount.skimmer" GUID="NsWmhWx5pEu/GXLpAgNFyw=="/>
-        <POI MapID="1343" xpos="517.616" ypos="179.577" zpos="-430.774" type="leag.lws5.bjora.idolatry.mount.skimmer" GUID="zsE8y+nyIU+RtscLhZBswQ=="/>
+        <POI MapID="1343" xpos="585.845" ypos="145.466" zpos="-309.723" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="NsWmhWx5pEu/GXLpAgNFyw=="/>
+        <POI MapID="1343" xpos="517.616" ypos="179.577" zpos="-430.774" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="zsE8y+nyIU+RtscLhZBswQ=="/>
         <POI MapID="1343" xpos="410.176" ypos="140.315" zpos="-397.047" type="leag.lws5.bjora.idolatry.mount.springer" GUID="DZBBoHPEK0y2Y65cUxgHag=="/>
         <POI MapID="1343" xpos="323.812" ypos="146.24" zpos="-343.725" type="leag.lws5.bjora.idolatry.mount.springer" GUID="4OfATsNR9USdAzkMObS0PQ=="/>
-        <POI MapID="1343" xpos="-202.752" ypos="229.445" zpos="486.04" type="leag.lws5.bjora.idolatry.mount.skimmer" GUID="mNvZm6Va/k2YaZVDkxFvRA=="/>
+        <POI MapID="1343" xpos="-202.752" ypos="229.445" zpos="486.04" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="mNvZm6Va/k2YaZVDkxFvRA=="/>
         <POI MapID="1343" xpos="-506.809" ypos="252.504" zpos="518.759" type="leag.lws5.bjora.idolatry.mount.springer" GUID="YKOr23ExyE2LOUrDVxa1rQ=="/>
-        <POI MapID="1343" xpos="-534.196" ypos="303.213" zpos="545.147" type="leag.lws5.bjora.idolatry.mount.skimmer" GUID="HysuyCpWIEq1d8dz5UU5Gw=="/>
-        <POI MapID="1343" xpos="-614.334" ypos="255.648" zpos="410.005" type="leag.lws5.bjora.idolatry.mount.skimmer" GUID="EQDRNrbLukOyLZzvSbaevQ=="/>
+        <POI MapID="1343" xpos="-534.196" ypos="303.213" zpos="545.147" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="HysuyCpWIEq1d8dz5UU5Gw=="/>
+        <POI MapID="1343" xpos="-614.334" ypos="255.648" zpos="410.005" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="EQDRNrbLukOyLZzvSbaevQ=="/>
         <POI MapID="1343" xpos="-406.352" ypos="163.73" zpos="182.762" type="leag.lws5.bjora.idolatry.mount.springer" GUID="RiWRTd4EwUSmutxlWcMbaA=="/>
-        <POI MapID="1343" xpos="-424.302" ypos="184.132" zpos="149.45" type="leag.lws5.bjora.idolatry.mount.skimmer" GUID="WLVZBdz5dEuUTQEPZdCmpA=="/>
+        <POI MapID="1343" xpos="-424.302" ypos="184.132" zpos="149.45" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="WLVZBdz5dEuUTQEPZdCmpA=="/>
         <POI MapID="1343" xpos="-178.506" ypos="218.078" zpos="29.2242" type="leag.lws5.bjora.idolatry.mount.springer" GUID="ONibUc5Zu0C7pySZkXqBPw=="/>
         <POI MapID="1343" xpos="-99.5122" ypos="256.848" zpos="-44.4198" type="leag.lws5.bjora.idolatry.mount.springer" GUID="RwYRsm8Cvkar6+WgMs6Neg=="/>
         <POI MapID="1343" xpos="-394.02" ypos="256.728" zpos="-404.84" type="leag.lws5.bjora.idolatry.mount.springer" GUID="+9fc1kYjmkupXUsWkQupig=="/>
-        <POI MapID="1343" xpos="-562.798" ypos="203.62" zpos="-142.955" type="leag.lws5.bjora.idolatry.mount.skimmer" GUID="0ObWPKgQw0q75Ww4rOYEFw=="/>
+        <POI MapID="1343" xpos="-562.798" ypos="203.62" zpos="-142.955" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="0ObWPKgQw0q75Ww4rOYEFw=="/>
         <POI MapID="1343" xpos="-503.573" ypos="205.992" zpos="-78.222" type="leag.lws5.bjora.idolatry.mount.raptor" GUID="O3wawyQCCUqmCIYpXRbVeQ=="/>
     </POIs>
 </OverlayData>
