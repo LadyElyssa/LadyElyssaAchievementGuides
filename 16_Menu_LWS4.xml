@@ -119,7 +119,6 @@
                 <MarkerCategory name="lost" DisplayName="Lost to Time" achievementId="3995">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
-                    <MarkerCategory name="finish" DisplayName="Toggle Finish Marker" iconFile="Data/Images/Icons/Finish.png" miniMapVisibility="0" mapVisibility="1" mapDisplaySize="64"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                     <MarkerCategory name="cache" DisplayName="Toggle Sunspear Cache" iconFile="Data/Images/Icons/Sunspear Cache.png" miniMapVisibility="1" mapDisplaySize="32" inGameVisibility="0"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>

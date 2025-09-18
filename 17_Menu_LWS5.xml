@@ -4,12 +4,70 @@
         <MarkerCategory name="lws5" DisplayName="Season 5">
 
             <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
+
+                <!-- CHAPTER 0: Prologue -->
+                <MarkerCategory name="ch0" IsSeparator="1" DisplayName="Chapter 0: Prologue"/>
+
+                <MarkerCategory name="chaperone" DisplayName="Chaperone" achievementId="4944">
+                    <MarkerCategory name="braham" DisplayName="Toggle Braham Icon" iconFile="Data/Images/Icons/Braham.png" fadeNear="4000" fadeFar="5000" maxSize="16" mapDisplaySize="32"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="consoler" DisplayName="Cub Consoler" achievementId="4908">
+                    <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="32"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="freeze" DisplayName="Flash Freeze" achievementId="4925">
+                    <MarkerCategory name="foot" DisplayName="Toggle Foot Path" iconFile="Data/Images/Trails/Warclaw Prints - Cold.png"/>
+                    <MarkerCategory name="glide" DisplayName="Toggle Gliding Path" iconFile="Data/Images/Trails/Dashed Line with Shadow.png"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="harpoon" DisplayName="Hasty Harpooning" achievementId="4923">
+                    <MarkerCategory name="icon" DisplayName="Toggle Harpoon Markers" iconFile="Data/Images/Green Target Chevron.png" fadeNear="4000" fadeFar="4500" maxSize="32" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="diplomat" DisplayName="Model Diplomat" achievementId="4929">
+                    <MarkerCategory name="emote" DisplayName="Emote: /cheer" iconFile="Data/Images/Emote - Cheer.png" miniMapVisibility="0" mapVisibility="0" info="Cheer when Bangar says:&#xa;''Brothers and sisters of the Legions! Let Tyria hear you!''" infoRange="2.5"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="imperator" DisplayName="Meet You Imperator [H]" achievementId="4958" defaulttoggle="0">
+                    <MarkerCategory name="icon" DisplayName="Toggle Blood Legion Icon" iconFile="Data/Images/Icons/Blood Legion.png" maxSize="16"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="incharacter" DisplayName="Staying in Character" achievementId="4933"/>
+
+                <MarkerCategory name="fight" DisplayName="Straight-Up Fight" achievementId="4912">
+                    <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Deeper and Deeper - Guard.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="town" DisplayName="Talk of the Town" achievementId="4992">
+                    <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="untouchable" DisplayName="Untouchable" achievementId="4925">
+                    <MarkerCategory name="fight" DisplayName="Toggle Fight Icon" iconFile="Data/Images/Icons/Fight.png" heightOffset="-0.25" maxSize="32"/>
+                </MarkerCategory>
+
+                <!-- CHAPTER 1: Whisper in the Dark -->
+                <MarkerCategory name="ch1" IsSeparator="1" DisplayName="CHAPTER 1: Whisper in the Dark"/>
+
+                <!-- CHAPTER 2: Shadow in the Ice -->
+                <MarkerCategory name="ch2" IsSeparator="1" DisplayName="CHAPTER 2: Shadow in the Ice"/>
+
+                <!-- CHAPTER 3: No Quarter -->
+                <MarkerCategory name="ch3" IsSeparator="1" DisplayName="CHAPTER 3: No Quarter"/>
+                
+                <!-- CHAPTER 4: Jormag Rising -->
+                <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: Jormag Rising"/>
+
+
+
             </MarkerCategory>
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
             <MarkerCategory name="bjora" DisplayName="Bjora Marches">
-                <MarkerCategory name="idolatry" DisplayName="Idolatry">
+                <MarkerCategory name="idolatry" DisplayName="Idolatry" achievementId="5140">
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
@@ -27,6 +85,168 @@
             </MarkerCategory>
 
             <MarkerCategory name="grothmar" DisplayName="Grothmar Valley">
+
+                <MarkerCategory name="acp" DisplayName="A Carved Path">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="info" DisplayName="Toggle Info" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                    <MarkerCategory name="animal" DisplayName="Animal" iconFile="Data/Images/A Carved Path/Animal.png" mapDisplaySize="48"/>
+                    <MarkerCategory name="claw" DisplayName="Claw" iconFile="Data/Images/A Carved Path/Claw.png" mapDisplaySize="48"/>
+                    <MarkerCategory name="fire" DisplayName="Fire" iconFile="Data/Images/A Carved Path/Fire.png" mapDisplaySize="48"/>
+                    <MarkerCategory name="mountain" DisplayName="Mountain" iconFile="Data/Images/A Carved Path/Mountain.png" mapDisplaySize="48"/>
+                    <MarkerCategory name="smileyface" DisplayName="Smiley Face" iconFile="Data/Images/A Carved Path/Smiley Face.png" mapDisplaySize="48"/>
+                    <MarkerCategory name="tail" DisplayName="Tail" iconFile="Data/Images/A Carved Path/Tail.png" mapDisplaySize="48"/>
+                    <MarkerCategory name="tree" DisplayName="Tree" iconFile="Data/Images/A Carved Path/Tree.png" mapDisplaySize="48"/>
+                    <MarkerCategory name="waves" DisplayName="Waves" iconFile="Data/Images/A Carved Path/Waves.png" mapDisplaySize="48"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="mixologist" DisplayName="Amateur Mixologist" achievementId="4920">
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Help the bartender keep the customers liquored up!"/>
+                </MarkerCategory>
+                <MarkerCategory name="eye" DisplayName="An Eye for Detail [H]" achievementId="4932" defaulttoggle="0">
+                    <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="32"/>
+                    <MarkerCategory name="icon" DisplayName="Present Evidence">
+                        <MarkerCategory name="1" DisplayName="1" iconFile="Data/Images/Numbers/t1.png" maxSize="24" mapDisplaySize="40"/>
+                        <MarkerCategory name="2" DisplayName="2" iconFile="Data/Images/Numbers/t2.png" maxSize="24" mapDisplaySize="40"/>
+                        <MarkerCategory name="3" DisplayName="3" iconFile="Data/Images/Numbers/t3.png" maxSize="24" mapDisplaySize="40"/>
+                        <MarkerCategory name="4" DisplayName="4" iconFile="Data/Images/Numbers/t4.png" maxSize="24" mapDisplaySize="40"/>
+                        <MarkerCategory name="5" DisplayName="5" iconFile="Data/Images/Numbers/t5.png" maxSize="24" mapDisplaySize="40"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="ballooning" DisplayName="Ballooning Targets" achievementId="4939">
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Shoot targets to demonstrate your marksmanship to the cubs"/>
+                </MarkerCategory>
+                <MarkerCategory name="bellows" DisplayName="Billowing Bellows" achievementId="4961">
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Keep the furnace firing to help manufacture new plate metal!"/>
+                </MarkerCategory>
+                <MarkerCategory name="bodyguarded" DisplayName="Bodyguarded" achievementId="4987" texture="Data/Images/Trails/Dashed Line with Shadow.png">
+                    <MarkerCategory name="meta" DisplayName="Meta" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="META EVENT: Escort the shaman to Doomlore Shrine"/>
+                    <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="32"/>
+                </MarkerCategory>
+                <MarkerCategory name="brand" DisplayName="Brand Stomped" achievementId="4991">
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="cattle" DisplayName="Cattle Custodian" achievementId="4942">
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Lure the devourers into the portal before they kill the cattle"/>
+                </MarkerCategory>
+                <MarkerCategory name="champion" DisplayName="Champion of All" achievementId="4922">
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Participate in the demolition derby!" tip-description="Represent each legion at the Demolition Derby."/>
+                </MarkerCategory>
+                <MarkerCategory name="don" DisplayName="Demolition Derby Don" achievementId="4970">
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Keep the furnace firing to help manufacture new plate metal!"/>
+                </MarkerCategory>
+                <MarkerCategory name="efe" DisplayName="Eyes for Ears" achievementId="4989">
+                    <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="32"/>
+                    <MarkerCategory name="icon" DisplayName="Identify Device" iconFile="Data/Images/Icons/Green Target with Shadow.png" maxSize="16" mapDisplaySize="32"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="gauntlet" DisplayName="Gauntlet of the Khan-Ur" achievementId="4975" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+                <MarkerCategory name="gap" DisplayName="Generation Gap" achievementId="4959">
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Shoo the whippersnappers off of the old Fangstorm’s lawn before he snaps!"/>
+                </MarkerCategory>
+                <MarkerCategory name="historian" DisplayName="Grothmar Valley Historian" achievementId="4949">
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="path" DisplayName="Path Number">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="heads" DisplayName="Heads up! [H]" achievementId="4926" defaulttoggle="0">
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Heads up!.png" mapDisplaySize="32" inGameVisibility="0" tip-name="Must be treading water."/>
+                </MarkerCategory>
+                <MarkerCategory name="feet" DisplayName="Hot Feet" achievementId="4982" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+                <MarkerCategory name="hotshot" DisplayName="Hotshot" achievementId="4963">
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Participate in the demolition derby!" tip-description="Represent each legion at the Demolition Derby."/>
+                </MarkerCategory>
+                <MarkerCategory name="promoter" DisplayName="Master Concert Promoter" achievementId="4921">
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: A Concert for the Ages" tip-description="Finish the concert with maximum hype."/>
+                </MarkerCategory>
+                <MarkerCategory name="chef" DisplayName="Master Sous-Chef" achievementId="4916">
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Help Chef Mellitus prepare dishes for the festival" tip-description="Finish the concert with maximum hype."/>
+                </MarkerCategory>
+                <MarkerCategory name="ceremonies" DisplayName="Master of Ceremonies" achievementId="4967"/>
+                <MarkerCategory name="ooze" DisplayName="Ooze Master" achievementId="4903">
+                    <MarkerCategory name="meta" DisplayName="Meta Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="META: Defeat the grand champion ooze!"/>
+                </MarkerCategory>
+                <MarkerCategory name="party" DisplayName="Party Guardian" achievementId="5082">
+                    <MarkerCategory name="champion" DisplayName="Toggle Champion Icon" iconFile="Data/Images/Icons/Champion.png" mapDisplaySize="64" inGameVisibility="0" tip-name="PARTY GUARDIAN: Defeat the Champion that spawns after the meta event."/>
+                </MarkerCategory>
+                <MarkerCategory name="pepper" DisplayName="Pepper Picker" achievementId="4946">
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="pest" DisplayName="Pest Control" achievementId="4965">
+                    <MarkerCategory name="nest" DisplayName="Devourer Nest" iconFile="Data/Images/Devourer.png" maxSize="20" mapDisplaySize="32" heightOffset="3.0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="picante" DisplayName="Picante" achievementId="4936">
+                    <MarkerCategory name="merchant" DisplayName="Rally Provisioner" iconFile="Data/Images/Icons/Rally Provisioner.png" mapDisplaySize="40" inGameVisibility="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="pledged" DisplayName="Pledged" achievementId="4956"/>
+                <MarkerCategory name="renownedseeker" DisplayName="Renowned Seeker" achievementId="4911">
+                    <MarkerCategory name="talk" DisplayName="Talk to Calix" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="secrets" DisplayName="Secrets of the Khan-Ur" achievementId="4951">
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="ash" DisplayName="Ash Legion Key" iconFile="Data/Images/Icons/Ash Legion Key.png" maxSize="16" mapDisplaySize="16"/>
+                    <MarkerCategory name="blood" DisplayName="Blood Legion Key" iconFile="Data/Images/Icons/Blood Legion Key.png" maxSize="16" mapDisplaySize="16"/>
+                    <MarkerCategory name="flame" DisplayName="Flame Legion Key" iconFile="Data/Images/Icons/Flame Legion Key.png" maxSize="16" mapDisplaySize="16"/>
+                    <MarkerCategory name="iron" DisplayName="Iron Legion Key" iconFile="Data/Images/Icons/Iron Legion Key.png" maxSize="16" mapDisplaySize="16"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                <MarkerCategory name="spiritbane" DisplayName="Spiritbane" achievementId="4935">
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Defeat Murakai, Doomlore's Bane"/>
+                </MarkerCategory>
+                <MarkerCategory name="limelight" DisplayName="Stealing the Limelight [H]" achievementId="4927" defaulttoggle="0">
+                    <MarkerCategory name="music" DisplayName="Play Music" iconFile="Data/Images/Icons/Music.png" maxSize="32" mapDisplaySize="40"/>
+                </MarkerCategory>
+                <MarkerCategory name="teachers" DisplayName="Teacher's Assistants" achievementId="4986">
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Help the cubs defeat illusory foes to build warband cohesion"/>
+                </MarkerCategory>
+                <MarkerCategory name="vip" DisplayName="VIP Access [H]" achievementId="4931" defaulttoggle="0">
+                    <MarkerCategory name="merchant" DisplayName="Rally Provisioner" iconFile="Data/Images/Icons/Rally Provisioner.png" mapDisplaySize="40" inGameVisibility="0"/>
+                </MarkerCategory>
             </MarkerCategory>
 
             <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast">
