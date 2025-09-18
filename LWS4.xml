@@ -121,43 +121,42 @@
         <POI MapID="1263" xpos="-121.259" ypos="262.877" zpos="-37.4095" type="leag.lws4.istan.lost.glider" GUID="RfYfPxCQ4UCt+TBjnVyH0Q=="/>
         <POI MapID="1263" xpos="68.9482" ypos="2.51201" zpos="-372.798" type="leag.lws4.istan.lost.wp" GUID="3+Q9XZMxVEeDNF2tKALqWg==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
         <POI MapID="1263" xpos="132.718" ypos="90.3083" zpos="680.117" type="leag.lws4.istan.lost.wp" GUID="btk/Uh/ZmEOLTu545E7fAQ==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
-        <POI MapID="1263" xpos="-324.363" ypos="25.1116" zpos="-54.0244" type="leag.lws4.istan.lost.wp" GUID="So955/qY/EyFx+Hu6shsag==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
-        <POI MapID="1263" xpos="-562.164" ypos="2.43183" zpos="-687.667" type="leag.lws4.istan.lost.finish" GUID="hVBHZ4Xga0iAm+PJZM1+TQ=="/>
-        <POI MapID="1263" xpos="183.681" ypos="211.941" zpos="467.296" type="leag.lws4.istan.lost.cache" GUID="5EahdneOCE2OEH/6ulQG4w=="/>
-        <POI MapID="1263" xpos="172.722" ypos="46.261" zpos="259.088" type="leag.lws4.istan.lost.cache" GUID="7zPYAbxhCEKg2xzEPhemGQ=="/>
-        <POI MapID="1263" xpos="179.333" ypos="112.098" zpos="566.213" type="leag.lws4.istan.lost.cache" GUID="Jog91yOAKUiiSPqQfdf+fw=="/>
-        <POI MapID="1263" xpos="282.185" ypos="86.8017" zpos="582.785" type="leag.lws4.istan.lost.cache" GUID="EPct3BvIr0eDc65tIpTVuQ=="/>
-        <POI MapID="1263" xpos="131.941" ypos="90.8412" zpos="683.632" type="leag.lws4.istan.lost.cache" GUID="m268+mRdTUOQX8TXWOC2nw=="/>
-        <POI MapID="1263" xpos="101.841" ypos="5.77325" zpos="726.205" type="leag.lws4.istan.lost.cache" GUID="+6L9Cemrq0uWj540ku0RDA=="/>
-        <POI MapID="1263" xpos="183.975" ypos="211.963" zpos="467.415" type="leag.lws4.istan.lost.cache" GUID="BkfvYAmlQ0CanfozkfQ9XA=="/>
-        <POI MapID="1263" xpos="-603.992" ypos="51.163" zpos="-38.723" type="leag.lws4.istan.lost.cache" GUID="1ntWcnS4tEaGna0duYXu4w=="/>
-        <POI MapID="1263" xpos="-808.985" ypos="97.4697" zpos="-25.7484" type="leag.lws4.istan.lost.cache" GUID="VorjGlxyp0KfS1pWUHIcCA=="/>
-        <POI MapID="1263" xpos="-884.862" ypos="75.9328" zpos="92.2153" type="leag.lws4.istan.lost.cache" GUID="kZf5NCa3TE6zeraLbt1ZmQ=="/>
-        <POI MapID="1263" xpos="-774.441" ypos="91.2719" zpos="169.767" type="leag.lws4.istan.lost.cache" GUID="c6Ex+hEZLE+zsMzNNwzmAA=="/>
-        <POI MapID="1263" xpos="-520.925" ypos="88.8596" zpos="-162.537" type="leag.lws4.istan.lost.cache" GUID="4k3PcMul1keAyozH/NqfOQ=="/>
-        <POI MapID="1263" xpos="-457.818" ypos="73.1627" zpos="-75.3846" type="leag.lws4.istan.lost.cache" GUID="r7Lp4/GUS0GYTnXyCmberw=="/>
-        <POI MapID="1263" xpos="-321.122" ypos="25.8715" zpos="-53.3444" type="leag.lws4.istan.lost.cache" GUID="gsxS9aeDTkKD2shjo41H7Q=="/>
-        <POI MapID="1263" xpos="-638.838" ypos="114.794" zpos="-321.072" type="leag.lws4.istan.lost.cache" GUID="HKKNjSxGaE+woMFsjHrqeA=="/>
-        <POI MapID="1263" xpos="-684.475" ypos="82.7381" zpos="-462.5" type="leag.lws4.istan.lost.cache" GUID="VeInswmn2Uy9xYqADO9JZg=="/>
-        <POI MapID="1263" xpos="-830.87" ypos="64.7223" zpos="-347.83" type="leag.lws4.istan.lost.cache" GUID="Uzp5ln5dS0OJ5El2W9drHA=="/>
-        <POI MapID="1263" xpos="-513.942" ypos="140.202" zpos="-413.363" type="leag.lws4.istan.lost.cache" GUID="KtWgyGyYTkGpSLTuPUdf/g=="/>
-        <POI MapID="1263" xpos="-366.675" ypos="84.3554" zpos="-437.162" type="leag.lws4.istan.lost.cache" GUID="yM1OTvhvAU+Ww+BcZZslUA=="/>
-        <POI MapID="1263" xpos="-451.64" ypos="64.1492" zpos="-369.187" type="leag.lws4.istan.lost.cache" GUID="ukd+v9vDckqBwLbMD3ak9A=="/>
-        <POI MapID="1263" xpos="-561.515" ypos="1.57768" zpos="-687.194" type="leag.lws4.istan.lost.cache" GUID="AsxFzah1Sk+qiAsH5cLuIQ=="/>
-        <POI MapID="1263" xpos="71.3656" ypos="3.62035" zpos="-370.658" type="leag.lws4.istan.lost.cache" GUID="7nhmB59YWkaXWC7aeepraA=="/>
-        <POI MapID="1263" xpos="102.364" ypos="46.02" zpos="-554.196" type="leag.lws4.istan.lost.cache" GUID="k/a/13aqYEGkjOkeUikCSw=="/>
-        <POI MapID="1263" xpos="476.296" ypos="86.148" zpos="-626.489" type="leag.lws4.istan.lost.cache" GUID="bKc4v3rR40ClFYV6D4YGfg=="/>
-        <POI MapID="1263" xpos="315.122" ypos="118.324" zpos="-462.051" type="leag.lws4.istan.lost.cache" GUID="n9ycLf20okKPD2dnp2Ml4Q=="/>
-        <POI MapID="1263" xpos="307.889" ypos="197.904" zpos="-521.124" type="leag.lws4.istan.lost.cache" GUID="Ra4K/ierwEu+tZGUGUq7FQ=="/>
-        <POI MapID="1263" xpos="-555.632" ypos="2.77287" zpos="425.756" type="leag.lws4.istan.lost.cache" GUID="5BC6L6rbDk6enHdTwt7/Dw=="/>
-        <POI MapID="1263" xpos="-145.693" ypos="111.12" zpos="37.9202" type="leag.lws4.istan.lost.cache" GUID="wN3xJ5zDIUeJYvBcSV8bDw=="/>
-        <POI MapID="1263" xpos="-180.26" ypos="157.66" zpos="294.402" type="leag.lws4.istan.lost.cache" GUID="Hp6Ne7VmH02t8Zxi4Z4UFQ=="/>
-        <POI MapID="1263" xpos="-126.888" ypos="264.711" zpos="-32.0574" type="leag.lws4.istan.lost.cache" GUID="k0srJAUn7k6gDfNXNNvHmg=="/>
-        <POI MapID="1263" xpos="-34.1267" ypos="208.051" zpos="-105.521" type="leag.lws4.istan.lost.cache" GUID="ozIJY/FYJUqW6mgS/G3H9g=="/>
-        <POI MapID="1263" xpos="-109.24" ypos="155.649" zpos="-238.181" type="leag.lws4.istan.lost.cache" GUID="3IqARYQK2U+UF5AxYg8IPw=="/>
-        <POI MapID="1263" xpos="-24.8185" ypos="177.407" zpos="-179.635" type="leag.lws4.istan.lost.cache" GUID="s/s8kOqqtkCn73KqPW0l9g=="/>
-        <POI MapID="1263" xpos="215.399" ypos="239.238" zpos="-477.875" type="leag.lws4.istan.lost.cache" GUID="lycoPmyslU+KCHRhNxTiEg=="/>
-        <POI MapID="1263" xpos="-261.229" ypos="8.35802" zpos="530.006" type="leag.lws4.istan.lost.cache" GUID="KrKXQOCjXEm9JenjslDCsA=="/>
+        <POI MapID="1263" xpos="-324.363" ypos="25.1116" zpos="-54.0244" type="leag.lws4.istan.lost.wp" GUID="NaXF3QQYpkO8jy32Zd/LoQ==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
+        <POI MapID="1263" xpos="183.681" ypos="211.941" zpos="467.296" type="leag.lws4.istan.lost.cache" GUID="8sVyZ1fU3UqObfDKUG4I0w=="/>
+        <POI MapID="1263" xpos="172.722" ypos="46.261" zpos="259.088" type="leag.lws4.istan.lost.cache" GUID="Yvc6CypHzkuw0I/OJz/1rg=="/>
+        <POI MapID="1263" xpos="179.333" ypos="112.098" zpos="566.213" type="leag.lws4.istan.lost.cache" GUID="fhqwmxh6fEyY/u0RD7tsHA=="/>
+        <POI MapID="1263" xpos="282.185" ypos="86.8017" zpos="582.785" type="leag.lws4.istan.lost.cache" GUID="lgMSYBTnykWXY17tVaWVfw=="/>
+        <POI MapID="1263" xpos="131.941" ypos="90.8412" zpos="683.632" type="leag.lws4.istan.lost.cache" GUID="NKXJ4REKsE6wmt5UV4Qtiw=="/>
+        <POI MapID="1263" xpos="101.841" ypos="5.77325" zpos="726.205" type="leag.lws4.istan.lost.cache" GUID="Vh317RFmI0K+un4ueYQU8w=="/>
+        <POI MapID="1263" xpos="183.975" ypos="211.963" zpos="467.415" type="leag.lws4.istan.lost.cache" GUID="4YhYjZaey06sygVN7IEygA=="/>
+        <POI MapID="1263" xpos="-603.992" ypos="51.163" zpos="-38.723" type="leag.lws4.istan.lost.cache" GUID="fmfj14BkjUCeNQM/msjgYw=="/>
+        <POI MapID="1263" xpos="-808.985" ypos="97.4697" zpos="-25.7484" type="leag.lws4.istan.lost.cache" GUID="FJ9B1IKKCki4RZZxrIaHIQ=="/>
+        <POI MapID="1263" xpos="-884.862" ypos="75.9328" zpos="92.2153" type="leag.lws4.istan.lost.cache" GUID="lczySuUEp0+VjzmBH72/7Q=="/>
+        <POI MapID="1263" xpos="-774.441" ypos="91.2719" zpos="169.767" type="leag.lws4.istan.lost.cache" GUID="S/dHBo++hk2F9ftsYskOxg=="/>
+        <POI MapID="1263" xpos="-520.925" ypos="88.8596" zpos="-162.537" type="leag.lws4.istan.lost.cache" GUID="Eq1i6rJuz0ysa6UMr92Wzw=="/>
+        <POI MapID="1263" xpos="-457.818" ypos="73.1627" zpos="-75.3846" type="leag.lws4.istan.lost.cache" GUID="Qdb7bquEdEW/EGnDrrd6fQ=="/>
+        <POI MapID="1263" xpos="-321.122" ypos="25.8715" zpos="-53.3444" type="leag.lws4.istan.lost.cache" GUID="1blihS1g/EyScHM0XBwyng=="/>
+        <POI MapID="1263" xpos="-638.838" ypos="114.794" zpos="-321.072" type="leag.lws4.istan.lost.cache" GUID="NEHqWQjQVkCY7Ua9APodFQ=="/>
+        <POI MapID="1263" xpos="-684.475" ypos="82.7381" zpos="-462.5" type="leag.lws4.istan.lost.cache" GUID="K5RkDouk6U6K7SPlOrTNZA=="/>
+        <POI MapID="1263" xpos="-830.87" ypos="64.7223" zpos="-347.83" type="leag.lws4.istan.lost.cache" GUID="Gssjnn6cYUKDGkfWiANCWw=="/>
+        <POI MapID="1263" xpos="-513.942" ypos="140.202" zpos="-413.363" type="leag.lws4.istan.lost.cache" GUID="k3l0a82lq0a99902mfSaBA=="/>
+        <POI MapID="1263" xpos="-366.675" ypos="84.3554" zpos="-437.162" type="leag.lws4.istan.lost.cache" GUID="VN5XJrsJCkKUuHP/2I1Dbw=="/>
+        <POI MapID="1263" xpos="-451.64" ypos="64.1492" zpos="-369.187" type="leag.lws4.istan.lost.cache" GUID="3wcN+JGi0UazAkRHYcOV3g=="/>
+        <POI MapID="1263" xpos="-561.515" ypos="1.57768" zpos="-687.194" type="leag.lws4.istan.lost.cache" GUID="5WaxX8ZE/Ue/dIun56pSvA=="/>
+        <POI MapID="1263" xpos="71.3656" ypos="3.62035" zpos="-370.658" type="leag.lws4.istan.lost.cache" GUID="1I1yvGLw+Ui8Os5mWf55DQ=="/>
+        <POI MapID="1263" xpos="102.364" ypos="46.02" zpos="-554.196" type="leag.lws4.istan.lost.cache" GUID="dajj+vAXgE+nFD3sydnKuA=="/>
+        <POI MapID="1263" xpos="476.296" ypos="86.148" zpos="-626.489" type="leag.lws4.istan.lost.cache" GUID="P5wiN4qkU0yha7nUKh39OQ=="/>
+        <POI MapID="1263" xpos="315.122" ypos="118.324" zpos="-462.051" type="leag.lws4.istan.lost.cache" GUID="HyeZqnDTyE64MAtQPwbXgQ=="/>
+        <POI MapID="1263" xpos="307.889" ypos="197.904" zpos="-521.124" type="leag.lws4.istan.lost.cache" GUID="eEuA1PjKzEOwkmy4RKGRBA=="/>
+        <POI MapID="1263" xpos="-555.632" ypos="2.77287" zpos="425.756" type="leag.lws4.istan.lost.cache" GUID="XaksrYc3+0WE7ZvcgOKC/g=="/>
+        <POI MapID="1263" xpos="-145.693" ypos="111.12" zpos="37.9202" type="leag.lws4.istan.lost.cache" GUID="AHCrsqcQKUyhyATPJSQkJw=="/>
+        <POI MapID="1263" xpos="-180.26" ypos="157.66" zpos="294.402" type="leag.lws4.istan.lost.cache" GUID="Ef5mSVK4kE+vPoN49ZDPhA=="/>
+        <POI MapID="1263" xpos="-126.888" ypos="264.711" zpos="-32.0574" type="leag.lws4.istan.lost.cache" GUID="8v8Qm/86EU+XcaOv6CI5/g=="/>
+        <POI MapID="1263" xpos="-34.1267" ypos="208.051" zpos="-105.521" type="leag.lws4.istan.lost.cache" GUID="ctbBB4+/6E2I18P3FKfdRA=="/>
+        <POI MapID="1263" xpos="-109.24" ypos="155.649" zpos="-238.181" type="leag.lws4.istan.lost.cache" GUID="tFS3aEawEUuiGmBig6Pllw=="/>
+        <POI MapID="1263" xpos="-24.8185" ypos="177.407" zpos="-179.635" type="leag.lws4.istan.lost.cache" GUID="sVo+IJHk2E23KEY2FW1L+g=="/>
+        <POI MapID="1263" xpos="215.399" ypos="239.238" zpos="-477.875" type="leag.lws4.istan.lost.cache" GUID="VgVeF9zGFkmLRm+GXaf3Nw=="/>
+        <POI MapID="1263" xpos="-261.229" ypos="8.35802" zpos="530.006" type="leag.lws4.istan.lost.cache" GUID="5Oj69iHt4EO6XHbawT8xtQ=="/>
 
         <!-- SANDSWEPT ISLES -->
 
@@ -2446,41 +2445,41 @@
         <POI MapID="1263" xpos="68.9482" ypos="2.51201" zpos="-372.798" type="leag.lws4.dragonfall.riding.wp" GUID="3+Q9XZMxVEeDNF2tKALqWg==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
         <POI MapID="1263" xpos="132.718" ypos="90.3083" zpos="680.117" type="leag.lws4.dragonfall.riding.wp" GUID="btk/Uh/ZmEOLTu545E7fAQ==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
         <POI MapID="1263" xpos="-324.363" ypos="25.1116" zpos="-54.0244" type="leag.lws4.dragonfall.riding.wp" GUID="So955/qY/EyFx+Hu6shsag==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
-        <POI MapID="1263" xpos="183.681" ypos="211.941" zpos="467.296" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="5EahdneOCE2OEH/6ulQG4w=="/>
-        <POI MapID="1263" xpos="172.722" ypos="46.261" zpos="259.088" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="7zPYAbxhCEKg2xzEPhemGQ=="/>
-        <POI MapID="1263" xpos="179.333" ypos="112.098" zpos="566.213" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="Jog91yOAKUiiSPqQfdf+fw=="/>
-        <POI MapID="1263" xpos="282.185" ypos="86.8017" zpos="582.785" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="EPct3BvIr0eDc65tIpTVuQ=="/>
-        <POI MapID="1263" xpos="131.941" ypos="90.8412" zpos="683.632" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="m268+mRdTUOQX8TXWOC2nw=="/>
-        <POI MapID="1263" xpos="101.841" ypos="5.77325" zpos="726.205" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="+6L9Cemrq0uWj540ku0RDA=="/>
-        <POI MapID="1263" xpos="183.975" ypos="211.963" zpos="467.415" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="BkfvYAmlQ0CanfozkfQ9XA=="/>
-        <POI MapID="1263" xpos="-603.992" ypos="51.163" zpos="-38.723" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="1ntWcnS4tEaGna0duYXu4w=="/>
-        <POI MapID="1263" xpos="-808.985" ypos="97.4697" zpos="-25.7484" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="VorjGlxyp0KfS1pWUHIcCA=="/>
-        <POI MapID="1263" xpos="-884.862" ypos="75.9328" zpos="92.2153" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="kZf5NCa3TE6zeraLbt1ZmQ=="/>
-        <POI MapID="1263" xpos="-774.441" ypos="91.2719" zpos="169.767" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="c6Ex+hEZLE+zsMzNNwzmAA=="/>
-        <POI MapID="1263" xpos="-520.925" ypos="88.8596" zpos="-162.537" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="4k3PcMul1keAyozH/NqfOQ=="/>
-        <POI MapID="1263" xpos="-457.818" ypos="73.1627" zpos="-75.3846" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="r7Lp4/GUS0GYTnXyCmberw=="/>
-        <POI MapID="1263" xpos="-321.122" ypos="25.8715" zpos="-53.3444" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="gsxS9aeDTkKD2shjo41H7Q=="/>
-        <POI MapID="1263" xpos="-638.838" ypos="114.794" zpos="-321.072" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="HKKNjSxGaE+woMFsjHrqeA=="/>
-        <POI MapID="1263" xpos="-684.475" ypos="82.7381" zpos="-462.5" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="VeInswmn2Uy9xYqADO9JZg=="/>
-        <POI MapID="1263" xpos="-830.87" ypos="64.7223" zpos="-347.83" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="Uzp5ln5dS0OJ5El2W9drHA=="/>
-        <POI MapID="1263" xpos="-513.942" ypos="140.202" zpos="-413.363" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="KtWgyGyYTkGpSLTuPUdf/g=="/>
-        <POI MapID="1263" xpos="-366.675" ypos="84.3554" zpos="-437.162" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="yM1OTvhvAU+Ww+BcZZslUA=="/>
-        <POI MapID="1263" xpos="-451.64" ypos="64.1492" zpos="-369.187" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="ukd+v9vDckqBwLbMD3ak9A=="/>
-        <POI MapID="1263" xpos="-561.515" ypos="1.57768" zpos="-687.194" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="AsxFzah1Sk+qiAsH5cLuIQ=="/>
-        <POI MapID="1263" xpos="71.3656" ypos="3.62035" zpos="-370.658" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="7nhmB59YWkaXWC7aeepraA=="/>
-        <POI MapID="1263" xpos="102.364" ypos="46.02" zpos="-554.196" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="k/a/13aqYEGkjOkeUikCSw=="/>
-        <POI MapID="1263" xpos="476.296" ypos="86.148" zpos="-626.489" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="bKc4v3rR40ClFYV6D4YGfg=="/>
-        <POI MapID="1263" xpos="315.122" ypos="118.324" zpos="-462.051" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="n9ycLf20okKPD2dnp2Ml4Q=="/>
-        <POI MapID="1263" xpos="307.889" ypos="197.904" zpos="-521.124" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="Ra4K/ierwEu+tZGUGUq7FQ=="/>
-        <POI MapID="1263" xpos="-555.632" ypos="2.77287" zpos="425.756" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="5BC6L6rbDk6enHdTwt7/Dw=="/>
-        <POI MapID="1263" xpos="-145.693" ypos="111.12" zpos="37.9202" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="wN3xJ5zDIUeJYvBcSV8bDw=="/>
-        <POI MapID="1263" xpos="-180.26" ypos="157.66" zpos="294.402" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="Hp6Ne7VmH02t8Zxi4Z4UFQ=="/>
-        <POI MapID="1263" xpos="-126.888" ypos="264.711" zpos="-32.0574" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="k0srJAUn7k6gDfNXNNvHmg=="/>
-        <POI MapID="1263" xpos="-34.1267" ypos="208.051" zpos="-105.521" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="ozIJY/FYJUqW6mgS/G3H9g=="/>
-        <POI MapID="1263" xpos="-109.24" ypos="155.649" zpos="-238.181" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="3IqARYQK2U+UF5AxYg8IPw=="/>
-        <POI MapID="1263" xpos="-24.8185" ypos="177.407" zpos="-179.635" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="s/s8kOqqtkCn73KqPW0l9g=="/>
-        <POI MapID="1263" xpos="215.399" ypos="239.238" zpos="-477.875" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="lycoPmyslU+KCHRhNxTiEg=="/>
-        <POI MapID="1263" xpos="-261.229" ypos="8.35802" zpos="530.006" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="KrKXQOCjXEm9JenjslDCsA=="/>
+        <POI MapID="1263" xpos="183.681" ypos="211.941" zpos="467.296" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="amnNu7rd5Uu4FquuBE5CLA=="/>
+        <POI MapID="1263" xpos="172.722" ypos="46.261" zpos="259.088" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="MohQZdliBUaqeyO5xmTnrA=="/>
+        <POI MapID="1263" xpos="179.333" ypos="112.098" zpos="566.213" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="UOJa9k7p70Oy6Mpy5NyitA=="/>
+        <POI MapID="1263" xpos="282.185" ypos="86.8017" zpos="582.785" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="f2EzOCyirU2lQea8y2LQUA=="/>
+        <POI MapID="1263" xpos="131.941" ypos="90.8412" zpos="683.632" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="ac5OOwFdQk6JwvYroMCY2w=="/>
+        <POI MapID="1263" xpos="101.841" ypos="5.77325" zpos="726.205" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="FfOm6AbZb0qXVxkK3FQ9NQ=="/>
+        <POI MapID="1263" xpos="183.975" ypos="211.963" zpos="467.415" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="rF+pdXyw6kKrfxpPQJ2sdA=="/>
+        <POI MapID="1263" xpos="-603.992" ypos="51.163" zpos="-38.723" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="FtKEeDBuu062grmKh1wY3A=="/>
+        <POI MapID="1263" xpos="-808.985" ypos="97.4697" zpos="-25.7484" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="8d9MeCNldEC/1jTl2NJulg=="/>
+        <POI MapID="1263" xpos="-884.862" ypos="75.9328" zpos="92.2153" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="xncpR7mSrEygs31IKHqClg=="/>
+        <POI MapID="1263" xpos="-774.441" ypos="91.2719" zpos="169.767" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="V3/bcXoeGkKjGe2hIka7zQ=="/>
+        <POI MapID="1263" xpos="-520.925" ypos="88.8596" zpos="-162.537" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="HadRF7PYz0Ws0kPjJELcXA=="/>
+        <POI MapID="1263" xpos="-457.818" ypos="73.1627" zpos="-75.3846" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="OpfGNwC+ykymphhoprCOIA=="/>
+        <POI MapID="1263" xpos="-321.122" ypos="25.8715" zpos="-53.3444" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="WYaF2BAL2UWwNKdCUmbPVQ=="/>
+        <POI MapID="1263" xpos="-638.838" ypos="114.794" zpos="-321.072" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="byz8SY4rg0mtva48gWhMjQ=="/>
+        <POI MapID="1263" xpos="-684.475" ypos="82.7381" zpos="-462.5" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="zzp85C+HREaulj2xFZkT4g=="/>
+        <POI MapID="1263" xpos="-830.87" ypos="64.7223" zpos="-347.83" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="2Pm7NFVU5kW7WZJtcNb6wg=="/>
+        <POI MapID="1263" xpos="-513.942" ypos="140.202" zpos="-413.363" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="MvtUfbZdaESojvACDs/9LQ=="/>
+        <POI MapID="1263" xpos="-366.675" ypos="84.3554" zpos="-437.162" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="Y+RBQXHu20ygxQcWNWzQgw=="/>
+        <POI MapID="1263" xpos="-451.64" ypos="64.1492" zpos="-369.187" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="ToKGj1fW+kyeTFeum5QUCg=="/>
+        <POI MapID="1263" xpos="-561.515" ypos="1.57768" zpos="-687.194" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="Oqxp6Qd5C0qFW00WHc5wCw=="/>
+        <POI MapID="1263" xpos="71.3656" ypos="3.62035" zpos="-370.658" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="MCuLMHLQpk62e0VcKB3K3Q=="/>
+        <POI MapID="1263" xpos="102.364" ypos="46.02" zpos="-554.196" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="UNuTkpw+iUCpezjywt/sXA=="/>
+        <POI MapID="1263" xpos="476.296" ypos="86.148" zpos="-626.489" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="a6GpDw4XgUiXk27i3+F3/w=="/>
+        <POI MapID="1263" xpos="315.122" ypos="118.324" zpos="-462.051" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="iC//SrlXpkWiJAqug5Mljg=="/>
+        <POI MapID="1263" xpos="307.889" ypos="197.904" zpos="-521.124" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="67f531u2iEWZxSvvIM0mbg=="/>
+        <POI MapID="1263" xpos="-555.632" ypos="2.77287" zpos="425.756" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="LRqFcQopTEGBf7khubD4Yg=="/>
+        <POI MapID="1263" xpos="-145.693" ypos="111.12" zpos="37.9202" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="PTltmyNjKk+ulYQLwCI3CQ=="/>
+        <POI MapID="1263" xpos="-180.26" ypos="157.66" zpos="294.402" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="2ALXx6Mr4kGz263wM3su+g=="/>
+        <POI MapID="1263" xpos="-126.888" ypos="264.711" zpos="-32.0574" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="b+2dkqqPqkKuS42n/KJcLA=="/>
+        <POI MapID="1263" xpos="-34.1267" ypos="208.051" zpos="-105.521" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="WjhxijBUwkyXERhSFixkww=="/>
+        <POI MapID="1263" xpos="-109.24" ypos="155.649" zpos="-238.181" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="3+9s0s767kyO/3Md0eangg=="/>
+        <POI MapID="1263" xpos="-24.8185" ypos="177.407" zpos="-179.635" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="MBcCGthpUU2xXKzQ7ydYXA=="/>
+        <POI MapID="1263" xpos="215.399" ypos="239.238" zpos="-477.875" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="1Dr3EU8dkEORQQKkezYClg=="/>
+        <POI MapID="1263" xpos="-261.229" ypos="8.35802" zpos="530.006" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="tydXtkCRAkmEMHW4m6Bi3A=="/>
 
         <!-- Sandswept Isles - Leather -->
 
