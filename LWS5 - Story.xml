@@ -1,0 +1,42 @@
+<OverlayData>
+    <POIs>
+        <!-- STORY ACHIEVEMENTS -->
+
+        <!-- CHAPTER 0: PRELUDE -->
+
+        <POI MapID="1329" xpos="-104.109" ypos="13.4983" zpos="153.689" type="leag.lws5.story.harpoon.icon" GUID="S9aZn9ndikGGXa3+XuuemQ=="/>
+        <POI MapID="1329" xpos="-128.993" ypos="10.3524" zpos="85.6699" type="leag.lws5.story.harpoon.icon" GUID="mjKrgIDcCESrXIhm/XBLuw=="/>
+        <POI MapID="1329" xpos="-90.277" ypos="17.4087" zpos="57.2776" type="leag.lws5.story.harpoon.icon" GUID="/oAIqdGuBEuMkuRmYd/DCw=="/>
+        <POI MapID="1329" xpos="-62.0313" ypos="14.8183" zpos="80.5291" type="leag.lws5.story.harpoon.icon" GUID="8vSbpD1rJkiVDqlQwI2Fqw=="/>
+
+        <POI MapID="1329" xpos="-58.5127" ypos="18.3496" zpos="83.3893" type="leag.lws5.story.diplomat.emote" GUID="/KdRbvvRnEedxgkwzoncVg=="/>
+
+        <POI MapID="1329" xpos="-68.7863" ypos="17.5868" zpos="152.242" type="leag.lws5.story.town.talk" GUID="V/rKEFJlqkOFE7W2H0An/g=="/>
+        <POI MapID="1329" xpos="-92.6002" ypos="13.7319" zpos="154.791" type="leag.lws5.story.town.talk" GUID="Hb6SkudrJkKWCfMmSWOORQ=="/>
+        <POI MapID="1329" xpos="-50.9556" ypos="19.2086" zpos="66.2118" type="leag.lws5.story.town.talk" GUID="m0OTvJDxokuK+Wra8m/HdQ=="/>
+        <POI MapID="1329" xpos="-95.1447" ypos="8.9292" zpos="53.6764" type="leag.lws5.story.town.talk" GUID="42Jcg8bze0qnVLvVqlLCsg=="/>
+        <POI MapID="1329" xpos="-63.1407" ypos="7.43238" zpos="92.8296" type="leag.lws5.story.town.talk" GUID="ENr8zQjQh0CmdR5BKNRsKw=="/>
+
+        <POI MapID="1329" xpos="-88.4085" ypos="7.73042" zpos="114.258" type="leag.lws5.story.imperator.icon" GUID="nELEZWNZOkK3uxOam95coQ=="/>
+
+        <POI MapID="1330" xpos="-353.548" ypos="23.6552" zpos="371.354" type="leag.lws5.story.chaperone.braham" GUID="unMpa9ApD0KvV0r6L1i5tA=="/>
+        <POI MapID="1330" xpos="-9.88801" ypos="42.5892" zpos="223.372" type="leag.lws5.story.chaperone.braham" GUID="1izayCRB+0edP6nX5Cglzw=="/>
+        <POI MapID="1330" xpos="103.305" ypos="53.8499" zpos="-550.473" type="leag.lws5.story.chaperone.braham" GUID="efqM9GbfU0u+vmviNo4PpA=="/>
+        <POI MapID="1330" xpos="568.255" ypos="88.4137" zpos="-386.892" type="leag.lws5.story.chaperone.braham" GUID="WEhVrPgYG0SDARhil6OuAA=="/>
+        <POI MapID="1330" xpos="-341.224" ypos="32.2197" zpos="-170.848" type="leag.lws5.story.chaperone.braham" GUID="NOxME/yPxU+fA46+ehzSYw=="/>
+
+        <POI MapID="1330" xpos="-13.9136" ypos="42.5204" zpos="228.715" type="leag.lws5.story.consoler.talk" GUID="2iD3cWhwYEy71dNbb5ptrA==" info="2. I'm sorry. But sometimes, with a little patience, things get better." infoRange="3"/>
+        <POI MapID="1330" xpos="-7.51723" ypos="42.4065" zpos="228.015" type="leag.lws5.story.consoler.talk" GUID="yxkoPWXj8kyGDD3goH86ug==" info="1. Peace's a tough mission. Flame Legion elders need your help to complete it." infoRange="3"/>
+        <POI MapID="1330" xpos="-4.20418" ypos="42.5346" zpos="220.741" type="leag.lws5.story.consoler.talk" GUID="Kj5FWzU+Q0GYfQXdn/16tQ==" info="1. You'll always be Flame Legion, but the legions need each other." infoRange="3"/>
+
+        <POI MapID="1334" xpos="-497.497" ypos="100.384" zpos="-224.676" type="leag.lws5.story.fight.talk" GUID="EYR8x8aoyEyEuscmrDS9Jg=="/>
+        <POI MapID="1334" xpos="-458.988" ypos="100.831" zpos="-198.663" type="leag.lws5.story.fight.talk" GUID="6M1s9Rpc7kucv1UO+nUA5g==" info="After earning the Staying in Character achievement&#xa;Log Out to Character Select and then replay the Story&#xa;To earn Straight-Up Fight achievement" infoRange="10" autoTrigger="1" triggerRange="10"/>
+
+        <POI MapID="1336" xpos="-780.224" ypos="159.696" zpos="-245.491" type="leag.lws5.story.untouchable.fight" GUID="cfrwyTq6DkK0HlX6wpmjBQ=="/>
+
+        <Trail type="leag.lws5.story.freeze.glide" trailData="Data/LWS5/Flash Freeze Glide.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png"/>
+        <Trail type="leag.lws5.story.freeze.foot" trailData="Data/LWS5/Flash Freeze.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png"/>
+        <POI MapID="1336" xpos="-809.128" ypos="160.571" zpos="-284.254" type="leag.lws5.story.freeze.glider" GUID="OR0QbdQpNk+uCKyV4CtHdg=="/>
+
+    </POIs>
+</OverlayData>

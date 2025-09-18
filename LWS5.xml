@@ -1,5 +1,8 @@
 <OverlayData>
     <POIs>
+        <!-- MAP ACHIEVEMENTS -->
+
+        <!-- Bjora Marches -->
         <Trail type="leag.lws5.bjora.idolatry" trailData="Data/LWS5/Idolatry 1.trl" color="5BA4C6"/>
         <Trail type="leag.lws5.bjora.idolatry" trailData="Data/LWS5/Idolatry 2.trl" color="5BA4C6"/>
         <Trail type="leag.lws5.bjora.idolatry" trailData="Data/LWS5/Idolatry 3.trl" color="5BA4C6"/>
@@ -37,5 +40,235 @@
         <POI MapID="1343" xpos="-394.02" ypos="256.728" zpos="-404.84" type="leag.lws5.bjora.idolatry.mount.springer" GUID="+9fc1kYjmkupXUsWkQupig=="/>
         <POI MapID="1343" xpos="-562.798" ypos="203.62" zpos="-142.955" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="0ObWPKgQw0q75Ww4rOYEFw=="/>
         <POI MapID="1343" xpos="-503.573" ypos="205.992" zpos="-78.222" type="leag.lws5.bjora.idolatry.mount.raptor" GUID="O3wawyQCCUqmCIYpXRbVeQ=="/>
+
+
+        <!-- Grothmar Valley -->
+
+        <!-- A Carved Path -->
+        <POI MapID="1330" xpos="228.805" ypos="34.9497" zpos="25.744" type="leag.lws5.grothmar.acp.info" GUID="FyML5vD7yE+qZ0zaPRX/YA==" info="Take note of the symbols and then locate the trees within The Wardowns." infoRange="5"/>
+        <POI MapID="1330" xpos="216.823" ypos="50.004" zpos="-131.801" type="leag.lws5.grothmar.acp.smileyface" GUID="h7MdY0vsCE+xTg3DONv+dQ=="/>
+        <POI MapID="1330" xpos="208.951" ypos="45.1894" zpos="-202.331" type="leag.lws5.grothmar.acp.animal" GUID="knMzpaDh8k66a9cVniNb8w=="/>
+        <POI MapID="1330" xpos="244.241" ypos="45.4951" zpos="-300.253" type="leag.lws5.grothmar.acp.tail" GUID="cZsaBjC71EeFDr9dlDrXDw=="/>
+        <POI MapID="1330" xpos="185.059" ypos="15.5183" zpos="-319.04" type="leag.lws5.grothmar.acp.mountain" GUID="cDATpm6b+kWn0BJxjIw7Sg=="/>
+        <POI MapID="1330" xpos="142.377" ypos="25.7086" zpos="-417.376" type="leag.lws5.grothmar.acp.waves" GUID="NUVr8PQmQEO/KF+L8nEX8g=="/>
+        <POI MapID="1330" xpos="83.6638" ypos="42.9309" zpos="-369.631" type="leag.lws5.grothmar.acp.claw" GUID="/GAgNtSAWEOiXyuH+uS7Og=="/>
+        <POI MapID="1330" xpos="57.4761" ypos="50.05" zpos="-366.401" type="leag.lws5.grothmar.acp.fire" GUID="06NG2TZ0EEmhxIO7SxxK9A=="/>
+        <POI MapID="1330" xpos="-30.9987" ypos="31.7652" zpos="-281.283" type="leag.lws5.grothmar.acp.tree" GUID="i6cpkcozjEaaT+cOYA8+FA=="/>
+
+        <Trail type="leag.lws5.grothmar.bodyguarded" trailData="Data/LWS5/Bodyguarded.trl" color="DEC200"/>
+        <POI MapID="1330" xpos="69.0485" ypos="45.6716" zpos="81.2302" type="leag.lws5.grothmar.bodyguarded.meta" GUID="0MoD0cJCJkOocTerUtNocw=="/>
+        <POI MapID="1330" xpos="69.0485" ypos="48.3724" zpos="81.2302" type="leag.lws5.grothmar.bodyguarded.talk" GUID="hlTWLShBDEaArTc8JNNxSQ=="/>
+
+        <Trail type="leag.lws5.grothmar.brand" trailData="Data/LWS5/Brand Stomped.trl"/>
+
+        <Trail type="leag.lws5.grothmar.efe" trailData="Data/LWS5/Eyes for Ears.trl"/>
+        <POI MapID="1330" xpos="-288.908" ypos="31.5353" zpos="-126.098" type="leag.lws5.grothmar.brand.start" GUID="0JpV6tcYiU6zwiGubl9M2A=="/>
+        <POI MapID="1330" xpos="-319.913" ypos="29.5834" zpos="5.21943" type="leag.lws5.grothmar.brand.mount.skyscale" GUID="1C+Ke5LEKkyVBaSBD/XTMw=="/>
+        <POI MapID="1330" xpos="-509.699" ypos="44.1789" zpos="354.302" type="leag.lws5.grothmar.brand.mount.springer" GUID="G/yZ+6OVyEqBwsSLDURYzw=="/>
+        <POI MapID="1330" xpos="-115.817" ypos="40.9299" zpos="437.928" type="leag.lws5.grothmar.brand.mount.springer" GUID="w2pmlwYrykiJbbOCfoluTg=="/>
+        <POI MapID="1330" xpos="576.151" ypos="-0.430229" zpos="130.222" type="leag.lws5.grothmar.brand.mount.skimmer" GUID="iHqUjHkFIEKSGs/LAOm6qw=="/>
+        <POI MapID="1330" xpos="404.406" ypos="1.74645" zpos="76.9114" type="leag.lws5.grothmar.brand.mount.springer" GUID="jTLaEGjkmkGy6SXCNbcOHQ=="/>
+        <POI MapID="1330" xpos="351.043" ypos="41.1658" zpos="76.3371" type="leag.lws5.grothmar.brand.mount.skyscale" GUID="N/N390gJQkqQTQ70ka0BDQ=="/>
+        <POI MapID="1330" xpos="56.7616" ypos="46.6056" zpos="-28.4558" type="leag.lws5.grothmar.brand.mount.skyscale" GUID="cP8iM30jJ0GF++/gExS9PA=="/>
+        <POI MapID="1330" xpos="-87.5369" ypos="23.7843" zpos="-175.686" type="leag.lws5.grothmar.brand.mount.skyscale" GUID="wDpUmAxwyUy389v/xnZgfA=="/>
+        <POI MapID="1330" xpos="13.177" ypos="42.9078" zpos="-305.44" type="leag.lws5.grothmar.brand.mount.skyscale" GUID="d8HeJSZfXUuyPzX/HTAQcA=="/>
+        <POI MapID="1330" xpos="267.128" ypos="65.3115" zpos="-374.551" type="leag.lws5.grothmar.brand.glider" GUID="E25huGSQ1k+aJI95ziKBDw=="/>
+        <POI MapID="1330" xpos="-96.3806" ypos="55.1801" zpos="-678.797" type="leag.lws5.grothmar.brand.mount.skyscale" GUID="h/X0eENMw0uPgWpJ9EI8yQ=="/>
+
+        <POI MapID="1330" xpos="-390.214" ypos="55.0966" zpos="-481.177" type="leag.lws5.grothmar.ballooning.event" GUID="BT0jUrhRbkuaDIdUm7gO+w=="/>
+        <POI MapID="1330" xpos="9.21395" ypos="39.7425" zpos="-88.5116" type="leag.lws5.grothmar.bellows.event" GUID="t7PEM1KlaEOtwCkRdfIg3Q=="/>
+
+        <POI MapID="1330" xpos="-160.304" ypos="39.4395" zpos="410.208" type="leag.lws5.grothmar.cattle.event" GUID="l+wyg6q/tEKPwhQaBguxYg=="/>
+
+        <POI MapID="1330" xpos="-92.9962" ypos="16.6042" zpos="100.884" type="leag.lws5.grothmar.champion.event" GUID="4vJA9/j0LUSFDe+uU2MtUg=="/>
+        <POI MapID="1330" xpos="-396.3146" ypos="30.65554" zpos="-45.7436" type="leag.lws5.grothmar.chef.event" GUID="9feiQs/hjka9CfMEHIhKSQ=="/>
+
+        <POI MapID="1330" xpos="-124.289" ypos="12.9011" zpos="102.07" type="leag.lws5.grothmar.don.event" GUID="sDwndFjGW0q5b52wVL7OvA=="/>
+
+        <POI MapID="1330" xpos="575.865" ypos="4.03354" zpos="-134.627" type="leag.lws5.grothmar.eye.talk" GUID="+kdPBlfn90yEMJp9F9owXg=="/>
+        <POI MapID="1330" xpos="591.879" ypos="5.05403" zpos="-130.189" type="leag.lws5.grothmar.efe.talk" GUID="bhcjou8SdEijRkgPjFergA=="/>
+        <POI MapID="1330" xpos="605.088" ypos="4.01781" zpos="-122.686" type="leag.lws5.grothmar.eye.icon.1" GUID="4S4/HLuB7ESCuxkm++Wfyg=="/>
+        <POI MapID="1330" xpos="596.592" ypos="-1.18601" zpos="-113.545" type="leag.lws5.grothmar.eye.icon.2" GUID="oC3GVRyQZEGBPL5IXwi8DA=="/>
+        <POI MapID="1330" xpos="612.114" ypos="0.102045" zpos="-102.929" type="leag.lws5.grothmar.eye.icon.3" GUID="BUAmm/i8okGYQzyvVM4/hw=="/>
+        <POI MapID="1330" xpos="590.886" ypos="2.18977" zpos="-144.557" type="leag.lws5.grothmar.eye.icon.4" GUID="JF7syjcHTky6B7cfUhX/zA=="/>
+        <POI MapID="1330" xpos="575.929" ypos="-0.953918" zpos="-134.938" type="leag.lws5.grothmar.eye.icon.5" GUID="iQamkItqikq+zllLxs/CAw=="/>
+
+        <POI MapID="1330" xpos="223.404" ypos="33.8661" zpos="30.4096" type="leag.lws5.grothmar.efe.icon" GUID="/tH263JyaEWYNzRTwCknVg=="/>
+        <POI MapID="1330" xpos="68.1555" ypos="43.7383" zpos="63.7694" type="leag.lws5.grothmar.efe.icon" GUID="dEXS8mgYuUOKte5BcxTTdg=="/>
+        <POI MapID="1330" xpos="-14.8096" ypos="35.5236" zpos="229.803" type="leag.lws5.grothmar.efe.icon" GUID="+I0nqNsN/EyDojkLE4XlNw=="/>
+        <POI MapID="1330" xpos="-31.5068" ypos="27.8028" zpos="-116.134" type="leag.lws5.grothmar.efe.icon" GUID="dPtbi2pCyU+piuOkG0m+Nw=="/>
+        <POI MapID="1330" xpos="-282.361" ypos="53.9626" zpos="120.217" type="leag.lws5.grothmar.efe.icon" GUID="Z1z7OqlVt0qhubP0qMvlxg=="/>
+        <POI MapID="1330" xpos="-424.745" ypos="45.3262" zpos="-36.3828" type="leag.lws5.grothmar.efe.icon" GUID="4n2o37zIXkCHoDUvEQ2OsQ=="/>
+        <POI MapID="1330" xpos="-239.567" ypos="76.6267" zpos="-163.849" type="leag.lws5.grothmar.efe.icon" GUID="y/zyaz1PvUqOAYJ6wDNKZg=="/>
+        <POI MapID="1330" xpos="-260.93" ypos="57.0395" zpos="-165.579" type="leag.lws5.grothmar.efe.glider" GUID="LpYCWZIGwU+YPp9gZZANOA=="/>
+        <POI MapID="1330" xpos="-335.815" ypos="29.6252" zpos="-169.775" type="leag.lws5.grothmar.efe.mount.springer" GUID="CiBS81HsS06zCUvDCTsoxQ=="/>
+        <POI MapID="1330" xpos="-335.121" ypos="47.9243" zpos="-175.934" type="leag.lws5.grothmar.efe.icon" GUID="il+SkGjPxUiFAMR+wxkCSg=="/>
+        <POI MapID="1330" xpos="-498.482" ypos="55.1173" zpos="-149.56" type="leag.lws5.grothmar.efe.icon" GUID="jAARzAefxUWMrCKPCYTgrw=="/>
+        <POI MapID="1330" xpos="-387.319" ypos="65.4952" zpos="-122.627" type="leag.lws5.grothmar.efe.icon" GUID="Ia14vvKNgUSpkddjauh2VQ=="/>
+        <POI MapID="1330" xpos="-348.877" ypos="53.0924" zpos="-277.305" type="leag.lws5.grothmar.efe.mount.skyscale" GUID="FqUF+rCsc0600+4YLVmJfg=="/>
+        <POI MapID="1330" xpos="-387.842" ypos="106.872" zpos="-268.983" type="leag.lws5.grothmar.efe.icon" GUID="SMI4daWzP0GgptlDKOexQA=="/>
+        <POI MapID="1330" xpos="-382.206" ypos="105.433" zpos="-292.944" type="leag.lws5.grothmar.efe.mount.skyscale" GUID="FedvhOIwTkOvNqlpjqQbGQ=="/>
+        <POI MapID="1330" xpos="-163.482" ypos="6.2804" zpos="-570.444" type="leag.lws5.grothmar.efe.icon" GUID="H4Tx67mEh023O4dFfC7lUg=="/>
+        <POI MapID="1330" xpos="560.807" ypos="83.2949" zpos="-386.672" type="leag.lws5.grothmar.efe.icon" GUID="p/AX4289EUyxswIusMmo/g=="/>
+        <POI MapID="1330" xpos="603.354" ypos="81.627" zpos="-370.043" type="leag.lws5.grothmar.efe.mount.skyscale" GUID="8whapDmvwkKgaIndLD4UzA=="/>
+        <POI MapID="1330" xpos="840.977" ypos="65.5784" zpos="-128.247" type="leag.lws5.grothmar.efe.icon" GUID="pGNhsY4FAkO8owaZJ/1PIQ=="/>
+
+        <POI MapID="1330" xpos="-491.486" ypos="77.3196" zpos="390.886" type="leag.lws5.grothmar.gap.event" GUID="tIA3O1Kzyky6Es/rmkDUuQ=="/>
+
+        <Trail type="leag.lws5.grothmar.historian" trailData="Data/LWS5/Grothmar Valley Historian 1.trl"/>
+        <Trail type="leag.lws5.grothmar.historian" trailData="Data/LWS5/Grothmar Valley Historian 2.trl"/>
+        <Trail type="leag.lws5.grothmar.historian" trailData="Data/LWS5/Grothmar Valley Historian 3.trl"/>
+        <Trail type="leag.lws5.grothmar.historian" trailData="Data/LWS5/Grothmar Valley Historian 4.trl"/>
+        <POI MapID="1330" xpos="361.436" ypos="81.7098" zpos="428.066" type="leag.lws5.grothmar.historian.wp" GUID="kAB3HqSIB0qpyOfTk+1jUw==" copy="[&BA4MAAA=]" copy-message="Dalada Forest Waypoint"/>
+        <POI MapID="1330" xpos="576.384" ypos="0.657579" zpos="-89.0442" type="leag.lws5.grothmar.historian.wp" GUID="Cj4Tgtfv2k+W2R9VT01mtw==" copy="[&BBsMAAA=]" copy-message="Blood Keep Waypoint"/>
+        <POI MapID="1330" xpos="-162.218" ypos="-2.39493" zpos="-609.182" type="leag.lws5.grothmar.historian.wp" GUID="xzUUwoX6ZUWrb29fovf+og==" copy="[&BPgLAAA=]" copy-message="Wardowns Waypoint"/>
+        <POI MapID="1330" xpos="-312.645" ypos="29.6462" zpos="-50.6305" type="leag.lws5.grothmar.historian.start" GUID="FF2mVL+9NkKgfa49gn9nJA=="/>
+        <POI MapID="1330" xpos="-306.873" ypos="29.5997" zpos="-33.5703" type="leag.lws5.grothmar.historian.path.1" GUID="jPjWgNPN1UONYcMHV1SfNQ=="/>
+        <POI MapID="1330" xpos="-293.88" ypos="29.4808" zpos="-3.61224" type="leag.lws5.grothmar.historian.glider" GUID="TJj7ocLICE69VKByLemf7A=="/>
+        <POI MapID="1330" xpos="-310.684" ypos="15.5634" zpos="36.7178" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="g+uUoK96O0mNVOqi1NwtLA=="/>
+        <POI MapID="1330" xpos="-276.896" ypos="99.8045" zpos="139.846" type="leag.lws5.grothmar.historian.glider" GUID="UvE0zWL+r0CzQ2laNz5aNw=="/>
+        <POI MapID="1330" xpos="-395.103" ypos="20.1942" zpos="163.867" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="ZqS906neMUGddNPDM9vyxg=="/>
+        <POI MapID="1330" xpos="-512.263" ypos="73.0924" zpos="118.776" type="leag.lws5.grothmar.historian.glider" GUID="br+eAiEhlUymveCw1rIaVg=="/>
+        <POI MapID="1330" xpos="-486.784" ypos="-0.0683256" zpos="265.575" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="oJR/9gfOCkSnGkuZdmHjog=="/>
+        <POI MapID="1330" xpos="-463.05" ypos="47.6248" zpos="420.876" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="lh1ASQQfvEu+uUK9ul1m4A=="/>
+        <POI MapID="1330" xpos="-269.517" ypos="56.637" zpos="484.76" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="V+LCR7EAi0WdIyAcTbtZng=="/>
+        <POI MapID="1330" xpos="36.5287" ypos="109.851" zpos="450.612" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="b/1hY0ejQ0Wm1E7oM9ciAw=="/>
+        <POI MapID="1330" xpos="100.188" ypos="128.163" zpos="402.744" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="twZ8lDnwdkS0hSdrwbVXSA=="/>
+        <POI MapID="1330" xpos="484.516" ypos="19.4962" zpos="159.718" type="leag.lws5.grothmar.historian.path.2" GUID="pOS1mMdEnkypKfKNATxTzw=="/>
+        <POI MapID="1330" xpos="482.792" ypos="18.2617" zpos="155.625" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="Hzo1Xm0nkkSdlQIS6JnBVw=="/>
+        <POI MapID="1330" xpos="352.778" ypos="14.7831" zpos="-242.799" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="RHo+pR1XYk6vYcKKHPxIbA=="/>
+        <POI MapID="1330" xpos="576.384" ypos="0.657579" zpos="-89.0442" type="leag.lws5.grothmar.historian.wp" GUID="Cj4Tgtfv2k+W2R9VT01mtw=="/>
+        <POI MapID="1330" xpos="-311.321" ypos="29.5978" zpos="-36.8372" type="leag.lws5.grothmar.historian.path.3" GUID="qwXP3X6CZU68pFSZBI/P6g=="/>
+        <POI MapID="1330" xpos="-386.375" ypos="31.4006" zpos="-5.58934" type="leag.lws5.grothmar.historian.mount.springer" GUID="n7HwI+jwwE2G7lC7eF8a3A=="/>
+        <POI MapID="1330" xpos="-423.132" ypos="53.1641" zpos="-267.298" type="leag.lws5.grothmar.historian.mount.springer" GUID="ZNOXVT2BdE2cP7CwhX6y2g=="/>
+        <POI MapID="1330" xpos="-261.134" ypos="31.49" zpos="-340.125" type="leag.lws5.grothmar.historian.glider" GUID="6ylvv14KDkqv5MLPHo2mPw=="/>
+        <POI MapID="1330" xpos="-325.308" ypos="10.1888" zpos="-414.06" type="leag.lws5.grothmar.historian.mount.springer" GUID="Rb8RkTBxLEejNELAEbYAaw=="/>
+        <POI MapID="1330" xpos="-384.657" ypos="54.4718" zpos="-579.05" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="Hq3azHaLsEugobzSXaU++A=="/>
+        <POI MapID="1330" xpos="-368.791" ypos="79.6526" zpos="-638.24" type="leag.lws5.grothmar.historian.glider" GUID="WvloJaTXY0q3bgRuLgb5ww=="/>
+        <POI MapID="1330" xpos="-162.218" ypos="-2.39493" zpos="-609.182" type="leag.lws5.grothmar.historian.wp" GUID="xzUUwoX6ZUWrb29fovf+og=="/>
+        <POI MapID="1330" xpos="226.405" ypos="30.92" zpos="-506.451" type="leag.lws5.grothmar.historian.path.4" GUID="L0vz/XkEfUqmebzydl19gQ=="/>
+        <POI MapID="1330" xpos="628.48" ypos="86.5713" zpos="-404.682" type="leag.lws5.grothmar.historian.glider" GUID="y7CmH1zLjUOkmMPiog8VyA=="/>
+        <POI MapID="1330" xpos="811.707" ypos="2.84616" zpos="-444.603" type="leag.lws5.grothmar.historian.mount.skimmer" GUID="DZQSv7CnYUicRlWthUPoQg=="/>
+        <POI MapID="1330" xpos="823.706" ypos="11.2101" zpos="-226.641" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="1uICqL6WkkmOfMTrfpG3VA=="/>
+        <POI MapID="1330" xpos="878.253" ypos="54.487" zpos="-45.0024" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="AmmFRT7Nq0y8Wda875N/Dg=="/>
+        <POI MapID="1330" xpos="930.458" ypos="68.5829" zpos="-30.7056" type="leag.lws5.grothmar.historian.glider" GUID="/+2Bvs6e+E+M6sFmayZEdg=="/>
+        <POI MapID="1330" xpos="782.739" ypos="-0.496063" zpos="313.578" type="leag.lws5.grothmar.historian.mount.springer" GUID="08xY3/Ube0OepWl3Hc/0WQ=="/>
+        <POI MapID="1330" xpos="586.844" ypos="22.2257" zpos="353.967" type="leag.lws5.grothmar.historian.glider" GUID="Lj+QlN5El0W6GPUh1EHCDw=="/>
+        <POI MapID="1330" xpos="577.013" ypos="7.49406" zpos="369.438" type="leag.lws5.grothmar.historian.mount.springer" GUID="PdzJZ4ZZrk2kgndhD2InCQ=="/>
+        <POI MapID="1330" xpos="498.238" ypos="5.27419" zpos="425.707" type="leag.lws5.grothmar.historian.mount.springer" GUID="O4IxXC5OLkG3g2a5Ckby1g=="/>
+        <POI MapID="1330" xpos="518.172" ypos="35.9581" zpos="445.609" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="51iZnzZIH0OUKjjkBbQx1w=="/>
+
+        <POI MapID="1330" xpos="-375.453" ypos="57.4989" zpos="-492.978" type="leag.lws5.grothmar.hotshot.event" GUID="pDZBbn1x+UOjmBpQLcfsbg=="/>
+
+        <POI MapID="1330" xpos="600.983" ypos="86.5713" zpos="-418.097" type="leag.lws5.grothmar.promoter.event" GUID="f7bgpCNTTUy5AyXG0NxbtQ=="/>
+        <POI MapID="1330" xpos="683.467" ypos="-1.05266" zpos="-403.21" type="leag.lws5.grothmar.heads.icon" GUID="GbjpVzfwUE6jfObyun+A/g=="/>
+        
+        <POI MapID="1330" xpos="-332.604" ypos="32.3341" zpos="-155.567" type="leag.lws5.grothmar.mixologist.event" GUID="OMh3HhfuwEyayTr6JGMpXQ=="/>
+
+        <POI MapID="1330" xpos="136.659" ypos="24.4267" zpos="-583.727" type="leag.lws5.grothmar.ooze.meta" GUID="bVDAPO28+0i9/xUpVD9GTw=="/>
+
+        <POI MapID="1330" xpos="-339.693" ypos="28.9677" zpos="122.217" type="leag.lws5.grothmar.party.champion" GUID="KjjUnjfIt02GwKL9c/1VZg=="/>
+        <POI MapID="1330" xpos="433.898" ypos="-0.450996" zpos="79.5332" type="leag.lws5.grothmar.party.champion" GUID="FLmLVV+TmUidl+V9UpbuLw=="/>
+        <POI MapID="1330" xpos="277.781" ypos="81.9613" zpos="195.319" type="leag.lws5.grothmar.party.champion" GUID="H4Go5KmVvUq7S84ZEEGdkQ=="/>
+        <POI MapID="1330" xpos="367.979" ypos="2.41977" zpos="-550.352" type="leag.lws5.grothmar.party.champion" GUID="InCjXE5yo0CLtppXtd1ZPw=="/>
+        <POI MapID="1330" xpos="701.898" ypos="2.82816" zpos="149.335" type="leag.lws5.grothmar.party.champion" GUID="paJkGTALmEuy6FF4YFU+aQ=="/>
+        <POI MapID="1330" xpos="877.683" ypos="28.8415" zpos="418.574" type="leag.lws5.grothmar.party.champion" GUID="kox+b5g8XkSvc6RbqTlr9A=="/>
+
+        <POI MapID="1330" xpos="781.034" ypos="-0.324186" zpos="451.592" type="leag.lws5.grothmar.spiritbane.event" GUID="Ak5Z8lbqhkqVmTr8qeOqeg=="/>
+        <POI MapID="1330" xpos="77.7784" ypos="25.8906" zpos="-433.922" type="leag.lws5.grothmar.teachers.event" GUID="vJ3M0RKw20GN+wZHIyNadg=="/>
+
+        <Trail type="leag.lws5.grothmar.gauntlet" trailData="Data/LWS5/Gauntlet of the Khan-Ur.trl"/>
+        <POI MapID="1330" xpos="475.656" ypos="16.1657" zpos="153.931" type="leag.lws5.grothmar.gauntlet.start" GUID="Gt0nYjDTvUucyumG2EyDTw=="/>
+
+        <Trail type="leag.lws5.grothmar.feet" trailData="Data/LWS5/Flame Legion Camp.trl"/>
+        <POI MapID="1330" xpos="-30.5762" ypos="25.2356" zpos="234.286" type="leag.lws5.grothmar.feet.start" GUID="gKAHiloBg0iz/bwwxJA9AQ=="/>
+
+        <Trail type="leag.lws5.grothmar.pepper" trailData="Data/LWS5/Pepper Picker.trl"/>
+        <POI MapID="1330" xpos="-314.133" ypos="29.6448" zpos="-51.0937" type="leag.lws5.grothmar.pepper.start" GUID="AAP3SO2biEyeE3yXtUkQBw=="/>
+        <POI MapID="1330" xpos="-264.224" ypos="36.7014" zpos="-330.109" type="leag.lws5.grothmar.pepper.mount.skyscale" GUID="2YtpWFPqhU2kcYUiiLnr9A=="/>
+        <POI MapID="1330" xpos="-397.554" ypos="47.5779" zpos="-425.973" type="leag.lws5.grothmar.pepper.mount.springer" GUID="CF9ESxNo3k6dmkhFtAoTZQ=="/>
+        <POI MapID="1330" xpos="-457.394" ypos="83.2674" zpos="-486.967" type="leag.lws5.grothmar.pepper.mount.skyscale" GUID="LKW66rqljEii1IcAWQTIwg=="/>
+        <POI MapID="1330" xpos="-319.515" ypos="61.9587" zpos="-652.475" type="leag.lws5.grothmar.pepper.glider" GUID="2AALziJYHUaiWXJfbCeK4w=="/>
+        <POI MapID="1330" xpos="-294.323" ypos="54.3178" zpos="-668.977" type="leag.lws5.grothmar.pepper.mount.skyscale" GUID="zEYV498tqUqnIeL2r/o+cQ=="/>
+        <POI MapID="1330" xpos="-138.867" ypos="33.4858" zpos="-665.377" type="leag.lws5.grothmar.pepper.mount.skyscale" GUID="QOKmglBaUkeUHC3gRiAQOw=="/>
+        <POI MapID="1330" xpos="-85.9762" ypos="29.5581" zpos="-570.27" type="leag.lws5.grothmar.pepper.mount.skyscale" GUID="IPZbFL2h2kqdHUZl72p0Xw=="/>
+        <POI MapID="1330" xpos="-154.742" ypos="6.46734" zpos="-470.55" type="leag.lws5.grothmar.pepper.mount.skyscale" GUID="7YBLqTS950ioa3DEGbTb+A=="/>
+        <POI MapID="1330" xpos="36.3698" ypos="22.8053" zpos="-237.565" type="leag.lws5.grothmar.pepper.mount.springer" GUID="uW5NVO0tYEOEv9L5xWm5HQ=="/>
+        <POI MapID="1330" xpos="183.463" ypos="20.9757" zpos="-242.821" type="leag.lws5.grothmar.pepper.mount.springer" GUID="97r6YKXnH0Czuc+/M3wzBQ=="/>
+        <POI MapID="1330" xpos="248.006" ypos="51.27" zpos="-458.996" type="leag.lws5.grothmar.pepper.mount.skyscale" GUID="ndxceGc6YkKQy3uB8EFZsQ=="/>
+        <POI MapID="1330" xpos="369.044" ypos="41.539" zpos="-637.012" type="leag.lws5.grothmar.pepper.glider" GUID="cekoUwAncUKFl4gOy6TEcg=="/>
+        <POI MapID="1330" xpos="518.67" ypos="77.6166" zpos="-377.695" type="leag.lws5.grothmar.pepper.glider" GUID="sItX3GWXik+JiMzNoSv+ww=="/>
+        <POI MapID="1330" xpos="456.393" ypos="24.5668" zpos="-264.52" type="leag.lws5.grothmar.pepper.mount.skyscale" GUID="cOzXC9l0/EeUHcuydB+W+w=="/>
+        <POI MapID="1330" xpos="299.573" ypos="23.9058" zpos="64.4109" type="leag.lws5.grothmar.pepper.mount.springer" GUID="OjBGENHbhUCUFCIaYpnvNg=="/>
+        <POI MapID="1330" xpos="268.714" ypos="56.3008" zpos="147.298" type="leag.lws5.grothmar.pepper.mount.springer" GUID="zn6bTt6VpEKdXgL3nk9CNA=="/>
+        <POI MapID="1330" xpos="232.307" ypos="61.5251" zpos="142.558" type="leag.lws5.grothmar.pepper.mount.springer" GUID="5yMaGgQEH0+nspciZrzmEw=="/>
+        <POI MapID="1330" xpos="155.912" ypos="49.7538" zpos="-42.1417" type="leag.lws5.grothmar.pepper.mount.springer" GUID="3GlPYJbEjUaNXDZ/p+dfdw=="/>
+        <POI MapID="1330" xpos="-16.2588" ypos="27.0247" zpos="67.5622" type="leag.lws5.grothmar.pepper.mount.skyscale" GUID="fzFr13NxOEi2Og9VF3MeDg=="/>
+        <POI MapID="1330" xpos="-204.286" ypos="35.3189" zpos="121.489" type="leag.lws5.grothmar.pepper.glider" GUID="1xcs8X3XikK1ez8bCFqk1Q=="/>
+        <POI MapID="1330" xpos="-436.381" ypos="-0.433596" zpos="165.89" type="leag.lws5.grothmar.pepper.mount.springer" GUID="UHF1kfy0dEWKPGJ8TQLiNg=="/>
+        <POI MapID="1330" xpos="-481.645" ypos="30.8763" zpos="117.129" type="leag.lws5.grothmar.pepper.mount.skyscale" GUID="Bjc2A+8om0uLApY8oNXQUQ=="/>
+        <POI MapID="1330" xpos="-510.117" ypos="44.0274" zpos="354.251" type="leag.lws5.grothmar.pepper.mount.springer" GUID="LA+t4Pizyk2rj3iwPoaNEw=="/>
+        <POI MapID="1330" xpos="-255.052" ypos="45.5364" zpos="446.898" type="leag.lws5.grothmar.pepper.mount.skyscale" GUID="OnCovCUq+Uqagv/IuvdWuw=="/>
+        <POI MapID="1330" xpos="-61.2324" ypos="59.4746" zpos="409.545" type="leag.lws5.grothmar.pepper.mount.springer" GUID="bIP2PjSjXkiIC1W/UoJ86g=="/>
+        <POI MapID="1330" xpos="115.648" ypos="72.8257" zpos="357.891" type="leag.lws5.grothmar.pepper.mount.springer" GUID="zEq0V14xa06/4FUCwp6nxQ=="/>
+        <POI MapID="1330" xpos="396.239" ypos="53.4121" zpos="259.024" type="leag.lws5.grothmar.pepper.glider" GUID="GnJS2hEJGUyI0+XcKwEbpg=="/>
+        <POI MapID="1330" xpos="631.996" ypos="13.4034" zpos="240.195" type="leag.lws5.grothmar.pepper.mount.springer" GUID="J26W0UiZ+U2Libzjuu5YPA=="/>
+        <POI MapID="1330" xpos="696.037" ypos="42.5872" zpos="255.188" type="leag.lws5.grothmar.pepper.glider" GUID="I+Y/ZOWhtk6RirBK5sPOMg=="/>
+        <POI MapID="1330" xpos="782.909" ypos="-0.496126" zpos="312.982" type="leag.lws5.grothmar.pepper.mount.springer" GUID="wwXjtKTupEuzezF/mEsiEA=="/>
+        <POI MapID="1330" xpos="848.321" ypos="30.1835" zpos="497.296" type="leag.lws5.grothmar.pepper.glider" GUID="XNSGjIigoU2GkreW73ZN0A=="/>
+        <POI MapID="1330" xpos="574.434" ypos="7.28746" zpos="365.799" type="leag.lws5.grothmar.pepper.mount.springer" GUID="/1hoOT3LU0+2BL64LXJUkQ=="/>
+        <POI MapID="1330" xpos="498.428" ypos="5.49103" zpos="426.166" type="leag.lws5.grothmar.pepper.mount.springer" GUID="F338AK7tPUmv9Hcc2roIEA=="/>
+        <POI MapID="1330" xpos="518.081" ypos="36.0461" zpos="445.469" type="leag.lws5.grothmar.pepper.mount.skyscale" GUID="auWkl5/zBUavEImNXwNyrg=="/>
+
+        <POI MapID="1330" xpos="-51.1408" ypos="56.7484" zpos="-624.756" type="leag.lws5.grothmar.pest.nest" GUID="SQMF9TgPYE6cWOhwel0aRA=="/>
+        <POI MapID="1330" xpos="-20.4181" ypos="61.2805" zpos="-685.764" type="leag.lws5.grothmar.pest.nest" GUID="tnlKLAnqRkSfIrCXTWfyZA=="/>
+        <POI MapID="1330" xpos="-160.87" ypos="9.75564" zpos="-474.108" type="leag.lws5.grothmar.pest.nest" GUID="gtnZrQeMxkaYzEZVkk5VuA=="/>
+        <POI MapID="1330" xpos="-40.47" ypos="40.4248" zpos="-337.43" type="leag.lws5.grothmar.pest.nest" GUID="q8PHWCBFVUq2MpQqEbF7Ew=="/>
+        <POI MapID="1330" xpos="8.57868" ypos="45.6346" zpos="-389.837" type="leag.lws5.grothmar.pest.nest" GUID="FZqfYZLcXUuO/kijDMm8yA=="/>
+        <POI MapID="1330" xpos="14.3613" ypos="30.6048" zpos="-265.174" type="leag.lws5.grothmar.pest.nest" GUID="DkG1OMX64U6M2lICLt8vkg=="/>
+        <POI MapID="1330" xpos="101.83" ypos="11.2623" zpos="-288.381" type="leag.lws5.grothmar.pest.nest" GUID="1AO0g1UFsUO31iuYAXNneA=="/>
+        <POI MapID="1330" xpos="250.15" ypos="48.7457" zpos="-183.933" type="leag.lws5.grothmar.pest.nest" GUID="GP55uZWQR0CwuxNNe+lA6Q=="/>
+        <POI MapID="1330" xpos="300.766" ypos="45.8056" zpos="-290.808" type="leag.lws5.grothmar.pest.nest" GUID="5EuC3rfEXUKL+lcQaCyuXA=="/>
+        <POI MapID="1330" xpos="248.474" ypos="50.724" zpos="-442.544" type="leag.lws5.grothmar.pest.nest" GUID="tknrnUwus0aX9IHf/pXqYw=="/>
+        <POI MapID="1330" xpos="280.189" ypos="60.211" zpos="-651.639" type="leag.lws5.grothmar.pest.nest" GUID="TP0g9V4CbUSKJuS1Y9xZIA=="/>
+        <POI MapID="1330" xpos="284.531" ypos="60.8949" zpos="-681.557" type="leag.lws5.grothmar.pest.nest" GUID="kMrjiaRshU6+xxVzUtXbNw=="/>
+        <POI MapID="1330" xpos="355.689" ypos="25.6962" zpos="-30.454" type="leag.lws5.grothmar.pest.nest" GUID="LbnVO6+aZEGFFo0FRAZ+ig=="/>
+        <POI MapID="1330" xpos="292.826" ypos="21.122" zpos="41.5292" type="leag.lws5.grothmar.pest.nest" GUID="9hSr3WFEKEKcPbVsbopA2w=="/>
+        <POI MapID="1330" xpos="305.839" ypos="68.567" zpos="182.722" type="leag.lws5.grothmar.pest.nest" GUID="DBP+E9vmrUK4GayEMct+vQ=="/>
+        <POI MapID="1330" xpos="265.275" ypos="85.6855" zpos="204.756" type="leag.lws5.grothmar.pest.nest" GUID="ifbCiSB+sECyZM7zBl0E5Q=="/>
+        <POI MapID="1330" xpos="138.349" ypos="54.7109" zpos="-74.7306" type="leag.lws5.grothmar.pest.nest" GUID="UYAKwQRWZkatbq9ZzdcLgQ=="/>
+        <POI MapID="1330" xpos="-122.808" ypos="27.7672" zpos="274.155" type="leag.lws5.grothmar.pest.nest" GUID="s7gCzfSN+0Kqer9pIKZmog=="/>
+        <POI MapID="1330" xpos="-166.526" ypos="4.95401" zpos="250.609" type="leag.lws5.grothmar.pest.nest" GUID="TaPBbAjIYE6/48ZJTveGtA=="/>
+        <POI MapID="1330" xpos="-352.74" ypos="7.18604" zpos="253.277" type="leag.lws5.grothmar.pest.nest" GUID="E3U7CTgw+ESEAoJwOkdoVQ=="/>
+        <POI MapID="1330" xpos="-86.3867" ypos="42.315" zpos="375.102" type="leag.lws5.grothmar.pest.nest" GUID="ld26G/AX6kuNG5oGdXtNzQ=="/>
+        <POI MapID="1330" xpos="99.0048" ypos="66.6983" zpos="349.257" type="leag.lws5.grothmar.pest.nest" GUID="McwS+g2zj0ypyqgiQ6i/eA=="/>
+        <POI MapID="1330" xpos="206.296" ypos="72.0079" zpos="306.364" type="leag.lws5.grothmar.pest.nest" GUID="fKEtDD9t7UaKoXwSVGD8Iw=="/>
+        <POI MapID="1330" xpos="317.111" ypos="66.6571" zpos="344.906" type="leag.lws5.grothmar.pest.nest" GUID="Q10iPpUIU0qcpS9tBjvG3A=="/>
+        <POI MapID="1330" xpos="381.813" ypos="55.5334" zpos="252.345" type="leag.lws5.grothmar.pest.nest" GUID="5KkkVfb8JEmg705BzewTWw=="/>
+        <POI MapID="1330" xpos="577.204" ypos="6.93281" zpos="355.729" type="leag.lws5.grothmar.pest.nest" GUID="7DcpOs/KzkumtY336+4y1A=="/>
+        <POI MapID="1330" xpos="200.195" ypos="76.6354" zpos="139.464" type="leag.lws5.grothmar.pest.nest" GUID="A2rJ0ptj6kGXUaW1GdWBig=="/>
+
+        <POI MapID="1330" xpos="-274.331" ypos="30.0276" zpos="-144.507" type="leag.lws5.grothmar.picante.merchant" GUID="r8LDjwenvkmAMEdMr61Zeg=="/>
+        <POI MapID="1330" xpos="6.50162" ypos="42.423" zpos="-578.822" type="leag.lws5.grothmar.picante.merchant" GUID="bB1j12d5zEqqGXZp3UC4tA==" tip-name="This Rally Provisioner is only here during the Ooze Pit Trials"/>
+        
+        <Trail type="leag.lws5.grothmar.renownedseeker" trailData="Data/LWS5/Renowned Seeker.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png" color="FF0000"/>
+        <POI MapID="1330" xpos="-328.62" ypos="32.5528" zpos="-259.888" type="leag.lws5.grothmar.renownedseeker.talk" GUID="/MkAA3uiEUyP2sjiwytmsQ=="/>
+        <POI MapID="1330" xpos="-394.245" ypos="30.5822" zpos="-54.4269" type="leag.lws5.grothmar.renownedseeker.mount.springer" GUID="+mf8s9FbAESGeMfh1J98kA=="/>
+
+        <Trail type="leag.lws5.grothmar.secrets" trailData="Data/LWS5/Secrets of the Khan-Ur.trl"/>
+        <POI MapID="1330" xpos="476.902" ypos="16.4027" zpos="152.416" type="leag.lws5.grothmar.secrets.start" GUID="90LY6IgdHky8F+0xVTLx2g=="/>
+        <POI MapID="1330" xpos="587.219" ypos="27.6459" zpos="350.228" type="leag.lws5.grothmar.secrets.mount.raptor" GUID="hBEAXUWM/kWj00LZ8wvnuw=="/>
+        <POI MapID="1330" xpos="499.477" ypos="5.81773" zpos="426.949" type="leag.lws5.grothmar.secrets.mount.springer" GUID="JUwxizhuOEGvGtrcCDFy2w=="/>
+        <POI MapID="1330" xpos="517.964" ypos="36.1715" zpos="445.266" type="leag.lws5.grothmar.secrets.mount.skyscale" GUID="f3gy7x3ltEqzCDyRs9FZbQ=="/>
+        <POI MapID="1330" xpos="451.347" ypos="24.4057" zpos="542.806" type="leag.lws5.grothmar.secrets.ash" GUID="oqtk0kcHeE2cfVqUuxnMww=="/>
+        <POI MapID="1330" xpos="451.923" ypos="25.8104" zpos="547.189" type="leag.lws5.grothmar.secrets.blood" GUID="y9jbl4hc5EWsXIr64/knvA=="/>
+        <POI MapID="1330" xpos="468.614" ypos="24.5295" zpos="547.602" type="leag.lws5.grothmar.secrets.flame" GUID="L9QOES5lEES0SAdWqrr6+Q=="/>
+        <POI MapID="1330" xpos="465.81" ypos="25.9535" zpos="550.572" type="leag.lws5.grothmar.secrets.iron" GUID="2r++WzN1bUWa4mqylp7nYg=="/>
+
+        <POI MapID="1330" xpos="592.099" ypos="85.261" zpos="-411.72" type="leag.lws5.grothmar.limelight.music" GUID="xvjuZkA9b0q/k/dF5mKYcQ==" info="Play any musical instrument novelty on or near the stage during the concert." infoRange="5"/>
+
+        <POI MapID="1330" xpos="-274.331" ypos="30.0276" zpos="-144.507" type="leag.lws5.grothmar.vip.merchant" GUID="zdN5XwPtP0aouYKGR8xAvw=="/>
+        <POI MapID="1330" xpos="6.50162" ypos="42.423" zpos="-578.822" type="leag.lws5.grothmar.vip.merchant" GUID="kAvgl5N+FEuxL3rENtA7Mw==" tip-name="This Rally Provisioner is only here during the Ooze Pit Trials"/>
+
     </POIs>
 </OverlayData>
