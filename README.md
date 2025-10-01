@@ -9,7 +9,7 @@ For more information on Getting Started with either [GW2 TacO](https://www.gw2ta
 
 A new collection of Markers and Trails for use with [GW2 TacO](https://www.gw2taco.com/) (Online Marker Packs) and [Blish HUD](https://blishhud.com/) (Markers and Trails icon, Download Marker Packs) and look for Lady Elyssa's Achievements & Collections.
 
-This pack focuses purely on Achievements and Collections by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of **_1000+ Trails_** and **_3000+ Markers_**. [[1]](https://mp-repo.blishhud.com/LadyElyssaAP.taco.html), [[2]](https://somsubhra.github.io/github-release-stats/?username=LadyElyssa&repository=LadyElyssaAchievementGuides&page=1&per_page=10000), [[3]](https://qwertycube.com/github-release-stats/) 
+This pack focuses purely on Achievements and Collections by [Lady Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa) comprising of **_1750+ Trails_** and **_7800+ Markers_**. [[1]](https://mp-repo.blishhud.com/LadyElyssaAP.taco.html), [[2]](https://somsubhra.github.io/github-release-stats/?username=LadyElyssa&repository=LadyElyssaAchievementGuides&page=1&per_page=10000), [[3]](https://qwertycube.com/github-release-stats/) 
 
 Principles
 * Markers and Trails for non-repeatable Achievements & Collections, for mostly repeatable content see [LadyElyssaTacoTrails](https://github.com/LadyElyssa/LadyElyssaTacoTrails)
