@@ -79,7 +79,9 @@ This pack currently covers:
 * Dragonfall
   
 ## Living World Season 5 - The Icebrood Saga
-* Work in Progress
+* Grothmar Valley
+* Bjora Marches
+* Drizzlewood Coast
 
 ## End of Dragons ##
 * Story Achievements
