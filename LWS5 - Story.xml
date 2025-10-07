@@ -38,5 +38,126 @@
         <Trail type="leag.lws5.story.freeze.foot" trailData="Data/LWS5/Flash Freeze.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png"/>
         <POI MapID="1336" xpos="-809.128" ypos="160.571" zpos="-284.254" type="leag.lws5.story.freeze.glider" GUID="OR0QbdQpNk+uCKyV4CtHdg=="/>
 
+        <!-- CHAPTER 1: Whisper in the Dark -->
+        <Trail type="leag.lws5.story.sanctum" trailData="Data/LWS5/1 - Whisper in the Dark/Raven Sanctum during The Invitation.trl" />
+
+        <!-- CHAPTER 2: Shadow in the Ice -->
+
+        <!-- Visions of the Past: Steel and Fire -->
+
+        <!-- CHAPTER 3: No Quarter -->
+        
+        <POI MapID="1371" xpos="347.998" ypos="114.396" zpos="-1196.57" type="leag.lws5.story.ddd.fix" GUID="TgMznjL/DEmM/MEymhCe1Q=="/>
+        <POI MapID="1371" xpos="543.354" ypos="-35.618" zpos="-651.028" type="leag.lws5.story.ddd.strip" GUID="Df/5XVNA1U6H9HFXtwy0Aw=="/>
+        <POI MapID="1371" xpos="618.718" ypos="-43.4534" zpos="-676.605" type="leag.lws5.story.ddd.strip" GUID="m+knzVgcDUGiSMZluid/ww=="/>
+        <POI MapID="1371" xpos="605.366" ypos="-30.0676" zpos="-588.738" type="leag.lws5.story.ddd.strip" GUID="azXVUevQsUOiDOM8F+iJcA=="/>
+        
+        <POI MapID="1373" xpos="-95.6996" ypos="168.899" zpos="-1187.64" type="leag.lws5.story.diplomat" GUID="qqXk2embe02wX1icVQUlNQ=="/>
+
+        <POI MapID="1375" xpos="6.71785" ypos="9.74096" zpos="-724.008" type="leag.lws5.story.intel" GUID="j4uB57vwLk2h4fBO7N79LQ=="/>
+        <POI MapID="1375" xpos="-0.686257" ypos="6.8068" zpos="-677.265" type="leag.lws5.story.intel" GUID="M13XpjYMaECJamfyiSrrJQ=="/>
+        <POI MapID="1375" xpos="30.8543" ypos="9.29747" zpos="-678.303" type="leag.lws5.story.intel" GUID="8ah5Rngq10uG6JEz+NlLcQ=="/>
+        <POI MapID="1375" xpos="28.6237" ypos="8.17046" zpos="-661.237" type="leag.lws5.story.intel" GUID="aeCViQ6i5UeTlwQfeIx4tg=="/>
+        <POI MapID="1375" xpos="85.1316" ypos="9.76236" zpos="-671.876" type="leag.lws5.story.intel" GUID="AaXTbvWFskmSs/7BEMfRTA=="/>
+        <POI MapID="1375" xpos="70.2742" ypos="9.82607" zpos="-627.447" type="leag.lws5.story.intel" GUID="csh0Ol8OZkiRC4Kp+e0NhA=="/>
+        <POI MapID="1375" xpos="80.0775" ypos="8.95571" zpos="-593.123" type="leag.lws5.story.intel" GUID="hbwHDYBD+UqtVNMPpeAVlg=="/>
+        <POI MapID="1375" xpos="102.794" ypos="9.33341" zpos="-599.041" type="leag.lws5.story.intel" GUID="o1LZxHBXbkGqaOpKudgHjw=="/>
+        <POI MapID="1375" xpos="104.771" ypos="9.18871" zpos="-611.992" type="leag.lws5.story.intel" GUID="IiRKNv+Xc0inO/XpRvBGAg=="/>
+        <POI MapID="1375" xpos="103.628" ypos="9.49669" zpos="-639.868" type="leag.lws5.story.intel" GUID="QFawfHIqnEi/EyMwizqi2Q=="/>
+
+        <POI MapID="1372" xpos="67.5697" ypos="9.09556" zpos="-624.425" type="leag.lws5.story.kitty" GUID="GNbcEK+XTky3txPB1yrRmA=="/>
+        <POI MapID="1372" xpos="80.0759" ypos="9.00245" zpos="-594.272" type="leag.lws5.story.purrsuit.swiftness" GUID="M8bV+ctu1k6nFaH83y7gdQ=="/>
+
+        <POI MapID="1371" xpos="-265.324" ypos="154.101" zpos="-964.368" type="leag.lws5.story.shoulder" GUID="SMMy04I/wEiyf4GRl22YWQ=="/>
+
+        <Trail type="leag.lws5.story.nothing" trailData="Data/LWS5/3 - No Quarter/You Saw Nothing.trl" color="00FF00"/>
+        <POI MapID="1375" xpos="21.9478" ypos="11.4231" zpos="-669.557" type="leag.lws5.story.nothing.key" GUID="wr53wLei2UmLanvXHv8e/Q=="/>
+
+        <Trail type="leag.lws5.story.purrsuit" trailData="Data/LWS5/3 - No Quarter/Fast Purrsuit.trl" color="00FF00"/>
+
+
+        <!-- CHAPTER 4: Jormag Rising -->
+
+        <Trail type="leag.lws5.story.ghost" trailData="Data/LWS5/4 - Jormag Rising/The Ghost.trl" color="00FF00"/>
+
+        <!-- Flight of the Eagle Spirit -->
+        <POI MapID="1371" xpos="275.841" ypos="178.769" zpos="597.238" type="leag.lws5.story.pantheon.dcfotes.sign" GUID="c14CAYRUwUuBv1mSIWWQuQ==" iconFile="Data/Images/Adventures/Flight of the Eagle Spirit.png" mapDisplaySize="64"/>
+        <Trail type="leag.lws5.story.pantheon.dcfotes.to" trailData="Data/LWS5/Adventures/To Flight of the Eagle Spirit.trl" animSpeed="0.5"/>
+        <Trail type="leag.lws5.story.pantheon.dcfotes.trail" trailData="Data/LWS5/Adventures/Flight of the Eagle Spirit.trl" animSpeed="0.5"/>
+        <!-- The Ox's Yoke -->
+        <POI MapID="1371" xpos="-421.674" ypos="8.6316" zpos="416.685" type="leag.lws5.story.pantheon.dctoy.sign" GUID="ka+wHbdtpEejmxMzMMh+nA==" iconFile="Data/Images/Adventures/The Ox's Yoke.png" mapDisplaySize="64"/>
+        <Trail type="leag.lws5.story.pantheon.dctoy.to" trailData="Data/LWS5/Adventures/Drizzlewood To The Ox's Yoke.trl" animSpeed="0.5"/>
+        <Trail type="leag.lws5.story.pantheon.dctoy.trail" trailData="Data/LWS5/Adventures/Drizzlewood The Ox's Yoke.trl" animSpeed="0.5"/>
+
+        <POI MapID="1371" xpos="-326.025" ypos="123.283" zpos="994.258" type="leag.lws5.story.pantheon.wolverine" GUID="EzHc+u/anEi0LvdYqrX5Yw=="/>
+        <POI MapID="1371" xpos="-316.15" ypos="123.141" zpos="985.497" type="leag.lws5.story.pantheon.ox" GUID="D9vK6p3y4UuAPNYd7bWXxw=="/>
+        <POI MapID="1371" xpos="-307.462" ypos="124.656" zpos="995.181" type="leag.lws5.story.pantheon.eagle" GUID="my9snollOkuL7UBwrKtvOg=="/>
+        <POI MapID="1371" xpos="-310.354" ypos="124.885" zpos="1001.69" type="leag.lws5.story.pantheon.owl" GUID="0g24oiMOykKIJMan6aP1zA=="/>
+
+        <POI MapID="1370" xpos="-223.017" ypos="2.54688" zpos="199.614" type="leag.lws5.story.bangar.talk" GUID="H+9549jCk02CUGGvZSEgAQ=="/>
+
+        <!-- CHAPTER 5: Champions -->
+        <!-- Public Instance -->
+        <!-- Fight Promordus's Champion -->
+        <Trail type="leag.lws5.story.insights.metrica" trailData="Data/LWS5/5 - Champions/Public/Champions Insight - Metrica.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.brisban" trailData="Data/LWS5/5 - Champions/Public/Champions Insight - Brisban.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.gendarran" trailData="Data/LWS5/5 - Champions/Public/Champions Insight - Gendarran.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.fields" trailData="Data/LWS5/5 - Champions/Public/Champions Insight - Fields.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.thunderhead" trailData="Data/LWS5/5 - Champions/Public/Champions Insight - Thunderhead.trl" color="99FFFF"/>
+        <!-- Fight Jormag's Champion -->
+        <Trail type="leag.lws5.story.insights.bloodtide" trailData="Data/LWS5/5 - Champions/Public/Champions Insight - Bloodtide.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.caledon" trailData="Data/LWS5/5 - Champions/Public/Champions Insight - Caledon.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.fireheart" trailData="Data/LWS5/5 - Champions/Public/Champions Insight - Fireheart.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.doric" trailData="Data/LWS5/5 - Champions/Public/Champions Insight - Doric.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.snowden" trailData="Data/LWS5/5 - Champions/Public/Champions Insight - Snowden.trl" color="99FFFF"/>
+
+        <!-- Private Instance -->
+        <!-- Fight Promordus's Champion -->
+        <Trail type="leag.lws5.story.insights.metrica" trailData="Data/LWS5/5 - Champions/Private/Champions Insight - Metrica.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.brisban" trailData="Data/LWS5/5 - Champions/Private/Champions Insight - Brisban.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.gendarran" trailData="Data/LWS5/5 - Champions/Private/Champions Insight - Gendarran.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.fields" trailData="Data/LWS5/5 - Champions/Private/Champions Insight - Fields.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.thunderhead" trailData="Data/LWS5/5 - Champions/Private/Champions Insight - Thunderhead.trl" color="99FFFF"/>
+        <!-- Fight Jormag's Champion -->
+        <Trail type="leag.lws5.story.insights.bloodtide" trailData="Data/LWS5/5 - Champions/Private/Champions Insight - Bloodtide.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.caledon" trailData="Data/LWS5/5 - Champions/Private/Champions Insight - Caledon.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.fireheart" trailData="Data/LWS5/5 - Champions/Private/Champions Insight - Fireheart.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.doric" trailData="Data/LWS5/5 - Champions/Private/Champions Insight - Doric.trl" color="99FFFF"/>
+        <Trail type="leag.lws5.story.insights.snowden" trailData="Data/LWS5/5 - Champions/Private/Champions Insight - Snowden.trl" color="99FFFF"/>
+
+        <Trail type="leag.lws5.story.wildfire.silent" trailData="Data/LWS5/5 - Champions/Silent as Leopard, Clever as Raven.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FF00"/>
+        <Trail type="leag.lws5.story.wildfire.strong" trailData="Data/LWS5/5 - Champions/Strong as Bear, Sharp as Wolf.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+        <POI MapID="1408" xpos="28.6226" ypos="945.822" zpos="-187.918" type="leag.lws5.story.wildfire.silent" GUID="nrcuKGjF3E+pY4Hscrf4Ag=="/>
+        <POI MapID="1408" xpos="24.8261" ypos="948.173" zpos="-188.558" type="leag.lws5.story.wildfire.strong" GUID="3MQUUH+E4ki/7u+XFXlmpA=="/>
+
+        <POI MapID="1412" xpos="-44.1626" ypos="108.892" zpos="127.232" type="leag.lws5.story.coalescence" GUID="YmPSAZQaB068AUbforBQWg=="/>
+        <POI MapID="1412" xpos="-26.7813" ypos="113.292" zpos="144.615" type="leag.lws5.story.coalescence" GUID="0BHd5T/uT0ah49D16VSWCg=="/>
+        <POI MapID="1412" xpos="17.3358" ypos="118.633" zpos="144.648" type="leag.lws5.story.coalescence" GUID="KK1Y//BzHkiEZki1744cZQ=="/>
+        <POI MapID="1412" xpos="65.7408" ypos="125.096" zpos="179.535" type="leag.lws5.story.coalescence" GUID="cHWxqVf2okyBPV3xWOrJJQ=="/>
+        <POI MapID="1412" xpos="108.567" ypos="123.218" zpos="178.148" type="leag.lws5.story.coalescence" GUID="RL/zg/4hMEWe46rqBVDj8w=="/>
+        <POI MapID="1412" xpos="122.888" ypos="120.9" zpos="155.454" type="leag.lws5.story.coalescence" GUID="v7eh3xfp00u72C4jGB4HcQ=="/>
+        <POI MapID="1412" xpos="136.382" ypos="106.752" zpos="114.834" type="leag.lws5.story.coalescence" GUID="qX/eerCXc0S7Lv6zVz2xFQ=="/>
+        <POI MapID="1412" xpos="81.1484" ypos="113.623" zpos="116.845" type="leag.lws5.story.coalescence" GUID="nWgg/8kFTkKOyK5qFl26kw=="/>
+        <POI MapID="1412" xpos="32.5445" ypos="109.998" zpos="98.4696" type="leag.lws5.story.coalescence" GUID="bCjjj6dkQ06sYy/EnI4UwA=="/>
+        <POI MapID="1412" xpos="-11.9362" ypos="100.746" zpos="82.9152" type="leag.lws5.story.coalescence" GUID="JuHPdS1tHUmolP6xRXFuxg=="/>
+        <POI MapID="1412" xpos="64.045" ypos="80.6207" zpos="-28.4517" type="leag.lws5.story.coalescence" GUID="315fhwfpXUigsA6ssf6NDQ=="/>
+        <POI MapID="1412" xpos="57.7091" ypos="81.8543" zpos="19.7711" type="leag.lws5.story.coalescence" GUID="fSDEiEuclkOap1p3rr6ugA=="/>
+        <POI MapID="1412" xpos="102.084" ypos="95.6765" zpos="71.0066" type="leag.lws5.story.coalescence" GUID="QQl0Ue4M2Uiakg/mzOQ0Qg=="/>
+        <POI MapID="1412" xpos="105.872" ypos="80.5008" zpos="25.8497" type="leag.lws5.story.coalescence" GUID="eMK/RzZ7ckaIThaNPiAXkQ=="/>
+        <POI MapID="1412" xpos="146.615" ypos="80.3745" zpos="33.1178" type="leag.lws5.story.coalescence" GUID="K8oBngKTmUKFjIihYfY3SQ=="/>
+        <POI MapID="1412" xpos="-30.2924" ypos="80.1137" zpos="-6.28761" type="leag.lws5.story.coalescence" GUID="vMQG8qkhL0iWTJvtrPCCrA=="/>
+        <POI MapID="1412" xpos="6.40703" ypos="81.0231" zpos="-13.7238" type="leag.lws5.story.coalescence" GUID="4++3swbDZkuJkoICywg0qw=="/>
+        <POI MapID="1412" xpos="101.836" ypos="81.1419" zpos="-31.8006" type="leag.lws5.story.coalescence" GUID="OnsD37CYNUu5v2PxCmqX4w=="/>
+        <POI MapID="1412" xpos="144.15" ypos="89.3801" zpos="-80.3895" type="leag.lws5.story.coalescence" GUID="52f/8q9/9UmwOnoUHSnDUQ=="/>
+        <POI MapID="1412" xpos="105.14" ypos="107.042" zpos="-139.082" type="leag.lws5.story.coalescence" GUID="TZ2tZCKIykmmTipsv6AHTA=="/>
+        <POI MapID="1412" xpos="71.1169" ypos="109.978" zpos="-142.877" type="leag.lws5.story.coalescence" GUID="Pj2vgVksjEaXhwHXpjB0Mw=="/>
+        <POI MapID="1412" xpos="41.232" ypos="121.875" zpos="-177.99" type="leag.lws5.story.coalescence" GUID="Vj38tMEDxEuDiGxTKE7R5Q=="/>
+        <POI MapID="1412" xpos="-12.8245" ypos="106.53" zpos="-113.104" type="leag.lws5.story.coalescence" GUID="8nL7Cud7vE+V+1qqILpPQw=="/>
+        <POI MapID="1412" xpos="47.8284" ypos="106.653" zpos="-107.447" type="leag.lws5.story.coalescence" GUID="LgYCHLdF8U+A9bXLJFGJMQ=="/>
+        <POI MapID="1412" xpos="47.1698" ypos="103.703" zpos="-89.4216" type="leag.lws5.story.dragonstorm.launchpad" GUID="K29x2oP8UUKaTLsVILvhMw=="/>
+        <POI MapID="1412" xpos="10.3796" ypos="98.2891" zpos="48.7659" type="leag.lws5.story.dragonstorm.launchpad" GUID="MtwErqjmcEG+X1cNMrOMjA=="/>
+        <POI MapID="1412" xpos="1.11691" ypos="115.838" zpos="124.734" type="leag.lws5.story.dragonstorm.launchpad" GUID="M9Gz2IvRaE2eVa7aSGnppg=="/>
+        <POI MapID="1412" xpos="1.87303" ypos="124.523" zpos="-142.269" type="leag.lws5.story.dragonstorm.launchpad" GUID="S2uKs9zG7E+0dFUMY2Si2A=="/>
+
     </POIs>
 </OverlayData>

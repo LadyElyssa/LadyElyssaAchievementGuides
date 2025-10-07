@@ -3,6 +3,106 @@
         <!-- MAP ACHIEVEMENTS -->
 
         <!-- Bjora Marches -->
+
+        <POI MapID="1343" xpos="1045.54" ypos="83.5323" zpos="-207.294" type="leag.lws5.bjora.anvil.icon" GUID="jIRJCeR0dEi9soqF8fUtfg=="/>
+        <POI MapID="1343" xpos="1089.29" ypos="71.3789" zpos="-23.17" type="leag.lws5.bjora.anvil.icon" GUID="DsILAkZjTEm/V7fajhsqzw=="/>
+        <POI MapID="1343" xpos="938.935" ypos="65.9511" zpos="-96.695" type="leag.lws5.bjora.anvil.icon" GUID="Sc+yztDr3E6y/ZQeCJOIEA=="/>
+
+        <POI MapID="1343" xpos="-304.353" ypos="110.824" zpos="-4.36619" type="leag.lws5.bjora.bountiful.ox" GUID="1k/coeuTZE6aV4Me8Ow4oQ=="/>
+        <POI MapID="1343" xpos="-618.113" ypos="270.365" zpos="301.416" type="leag.lws5.bjora.bountiful.wolverine" GUID="EWnxmOHTXU6M1QOBqw3buQ=="/>
+        <POI MapID="1343" xpos="-779.399" ypos="88.0889" zpos="-343.605" type="leag.lws5.bjora.bountiful.eagle" GUID="Oay41Tw3U0eNRHagBepdew=="/>
+
+        <POI MapID="1343" xpos="-203.176" ypos="254.949" zpos="-402.108" type="leag.lws5.bjora.darkness.brazier" GUID="HI46XQuyZkWv93hhFRD1Zw=="/>
+        <POI MapID="1343" xpos="-688.025" ypos="221.175" zpos="357.28" type="leag.lws5.bjora.darkness.brazier" GUID="kaa/awvOnUGHdNHYLgNEvQ=="/>
+        <POI MapID="1343" xpos="-152.033" ypos="222.316" zpos="541.48" type="leag.lws5.bjora.darkness.brazier" GUID="0TQirbL4BEuZlR+S7ZNQ7A=="/>
+        <POI MapID="1343" xpos="-265.271" ypos="182.656" zpos="162.675" type="leag.lws5.bjora.darkness.brazier" GUID="zt/a+4EOaUmuAgpyxHoL/A=="/>
+        <POI MapID="1343" xpos="-780.179" ypos="94.3087" zpos="-403.501" type="leag.lws5.bjora.darkness.brazier" GUID="dO5u160mxUO8n9oaIQWJwA=="/>
+        <POI MapID="1343" xpos="-226.438" ypos="251.055" zpos="224.031" type="leag.lws5.bjora.darkness.brazier" GUID="fM+B9TdIXkKX/NSqfRccyg=="/>
+        <POI MapID="1343" xpos="-63.7892" ypos="340.673" zpos="597.956" type="leag.lws5.bjora.darkness.brazier" GUID="eMTE4jI9lUKh6l8NOdXvag=="/>
+        <POI MapID="1343" xpos="-521.287" ypos="320.916" zpos="595.557" type="leag.lws5.bjora.darkness.brazier" GUID="nFSCy1C5TkCe1OndflmRIw=="/>
+        <POI MapID="1343" xpos="-993.465" ypos="48.7004" zpos="197.169" type="leag.lws5.bjora.darkness.brazier" GUID="J/s0xAWV2k+cqdUmRZmiBQ=="/>
+        <POI MapID="1343" xpos="-280.957" ypos="127.036" zpos="-20.4662" type="leag.lws5.bjora.darkness.brazier" GUID="jd8dlKhVQ0Oi9mg/Bjhw1A=="/>
+        <POI MapID="1343" xpos="-446.78" ypos="153.074" zpos="89.715" type="leag.lws5.bjora.darkness.brazier" GUID="wFHrtRxqHUCANckGPCPLfA=="/>
+        <POI MapID="1343" xpos="-400.044" ypos="315.595" zpos="-443.944" type="leag.lws5.bjora.darkness.brazier" GUID="R/Kk7/3agkCuqtY9nzmGMQ=="/>
+        <POI MapID="1343" xpos="-502.509" ypos="190.657" zpos="-514.085" type="leag.lws5.bjora.darkness.brazier" GUID="YmDJzu5GKEixsibjmdpMHQ=="/>
+        <POI MapID="1343" xpos="-80.8148" ypos="69.5247" zpos="-474.463" type="leag.lws5.bjora.darkness.brazier" GUID="HyZbptXusEilaClJYmAO+w=="/>
+        <POI MapID="1343" xpos="-935.281" ypos="21.2937" zpos="-335.8" type="leag.lws5.bjora.darkness.brazier" GUID="qxe7DUE0qkOzdD7oLWhpAw=="/>
+        <POI MapID="1343" xpos="-651.876" ypos="164.07" zpos="678.6" type="leag.lws5.bjora.darkness.brazier" GUID="Z1Ka8iVE3kGPWMumAbEpjg=="/>
+        <POI MapID="1343" xpos="-444.45" ypos="250.379" zpos="-244.857" type="leag.lws5.bjora.darkness.brazier" GUID="aXvaq339VUS5JO9tUDjgmA=="/>
+
+        <POI MapID="1343" xpos="-273.433" ypos="114.374" zpos="-3.25685" type="leag.lws5.bjora.knowledge.icon" GUID="wDrm6DwDjU6J3R1tgW7ysg=="/>
+        <POI MapID="1343" xpos="-1011.55" ypos="18.7694" zpos="150.316" type="leag.lws5.bjora.knowledge.icon" GUID="uY8Ws1R0xEKCQwbbRedzkA=="/>
+        <POI MapID="1343" xpos="-623.405" ypos="288.468" zpos="581.986" type="leag.lws5.bjora.knowledge.icon" GUID="BzkiYL8Mr0ypqRaTDWC/rA=="/>
+        <POI MapID="1343" xpos="1143.63" ypos="48.7691" zpos="-147.746" type="leag.lws5.bjora.knowledge.icon" GUID="S3cvOG4UjkONiy/BZICiyw=="/>
+        <POI MapID="1343" xpos="-1095.49" ypos="18.6399" zpos="-282.222" type="leag.lws5.bjora.knowledge.icon" GUID="HFClDapBjEGnN9DYVuNMyA=="/>
+
+        <POI MapID="1343" xpos="-273.433" ypos="114.374" zpos="-3.25685" type="leag.lws5.bjora.knowledge.book" GUID="JE+aSKlOZ0OXqx0L8RuAqA=="/>
+        <POI MapID="1343" xpos="-1011.55" ypos="18.7694" zpos="150.316" type="leag.lws5.bjora.knowledge.book" GUID="a2ufwdGlUkmPlInv0MsV1Q=="/>
+        <POI MapID="1343" xpos="-623.405" ypos="288.468" zpos="581.986" type="leag.lws5.bjora.knowledge.book" GUID="SGT/gzsRa0GRL05q5lWBbQ=="/>
+        <POI MapID="1343" xpos="1143.63" ypos="48.7691" zpos="-147.746" type="leag.lws5.bjora.knowledge.book" GUID="hN+HGKnXF0W/8u2T3nNg5w=="/>
+        <POI MapID="1343" xpos="-1095.49" ypos="18.6399" zpos="-282.222" type="leag.lws5.bjora.knowledge.book" GUID="Q2wABZ9kTEWWY/BQRvunpQ=="/>
+
+        <Trail type="leag.lws5.bjora.historian" trailData="Data/LWS5/Bjora Marches Historian.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png"/>
+        <POI MapID="1343" xpos="392.808" ypos="206.208" zpos="520.554" type="leag.lws5.bjora.historian.burden" GUID="LihwcjJ+fk2rj/sbFS3SrA=="/>
+        <POI MapID="1343" xpos="174.121" ypos="153.834" zpos="283.187" type="leag.lws5.bjora.historian.research" GUID="81jof33JckmmpE6imI93jw=="/>
+        <POI MapID="1343" xpos="174.121" ypos="153.834" zpos="283.187" type="leag.lws5.bjora.historian.research" GUID="/1hBaFNpaECPKdSwJNrnIg=="/>
+        <POI MapID="1343" xpos="457.622" ypos="142.214" zpos="-170.087" type="leag.lws5.bjora.historian.what" GUID="V4Jf7zKIXEejUMIX+tXUxQ=="/>
+
+        <POI MapID="1343" xpos="-257.948" ypos="169.608" zpos="200.898" type="leag.lws5.bjora.shadows.icon" GUID="IMNr/WNWXEun6vp+Zp5ruQ=="/>
+        <POI MapID="1343" xpos="-635.49" ypos="134.191" zpos="-192.869" type="leag.lws5.bjora.shadows.icon" GUID="LSf08xumi0uk3mKNywMe4Q=="/>
+        <POI MapID="1343" xpos="-452.688" ypos="153.456" zpos="78.6264" type="leag.lws5.bjora.shadows.icon" GUID="WhlAu8YFJUqSzgWXFLe6NA=="/>
+        <POI MapID="1343" xpos="-418.635" ypos="249.071" zpos="-233.67" type="leag.lws5.bjora.shadows.icon" GUID="QvVZqSX/iUmhLpFGAyqr6w=="/>
+        <POI MapID="1343" xpos="-453.573" ypos="180.192" zpos="-483.318" type="leag.lws5.bjora.shadows.icon" GUID="URkvLoln3UavGvUG7DnbWw=="/>
+        <POI MapID="1343" xpos="-34.8656" ypos="211.793" zpos="15.9864" type="leag.lws5.bjora.shadows.icon" GUID="iaVVyhYB+kWBO2lUyIapwg=="/>
+        <POI MapID="1343" xpos="-77.8608" ypos="259.089" zpos="-275.702" type="leag.lws5.bjora.shadows.icon" GUID="WhCxniWapkqBcaDkU10OyQ=="/>
+
+        <POI MapID="1343" xpos="218.859" ypos="222.219" zpos="497.529" type="leag.lws5.bjora.treasure.chest" GUID="MkjnipCuYUa2Fv0qrIrv1A=="/>
+        <POI MapID="1343" xpos="359.738" ypos="216.022" zpos="407.347" type="leag.lws5.bjora.treasure.chest" GUID="Igs3Pz+y+0+NiCUFc+y8Fw=="/>
+        <POI MapID="1343" xpos="442.457" ypos="215.327" zpos="542.296" type="leag.lws5.bjora.treasure.chest" GUID="IxEG1xQzq0+f0Au4jPj/YQ=="/>
+        <POI MapID="1343" xpos="480.432" ypos="208.034" zpos="416.95" type="leag.lws5.bjora.treasure.chest" GUID="a3uLrE9Rpk6uk4kEIOgljQ=="/>
+        <POI MapID="1343" xpos="1168.84" ypos="110.194" zpos="-466.721" type="leag.lws5.bjora.treasure.chest" GUID="M3PFOo/0CkKONX4meoZmSw=="/>
+        <POI MapID="1343" xpos="904.24" ypos="61.3556" zpos="62.8508" type="leag.lws5.bjora.treasure.chest" GUID="WaW/BFhG502QxUIZXne9AA=="/>
+        <POI MapID="1343" xpos="836.472" ypos="113.751" zpos="157.968" type="leag.lws5.bjora.treasure.chest" GUID="BYh6GZgDdEy4syM0KFrjYA=="/>
+        <POI MapID="1343" xpos="676.307" ypos="134.372" zpos="75.8322" type="leag.lws5.bjora.treasure.chest" GUID="+a06xLV7iUCqFxC1U5wS5A=="/>
+        <POI MapID="1343" xpos="646.913" ypos="130.243" zpos="352.055" type="leag.lws5.bjora.treasure.chest" GUID="kUOCuqForkujyESVqhWQdg=="/>
+        <POI MapID="1343" xpos="926.325" ypos="128.478" zpos="408.507" type="leag.lws5.bjora.treasure.chest" GUID="8Yrr1LorlEiVdEb7TqG6aw=="/>
+        <POI MapID="1343" xpos="1195.95" ypos="53.3188" zpos="134.705" type="leag.lws5.bjora.treasure.chest" GUID="hmAVwrrkPku0529+Kl/ZDw=="/>
+
+        <POI MapID="1343" xpos="768.595" ypos="142.085" zpos="-248.095" type="leag.lws5.bjora.essence.green" GUID="CdFja62Ax0+y3ZhKtpJXrQ=="/>
+        <POI MapID="1343" xpos="582.172" ypos="112.195" zpos="-179.668" type="leag.lws5.bjora.essence.green" GUID="vw09YbAarEOz2JGrEg4fpw=="/>
+        <POI MapID="1343" xpos="262.822" ypos="156.231" zpos="-135.893" type="leag.lws5.bjora.essence.red" GUID="x3oS3ReDUUeEbqylPvb7lw=="/>
+        <POI MapID="1343" xpos="262.927" ypos="156.25" zpos="-136" type="leag.lws5.bjora.essence.red" GUID="OQVDtHweGUalVvWphuJIig=="/>
+        <POI MapID="1343" xpos="768.624" ypos="142.048" zpos="-247.932" type="leag.lws5.bjora.essence.green" GUID="JMs1nalYE0yFtk0EG+S5HA=="/>
+        <POI MapID="1343" xpos="581.406" ypos="112.075" zpos="-180.408" type="leag.lws5.bjora.essence.green" GUID="cwdgJkvwNkmSU2tGXrDT7w=="/>
+        <POI MapID="1343" xpos="610.396" ypos="48.9038" zpos="396.23" type="leag.lws5.bjora.essence.blue" GUID="EO/lDqkmD0GvYNJCW2wBeA=="/>
+        <POI MapID="1343" xpos="778.529" ypos="131.05" zpos="491.74" type="leag.lws5.bjora.essence.blue" GUID="9HFMb6nlyEyrchmMvTOPSA=="/>
+        <POI MapID="1343" xpos="1088.61" ypos="137.427" zpos="443.961" type="leag.lws5.bjora.essence.red" GUID="g1WYHPZOG0Gfj9miIkj5/Q=="/>
+        <POI MapID="1343" xpos="342.208" ypos="216.568" zpos="411.176" type="leag.lws5.bjora.essence.red" GUID="xmiWh2x8+UaDLBWS7cvedQ=="/>
+        <POI MapID="1343" xpos="192.846" ypos="221.102" zpos="402.781" type="leag.lws5.bjora.essence.green" GUID="a4BTIu+cKEu6m3M6oo92OQ=="/>
+        <POI MapID="1343" xpos="372.526" ypos="211.89" zpos="543.76" type="leag.lws5.bjora.essence.blue" GUID="W9xPuvFwQU+slwS+hmPTew=="/>
+
+        <POI MapID="1343" xpos="859.486" ypos="112.761" zpos="166.226" type="leag.lws5.bjora.critic.cook" GUID="aRgNLUtBqU+a1G3r/40tLg=="/>
+        <POI MapID="1343" xpos="841.626" ypos="113.757" zpos="174.159" type="leag.lws5.bjora.critic.icon" GUID="kntfPpD4EkWJ5XkM7tIBIA=="/>
+        <POI MapID="1343" xpos="849.539" ypos="113.1" zpos="181.733" type="leag.lws5.bjora.critic.icon" GUID="z23u3QEbTECvrBZs/fiYMw=="/>
+        <POI MapID="1343" xpos="859.494" ypos="113.491" zpos="178.811" type="leag.lws5.bjora.critic.icon" GUID="gRivXQ2y0Ui/rynHqqA82w=="/>
+        <POI MapID="1343" xpos="870.447" ypos="114.085" zpos="175.308" type="leag.lws5.bjora.critic.icon" GUID="AHatr527QUqzZ8fqORQ88w=="/>
+        <POI MapID="1343" xpos="858.306" ypos="113.217" zpos="181.321" type="leag.lws5.bjora.critic.icon" GUID="Wie2eIFUykGRPllTAyOofQ=="/>
+
+        <POI MapID="1343" xpos="1127.57" ypos="47.6602" zpos="-118.765" type="leag.lws5.bjora.givein.emote" GUID="/Y/ckY/pkk+xKYknhVQn8Q=="/>
+
+        <POI MapID="1343" xpos="487.827" ypos="207.402" zpos="423.644" type="leag.lws5.bjora.hunting.kodan" GUID="gpvIBEpLZkOf6ri07F0ZAQ=="/>
+        <POI MapID="1343" xpos="445.563" ypos="213.447" zpos="529.962" type="leag.lws5.bjora.hunting.tyrant" GUID="zVWhkrEh4kyXf9RcbsSCLw=="/>
+        <POI MapID="1343" xpos="299.75" ypos="213.592" zpos="445.829" type="leag.lws5.bjora.hunting.voice" GUID="GXjVn30Wbka5f2WSwlIC6A=="/>
+        <POI MapID="1343" xpos="364.118" ypos="208.127" zpos="501.363" type="leag.lws5.bjora.hunting.goliath" GUID="5UVAwHmMaUyrtJI2qpcQFA=="/>
+
+        <POI MapID="1343" xpos="741.415" ypos="131.886" zpos="-274.741" type="leag.lws5.bjora.hunting.murellow" GUID="n2bSnPrvtk6pHxG/FA1+bQ=="/>
+        <POI MapID="1343" xpos="294.024" ypos="151.749" zpos="-89.6246" type="leag.lws5.bjora.hunting.shaman" GUID="3r0W3eT+bkqzWemR4tE62A=="/>
+        <POI MapID="1343" xpos="458.161" ypos="142.201" zpos="-170.154" type="leag.lws5.bjora.hunting.boneskinner" GUID="LrCYu8V2MUOmxvLR3WlQcA=="/>
+        <POI MapID="1343" xpos="399.896" ypos="152.044" zpos="-407.241" type="leag.lws5.bjora.hunting.skelk" GUID="nMW6c+e2Nk+4pWp/WpytaQ=="/>
+        <POI MapID="1343" xpos="1084.18" ypos="135.659" zpos="389.129" type="leag.lws5.bjora.hunting.berserker" GUID="nPvER7Zdkk2TuaBMG0xR9w=="/>
+        <POI MapID="1343" xpos="844.537" ypos="116.798" zpos="274.508" type="leag.lws5.bjora.hunting.summoner" GUID="lkHunTdPrEatRzl/pJ32GA=="/>
+        <POI MapID="1343" xpos="907.685" ypos="86.0238" zpos="-10.4111" type="leag.lws5.bjora.hunting.brute" GUID="eUkoZNB8GEW6fztUTndqrQ=="/>
+        
         <Trail type="leag.lws5.bjora.idolatry" trailData="Data/LWS5/Idolatry 1.trl" color="5BA4C6"/>
         <Trail type="leag.lws5.bjora.idolatry" trailData="Data/LWS5/Idolatry 2.trl" color="5BA4C6"/>
         <Trail type="leag.lws5.bjora.idolatry" trailData="Data/LWS5/Idolatry 3.trl" color="5BA4C6"/>
@@ -40,6 +140,60 @@
         <POI MapID="1343" xpos="-394.02" ypos="256.728" zpos="-404.84" type="leag.lws5.bjora.idolatry.mount.springer" GUID="+9fc1kYjmkupXUsWkQupig=="/>
         <POI MapID="1343" xpos="-562.798" ypos="203.62" zpos="-142.955" type="leag.lws5.bjora.idolatry.mount.skyscale" GUID="0ObWPKgQw0q75Ww4rOYEFw=="/>
         <POI MapID="1343" xpos="-503.573" ypos="205.992" zpos="-78.222" type="leag.lws5.bjora.idolatry.mount.raptor" GUID="O3wawyQCCUqmCIYpXRbVeQ=="/>
+
+        <POI MapID="1343" xpos="1082.34" ypos="70.1053" zpos="-11.2452" type="leag.lws5.bjora.junior.event" GUID="oR+5tR9baECVlTBndnHxDQ=="/>
+        <POI MapID="1343" xpos="1142.26" ypos="70.8146" zpos="-339.049" type="leag.lws5.bjora.junior.event" GUID="IFPwYnKdgk+2IeWpiB+1mA=="/>
+
+        <Trail type="leag.lws5.bjora.mysteries" trailData="Data/LWS5/Mysteries of the Raven Sanctum 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.lws5.bjora.mysteries" trailData="Data/LWS5/Mysteries of the Raven Sanctum 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="1343" xpos="394.506" ypos="179.086" zpos="103.269" type="leag.lws5.bjora.mysteries.start" GUID="swJ5sufvrUeyeU4YDiZwlQ=="/>
+        <POI MapID="1343" xpos="250.617" ypos="154.312" zpos="176.967" type="leag.lws5.bjora.mysteries.healers" GUID="VEufboxcMk6Yx1QyIiqEDQ=="/>
+        <POI MapID="1343" xpos="247.485" ypos="154.312" zpos="173.523" type="leag.lws5.bjora.mysteries.wounded" GUID="om7mgFWhZUe5mtg068BwFQ=="/>
+        <POI MapID="1343" xpos="139.336" ypos="156.581" zpos="299.785" type="leag.lws5.bjora.mysteries.healers.historical" GUID="ImdJ44nYBU6tnu4P55H9AA=="/>
+        <POI MapID="1343" xpos="139.336" ypos="154.281" zpos="299.785" type="leag.lws5.bjora.mysteries.wounded.historical" GUID="dH8kJLWv/kCS1OXwzjab5g=="/>
+        <POI MapID="1343" xpos="142.021" ypos="156.581" zpos="302.54" type="leag.lws5.bjora.mysteries.healers.spell" GUID="ir6jUJ3hdUCEhRtXC2nMHw=="/>
+        <POI MapID="1343" xpos="142.021" ypos="154.281" zpos="302.54" type="leag.lws5.bjora.mysteries.wounded.spell" GUID="Va2WD6cXBk23dfB5CQhY6g=="/>
+        <POI MapID="1343" xpos="101.279" ypos="156.579" zpos="195.802" type="leag.lws5.bjora.mysteries.healers.prince" GUID="jOfS0aYxv0qw96DYCnIVIA=="/>
+        <POI MapID="1343" xpos="101.279" ypos="154.279" zpos="195.802" type="leag.lws5.bjora.mysteries.wounded.prince" GUID="AHY6spK4B0C8BEtOGLHZAw=="/>
+        <POI MapID="1343" xpos="101.088" ypos="156.579" zpos="190.876" type="leag.lws5.bjora.mysteries.healers.queen" GUID="krux2gFRJEucbpyE72Orew=="/>
+        <POI MapID="1343" xpos="101.088" ypos="154.279" zpos="190.876" type="leag.lws5.bjora.mysteries.wounded.queen" GUID="kXaY8ZziNkK3apE1ns5vuw=="/>
+
+        <POI MapID="1349" xpos="1160.15" ypos="49.7314" zpos="-99.9538" type="leag.lws5.story.scholar.icon" GUID="o+FUapWJCE6GHS9mSmlTNg=="/>
+        <POI MapID="1349" xpos="1191.66" ypos="48.3682" zpos="-95.981" type="leag.lws5.story.scholar.icon" GUID="yro8AZUrWE2pn9crxyYBXA=="/>
+        <POI MapID="1349" xpos="1135.61" ypos="52.1368" zpos="-168.737" type="leag.lws5.story.scholar.icon" GUID="sa3Su4vSGEeuZn09eXaEbA=="/>
+        <POI MapID="1349" xpos="1140.26" ypos="51.6404" zpos="-149.102" type="leag.lws5.story.scholar.icon" GUID="wsmZitkWb0ajueVc7aGfpA=="/>
+        <POI MapID="1349" xpos="1169.42" ypos="52.1367" zpos="-161.713" type="leag.lws5.story.scholar.icon" GUID="y/Chc5IXg0eVK49PdxRUaA=="/>
+
+        <POI MapID="1343" xpos="1139.44" ypos="47.6656" zpos="-134.28" type="leag.lws5.bjora.hunger.orange" GUID="RXKoirCjzkOvfW49S5pVYg=="/>
+        <POI MapID="1343" xpos="1022.45" ypos="60.3017" zpos="-115.728" type="leag.lws5.bjora.hunger.rabbit" GUID="dSR3c9OPJkiKhC9V9xGrhQ=="/>
+        <POI MapID="1343" xpos="972.669" ypos="63.0297" zpos="-129.463" type="leag.lws5.bjora.hunger.rabbit" GUID="k4bnZ5qei0OMeW5Jhbs9Og=="/>
+        <POI MapID="1343" xpos="992.779" ypos="59.0276" zpos="-59.0659" type="leag.lws5.bjora.hunger.rabbit" GUID="Rv7RTUM6zkGCL9F+GMtYxQ=="/>
+        <POI MapID="1343" xpos="1047.52" ypos="59.1085" zpos="-129.792" type="leag.lws5.bjora.hunger.deer" GUID="CoDZ1w9s/k21UgMOgH93gg=="/>
+        <POI MapID="1343" xpos="1092.45" ypos="49.4157" zpos="-91.1628" type="leag.lws5.bjora.hunger.rabbit" GUID="2Z1HbsuehkuZNq5w3LPKHA=="/>
+        <POI MapID="1343" xpos="989.156" ypos="61.6166" zpos="-124.347" type="leag.lws5.bjora.hunger.deer" GUID="64Vu7lOP2ESf7CMjM3LTbg=="/>
+        <POI MapID="1343" xpos="1034.26" ypos="58.0056" zpos="-152.214" type="leag.lws5.bjora.hunger.deer" GUID="53Zdz+wWCUClBzHFTY8KXA=="/>
+        <POI MapID="1343" xpos="1051.86" ypos="57.3093" zpos="-71.1272" type="leag.lws5.bjora.hunger.deer" GUID="h+WsY/7PWk+qtlObwJ7mRg=="/>
+        <POI MapID="1343" xpos="345.212" ypos="144.294" zpos="-355.683" type="leag.lws5.bjora.hunger.start" GUID="iFJ/t/JnKUu+MI9o7bZpnQ=="/>
+        <POI MapID="1343" xpos="979.979" ypos="101.148" zpos="202.663" type="leag.lws5.bjora.hunger.bear" GUID="dT6cfV1kFU+u/ogEd0EZyA=="/>
+        <POI MapID="1343" xpos="987.923" ypos="114.371" zpos="322.792" type="leag.lws5.bjora.hunger.bear" GUID="9dBeWNmpSUCesNk9bqAYgA=="/>
+        <POI MapID="1343" xpos="1101.22" ypos="135.763" zpos="428.169" type="leag.lws5.bjora.hunger.bear" GUID="k1MVy3hdIEezJUnfDlsldA=="/>
+        <POI MapID="1343" xpos="888.7" ypos="110.856" zpos="211.17" type="leag.lws5.bjora.hunger.bear" GUID="ph1p9qWx7Eirn8A92KmRWg=="/>
+        <POI MapID="1343" xpos="779.83" ypos="124.042" zpos="278.634" type="leag.lws5.bjora.hunger.bear" GUID="NnCgT05+9kCDWjw4YHITxg=="/>
+        <POI MapID="1343" xpos="796.461" ypos="112.133" zpos="335.327" type="leag.lws5.bjora.hunger.bear" GUID="z/161qZhQEKcSrYE7f5hIg=="/>
+        <POI MapID="1343" xpos="839.217" ypos="113.286" zpos="374.935" type="leag.lws5.bjora.hunger.bear" GUID="CyGhDo8H+U+lQkYMjydDxg=="/>
+        <POI MapID="1343" xpos="471.168" ypos="137.678" zpos="-276.825" type="leag.lws5.bjora.hunger.warg" GUID="kQ7fxnTO2kyaT8dZoJoXLA=="/>
+        <POI MapID="1343" xpos="498.702" ypos="136.793" zpos="-245.265" type="leag.lws5.bjora.hunger.warg" GUID="K/LgbjSMQUmIpxVB/Z6iHA=="/>
+        <POI MapID="1343" xpos="514.489" ypos="136.85" zpos="-162.704" type="leag.lws5.bjora.hunger.warg" GUID="7EEq4ubg1EC7/AY6YvTe8g=="/>
+        <POI MapID="1343" xpos="295.286" ypos="149.119" zpos="-288.792" type="leag.lws5.bjora.hunger.warg" GUID="lbcB4rvY4EyKQMmCyF3B2Q=="/>
+        <POI MapID="1343" xpos="457.622" ypos="142.214" zpos="-170.087" type="leag.lws5.bjora.hunger.boneskinner" GUID="sVZUl9BdWUWRfRffTHy5Ew=="/>
+
+        <POI MapID="1343" xpos="693.636" ypos="140.725" zpos="-449.913" type="leag.lws5.bjora.shy.event" GUID="3K6QkgTb1EmeyEvEf92HHA=="/>
+        <POI MapID="1343" xpos="838.923" ypos="127.364" zpos="-468.939" type="leag.lws5.bjora.shy.event" GUID="znB9fmgPZUeR8Jic/Ld6ow=="/>
+
+        <POI MapID="1343" xpos="1126.06" ypos="47.6779" zpos="-85.4072" type="leag.lws5.bjora.supernatural.start" GUID="j+2Fw/TcvUSIVKGhPJaLbQ=="/>
+        <Trail type="leag.lws5.bjora.supernatural" trailData="Data/LWS5/Supernatural.trl" color="FF6A00"/>
+
+        <POI MapID="1343" xpos="1139.21" ypos="53.6954" zpos="-134.442" type="leag.lws5.bjora.surrender.icon" GUID="OygTSn4peUSO86XTtA8K2g=="/>
 
 
         <!-- Grothmar Valley -->
@@ -137,7 +291,6 @@
         <POI MapID="1330" xpos="484.516" ypos="19.4962" zpos="159.718" type="leag.lws5.grothmar.historian.path.2" GUID="pOS1mMdEnkypKfKNATxTzw=="/>
         <POI MapID="1330" xpos="482.792" ypos="18.2617" zpos="155.625" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="Hzo1Xm0nkkSdlQIS6JnBVw=="/>
         <POI MapID="1330" xpos="352.778" ypos="14.7831" zpos="-242.799" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="RHo+pR1XYk6vYcKKHPxIbA=="/>
-        <POI MapID="1330" xpos="576.384" ypos="0.657579" zpos="-89.0442" type="leag.lws5.grothmar.historian.wp" GUID="Cj4Tgtfv2k+W2R9VT01mtw=="/>
         <POI MapID="1330" xpos="-311.321" ypos="29.5978" zpos="-36.8372" type="leag.lws5.grothmar.historian.path.3" GUID="qwXP3X6CZU68pFSZBI/P6g=="/>
         <POI MapID="1330" xpos="-386.375" ypos="31.4006" zpos="-5.58934" type="leag.lws5.grothmar.historian.mount.springer" GUID="n7HwI+jwwE2G7lC7eF8a3A=="/>
         <POI MapID="1330" xpos="-423.132" ypos="53.1641" zpos="-267.298" type="leag.lws5.grothmar.historian.mount.springer" GUID="ZNOXVT2BdE2cP7CwhX6y2g=="/>
@@ -145,7 +298,6 @@
         <POI MapID="1330" xpos="-325.308" ypos="10.1888" zpos="-414.06" type="leag.lws5.grothmar.historian.mount.springer" GUID="Rb8RkTBxLEejNELAEbYAaw=="/>
         <POI MapID="1330" xpos="-384.657" ypos="54.4718" zpos="-579.05" type="leag.lws5.grothmar.historian.mount.skyscale" GUID="Hq3azHaLsEugobzSXaU++A=="/>
         <POI MapID="1330" xpos="-368.791" ypos="79.6526" zpos="-638.24" type="leag.lws5.grothmar.historian.glider" GUID="WvloJaTXY0q3bgRuLgb5ww=="/>
-        <POI MapID="1330" xpos="-162.218" ypos="-2.39493" zpos="-609.182" type="leag.lws5.grothmar.historian.wp" GUID="xzUUwoX6ZUWrb29fovf+og=="/>
         <POI MapID="1330" xpos="226.405" ypos="30.92" zpos="-506.451" type="leag.lws5.grothmar.historian.path.4" GUID="L0vz/XkEfUqmebzydl19gQ=="/>
         <POI MapID="1330" xpos="628.48" ypos="86.5713" zpos="-404.682" type="leag.lws5.grothmar.historian.glider" GUID="y7CmH1zLjUOkmMPiog8VyA=="/>
         <POI MapID="1330" xpos="811.707" ypos="2.84616" zpos="-444.603" type="leag.lws5.grothmar.historian.mount.skimmer" GUID="DZQSv7CnYUicRlWthUPoQg=="/>
@@ -270,5 +422,216 @@
         <POI MapID="1330" xpos="-274.331" ypos="30.0276" zpos="-144.507" type="leag.lws5.grothmar.vip.merchant" GUID="zdN5XwPtP0aouYKGR8xAvw=="/>
         <POI MapID="1330" xpos="6.50162" ypos="42.423" zpos="-578.822" type="leag.lws5.grothmar.vip.merchant" GUID="kAvgl5N+FEuxL3rENtA7Mw==" tip-name="This Rally Provisioner is only here during the Ooze Pit Trials"/>
 
+        
+
+        <!-- DRIZZLEWOOD COAST -->
+
+        <POI MapID="1371" xpos="605.688" ypos="11.6746" zpos="-267.385" type="leag.lws5.drizzlewood.cache.tornpaw" GUID="i3eB441vW0uYzMy6g42tTw=="/>
+        <POI MapID="1371" xpos="331.553" ypos="2.76008" zpos="-286.69" type="leag.lws5.drizzlewood.cache.closemaul" GUID="cSGk0dJhXEKz9hxeg8rT1A=="/>
+        <POI MapID="1371" xpos="-231.972" ypos="29.4728" zpos="-213.15" type="leag.lws5.drizzlewood.cache.wildeye" GUID="NJP0hiqQV0qeCvb7gSIAXg=="/>
+        <POI MapID="1371" xpos="501.14" ypos="99.9476" zpos="-1218.91" type="leag.lws5.drizzlewood.cache.steelfoe" GUID="CGcCwpdEvUep/dwA9qFUOg=="/>
+        <POI MapID="1371" xpos="-141.267" ypos="190.726" zpos="-870.118" type="leag.lws5.drizzlewood.cache.crushpaw" GUID="/8VQ/JBGg0+356xzl2zByQ=="/>
+        <POI MapID="1371" xpos="234.367" ypos="77.5164" zpos="-714.948" type="leag.lws5.drizzlewood.cache.pyretooth" GUID="wHR0FVlnPEmbGeeJ1NOEqw=="/>
+        <POI MapID="1371" xpos="234.775" ypos="62.6421" zpos="-537.35" type="leag.lws5.drizzlewood.cache.wormud" GUID="Zkh4FUGc402GRuSp0aY/0Q=="/>
+        <POI MapID="1371" xpos="49.6854" ypos="45.6563" zpos="-512.095" type="leag.lws5.drizzlewood.cache.fellstrike" GUID="GR1vrUT68kmP8D36j7f1eg=="/>
+        <POI MapID="1371" xpos="-512.805" ypos="147.841" zpos="-466.071" type="leag.lws5.drizzlewood.cache.shredskin" GUID="+TT3XYQH1kyk/qdPQWZrbg=="/>
+        <POI MapID="1371" xpos="-336.035" ypos="103.567" zpos="-368.511" type="leag.lws5.drizzlewood.cache.breaksteel" GUID="Hk6q2Bxga0yBSCpYVpLcBg=="/>
+
+        <POI MapID="1371" xpos="518.823" ypos="69.7877" zpos="285.645" type="leag.lws5.drizzlewood.ears.start" GUID="FfP9HTA4eEqNYk8I5vTe5g=="/>
+        <POI MapID="1371" xpos="522.329" ypos="72.8093" zpos="294.604" type="leag.lws5.drizzlewood.ears.talk" GUID="2HYgEt2fJkeTXiygwJ6/dg=="/>
+        <POI MapID="1371" xpos="319.044" ypos="56.729" zpos="357.563" type="leag.lws5.drizzlewood.ears.icon" GUID="vZJ0/Z5AZk6OzwHVCQeYhg=="/>
+        <POI MapID="1371" xpos="346.312" ypos="77.9604" zpos="672.212" type="leag.lws5.drizzlewood.ears.icon" GUID="tTrkdZcz6kySy/U/l3huiQ=="/>
+        <POI MapID="1371" xpos="210.103" ypos="78.0407" zpos="490.95" type="leag.lws5.drizzlewood.ears.icon" GUID="+/iDw41Lhki+KeSvpNzaRQ=="/>
+        <POI MapID="1371" xpos="-87.9666" ypos="71.3067" zpos="521.411" type="leag.lws5.drizzlewood.ears.icon" GUID="p9YZLOZ8mUCzjQRJtwksPA=="/>
+        <POI MapID="1371" xpos="105.323" ypos="131.424" zpos="647.34" type="leag.lws5.drizzlewood.ears.icon" GUID="8qpnBm5/AECYrUuW8KFGAg=="/>
+        <POI MapID="1371" xpos="331.16" ypos="37.5136" zpos="208.293" type="leag.lws5.drizzlewood.ears.icon" GUID="3r5RrDH1r0Or1f1ces/6TA=="/>
+        <POI MapID="1371" xpos="434.736" ypos="63.5386" zpos="130.024" type="leag.lws5.drizzlewood.ears.icon" GUID="YyzeQqySAEG2G8BjosKlAQ=="/>
+        <POI MapID="1371" xpos="238.389" ypos="6.00067" zpos="145.309" type="leag.lws5.drizzlewood.ears.icon" GUID="AOWXA/jO+keF5IMsZrXp1A=="/>
+        <POI MapID="1371" xpos="131.047" ypos="10.1899" zpos="-10.6909" type="leag.lws5.drizzlewood.ears.icon" GUID="zoTJWTa55Eehct6lHgpKqw=="/>
+        <POI MapID="1371" xpos="63.806" ypos="58.2325" zpos="195.419" type="leag.lws5.drizzlewood.ears.icon" GUID="CjfBLp/tJEumcn/bwZRF0A=="/>
+        <POI MapID="1371" xpos="33.4444" ypos="101.608" zpos="309.516" type="leag.lws5.drizzlewood.ears.icon" GUID="yjjjTOHBv0KyQ4a8ZYGrBQ=="/>
+
+        <POI MapID="1371" xpos="-431.219" ypos="76.4541" zpos="203.029" type="leag.lws5.drizzlewood.fearless.icon" GUID="ML+jZuttD0OPRagN9g9LvQ=="/>
+
+        <POI MapID="1371" xpos="-370.724" ypos="10.3383" zpos="297.258" type="leag.lws5.drizzlewood.historian.icon" GUID="QiGp0J09uk+zCWLPE5VrxA=="/>
+        <POI MapID="1371" xpos="-370.724" ypos="10.3383" zpos="297.258" type="leag.lws5.drizzlewood.historian.blue" GUID="fWpmRsoK9061S/TvIfBEMw=="/>
+        <POI MapID="1371" xpos="72.6573" ypos="3.74532" zpos="-54.7598" type="leag.lws5.drizzlewood.historian.icon" GUID="rrdUgysvzEarjIDxk5KQ4w=="/>
+        <POI MapID="1371" xpos="72.6573" ypos="3.74532" zpos="-54.7598" type="leag.lws5.drizzlewood.historian.blue" GUID="Dvict1KYkEOrAByMtQQj7g=="/>
+        <POI MapID="1371" xpos="-452.54" ypos="80.4764" zpos="702.344" type="leag.lws5.drizzlewood.historian.icon" GUID="IRQ3opp550evhr+E3pO54w=="/>
+        <POI MapID="1371" xpos="-452.54" ypos="80.4764" zpos="702.344" type="leag.lws5.drizzlewood.historian.red" GUID="fX9V/U7tF02VHTPFUQlVyw=="/>
+        <POI MapID="1371" xpos="-40.3453" ypos="151.626" zpos="748.895" type="leag.lws5.drizzlewood.historian.icon" GUID="DWGuqnV3dE6bWUylq1WIbg=="/>
+        <POI MapID="1371" xpos="-40.3453" ypos="151.626" zpos="748.518" type="leag.lws5.drizzlewood.historian.green" GUID="M4/PPDvB8EafYSuyyPqtpA=="/>
+        <POI MapID="1371" xpos="339.407" ypos="79.1324" zpos="669.712" type="leag.lws5.drizzlewood.historian.icon" GUID="KWY3QOKURUm1nffZDL1U8g=="/>
+        <POI MapID="1371" xpos="339.407" ypos="79.1324" zpos="669.712" type="leag.lws5.drizzlewood.historian.blue" GUID="w5Hcya9LiUKiKkw5RCve9A=="/>
+
+        <Trail type="leag.lws5.drizzlewood.together" trailData="Data/LWS5/In This Together.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <POI MapID="1371" xpos="36.713" ypos="250.716" zpos="375.952" type="leag.lws5.drizzlewood.together.beetle" GUID="P0KUBkNKOUGbdMXNm05jHw=="/>
+        <POI MapID="1371" xpos="33.7043" ypos="251.13" zpos="375.624" type="leag.lws5.drizzlewood.together.boost" GUID="+FQRfQFTI0i/AqnzaQM6Og=="/>
+
+        <POI MapID="1371" xpos="299.537" ypos="57.1512" zpos="380.83" type="leag.lws5.drizzlewood.intelligence.blood" GUID="S8dMVlrNrkyriTGLchS/Aw=="/>
+        <POI MapID="1371" xpos="324.063" ypos="77.4129" zpos="637.323" type="leag.lws5.drizzlewood.intelligence.frost" GUID="ArMbajM7c06cnx89xOovNQ=="/>
+        <POI MapID="1371" xpos="101.515" ypos="11.6613" zpos="4.73563" type="leag.lws5.drizzlewood.intelligence.iron" GUID="QJxmLZL9Pk6mI+ZBHrmNdg=="/>
+        <POI MapID="1371" xpos="-194.959" ypos="3.383184" zpos="228.748" type="leag.lws5.drizzlewood.intelligence.ash" GUID="97d+yV/EIU2HjfoFEIO7/Q=="/>
+        <POI MapID="1371" xpos="43.0927" ypos="88.1746" zpos="302.635" type="leag.lws5.drizzlewood.intelligence.flame" GUID="iBa+QZVuWEubK2YtKNSK6A=="/>
+        <POI MapID="1371" xpos="-101.884" ypos="176.369" zpos="1104.33" type="leag.lws5.drizzlewood.intelligence.phalanx" GUID="fj+N63GjeU+A0Wpq+pPWKg=="/>
+        <POI MapID="1371" xpos="117.697" ypos="254.916" zpos="1200.66" type="leag.lws5.drizzlewood.intelligence.phalanx" GUID="J6uFf/fWG0+ZA5hTuw5UVg=="/>
+        <POI MapID="1371" xpos="-235.158" ypos="176.302" zpos="1182.58" type="leag.lws5.drizzlewood.intelligence.tank" GUID="zJuoc5zpH0S8Y3sioMM0bw=="/>
+        <POI MapID="1371" xpos="399.875" ypos="141.21" zpos="1159.38" type="leag.lws5.drizzlewood.intelligence.claw" GUID="dGXNmiD5KEGhWNLgl780tA=="/>
+
+        <POI MapID="1371" xpos="-47.1456" ypos="186.495" zpos="-1024.29" type="leag.lws5.drizzlewood.paratrooper.talk" GUID="wppL7J3gRUWOJxhsQbuxkA=="/>
+
+        <POI MapID="1371" xpos="-126.902" ypos="153.802" zpos="-1001.15" type="leag.lws5.drizzlewood.journal.icon" GUID="EKMwDYzFwkKO02ZhLxFrFw=="/>
+        <POI MapID="1371" xpos="-344.921" ypos="153.679" zpos="-1019.97" type="leag.lws5.drizzlewood.journal.icon" GUID="Qixzj2JSI0qC1MibwjqF/A=="/>
+        <POI MapID="1371" xpos="205.332" ypos="110.973" zpos="-937.185" type="leag.lws5.drizzlewood.journal.icon" GUID="wBx+Ob3QlkuJTl8e3qLlZw=="/>
+        <POI MapID="1371" xpos="368.07" ypos="2.38149" zpos="-681.566" type="leag.lws5.drizzlewood.journal.icon" GUID="YK+kUHjSPEGDwQIl5ZTXRA=="/>
+        <POI MapID="1371" xpos="-370.331" ypos="170.559" zpos="-665.17" type="leag.lws5.drizzlewood.journal.icon" GUID="v2KphbNbFUOSvoASYkcmLA=="/>
+        <POI MapID="1371" xpos="-453.265" ypos="135.478" zpos="-388.01" type="leag.lws5.drizzlewood.journal.icon" GUID="Zv0ICQ6MKE2MIZpkznjC/g=="/>
+        <POI MapID="1371" xpos="74.2382" ypos="16.9528" zpos="-256.937" type="leag.lws5.drizzlewood.journal.icon" GUID="GqS0htVOikuhSALO4fzNIw=="/>
+        <POI MapID="1371" xpos="-242.91" ypos="81.9311" zpos="-247.554" type="leag.lws5.drizzlewood.journal.icon" GUID="fiPyPSBBBEexgp/Jonfiyw=="/>
+
+        <POI MapID="1371" xpos="-126.902" ypos="153.802" zpos="-1001.15" type="leag.lws5.drizzlewood.journal.scrap" GUID="GWbVVTkVJki0gkEfIGRBkA=="/>
+        <POI MapID="1371" xpos="-344.921" ypos="153.679" zpos="-1019.97" type="leag.lws5.drizzlewood.journal.scrap" GUID="h5Ae+1oJWEWMcho1k1iZnw=="/>
+        <POI MapID="1371" xpos="205.332" ypos="110.973" zpos="-937.185" type="leag.lws5.drizzlewood.journal.scrap" GUID="u96MkgWF5U+DjatDnnrNDg=="/>
+        <POI MapID="1371" xpos="368.07" ypos="2.38149" zpos="-681.566" type="leag.lws5.drizzlewood.journal.scrap" GUID="l1pomD8OEki24J8L9yUcxA=="/>
+        <POI MapID="1371" xpos="-370.331" ypos="170.559" zpos="-665.17" type="leag.lws5.drizzlewood.journal.scrap" GUID="isCFG7Q3+02C85ArDV6I0Q=="/>
+        <POI MapID="1371" xpos="-453.265" ypos="135.478" zpos="-388.01" type="leag.lws5.drizzlewood.journal.scrap" GUID="Tz/RtoL6V0GvZjPobheu8w=="/>
+        <POI MapID="1371" xpos="74.2382" ypos="16.9528" zpos="-256.937" type="leag.lws5.drizzlewood.journal.scrap" GUID="iORRj+y+qUiZKft2JHv9GQ=="/>
+        <POI MapID="1371" xpos="-242.91" ypos="81.9311" zpos="-247.554" type="leag.lws5.drizzlewood.journal.scrap" GUID="5zYI6K7rXEW/8vONK1AQUQ=="/>
+
+        <POI MapID="1371" xpos="-169.945" ypos="152.548" zpos="-1082.92" type="leag.lws5.drizzlewood.olaf.quaestor" GUID="Nql52TBThUWtM8Ao5jgQFg=="/>
+        <POI MapID="1371" xpos="332.884" ypos="108.316" zpos="-981.569" type="leag.lws5.drizzlewood.olaf.quaestor" GUID="Iuuvr2gR+keQpTFtxyVC3g=="/>
+        <POI MapID="1371" xpos="412.522" ypos="11.5373" zpos="-682.988" type="leag.lws5.drizzlewood.olaf.quaestor" GUID="lucoK9F2zU+E8guMF3FDWQ=="/>
+        <POI MapID="1371" xpos="-383.095" ypos="151.315" zpos="-1142.44" type="leag.lws5.drizzlewood.olaf.quaestor" GUID="p4HSPlwji0ifQNjvwu+gRQ=="/>
+        <POI MapID="1371" xpos="-225.712" ypos="123.002" zpos="-640.737" type="leag.lws5.drizzlewood.olaf.quaestor" GUID="lHrE+3mmYEqYeABSRmq1nQ=="/>
+        <POI MapID="1371" xpos="440.498" ypos="23.7193" zpos="-269.238" type="leag.lws5.drizzlewood.olaf.quaestor" GUID="X+rEOcwpdUGEWrW2epwzXg=="/>
+        <POI MapID="1371" xpos="-381.728" ypos="80.0198" zpos="-188.406" type="leag.lws5.drizzlewood.olaf.quaestor" GUID="Y0LvXLwH90Sgha8nAZlXbQ=="/>
+        <POI MapID="1371" xpos="399.875" ypos="141.21" zpos="1159.38" type="leag.lws5.drizzlewood.olaf.southmeta" GUID="KLFCP52MDUGo/H7371XQEg=="/>
+        
+        <POI MapID="1371" xpos="605.688" ypos="11.6746" zpos="-267.385" type="leag.lws5.drizzlewood.olaf.southmeta.cache" GUID="C0EnhCh4qUOH1BwGnqi9aw=="/>
+        <POI MapID="1371" xpos="331.553" ypos="2.76008" zpos="-286.69" type="leag.lws5.drizzlewood.olaf.southmeta.cache" GUID="IPnx6teJNkuY8f7NgpfWZw=="/>
+        <POI MapID="1371" xpos="-231.972" ypos="29.4728" zpos="-213.15" type="leag.lws5.drizzlewood.olaf.southmeta.cache" GUID="WLHSvUYCFUWeVz7EaOxtjw=="/>
+        <POI MapID="1371" xpos="501.14" ypos="99.9476" zpos="-1218.91" type="leag.lws5.drizzlewood.olaf.southmeta.cache" GUID="mIV2kqutxUuxBc5GAs22iw=="/>
+        <POI MapID="1371" xpos="-141.267" ypos="190.726" zpos="-870.118" type="leag.lws5.drizzlewood.olaf.southmeta.cache" GUID="Ryc49Tz0ZUyZ6uWZ4tg71g=="/>
+        <POI MapID="1371" xpos="234.367" ypos="77.5164" zpos="-714.948" type="leag.lws5.drizzlewood.olaf.southmeta.cache" GUID="O8aAC9Ulo0iDvzjVUitCnw=="/>
+        <POI MapID="1371" xpos="234.775" ypos="62.6421" zpos="-537.35" type="leag.lws5.drizzlewood.olaf.southmeta.cache" GUID="oKyBVPdjv0mYdcvuU41Nyw=="/>
+        <POI MapID="1371" xpos="49.6854" ypos="45.6563" zpos="-512.095" type="leag.lws5.drizzlewood.olaf.southmeta.cache" GUID="zlkb8nAQXESJ70BdK7IsgQ=="/>
+        <POI MapID="1371" xpos="-512.805" ypos="147.841" zpos="-466.071" type="leag.lws5.drizzlewood.olaf.southmeta.cache" GUID="GBmfig3YF0isiqukf6x9gg=="/>
+        <POI MapID="1371" xpos="-336.035" ypos="103.567" zpos="-368.511" type="leag.lws5.drizzlewood.olaf.southmeta.cache" GUID="RBicfVxiukue/xiRYvrewQ=="/>
+        <POI MapID="1371" xpos="126.21" ypos="19.9241" zpos="-291.235" type="leag.lws5.drizzlewood.olaf.southmeta" GUID="U10dgo/rvESbXYqhsDkbuw=="/>
+
+        <POI MapID="1371" xpos="382.204" ypos="120.874" zpos="586.704" type="leag.lws5.drizzlewood.steamy.book" GUID="9RC0+elGDkyViz6QosqLIA=="/>
+
+        <POI MapID="1371" xpos="101.515" ypos="11.6613" zpos="4.73563" type="leag.lws5.drizzlewood.olaf.tribune" GUID="97d+yV/EIU2HjfoFEIO7/Q=="/>
+        <POI MapID="1371" xpos="399.875" ypos="141.21" zpos="1159.38" type="leag.lws5.drizzlewood.olaf.northmeta" GUID="+adabuaBIEyZ9Zj//LlSEg=="/>
+
+        <POI MapID="1371" xpos="-520.041" ypos="164.248" zpos="-1163.21" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="xf95H++hi0Ka15V4I33qXg=="/>
+        <POI MapID="1371" xpos="-167.17" ypos="252.652" zpos="-1085.06" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="OqjzQdL4WE+9ZbsPFcRSuA=="/>
+        <POI MapID="1371" xpos="-49.0133" ypos="308.932" zpos="-1033.96" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="OpA5DsS0aU29jHYZ6+6AOQ=="/>
+        <POI MapID="1371" xpos="246.133" ypos="160.533" zpos="-993.143" type="leag.lws5.drizzlewood.olaf.chest.norn" GUID="dYQ9Ib48VEeiQX3eqk+FLQ=="/>
+        <POI MapID="1371" xpos="431.57" ypos="108.306" zpos="-1232.83" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="HO5CnAgWWUCRrIO1l2kzMg=="/>
+        <POI MapID="1371" xpos="591.024" ypos="69.3349" zpos="-1189.82" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="N7eiaaHA70O4nxHcXW127Q=="/>
+        <POI MapID="1371" xpos="558.105" ypos="1.8046" zpos="-1175.55" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="F7aOFko1fUyhg9zvywyyLw=="/>
+        <POI MapID="1371" xpos="572.107" ypos="48.5039" zpos="-905.536" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="ECvqjin6hEOveJVgVqpLcg=="/>
+        <POI MapID="1371" xpos="436.075" ypos="95.8958" zpos="-461.511" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="wy5ZkEio+UyNgIQJ+eLZ7A=="/>
+        <POI MapID="1371" xpos="245.395" ypos="123.641" zpos="-535.597" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="GY5JOlQy7US7kqAEzQ3reQ=="/>
+        <POI MapID="1371" xpos="61.1291" ypos="16.1176" zpos="-449.345" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="o0Qk8Jlj0kuh6avRFacOEQ=="/>
+        <POI MapID="1371" xpos="-548.318" ypos="140.713" zpos="-600.674" type="leag.lws5.drizzlewood.olaf.chest.norn" GUID="18UkSD0Zqk++y7E2Zn45XA=="/>
+        <POI MapID="1371" xpos="-227.817" ypos="245.481" zpos="-918.117" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="MC3vgp/w5U6ZDmQsL0OX8Q=="/>
+        <POI MapID="1371" xpos="-38.3782" ypos="135.59" zpos="-738.341" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="mW1rdsqxTkGyRhw739n4EQ=="/>
+        <POI MapID="1371" xpos="12.5377" ypos="105.863" zpos="-584.125" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="4xQGu0YDk0+ASDI+5lTc7A=="/>
+        <POI MapID="1371" xpos="-171.356" ypos="91.2613" zpos="-388.577" type="leag.lws5.drizzlewood.olaf.chest.norn" GUID="F6vWMAUHm0SI2sHnnRZI5Q=="/>
+        <POI MapID="1371" xpos="-366.373" ypos="82.4606" zpos="-127.669" type="leag.lws5.drizzlewood.olaf.chest.norn" GUID="Kf6LTUwYYUmqRiYfMco4Ww=="/>
+        <POI MapID="1371" xpos="-489.245" ypos="92.7732" zpos="63.726" type="leag.lws5.drizzlewood.olaf.chest.norn" GUID="4iVP7VC5XEGQzcnnvUhynw=="/>
+        <POI MapID="1371" xpos="-288.495" ypos="49.4691" zpos="219.327" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="KhMWC2PaCUm9Md/tFZvr3g=="/>
+        <POI MapID="1371" xpos="-372.429" ypos="30.6271" zpos="439.419" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="iEGwwbn0QESZK3QB3BykiQ=="/>
+        <POI MapID="1371" xpos="-489.89" ypos="50.9602" zpos="351.6" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="CzHMrZwdrk2P/Jq241HIyQ=="/>
+        <POI MapID="1371" xpos="-325.224" ypos="171.869" zpos="738.079" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="nhMFKhCZ40ieei0WtTvcgg=="/>
+        <POI MapID="1371" xpos="321.401" ypos="80.4614" zpos="592.977" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="ASjxcw6jw0SlGQgq3OdkIw=="/>
+        <POI MapID="1371" xpos="541.843" ypos="95.5278" zpos="346.132" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="GTZMLcmmT02mjJQB9T1tRQ=="/>
+        <POI MapID="1371" xpos="314.377" ypos="58.4214" zpos="409.965" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="GP1Mx0WvG0eECaQyYESvog=="/>
+        <POI MapID="1371" xpos="50.7126" ypos="117.677" zpos="333.048" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="sTlzQHQJAkeIREjAQ9tLeQ=="/>
+        <POI MapID="1371" xpos="518.867" ypos="83.63" zpos="-150.047" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="3m6d3rC9aU+2MGKvXZVgVQ=="/>
+        <POI MapID="1371" xpos="195.718" ypos="5.65388" zpos="128.749" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="9bIXYbXOtk2P+kWgwEgnfQ=="/>
+        <POI MapID="1371" xpos="164.172" ypos="102.326" zpos="756.111" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="w59yu+eCWEuq3XA7ltMJAg=="/>
+        <POI MapID="1371" xpos="52.5779" ypos="213.96" zpos="1063.77" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="egalmOyd3UmIPLw/pcoLZA=="/>
+        <POI MapID="1371" xpos="-155.556" ypos="231.184" zpos="972.877" type="leag.lws5.drizzlewood.olaf.chest.charr" GUID="SAYi/TDnw0SKoRljqyehDw=="/>
+
+        <Trail type="leag.lws5.drizzlewood.shards" trailData="Data/LWS5/4 - Jormag Rising/Shards of Jormag.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="3AC2E8"/>
+
+        <POI MapID="1370" xpos="-80.4976" ypos="5.94483" zpos="115.307" type="leag.lws5.drizzlewood.spiritual.talk" GUID="MHKRFZH+Z0qanGjbLlZMLQ=="/>
+        <POI MapID="1370" xpos="-80.5909" ypos="1.92363" zpos="113.401" type="leag.lws5.drizzlewood.spiritual.wp" GUID="jRa7AbHMzUSQkW5JLtsq+A==" copy="[&BMEAAAA=]" copy-message="Owl Waypoint, Snowden Drifts"/>
+        <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 1b.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="31" xpos="1029.56" ypos="167.573" zpos="-378.413" type="leag.lws5.drizzlewood.spiritual.wp" GUID="DM+/IZah/0aqrWUDVpIKHg==" copy="[&BOsAAAA=]" copy-message="Thunderhorns Waypoint, Lornar's Pass"/>
+        <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 2b.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="27" xpos="439.508" ypos="230.608" zpos="1083.9" type="leag.lws5.drizzlewood.spiritual.icon" GUID="YavFu3csI0ibl0HMKkUk8w=="/>
+        <POI MapID="27" xpos="415.933" ypos="199.708" zpos="1051.35" type="leag.lws5.drizzlewood.spiritual.wp" GUID="HF2cG97OeEOGD+zP2sN/5Q==" copy="[&BIwDAAA=]" copy-message="Legends Waypoint, Hoelbrak"/>
+        <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <POI MapID="326" xpos="590.452" ypos="279.949" zpos="-48.9182" type="leag.lws5.drizzlewood.spiritual.icon" GUID="bYeatG4K8UmMHzL+5F9e2Q=="/>
+        <POI MapID="326" xpos="590.452" ypos="279.949" zpos="-48.9182" type="leag.lws5.drizzlewood.spiritual.wp" GUID="2sSfnhFtKEanEyN28Ojxjg==" copy="[&BHsBAAA=]" copy-message="Dolyak Pass Waypoint, Wayfarer Foothills"/>
+        <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 4.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 5.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 5b.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="28" xpos="340.843" ypos="132.996" zpos="1024.12" type="leag.lws5.drizzlewood.spiritual.icon" GUID="rz46OcRAxEu2BeIACXRFJA=="/>
+        <POI MapID="897" xpos="-232.175" ypos="169.138" zpos="-363.093" type="leag.lws5.drizzlewood.spiritual.icon" GUID="1Js70ew+ZU+Ll+zDDuKxgQ=="/>
+        <POI MapID="897" xpos="-374.898" ypos="201.438" zpos="-96.009" type="leag.lws5.drizzlewood.spiritual.wp" GUID="vMv2tX4xxUOYVqdy3NiQuQ==" copy="[&BHoCAAA=]" copy-message="Earthshake Waypoint, Frostgorge Sound"/>
+        <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 6.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 6b.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="30" xpos="811.022" ypos="63.1492" zpos="282.06" type="leag.lws5.drizzlewood.spiritual.icon" GUID="3VeZv2sxS0OeRFtdUs7EkA=="/>
+        <POI MapID="30" xpos="829.483" ypos="113.71" zpos="604.333" type="leag.lws5.drizzlewood.spiritual.wp" GUID="rCoyeIgszUGtdD8i1FVUWQ==" copy="[&BHIMAAA=]" copy-message="Forward Camp Waypoint, Drizzlewood Coast"/>
+        <POI MapID="1371" xpos="-306.094" ypos="123.004" zpos="992.617" type="leag.lws5.drizzlewood.spiritual.icon" GUID="a8oC1i8anky8y/NC2FCAvw=="/>
+        <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 7.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+
+        <POI MapID="1371" xpos="382.204" ypos="120.874" zpos="586.704" type="leag.lws5.drizzlewood.steamy.book" GUID="9RC0+elGDkyViz6QosqLIA=="/>
+
+        <POI MapID="1371" xpos="-53.3956" ypos="302.601" zpos="635.429" type="leag.lws5.drizzlewood.shiver.emote" GUID="x+TISXsLFk+4kaRs8FFA/g=="/>
+        <POI MapID="27" xpos="284.463" ypos="314.89" zpos="926.35" type="leag.lws5.drizzlewood.shiver.emote" GUID="RgPu+9MjkESnu2w+YuWwBQ=="/>
+        <POI MapID="28" xpos="-39.1744" ypos="155.106" zpos="196.572" type="leag.lws5.drizzlewood.shiver.emote" GUID="Wj/WkEoUM0GsBCfO6EX3Hg=="/>
+        <POI MapID="30" xpos="-99.6715" ypos="167.301" zpos="-67.3662" type="leag.lws5.drizzlewood.shiver.emote" GUID="45iJ62vdbUCeim2Bc5TqRQ=="/>
+        <POI MapID="29" xpos="-137.514" ypos="233.454" zpos="101.388" type="leag.lws5.drizzlewood.shiver.emote" GUID="p4ZlFonnf0233JL1we0BiQ=="/>
+        <POI MapID="31" xpos="33.0954" ypos="154.321" zpos="251.31" type="leag.lws5.drizzlewood.shiver.emote" GUID="AxjAmnUL9Ua12gIHsrkJPA=="/>
+        <POI MapID="26" xpos="418.638" ypos="165.111" zpos="-275.189" type="leag.lws5.drizzlewood.shiver.emote" GUID="4kJoDy6mQkavG2IbWa6xcQ=="/>
+        <POI MapID="1343" xpos="-170.054" ypos="395.576" zpos="-50.7511" type="leag.lws5.drizzlewood.shiver.emote" GUID="jwtRVV5eREaV205BEyFCdQ=="/>
+        
+        <POI MapID="1371" xpos="-67.1528" ypos="68.1777" zpos="-649.34" type="leag.lws5.drizzlewood.tengu.talk" GUID="ffZg6AAZZE2dNY20GNTnWQ=="/>
+        <POI MapID="1371" xpos="-72.9645" ypos="66.8611" zpos="-662.502" type="leag.lws5.drizzlewood.tengu.talk.start" GUID="I49/BdtgPUGezne2TjQtAw=="/>
+        <POI MapID="1371" xpos="-34.168" ypos="85.3407" zpos="-331.358" type="leag.lws5.drizzlewood.tengu.axe" GUID="VqHzG5/yGE6TvQUADF8gMQ=="/>
+        <POI MapID="1371" xpos="85.7243" ypos="69.6642" zpos="-448.255" type="leag.lws5.drizzlewood.tengu.dagger" GUID="HxSgGe1R40OKoXV3wHjzyw=="/>
+        <POI MapID="1371" xpos="-195.973" ypos="262.618" zpos="-840.665" type="leag.lws5.drizzlewood.tengu.focus" GUID="dpa7SDYEaUuls2gcOia/+A=="/>
+        <POI MapID="1371" xpos="-221.691" ypos="42.401" zpos="-171.041" type="leag.lws5.drizzlewood.tengu.greatsword" GUID="NkQwRN+bvEGVs/L3KZeQ5g=="/>
+        <POI MapID="1371" xpos="151.028" ypos="202.188" zpos="-975.507" type="leag.lws5.drizzlewood.tengu.hammer" GUID="NMyz3xXElU6VN6ykduZV9Q=="/>
+        <POI MapID="1371" xpos="425.972" ypos="130.648" zpos="-477.005" type="leag.lws5.drizzlewood.tengu.longbow" GUID="wKBtXdOnjkWAJ54i1dHTaA=="/>
+        <POI MapID="1371" xpos="-535.851" ypos="233.137" zpos="-926.664" type="leag.lws5.drizzlewood.tengu.mace" GUID="Vmv0igSoHkmt4m16Pc2Qwg=="/>
+        <POI MapID="1371" xpos="-205.756" ypos="189.54" zpos="-962.412" type="leag.lws5.drizzlewood.tengu.pistol" GUID="VgLBVvdndkiySN0Dx8e9sQ=="/>
+        <POI MapID="1371" xpos="-152.115" ypos="204.405" zpos="-650.681" type="leag.lws5.drizzlewood.tengu.rifle" GUID="e7IGIV51r0K/PgBS5Kv8EA=="/>
+        <POI MapID="1371" xpos="-549.568" ypos="216.849" zpos="-607.577" type="leag.lws5.drizzlewood.tengu.scepter" GUID="efNnX+IDF0C/HicIIEmb4w=="/>
+        <POI MapID="1371" xpos="565.677" ypos="46.285" zpos="-891.522" type="leag.lws5.drizzlewood.tengu.shield" GUID="q5fnGb6dDE2M6eblBLoTWg=="/>
+        <POI MapID="1371" xpos="-468.015" ypos="127.098" zpos="-96.1186" type="leag.lws5.drizzlewood.tengu.shortbow" GUID="unhOHmBjlUqHEQSQqNN36g=="/>
+        <POI MapID="1371" xpos="250.907" ypos="60.4496" zpos="-322.39" type="leag.lws5.drizzlewood.tengu.staff" GUID="36V1tIQzZE29dZyeYbAkyg=="/>
+        <POI MapID="1371" xpos="553.312" ypos="23.4753" zpos="-91.9085" type="leag.lws5.drizzlewood.tengu.sword" GUID="MsKbMFtGyUWInj/8B+6U2g=="/>
+        <POI MapID="1371" xpos="550.427" ypos="87.5548" zpos="-1134.44" type="leag.lws5.drizzlewood.tengu.torch" GUID="CP626quQWU6eqcXBz4yQfA=="/>
+        <POI MapID="1371" xpos="281.719" ypos="114.199" zpos="-621.082" type="leag.lws5.drizzlewood.tengu.warhorn" GUID="H1l+2uBZ5kCIpw0hyv1+SA=="/>
+
+        <Trail type="leag.lws5.drizzlewood.sleuth" trailData="Data/LWS5/4 - Jormag Rising/Treasure Sleuth.trl"/>
+        <POI MapID="1371" xpos="-438.653" ypos="8.47362" zpos="398.731" type="leag.lws5.drizzlewood.sleuth.start" GUID="4NjRRI8SKUue+oM2BsOdsw=="/>
+        <POI MapID="1371" xpos="-378.987" ypos="-13.32" zpos="308.649" type="leag.lws5.drizzlewood.sleuth.key" GUID="E5cY9WiRTUG10wwT2gohuw=="/>
+        <POI MapID="1371" xpos="-309.776" ypos="77.7858" zpos="197.494" type="leag.lws5.drizzlewood.sleuth.talk" GUID="3UU95Gs3uUG7Yq21L73nag=="/>
+        <POI MapID="1371" xpos="-219.268" ypos="127.907" zpos="556.141" type="leag.lws5.drizzlewood.sleuth.talk" GUID="HQLmeaqZjUKGlBEPCk42dg=="/>
+        <POI MapID="1371" xpos="-357.111" ypos="188.199" zpos="752.037" type="leag.lws5.drizzlewood.sleuth.talk" GUID="Wuh/FRdSpUOhIH+BU6QJgg=="/>
+        <POI MapID="1371" xpos="561.114" ypos="4.27304" zpos="-209.026" type="leag.lws5.drizzlewood.sleuth.talk" GUID="i5LWjkScek6/8i+cxQ4gIw=="/>
+        <POI MapID="1371" xpos="359.919" ypos="69.9589" zpos="196.772" type="leag.lws5.drizzlewood.sleuth.talk" GUID="jhW2EhwjGEuZeWQVW3Wtig=="/>
+        <POI MapID="1371" xpos="425.478" ypos="202.942" zpos="709.838" type="leag.lws5.drizzlewood.sleuth.talk" GUID="0n+hFmg8ikCopDktiwLEyg=="/>
+        <POI MapID="1371" xpos="316.278" ypos="108.544" zpos="1227.9" type="leag.lws5.drizzlewood.sleuth.door" GUID="BA8+gcs7vUeUTz1IBgWB2A=="/>
+
+        <POI MapID="1371" xpos="299.537" ypos="57.1512" zpos="380.83" type="leag.lws5.drizzlewood.otter.blood" GUID="S8dMVlrNrkyriTGLchS/Aw=="/>
+        <POI MapID="1371" xpos="324.063" ypos="77.4129" zpos="637.323" type="leag.lws5.drizzlewood.otter.frost" GUID="ArMbajM7c06cnx89xOovNQ=="/>
+        <POI MapID="1371" xpos="101.515" ypos="11.6613" zpos="4.73563" type="leag.lws5.drizzlewood.otter.iron" GUID="QJxmLZL9Pk6mI+ZBHrmNdg=="/>
+        <POI MapID="1371" xpos="-194.959" ypos="3.383184" zpos="228.748" type="leag.lws5.drizzlewood.otter.ash" GUID="97d+yV/EIU2HjfoFEIO7/Q=="/>
+        <POI MapID="1371" xpos="43.0927" ypos="88.1746" zpos="302.635" type="leag.lws5.drizzlewood.otter.flame" GUID="iBa+QZVuWEubK2YtKNSK6A=="/>
+        <POI MapID="1371" xpos="-101.884" ypos="176.369" zpos="1104.33" type="leag.lws5.drizzlewood.otter.phalanx" GUID="fj+N63GjeU+A0Wpq+pPWKg=="/>
+        <POI MapID="1371" xpos="117.697" ypos="254.916" zpos="1200.66" type="leag.lws5.drizzlewood.otter.phalanx" GUID="J6uFf/fWG0+ZA5hTuw5UVg=="/>
+        <POI MapID="1371" xpos="-235.158" ypos="176.302" zpos="1182.58" type="leag.lws5.drizzlewood.otter.tank" GUID="zJuoc5zpH0S8Y3sioMM0bw=="/>
+        <POI MapID="1371" xpos="399.875" ypos="141.21" zpos="1159.38" type="leag.lws5.drizzlewood.otter.claw" GUID="dGXNmiD5KEGhWNLgl780tA=="/>
     </POIs>
 </OverlayData>
