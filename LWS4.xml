@@ -1142,7 +1142,6 @@
 
         <Trail type="leag.lws4.jahai.requiem" trailData="Data/LWS4/Collections/Durman Priory WP to Archives.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="leag.lws4.jahai.requiem" trailData="Data/LWS4/Collections/To Ely Scorchfire.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="4776AA"/>
-        <Trail type="leag.lws4.jahai.requiem" trailData="Data/LWS4/Collections/To Ely Scorchfire 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="4776AA"/>
 
         <!-- Thunderhead Peaks -->
         <POI MapID="1310" xpos="269.783" ypos="357.22" zpos="556.903" type="leag.lws4.thunderhead.shatterer" GUID="FEarmLTxxU2pmU/TYGCTDQ=="/>
@@ -1893,14 +1892,14 @@
         <POI MapID="218" xpos="240.304" ypos="125.784" zpos="-113.481" type="leag.lws4.dragonfall.saving.wp" GUID="csYoVvjCm0uZges83gvywA==" copy="[&BK4BAAA=]" copy-message="Castavall Waypoint, Bloodtide Coast"/>
         <POI MapID="73" xpos="-110.717" ypos="-253.256" zpos="-616.242" type="leag.lws4.dragonfall.saving.wp" GUID="CoPu5XMoJEid13Bi/BatTQ==" copy="[&BK4BAAA=]" copy-message="Castavall Waypoint, Bloodtide Coast"/>
         <Trail type="leag.lws4.dragonfall.saving" trailData="Data/LWS4/Collections/2. Saving Skyscales/Hidden Garden.trl"/>
-        <POI MapID="39" xpos="-880.606" ypos="73.7872" zpos="350.108" type="leag.lws4.dragonfall.saving.hiddengarden.sign" GUID="ZkMAkvT6NUmrM6mUvxLnGg=="/>
-        <POI MapID="39" xpos="-18.5615" ypos="77.5864" zpos="-303.131" type="leag.lws4.dragonfall.saving.hiddengarden.sign" GUID="/a0gpNO9pUGuZokVIBI5Xg=="/>
-        <POI MapID="39" xpos="447.339" ypos="20.2969" zpos="-345.196" type="leag.lws4.dragonfall.saving.hiddengarden.sign" GUID="78W3Ts6+bUq2pzBrA/N9nQ=="/>
-        <POI MapID="39" xpos="182.858" ypos="1.71168" zpos="43.9268" type="leag.lws4.dragonfall.saving.hiddengarden.sign" GUID="0G4ULP3EpUWdyXppGSJ9Rg=="/>
-        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="leag.lws4.dragonfall.saving.hiddengarden.earth" GUID="3JvV5YScOEqxnnlWeD+OeA=="/>
-        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="leag.lws4.dragonfall.saving.hiddengarden.light" GUID="LT6G4M/Mmk6o7FhvRDxBIw=="/>
-        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="leag.lws4.dragonfall.saving.hiddengarden.waves" GUID="mHNX4tPue0OaoG2DTCKDVQ=="/>
-        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="leag.lws4.dragonfall.saving.hiddengarden.winds" GUID="xUUEBMx6iU279jjFmaaAnw=="/>
+        <POI MapID="39" xpos="-880.606" ypos="73.7872" zpos="350.108" type="leag.lws4.dragonfall.saving.hiddengarden.sign" GUID="F1zQH0e+SU2ly1ZKWsP+fQ=="/>
+        <POI MapID="39" xpos="-18.5615" ypos="77.5864" zpos="-303.131" type="leag.lws4.dragonfall.saving.hiddengarden.sign" GUID="iv1jV5YtD0a+0Bwh2xxaxQ=="/>
+        <POI MapID="39" xpos="447.339" ypos="20.2969" zpos="-345.196" type="leag.lws4.dragonfall.saving.hiddengarden.sign" GUID="uIjH+e/rj0S0lKcgQ+IhcA=="/>
+        <POI MapID="39" xpos="182.858" ypos="1.71168" zpos="43.9268" type="leag.lws4.dragonfall.saving.hiddengarden.sign" GUID="7EpnorxW2USweZJvl2wvfA=="/>
+        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="leag.lws4.dragonfall.saving.hiddengarden.earth" GUID="49ootYAbBU6lQGG7bW8zjw=="/>
+        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="leag.lws4.dragonfall.saving.hiddengarden.light" GUID="rHlUh0jdyEygzeNvWMtNvQ=="/>
+        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="leag.lws4.dragonfall.saving.hiddengarden.waves" GUID="a467/O96GESQ+ZUcGCMY0A=="/>
+        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="leag.lws4.dragonfall.saving.hiddengarden.winds" GUID="V/l5Fszn0UuYYa6/qRtW7w=="/>
         <POI MapID="39" xpos="-63.2474" ypos="38.7387" zpos="-221.526" type="leag.lws4.dragonfall.saving.wp" GUID="PJmiIFBIEkqaqw23pXbi0g==" copy="Get burned by Lava then find the Hidden Garden" copy-message="Get burned by Lava then find the Hidden Garden"/>
         <POI MapID="39" xpos="1095.46" ypos="-0.473072" zpos="348.772" type="leag.lws4.dragonfall.saving.mount.skimmer" GUID="J7UqYePzlU635b1FnGXomw=="/>
         <POI MapID="39" xpos="1078.66" ypos="23.9285" zpos="691.28" type="leag.lws4.dragonfall.saving.mount.springer" GUID="b2l0BukHvUuY+kVpJefarw=="/>
@@ -2385,66 +2384,66 @@
         <Trail type="leag.lws4.dragonfall.riding.sailcloth.kralkatite" trailData="Data/LWS4/Collections/5. Riding Skyscales/Istan 2.trl"/>
         <Trail type="leag.lws4.dragonfall.riding.sailcloth.kralkatite" trailData="Data/LWS4/Collections/5. Riding Skyscales/Istan 3.trl"/>
         <Trail type="leag.lws4.dragonfall.riding.sailcloth.kralkatite" trailData="Data/LWS4/Collections/5. Riding Skyscales/Istan 4.trl"/>
-        <POI MapID="1263" xpos="-594.627" ypos="56.5507" zpos="-124.247" type="leag.lws4.dragonfall.riding.number.2" GUID="hIVAN0RGVEqwLdap6hk9bw=="/>
-        <POI MapID="1263" xpos="-590.911" ypos="56.3816" zpos="-127.394" type="leag.lws4.dragonfall.riding.number.3" GUID="7LUItEzaF0qcrPmK12LHRg=="/>
-        <POI MapID="1263" xpos="-595.215" ypos="56.2327" zpos="-127.506" type="leag.lws4.dragonfall.riding.number.4" GUID="1Su0xKtCUk+q2F+U03cbdw=="/>
-        <POI MapID="1263" xpos="374.314" ypos="1.26225" zpos="431.863" type="leag.lws4.dragonfall.riding.wp" GUID="fnIGQYFBm0+5wxpOxcA+AA==" copy="[&BEMLAAA=]" copy-message="For Gathering: Follow Main Trail&#xa;&#xa;Next Map: Atholma Waypoint, Sandswept Isles"/>
-        <POI MapID="1263" xpos="-137.396" ypos="115.045" zpos="35.6455" type="leag.lws4.dragonfall.riding.mount.springer" GUID="9iyoS7z6P0+4Rs4cK/13dQ=="/>
-        <POI MapID="1263" xpos="-171.705" ypos="171.293" zpos="28.8646" type="leag.lws4.dragonfall.riding.mount.springer" GUID="HCGU3eJ3V0eUy0TIRiaV/g=="/>
-        <POI MapID="1263" xpos="-229.982" ypos="204.676" zpos="57.6434" type="leag.lws4.dragonfall.riding.mount.springer" GUID="Hr80MddnrkiJXTH/dYOgFA=="/>
-        <POI MapID="1263" xpos="-235.726" ypos="210.052" zpos="58.0531" type="leag.lws4.dragonfall.riding.mount.jackal" GUID="eD43gUhK6UqElYeHjTTcHA=="/>        
-        <POI MapID="1263" xpos="-53.3135" ypos="203.174" zpos="-109.301" type="leag.lws4.dragonfall.riding.glider" GUID="+DpUJYjL1EyYTNggHBnhJw=="/>
-        <POI MapID="1263" xpos="-103.914" ypos="155.143" zpos="-236.746" type="leag.lws4.dragonfall.riding.glider" GUID="64aqYm6DQ06dD5pM1CFkLA=="/>
-        <POI MapID="1263" xpos="-54.4033" ypos="144.203" zpos="-159.145" type="leag.lws4.dragonfall.riding.mount.springer" GUID="ZmHYrQgrQ0u5ebYCfsM9RA=="/>
-        <POI MapID="1263" xpos="-23.7691" ypos="158.849" zpos="-134.691" type="leag.lws4.dragonfall.riding.mount.springer" GUID="vSe2TZqgQU2spOiWVm4Iyw=="/>
-        <POI MapID="1263" xpos="-23.7466" ypos="177.361" zpos="-159.503" type="leag.lws4.dragonfall.riding.mount.jackal" GUID="du/VFC9ZlEeVRw/Gp/5h+g=="/>
-        <POI MapID="1263" xpos="94.5611" ypos="226.886" zpos="-268.583" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="t48Lvmv1JESrK6N8mUqWgw=="/>
-        <POI MapID="1263" xpos="78.3074" ypos="231.42" zpos="-331.319" type="leag.lws4.dragonfall.riding.mount.jackal" GUID="lIw+kVDnykqCXgF2Xngfyg=="/>
-        <POI MapID="1263" xpos="225.839" ypos="237.578" zpos="-481.316" type="leag.lws4.dragonfall.riding.glider" GUID="+W3flIn7YUSdquUjuohnwQ=="/>
-        <POI MapID="1263" xpos="338.232" ypos="200.808" zpos="-538.588" type="leag.lws4.dragonfall.riding.glider" GUID="UTBXjLOMB02kDOMp1hD4bQ=="/>
-        <POI MapID="1263" xpos="421.839" ypos="96.8368" zpos="-610.743" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="NlTKsGHTD0u8iyn1qtjMcA=="/>
-        <POI MapID="1263" xpos="388.254" ypos="91.7778" zpos="-576.852" type="leag.lws4.dragonfall.riding.mount.springer" GUID="B8nCXG2qv0erzop2yEJ0kA=="/>
-        <POI MapID="1263" xpos="29.6554" ypos="-0.0177381" zpos="-488.455" type="leag.lws4.dragonfall.riding.mount.skimmer" GUID="xg7GtXEthUKxPUlGz5dzig=="/>
-        <POI MapID="1263" xpos="-724.768" ypos="48.846" zpos="-1.42133" type="leag.lws4.dragonfall.riding.mount.springer" GUID="XzkNZQM5/0uVJdIG2OeFSQ=="/>
-        <POI MapID="1263" xpos="-766.612" ypos="86.8258" zpos="-7.13907" type="leag.lws4.dragonfall.riding.mount.springer" GUID="7lEw+E3ly0KloYPxF5oWnw=="/>
-        <POI MapID="1263" xpos="-789.869" ypos="100.929" zpos="-14.2626" type="leag.lws4.dragonfall.riding.mount.jackal" GUID="NBElspb5eUWnfeXz4VGvTQ=="/>
-        <POI MapID="1263" xpos="-815.114" ypos="90.5067" zpos="103.819" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="nai2MmHBakShM5Y5xonwJA=="/>
-        <POI MapID="1263" xpos="-666.474" ypos="79.1561" zpos="339.723" type="leag.lws4.dragonfall.riding.glider" GUID="AB5t5YxgSUutMFStiGE7Sg=="/>
-        <POI MapID="1263" xpos="-533.325" ypos="-0.239806" zpos="433.682" type="leag.lws4.dragonfall.riding.mount.skimmer" GUID="Jom7xSie0UmWIb0xgHaxdQ=="/>
-        <POI MapID="1263" xpos="-202.398" ypos="-0.0918409" zpos="621.158" type="leag.lws4.dragonfall.riding.mount.skimmer" GUID="Jdi7fz6wRk2xwXeg/CpJ3Q=="/>
-        <POI MapID="1263" xpos="131.47" ypos="-0.448269" zpos="747.253" type="leag.lws4.dragonfall.riding.mount.skimmer" GUID="Zp1kcxTkvUGxMd8X0PuGrw=="/>
-        <POI MapID="1263" xpos="267.593" ypos="2.03963" zpos="698.533" type="leag.lws4.dragonfall.riding.mount.springer" GUID="Z5z0QM1v2UCicOMjHSzVZw=="/>
-        <POI MapID="1263" xpos="259.809" ypos="83.1766" zpos="570.843" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="Rh1XVr0b1EeP2Fb8nh2JKA=="/>
-        <POI MapID="1263" xpos="239.711" ypos="65.5057" zpos="518.519" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="oKdzp0n4E0CLdNWJgtA0sw=="/>
-        <POI MapID="1263" xpos="185.527" ypos="78.5841" zpos="525.05" type="leag.lws4.dragonfall.riding.mount.springer" GUID="EY8yukN9wUePg8XQa5VrpQ=="/>
-        <POI MapID="1263" xpos="167.199" ypos="109.822" zpos="573.682" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="K/OXFRoxh0C79GBHxuRrSg=="/>
-        <POI MapID="1263" xpos="-588.44" ypos="56.0689" zpos="-128.635" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="ZiM9XIfvGkCVBT0/4YXGug=="/>
-        <POI MapID="1263" xpos="-566.608" ypos="59.6079" zpos="-139.018" type="leag.lws4.dragonfall.riding.mount.springer" GUID="HJIm4hnNXEmIgQ9YW5SytQ=="/>
-        <POI MapID="1263" xpos="-493.761" ypos="85.149" zpos="-115.401" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="AldldQDhUUC0aWUMkUnzkg=="/>
-        <POI MapID="1263" xpos="-450.871" ypos="72.3725" zpos="-74.895" type="leag.lws4.dragonfall.riding.glider" GUID="osVNQwisf0q7KYC2fDwHQw=="/>
-        <POI MapID="1263" xpos="-612.367" ypos="56.7145" zpos="-138.311" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="r0d+lRkdqU+W4llV+FN4Hw=="/>
-        <POI MapID="1263" xpos="-662.254" ypos="55.4091" zpos="-236.463" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="dooLhjsfp0qrQVDxNXeoyQ=="/>
-        <POI MapID="1263" xpos="-658.827" ypos="45.8815" zpos="-305.929" type="leag.lws4.dragonfall.riding.mount.springer" GUID="2hjyJtyhcUqJf7ooa4CRvA=="/>
-        <POI MapID="1263" xpos="-640.197" ypos="114.796" zpos="-321.858" type="leag.lws4.dragonfall.riding.glider" GUID="p5s1GQZHfU6pmcwBFkGJWA=="/>
-        <POI MapID="1263" xpos="-730.67" ypos="52.5608" zpos="-463.446" type="leag.lws4.dragonfall.riding.mount.springer" GUID="meJ4UiYU3kWdaP/etv0oqw=="/>
-        <POI MapID="1263" xpos="-603.089" ypos="61.8659" zpos="-440.721" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="TID+u5FPJEK+O5XG6WOKhA=="/>
-        <POI MapID="1263" xpos="-571.108" ypos="61.5071" zpos="-420.666" type="leag.lws4.dragonfall.riding.mount.springer" GUID="BgfdZO4jNUaABO0FyQzX5w=="/>
-        <POI MapID="1263" xpos="-508.204" ypos="138.876" zpos="-415.096" type="leag.lws4.dragonfall.riding.glider" GUID="xHBuOQrjvUe07axu/fgFMw=="/>
-        <POI MapID="1263" xpos="187.768" ypos="112.338" zpos="593.007" type="leag.lws4.dragonfall.riding.mount.springer" GUID="4NtI6Co2Y0aqhFXXvI0/5A=="/>
-        <POI MapID="1263" xpos="143.531" ypos="176.249" zpos="464.609" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="pC50Rq8OMUyyHP/kP90i+g=="/>
-        <POI MapID="1263" xpos="164.824" ypos="171.465" zpos="428.425" type="leag.lws4.dragonfall.riding.mount.springer" GUID="U8WDeSvLvESKD+XhyGRmXQ=="/>
-        <POI MapID="1263" xpos="191.814" ypos="188.328" zpos="416.677" type="leag.lws4.dragonfall.riding.mount.springer" GUID="L/kitgd9vUCbybn43RFFiQ=="/>
-        <POI MapID="1263" xpos="176.595" ypos="215.062" zpos="491.249" type="leag.lws4.dragonfall.riding.glider" GUID="4OjkcZnYXEybc/SZ9RM6Hg=="/>
-        <POI MapID="1263" xpos="146.353" ypos="210.052" zpos="589.086" type="leag.lws4.dragonfall.riding.glider" GUID="b7885+FEI0Ce07rpyfVadA=="/>
-        <POI MapID="1263" xpos="5.05732" ypos="36.7734" zpos="258.721" type="leag.lws4.dragonfall.riding.mount.springer" GUID="mX/RZSGz7U6FUeKs7hroAQ=="/>
-        <POI MapID="1263" xpos="-176.512" ypos="157.661" zpos="272.659" type="leag.lws4.dragonfall.riding.glider" GUID="hPcEQphWY0K8OxjZh9znHg=="/>
-        <POI MapID="1263" xpos="-63.0475" ypos="209.782" zpos="35.3465" type="leag.lws4.dragonfall.riding.glider" GUID="igyHbNHgt0+v91mUsYkN+w=="/>
-        <POI MapID="1263" xpos="-67.9297" ypos="211.997" zpos="56.6822" type="leag.lws4.dragonfall.riding.mount.jackal" GUID="s/qF9CJWBkyc67fggwH/5g=="/>
-        <POI MapID="1263" xpos="-146.694" ypos="221.74" zpos="-37.8623" type="leag.lws4.dragonfall.riding.mount.springer" GUID="dLha8l9Te06shy/YMBhBiw=="/>
-        <POI MapID="1263" xpos="-121.259" ypos="262.877" zpos="-37.4095" type="leag.lws4.dragonfall.riding.glider" GUID="RfYfPxCQ4UCt+TBjnVyH0Q=="/>
-        <POI MapID="1263" xpos="68.9482" ypos="2.51201" zpos="-372.798" type="leag.lws4.dragonfall.riding.wp" GUID="3+Q9XZMxVEeDNF2tKALqWg==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
-        <POI MapID="1263" xpos="132.718" ypos="90.3083" zpos="680.117" type="leag.lws4.dragonfall.riding.wp" GUID="btk/Uh/ZmEOLTu545E7fAQ==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
-        <POI MapID="1263" xpos="-324.363" ypos="25.1116" zpos="-54.0244" type="leag.lws4.dragonfall.riding.wp" GUID="So955/qY/EyFx+Hu6shsag==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
+        <POI MapID="1263" xpos="-594.627" ypos="56.5507" zpos="-124.247" type="leag.lws4.dragonfall.riding.number.2" GUID="vV2udR2sv0Kb0ZZnNSMo3w=="/>
+        <POI MapID="1263" xpos="-590.911" ypos="56.3816" zpos="-127.394" type="leag.lws4.dragonfall.riding.number.3" GUID="kUzJVtzVAkS1ypcDT6Gf0w=="/>
+        <POI MapID="1263" xpos="-595.215" ypos="56.2327" zpos="-127.506" type="leag.lws4.dragonfall.riding.number.4" GUID="yXo+D8Y3ZUm4LQq6amZb0Q=="/>
+        <POI MapID="1263" xpos="374.314" ypos="1.26225" zpos="431.863" type="leag.lws4.dragonfall.riding.wp" GUID="rZox+y391UGNzVCmZ/GLVg==" copy="[&BEMLAAA=]" copy-message="For Gathering: Follow Main Trail&#xa;&#xa;Next Map: Atholma Waypoint, Sandswept Isles"/>
+        <POI MapID="1263" xpos="-137.396" ypos="115.045" zpos="35.6455" type="leag.lws4.dragonfall.riding.mount.springer" GUID="/M4I+eHJUk2A+3snI02Q0g=="/>
+        <POI MapID="1263" xpos="-171.705" ypos="171.293" zpos="28.8646" type="leag.lws4.dragonfall.riding.mount.springer" GUID="o0ajQB5CjUOdaAIlWH/uRQ=="/>
+        <POI MapID="1263" xpos="-229.982" ypos="204.676" zpos="57.6434" type="leag.lws4.dragonfall.riding.mount.springer" GUID="SDYB8YSEk0aMwA+aRgXnaA=="/>
+        <POI MapID="1263" xpos="-235.726" ypos="210.052" zpos="58.0531" type="leag.lws4.dragonfall.riding.mount.jackal" GUID="bEXxBMtiKkqHJ3ZTi1I6bA=="/>        
+        <POI MapID="1263" xpos="-53.3135" ypos="203.174" zpos="-109.301" type="leag.lws4.dragonfall.riding.glider" GUID="YqcyMd+0m0aEHpyCPLZq3g=="/>
+        <POI MapID="1263" xpos="-103.914" ypos="155.143" zpos="-236.746" type="leag.lws4.dragonfall.riding.glider" GUID="Bxgys4BRLEO3NS8kdjhkog=="/>
+        <POI MapID="1263" xpos="-54.4033" ypos="144.203" zpos="-159.145" type="leag.lws4.dragonfall.riding.mount.springer" GUID="gP5eXXEH2UixbVYDfJirIw=="/>
+        <POI MapID="1263" xpos="-23.7691" ypos="158.849" zpos="-134.691" type="leag.lws4.dragonfall.riding.mount.springer" GUID="w1fjbLACWkmD22F2FxvVdQ=="/>
+        <POI MapID="1263" xpos="-23.7466" ypos="177.361" zpos="-159.503" type="leag.lws4.dragonfall.riding.mount.jackal" GUID="hDyD/Wy+3EyOkB7XAUBFIw=="/>
+        <POI MapID="1263" xpos="94.5611" ypos="226.886" zpos="-268.583" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="6fqRSUX5wkSxwnrMVG2MDQ=="/>
+        <POI MapID="1263" xpos="78.3074" ypos="231.42" zpos="-331.319" type="leag.lws4.dragonfall.riding.mount.jackal" GUID="RqUWvsTvYkuieBz663C9Dg=="/>
+        <POI MapID="1263" xpos="225.839" ypos="237.578" zpos="-481.316" type="leag.lws4.dragonfall.riding.glider" GUID="XLUjN1kHfkiyH0XK7//95g=="/>
+        <POI MapID="1263" xpos="338.232" ypos="200.808" zpos="-538.588" type="leag.lws4.dragonfall.riding.glider" GUID="Ry1DyYG8/0em6+ESoJH5MQ=="/>
+        <POI MapID="1263" xpos="421.839" ypos="96.8368" zpos="-610.743" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="0c5E5/QpJkCTQF+PE6hfWA=="/>
+        <POI MapID="1263" xpos="388.254" ypos="91.7778" zpos="-576.852" type="leag.lws4.dragonfall.riding.mount.springer" GUID="esffylEvNEaR5o9jZcPNYw=="/>
+        <POI MapID="1263" xpos="29.6554" ypos="-0.0177381" zpos="-488.455" type="leag.lws4.dragonfall.riding.mount.skimmer" GUID="2Gdm+lm7fUCPChqD1uLYPg=="/>
+        <POI MapID="1263" xpos="-724.768" ypos="48.846" zpos="-1.42133" type="leag.lws4.dragonfall.riding.mount.springer" GUID="hntTOiV1/keVrvD/KE5UNg=="/>
+        <POI MapID="1263" xpos="-766.612" ypos="86.8258" zpos="-7.13907" type="leag.lws4.dragonfall.riding.mount.springer" GUID="zO0R8I3YvUazQ5nMKVvkgQ=="/>
+        <POI MapID="1263" xpos="-789.869" ypos="100.929" zpos="-14.2626" type="leag.lws4.dragonfall.riding.mount.jackal" GUID="t0HQg+XB802nbo6Rxxa6bA=="/>
+        <POI MapID="1263" xpos="-815.114" ypos="90.5067" zpos="103.819" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="wjs0bOyaB0S3gz6hHim3ag=="/>
+        <POI MapID="1263" xpos="-666.474" ypos="79.1561" zpos="339.723" type="leag.lws4.dragonfall.riding.glider" GUID="FECT6rUrbEymE4PCz70Kkg=="/>
+        <POI MapID="1263" xpos="-533.325" ypos="-0.239806" zpos="433.682" type="leag.lws4.dragonfall.riding.mount.skimmer" GUID="tb0bnkuK/ECgIoimSnnjIw=="/>
+        <POI MapID="1263" xpos="-202.398" ypos="-0.0918409" zpos="621.158" type="leag.lws4.dragonfall.riding.mount.skimmer" GUID="tfWJq2xS00SXwQp0ZcDiuA=="/>
+        <POI MapID="1263" xpos="131.47" ypos="-0.448269" zpos="747.253" type="leag.lws4.dragonfall.riding.mount.skimmer" GUID="PYbWuqA2HkuU4qWTfKN5pg=="/>
+        <POI MapID="1263" xpos="267.593" ypos="2.03963" zpos="698.533" type="leag.lws4.dragonfall.riding.mount.springer" GUID="I/pAXrmfa06M3Fv1do6a9w=="/>
+        <POI MapID="1263" xpos="259.809" ypos="83.1766" zpos="570.843" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="1uTX0eAcYEyvI/QdBRD3AQ=="/>
+        <POI MapID="1263" xpos="239.711" ypos="65.5057" zpos="518.519" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="1N+IJejLo0iKkaf+WGJqHw=="/>
+        <POI MapID="1263" xpos="185.527" ypos="78.5841" zpos="525.05" type="leag.lws4.dragonfall.riding.mount.springer" GUID="WfedvOfw3EiSdpstd+smeQ=="/>
+        <POI MapID="1263" xpos="167.199" ypos="109.822" zpos="573.682" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="DYbeof/19kuduld7+hT3Cw=="/>
+        <POI MapID="1263" xpos="-588.44" ypos="56.0689" zpos="-128.635" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="83fZ0Hv2QkqQL9rfHxSn0Q=="/>
+        <POI MapID="1263" xpos="-566.608" ypos="59.6079" zpos="-139.018" type="leag.lws4.dragonfall.riding.mount.springer" GUID="myDmbNuSzUuLV2QNaN3yuQ=="/>
+        <POI MapID="1263" xpos="-493.761" ypos="85.149" zpos="-115.401" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="GgQSSlpyu0SxSF2ddbvpcw=="/>
+        <POI MapID="1263" xpos="-450.871" ypos="72.3725" zpos="-74.895" type="leag.lws4.dragonfall.riding.glider" GUID="uE9xR1kKVUiTt4yMrqSPpg=="/>
+        <POI MapID="1263" xpos="-612.367" ypos="56.7145" zpos="-138.311" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="cpjim4s6u06Gbrg+ZZgbhA=="/>
+        <POI MapID="1263" xpos="-662.254" ypos="55.4091" zpos="-236.463" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="Gg0iFz+kg0CcujXH7aijGA=="/>
+        <POI MapID="1263" xpos="-658.827" ypos="45.8815" zpos="-305.929" type="leag.lws4.dragonfall.riding.mount.springer" GUID="e15aPevp7UKSY3jyS+/XMA=="/>
+        <POI MapID="1263" xpos="-640.197" ypos="114.796" zpos="-321.858" type="leag.lws4.dragonfall.riding.glider" GUID="C2Q/qSt7CUyKDlMWlWfKiQ=="/>
+        <POI MapID="1263" xpos="-730.67" ypos="52.5608" zpos="-463.446" type="leag.lws4.dragonfall.riding.mount.springer" GUID="v080NE6N+0e+Yckxn8TwZA=="/>
+        <POI MapID="1263" xpos="-603.089" ypos="61.8659" zpos="-440.721" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="rXTuknMshkCMFBd7evWBag=="/>
+        <POI MapID="1263" xpos="-571.108" ypos="61.5071" zpos="-420.666" type="leag.lws4.dragonfall.riding.mount.springer" GUID="yqzugjTkSEurihFyCEylLQ=="/>
+        <POI MapID="1263" xpos="-508.204" ypos="138.876" zpos="-415.096" type="leag.lws4.dragonfall.riding.glider" GUID="jhNZo48RAEmp2SeJqEmiVA=="/>
+        <POI MapID="1263" xpos="187.768" ypos="112.338" zpos="593.007" type="leag.lws4.dragonfall.riding.mount.springer" GUID="5oVvwBp3M0eI7oKl62C5fA=="/>
+        <POI MapID="1263" xpos="143.531" ypos="176.249" zpos="464.609" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="xiLHpAQLnUqGt8hVzkfNlQ=="/>
+        <POI MapID="1263" xpos="164.824" ypos="171.465" zpos="428.425" type="leag.lws4.dragonfall.riding.mount.springer" GUID="tbnXSkR99EyoUOjhM2UoiA=="/>
+        <POI MapID="1263" xpos="191.814" ypos="188.328" zpos="416.677" type="leag.lws4.dragonfall.riding.mount.springer" GUID="Rp66PPQ6sEqtYYLXKzk9jQ=="/>
+        <POI MapID="1263" xpos="176.595" ypos="215.062" zpos="491.249" type="leag.lws4.dragonfall.riding.glider" GUID="icofacmW2k+oiz2R3YcB7Q=="/>
+        <POI MapID="1263" xpos="146.353" ypos="210.052" zpos="589.086" type="leag.lws4.dragonfall.riding.glider" GUID="gwTL5ifXS0GE2jockHONxw=="/>
+        <POI MapID="1263" xpos="5.05732" ypos="36.7734" zpos="258.721" type="leag.lws4.dragonfall.riding.mount.springer" GUID="zSlGpRVuA0OqrepDKrmanQ=="/>
+        <POI MapID="1263" xpos="-176.512" ypos="157.661" zpos="272.659" type="leag.lws4.dragonfall.riding.glider" GUID="D5RruGXGlUeXaVHrNCfg2A=="/>
+        <POI MapID="1263" xpos="-63.0475" ypos="209.782" zpos="35.3465" type="leag.lws4.dragonfall.riding.glider" GUID="bvLHXnu0IkKGQfOA3IMKnw=="/>
+        <POI MapID="1263" xpos="-67.9297" ypos="211.997" zpos="56.6822" type="leag.lws4.dragonfall.riding.mount.jackal" GUID="7FOtV8MoIUOVB26nA8RwcA=="/>
+        <POI MapID="1263" xpos="-146.694" ypos="221.74" zpos="-37.8623" type="leag.lws4.dragonfall.riding.mount.springer" GUID="UdGHmrUY1Eqfd7X029l9Pg=="/>
+        <POI MapID="1263" xpos="-121.259" ypos="262.877" zpos="-37.4095" type="leag.lws4.dragonfall.riding.glider" GUID="SzzeXlU/jk+kvn8/yyVYww=="/>
+        <POI MapID="1263" xpos="68.9482" ypos="2.51201" zpos="-372.798" type="leag.lws4.dragonfall.riding.wp" GUID="8wxwVtxDLkK3OXxhjKyx5Q==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
+        <POI MapID="1263" xpos="132.718" ypos="90.3083" zpos="680.117" type="leag.lws4.dragonfall.riding.wp" GUID="aTMLQcGw9UOdVE/CTn1+jw==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
+        <POI MapID="1263" xpos="-324.363" ypos="25.1116" zpos="-54.0244" type="leag.lws4.dragonfall.riding.wp" GUID="zRDfLyLnqEWtoJslQ9nnag==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
         <POI MapID="1263" xpos="183.681" ypos="211.941" zpos="467.296" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="amnNu7rd5Uu4FquuBE5CLA=="/>
         <POI MapID="1263" xpos="172.722" ypos="46.261" zpos="259.088" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="MohQZdliBUaqeyO5xmTnrA=="/>
         <POI MapID="1263" xpos="179.333" ypos="112.098" zpos="566.213" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="UOJa9k7p70Oy6Mpy5NyitA=="/>
