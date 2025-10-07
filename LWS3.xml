@@ -298,53 +298,90 @@
 
 
         <!-- COLLECTION - Koda's Blessing -->
-        <Trail type="leag.lws3.bff.koda.refugees.fireheart" trailData="Data/LWS3/Offering for Steadfast Refugees.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.restoration.ds" trailData="Data/LWS3/Offering for Jungle Restoration.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.eharmony.maelstrom" trailData="Data/LWS3/Offering for Elemental Harmony.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.epeace.kessex" trailData="Data/LWS3/Offering for Elemental Peace.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.survival.timberline" trailData="Data/LWS3/Offering for Quaggan Survival.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.piece.fields" trailData="Data/LWS3/Offering for Peace.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.redemption.ab" trailData="Data/LWS3/Offering for Draconic Redemption.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.majesty.td" trailData="Data/LWS3/Offering to Restore Nature's Majesty.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.corruption.grove" trailData="Data/LWS3/Offering for Overcoming Corruption 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.corruption.grove" trailData="Data/LWS3/Offering for Overcoming Corruption 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF" miniMapVisibility="0" mapVisibility="0"/>
+        <POI MapID="1178" xpos="26.5249" ypos="43.9511" zpos="-75.5647" type="leag.lws3.bff.start" GUID="sHA2lESyrEOQeZx0agEq7Q=="/>
+        <POI MapID="1178" xpos="31.96494" ypos="43.17028" zpos="-68.21536" type="leag.lws3.bff.koda.ingredients" GUID="C/EWApzq7kWouyVmfOur6g=="/>
         <Trail type="leag.lws3.bff.koda.sanctuary.frostgorge" trailData="Data/LWS3/Offering for Kodan Sanctuary.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
         <Trail type="leag.lws3.bff.koda.emissaries.snowden" trailData="Data/LWS3/Offering for Exiled Emissaries.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.cooperation.la" trailData="Data/LWS3/Offering for Racial Cooperation.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.strength.brisban" trailData="Data/LWS3/Offering for Cooperative Strength.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.nature.vb" trailData="Data/LWS3/Offering for Reunion with Nature.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.dstability.queensdale" trailData="Data/LWS3/Offering for Dimensional Stability.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <Trail type="leag.lws3.bff.koda.estability.ironmarches" trailData="Data/LWS3/Offering for Elemental Stability.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
         <Trail type="leag.lws3.bff.koda.recovery.wayfarer" trailData="Data/LWS3/Offering for Elemental Recovery.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
+        <Trail type="leag.lws3.bff.koda.refugees.fireheart" trailData="Data/LWS3/Offering for Steadfast Refugees.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
+        <Trail type="leag.lws3.bff.koda.estability.ironmarches" trailData="Data/LWS3/Offering for Elemental Stability.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
+        <Trail type="leag.lws3.bff.koda.peace.fields" trailData="Data/LWS3/Offering for Peace.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF" mapDisplaySize="12"/>
+        <Trail type="leag.lws3.bff.koda.survival.timberline" trailData="Data/LWS3/Offering for Quaggan Survival.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
+        <Trail type="leag.lws3.bff.koda.eharmony.maelstrom" trailData="Data/LWS3/Offering for Elemental Harmony.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
         <Trail type="leag.lws3.bff.koda.balance.straits" trailData="Data/LWS3/Offering for Life's Balance.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
+        <Trail type="leag.lws3.bff.koda.corruption.grove" trailData="Data/LWS3/Offering for Overcoming Corruption 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
+        <Trail type="leag.lws3.bff.koda.corruption.grove" trailData="Data/LWS3/Offering for Overcoming Corruption 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF" miniMapVisibility="0" mapVisibility="0"/>
+        <Trail type="leag.lws3.bff.koda.restoration.ds" trailData="Data/LWS3/Offering for Jungle Restoration.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
+        <Trail type="leag.lws3.bff.koda.majesty.td" trailData="Data/LWS3/Offering to Restore Nature's Majesty.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
+        <Trail type="leag.lws3.bff.koda.redemption.ab" trailData="Data/LWS3/Offering for Draconic Redemption.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
+        <Trail type="leag.lws3.bff.koda.nature.vb" trailData="Data/LWS3/Offering for Reunion with Nature.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
         <Trail type="leag.lws3.bff.koda.mbalance.bsf" trailData="Data/LWS3/Offering to Restore Magical Balance.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
-        <POI MapID="1178" xpos="24.941" ypos="43.9511" zpos="-74.4576" type="leag.lws3.bff.koda.start" GUID="r+iyQ7NP/0qRKJbIXzxCLw=="/>
-        <POI MapID="1178" xpos="32.1747" ypos="44.6742" zpos="-68.3115" type="leag.lws3.bff.koda.talk" GUID="dD2etfWMDUKYhdOfG6+lBw==" info="BUY 19 Offering Baskets" infoRange="3"/>
+        <Trail type="leag.lws3.bff.koda.strength.brisban" trailData="Data/LWS3/Offering for Cooperative Strength.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
+        <Trail type="leag.lws3.bff.koda.epeace.kessex" trailData="Data/LWS3/Offering for Elemental Peace.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
+        <Trail type="leag.lws3.bff.koda.dstability.queensdale" trailData="Data/LWS3/Offering for Dimensional Stability.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
+        <Trail type="leag.lws3.bff.koda.cooperation.la" trailData="Data/LWS3/Offering for Racial Cooperation.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
+        <POI MapID="30" xpos="-563.212" ypos="39.4246" zpos="-251.059" type="leag.lws3.bff.koda.basket" GUID="oA+1/TOCJ0mA9kBYEMyYxw=="/>
+        <POI MapID="30" xpos="-563.212" ypos="39.4246" zpos="-251.059" type="leag.lws3.bff.koda.wp" GUID="FtmQThNYVE6BwJaP3X/maQ==" copy="[&BLwAAAA=]" copy-message="Exile Waypoint, Snowden Drifts"/>
+        <POI MapID="31" xpos="337.35" ypos="30.9836" zpos="-425.805" type="leag.lws3.bff.koda.basket" GUID="j1E2Z3a+qU2dvACBOhf04w=="/>
+        <POI MapID="31" xpos="337.35" ypos="30.9836" zpos="-425.805" type="leag.lws3.bff.koda.wp" GUID="Iz4AVYksVkmIIBQZp3oVDA==" copy="[&BH4BAAA=]" copy-message="Vendrake's Homestead Waypoint, Wayfarer Foothills"/>
+        <POI MapID="28" xpos="396.6497" ypos="71.90922" zpos="341.3036" type="leag.lws3.bff.koda.basket" GUID="6hD6jxMPcESkEV2I+SBttQ=="/>
+        <POI MapID="28" xpos="396.6416" ypos="71.90622" zpos="341.3504" type="leag.lws3.bff.koda.wp" GUID="opgavRUs+0Gub15vds0Z+g==" copy="[&BH4BAAA=]" copy-message="Rustbowl Waypoint, Fireheart Rise"/>
+        <POI MapID="22" xpos="-828.246" ypos="22.0888" zpos="263.812" type="leag.lws3.bff.koda.basket" GUID="o/i6QUS8/kmKGHWlvZFnBA=="/>
+        <POI MapID="22" xpos="-828.246" ypos="22.0888" zpos="263.812" type="leag.lws3.bff.koda.wp" GUID="Gko89flTKk67Ts2kP2chBQ==" copy="[&BO4BAAA=]" copy-message="Gladefall Waypoint, Iron Marches"/>
+        <POI MapID="25" xpos="-451.081" ypos="46.7389" zpos="1149.36" type="leag.lws3.bff.koda.basket" GUID="EVABX10ZCUCw3+Xbs+sPPQ==" info="EVENT: Defeat the fire shaman and his minions" infoRange="5"/>
+        <POI MapID="25" xpos="-450.8658" ypos="46.72096" zpos="1148.966" type="leag.lws3.bff.koda.wp" GUID="FlK3SIUW5Umqb6co9w9bKw==" copy="[&BNUAAAA=]" copy-message="Summit Waypoint, Fields of Ruin"/>
+        <POI MapID="21" xpos="56.78257" ypos="37.91434" zpos="301.538" type="leag.lws3.bff.koda.basket" GUID="3bJNhIpYCkS9oULJfvhJQA=="/>
+        <POI MapID="21" xpos="56.78257" ypos="37.91434" zpos="301.538" type="leag.lws3.bff.koda.wp" GUID="IhniNh1RhUeHxk1xcUdYmg==" copy="[&BNUAAAA=]" copy-message="Summit Waypoint, Timberline Falls"/>
+        <POI MapID="29" xpos="285.278" ypos="14.4641" zpos="-897.2" type="leag.lws3.bff.koda.basket" GUID="KOGkN9x52EaVXeitfFnGvw=="/>
+        <POI MapID="29" xpos="285.278" ypos="14.4641" zpos="-897.2" type="leag.lws3.bff.koda.wp" GUID="FiIYZRnCHEWRo9HoCrtuNA==" copy="[&BNUAAAA=]" copy-message="Hidden Garden, Mount Maelstrom"/>
+        <Trail type="leag.lws3.bff.koda.eharmony.maelstrom" trailData="Data/LWS3/Hidden Garden.trl" color="FF8800"/>
+        <POI MapID="39" xpos="-880.606" ypos="73.7872" zpos="350.108" type="legs.jp.mj.hiddengarden.sign" GUID="ZkMAkvT6NUmrM6mUvxLnGg=="  iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
+        <POI MapID="39" xpos="-18.5615" ypos="77.5864" zpos="-303.131" type="legs.jp.mj.hiddengarden.sign" GUID="/a0gpNO9pUGuZokVIBI5Xg==" iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
+        <POI MapID="39" xpos="447.339" ypos="20.2969" zpos="-345.196" type="legs.jp.mj.hiddengarden.sign" GUID="78W3Ts6+bUq2pzBrA/N9nQ=="  iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
+        <POI MapID="39" xpos="182.858" ypos="1.71168" zpos="43.9268" type="legs.jp.mj.hiddengarden.sign" GUID="0G4ULP3EpUWdyXppGSJ9Rg=="   iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
+        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="legs.jp.mj.hiddengarden.earth" GUID="3JvV5YScOEqxnnlWeD+OeA=="  iconfile="Data/Images/Swirl - Tan.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="legs.jp.mj.hiddengarden.light" GUID="LT6G4M/Mmk6o7FhvRDxBIw==" iconfile="Data/Images/Swirl - White.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="legs.jp.mj.hiddengarden.waves" GUID="mHNX4tPue0OaoG2DTCKDVQ==" iconfile="Data/Images/Swirl - Sea Green.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="legs.jp.mj.hiddengarden.winds" GUID="xUUEBMx6iU279jjFmaaAnw=="   iconfile="Data/Images/Swirl - Teal.png" mapDisplaySize="64" inGameVisibility="0"/>
         <POI MapID="39" xpos="1077.41" ypos="31.7517" zpos="470.378" type="leag.lws3.bff.koda.glider" GUID="lEWzkxOjwUGA3dHn3Xq5yw=="/>
         <POI MapID="39" xpos="1026.32" ypos="23.933" zpos="589.699" type="leag.lws3.bff.koda.glider" GUID="h4bs/kmQXEGgyd27jeXmzQ=="/>
-        <POI MapID="21" xpos="56.5461" ypos="42.0877" zpos="325.931" type="leag.lws3.bff.koda.basket" GUID="3bJNhIpYCkS9oULJfvhJQA=="/>
-        <POI MapID="25" xpos="-451.081" ypos="46.7389" zpos="1149.36" type="leag.lws3.bff.koda.basket" GUID="EVABX10ZCUCw3+Xbs+sPPQ=="/>
-        <POI MapID="22" xpos="-824.661" ypos="4.6165" zpos="358.87" type="leag.lws3.bff.koda.basket" GUID="fE4wpcuN5EOLlIHDh+dF4w=="/>
-        <POI MapID="23" xpos="1181.92" ypos="33.1473" zpos="-321.637" type="leag.lws3.bff.koda.basket" GUID="s/A72hlnIkOeHOFxhDVXmw=="/>
-        <POI MapID="50" xpos="-53.9755" ypos="20.9888" zpos="352.067" type="leag.lws3.bff.koda.basket" GUID="amPFfIbYQEGJpEkL5YlxrA=="/>
-        <POI MapID="54" xpos="393.746" ypos="27.5044" zpos="159.269" type="leag.lws3.bff.koda.basket" GUID="hksK5QRzKkODD5MqdX3omA=="/>
         <POI MapID="39" xpos="1070.89" ypos="64.4281" zpos="498.924" type="leag.lws3.bff.koda.basket" GUID="WFipPoG3T0q2iH7VWNTTew=="/>
-        <POI MapID="51" xpos="872.439" ypos="11.4892" zpos="-199.936" type="leag.lws3.bff.koda.basket" GUID="nk3s63mF5kmruC9R1QAxeA=="/>
-        <POI MapID="28" xpos="396.069" ypos="71.509" zpos="345.137" type="leag.lws3.bff.koda.basket" GUID="6hD6jxMPcESkEV2I+SBttQ=="/>
-        <POI MapID="30" xpos="-581.806" ypos="34.9305" zpos="-352.232" type="leag.lws3.bff.koda.basket" GUID="oA+1/TOCJ0mA9kBYEMyYxw=="/>
-        <POI MapID="29" xpos="285.278" ypos="14.4641" zpos="-897.2" type="leag.lws3.bff.koda.basket" GUID="KOGkN9x52EaVXeitfFnGvw=="/>
+        <POI MapID="39" xpos="1070.89" ypos="64.4281" zpos="498.924" type="leag.lws3.bff.koda.wp" GUID="pG3YxSYuNUiyNuEpdzL3Iw==" copy="[&BPACAAA=]" copy-message="Thunderhead Waypoint, Straits of Devastation"/>
+        <POI MapID="51" xpos="877.8364" ypos="8.716164" zpos="-201.6246" type="leag.lws3.bff.koda.basket" GUID="nk3s63mF5kmruC9R1QAxeA=="/>
+        <POI MapID="51" xpos="877.8364" ypos="8.716164" zpos="-201.6246" type="leag.lws3.bff.koda.wp" GUID="keQQntjmhkWsjWALh8L55w==" copy="[&BLoEAAA=]" copy-message="Upper Commons Waypoint, The Grove"/>
+        <POI MapID="648" xpos="46.8525" ypos="104.667" zpos="54.849" type="leag.lws3.bff.koda.basket" GUID="Ym+XnhILHUau8j2Wmhse+A==" maxSize="24" mapDisplaySize="24"/>
+        <POI MapID="648" xpos="46.8525" ypos="104.667" zpos="54.849" type="leag.lws3.bff.koda.wp" GUID="1DqxPMj+o0GN7pxU26q8Qw==" copy="[&BF4IAAA=]" copy-message="Mordremoth's Vantage, Dragon's Stand"/>
+        <POI MapID="1041" xpos="-713.028" ypos="178.545" zpos="-402.15" type="leag.lws3.bff.koda.basket" GUID="BlL73yttrU+mD3UbtGfYwA=="/>
+        <POI MapID="1041" xpos="-713.028" ypos="178.545" zpos="-402.15" type="leag.lws3.bff.koda.wp" GUID="1DqxPMj+o0GN7pxU26q8Qw==" copy="[&BA4IAAA=]" copy-message="Order of Whispers Camp Waypoint, Tangled Depths"/>
         <POI MapID="1045" xpos="-736.123" ypos="236.721" zpos="93.8" type="leag.lws3.bff.koda.glider" GUID="Ub0FT6Lf0EK3mq02AfHwbQ=="/>
         <POI MapID="1045" xpos="-719.399" ypos="238.927" zpos="-87.2009" type="leag.lws3.bff.koda.glider" GUID="/bek53kMUEG77HIjDr9LUw=="/>
-        <POI MapID="1045" xpos="-351.004" ypos="329.775" zpos="-43.6353" type="leag.lws3.bff.koda.basket" GUID="aquQaKIS7ESyNXJFe3n4JQ=="/>
-        <POI MapID="1165" xpos="5.75729" ypos="323.505" zpos="65.49" type="leag.lws3.bff.koda.glider" GUID="8pvOwdDpjE+mqebwjpIsCw=="/>
-        <POI MapID="1165" xpos="-194.155" ypos="88.8211" zpos="-1.18381" type="leag.lws3.bff.koda.basket" GUID="/r/FgBlHbkCF285WwySKrQ=="/>
-        <POI MapID="31" xpos="337.35" ypos="30.9836" zpos="-425.805" type="leag.lws3.bff.koda.basket" GUID="j1E2Z3a+qU2dvACBOhf04w=="/>
+        <POI MapID="1045" xpos="-370.8069" ypos="329.7923" zpos="-35.64056" type="leag.lws3.bff.koda.basket" GUID="aquQaKIS7ESyNXJFe3n4JQ=="/>
+        <POI MapID="1045" xpos="-370.8069" ypos="329.7923" zpos="-35.64056" type="leag.lws3.bff.koda.wp" GUID="1DqxPMj+o0GN7pxU26q8Qw==" copy="[&BMYHAAA=]" copy-message="Forgotten City Waypoint, Auric Basin"/>
+        <POI MapID="1043" xpos="154.9474" ypos="0.09752762" zpos="-171.429" type="leag.lws3.bff.koda.basket" GUID="cmK3vmxa4UuSphQlfBeKgQ=="/>
+        <POI MapID="1043" xpos="154.9474" ypos="0.09752762" zpos="-171.429" type="leag.lws3.bff.koda.wp" GUID="6R4czdwoDUu53zKc9d9XYg==" copy="[&BAgIAAA=]" copy-message="Pact Encampment Waypoint, Verdant Brink"/>
         <POI MapID="1052" xpos="140.891" ypos="429.587" zpos="-52.0697" type="leag.lws3.bff.koda.glider" GUID="EllPSHDi7UmOI6UmCgGDpw=="/>
         <POI MapID="1052" xpos="-87.6158" ypos="403.634" zpos="-383.673" type="leag.lws3.bff.koda.basket" GUID="RCbVKkH+CEOHmMTfKZP7lA==" info="Must be daytime with Lord Faren present." infoRange="5"/>
+        <POI MapID="1052" xpos="-87.6158" ypos="403.634" zpos="-383.673" type="leag.lws3.bff.koda.wp" GUID="Db6bnPg0AkmRerJseiIzJw==" copy="[&BD8JAAA=]" copy-message="Depths of the Maw, Bloodstone Fen"/>
+        <POI MapID="1165" xpos="5.75729" ypos="323.505" zpos="65.49" type="leag.lws3.bff.koda.glider" GUID="8pvOwdDpjE+mqebwjpIsCw=="/>
+        <POI MapID="1165" xpos="-194.155" ypos="88.8211" zpos="-1.18381" type="leag.lws3.bff.koda.basket" GUID="/r/FgBlHbkCF285WwySKrQ=="/>
+        <POI MapID="1165" xpos="-194.155" ypos="88.8211" zpos="-1.18381" type="leag.lws3.bff.koda.wp" GUID="7Yc58q1m8kCS3/+QLN9X1A==" copy="[&BGAAAAA=]" copy-message="East End, Brisban Wildlands"/>
+        <POI MapID="54" xpos="393.746" ypos="27.5044" zpos="159.269" type="leag.lws3.bff.koda.basket" GUID="hksK5QRzKkODD5MqdX3omA=="/>
+        <POI MapID="54" xpos="393.746" ypos="27.5044" zpos="159.269" type="leag.lws3.bff.koda.wp" GUID="v/vFJBJTx0mkTkPLgHuMEg==" copy="[&BBEAAAA=]" copy-message="Darkwound Waypoint, Kessex Hills"/>
+        <POI MapID="23" xpos="1181.92" ypos="33.1473" zpos="-321.637" type="leag.lws3.bff.koda.basket" GUID="s/A72hlnIkOeHOFxhDVXmw=="/>
+        <POI MapID="23" xpos="1181.92" ypos="33.1473" zpos="-321.637" type="leag.lws3.bff.koda.wp" GUID="KLtH8FsWBU67/4dtjaG3wg==" copy="[&BPwAAAA=]" copy-message="Godslost Waypoint, Queensdale"/>
         <POI MapID="15" xpos="523.459" ypos="1.86117" zpos="-270.649" type="leag.lws3.bff.koda.basket" GUID="ll2N/6XxmkGsoTUSnP93XQ=="/>
-        <POI MapID="1043" xpos="171.679" ypos="-0.192899" zpos="-185.965" type="leag.lws3.bff.koda.basket" GUID="cmK3vmxa4UuSphQlfBeKgQ=="/>
-        <POI MapID="648" xpos="46.8525" ypos="104.667" zpos="54.849" type="leag.lws3.bff.koda.basket" GUID="Ym+XnhILHUau8j2Wmhse+A==" maxSize="24" mapDisplaySize="24"/>
-        <POI MapID="1041" xpos="-713.028" ypos="178.545" zpos="-402.15" type="leag.lws3.bff.koda.basket" GUID="BlL73yttrU+mD3UbtGfYwA=="/>
+        <POI MapID="15" xpos="523.459" ypos="1.86117" zpos="-270.649" type="leag.lws3.bff.koda.wp" GUID="6gUYBla0QEWPY3a8ooSSQg==" copy="[&BBAEAAA=]" copy-message="Trader's Forum Waypoint, Lion's Arch"/>
+        <POI MapID="50" xpos="-53.9755" ypos="20.9888" zpos="352.067" type="leag.lws3.bff.koda.basket" GUID="amPFfIbYQEGJpEkL5YlxrA=="/>
+        
+
+                
+        
+        
+        
+        
+        
+        
+        
         
 
 
