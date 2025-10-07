@@ -1,7 +1,8 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
-        <MarkerCategory name="collections" IsSeparator="1" DisplayName="COLLECTIONS"/>
+        <!--
         
+        <MarkerCategory name="collections" IsSeparator="1" DisplayName="COLLECTIONS"/>
         <MarkerCategory name="basic" DisplayName="Basic">
             <MarkerCategory name="wip" DisplayName="Placeholder"/>
         </MarkerCategory>
@@ -21,7 +22,8 @@
         <MarkerCategory name="festival" DisplayName="Festival">
             <MarkerCategory name="wip" DisplayName="Placeholder"/>
         </MarkerCategory>
-
     </MarkerCategory>
+    -->
+
     <!-- End of Lady Elyssa's AP Guides -->
 </OverlayData>

@@ -1,7 +1,7 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
         
-        <MarkerCategory name="lws5" DisplayName="Season 5">
+        <MarkerCategory name="lws5" DisplayName="Season 5 | Icebrood Saga ">
 
             <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
 
@@ -50,23 +50,211 @@
 
                 <!-- CHAPTER 1: Whisper in the Dark -->
                 <MarkerCategory name="ch1" IsSeparator="1" DisplayName="CHAPTER 1: Whisper in the Dark"/>
+                
+                <MarkerCategory name="scholar" DisplayName="Raven Lens Scholar" achievementId="5014">
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.25" maxSize="16" mapDisplaySize="32"/>
+                    <MarkerCategory name="info" DisplayName="Raven Info" iconFile="Data/Images/Icons/Blank.png" info="MASTERIES: Raven Attunement - Activate Raven Bond&#xa;Then INTERACT with the Raven Totem." infoRange="5"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="sanctum" DisplayName="Raven Sanctum" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" color="00FF00"/>
+
 
                 <!-- CHAPTER 2: Shadow in the Ice -->
-                <MarkerCategory name="ch2" IsSeparator="1" DisplayName="CHAPTER 2: Shadow in the Ice"/>
+                <!-- <MarkerCategory name="ch2" IsSeparator="1" DisplayName="CHAPTER 2: Shadow in the Ice"/> -->
+
 
                 <!-- CHAPTER 3: No Quarter -->
                 <MarkerCategory name="ch3" IsSeparator="1" DisplayName="CHAPTER 3: No Quarter"/>
+                <MarkerCategory name="diplomat" DisplayName="Master Diplomat" achievementId="5245" iconFile="Data/Images/Icons/Blank.png" autotrigger="1" info="1. Let's Stay on Topic. This civil war is a smokescreen for Bangar&#xa;2. We need to be smart and learn about the enemy&#xa;3. What kind of opponents are we facing with Ryland and his officers?&#xa;3. Our best strategy is to use every tactic and every resource, everywhere" infoRange="5"/>
+                <MarkerCategory name="ddd" DisplayName="Distract, Destroy, Distrust" achievementId="5316">
+                    <MarkerCategory name="fix" DisplayName="Fix the Weapon in the Overlook" iconFile="Data/Images/Icons/Blank.png" autotrigger="1" info="2. Firing: red. Elevation: blue. Breach: green" infoRange="5" behavior="3"/>
+                    <MarkerCategory name="strip" DisplayName="Vehicles stripped by lighthouse" iconFile="Data/Images/Icons/Orb - Green - S.png" heightOffset="-0.25" maxSize="16" mapDisplaySize="32"/>
+                </MarkerCategory>
+                <MarkerCategory name="purrsuit" DisplayName="Fast Purrsuit" achievementId="5275" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png">
+                    <MarkerCategory name="swiftness" DisplayName="Swiftness" iconFile="Data/Images/Icons/Swiftness.png" heightOffset="-0.25" maxSize="16" mapVisibility="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="kitty" DisplayName="Good Kitty [H]" achievementId="5243" iconFile="Data/Images/Icons/Head Pat.png" maxSize="32" defaulttoggle="0"/>
+                <MarkerCategory name="intel" DisplayName="Intel Acquired" achievementId="5248" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.25" maxSize="16" mapDisplaySize="32"/>
+                <MarkerCategory name="shoulder" DisplayName="Shoulder to Shoulder" iconFile="Data/Images/Icons/Blank.png" info="Agent One, direction South" infoRange="5" behavior="3"/>
+                <MarkerCategory name="nothing" DisplayName="You Saw Nothing" achievementId="5306" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png">
+                    <MarkerCategory name="key" DisplayName="Key" iconFile="Data/Images/Icons/Key.png" heightOffset="-0.25" minSize="16" maxSize="16" mapDisplaySize="32"/>
+                </MarkerCategory>
+
+
                 
                 <!-- CHAPTER 4: Jormag Rising -->
                 <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: Jormag Rising"/>
+                <MarkerCategory name="bangar" DisplayName="Confer with Bangar [H]" achievementId="5383" defaulttoggle="0">
+                    <MarkerCategory name="talk" DisplayName="Talk to Bangar in Eye of the North" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="32" mapDisplaySize="32"/>
+                </MarkerCategory>
+                <MarkerCategory name="ghost" DisplayName="The Ghost" achievementId="5386" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" color="00FF00"/>
+
+                <MarkerCategory name="pantheon" DisplayName="Pantheon of the Wild" achievementId="5417">
+                    <MarkerCategory name="dcfotes" DisplayName="Flight of the Eagle Spirit" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/Images/Trails/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="dctoy" DisplayName="The Ox's Yoke" fadeNear="3000" fadeFar="6000">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="sign" DisplayName="Toggle Sign" fadeNear="2000" fadeFar="4000"/>
+                        <MarkerCategory name="to" DisplayName="Toggle Trail To Adventure" texture="Data/Images/Trails/Dashed Line with Shadow.png" animSpeed="0.5"/>
+                        <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/Images/Trails/Trail Pointer - Small.png" animSpeed="0"  fadeNear="3000" fadeFar="6000"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="eagle" DisplayName="Toggle Eagle Spirit" iconFile="Data/Images/Icons/Eagle Spirit Portrait.png" minSize="16" maxSize="20" mapDisplaySize="32"/>
+                    <MarkerCategory name="owl" DisplayName="Toggle Owl Spirit" iconFile="Data/Images/Icons/Owl Spirit Portrait.png" minSize="16" maxSize="20" mapDisplaySize="32"/>
+                    <MarkerCategory name="ox" DisplayName="Toggle Ox Spirit" iconFile="Data/Images/Icons/Ox Spirit Portrait.png" minSize="16" maxSize="20" mapDisplaySize="32"/>
+                    <MarkerCategory name="wolverine" DisplayName="Toggle Wolverine Spirit" iconFile="Data/Images/Icons/Wolverine Spirit Portrait.png" minSize="20" maxSize="24" mapDisplaySize="32"/>
+                </MarkerCategory>
 
 
+
+                <!-- CHAPTER 5: Champions -->
+                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: Champions"/>
+                <MarkerCategory name="insights" DisplayName="Champions Insights" texture="Data/Images/Trails/Mastery.png">
+                    <MarkerCategory name="drm" IsSeparator="1" DisplayName="Within Dragon Response Missions (EotN)"/>
+                    <MarkerCategory name="primordus" IsSeparator="1" DisplayName="Fight Promordus's Champions"/>
+                    <!-- Fight Promordus's Champion -->
+                    <MarkerCategory name="brisban" DisplayName="Brisban Wildlands" achievementId="5498"/>
+                    <MarkerCategory name="fields" DisplayName="Fields of Ruin" achievementId="5536"/>
+                    <MarkerCategory name="gendarran" DisplayName="Gendarran" achievementId="5533"/>
+                    <MarkerCategory name="metrica" DisplayName="Metrica Province" achievementId="5517"/>
+                    <MarkerCategory name="thunderhead" DisplayName="Thunderhead Keep" achievementId="5540"/>
+                                    
+                    <!-- Fight Jormag's Champion -->
+                    <MarkerCategory name="jormag" IsSeparator="1" DisplayName="Fight Jormag's Champion"/>
+                    <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" achievementId=""/>
+                    <MarkerCategory name="caledon" DisplayName="Caledon Forest" achievementId=""/>
+                    <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" achievementId=""/>
+                    <MarkerCategory name="doric" DisplayName="Lake Doric" achievementId="5504"/>
+                    <MarkerCategory name="snowden" DisplayName="Snowden Drifts" achievementId="5502" miniMapVisibility="0" mapDisplaySize="8"/>
+                </MarkerCategory>
+                <MarkerCategory name="wildfire" DisplayName="Wildfire">
+                    <MarkerCategory name="silent" DisplayName="Silent as Leopard, Clever as Raven" iconFile="Data/Images/Icons/Silent as Leopard, Clever as Raven.png" minSize="16" maxSize="24" mapVisibility="0" miniMapVisibility="0"/>
+                    <MarkerCategory name="strong" DisplayName="Strong as Bear, Sharp as Wolf" iconFile="Data/Images/Icons/Strong as Bear, Sharp as Wolf.png" minSize="16" maxSize="24" mapVisibility="0" miniMapVisibility="0"/>
+                </MarkerCategory>
+                <!-- Dragonstorm -->
+                <MarkerCategory name="dragonstorm" DisplayName="Dragonstorm">
+                    <MarkerCategory name="launchpad" DisplayName="Launchpad Locations" iconFile="Data/Images/Icons/Launch Pad.png" heightOffset="-0.25" maxSize="16" mapDisplaySize="32"/>
+                    <MarkerCategory name="coalescence" DisplayName="Coalescence Disburser" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.25" maxSize="16" mapDisplaySize="32"/>
+                </MarkerCategory>
+                    
 
             </MarkerCategory>
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
             <MarkerCategory name="bjora" DisplayName="Bjora Marches">
+                
+                <MarkerCategory name="eastbjora" IsSeparator="1" DisplayName="EAST BJORA MARCHES"/>
+
+                <MarkerCategory name="historian" DisplayName="Bjora Marches Historian" achievementId="5030">
+                    <MarkerCategory name="burden" DisplayName="A Burden" iconFile="Data/Images/Icons/A Burden.png" minSize="16" maxSize="24" mapDisplaySize="32" tip-name="Bjora Marches Historian - A Burden"/>
+                    <MarkerCategory name="research" DisplayName="Research Notes: Ancient Raven Lens" iconFile="Data/Images/Icons/Research Notes - Ancient Raven Lens.png" minSize="16" maxSize="24" mapDisplaySize="32" tip-name="Bjora Marches Historian - Research Notes: Ancient Raven Lens.png"/>
+                    <MarkerCategory name="what" DisplayName="What's Happening?" iconFile="Data/Images/Icons/What's Happening.png" minSize="16" maxSize="24" mapDisplaySize="32" tip-name="Bjora Marches Historian - What's Happening?"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="treasure" DisplayName="East Bjora Marches Treasure Hunter" achievementId="5054">
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="chest" DisplayName="Chest" iconFile="Data/Images/Icons/Norn Chest.png" minSize="16" maxSize="24" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="essence" DisplayName="Essence Looter" achievementId="5027">
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="blue" DisplayName="Chest of Vigilance (Blue)" iconFile="Data/Images/Icons/Chest Vigilance.png" minSize="16" maxSize="24" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="green" DisplayName="Chest of Valor (Green)" iconFile="Data/Images/Icons/Chest Valor.png" minSize="16" maxSize="24" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="red" DisplayName="Chest of Resilience (Red)" iconFile="Data/Images/Icons/Chest Resilience.png" minSize="16" maxSize="24" mapDisplaySize="40" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="critic" DisplayName="Everyone's a Critic [H]" achievementId="5010" defaulttoggle="0">
+                    <MarkerCategory name="cook" DisplayName="Toggle Cook" iconFile="Data/Images/Icons/Veteran Enraged Cook.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="48" tip-name="Veteran Enraged Cook"/>
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="givein" DisplayName="Give In [H]" achievementId="5039">
+                    <MarkerCategory name="emote" DisplayName="Toggle Emote" iconFile="Data/Images/Emote - Sleep.png" miniMapVisibility="0" mapVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="hunting" DisplayName="Hunting Champions" achievementId="5044">
+                    <MarkerCategory name="kodan" DisplayName="Champion Icebrood Kodan (Meta)" iconFile="Data/Images/Champion Icebrood Kodan.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="voice" DisplayName="Champion Icebrood Voice (Meta)" iconFile="Data/Images/Champion Icebrood Voice.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="goliath" DisplayName="Champion Icebrood Goliath (Meta)" iconFile="Data/Images/Champion Icebrood Goliath.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="tyrant" DisplayName="Champion Sons of Svanir Tyrant (Meta)" iconFile="Data/Images/Champion Icebrood Tyrant.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="skelk" DisplayName="Champion Aberrant Skelk" iconFile="Data/Images/Champion Aberrant Skelk.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="boneskinner" DisplayName="Champion Boneskinner" iconFile="Data/Images/Champion Boneskinner.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="murellow" DisplayName="Champion Aberrant Murellow" iconFile="Data/Images/Champion Aberrant Murellow.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="berserker" DisplayName="Champion Fallen Kodan Berserker" iconFile="Data/Images/Champion Fallen Kodan Berserker.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="shaman" DisplayName="Champion Fallen Leopard Shaman" iconFile="Data/Images/Champion Fallen Leopard Shaman.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="summoner" DisplayName="Champion Sons of Svanir Summoner" iconFile="Data/Images/Champion Sons of Svanir Summoner.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="brute" DisplayName="Champion Sons of Svanir Brute" iconFile="Data/Images/Champion Svanir Brute.png" mapDisplaySize="48" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="junior" DisplayName="Junior Investigator" achievementId="5016">
+                    <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Kill the Acolytes / Stop the Svanir Ritual"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="mysteries" DisplayName="Mysteries of the Raven Sanctum" achievementId="5038">
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="main" DisplayName="Main Trail" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+                    <MarkerCategory name="healers" DisplayName="Save the Healers" iconFile="Data/Images/Puzzles/Save the Healers.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" minSize="24" maxSize="48">
+                        <MarkerCategory name="historical" DisplayName="Save the Historical Record" iconFile="Data/Images/Puzzles/Save the Healers - Historical Record.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" minSize="24" maxSize="48"/>
+                        <MarkerCategory name="spell" DisplayName="Save the Spell Tome" iconFile="Data/Images/Puzzles/Save the Healers - Save the Spell Tome.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" minSize="24" maxSize="48"/>
+                        <MarkerCategory name="queen" DisplayName="Let the Queen Die" iconFile="Data/Images/Puzzles/Save the Healers - Let the Queen Die.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" minSize="24" maxSize="48"/>
+                        <MarkerCategory name="prince" DisplayName="Let the Prince Die" iconFile="Data/Images/Puzzles/Save the Healers - Let the Prince Die.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" minSize="24" maxSize="48"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="wounded" DisplayName="Save the Wounded" iconFile="Data/Images/Puzzles/Save the Wounded.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" minSize="24" maxSize="32">
+                        <MarkerCategory name="historical" DisplayName="Save the Historical Record" iconFile="Data/Images/Puzzles/Save the Wounded - Historical Record.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" minSize="24" maxSize="48"/>
+                        <MarkerCategory name="spell" DisplayName="Save the Spell Tome" iconFile="Data/Images/Puzzles/Save the Wounded - Save the Spell Tome.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" minSize="24" maxSize="48"/>
+                        <MarkerCategory name="queen" DisplayName="Let the Queen Die" iconFile="Data/Images/Puzzles/Save the Wounded - Let the Queen Die.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" minSize="24" maxSize="48"/>
+                        <MarkerCategory name="prince" DisplayName="Let the Prince Die" iconFile="Data/Images/Puzzles/Save the Wounded - Let the Prince Die.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" minSize="24" maxSize="48"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="shy" DisplayName="Stop Hitting Yourself " achievementId="5036">
+                    <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Kill the Acolytes / Stop the Svanir Ritual"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="scholar" DisplayName="Raven Lens Scholar" achievementId="5014">
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="research" DisplayName="Research Notes: Ancient Raven Lens" behavior="3">
+                    <MarkerCategory name="location" IsSeparator="1" DisplayName="Raven Sanctum"/>
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="supernatural" DisplayName="Supernatural" achievementId="5051" texture="Data/Images/Trails/Dashed Line with Shadow.png">
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="surrender" DisplayName="Sweet Surrender [H]" achievementId="5028">
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Boneskinner Tonic.png" maxSize="20" heightOffset="-0.5" mapDisplaySize="32" tip-name="Sweet Surrender: USE a Boneskinner / Endless Boneskinner Tonic" info="BUY and USE a Boneskinner / Endless Boneskinner Tonic" infoRange="5"/>
+                </MarkerCategory>
+
+
+
+                <MarkerCategory name="westbjora" IsSeparator="1" DisplayName="WEST BJORA MARCHES"/>
+
+                <MarkerCategory name="bountiful" DisplayName="A Bountiful Pastime" achievementId="5134">
+                    <MarkerCategory name="wolverine" DisplayName="Champion Aberrant Wisp (Wolverine)" iconFile="Data/Images/Champion Aberrant Wisp.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="ox" DisplayName="Champion Fallen Pineshade (Ox)" iconFile="Data/Images/Champion Fallen Pineshade.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="eagle" DisplayName="Champion Sons of Svanir Bowman (Eagle)" iconFile="Data/Images/Champion Sons of Svanir Bowman.png" mapDisplaySize="48" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="knowledge" DisplayName="A Hunger for Knowledge" achievementId="5133">
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="book" DisplayName="Toggle Book" iconFile="Data/Images/Book.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="anvil" DisplayName="Anvil Drop [H]" achievementId="5115" defaulttoggle="0">
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Corrupted Shard.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="40"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="darkness" DisplayName="Bringing Light to the Darkness" achievementId="4987" texture="Data/Images/Trails/Dashed Line with Shadow.png">
+                    <MarkerCategory name="brazier" DisplayName="Light Signal Braziers" iconFile="Data/Images/Icons/Flame - Red.png" minSize="16" maxSize="24" mapDisplaySize="32"/>
+                </MarkerCategory>
+
                 <MarkerCategory name="idolatry" DisplayName="Idolatry" achievementId="5140">
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
@@ -82,7 +270,27 @@
                     <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
                     <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
                 </MarkerCategory>
+
+                <MarkerCategory name="koda" DisplayName="Koda Be Praised" achievementId="5112"/>
+
+                <MarkerCategory name="shadows" DisplayName="Shadows Creep [H]" achievementId="5034">
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Orb - Black and White.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                </MarkerCategory>
+    
+                <MarkerCategory name="collections" IsSeparator="1" DisplayName="COLLECTIONS"/>
+
+                <MarkerCategory name="hunger" DisplayName="The Hunger" achievementId="5020">
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="orange" DisplayName="Toggle Blood Orange" iconFile="Data/Images/Icons/Blood Orange.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="rabbit" DisplayName="Toggle Rabbit" iconFile="Data/Images/Icons/Rabbit Meat Chunk.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="deer" DisplayName="Toggle Deer" iconFile="Data/Images/Icons/Deer Meat Chunk.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="bear" DisplayName="Toggle Bear" iconFile="Data/Images/Icons/Bear Flank.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="warg" DisplayName="Toggle Warg" iconFile="Data/Images/Icons/Aberrant Warg Meat Chunk.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="boneskinner" DisplayName="Toggle Boneskinner" iconFile="Data/Images/Icons/Boneskinner Flank.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+
             </MarkerCategory>
+
 
             <MarkerCategory name="grothmar" DisplayName="Grothmar Valley">
 
@@ -224,10 +432,10 @@
                 </MarkerCategory>
                 <MarkerCategory name="secrets" DisplayName="Secrets of the Khan-Ur" achievementId="4951">
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="ash" DisplayName="Ash Legion Key" iconFile="Data/Images/Icons/Ash Legion Key.png" maxSize="16" mapDisplaySize="16"/>
-                    <MarkerCategory name="blood" DisplayName="Blood Legion Key" iconFile="Data/Images/Icons/Blood Legion Key.png" maxSize="16" mapDisplaySize="16"/>
-                    <MarkerCategory name="flame" DisplayName="Flame Legion Key" iconFile="Data/Images/Icons/Flame Legion Key.png" maxSize="16" mapDisplaySize="16"/>
-                    <MarkerCategory name="iron" DisplayName="Iron Legion Key" iconFile="Data/Images/Icons/Iron Legion Key.png" maxSize="16" mapDisplaySize="16"/>
+                    <MarkerCategory name="ash" DisplayName="Ash Legion Key" iconFile="Data/Images/Icons/Ash Legion Key.png" minSize="16" maxSize="16" mapDisplaySize="16"/>
+                    <MarkerCategory name="blood" DisplayName="Blood Legion Key" iconFile="Data/Images/Icons/Blood Legion Key.png" minSize="16" maxSize="16" mapDisplaySize="16"/>
+                    <MarkerCategory name="flame" DisplayName="Flame Legion Key" iconFile="Data/Images/Icons/Flame Legion Key.png" minSize="16" maxSize="16" mapDisplaySize="16"/>
+                    <MarkerCategory name="iron" DisplayName="Iron Legion Key" iconFile="Data/Images/Icons/Iron Legion Key.png" minSize="16" maxSize="16" mapDisplaySize="16"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
@@ -250,6 +458,144 @@
             </MarkerCategory>
 
             <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast">
+                
+                <MarkerCategory name="ch3" IsSeparator="1" DisplayName="No Quarter"/>
+
+                <MarkerCategory name="cache" DisplayName="Cache Hunter" achievementId="5297">
+                    <MarkerCategory name="steelfoe" DisplayName="Arkius Steelfoe" iconFile="Data/Images/Champion Arkius Steelfoe.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="pyretooth" DisplayName="Calimus Pyretooth" iconFile="Data/Images/Champion Calimus Pyretooth.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="breaksteel" DisplayName="Cerosi Breaksteel" iconFile="Data/Images/Champion Cerosi Breaksteel.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="crushpaw" DisplayName="Castor Crushpaw" iconFile="Data/Images/Champion Castor Crushpaw.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="shredskin" DisplayName="Elexus Shredskin" iconFile="Data/Images/Champion Elexus Shredskin.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="wildeye" DisplayName="Luccia Wildeye" iconFile="Data/Images/Champion Luccia Wildeye.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="wormud" DisplayName="Rudum Wormud" iconFile="Data/Images/Champion Rudum Wormud.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="closemaul" DisplayName="Sodar Closemaul" iconFile="Data/Images/Champion Sodar Closemaul.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="tornpaw" DisplayName="Volante Tornpaw" iconFile="Data/Images/Champion Volante Tornpaw.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="fellstrike" DisplayName="Yahuk Fellstrike" iconFile="Data/Images/Champion Yahuk Fellstrike.png" mapDisplaySize="48" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="journal" DisplayName="Mysterious Journal" achievementId="5331">
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.5" mapVisibility="0" miniMapVisibility="0"/>
+                    <MarkerCategory name="scrap" DisplayName="Scrap of Paper" iconFile="Data/Images/Icons/Scrap of Paper.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="paratrooper" DisplayName="Paratrooper" achievementId="5474">
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="32" heightOffset="2.5" mapDisplaySize="32"/>
+                </MarkerCategory>
+
+
+                <MarkerCategory name="ch4" IsSeparator="1" DisplayName="Jormag Rising"/>
+
+                <MarkerCategory name="historian" DisplayName="Drizzlewood Historian" achievementId="5357">
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.5" mapVisibility="0" miniMapVisibility="0"/>
+                    <MarkerCategory name="blue" DisplayName="Toggle Blue Book" iconFile="Data/Images/Icons/Book - Blue.png"  mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="green" DisplayName="Toggle Green Book" iconFile="Data/Images/Icons/Book - Green.png"  mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="red" DisplayName="Toggle Red Book" iconFile="Data/Images/Icons/Book - Red.png"  mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="ears" DisplayName="Ears Wide Open" achievementId="5424">
+                    <MarkerCategory name="snapjaw" IsSeparator="1" DisplayName="Speak with Cato Snapjaw"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="32"/>
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Speaker.png" mapDisplaySize="48" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="fearless" DisplayName="Fearless Diver" achievementId="5387">
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Diving Goggles.png" maxSize="24" heightOffset="-0.5" mapDisplaySize="32"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="together" DisplayName="In This Together" achievementId="5361">
+                    <MarkerCategory name="beetle" DisplayName="Toggle Roller Beetle" iconFile="Data/Images/Mounts/Mount_Beetle.png" maxSize="32" mapDisplaySize="48"/>
+                    <MarkerCategory name="boost" DisplayName="Roller Beetle Boost" iconFile="Data/Images/Mounts/Boost.png" maxSize="16" mapVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="intelligence" DisplayName="Intelligence Gatherer [North Meta]" achievementId="5369">
+                    <MarkerCategory name="blood" DisplayName="Blood Tribune" iconFile="Data/Images/Icons/Dominion Blood Tribune.png" mapDisplaySize="64" inGameVisibility="0" tip-name="EVENT: Dominion Blood Tribune"/>
+                    <MarkerCategory name="frost" DisplayName="Frost Tribune" iconFile="Data/Images/Icons/Dominion Frost Tribune.png" mapDisplaySize="64" inGameVisibility="0" tip-name="EVENT: Dominion Frost Tribune"/>
+                    <MarkerCategory name="ash" DisplayName="Ash Tribune" iconFile="Data/Images/Icons/Dominion Ash Tribune.png"  mapDisplaySize="64" inGameVisibility="0" tip-name="EVENT: Dominion Ash Tribune"/>
+                    <MarkerCategory name="iron" DisplayName="Iron Tribune" iconFile="Data/Images/Icons/Dominion Iron Tribune.png"  mapDisplaySize="64" inGameVisibility="0" tip-name="EVENT: Dominion Iron Tribune"/>
+                    <MarkerCategory name="flame" DisplayName="Flame Tribune" iconFile="Data/Images/Icons/Dominion Flame Tribune.png"  mapDisplaySize="64" inGameVisibility="0" tip-name="EVENT: Dominion Flame Tribune"/>
+                    <MarkerCategory name="phalanx" DisplayName="Frost Legion Phalanx"  iconFile="Data/Images/Icons/Frost Legion Phalanx.png" mapDisplaySize="64" inGameVisibility="0" tip-name="META: Frost Legion Phalanx"/>
+                    <MarkerCategory name="tank" DisplayName="Massive Charr Tank" iconFile="Data/Images/Icons/Massive Charr Tank.png" mapDisplaySize="64" inGameVisibility="0" tip-name="META: Massive Charr Tank"/>
+                    <MarkerCategory name="claw" DisplayName="Claw of Jormag" iconFile="Data/Images/Icons/Claw of Jormag.png"  mapDisplaySize="128" inGameVisibility="0" tip-name="META: Claw of Jormag"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="shards" DisplayName="Shards of Jormag" achievementId="5331"/>
+
+                <MarkerCategory name="shiver" DisplayName="Shiver at the Peaks" achievementId="5409">
+                    <MarkerCategory name="req" IsSeparator="1" DisplayName="REQUIRES: Ch.2 ''Shadow in the Ice'' Mastery"/>
+                    <MarkerCategory name="emote" DisplayName="Emote - Shiver" iconFile="Data/Images/Emote - Shiver.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32" info="Use Emote: /shiver" infoRange="5"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="spiritual" DisplayName="Spiritual Renewal" achievementId="5423">
+                    <MarkerCategory name="eotn" IsSeparator="1" DisplayName="TALK to Owl Shaman Garon, Eye of the North"/>
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Collection.png" maxSize="24" mapDisplaySize="40" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="steamy" DisplayName="Steamy Selection" achievementId="5367">
+                    <MarkerCategory name="book" DisplayName="Toggle Book" iconFile="Data/Images/Icons/Book - Red.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="collections" IsSeparator="1" DisplayName="COLLECTIONS"/>
+
+                <MarkerCategory name="tengu" DisplayName="Tengu Weapon Etchings" achievementId="5325">
+                    <MarkerCategory name="reqs" IsSeparator="1" DisplayName="REQUIRES: Mysterious Journal"/>
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="32" behaviour="3">
+                        <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    </MarkerCategory>                    
+                    <MarkerCategory name="axe" DisplayName="Axe Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="dagger" DisplayName="Dagger Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="focus" DisplayName="Focus Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="greatsword" DisplayName="Greatsword Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="hammer" DisplayName="Hammer Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="longbow" DisplayName="Longbow Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="mace" DisplayName="Mace Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="pistol" DisplayName="Pistol Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="rifle" DisplayName="Rifle Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="scepter" DisplayName="Scepter Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="shield" DisplayName="Shield Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="shortbow" DisplayName="Short Bow Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="staff" DisplayName="Staff Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="sword" DisplayName="Sword Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="torch" DisplayName="Torch Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                    <MarkerCategory name="warhorn" DisplayName="Warhorn Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="olaf" DisplayName="Olaf Olafson's Secret" achievementId="5376">
+                    <MarkerCategory Name="quaestor" DisplayName="1. Map Fragment from a Quaestor" iconFile="Data/Images/Quaestor.png" mapDisplaySize="64" inGameVisibility="0"/>
+                    <MarkerCategory Name="northmeta" DisplayName="2. Chest in Claw's Roost [North Meta]" iconFile="Data/Images/Icons/Chest Blue.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory Name="southmeta" DisplayName="3. Chest in Wolf's Crossing [South Meta]" iconFile="Data/Images/Icons/Chest Blue.png" mapDisplaySize="48" inGameVisibility="0">
+                        <MarkerCategory Name="cache" DisplayName="Cache Keepers" iconFile="Data/Images/Circlet.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    </MarkerCategory>
+                    <MarkerCategory Name="chest" DisplayName="4. Opening a Norn or Charr Chest">
+                        <MarkerCategory Name="charr" DisplayName="Charr Chest" iconFile="Data/Images/Icons/Chest - Charr.png" mapDisplaySize="32" inGameVisibility="0"/>
+                        <MarkerCategory Name="norn" DisplayName="Norn Chest" iconFile="Data/Images/Icons/Chest - Norn.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    </MarkerCategory>
+                    <MarkerCategory Name="tribune" DisplayName="5. Tribune Chest" iconFile="Data/Images/Icons/Chest Olaf.png" mapDisplaySize="48" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="sleuth" DisplayName="Treasure Sleuth" achievementId="5414">
+                    <MarkerCategory name="req" IsSeparator="1" DisplayName="REQUIRES: Olaf Olafson's Secret"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="32" behaviour="3"/>
+                    <MarkerCategory name="key" DisplayName="Treasure Key" iconFile="Data/Images/Icons/Treasure Key.png" mapDisplaySize="32" inGameVisibility="0" behaviour="3"/>
+                    <MarkerCategory name="door" DisplayName="Treasure Door" iconFile="Data/Images/Icons/Treasure Door.png"  mapDisplaySize="48" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="otter" DisplayName="Significant Otter [H]" achievementId="5350" defaulttoggle="0">
+                    <MarkerCategory name="req" IsSeparator="1" DisplayName="REQUIRES: Treasure Sleuth"/>
+                    <MarkerCategory name="blood" DisplayName="Blood Tribune" iconFile="Data/Images/Icons/Dominion Blood Tribune.png" mapDisplaySize="64" inGameVisibility="0" tip-name="EVENT: Dominion Blood Tribune"/>
+                    <MarkerCategory name="frost" DisplayName="Frost Tribune" iconFile="Data/Images/Icons/Dominion Frost Tribune.png" mapDisplaySize="64" inGameVisibility="0" tip-name="EVENT: Dominion Frost Tribune"/>
+                    <MarkerCategory name="ash" DisplayName="Ash Tribune" iconFile="Data/Images/Icons/Dominion Ash Tribune.png"  mapDisplaySize="64" inGameVisibility="0" tip-name="EVENT: Dominion Ash Tribune"/>
+                    <MarkerCategory name="iron" DisplayName="Iron Tribune" iconFile="Data/Images/Icons/Dominion Iron Tribune.png"  mapDisplaySize="64" inGameVisibility="0" tip-name="EVENT: Dominion Iron Tribune"/>
+                    <MarkerCategory name="flame" DisplayName="Flame Tribune" iconFile="Data/Images/Icons/Dominion Flame Tribune.png"  mapDisplaySize="64" inGameVisibility="0" tip-name="EVENT: Dominion Flame Tribune"/>
+                    <MarkerCategory name="phalanx" DisplayName="Frost Legion Phalanx"  iconFile="Data/Images/Icons/Frost Legion Phalanx.png" mapDisplaySize="64" inGameVisibility="0" tip-name="META: Frost Legion Phalanx"/>
+                    <MarkerCategory name="tank" DisplayName="Massive Charr Tank" iconFile="Data/Images/Icons/Massive Charr Tank.png" mapDisplaySize="64" inGameVisibility="0" tip-name="META: Massive Charr Tank"/>
+                    <MarkerCategory name="claw" DisplayName="Claw of Jormag" iconFile="Data/Images/Icons/Claw of Jormag.png"  mapDisplaySize="128" inGameVisibility="0" tip-name="META: Claw of Jormag"/>
+                </MarkerCategory>
+
             </MarkerCategory>
         </MarkerCategory>
 

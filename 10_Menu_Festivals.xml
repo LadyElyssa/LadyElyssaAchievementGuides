@@ -4,7 +4,7 @@
 
         <MarkerCategory name="festivals" DisplayName="Festivals">
             <MarkerCategory name="fotfw"  DisplayName="Festival of the Four Winds">
-            <MarkerCategory name="lc"     IsSeparator="1" DisplayName="  : Labyrinthine Cliffs"/>
+            <MarkerCategory name="lc"     IsSeparator="1" DisplayName="LABYRINTHINE CLIFFS"/>
             <MarkerCategory name="aspect" DisplayName="Aspect Gatherer">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="dash" DisplayName="Light Dash" iconFile="Data/Images/Festivals/Light Dash.png" heightOffset="0" maxSize="24" alpha="1.0"/>
@@ -46,7 +46,7 @@
                 </MarkerCategory>
             </MarkerCategory>
 
-            <MarkerCategory name="qp"     IsSeparator="1" DisplayName="  : Queens Pavilion"/>
+            <MarkerCategory name="qp"     IsSeparator="1" DisplayName="QUEENS PAVILION"/>
             <MarkerCategory name="bb" DisplayName="Bandit's Bane" inGameVisibility="0"/>
             <MarkerCategory name="bbbbb" DisplayName="Boss Blitz: Boom-Boom Baines" iconFile="Data/Images/Festivals/Boom-Boom.png" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="bbhh" DisplayName="Boss Blitz: Halt Hablion" iconFile="Data/Images/Festivals/Halt Hablion.png" inGameVisibility="0" mapDisplaySize="64"/>
@@ -81,7 +81,7 @@
                 <MarkerCategory name="er" DisplayName="Elon Riverlands" color="1aa3ff"/>
                 <MarkerCategory name="la" DisplayName="Lion's Arch" color="1aa3ff"/>
                 <MarkerCategory name="lab" DisplayName="Mad King's Labyrinth" color="1aa3ff"/>
-                <MarkerCategory name="lab" DisplayName="Mad King's Raceway" color="1aa3ff"/>
+                <MarkerCategory name="mkr" DisplayName="Mad King's Raceway" color="1aa3ff"/>
                 <MarkerCategory name="td" DisplayName="The Desolation" color="1aa3ff"/>
             </MarkerCategory>
 

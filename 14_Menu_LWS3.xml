@@ -160,6 +160,7 @@
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
                     <MarkerCategory name="info" DisplayName="Toggle Info" iconFile="Data/Images/Icons/Blank.png" autotrigger="true"/>
+                    <MarkerCategory name="ingredients" DisplayName="Toggle Total Ingredients" iconFile="Data/Images/Icons/Blank.png" info="TOTAL INGREDIENTS&#xa;&#xa;Offering Baskets (19)&#xa;Elder Wood Log (475)&#xa;Fresh Winterberry (95)&#xa;Glob of Ectoplasm (950)&#xa;Icy Runestone (190)" infoRange="5" triggerrange="3" autotrigger="true"/>
                     <MarkerCategory name="basket" DisplayName="Toggle Offering Basket" iconFile="Data/Images/Icons/Offering Basket.png" heightOffset="0" maxSize="24" mapDisplaySize="32"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" heightOffset="2.5" maxSize="32"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
