@@ -298,7 +298,7 @@
 
 
         <!-- COLLECTION - Koda's Blessing -->
-        <POI MapID="1178" xpos="26.5249" ypos="43.9511" zpos="-75.5647" type="leag.lws3.bff.start" GUID="sHA2lESyrEOQeZx0agEq7Q=="/>
+        <POI MapID="1178" xpos="26.5249" ypos="43.9511" zpos="-75.5647" type="leag.lws3.bff.koda.start" GUID="sHA2lESyrEOQeZx0agEq7Q=="/>
         <POI MapID="1178" xpos="31.96494" ypos="43.17028" zpos="-68.21536" type="leag.lws3.bff.koda.ingredients" GUID="C/EWApzq7kWouyVmfOur6g=="/>
         <Trail type="leag.lws3.bff.koda.sanctuary.frostgorge" trailData="Data/LWS3/Offering for Kodan Sanctuary.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
         <Trail type="leag.lws3.bff.koda.emissaries.snowden" trailData="Data/LWS3/Offering for Exiled Emissaries.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00CCFF"/>
@@ -339,10 +339,10 @@
         <POI MapID="39" xpos="-18.5615" ypos="77.5864" zpos="-303.131" type="legs.jp.mj.hiddengarden.sign" GUID="/a0gpNO9pUGuZokVIBI5Xg==" iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
         <POI MapID="39" xpos="447.339" ypos="20.2969" zpos="-345.196" type="legs.jp.mj.hiddengarden.sign" GUID="78W3Ts6+bUq2pzBrA/N9nQ=="  iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
         <POI MapID="39" xpos="182.858" ypos="1.71168" zpos="43.9268" type="legs.jp.mj.hiddengarden.sign" GUID="0G4ULP3EpUWdyXppGSJ9Rg=="   iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
-        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="legs.jp.mj.hiddengarden.earth" GUID="3JvV5YScOEqxnnlWeD+OeA=="  iconfile="Data/Images/Swirl - Tan.png" mapDisplaySize="64" inGameVisibility="0"/>
-        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="legs.jp.mj.hiddengarden.light" GUID="LT6G4M/Mmk6o7FhvRDxBIw==" iconfile="Data/Images/Swirl - White.png" mapDisplaySize="64" inGameVisibility="0"/>
-        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="legs.jp.mj.hiddengarden.waves" GUID="mHNX4tPue0OaoG2DTCKDVQ==" iconfile="Data/Images/Swirl - Sea Green.png" mapDisplaySize="64" inGameVisibility="0"/>
-        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="legs.jp.mj.hiddengarden.winds" GUID="xUUEBMx6iU279jjFmaaAnw=="   iconfile="Data/Images/Swirl - Teal.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="legs.jp.mj.hiddengarden.earth" GUID="fc3vBiQZa0aHrxsZ5aVpvw=="  iconfile="Data/Images/Swirl - Tan.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="legs.jp.mj.hiddengarden.light" GUID="unmCkcQSBUe8N775JmriUw==" iconfile="Data/Images/Swirl - White.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="legs.jp.mj.hiddengarden.waves" GUID="T6yb/bM/KEqoEvt18a2+ng==" iconfile="Data/Images/Swirl - Sea Green.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="legs.jp.mj.hiddengarden.winds" GUID="YyjSTGlUHEKOQ1wqxL1YhQ=="   iconfile="Data/Images/Swirl - Teal.png" mapDisplaySize="64" inGameVisibility="0"/>
         <POI MapID="39" xpos="1077.41" ypos="31.7517" zpos="470.378" type="leag.lws3.bff.koda.glider" GUID="lEWzkxOjwUGA3dHn3Xq5yw=="/>
         <POI MapID="39" xpos="1026.32" ypos="23.933" zpos="589.699" type="leag.lws3.bff.koda.glider" GUID="h4bs/kmQXEGgyd27jeXmzQ=="/>
         <POI MapID="39" xpos="1070.89" ypos="64.4281" zpos="498.924" type="leag.lws3.bff.koda.basket" GUID="WFipPoG3T0q2iH7VWNTTew=="/>
@@ -350,13 +350,13 @@
         <POI MapID="51" xpos="877.8364" ypos="8.716164" zpos="-201.6246" type="leag.lws3.bff.koda.basket" GUID="nk3s63mF5kmruC9R1QAxeA=="/>
         <POI MapID="51" xpos="877.8364" ypos="8.716164" zpos="-201.6246" type="leag.lws3.bff.koda.wp" GUID="keQQntjmhkWsjWALh8L55w==" copy="[&BLoEAAA=]" copy-message="Upper Commons Waypoint, The Grove"/>
         <POI MapID="648" xpos="46.8525" ypos="104.667" zpos="54.849" type="leag.lws3.bff.koda.basket" GUID="Ym+XnhILHUau8j2Wmhse+A==" maxSize="24" mapDisplaySize="24"/>
-        <POI MapID="648" xpos="46.8525" ypos="104.667" zpos="54.849" type="leag.lws3.bff.koda.wp" GUID="1DqxPMj+o0GN7pxU26q8Qw==" copy="[&BF4IAAA=]" copy-message="Mordremoth's Vantage, Dragon's Stand"/>
+        <POI MapID="648" xpos="46.8525" ypos="104.667" zpos="54.849" type="leag.lws3.bff.koda.wp" GUID="Qmw6L031T0mcHDNewyvmbg==" copy="[&BF4IAAA=]" copy-message="Mordremoth's Vantage, Dragon's Stand"/>
         <POI MapID="1041" xpos="-713.028" ypos="178.545" zpos="-402.15" type="leag.lws3.bff.koda.basket" GUID="BlL73yttrU+mD3UbtGfYwA=="/>
-        <POI MapID="1041" xpos="-713.028" ypos="178.545" zpos="-402.15" type="leag.lws3.bff.koda.wp" GUID="1DqxPMj+o0GN7pxU26q8Qw==" copy="[&BA4IAAA=]" copy-message="Order of Whispers Camp Waypoint, Tangled Depths"/>
+        <POI MapID="1041" xpos="-713.028" ypos="178.545" zpos="-402.15" type="leag.lws3.bff.koda.wp" GUID="e1rAoZiLJkmk9wN9/Y+Fzg==" copy="[&BA4IAAA=]" copy-message="Order of Whispers Camp Waypoint, Tangled Depths"/>
         <POI MapID="1045" xpos="-736.123" ypos="236.721" zpos="93.8" type="leag.lws3.bff.koda.glider" GUID="Ub0FT6Lf0EK3mq02AfHwbQ=="/>
         <POI MapID="1045" xpos="-719.399" ypos="238.927" zpos="-87.2009" type="leag.lws3.bff.koda.glider" GUID="/bek53kMUEG77HIjDr9LUw=="/>
         <POI MapID="1045" xpos="-370.8069" ypos="329.7923" zpos="-35.64056" type="leag.lws3.bff.koda.basket" GUID="aquQaKIS7ESyNXJFe3n4JQ=="/>
-        <POI MapID="1045" xpos="-370.8069" ypos="329.7923" zpos="-35.64056" type="leag.lws3.bff.koda.wp" GUID="1DqxPMj+o0GN7pxU26q8Qw==" copy="[&BMYHAAA=]" copy-message="Forgotten City Waypoint, Auric Basin"/>
+        <POI MapID="1045" xpos="-370.8069" ypos="329.7923" zpos="-35.64056" type="leag.lws3.bff.koda.wp" GUID="df11rgXPCEGhvxcq7ZD++Q==" copy="[&BMYHAAA=]" copy-message="Forgotten City Waypoint, Auric Basin"/>
         <POI MapID="1043" xpos="154.9474" ypos="0.09752762" zpos="-171.429" type="leag.lws3.bff.koda.basket" GUID="cmK3vmxa4UuSphQlfBeKgQ=="/>
         <POI MapID="1043" xpos="154.9474" ypos="0.09752762" zpos="-171.429" type="leag.lws3.bff.koda.wp" GUID="6R4czdwoDUu53zKc9d9XYg==" copy="[&BAgIAAA=]" copy-message="Pact Encampment Waypoint, Verdant Brink"/>
         <POI MapID="1052" xpos="140.891" ypos="429.587" zpos="-52.0697" type="leag.lws3.bff.koda.glider" GUID="EllPSHDi7UmOI6UmCgGDpw=="/>
