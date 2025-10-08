@@ -542,7 +542,7 @@
 
                 <MarkerCategory name="tengu" DisplayName="Tengu Weapon Etchings" achievementId="5325">
                     <MarkerCategory name="reqs" IsSeparator="1" DisplayName="REQUIRES: Mysterious Journal"/>
-                    <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="32" behaviour="3">
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="32" behavior="3">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     </MarkerCategory>                    
                     <MarkerCategory name="axe" DisplayName="Axe Etching" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
@@ -579,8 +579,8 @@
                 <MarkerCategory name="sleuth" DisplayName="Treasure Sleuth" achievementId="5414">
                     <MarkerCategory name="req" IsSeparator="1" DisplayName="REQUIRES: Olaf Olafson's Secret"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                    <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="32" behaviour="3"/>
-                    <MarkerCategory name="key" DisplayName="Treasure Key" iconFile="Data/Images/Icons/Treasure Key.png" mapDisplaySize="32" inGameVisibility="0" behaviour="3"/>
+                    <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="32" behavior="3"/>
+                    <MarkerCategory name="key" DisplayName="Treasure Key" iconFile="Data/Images/Icons/Treasure Key.png" mapDisplaySize="32" inGameVisibility="0" behavior="3"/>
                     <MarkerCategory name="door" DisplayName="Treasure Door" iconFile="Data/Images/Icons/Treasure Door.png"  mapDisplaySize="48" inGameVisibility="0"/>
                 </MarkerCategory>
 
