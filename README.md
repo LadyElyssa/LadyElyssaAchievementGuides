@@ -22,6 +22,8 @@ Principles
 This pack currently covers:
 
 ## Achievements ##
+Hidden Achievements had an [H] next to them and are, by default, toggled off. This lets people know that there is a hidden achievement while not completely spoiling it for those wanting to discover it themselves.
+
 * Dive Master
 
 ## Festivals ##
