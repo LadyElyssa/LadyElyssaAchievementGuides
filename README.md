@@ -40,14 +40,9 @@ Hidden Achievements had an [H] next to them and are, by default, toggled off. Th
 * Battle for Lion's Arch
 
 ## Living World Season 2 - Glint's Prophecy ##
-* Gates of Maguuma
-* Entanglement
-* The Dragon's Reach: Part 1
-* The Dragon's Reach: Part 2
-* Echoes of the Past
-* Tangled Paths
-* Seeds of Truth
-* Point of No Return
+* Story Achievements
+* Dry Top
+* The Silverwastes
 
 ## Heart of Thorns ##
 * Story Achievements
@@ -57,6 +52,7 @@ Hidden Achievements had an [H] next to them and are, by default, toggled off. Th
 * Dragons Stand
 
 ## Living World Season 3 - Glint's Legacy ##
+* Story Achievements
 * Out of the Shadows
 * Rising Flames
 * A Crack in the Ice
@@ -82,6 +78,7 @@ Hidden Achievements had an [H] next to them and are, by default, toggled off. Th
 * Dragonfall
   
 ## Living World Season 5 - The Icebrood Saga
+* Story Achievements
 * Grothmar Valley
 * Bjora Marches
 * Drizzlewood Coast
