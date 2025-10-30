@@ -33,7 +33,10 @@
                     <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" heightOffset="3.0"/>
                 </MarkerCategory>
                 <MarkerCategory name="seeker" DisplayName="Seeker of Truth and Knowledge [H]" defaulttoggle="0" achievementId="3908">
-                    <MarkerCategory name="book" DisplayName="Toggle Books" iconFile="Data/Images/Orb - White.png" mapDisplaySize="12" heightOffset="-0.5" maxSize="12" fadeNear="2400" fadeFar="4800"/>
+                    <MarkerCategory name="book" DisplayName="Toggle Books" iconFile="Data/Images/Orb - White.png" mapDisplaySize="12" heightOffset="-0.5"  minSize="6" maxSize="8" fadeNear="2400" fadeFar="4800"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
                 </MarkerCategory>
                 
                 <MarkerCategory name="ch8" IsSeparator="1" DisplayName="CHAPTER 8: The Way Forward"/>
@@ -65,7 +68,7 @@
                 <MarkerCategory name="bones" DisplayName="Bleached Bones" achievementId="3862">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
@@ -83,7 +86,7 @@
                 <MarkerCategory name="lloco" DisplayName="Lost Lore of Crystal Oasis" achievementId="3625">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
@@ -101,7 +104,7 @@
                 <MarkerCategory name="pilgrims" DisplayName="Lost Pilgrims" achievementId="3551">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
@@ -124,7 +127,7 @@
                 <MarkerCategory name="heirloom" DisplayName="A Family Heirloom" achievementId="3689">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                     </MarkerCategory>
@@ -144,7 +147,7 @@
                 <MarkerCategory name="remnants" DisplayName="Dwarven Remnants" achievementId="3596" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
                         <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
@@ -162,7 +165,6 @@
 
                 <MarkerCategory name="dancer" DisplayName="Fire Dancer" achievementId="3746">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="emote" DisplayName="Dance Emote" iconFile="Data/Images/Emote - Dance.png"/>
                 </MarkerCategory>
 
@@ -178,7 +180,7 @@
                 <MarkerCategory name="llodh" DisplayName="Lost Lore of Desert Highlands" achievementId="3594">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
                         <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
@@ -197,7 +199,6 @@
                 <MarkerCategory name="rune" DisplayName="Rune-Locked Doors">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
@@ -235,14 +236,11 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="event" DisplayName="Toggle Event Marker" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
                 </MarkerCategory>
             </MarkerCategory>
 
@@ -283,7 +281,7 @@
                 <MarkerCategory name="llotdov" DisplayName="Lost Lore of the Domain of Vabbi" achievementId="3555">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
@@ -300,7 +298,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="emote" DisplayName="Toggle Emote" iconFile="Data/Images/Emote - Bow.png"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
                         <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
@@ -312,7 +310,7 @@
                 <MarkerCategory name="scourge" DisplayName="Scourge Buster" achievementId="3732">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
@@ -345,7 +343,7 @@
                     <MarkerCategory name="gloves" DisplayName="Shadi's Gloves" iconFile="Data/Images/Shadi's Gloves.png" mapDisplaySize="24" inGameVisibility="0"/>
                     <MarkerCategory name="helm" DisplayName="Shadi's Helm" iconFile="Data/Images/Shadi's Helm.png" mapDisplaySize="24" inGameVisibility="0"/>
                     <MarkerCategory name="sword" DisplayName="Shadi's Sword" iconFile="Data/Images/Shadi's Sword.png" mapDisplaySize="24" inGameVisibility="0"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 </MarkerCategory>
                 
                 <MarkerCategory name="doppel" DisplayName="Doppel Dropper" achievementId="3571">

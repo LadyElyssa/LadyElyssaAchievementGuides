@@ -11,10 +11,10 @@
 
                 <MarkerCategory name="prologue" IsSeparator="1" DisplayName="PROLOGUE: The Tyrian Alliance"/>
                 <MarkerCategory name="meeting" DisplayName="Meeting Notes" achievementId="8258" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5">
-                    <MarkerCategory name="1" DisplayName="Invitation to a Great House"/>
-                    <MarkerCategory name="2" DisplayName="Letter Address to Dougal"/>
-                    <MarkerCategory name="3" DisplayName="Ludo's Paperwork"/>
-                    <MarkerCategory name="4" DisplayName="Ludo's Invitation"/>
+                    <MarkerCategory name="1" DisplayName="Invitation to a Great House" behavior="3"/>
+                    <MarkerCategory name="2" DisplayName="Letter Address to Dougal" behavior="3"/>
+                    <MarkerCategory name="3" DisplayName="Ludo's Paperwork" behavior="3"/>
+                    <MarkerCategory name="4" DisplayName="Ludo's Invitation" behavior="3"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="ch1" IsSeparator="1" DisplayName="Chapter 1: Unknown Territory"/>
@@ -157,7 +157,7 @@
             <MarkerCategory name="cc" DisplayName="Cryptid Chase" achievementId="8292">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Trail Number"/>
                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -182,7 +182,7 @@
             <MarkerCategory name="gtct" DisplayName="Gettin' the Crew Together" texture="Data/Images/Trails/Trail Marker 1 Shaded Dark.png" achievementId="8266">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/n1.png"             inGameVisibility="0"/>
                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/n2.png"             inGameVisibility="0"/>
@@ -207,7 +207,7 @@
             <MarkerCategory name="jth" DisplayName="Janthiri Treasure Hunter" behavior="2">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="dig" DisplayName="Possible Dig Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" iconFile="Data/Images/Warclaw Dig.png"/>
                 <MarkerCategory name="path" DisplayName="Path Number" miniMapVisibility="1" inGameVisibility="1">
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
@@ -248,13 +248,13 @@
             <MarkerCategory name="kindness" DisplayName="Returning Kindness" achievementId="8268">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
             </MarkerCategory>
             <MarkerCategory name="scl" DisplayName="Star-Crossed Lovers" texture="Data/Images/Trails/Star-Crossed Lovers.png" achievementId="8309"/>
             <MarkerCategory name="totlw" DisplayName="Tales of the Lowland Wisps" iconFile="Data/Images/Wisp.png" inGameVisibility="0" achievementId="8153">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
                 <MarkerCategory name="1" DisplayName="One"/>
                 <MarkerCategory name="2" DisplayName="Two"/>
@@ -295,7 +295,7 @@
             <MarkerCategory name="ahmv1" DisplayName="A History Most Violent: Part 1" achievementId="8161">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
                 <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/n1.png"      inGameVisibility="0"/>
                 <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/n2.png"      inGameVisibility="0"/>
@@ -313,7 +313,7 @@
             <MarkerCategory name="ahmv2" DisplayName="A History Most Violent: Part 2" achievementId="8205">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
                 <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/n1.png"      inGameVisibility="0"/>
                 <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/n2.png"      inGameVisibility="0"/>
@@ -330,7 +330,7 @@
             <MarkerCategory name="baq" DisplayName="Build-a-Quaggan" achievementId="8249">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
                 <MarkerCategory name="1" DisplayName="Talk to Chilly Tarn"                  iconFile="Data/Images/Numbers/n1.png"      inGameVisibility="0"/>
                 <MarkerCategory name="2" DisplayName="Gather Plant Fibers"                  iconFile="Data/Images/Numbers/n2.png"      inGameVisibility="0" achievementId="8328"/>
@@ -350,7 +350,7 @@
             <MarkerCategory name="gtct" DisplayName="Gettin' the Crew Together" achievementId="8266">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
                 <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/Images/Numbers/n13.png"      inGameVisibility="0"/>
                 <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/Images/Numbers/n14.png"      inGameVisibility="0"/>
@@ -371,7 +371,7 @@
             <MarkerCategory name="jth" DisplayName="Janthiri Treasure Hunter" behavior="2">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="dig" DisplayName="Possible Dig Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="0" iconFile="Data/Images/Warclaw Dig.png"/>
                 <MarkerCategory name="path" DisplayName="Path Number" miniMapVisibility="1" inGameVisibility="1">
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
@@ -401,7 +401,7 @@
             <MarkerCategory name="titan" DisplayName="Titan Researcher" achievementId="8175">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
                 <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/n1.png"      inGameVisibility="0"/>
                 <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/n2.png"      inGameVisibility="0"/>
@@ -430,7 +430,7 @@
 
             <MarkerCategory name="game" DisplayName="Mursaat's Game [H] Req: Missing Scout" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" defaulttoggle="0" achievementId="8584">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                     <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
                 </MarkerCategory>
@@ -457,13 +457,13 @@
                     <MarkerCategory name="nexus" DisplayName="Nexus of Moonlight"/>
                     <MarkerCategory name="ga" DisplayName="Grand Athenaeum."/>
                 </MarkerCategory>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
             </MarkerCategory>
             
             <MarkerCategory name="archive" DisplayName="Scouring the Archive" achievementId="8564">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="journal" DisplayName="Toggle Journal Fragment" iconFile="Data/Images/Icons/Journal Fragment.png"  miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="32"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="path" IsSeparator="1" DisplayName="  Path"/>
                 <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png"/>
                 <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png"/>
@@ -474,7 +474,7 @@
                 <MarkerCategory name="wisp" DisplayName="Toggle Wisp Markers" iconFile="Data/Images/Wisp.png" heightOffset="2" mapDisplaySize="32"/>
                 <MarkerCategory name="outreach" DisplayName="Wisp Outreach" iconFile="Data/Images/Wisp.png" achievementId="8635" maxSize="8" heightOffset="-0.5" mapDisplaySize="24"/>
                 <MarkerCategory name="sighting" DisplayName="Wisp Sighting (Events/Rifts)" iconFile="Data/Images/Yellow Swirl.png" achievementId="8567" inGameVisibility="0" mapDisplaySize="128"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="path" IsSeparator="1" DisplayName="  Path"/>
                 <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png"/>
                 <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png"/>
@@ -495,7 +495,7 @@
                 <MarkerCategory name="requires" IsSeparator="1" DisplayName="REQUIRES: A Titanic Voyage"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="info" DisplayName="Toggle Info" iconFile="Data/Images/Icons/Blank.png" triggerrange="3" autotrigger="true"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="path" IsSeparator="1" DisplayName="  Path"/>
                 <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png"/>
                 <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png"/>
@@ -551,13 +551,13 @@
             <MarkerCategory name="bff" DisplayName="Best Friends Forever [H]" achievementId="8782">
                 <MarkerCategory name="location" IsSeparator="1" DisplayName="Lion's Arch Aerodrome"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
             </MarkerCategory>
             <MarkerCategory name="work" DisplayName="Work Hard for Now" achievementId="8753">
                 <MarkerCategory name="location" IsSeparator="1" DisplayName="Farshore Ward, Lion's Arch"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
             </MarkerCategory>
 
 

@@ -100,7 +100,7 @@
                 <MarkerCategory name="coins" DisplayName="Coin Collector">
                     <MarkerCategory name="cliffs" DisplayName="Challenger Cliffs" achievementId="1694">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                         <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -110,11 +110,11 @@
                     </MarkerCategory>
                     <MarkerCategory name="valley" DisplayName="Prospect Valley" achievementId="1634">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     </MarkerCategory>
                     <MarkerCategory name="uplands" DisplayName="Uplands" achievementId="1653">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                         <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -129,7 +129,7 @@
                 <MarkerCategory name="badges" DisplayName="Lost Badges" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="1810"/>
                 <MarkerCategory name="gold" DisplayName="Go for the Gold" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" achievementId="1835">
                     <MarkerCategory name="swiftness" DisplayName="Swiftness" iconFile="Data/Images/Icons/Boon - Swiftness.png" maxSize="16" heightOffset="0"  fadeNear="1200" fadeFar="2400" miniMapVisibility="0" mapVisibility="0"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                         <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -137,6 +137,15 @@
                         <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
                         <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
                 </MarkerCategory>
+                <!--
+                <MarkerCategory name="collections" IsSeparator="1" DisplayName="COLLECTIONS"/>
+                <MarkerCategory name="headgear" DisplayName="Luminescent Headgear" achievementId="2051"/>
+                <MarkerCategory name="shoulders" DisplayName="Luminescent Shoulders" achievementId="1781"/>
+                <MarkerCategory name="coat" DisplayName="Luminescent Coat" achievementId="2052"/>
+                <MarkerCategory name="gloves" DisplayName="Luminescent Gloves" achievementId="1814"/>
+                <MarkerCategory name="leggings" DisplayName="Luminescent Legging" achievementId="1825"/>
+                <MarkerCategory name="footwear" DisplayName="Luminescent Footwear" achievementId="1779"/>
+                -->
             </MarkerCategory>
         </MarkerCategory>
     

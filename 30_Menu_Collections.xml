@@ -1,6 +1,28 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
+        <!--
+        
+        <MarkerCategory name="collections" IsSeparator="1" DisplayName="COLLECTIONS"/>
+        <MarkerCategory name="basic" DisplayName="Basic">
+            <MarkerCategory name="wip" DisplayName="Placeholder"/>
+        </MarkerCategory>
 
+        <MarkerCategory name="rare" DisplayName="Rare">
+            <MarkerCategory name="wip" DisplayName="Placeholder"/>
+        </MarkerCategory>
+
+        <MarkerCategory name="spec" DisplayName="Specialization">
+            <MarkerCategory name="wip" DisplayName="Placeholder"/>
+        </MarkerCategory>
+
+        <MarkerCategory name="legendary" DisplayName="Legendary">
+            <MarkerCategory name="wip" DisplayName="Placeholder"/>
+        </MarkerCategory>
+
+        <MarkerCategory name="festival" DisplayName="Festival">
+            <MarkerCategory name="wip" DisplayName="Placeholder"/>
+        </MarkerCategory>
+        -->
     </MarkerCategory>
     
 

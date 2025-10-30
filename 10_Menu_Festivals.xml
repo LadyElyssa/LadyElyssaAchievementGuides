@@ -8,7 +8,7 @@
             <MarkerCategory name="aspect" DisplayName="Aspect Gatherer">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="dash" DisplayName="Light Dash" iconFile="Data/Images/Festivals/Light Dash.png" heightOffset="0" maxSize="24" alpha="1.0"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 
                 <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>

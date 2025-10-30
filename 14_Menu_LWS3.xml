@@ -17,7 +17,7 @@
                 <MarkerCategory name="attache" DisplayName="Cultural Attaché" achievementId="3235">
                     <MarkerCategory name="set" DisplayName="SETTINGS">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     </MarkerCategory>
                     <MarkerCategory name="collect" IsSeparator="1" DisplayName="COLLECTION"/>
                     <MarkerCategory name="watchknight" DisplayName="Watchknight Statue">
@@ -137,7 +137,7 @@
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -147,7 +147,7 @@
                     <MarkerCategory name="elixir" IsSeparator="1" DisplayName="Requires Thaw Elixir"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -163,7 +163,7 @@
                     <MarkerCategory name="ingredients" DisplayName="Toggle Total Ingredients" iconFile="Data/Images/Icons/Blank.png" info="TOTAL INGREDIENTS&#xa;&#xa;Offering Baskets (19)&#xa;Elder Wood Log (475)&#xa;Fresh Winterberry (95)&#xa;Glob of Ectoplasm (950)&#xa;Icy Runestone (190)" infoRange="5" triggerrange="3" autotrigger="true"/>
                     <MarkerCategory name="basket" DisplayName="Toggle Offering Basket" iconFile="Data/Images/Icons/Offering Basket.png" heightOffset="0" maxSize="24" mapDisplaySize="32"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" heightOffset="2.5" maxSize="32"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="collect" IsSeparator="1" DisplayName="COLLECTION ITEMS"/>
                     
                     <MarkerCategory name="refugees" DisplayName="Offering for Steadfast Refugees">
@@ -256,7 +256,7 @@
 
                 <MarkerCategory name="notebook" DisplayName="Apprentice Kasandra's Notebook [H]" defaulttoggle="0" achievementId="3075">
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -264,7 +264,7 @@
 
                 <MarkerCategory name="journal" DisplayName="Grand Savant Valis the Learned's Research Journal [H]" defaulttoggle="0" achievementId="3060">
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -283,7 +283,7 @@
                 
                 <MarkerCategory name="memoirs" DisplayName="The Memoirs of Justiciar Bauer [H]" defaulttoggle="0" achievementId="3071">
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="hablion" DisplayName="This Time, Stay Dead" iconFile="Data/Images/Champion Ghostly Justiciar Hablion.png" inGameVisibility="0" mapDisplaySize="64" achievementId="3073" tip-name="Champion Ghostly Justiciar Hablion">
@@ -353,7 +353,7 @@
                         <MarkerCategory name="3" DisplayName="3 Uses" iconFile="Data/Images/Oakheart's Reach 3.png" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="target" DisplayName="Toggle Target" iconFile="Data/Images/Icons/Target with Shadow.png" maxSize="48" fadeNear="4000" fadeFar="4400"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -368,7 +368,7 @@
                 <MarkerCategory name="people" DisplayName="People Watching" achievementId="3420">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 </MarkerCategory>
                 
                 <MarkerCategory name="powerless" DisplayName="Powerless Suit" achievementId="3410">
@@ -386,7 +386,7 @@
                         <MarkerCategory name="3" DisplayName="3 Uses" iconFile="Data/Images/Oakheart's Reach 3.png" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="target" DisplayName="Toggle Target" iconFile="Data/Images/Icons/Target with Shadow.png" maxSize="48" fadeNear="4000" fadeFar="4400"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -452,7 +452,7 @@
                         </MarkerCategory>
                         <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" heightOffset="2.5" maxSize="32"/>
                         <MarkerCategory name="target" DisplayName="Toggle Target" iconFile="Data/Images/Icons/Target with Shadow.png" maxSize="48" fadeNear="4000" fadeFar="4400"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     </MarkerCategory>
                     <MarkerCategory name="collection" IsSeparator="1" DisplayName="COLLECTION"/>
                     <MarkerCategory name="arbor" DisplayName="Element of the Arbor">
@@ -492,7 +492,7 @@
                         </MarkerCategory>
                         <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" heightOffset="2.5" maxSize="32"/>
                         <MarkerCategory name="target" DisplayName="Toggle Target" iconFile="Data/Images/Icons/Target with Shadow.png" maxSize="48" fadeNear="4000" fadeFar="4400"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     </MarkerCategory>
 
                     <MarkerCategory name="collection" IsSeparator="1" DisplayName="COLLECTION"/>
@@ -559,7 +559,7 @@
                         </MarkerCategory>
                         <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" heightOffset="2.5" maxSize="32"/>
                         <MarkerCategory name="target" DisplayName="Toggle Target" iconFile="Data/Images/Icons/Target with Shadow.png" maxSize="48" fadeNear="4000" fadeFar="4400"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     </MarkerCategory>
                     <MarkerCategory name="collection" IsSeparator="1" DisplayName="COLLECTION"/>
 
@@ -670,7 +670,7 @@
                 <MarkerCategory name="cami" DisplayName="Cami's Final Voyage" achievementId="3137">
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="coalescence" DisplayName="Collecting Coalescence" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128" achievementId="3131"/>
@@ -688,7 +688,7 @@
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
                     <MarkerCategory name="portal" DisplayName="Toggle Portal" iconFile="Data/Images/tokenportal.png" maxSize="32" heightOffset="0" inGameVisibility="1"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -791,11 +791,11 @@
                     <MarkerCategory name="abaddon" DisplayName="Abaddon [H]" achievementId="3520" defaulttoggle="0" texture="Data/Images/Trails/Trail Marker 1 Dark.png">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                         <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" heightOffset="2.5" maxSize="32"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     </MarkerCategory>
                     <MarkerCategory name="balthazar" DisplayName="Balthazar" achievementId="3518">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     </MarkerCategory>
                     <MarkerCategory name="dwayna" DisplayName="Dwayna" achievementId="3542">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
@@ -803,12 +803,12 @@
                     <MarkerCategory name="grenth" DisplayName="Grenth" achievementId="3527">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                         <MarkerCategory name="leap" DisplayName="Toggle Ley-Line Leap" iconFile="Data/Images/Icons/Ley-Line Leap.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" maxSize="24"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     </MarkerCategory>
                     <MarkerCategory name="lyssa" DisplayName="Lyssa" achievementId="3536">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                         <MarkerCategory name="leap" DisplayName="Toggle Ley-Line Leap" iconFile="Data/Images/Icons/Ley-Line Leap.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1" maxSize="24"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="pages" IsSeparator="1" DisplayName="PAGE NUMBERS"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" mapVisibility="0" behavior="1">
                             <MarkerCategory name="page" DisplayName="Toggle Pages" iconFile="Data/Images/Icons/Orb - Purple - S.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" heightOffset="-0.5" maxSize="16" mapDisplaySize="32"/>
@@ -838,7 +838,7 @@
                     </MarkerCategory>
                     <MarkerCategory name="melandru" DisplayName="Melandru" achievementId="3481">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                        <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                         <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>

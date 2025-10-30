@@ -124,20 +124,20 @@
                                     
                     <!-- Fight Jormag's Champion -->
                     <MarkerCategory name="jormag" IsSeparator="1" DisplayName="Fight Jormag's Champion"/>
-                    <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" achievementId=""/>
-                    <MarkerCategory name="caledon" DisplayName="Caledon Forest" achievementId=""/>
-                    <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" achievementId=""/>
+                    <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" achievementId="5485"/>
+                    <MarkerCategory name="caledon" DisplayName="Caledon Forest" achievementId="5478"/>
+                    <MarkerCategory name="fireheart" DisplayName="Fireheart Rise" achievementId="5515"/>
                     <MarkerCategory name="doric" DisplayName="Lake Doric" achievementId="5504"/>
                     <MarkerCategory name="snowden" DisplayName="Snowden Drifts" achievementId="5502" miniMapVisibility="0" mapDisplaySize="8"/>
                 </MarkerCategory>
                 <MarkerCategory name="wildfire" DisplayName="Wildfire">
-                    <MarkerCategory name="silent" DisplayName="Silent as Leopard, Clever as Raven" iconFile="Data/Images/Icons/Silent as Leopard, Clever as Raven.png" minSize="16" maxSize="24" mapVisibility="0" miniMapVisibility="0"/>
-                    <MarkerCategory name="strong" DisplayName="Strong as Bear, Sharp as Wolf" iconFile="Data/Images/Icons/Strong as Bear, Sharp as Wolf.png" minSize="16" maxSize="24" mapVisibility="0" miniMapVisibility="0"/>
+                    <MarkerCategory name="silent" DisplayName="Silent as Leopard, Clever as Raven" iconFile="Data/Images/Icons/Silent as Leopard, Clever as Raven.png" minSize="16" maxSize="24" mapVisibility="0" miniMapVisibility="0" achievementId="5667"/>
+                    <MarkerCategory name="strong" DisplayName="Strong as Bear, Sharp as Wolf" iconFile="Data/Images/Icons/Strong as Bear, Sharp as Wolf.png" minSize="16" maxSize="24" mapVisibility="0" miniMapVisibility="0" achievementId="5652"/>
                 </MarkerCategory>
                 <!-- Dragonstorm -->
                 <MarkerCategory name="dragonstorm" DisplayName="Dragonstorm">
                     <MarkerCategory name="launchpad" DisplayName="Launchpad Locations" iconFile="Data/Images/Icons/Launch Pad.png" heightOffset="-0.25" maxSize="16" mapDisplaySize="32"/>
-                    <MarkerCategory name="coalescence" DisplayName="Coalescence Disburser" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.25" maxSize="16" mapDisplaySize="32"/>
+                    <MarkerCategory name="coalescence" DisplayName="Coalescence Disburser" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.25" maxSize="16" mapDisplaySize="32" achievementId="5707"/>
                 </MarkerCategory>
                     
 
@@ -263,7 +263,7 @@
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                         <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
@@ -371,7 +371,7 @@
                 <MarkerCategory name="historian" DisplayName="Grothmar Valley Historian" achievementId="4949">
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" DisplayName="Path Number">
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                         <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>

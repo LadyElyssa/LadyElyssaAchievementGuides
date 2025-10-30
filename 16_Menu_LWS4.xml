@@ -1393,6 +1393,51 @@
                         <MarkerCategory name="dragonfall" DisplayName="Dragonfall"/>
                     </MarkerCategory>
                 </MarkerCategory>
+                <MarkerCategory name="flying" DisplayName="Flying Skyscales (Req: Rift Repair Mastery)" achievementId="4668" iconFile="Data/Images/Icons/Reality Tear.png" inGameVisibility="0" mapDisplaySize="72">
+                    <!--
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                    </MarkerCategory>
+                    -->
+                    <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATIONS"/>
+                    <MarkerCategory name="blazeridge" DisplayName="Blazeridge Steppes"/>
+                    <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast"/>
+                    <MarkerCategory name="cs" DisplayName="Cursed Shore"/>
+                    <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                    <MarkerCategory name="dredgehaunt" DisplayName="Dredgehaunt Cliffs"/>
+                    <MarkerCategory name="fireheart" DisplayName="Fireheart Rise"/>
+                    <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound"/>
+                    <MarkerCategory name="harathi" DisplayName="Harathi Hinterlands"/>
+                    <MarkerCategory name="ironmarches" DisplayName="Iron Marches"/>
+                    <MarkerCategory name="lornars" DisplayName="Lornar's Pass"/>
+                    <MarkerCategory name="malchors" DisplayName="Malchor's Leap"/>
+                    <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom"/>
+                    <MarkerCategory name="sparkfly" DisplayName="Sparkfly Fen"/>
+                    <MarkerCategory name="straits" DisplayName="Straits of Devastation"/>
+                    <MarkerCategory name="timberline" DisplayName="Timberline Falls"/>
+
+                    <MarkerCategory name="lws2" IsSeparator="1" DisplayName="LWS2"/>
+                    <MarkerCategory name="drytop" DisplayName="Drytop"/>
+                    <MarkerCategory name="silverwastes" DisplayName="The Silverwastes"/>
+                    
+                    <MarkerCategory name="lws4" IsSeparator="1" DisplayName="LWS4"/>
+                    <MarkerCategory name="istan" DisplayName="Domain of Istan"/>
+                    <MarkerCategory name="kourna" DisplayName="Domain of Kourna"/>
+                    <MarkerCategory name="dragonfall" DisplayName="Dragonfall"/>
+                    <MarkerCategory name="jahai" DisplayName="Jahai Bluffs"/>
+                    <MarkerCategory name="sandswept" DisplayName="Sandswept Isles"/>
+                    <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks"/>
+                    
+                    <MarkerCategory name="pof" IsSeparator="1" DisplayName="Path of Fire"/>
+                    <MarkerCategory name="co" DisplayName="Crystal Oasis"/>
+                    <MarkerCategory name="dh" DisplayName="Desert Highlands"/>
+                    <MarkerCategory name="vabbi" DisplayName="Domain of Vabbi"/>
+                    <MarkerCategory name="er" DisplayName="Elon Riverlands"/>
+                    <MarkerCategory name="desolation" DisplayName="The Desolation"/>
+                    
+                </MarkerCategory>
 
             </MarkerCategory>
 

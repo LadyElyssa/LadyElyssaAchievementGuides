@@ -3,7 +3,7 @@
         <!-- ACHIEVEMENTS -->
         <MarkerCategory name="goggles" DisplayName="Dive Master">     
             <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/LadyElyssa/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
             <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP REGION"/>      
             <MarkerCategory name="core" DisplayName="Core Tyria">
                 <MarkerCategory name="ascalon"     IsSeparator="1" DisplayName="  | ASCALON"/>
@@ -102,7 +102,7 @@
         <!-- End -->
 
         <MarkerCategory name="soto" DisplayName="Secrets of the Obscure">
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
             <MarkerCategory name="cd" IsSeparator="1" DisplayName="  | HORN OF MAGUUMA"/>
             <MarkerCategory name="am" DisplayName="Amnytas" color="00CC99"/>
             <MarkerCategory name="in" DisplayName="Inner Nayos">
