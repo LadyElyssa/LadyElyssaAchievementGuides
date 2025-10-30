@@ -887,6 +887,7 @@
         <Trail type="leag.eod.tew.wdtsgs" trailData="Data/EoD/What Did the Shrine Guardians Say 7.trl"/>
         <Trail type="leag.eod.tew.wdtsgs" trailData="Data/EoD/What Did the Shrine Guardians Say 8.trl"/>
         <Trail type="leag.eod.tew.wdtsgs" trailData="Data/EoD/What Did the Shrine Guardians Say 9.trl"/>
+        <Trail type="leag.eod.tew.wdtsgs" trailData="Data/EoD/What Did the Shrine Guardians Say 10.trl"/>
         <POI MapID="1452" xpos="-131.939" ypos="232.019" zpos="697.507" type="leag.eod.tew.wdtsgs.start" GUID="sxlKD7sSqUKpKPlWM+32jw=="/>
         <POI MapID="1452" xpos="-125.866" ypos="162.828" zpos="705.112" type="leag.eod.tew.wdtsgs.1" GUID="MQUzQ2P/kkOx7DaEMY2ppw=="/>
         <POI MapID="1452" xpos="-657.987" ypos="166.625" zpos="82.5762" type="leag.eod.tew.wdtsgs.2" GUID="NWGLF4CRlEmkxJxoOsYxXQ=="/>
@@ -894,17 +895,21 @@
         <POI MapID="1452" xpos="-486.102" ypos="162.627" zpos="-324.825" type="leag.eod.tew.wdtsgs.4" GUID="wdf2KWX5UUiIfcl6t+1+6w=="/>
         <POI MapID="1452" xpos="1055.09" ypos="7.26279" zpos="-522.07" type="leag.eod.tew.wdtsgs.5" GUID="1L0bD4AWeEyo8tLLJ10n2w=="/>
         <POI MapID="1452" xpos="1018.31" ypos="89.5602" zpos="39.9992" type="leag.eod.tew.wdtsgs.6" GUID="pSEnwwy0m0eJOVPwsxhJ4g=="/>
-        <POI MapID="1452" xpos="1008.4" ypos="88.7752" zpos="35.3194" type="leag.eod.tew.wdtsgs.7" GUID="23lxw0Gj20GROrymO1Thew=="/>
-        <POI MapID="1452" xpos="954.612" ypos="68.8302" zpos="510.324" type="leag.eod.tew.wdtsgs.8" GUID="PHTlDqNQ40en3xmnME4kpQ=="/>
-        <POI MapID="1452" xpos="953.101" ypos="68.8302" zpos="514.229" type="leag.eod.tew.wdtsgs.9" GUID="/dH9LSeFvUqbaaOxc47gDw=="/>
+        <POI MapID="1452" xpos="1010.37" ypos="88.8309" zpos="42.3508" type="leag.eod.tew.wdtsgs.7" GUID="LeA/I/Cup0O41OSucKd/kA=="/>
+        <POI MapID="1452" xpos="1008.4" ypos="88.7752" zpos="35.3194" type="leag.eod.tew.wdtsgs.8" GUID="23lxw0Gj20GROrymO1Thew=="/>
+        <POI MapID="1452" xpos="954.612" ypos="68.8302" zpos="510.324" type="leag.eod.tew.wdtsgs.9" GUID="PHTlDqNQ40en3xmnME4kpQ=="/>
+        <POI MapID="1452" xpos="953.101" ypos="68.8302" zpos="514.229" type="leag.eod.tew.wdtsgs.10" GUID="/dH9LSeFvUqbaaOxc47gDw=="/>
+        <POI MapID="1452" xpos="923.852" ypos="115.715" zpos="215.382" type="leag.eod.tew.wdtsgs.mount.springer" GUID="pGCT4wNCpU6ux9tNX/l7bw=="/>
+        <POI MapID="1452" xpos="828.838" ypos="163.509" zpos="199.876" type="leag.eod.tew.wdtsgs.mount.springer" GUID="tA6oFIMD8UeMzh/PrGC1tw=="/>
         <POI MapID="1452" xpos="-217.61" ypos="179.223" zpos="644.607" type="leag.eod.tew.wdtsgs.wp" GUID="mFdhF5F5/UaykovG+cTrlg==" copy="[&BMoMAAA=]" copy-message="Waypoint zu Heltzer"/>
         <POI MapID="1452" xpos="13.4222" ypos="209.914" zpos="245.872" type="leag.eod.tew.wdtsgs.wp" GUID="+FKgcg4bkEyhAyGaUKB9EA==" copy="[&BMoMAAA=]" copy-message="Waypoint zu Heltzer"/>
         <POI MapID="1452" xpos="-554.78" ypos="204.919" zpos="-671.604" type="leag.eod.tew.wdtsgs.wp" GUID="un82fsFlHU64/CRpNRbjmQ==" copy="[&BMwMAAA=]" copy-message="Kropa Waypoint"/>
         <POI MapID="1452" xpos="-288.984" ypos="177.863" zpos="-458.823" type="leag.eod.tew.wdtsgs.wp" GUID="U5OyK6AAmE+dhf4eXgPuVg==" copy="[&BMcMAAA=]" copy-message="Mori Village Waypoint"/>
         <POI MapID="1452" xpos="626.917" ypos="39.6518" zpos="-555.274" type="leag.eod.tew.wdtsgs.wp" GUID="ErRo1uTxcEefvw/H3e4wOw==" copy="[&BPkMAAA=]" copy-message="Jade Gate Waypoint"/>
         <POI MapID="1452" xpos="1112.03" ypos="93.4206" zpos="83.7016" type="leag.eod.tew.wdtsgs.wp" GUID="FwpAgQftPEaJG+HrYMX4Ow==" copy="[&BPkMAAA=]" copy-message="Jade Gate Waypoint"/>
-        <POI MapID="1452" xpos="59.0151" ypos="223.114" zpos="-280.717" type="leag.eod.tew.wdtsgs.wp" GUID="bOWAmZsvCESzWCYXZTz2uQ==" copy="[&BNQMAAA=]" copy-message="Qinkai Waypoint"/>
+        <POI MapID="1452" xpos="48.56372" ypos="126.7322" zpos="-705.2899" type="leag.eod.tew.wdtsgs.wp" GUID="bOWAmZsvCESzWCYXZTz2uQ==" copy="[&BNQMAAA=]" copy-message="Qinkai Waypoint"/>
         <POI MapID="1452" xpos="1083.95" ypos="7.11156" zpos="463.777" type="leag.eod.tew.wdtsgs.wp" GUID="JfbULDRlZ0a9wYWjgujGWw==" copy="[&BNQMAAA=]" copy-message="Qinkai Waypoint"/>
+        <POI MapID="1452" xpos="831.181" ypos="188.509" zpos="203.986" type="leag.eod.tew.wdtsgs.wp" GUID="pl7gQh+4WkKu6oNRbZprzg==" copy="[&BPkMAAA=]" copy-message="Jade Gate Waypoint"/>
 
 
         <!-- DRAGON'S END -->
