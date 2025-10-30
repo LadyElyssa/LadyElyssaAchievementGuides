@@ -47,8 +47,8 @@
         <POI MapID="1189" xpos="62.3532" ypos="135.686" zpos="47.206" type="leag.lws3.story.courtly.guard.swim" GUID="1Te67vKHXU6FdRAFf/5R/A=="/>
         <POI MapID="1189" xpos="72.9782" ypos="134.882" zpos="47.9534" type="leag.lws3.story.courtly.guard.swim" GUID="VHxyMp8K1UK29r6+aTKUUQ=="/>
         <POI MapID="1189" xpos="57.7714" ypos="136.425" zpos="36.7755" type="leag.lws3.story.courtly.guard.play" GUID="mdLmMVUgNEa1HijdU60Pjw=="/>
-        <POI MapID="1189" xpos="69.6319" ypos="137.14" zpos="42.714" type="leag.lws3.story.courtly.guard.glide" GUID="f0aZTnhdxUaUGa+1kZlEOQ=="/>
-        <POI MapID="1189" xpos="65.3419" ypos="137.142" zpos="42.5584" type="leag.lws3.story.courtly.guard.glide" GUID="0UYf+MYs7UWeVBiJi2R7Uw=="/>
+        <POI MapID="1189" xpos="69.6319" ypos="137.14" zpos="42.714" type="leag.lws3.story.courtly.guard.glider" GUID="f0aZTnhdxUaUGa+1kZlEOQ=="/>
+        <POI MapID="1189" xpos="65.3419" ypos="137.142" zpos="42.5584" type="leag.lws3.story.courtly.guard.glider" GUID="0UYf+MYs7UWeVBiJi2R7Uw=="/>
 
         <POI MapID="1191" xpos="135.6331" ypos="36.92723" zpos="102.7117" type="leag.lws3.story.illuminating" GUID="liBofyCHoUOALXNbZzEXlw=="/>
 
@@ -88,9 +88,9 @@
         <!-- Flashpoint -->
         <Trail type="leag.lws3.story.arrival" trailData="Data/LWS3/5. Flashpoint/Arrival and Survival.trl"  texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
         <Trail type="leag.lws3.story.fire" trailData="Data/LWS3/5. Flashpoint/Fire Fighter.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" minimapVisibility="0" mapVisibility="0" fadeNear="600" fadeFar="1000" color="00FF00"/>
-        <POI MapID="1198" xpos="384.418" ypos="66.7825" zpos="454.358" type="leag.lws3.story.fire.glide" GUID="on55VMQyg0m+iiT3RVkJ0g=="/>
-        <POI MapID="1198" xpos="391.023" ypos="62.6283" zpos="449.146" type="leag.lws3.story.fire.glide" GUID="zm3+xCH26E6jOOSRRjHwJg=="/>
-        <POI MapID="1198" xpos="440.756" ypos="64.1438" zpos="399.359" type="leag.lws3.story.fire.glide" GUID="M1Gxz2S42keYBn5z0x9QDw=="/>
+        <POI MapID="1198" xpos="384.418" ypos="66.7825" zpos="454.358" type="leag.lws3.story.fire.glider" GUID="on55VMQyg0m+iiT3RVkJ0g=="/>
+        <POI MapID="1198" xpos="391.023" ypos="62.6283" zpos="449.146" type="leag.lws3.story.fire.glider" GUID="zm3+xCH26E6jOOSRRjHwJg=="/>
+        <POI MapID="1198" xpos="440.756" ypos="64.1438" zpos="399.359" type="leag.lws3.story.fire.glider" GUID="M1Gxz2S42keYBn5z0x9QDw=="/>
 
         <!-- One Path Ends -->
         <POI MapID="1202" xpos="173.554" ypos="-34.4227" zpos="-397.202" type="leag.lws3.story.king.crab" GUID="TTDXPO2tQ026R6mF8sbEFA=="/>
