@@ -2,8 +2,45 @@
     <POIs>
         <!-- STORY ACHIEVEMENTS -->
 
-        <!-- CHAPTER :  -->
+        <!-- PROLOGUE :  -->
 
+        <POI MapID="1602" xpos="-13.6564" ypos="18.2451" zpos="-13.8434" type="leag.voe.story.ledger" GUID="jmgqjOc86k+HcCOT+u3hyg=="/>
+        <POI MapID="1598" xpos="12.2436" ypos="108.399" zpos="-496.585" type="leag.voe.story.zeba" GUID="vMkKxrtXKkK5fyZbT1lOaA=="/>
+        <POI MapID="1598" xpos="-21.8118" ypos="110.277" zpos="-462.987" type="leag.voe.story.zeba" GUID="gzXEXJEzMk6v1K6bvrBriw=="/>
 
+        <!-- CHAPTER 2: Solid Ground  -->
+        <POI MapID="1595" xpos="474.531" ypos="34.9678" zpos="107.487" type="leag.voe.story.cultural.intel" GUID="wWWwhxS+DUWYFoEaqIHY7Q=="/>
+        <POI MapID="1595" xpos="619.861" ypos="9.32559" zpos="764.552" type="leag.voe.story.cultural.nautical" GUID="pR1gSLXZKUOaXgh0oazV0g=="/>
+        <POI MapID="1595" xpos="436.173" ypos="41.8036" zpos="645.309" type="leag.voe.story.cultural.ley" GUID="X07rI0nFqUe06Z29kTiDaw=="/>
+        <POI MapID="1595" xpos="290.198" ypos="6.1993" zpos="-502.796" type="leag.voe.story.cultural.hunter" GUID="lIGB2iJCv0aNKnVg8cjMvQ=="/>
+        <POI MapID="1595" xpos="546.552" ypos="33.2363" zpos="601.532" type="leag.voe.story.cultural.kestrel" GUID="1k47dZJrO0mFY+tcuiXeZg=="/>
+        
+        <POI MapID="1595" xpos="422.419" ypos="17.5167" zpos="518.401" type="leag.voe.story.beautiful" GUID="/fItBLsxTU6lFy8JJpFUCA=="/>
+        <POI MapID="1595" xpos="442.711" ypos="40.5475" zpos="658.374" type="leag.voe.story.beautiful" GUID="9VjBFmUmBEa26ZDbXC2NHw=="/>
+        <POI MapID="1595" xpos="545.245" ypos="-10.7617" zpos="814.635" type="leag.voe.story.beautiful" GUID="aezQEn8jAUyoTkocjS/96w=="/>
+        <POI MapID="1595" xpos="368.035" ypos="1.82976" zpos="736.98" type="leag.voe.story.beautiful" GUID="dBpLnoBtEU+zYJb4CT32RQ=="/>
+        
+        <POI MapID="1595" xpos="352.166" ypos="27.7428" zpos="174.95" type="leag.voe.story.wavehawks" GUID="LETeIAYoCkKQRnlW9K/PNA=="/>
+
+        <POI MapID="1595" xpos="305.497" ypos="0.622519" zpos="592.512" type="leag.voe.story.fundamentals.tooth" GUID="/vBijTbkJkW4jOvR3+R2pQ=="/>
+        <POI MapID="1595" xpos="298.136" ypos="0.289533" zpos="618.113" type="leag.voe.story.fundamentals.tooth" GUID="DJzkbjswKECAiIaOfDtKyg=="/>
+        <POI MapID="1595" xpos="301.278" ypos="2.55837" zpos="646.244" type="leag.voe.story.fundamentals.tooth" GUID="ukewMh5c+0SH7DBaCBl3TQ=="/>
+        <POI MapID="1595" xpos="333.151" ypos="-0.188944" zpos="661.092" type="leag.voe.story.fundamentals.tooth" GUID="55KICJ42xE2kB+qFpUHnTw=="/>
+        <POI MapID="1595" xpos="398.829" ypos="5.38884" zpos="-675.387" type="leag.voe.story.fundamentals.treats" GUID="4jxSr3Ma00uD2upcpGZnKQ=="/>
+        <POI MapID="1595" xpos="131.352" ypos="0.850182" zpos="553.332" type="leag.voe.story.fundamentals.package" GUID="VET5+75t6keZ2evote4OKg=="/>
+        <POI MapID="1595" xpos="549.46" ypos="-7.84707" zpos="347.155" type="leag.voe.story.fundamentals.net" GUID="ygoz8wNA6kyjQCNY3TWgvQ=="/>
+        <POI MapID="1595" xpos="396.045" ypos="0.445987" zpos="196.597" type="leag.voe.story.fundamentals.toy" GUID="GzKZqFeEl0SonWZFkfQ0eA=="/>
+        <POI MapID="1595" xpos="490.939" ypos="0.417061" zpos="-354.717" type="leag.voe.story.fundamentals.token" GUID="h8mCvSGajE+MK8VWSYpDVA=="/>
+
+        <POI MapID="1595" xpos="-561.438" ypos="15.4029" zpos="-449.544" type="leag.voe.story.enemy" GUID="ek05HjC+60mk87WZ+I69Rw=="/>
+        <POI MapID="1595" xpos="-555.456" ypos="15.51" zpos="-445.1" type="leag.voe.story.enemy" GUID="X0NYxC4gSUmuIFQis1S+9Q=="/>
+        <POI MapID="1595" xpos="-542.917" ypos="15.9138" zpos="-432.81" type="leag.voe.story.enemy" GUID="14kXgl4YAUiD49riQBJDWQ=="/>
+
+        <POI MapID="1595" xpos="-538.166" ypos="15.9281" zpos="-436.594" type="leag.voe.story.overindulgence" GUID="SyRV/EtxAkOKOPUdhAwwew=="/>
+
+        <POI MapID="1595" xpos="-151.871" ypos="0.465811" zpos="49.1378" type="leag.voe.story.swift" GUID="H60GV6VhfkmQ0tL4iU93BQ=="/>
+        <POI MapID="1595" xpos="42.5208" ypos="0.40086" zpos="168.506" type="leag.voe.story.swift" GUID="8eO8VcV1iUmjGuQhT1GROg=="/>
+        <POI MapID="1595" xpos="-12.3427" ypos="0.220468" zpos="343.403" type="leag.voe.story.swift" GUID="bkzE0vgW/kiQum9drcnxKg=="/>
+        
     </POIs>
 </OverlayData>
