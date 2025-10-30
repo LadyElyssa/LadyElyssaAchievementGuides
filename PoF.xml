@@ -153,13 +153,13 @@
         <POI MapID="1211" xpos="-1299.22" ypos="342.283" zpos="421.405" type="leag.pof.highlands.remnants.3" GUID="/MaKnyyRTkWef7ahBhBbYQ=="/>
         <POI MapID="1211" xpos="-1293.74" ypos="341.609" zpos="415.389" type="leag.pof.highlands.remnants.4" GUID="rwaunT0Ml0idPMHpLIVxJg=="/>
         <POI MapID="1211" xpos="-124.614" ypos="252.344" zpos="417.783" type="leag.pof.highlands.remnants.5" GUID="3RBCR9ZtjkOihlRDBupfQw=="/>
-        <POI MapID="1211" xpos="473.661" ypos="208.218" zpos="353.562" type="leag.pof.highlands.remnants.6" GUID="bfnLJVUuWEqCmHi819+ygA=="/>
+        <POI MapID="1211" xpos="472.5263" ypos="208.298" zpos="353.8929" type="leag.pof.highlands.remnants.6" GUID="bfnLJVUuWEqCmHi819+ygA=="/>
         <POI MapID="1211" xpos="475.525" ypos="207.748" zpos="342.411" type="leag.pof.highlands.remnants.7" GUID="LAl8t5JcZUSRO9RfnpoImw=="/>
         <POI MapID="1211" xpos="-34.9204" ypos="463.618" zpos="-190.055" type="leag.pof.highlands.remnants.wp" GUID="tbcUYEN96UW2cn3VIYIjCA==" copy="[&BJEKAAA=]" copy-message="Brightwater Waypoint"/>
         <POI MapID="1211" xpos="-448.198" ypos="4.97446" zpos="-573.84" type="leag.pof.highlands.remnants.wp" GUID="0Ib3ujp+xk6UsFLyiRXB0g==" copy="[&BNkKAAA=]" copy-message="Derelict Delve Waypoint"/>
         <POI MapID="1211" xpos="-1371.3" ypos="2.45248" zpos="-484.352" type="leag.pof.highlands.remnants.wp" GUID="LCA9H1h/E0+5FU5dh73pNw==" copy="[&BJ0KAAA=]" copy-message="Highjump Ranch Waypoint"/>
         <POI MapID="1211" xpos="-56.34998" ypos="320.907" zpos="419.1086" type="leag.pof.highlands.remnants.wp" GUID="oWNNem1FYUOy+cxCmzCUOQ==" copy="[&BGoKAAA=]" copy-message="Lommuld Kraal Waypoint"/>
-        <POI MapID="1211" xpos="548.82" ypos="295.059" zpos="622.709" type="leag.pof.highlands.remnants.wp" GUID="qgiOsdu3Fk6AWEYt3jmqFA==" copy="[&BGoKAAA=]" copy-message="Lommuld Kraal Waypoint"/>
+        <POI MapID="1211" xpos="547.2548" ypos="295.0656" zpos="621.9444" type="leag.pof.highlands.remnants.wp" GUID="qgiOsdu3Fk6AWEYt3jmqFA==" copy="[&BGoKAAA=]" copy-message="Lommuld Kraal Waypoint"/>
         <POI MapID="1211" xpos="466.4624" ypos="155.13" zpos="-666.355" type="leag.pof.highlands.remnants.mount.raptor" GUID="sDtrlsq3kEmKoxJElYssgg=="/>
         <POI MapID="1211" xpos="212.324" ypos="181.216" zpos="-661.237" type="leag.pof.highlands.remnants.mount.raptor" GUID="/KhdyJokhkeW3ykPd1/Wpw=="/>
         <POI MapID="1211" xpos="-129.708" ypos="151.775" zpos="-269.429" type="leag.pof.highlands.remnants.mount.jackal" GUID="JCz7J0oFok2ioCRHHsjLmw=="/>
@@ -176,7 +176,6 @@
         <POI MapID="1211" xpos="-1216.92" ypos="298.699" zpos="-274.366" type="leag.pof.highlands.remnants.mount.raptor" GUID="wOCu8TEkJEm6EdexZysM+g=="/>
         <POI MapID="1211" xpos="-1217.59" ypos="298.502" zpos="-350.652" type="leag.pof.highlands.remnants.mount.jackal" GUID="X69PXY9vbkmy7QZM4qsHAA=="/>
         <POI MapID="1211" xpos="-1254.58" ypos="5.95331" zpos="-532.87" type="leag.pof.highlands.remnants.mount.jackal" GUID="i+zkIn/zW0m927LHtQX9JA=="/>
-        <POI MapID="1211" xpos="556.926" ypos="232.778" zpos="611.491" type="leag.pof.highlands.remnants.mount.springer" GUID="YuPzi32AEUG/cqfFIhO3MA=="/>
         <POI MapID="1211" xpos="-45.5103" ypos="265.658" zpos="394.116" type="leag.pof.highlands.remnants.mount.springer" GUID="eLNmkkVHqEawhUSnxfdViw=="/>
         <POI MapID="1211" xpos="-109.074" ypos="251.486" zpos="403.879" type="leag.pof.highlands.remnants.mount.springer" GUID="NLcssaygb0aLmLrYWBPJnA=="/>
         <POI MapID="1211" xpos="666.254" ypos="200.926" zpos="49.7359" type="leag.pof.highlands.remnants.mount.raptor" GUID="kuDPAwW1/0uQwhk2E6Wisg=="/>
@@ -184,7 +183,9 @@
         <POI MapID="1211" xpos="899.078" ypos="207.159" zpos="29.5814" type="leag.pof.highlands.remnants.mount.jackal" GUID="v6IGp5f6qU2cdaS0UQzUpg=="/>
         <POI MapID="1211" xpos="1254.76" ypos="183.369" zpos="478.125" type="leag.pof.highlands.remnants.mount.springer" GUID="k2GGWsm4wk63wn9+5C39AA=="/>
         <POI MapID="1211" xpos="1322.49" ypos="192.356" zpos="227.051" type="leag.pof.highlands.remnants.mount.jackal" GUID="nt1VeB+XGUeSGj794MKDHw=="/>
-        
+        <POI MapID="1211" xpos="266.428" ypos="265.087" zpos="489.422" type="leag.pof.highlands.remnants.mount.raptor" GUID="E80Vy52RJUmb0pd0FMqJCQ=="/>
+        <POI MapID="1211" xpos="430.01" ypos="290.871" zpos="574.638" type="leag.pof.highlands.remnants.mount.raptor" GUID="E09Y9xoYuUaIPyZoFkrxWw=="/>
+        <POI MapID="1211" xpos="522.868" ypos="281.46" zpos="630.133" type="leag.pof.highlands.remnants.mount.springer" GUID="hcZ1n+yL7U6DxFgYwx0DTQ=="/>
         <!-- Fire Dancer -->
         <POI MapID="1211" xpos="-457.4409" ypos="66.1399" zpos="-274.5053" type="leag.pof.highlands.dancer.emote" GUID="VuMevP4Z+k+bh+qGiFARHg=="/>
 

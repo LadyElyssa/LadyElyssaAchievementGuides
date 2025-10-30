@@ -85,6 +85,8 @@
         <!-- CHAPTER 7: Facing the Truth -->
         <!-- Perfect Match -->
         <Trail type="leag.pof.story.perfect" trailData="Data/PoF/Story/Perfect Match.trl" animSpeed="0" color="ffcc00"/>
+        <POI MapID="1230" xpos="667.223" ypos="18.3485" zpos="348.888" type="leag.pof.story.seeker.book" GUID="uYGZUwR6V06pjD3rLDPnTw=="/>
+        <POI MapID="1230" xpos="631.175" ypos="2.95647" zpos="370.203" type="leag.pof.story.seeker.mount.springer" GUID="ndPYYKKKOEqgYeaPHUdgPg=="/>
 
         <!-- Puzzle in Time -->
         <POI MapID="1230" xpos="-738.8902" ypos="1.344816" zpos="-288.2631" type="leag.pof.story.puzzle" GUID="lfk0Gwjfq0+85yy9bHJBhA==" iconFile="Data/Images/Icons/Blank.png" info="Option: 1 or 3" infoRange="5"/>
