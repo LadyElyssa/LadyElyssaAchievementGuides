@@ -7,11 +7,15 @@
                 
                 <MarkerCategory name="prologue" IsSeparator="1" DisplayName="PROLOGUE: On the Sly"/>
                 <MarkerCategory name="ledger" DisplayName="Lionguard Ledger" achievementId="8979" iconFile="Data/Images/Icons/Orb - Green - S.png" maxSize="16"/>
-                <MarkerCategory name="out" DisplayName="And Stay Out!" achievementId="9068" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
+                <MarkerCategory name="out" DisplayName="And Stay Out!" achievementId="9068" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00" animSpeed="0"/>
 
                 <MarkerCategory name="ch1" IsSeparator="1" DisplayName="CHAPTER 1: Unscheduled Departures"/>
                 <MarkerCategory name="ledger" DisplayName="Lionguard Ledger" achievementId="8979" iconFile="Data/Images/Icons/Orb - Green - S.png" maxSize="16"/>
-                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
+                <MarkerCategory name="divination" DisplayName="Nautical Divination" achievementId="8970">
+                     <MarkerCategory name="left" DisplayName="Left" iconFile="Data/Images/Icons/Direction - Left.png" maxSize="32"/>
+                     <MarkerCategory name="right" DisplayName="Right" iconFile="Data/Images/Icons/Direction - Right.png" maxSize="32"/>
+                     <MarkerCategory name="straight" DisplayName="Straight" iconFile="Data/Images/Icons/Direction - Straight.png" maxSize="32"/>
+                </MarkerCategory>
                 
                 <MarkerCategory name="ch2" IsSeparator="1" DisplayName="CHAPTER 2: Solid Ground"/>
                 <MarkerCategory name="cultural" DisplayName="Cultural Exchange" achievementId="8925">
@@ -45,7 +49,7 @@
                 <MarkerCategory name="swift" DisplayName="Swift Skimming" achievementId="9079" iconFile="Data/Images/Icons/Orb - Green - S.png" maxSize="16" heightOffset="-0.5"/>
 
                 <!--
-                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: And Stay Out!"/>
+                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" heightOffset="-0.5"/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" heightOffset="-0.5"/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" heightOffset="-0.5"/>
