@@ -4,10 +4,15 @@
         <MarkerCategory name="voe" DisplayName="Visions of Eternity">
         
             <MarkerCategory name="story" DisplayName="Story Achievements" fadeNear="1600" fadeFar="3000">
-                <!--
-                <MarkerCategory name="ch1" IsSeparator="1" DisplayName="Chapter 1: Unscheduled Departures"/>
+                
+                <MarkerCategory name="prologue" IsSeparator="1" DisplayName="PROLOGUE: On the Sly"/>
+                <MarkerCategory name="ledger" DisplayName="Lionguard Ledger" achievementId="8979" iconFile="Data/Images/Icons/Orb - Green - S.png" maxSize="16"/>
+                <MarkerCategory name="out" DisplayName="And Stay Out!" achievementId="9068" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
+
+                <MarkerCategory name="ch1" IsSeparator="1" DisplayName="CHAPTER 1: Unscheduled Departures"/>
+                <MarkerCategory name="ledger" DisplayName="Lionguard Ledger" achievementId="8979" iconFile="Data/Images/Icons/Orb - Green - S.png" maxSize="16"/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
-                -->
+                
                 <MarkerCategory name="ch2" IsSeparator="1" DisplayName="CHAPTER 2: Solid Ground"/>
                 <MarkerCategory name="cultural" DisplayName="Cultural Exchange" achievementId="8925">
                     <MarkerCategory name="ley" DisplayName="Ley Lines for the Layman" iconFile="Data/Images/Icons/Tattered Journal.png" inGameVisibility="0" mapDisplaySize="32"/>
@@ -18,7 +23,7 @@
                 </MarkerCategory>
 
                 <MarkerCategory name="beautiful" DisplayName="It's So Beautiful" achievementId="8985" iconFile="Data/Images/Emote - Cry.png" maxSize="64" mapVisibility="0" miniMapVisibility="0"/>
-                <MarkerCategory name="ledger" DisplayName="Lionguard Ledger" achievementId="8979" iconFile="Data/Images/Icons/Orb - Green - S.png" maxSize="16"/>
+                
                 <MarkerCategory name="zeba" DisplayName="Zeba Deserves Better" achievementId="9080" iconFile="Data/Images/Icons/Orb - Green - S.png" maxSize="16" heightOffset="-0.25"/>
                 <MarkerCategory name="wavehawks" DisplayName="Wavehawks Are My Passion" achievementId="8978" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="48"/>
                 <MarkerCategory name="fundamentals" DisplayName="Wavehawks Fundamentals">
@@ -30,83 +35,62 @@
                     <MarkerCategory name="token" DisplayName="Token of Affection" iconFile="Data/Images/Icons/Token of Affection.png" inGameVisibility="0" mapDisplaySize="32"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="ch3" IsSeparator="1" DisplayName="Chapter 3: Eyes, Ears, and Arms"/>
+                <MarkerCategory name="ch3" IsSeparator="1" DisplayName="CHAPTER 3: Eyes, Ears, and Arms"/>
                 <MarkerCategory name="flawless" DisplayName="Flawless Hacker" achievementId="8944" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" heightOffset="-0.5"/>
                 <MarkerCategory name="enemy" DisplayName="The Enemy of My Enemy Is Still My Enemy" achievementId="8896" iconFile="Data/Images/Icons/Talk.png" maxSize="16" heightOffset="-0.5"/>
                 <MarkerCategory name="overindulgence" DisplayName="Overindulgence" achievementId="8949" iconFile="Data/Images/Icons/Talk.png" maxSize="16" heightOffset="-0.5"/>
                 
-                <MarkerCategory name="ch4" IsSeparator="1" DisplayName="Chapter 4: Truths Unearthed"/>
+                <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: Truths Unearthed"/>
                 <MarkerCategory name="beatem" DisplayName="If You Can't Beat 'Em" achievementId="9075" iconFile="Data/Images/Emote - Dance.png" maxSize="16" heightOffset="-0.5"/>
                 <MarkerCategory name="swift" DisplayName="Swift Skimming" achievementId="9079" iconFile="Data/Images/Icons/Orb - Green - S.png" maxSize="16" heightOffset="-0.5"/>
 
                 <!--
-                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="Chapter 5: And Stay Out!"/>
+                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: And Stay Out!"/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" heightOffset="-0.5"/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" heightOffset="-0.5"/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" heightOffset="-0.5"/>
                 -->
                 <!--                
 
-                <MarkerCategory name="ch6" IsSeparator="1" DisplayName="Chapter 6: "/>
+                <MarkerCategory name="ch6" IsSeparator="1" DisplayName="CHAPTER 6: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
 
-                <MarkerCategory name="ch7" IsSeparator="1" DisplayName="Chapter 7: "/>
+                <MarkerCategory name="ch7" IsSeparator="1" DisplayName="CHAPTER 7: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
 
-                <MarkerCategory name="ch8" IsSeparator="1" DisplayName="Chapter 8: "/>
+                <MarkerCategory name="ch8" IsSeparator="1" DisplayName="CHAPTER 8: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
 
-                <MarkerCategory name="ch9" IsSeparator="1" DisplayName="Chapter 9: "/>
+                <MarkerCategory name="ch9" IsSeparator="1" DisplayName="CHAPTER 9: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
 
-                <MarkerCategory name="ch10" IsSeparator="1" DisplayName="Chapter 10: "/>
+                <MarkerCategory name="ch10" IsSeparator="1" DisplayName="CHAPTER 10: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
 
-                <MarkerCategory name="ch11" IsSeparator="1" DisplayName="Chapter 11: "/>
+                <MarkerCategory name="ch11" IsSeparator="1" DisplayName="CHAPTER 11: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
 
-                <MarkerCategory name="ch12" IsSeparator="1" DisplayName="Chapter 12: "/>
+                <MarkerCategory name="ch12" IsSeparator="1" DisplayName="CHAPTER 12: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
 
-                <MarkerCategory name="ch13" IsSeparator="1" DisplayName="Chapter 13: "/>
+                <MarkerCategory name="ch13" IsSeparator="1" DisplayName="CHAPTER 13: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
 
-                <MarkerCategory name="ch14" IsSeparator="1" DisplayName="Chapter 14: "/>
+                <MarkerCategory name="ch14" IsSeparator="1" DisplayName="CHAPTER 14: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
 
-                <MarkerCategory name="ch15" IsSeparator="1" DisplayName="Chapter 15: "/>
+                <MarkerCategory name="ch15" IsSeparator="1" DisplayName="CHAPTER 15: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
 
-                <MarkerCategory name="ch16" IsSeparator="1" DisplayName="Chapter 16: "/>
+                <MarkerCategory name="ch16" IsSeparator="1" DisplayName="CHAPTER 16: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
                 -->
             </MarkerCategory>
-            
+
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
             <MarkerCategory name="shipwreck" DisplayName="Shipwreck Strand (WiP)">
-            <!--
-            <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
-                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="start" DisplayName="Toggle Start" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
-                <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
-                    <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
-                    <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
-                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
-                </MarkerCategory>
-                <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
-                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/n1.png" inGameVisibility="0"/>
-                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/n2.png" inGameVisibility="0"/>
-                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/n3.png" inGameVisibility="0"/>
-                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/n4.png" inGameVisibility="0"/>
-                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/n5.png" inGameVisibility="0"/>
-                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/n6.png" inGameVisibility="0"/>
-                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/n7.png" inGameVisibility="0"/>
-                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/n8.png" inGameVisibility="0"/>
-            </MarkerCategory>
-            -->
 
                 <MarkerCategory name="aasb" DisplayName="As Above, So Below" achievementId="9082">
                     <MarkerCategory name="high" DisplayName="High" iconFile="Data/Images/Icons/Object - Above.png" maxSize="32" mapDisplaySize="48" inGameVisibility="0"/>
@@ -118,11 +102,26 @@
                     <MarkerCategory name="nectar" DisplayName="Nectar of Divine Perception (for Chance to see Hidden Choya)" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" mapDisplaySize="32" inGameVisibility="1"/>
                 </MarkerCategory>
 
-                <!--
-                <MarkerCategory name="aquatic" DisplayName="Aquatic Prison Break (WiP)" achievementId="8875" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16"/>
-                -->
+                <MarkerCategory name="aquatic" DisplayName="Aquatic Prison Break" achievementId="8875" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
 
-                <MarkerCategory name="captain" DisplayName="Captain Leo the Relentless (After Meta) WiP" achievementId="9021">
+                <MarkerCategory name="captain" DisplayName="Captain Leo the Relentless (After Meta)" achievementId="9021">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="numbers" DisplayName="Trail Number">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="obj" IsSeparator="1" DisplayName="OBJECTIVES"/>
                     <MarkerCategory name="book" DisplayName="Toggle Book Icon" iconFile="Data/Images/Icons/Captain Leo the Relentless.png" mapDisplaySize="32" inGameVisibility="0"/>
                     <MarkerCategory name="boy" DisplayName="Find the cabin boy" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" mapDisplaySize="32" heightOffset="-0.25"/>
                     <MarkerCategory name="sailor" DisplayName="Find the sailor" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" mapDisplaySize="32" heightOffset="-0.25"/>
@@ -168,6 +167,9 @@
                 </MarkerCategory>
 
                 <MarkerCategory name="grotto" DisplayName="Grotto Aficionado (WiP) [H]" achievementId="8873" iconFile="Data/Images/Swirl - Teal.png" inGameVisibility="0" mapDisplaySize="128">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="caves" DisplayName="Underwater Caves (WIP)" mapDisplaySize="16" inGameVisibility="0"/>
+                    <MarkerCategory name="grotto" IsSeparator="1" DisplayName="GROTTO'S"/>
                     <MarkerCategory name="starry" DisplayName="Starry Grotto"/>
                     <MarkerCategory name="quiggles" DisplayName="Quiggles Hideaway"/>
                     <MarkerCategory name="flotsam" DisplayName="Flotsam Grotto"/>
@@ -180,6 +182,10 @@
                     <MarkerCategory name="orb" DisplayName="The Orb Cavern"/>
                     <MarkerCategory name="booters" DisplayName="'Booter's Hidey-Hole"/>
                 </MarkerCategory>
+
+                <MarkerCategory name="thirsty" DisplayName="Help the Thirsty Old Captain [H]" achievementId="9081" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png"/>
+
+                <MarkerCategory name="quiggles" DisplayName="Hidden Quiggles" achievementId="8953" iconFile="Data/Images/Icons/Mr Quiggles.png" maxSize="32" mapDisplaySize="32"/>
 
                 <MarkerCategory name="hobbies" DisplayName="Hobbies of the Hullgardeners" achievementId="8893">
                     <MarkerCategory name="kite" DisplayName="Fly a Kite" iconFile="Data/Images/Icons/Kite.png" inGameVisibility="0" mapDisplaySize="48"/>
@@ -198,7 +204,23 @@
                     <MarkerCategory name="crabs" DisplayName="Calm the crabby crabs" iconFile="Data/Images/Icons/Narcisse.png" mapDisplaySize="48" inGameVisibility="0"/>
                 </MarkerCategory>
                 
-                <MarkerCategory name="memory" DisplayName="In Loving Memory" achievementId="8926" iconFile="Data/Images/Icons/Orb - White Shadow - S.png" maxSize="16" mapDisplaySize="48">
+                <MarkerCategory name="memory" DisplayName="In Loving Memory" achievementId="8926" iconFile="Data/Images/Icons/Orb - White Shadow - S.png" maxSize="16">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="numbers" DisplayName="Trail Number">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="obj" IsSeparator="1" DisplayName="OBJECTIVES"/>
                     <MarkerCategory name="bouquet" DisplayName="A bouquet of flowers is placed here"/>
                     <MarkerCategory name="grave" DisplayName="Tove grieves at this grave"/>
                     <MarkerCategory name="candles" DisplayName="A pair of candles, lit for a pair"/>
@@ -211,6 +233,29 @@
                 </MarkerCategory>
                 
                 <MarkerCategory name="lost" DisplayName="Lost Loved Ones" achievementId="8961">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="numbers" DisplayName="Trail Number">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5a" DisplayName="Five a" iconFile="Data/Images/Numbers/5a.png"/>
+                        <MarkerCategory name="5b" DisplayName="Five b" iconFile="Data/Images/Numbers/5b.png"/>
+                        <MarkerCategory name="5c" DisplayName="Five c" iconFile="Data/Images/Numbers/5c.png"/>
+                        <MarkerCategory name="5d" DisplayName="Five d" iconFile="Data/Images/Numbers/5d.png"/>
+                        <MarkerCategory name="5e" DisplayName="Five e" iconFile="Data/Images/Numbers/5e.png"/>
+                        <MarkerCategory name="5f" DisplayName="Five f" iconFile="Data/Images/Numbers/5f.png"/>
+                        <MarkerCategory name="5g" DisplayName="Five g" iconFile="Data/Images/Numbers/5g.png"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="obj" IsSeparator="1" DisplayName="OBJECTIVES"/>
                     <MarkerCategory name="message" DisplayName="Find the Message in a Bottle" iconFile="Data/Images/Icons/Collections.png" inGameVisibility="0" maxSize="16" mapDisplaySize="32"/>
                     <MarkerCategory name="lyla" DisplayName="Castaway Lyla" iconFile="Data/Images/Icons/Talk.png" maxSize="48" miniMapVisibility="0" mapVisibility="0"/>
                     <MarkerCategory name="token" DisplayName="Bring Lyla's Token to the remains" iconFile="Data/Images/Icons/Collections.png" inGameVisibility="0" mapDisplaySize="32"/>
@@ -226,6 +271,36 @@
                     <MarkerCategory name="8" DisplayName="Let Amy May know you helped" iconFile="Data/Images/Icons/Talk.png" inGameVisibility="0" mapDisplaySize="32"/>
                 </MarkerCategory>
                 
+                <MarkerCategory name="moat" DisplayName="Memories of Another Time" achievementId="8854">
+                    <MarkerCategory name="req" IsSeparator="1" DisplayName="REQ: Ch.5: Truths Unearthed"/>
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="numbers" DisplayName="Trail Number">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="obj" IsSeparator="1" DisplayName="OBJECTIVES"/>
+                    <MarkerCategory name="1" DisplayName="Speak with a former Astral Ward member in Glimmering Arches" iconFile="Data/Images/Icons/Talk.png" maxSize="24"/>
+                    <MarkerCategory name="2" DisplayName="Look for a memory on a cliff between garden, glade, and hollows in Shipwreck Strand" iconFile="Data/Images/Icons/Orb - Blue - S.png"/>
+                    <MarkerCategory name="3" DisplayName="Central Tyria: Pay a visit back to a fiefdom that gazes up at the Wizard's Tower" iconFile="Data/Images/Icons/Orb - Blue - S.png"/>
+                    <MarkerCategory name="4" DisplayName="Shipwreck Strand: on a small island of plants and wildlife." iconFile="Data/Images/Icons/Orb - Blue - S.png"/>
+                    <MarkerCategory name="5" DisplayName="Starlit Weald: north of a ruin's moat." iconFile="Data/Images/Icons/Orb - Blue - S.png"/>
+                    <MarkerCategory name="6" DisplayName="Speak to the foremost expert on the Astral Ward in Shipwreck Strand." iconFile="Data/Images/Icons/Orb - Blue - S.png"/>
+                    <MarkerCategory name="7" DisplayName="Look for a memory washed to shore among the shipwrecks of the southern strand." iconFile="Data/Images/Icons/Orb - Blue - S.png"/>
+                    <MarkerCategory name="8" DisplayName="Central Tyria: track down a memory bidding farewell to a pair of steadfast hawks." iconFile="Data/Images/Icons/Orb - Blue - S.png"/>
+                    <MarkerCategory name="9" DisplayName="Travel to the source of undead draconic magic in Central Tyria" iconFile="Data/Images/Icons/Orb - Blue - S.png"/>
+                    <MarkerCategory name="10" DisplayName="Return the memories to the former Astral Ward member in Glimmering Arches." iconFile="Data/Images/Icons/Orb - Blue - S.png"/>
+                </MarkerCategory>
+
                 <MarkerCategory name="cavern" DisplayName="Orb Cavern Jumping Puzzle" achievementId="8932">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Jumping Puzzles/Orb Cavern.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
@@ -236,17 +311,7 @@
                 
                 <MarkerCategory name="plague" DisplayName="Plague Doctor" achievementId="8963" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128"/>
                 
-                <MarkerCategory name="ponder" DisplayName="Ponder the Pools (WiP)" achievementId="8950" iconFile="Data/Images/Icons/Orb - White Shadow - S.png" maxSize="16"/>
-                <!--
-                
-                <MarkerCategory name="memories" DisplayName="Memories of Another Time (WiP)" achievementId="8854" iconFile="Data/Images/Icons/Talk.png" maxSize="16">
-                    <MarkerCategory name="req" IsSeparator="1" DisplayName="REQ: Ch.5: Truths Unearthed"/>
-                    <MarkerCategory name="1" DisplayName="Speak with a former Astral Ward member in Glimmering Arches" iconFile="Data/Images/Numbers/n1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/n2.png"/>
-                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/n3.png"/>
-                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/n4.png"/>
-                </MarkerCategory>
-                -->
+                <MarkerCategory name="ponder" DisplayName="Ponder the Pools" achievementId="8950" iconFile="Data/Images/Icons/Tide Pool.png" maxSize="16" mapDisplaySize="48"/>
 
                 <MarkerCategory name="copse" DisplayName="Soaring Copse Jumping Puzzle" achievementId="8976" fadeNear="1200" fadeFar="2400">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -261,13 +326,16 @@
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Adventures/Skimmer-Net Scramble.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                 </MarkerCategory>
                 
+                
+                <MarkerCategory name="fireworks" DisplayName="Soaring Sands Fireworks" achievementId="9058" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png">
+                    <MarkerCategory name="red" DisplayName="Red" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" mapDisplaySize="32"/>
+                    <MarkerCategory name="yellow" DisplayName="Yellow" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" mapDisplaySize="32" fadeNear="5000" fadeFar="7500"/>
+                    <MarkerCategory name="blue" DisplayName="Blue" iconFile="Data/Images/Icons/Orb - Blue - S.png" maxSize="16" mapDisplaySize="32" fadeNear="5000" fadeFar="7500"/>
+                </MarkerCategory>
+                
                 <!--
-                <MarkerCategory name="fireworks" DisplayName="Soaring Sands Fireworks" achievementId="9058"/>
-                -->
-
-                <!--   
-                <MarkerCategory name="lesser" DisplayName="The Lesser-Known Leaders of Shipwreck Strand (WiP)" achievementId="8861">
-                    <MarkerCategory name="king" DisplayName="Meet &mdash;and defeat&mdash;the rat king." iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="64"/>
+                <MarkerCategory name="lesser" DisplayName="The Lesser-Known Leaders of Shipwreck Strand (WIP)" achievementId="8861">
+                    <MarkerCategory name="king" DisplayName="Meet-and defeat&mdash;the rat king." iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="64"/>
                     <MarkerCategory name="royalty" DisplayName="Meet wannabe freebooter royalty Jessica and Jimmy [Meta]" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="64"/>
                     <MarkerCategory name="ursulette" DisplayName="Meet the leader of suntanning castaways" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="64"/>
                     <MarkerCategory name="avyn" DisplayName="Meet Adherent Avyn" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="64"/>
@@ -275,7 +343,7 @@
                     <MarkerCategory name="kash" DisplayName="Meet Kash and help them lead the Hullgardeners" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="64"/>
                 </MarkerCategory>
                 -->
-                <MarkerCategory name="tomes" DisplayName="Tropical Tomes (WiP)" achievementId="" iconFile="Data/Images/Icons/Journal Fragment.png" maxSize="16" mapDisplaySize="32">
+                <MarkerCategory name="tomes" DisplayName="Tropical Tomes (WIP)" achievementId="8894" iconFile="Data/Images/Icons/Journal Fragment.png" maxSize="16" mapDisplaySize="32">
                     <MarkerCategory name="letter" DisplayName="Letter" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
                     <MarkerCategory name="record" DisplayName="Transaction Record" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
                     <MarkerCategory name="whales" DisplayName="On the Beaching of Whales" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
@@ -283,12 +351,13 @@
                     <MarkerCategory name="arrival" DisplayName="Peculiar Arrival" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
                     <MarkerCategory name="westergard" DisplayName="Westergard's Journal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
                     <MarkerCategory name="osborne" DisplayName="Osborn'e Journal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
-                    <MarkerCategory name="notice" DisplayName="Notice: Procedure for handling new castaways" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
+                    <MarkerCategory name="notice" DisplayName="Notice: Procedure for handling new castaways" iconFile="Data/Images/Icons/Talk.png" maxSize="16" info="Requires: Tier 2 Hullgarden Renown Mastery" infoRange="5"/>
                     <MarkerCategory name="tattered" DisplayName="Tattered Journal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
                     <MarkerCategory name="jernal" DisplayName="My Jernal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
-                    <MarkerCategory name="rock" DisplayName="The Lonely Rock" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
-                    <MarkerCategory name="grammie" DisplayName="Grammie West's Best Recipe, Vol. 96" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
-                    <MarkerCategory name="complaints" DisplayName="Complaints" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
+                    <MarkerCategory name="req" IsSeparator="1" DisplayName="REQUIRE: Tier 3 Hullgarden Renown Mastery"/>
+                    <MarkerCategory name="rock" DisplayName="The Lonely Rock" iconFile="Data/Images/Icons/Blank.png" maxSize="16"/>
+                    <MarkerCategory name="grammie" DisplayName="Grammie West's Best Recipe, Vol. 96" iconFile="Data/Images/Icons/Blank.png" maxSize="16"/>
+                    <MarkerCategory name="complaints" DisplayName="Complaints" iconFile="Data/Images/Icons/Blank.png" maxSize="16"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="skritcher" DisplayName="Wavehawk Scritcher" achievementId="8981" iconFile="Data/Images/Icons/Wavehawk.png" inGameVisibility="0" mapDisplaySize="32">
@@ -318,6 +387,11 @@
                 </MarkerCategory>
                 
             </MarkerCategory>
+            <!--
+            <MarkerCategory name="starlit" DisplayName="Starlit Weald (WiP)">
+                <MarkerCategory name="backdoor" DisplayName="Backdoor Exploit [H]" achievementId="9007" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16"/>
+            </MarkerCategory>
+            -->
         </MarkerCategory>
             
     </MarkerCategory>
