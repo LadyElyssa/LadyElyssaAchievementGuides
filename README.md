@@ -105,6 +105,11 @@ Hidden Achievements had an [H] next to them and are, by default, toggled off. Th
 * Janthir Syntri
 * Mistburned Barrens
 * Bava Nisos
+
+## Visions of Eternity ##
+* Story Achievements
+* Shipwreck Strand
+* Starlit Weald
   
 ### Want to know more? ### 
 * [User:Lady Elyssa @ Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
