@@ -22,7 +22,7 @@ Principles
 This pack currently covers:
 
 ## Achievements ##
-Hidden Achievements had an [H] next to them and are, by default, toggled off. This lets people know that there is a hidden achievement while not completely spoiling it for those wanting to discover it themselves.
+Hidden Achievements have an [H] next to them and are, by default, toggled off. This lets people know that there is a hidden achievement while not completely spoiling it for those wanting to discover it themselves.
 
 ## Diving Goggles ##
 * Dive Master
@@ -41,70 +41,53 @@ Hidden Achievements had an [H] next to them and are, by default, toggled off. Th
 
 ## Living World Season 2 - Glint's Prophecy ##
 * Story Achievements
-* Dry Top
-* The Silverwastes
+* Map Achievments
+   * Dry Top - The Silverwastes
 
-## Heart of Thorns ##
+## Heart of Thorns (Expansion) ##
 * Story Achievements
-* Verdant Brink
-* Auric Basin
-* Tangled Depths
-* Dragons Stand
+* Map Achievments
+   * Verdant Brink - Auric Basin - Tangled Depths - Dragons Stand
 
 ## Living World Season 3 - Glint's Legacy ##
 * Story Achievements
-* Out of the Shadows
-* Rising Flames
-* A Crack in the Ice
-* The Head of the Snake
-* Flashpoint
-* One Path Ends
+* Map Achievements
+   * Bloodstone Fen - Ember Bay - Bitterfrost Frontier - Lake Doric - Draconis Mons - Siren's Landing
 
-## Path of Fire ##
+## Path of Fire (Expansion) ##
 * Story Achievements
-* Crystal Oasis
-* Desert Highlands
-* Elon Riverlands
-* The Desolation
-* Domain of Vabbi
+* Map Achievments
+   * Crystal Oasis - Desert Highlands - Elon Riverlands - The Desolation - Domain of Vabbi
 
 ## Living World Season 4 - Rise of Kralkatorrik ##
 * Story Achievements
-* Domain of Istan
-* Sandswept Isles
-* Domain of Kourna
-* Jahai Bluffs
-* Thunderhead Peaks
-* Dragonfall
+* Map Achievments
+   * Domain of Istan - Sandswept Isles - Domain of Kourna - Jahai Bluffs - Thunderhead Peaks - Dragonfall
   
 ## Living World Season 5 - The Icebrood Saga
 * Story Achievements
-* Grothmar Valley
-* Bjora Marches
-* Drizzlewood Coast
+* Map Achievments
+   * Grothmar Valley - Bjora Marches - Drizzlewood Coast
 
-## End of Dragons ##
+## End of Dragons (Expansion) ##
 * Story Achievements
-* Seitung Province
-* New Kaineng City
-* Arborstone
-* The Echovald Wilds
-* Dragon's End
-* Gyala Delve
+* Map Achievments
+   * Seitung Province - New Kaineng City - Arborstone - The Echovald Wilds - Dragon's End - Gyala Delve
 
-## Secrets of the Obscure ##
+## Secrets of the Obscure (Expansion) ##
 * Story Achievements
-* Skywatch Archipelago
-* The Wizard's Tower
-* Amnytas
-* Inner Nayos
+* Map Achievments
+   * Skywatch Archipelago - The Wizard's Tower - Amnytas - Inner Nayos
 
-## Janthir Wilds ##
+## Janthir Wilds (Expansion) ##
 * Story Achievements
-* Lowland Shore
-* Janthir Syntri
-* Mistburned Barrens
-* Bava Nisos
+* Map Achievments
+   * Lowland Shore - Janthir Syntri - Mistburned Barrens - Bava Nisos
+
+## Visions of Eternity (Expansion) ##
+* Story Achievements
+* Map Achievments
+   * Shipwreck Strand - Starlit Weald - Map 3 (TBA) - Map 4 (TBA)
   
 ### Want to know more? ### 
 * [User:Lady Elyssa @ Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
