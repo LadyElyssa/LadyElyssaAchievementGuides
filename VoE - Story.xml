@@ -2,11 +2,16 @@
     <POIs>
         <!-- STORY ACHIEVEMENTS -->
 
-        <!-- PROLOGUE :  -->
+        <!-- PROLOGUE: On the Sly -->
 
         <POI MapID="1602" xpos="-13.6564" ypos="18.2451" zpos="-13.8434" type="leag.voe.story.ledger" GUID="jmgqjOc86k+HcCOT+u3hyg=="/>
         <POI MapID="1598" xpos="12.2436" ypos="108.399" zpos="-496.585" type="leag.voe.story.zeba" GUID="vMkKxrtXKkK5fyZbT1lOaA=="/>
         <POI MapID="1598" xpos="-21.8118" ypos="110.277" zpos="-462.987" type="leag.voe.story.zeba" GUID="gzXEXJEzMk6v1K6bvrBriw=="/>
+        <Trail type="leag.voe.story.out" trailData="Data/VoE/Story/And Stay Out!.trl"/>
+        <POI MapID="1599" xpos="342.892" ypos="55.5519" zpos="-136.995" type="leag.voe.story.divination.left" GUID="S8EwECgIYEaJx438ev6d+A=="/>
+        <POI MapID="1599" xpos="-14.4712" ypos="57.2105" zpos="145.985" type="leag.voe.story.divination.left" GUID="T/6O7I2EAUywCdPpVIr7Hw=="/>
+        <POI MapID="1599" xpos="-138.316" ypos="57.1966" zpos="-41.8818" type="leag.voe.story.divination.right" GUID="AQj+i8zAXUe8lbBs6Qyu8w=="/>
+        <POI MapID="1599" xpos="-330.818" ypos="57.0205" zpos="-266.448" type="leag.voe.story.divination.straight" GUID="OoPOh4RAvESmU2nQVgQYdQ=="/>
 
         <!-- CHAPTER 2: Solid Ground  -->
         <POI MapID="1595" xpos="474.531" ypos="34.9678" zpos="107.487" type="leag.voe.story.cultural.intel" GUID="wWWwhxS+DUWYFoEaqIHY7Q=="/>

@@ -349,12 +349,15 @@
         <POI MapID="1595" xpos="224.648" ypos="-1.273001" zpos="-200.13" type="leag.voe.shipwreck.tomes.tattered" GUID="qsk0NY9Dj0SwlMLjDBV0wA=="/>
         <POI MapID="1595" xpos="-456.941" ypos="-1.80986" zpos="399.319" type="leag.voe.shipwreck.tomes.jernal" GUID="cJflSihyRUOwVGHu8JGNSw=="/>
         <POI MapID="1595" xpos="418.447" ypos="14.8234" zpos="-25.8361" type="leag.voe.shipwreck.tomes.notice" GUID="ciitHMfRmUSaYV44ZuMGFg=="/>
-        <POI MapID="1595" xpos="410.766" ypos="27.852" zpos="143.041" type="leag.voe.shipwreck.tomes.rock" GUID="b2vejATMeUeFtrTopdK3KQ=="/>
-        <POI MapID="1595" xpos="410.766" ypos="27.852" zpos="143.041" type="leag.voe.shipwreck.tomes.grammie" GUID="sifvuZU1TEutycK7WnbW8Q=="/>
-        <POI MapID="1595" xpos="410.766" ypos="27.852" zpos="143.041" type="leag.voe.shipwreck.tomes.complaints" GUID="ew8r0Dnh+Umu2ERo2cgpkA=="/>
         <!-- The Lovely Rock -->
+        <POI MapID="1595" xpos="410.766" ypos="27.852" zpos="143.041" type="leag.voe.shipwreck.tomes.rock" GUID="b2vejATMeUeFtrTopdK3KQ=="/>
         <!-- Grammie West -->
+        <POI MapID="1595" xpos="410.766" ypos="27.852" zpos="143.041" type="leag.voe.shipwreck.tomes.grammie" GUID="sifvuZU1TEutycK7WnbW8Q=="/>
         <!-- Complaints -->
+        <POI MapID="1595" xpos="410.766" ypos="27.852" zpos="143.041" type="leag.voe.shipwreck.tomes.complaints" GUID="ew8r0Dnh+Umu2ERo2cgpkA=="/>
+        
+        
+        
         
         
         
