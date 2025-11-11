@@ -1,8 +1,3 @@
-## ArenaNet Partner ##
-You can Buy Guild Wars 2 using these links:
-* BUY Guild Wars 2 Expansion: http://guildwars2.go2cloud.org/aff_c?offer_id=34&aff_id=718
-* Free to Play Link: http://guildwars2.go2cloud.org/aff_c?offer_id=19&aff_id=718
-
 ## Lady Elyssa's Achievement & Collection Guides ##
   
 For more information on Getting Started with either [GW2 TacO](https://www.gw2taco.com/) or [Blish HUD](https://blishhud.com/), see [here](https://github.com/LadyElyssa/LadyElyssaAchievementGuides/wiki/Getting-Started).
@@ -88,11 +83,18 @@ Hidden Achievements have an [H] next to them and are, by default, toggled off. T
 * Story Achievements
 * Map Achievments
    * Shipwreck Strand - Starlit Weald - Map 3 (TBA) - Map 4 (TBA)
-  
-### Want to know more? ### 
-* [User:Lady Elyssa @ Guild Wars 2 Wiki](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
- 
+
 ### Latest Pack Direct Download Link: ###
 * [LadyElyssa.taco](https://github.com/LadyElyssa/LadyElyssaAchievementGuides/releases/latest/download/LadyElyssaAP.taco)
+
+### Want to know more? ### 
+* GW2 :: Lady Elyssa.2469
+* Discord :: [https://discord.gg/XwAqz6jCdv](https://discord.gg/XwAqz6jCdv)
+* GW2 Wiki :: [https://wiki.guildwars2.com/wiki/User:Lady_Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
  
+### ArenaNet Partner ###
+You can Buy Guild Wars 2 using these links:
+* BUY Guild Wars 2 Expansion: http://guildwars2.go2cloud.org/aff_c?offer_id=34&aff_id=718
+* Free to Play Link: http://guildwars2.go2cloud.org/aff_c?offer_id=19&aff_id=718
+
 <img width="300" height="60" alt="image" src="https://github.com/user-attachments/assets/dac2cf8d-5162-44c2-af97-bad05aaf91cc" />
