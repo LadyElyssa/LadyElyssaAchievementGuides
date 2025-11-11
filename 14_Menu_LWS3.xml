@@ -694,8 +694,6 @@
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
                     <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
                     <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
                 </MarkerCategory>
                 
                 <MarkerCategory name="wurm" DisplayName="Verm the Burnin' Wurm" iconFile="Data/Images/Vermignus.png" inGameVisibility="0" mapDisplaySize="64" achievementId="3121" tip-name="Vermignus"/>

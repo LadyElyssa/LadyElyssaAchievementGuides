@@ -41,29 +41,72 @@
 
                 <MarkerCategory name="ch3" IsSeparator="1" DisplayName="CHAPTER 3: Eyes, Ears, and Arms"/>
                 <MarkerCategory name="flawless" DisplayName="Flawless Hacker" achievementId="8944" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" heightOffset="-0.5"/>
-                <MarkerCategory name="enemy" DisplayName="The Enemy of My Enemy Is Still My Enemy" achievementId="8896" iconFile="Data/Images/Icons/Talk.png" maxSize="16" heightOffset="-0.5"/>
+                <MarkerCategory name="enemy" DisplayName="The Enemy of My Enemy Is Still My Enemy" achievementId="8896" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="24" heightOffset="-0.5"/>
                 <MarkerCategory name="overindulgence" DisplayName="Overindulgence" achievementId="8949" iconFile="Data/Images/Icons/Talk.png" maxSize="16" heightOffset="-0.5"/>
                 
                 <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: Truths Unearthed"/>
                 <MarkerCategory name="beatem" DisplayName="If You Can't Beat 'Em" achievementId="9075" iconFile="Data/Images/Emote - Dance.png" maxSize="16" heightOffset="-0.5"/>
-                <MarkerCategory name="swift" DisplayName="Swift Skimming" achievementId="9079" iconFile="Data/Images/Icons/Orb - Green - S.png" maxSize="16" heightOffset="-0.5"/>
+                <MarkerCategory name="swift" DisplayName="Swift Skimming" achievementId="9079" iconFile="Data/Images/Icons/Targeted Object - Green.png" maxSize="32" heightOffset="-0.2"/>
+                
+                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: Beneath the Canopy" achievementId="9017"/>
+                <MarkerCategory name="agents" DisplayName="Track down scouts around Foothold Bivouac">
+                    <MarkerCategory name="vigil" DisplayName="Vigil Scout Premhoc" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="kestrel" DisplayName="Kestrel Choole" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="scout" DisplayName="Scout Yakuti" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="ward" DisplayName="Astral Ward Scout Trima" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="ch6" IsSeparator="1" DisplayName="CHAPTER 6: Ruins of the Old World"/>
+                
+                <MarkerCategory name="digging" DisplayName="Digging for Knowledge" achievementId="8988">
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="ch7" IsSeparator="1" DisplayName="CHAPTER 7: Fumbling in the Dark"/>
+                <MarkerCategory name="mistakes" DisplayName="A Journal of Mistakes" achievementId="9005" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.25" mapDisplaySize="32"/>
+
+                <MarkerCategory name="ch8" IsSeparator="1" DisplayName="CHAPTER 8: Path of Divinity"/>
+                <MarkerCategory name="creation" DisplayName="A Fresh Start on Life" achievementId="8948" iconFile="Data/Images/A Fresh Start on Life.png" mapDisplaySize="96" inGameVisibility="0"/>
+                <MarkerCategory name="doorstep" DisplayName="The Doorstep of Divinity" achievementId="8946">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="numbers" DisplayName="Trail Number">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="collectible" IsSeparator="1" DisplayName="COLLECTIBLES"/>
+                    <MarkerCategory name="sample" DisplayName="Castoran Magic Sample"  iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="shard" DisplayName="Inert Shadowstone Shard"  iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="asrsketch" DisplayName="Arcane Spell Rune Sketch"  iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="astrolabe" DisplayName="Seer Astrolabe"  iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="platter" DisplayName="Gold Ceremonial Platter"  iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="tome" DisplayName="Ancient Tome"  iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="isrsketch" DisplayName="Ineffable Spell Rune Sketch"  iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="box" DisplayName="Misplaced Research Log Box"  iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="tablet" DisplayName="Weathered Stone Tablet"  iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="scroll" DisplayName="Crumbling Scroll"  iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="vial" DisplayName="Vial of Whispering Water"  iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                    <MarkerCategory name="msrsketch" DisplayName="Murmuring Spell Rune Sketch"  iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="entrance" DisplayName="Entrance to the Hidden Vault (Trail)">
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Orb - Green - S.png" maxSize="16" mapDisplaySize="32" heightOffset="-0.25"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="impulse" DisplayName="No Impulse Control" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" mapDisplaySize="32" heightOffset="-0.25"/>
 
                 <!--
-                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: "/>
-                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" heightOffset="-0.5"/>
-                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" heightOffset="-0.5"/>
-                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" heightOffset="-0.5"/>
-                -->
-                <!--                
-
-                <MarkerCategory name="ch6" IsSeparator="1" DisplayName="CHAPTER 6: "/>
-                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
-
-                <MarkerCategory name="ch7" IsSeparator="1" DisplayName="CHAPTER 7: "/>
-                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
-
-                <MarkerCategory name="ch8" IsSeparator="1" DisplayName="CHAPTER 8: "/>
-                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
 
                 <MarkerCategory name="ch9" IsSeparator="1" DisplayName="CHAPTER 9: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
@@ -139,7 +182,6 @@
                     <MarkerCategory name="captain" DisplayName="Find Captain Leo the Relentless" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" mapDisplaySize="32" heightOffset="-0.25"/>
                 </MarkerCategory>
 
-                <!-- 23005 -->
                 <MarkerCategory name="samantha" DisplayName="Converse with Samantha" achievementId="9054" iconFile="Data/Images/Icons/Samantha.png" maxSize="16" mapDisplaySize="32"/>
 
                 <MarkerCategory name="wavehawks" DisplayName="Do Feed the Wavehawks" achievementId="8957" iconFile="Data/Images/Icons/Wavehawk Treat.png" maxSize="16" mapDisplaySize="32"/>
@@ -150,7 +192,7 @@
                 
                 <MarkerCategory name="initiate" DisplayName="Freebooter Initiate" achievementId="8882">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Mini-Dungeon/Freebooter Initiate.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Mini-Dungeons/Freebooter Initiate.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="ghosts" DisplayName="Ghosts Need Friends Too" achievementId="8971" iconFile="Data/Images/Icons/Ghost Child.png" maxSize="32" mapDisplaySize="32"/>
@@ -170,7 +212,7 @@
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Adventures/Glimmering Arches Grand Prix.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="grotto" DisplayName="Grotto Aficionado (WiP) [H]" achievementId="8873" iconFile="Data/Images/Swirl - Teal.png" inGameVisibility="0" mapDisplaySize="128">
+                <MarkerCategory name="grotto" DisplayName="Grotto Aficionado [H]" achievementId="8873" iconFile="Data/Images/Swirl - Teal.png" inGameVisibility="0" mapDisplaySize="128">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="caves" DisplayName="Underwater Caves (WIP)" mapDisplaySize="16" inGameVisibility="0"/>
                     <MarkerCategory name="grotto" IsSeparator="1" DisplayName="GROTTO'S"/>
@@ -317,6 +359,12 @@
                 
                 <MarkerCategory name="ponder" DisplayName="Ponder the Pools" achievementId="8950" iconFile="Data/Images/Icons/Tide Pool.png" maxSize="16" mapDisplaySize="48"/>
 
+                <MarkerCategory name="freshwater" DisplayName="Shipwreck Strand's Freshest Water" achievementId="9051" iconFile="Data/Images/Thirsty.png" maxSize="16" mapDisplaySize="48"/>
+                <MarkerCategory name="scramble" DisplayName="Skimmer-Net Scramble" achievementId="8860">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Adventures/Skimmer-Net Scramble.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+                
                 <MarkerCategory name="copse" DisplayName="Soaring Copse Jumping Puzzle" achievementId="8976" fadeNear="1200" fadeFar="2400">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Jumping Puzzles/Soaring Copse.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
@@ -324,14 +372,10 @@
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="freshwater" DisplayName="Shipwreck Strand's Freshest Water" achievementId="9051" iconFile="Data/Images/Thirsty.png" maxSize="16" mapDisplaySize="48"/>
-                <MarkerCategory name="scramble" DisplayName="Skimmer-Net Scramble" achievementId="8860">
+                <MarkerCategory name="fireworks" DisplayName="Soaring Sands Fireworks" achievementId="9058" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" animSpeed="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Adventures/Skimmer-Net Scramble.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
-                </MarkerCategory>
-                
-                
-                <MarkerCategory name="fireworks" DisplayName="Soaring Sands Fireworks" achievementId="9058" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png">
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Adventures/Flying Fireworks.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="colors" IsSeparator="1" DisplayName="COLOURS"/>
                     <MarkerCategory name="red" DisplayName="Red" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" mapDisplaySize="32"/>
                     <MarkerCategory name="yellow" DisplayName="Yellow" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" mapDisplaySize="32" fadeNear="5000" fadeFar="7500"/>
                     <MarkerCategory name="blue" DisplayName="Blue" iconFile="Data/Images/Icons/Orb - Blue - S.png" maxSize="16" mapDisplaySize="32" fadeNear="5000" fadeFar="7500"/>
@@ -347,7 +391,7 @@
                     <MarkerCategory name="kash" DisplayName="Meet Kash and help them lead the Hullgardeners" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="64"/>
                 </MarkerCategory>
                 -->
-                <MarkerCategory name="tomes" DisplayName="Tropical Tomes (WIP)" achievementId="8894" iconFile="Data/Images/Icons/Journal Fragment.png" maxSize="16" mapDisplaySize="32">
+                <MarkerCategory name="tomes" DisplayName="Tropical Tomes" achievementId="8894" iconFile="Data/Images/Icons/Journal Fragment.png" maxSize="16" mapDisplaySize="32">
                     <MarkerCategory name="letter" DisplayName="Letter" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
                     <MarkerCategory name="record" DisplayName="Transaction Record" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
                     <MarkerCategory name="whales" DisplayName="On the Beaching of Whales" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
@@ -359,9 +403,9 @@
                     <MarkerCategory name="tattered" DisplayName="Tattered Journal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
                     <MarkerCategory name="jernal" DisplayName="My Jernal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
                     <MarkerCategory name="req" IsSeparator="1" DisplayName="REQUIRE: Tier 3 Hullgarden Renown Mastery"/>
-                    <MarkerCategory name="rock" DisplayName="The Lonely Rock" iconFile="Data/Images/Icons/Blank.png" maxSize="16"/>
-                    <MarkerCategory name="grammie" DisplayName="Grammie West's Best Recipe, Vol. 96" iconFile="Data/Images/Icons/Blank.png" maxSize="16"/>
-                    <MarkerCategory name="complaints" DisplayName="Complaints" iconFile="Data/Images/Icons/Blank.png" maxSize="16"/>
+                    <MarkerCategory name="rock" DisplayName="The Lonely Rock" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.25"/>
+                    <MarkerCategory name="grammie" DisplayName="Grammie West's Best Recipe, Vol. 96" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.25"/>
+                    <MarkerCategory name="complaints" DisplayName="Complaints" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.25"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="skritcher" DisplayName="Wavehawk Scritcher" achievementId="8981" iconFile="Data/Images/Icons/Wavehawk.png" inGameVisibility="0" mapDisplaySize="32">
@@ -391,11 +435,150 @@
                 </MarkerCategory>
                 
             </MarkerCategory>
-            <!--
+            
             <MarkerCategory name="starlit" DisplayName="Starlit Weald (WiP)">
-                <MarkerCategory name="backdoor" DisplayName="Backdoor Exploit [H]" achievementId="9007" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16"/>
+                
+                <MarkerCategory name="journey" DisplayName="A Magical Journey" achievementId="9048">
+                    <MarkerCategory name="sw" IsSeparator="1" DisplayName="STARLIT WEALD"/>
+                    <MarkerCategory name="talk" DisplayName="Talk to Hiberus Mythseeker at the Priory Expedition" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="20" mapDisplaySize="40"/>
+                    <MarkerCategory name="trapped" DisplayName="Magic from a Trapped Room" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0">
+                        <MarkerCategory name="orb" DisplayName="Fractured Magical Essence" iconFile="Data/Images/Icons/Orb - White - S.png" mapDisplaySize="32" inGameVisibility="1" minSize="16" maxSize="20" heightOffset="-0.25"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="spirit" DisplayName="Essence of Seer Spirit" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
+                    <MarkerCategory name="relics" DisplayName="Fragments of Seer Relics" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
+                    <MarkerCategory name="flower" DisplayName="Magic from an Ancient Flower" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
+                    <MarkerCategory name="weapon" DisplayName="Remnants of a Seer Weapon" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0">
+                        <MarkerCategory name="orb" DisplayName="Fractured Magical Essence" iconFile="Data/Images/Icons/Orb - White - S.png" mapDisplaySize="32" inGameVisibility="1" minSize="16" maxSize="20" heightOffset="-0.25"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="orb" DisplayName="Orb of Skimmer-Collected Magic" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
+                    <MarkerCategory name="gwyldell" DisplayName="Residue from a Subdued Gwyldell" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0">
+                        <MarkerCategory name="gwyldell" DisplayName="Gwyldell" iconFile="Data/Images/Circlet.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="choya" DisplayName="Memories of Life as a Choya" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0">
+                        <MarkerCategory name="orb" DisplayName="Fractured Magical Essence" iconFile="Data/Images/Icons/Orb - White - S.png" mapDisplaySize="32" inGameVisibility="1" minSize="16" maxSize="20" heightOffset="-0.25"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="ss" IsSeparator="1" DisplayName="SHIPWRECK STRAND"/>
+                    <MarkerCategory name="research" DisplayName="Results of Magical Research" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
+                    <MarkerCategory name="residue" DisplayName="Carcinized Magical Residue" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
+                    <MarkerCategory name="checkin" DisplayName="Talk to Hiberus Mythseeker at the Priory Expedition" iconFile="Data/Images/Icons/Blank.png"/>
+                    <MarkerCategory name="core" IsSeparator="1" DisplayName="CENTRAL TYRIA"/>
+                    <MarkerCategory name="jormag" DisplayName="Remnant of Jormag's Magic (Frostgorge Sound)" iconFile="Data/Images/Icons/Collections.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="kralk" DisplayName="Remnant of Kralkatorrik's Magic (Field of Ruin)" iconFile="Data/Images/Icons/Collections.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="primordus" DisplayName="Remnant of Primordus's Magic (Mount Maelstrom)" iconFile="Data/Images/Icons/Collections.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="zhaitan" DisplayName="Remnant of Zhaitan's Magic (Cursed Shore)" iconFile="Data/Images/Icons/Collections.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="soowon" DisplayName="Remnant of Soo Won's Magic (Mount Maelstrom)" iconFile="Data/Images/Icons/Collections.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="mord" DisplayName="Remnant of Mordremoth's Magic (Brisban WIldlands)" iconFile="Data/Images/Icons/Collections.png" mapDisplaySize="48" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="backdoor" DisplayName="Backdoor Exploit [H]" achievementId="9007" iconFile="Data/Images/Icons/Backdoor Exploit.png" mapDisplaySize="32"/>
+
+                <MarkerCategory name="birdie" DisplayName="Birdie Benefactor Jumping Puzzle" achievementId="9028" fadeNear="1200" fadeFar="2400">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Jumping Puzzles/Birdie Benefactor.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" inGameVisibility="1" mapVisibility="0" minSize="12" maxSize="24"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="choya" DisplayName="Choya Champion Adventure / Race">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Jumping Puzzles/The Great Choya Race.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="language" DisplayName="Choya Language Expert" achievementId="8967" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
+
+                <MarkerCategory name="dubious" DisplayName="Dubious Dancing (Reqs: Choya Dance event)" achievementId="9069" iconFile="Data/Images/Emote - Dance.png"/>
+
+                <MarkerCategory name="escape" DisplayName="Escape Artist: Defense Systems" achievementId="8886">
+                    <MarkerCategory name="turret" DisplayName="Turret Trap" iconFile="Data/Images/Icons/Orb - Blue.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="progenitor" DisplayName="Illusory Progenitor" iconFile="Data/Images/Icons/Orb - Red.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="spirit" DisplayName="Spirit Link" iconFile="Data/Images/Icons/Orb - Purple.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="cursed" DisplayName="Cursed Artifact" iconFile="Data/Images/Icons/Orb - Yellow.png" mapDisplaySize="32" inGameVisibility="0"/>
+                    <MarkerCategory name="grinder" DisplayName="Arcane Grinder" iconFile="Data/Images/Icons/Orb - White.png" mapDisplaySize="32" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="grilling" DisplayName="Grilling Buddies (Reqs: Choya Dance event)" achievementId="9045" iconFile="Data/Images/Grilling Buddies.png"/>
+
+                <MarkerCategory name="gwyl" DisplayName="Gwyl Rings" achievementId="8919" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="0">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="talk" DisplayName="Talk to Astral Ward Researcher Cattra" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="20" mapDisplaySize="40"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                    <MarkerCategory name="numbers" DisplayName="Trail Number">
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
+                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="obj" IsSeparator="1" DisplayName="OBJECTIVES"/>
+                    <MarkerCategory name="collectible" IsSeparator="1" DisplayName="COLLECTIBLES"/>
+                    <MarkerCategory name="rock" DisplayName="rock gwyl ring"/>
+                    <MarkerCategory name="saurian" DisplayName="saurian egg gwyl ring"/>
+                    <MarkerCategory name="fern" DisplayName="bright fern gwyl ring"/>
+                    <MarkerCategory name="poppy" DisplayName="blue poppy gwyl ring"/>
+                    <MarkerCategory name="mushroom" DisplayName="red mushroom gwyl ring"/>
+                    <MarkerCategory name="coconut" DisplayName="coconut gwyl ring"/>
+                    <MarkerCategory name="frog" DisplayName="frog gwyl ring"/>
+                    <MarkerCategory name="butterfly" DisplayName="butterfly gwyl ring"/>
+                    <MarkerCategory name="wildflower" DisplayName="wildflower gwyl ring"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="huntmaster" DisplayName="Huntmaster of Castora (Reqs: Hunter's Camp Heart)" achievementId="8938" iconFile="Data/Images/Book.png" mapDisplaySize="40" inGameVisibility="0"/>
+
+                <MarkerCategory name="hologram" DisplayName="Inquest Hologram" achievementId="9008" iconFile="Data/Images/Icons/Hexagon - Red.png" mapDisplaySize="64" inGameVisibility="0"/>
+
+                <MarkerCategory name="leyline" DisplayName="Ley Line Adventure">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Adventures/Ley-Line Rider.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="magic" DisplayName="Meandering Magic">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Jumping Puzzles/Meandering Magic.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="location" DisplayName="MAP ZONE" IsSeparator="1"/>
+                    <MarkerCategory name="sw" DisplayName="Starlit Weald"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="old" DisplayName="Old Magic Adventure" achievementId="9018" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" animSpeed="0">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Jumping Puzzles/Old Magic.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                        <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="spelunker" DisplayName="Secret Spelunker" achievementId="8918" animSpeed="0">
+                    <MarkerCategory name="hidden" DisplayName="Hidden Aquifer"/>
+                    <MarkerCategory name="lost" DisplayName="Lost Grotto"/>
+                    <MarkerCategory name="sanctum" DisplayName="Sparkling Sanctum"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="history" DisplayName="Shattered History" achievementId="8907" iconFile="Data/Images/Icons/Stone Tablet Fragment.png" mapDisplaySize="40" inGameVisibility="0"/>
+
+                <MarkerCategory name="sketch" DisplayName="Sketch Artist" achievementId="8881" iconFile="Data/Images/Circlet.png" mapDisplaySize="40" inGameVisibility="0"/>
+
+                <MarkerCategory name="soup" DisplayName="Soup's On" achievementId="9033">
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="talk" DisplayName="Talk to Kjartan the Cook in Hunter's Camp" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="20" mapDisplaySize="40"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="bodyguard" DisplayName="Project Bodyguard" achievementId="9077" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
+
+                <MarkerCategory name="rampage" DisplayName="Rampage Router" achievementId="8902" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
+
+                <MarkerCategory name="tread" DisplayName="Tread Lightly [H]" achievementId="8941" iconFile="Data/Images/Icons/Gwyllian.png" mapDisplaySize="48" inGameVisibility="0"/>
+
+                <MarkerCategory name="delivery" DisplayName="Wavehawk Delivery" achievementId="8920" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
+
+                <MarkerCategory name="savior" DisplayName="Wavehawk Savior" achievementId="8856" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0">
+                        <MarkerCategory name="trap" DisplayName="Wavehawk Trap" iconFile="Data/Images/Circle - Red.png" mapDisplaySize="40" inGameVisibility="0"/>
+                    </MarkerCategory>
+
             </MarkerCategory>
-            -->
+            
         </MarkerCategory>
             
     </MarkerCategory>
