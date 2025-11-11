@@ -37,15 +37,91 @@
         <POI MapID="1595" xpos="396.045" ypos="0.445987" zpos="196.597" type="leag.voe.story.fundamentals.toy" GUID="GzKZqFeEl0SonWZFkfQ0eA=="/>
         <POI MapID="1595" xpos="490.939" ypos="0.417061" zpos="-354.717" type="leag.voe.story.fundamentals.token" GUID="h8mCvSGajE+MK8VWSYpDVA=="/>
 
-        <POI MapID="1595" xpos="-561.438" ypos="15.4029" zpos="-449.544" type="leag.voe.story.enemy" GUID="ek05HjC+60mk87WZ+I69Rw=="/>
+        <POI MapID="1595" xpos="-542.2537" ypos="15.40187" zpos="-442.1848" type="leag.voe.story.enemy" GUID="ek05HjC+60mk87WZ+I69Rw=="/>
         <POI MapID="1595" xpos="-555.456" ypos="15.51" zpos="-445.1" type="leag.voe.story.enemy" GUID="X0NYxC4gSUmuIFQis1S+9Q=="/>
         <POI MapID="1595" xpos="-542.917" ypos="15.9138" zpos="-432.81" type="leag.voe.story.enemy" GUID="14kXgl4YAUiD49riQBJDWQ=="/>
 
         <POI MapID="1595" xpos="-538.166" ypos="15.9281" zpos="-436.594" type="leag.voe.story.overindulgence" GUID="SyRV/EtxAkOKOPUdhAwwew=="/>
 
+        <!-- CHAPTER 4: Truths Unearthed -->
         <POI MapID="1595" xpos="-151.871" ypos="0.465811" zpos="49.1378" type="leag.voe.story.swift" GUID="H60GV6VhfkmQ0tL4iU93BQ=="/>
         <POI MapID="1595" xpos="42.5208" ypos="0.40086" zpos="168.506" type="leag.voe.story.swift" GUID="8eO8VcV1iUmjGuQhT1GROg=="/>
         <POI MapID="1595" xpos="-12.3427" ypos="0.220468" zpos="343.403" type="leag.voe.story.swift" GUID="bkzE0vgW/kiQum9drcnxKg=="/>
         
+        <!-- CHAPTER 5: Beneath the Canopy -->
+        <POI MapID="1593" xpos="268.883" ypos="23.6829" zpos="-393.686" type="leag.voe.story.agents.ward" GUID="hnvgbONd9EiBoxK5JJSDiw=="/>
+        <POI MapID="1593" xpos="357.121" ypos="2.1736" zpos="-528.253" type="leag.voe.story.agents.vigil" GUID="YnOqSnJgS0uWEAza1RP4GA=="/>
+        <POI MapID="1593" xpos="617.421" ypos="12.9038" zpos="-485.081" type="leag.voe.story.agents.kestrel" GUID="3ZKJ1ySbo02R6VachCsLsw=="/>
+        <POI MapID="1593" xpos="719.699" ypos="3.57754" zpos="-341.056" type="leag.voe.story.agents.scout" GUID="Dz23Mdkb2EyrKISPxSilQg=="/>
+
+        <!-- CHAPTER 6: Ruins of the Old World -->
+        <Trail type="leag.voe.story.digging.trail" trailData="Data/VoE/Story/Ruins of the Old World 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <Trail type="leag.voe.story.digging.trail" trailData="Data/VoE/Story/Ruins of the Old World 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <Trail type="leag.voe.story.digging.trail" trailData="Data/VoE/Story/Ruins of the Old World 3.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <POI MapID="1593" xpos="116.103" ypos="36.147" zpos="43.3981" type="leag.voe.story.digging.icon" GUID="cLHIxKHwpkSuz2/JJIX27Q=="/>
+        <POI MapID="1593" xpos="167.128" ypos="1.8484" zpos="-181.862" type="leag.voe.story.digging.icon" GUID="QO7z98JPIEW4YGD144959w=="/>
+        <POI MapID="1593" xpos="463.671" ypos="3.52781" zpos="-13.7283" type="leag.voe.story.digging.icon" GUID="oD02kHCXWEqhbMHityq/gA=="/>
+        <POI MapID="1593" xpos="828.432" ypos="8.50628" zpos="33.1893" type="leag.voe.story.digging.icon" GUID="gEQEV9yWCUuAJlJpm48Jfg=="/>
+        <POI MapID="1593" xpos="697.772" ypos="0.480068" zpos="178.41" type="leag.voe.story.digging.icon" GUID="BkAGpAskfkG+H/slkCVA+A=="/>
+        <POI MapID="1593" xpos="820.773" ypos="4.43908" zpos="315.208" type="leag.voe.story.digging.icon" GUID="etRVVrqdPEqouK5nA2B1QQ=="/>
+        <POI MapID="1593" xpos="438.304" ypos="1.70545" zpos="-575.949" type="leag.voe.story.digging.icon" GUID="D7E5RQOf0Ue88U+jt5ezxA=="/>
+        <POI MapID="1593" xpos="197.437" ypos="9.41042" zpos="380.148" type="leag.voe.story.digging.icon" GUID="EfYXdj+t6Uy1sHMBL0UKCQ=="/>
+
+        <!-- CHAPTER 7: Fumbling in the Dark -->
+        <POI MapID="1600" xpos="-479.909" ypos="81.4276" zpos="443.683" type="leag.voe.story.mistakes" GUID="Kz3IWj8aOUaY6gdvre+1OQ=="/>
+        <POI MapID="1600" xpos="-384.186" ypos="64.9863" zpos="443.195" type="leag.voe.story.mistakes" GUID="3LFIcFnUZ0KQM9F6GFioGQ=="/>
+        <POI MapID="1600" xpos="-405.107" ypos="48.8229" zpos="382.367" type="leag.voe.story.mistakes" GUID="ZOqQdQHUxk2Ke64wjwrJZg=="/>
+        <POI MapID="1600" xpos="-354.875" ypos="32.5704" zpos="305.316" type="leag.voe.story.mistakes" GUID="aBORzP4GBk+5lb7YIQ7rmw=="/>
+
+        <POI MapID="1593" xpos="-148.211" ypos="14.2119" zpos="-413.786" type="leag.voe.story.creation" GUID="UWLw8QOqnEKkv3Az5MHlXQ=="/>
+
+        <!-- CHAPTER 8: The Path of Divinity" -->
+        <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 4.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+        <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 7.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+        <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+        <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 5.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+        <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 6.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+        <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+        <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 13.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+        <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 12.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+        <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 10.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+        <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 11.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+        <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 9.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+        <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 8.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
+        <POI MapID="1593" xpos="698.701" ypos="34.8577" zpos="571.837" type="leag.voe.story.doorstep.wp" GUID="iBkk5Ov3VUSS+E/A55YRUw==" copy="[&BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
+        <POI MapID="1595" xpos="-291.116" ypos="2.22401" zpos="-809.656" type="leag.voe.story.doorstep.wp" GUID="KYAWpMUkV0iFMbfb8dP4sA==" copy="[&BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
+        <POI MapID="1595" xpos="184.222" ypos="-57.6422" zpos="-276.807" type="leag.voe.story.doorstep.wp" GUID="LqebU7pbXU+lr9R7tEpZmQ==" copy="[&BMwPAAA=]" copy-message="Hullgarden Pier Waypoint"/>
+        <POI MapID="1595" xpos="-465.529" ypos="0.229617" zpos="392.456" type="leag.voe.story.doorstep.wp" GUID="9FqvW40OD0SF9Q6rfiChrQ==" copy="[&BMAPAAA=]" copy-message="Foothold Bivouac Waypoint, Starlit Weald"/>
+        <POI MapID="1593" xpos="779.34" ypos="-0.0236305" zpos="-586.639" type="leag.voe.story.doorstep.wp" GUID="V/bGELAKn02+DaE/mnaTaQ==" copy="[&BMAPAAA=]" copy-message="Foothold Bivouac Waypoint"/>
+        <POI MapID="1593" xpos="-365.024" ypos="65.5621" zpos="-551.585" type="leag.voe.story.doorstep.wp" GUID="ixcKEZghtUWpsI6arbThsA==" copy="[&BJ4PAAA=]" copy-message="Priory Expedition Waypoint"/>
+        <POI MapID="1593" xpos="-544.295" ypos="104.679" zpos="351.237" type="leag.voe.story.doorstep.wp" GUID="TcyFC+IpqkuUoVjJi8k2CQ==" copy="[&BIoPAAA=]" copy-message="Hunter's Camp Waypoint"/>
+        <POI MapID="1595" xpos="177.676" ypos="-65.7477" zpos="197.284" type="leag.voe.story.doorstep.sample" GUID="wyfhozmjb0yjmtyg9rT0GQ=="/>
+        <POI MapID="1595" xpos="-463.686" ypos="0.80409" zpos="390.23" type="leag.voe.story.doorstep.shard" GUID="IPKMWZUZw0+aabmP1MT2vA=="/>
+        <POI MapID="1595" xpos="-289.137" ypos="2.29439" zpos="-807.022" type="leag.voe.story.doorstep.asrsketch" GUID="JUg1l08l306MLU+XYwiJ8w=="/>
+        <POI MapID="1595" xpos="-539.402" ypos="55.7098" zpos="-159.254" type="leag.voe.story.doorstep.astrolabe" GUID="wU1hGlSRMEGe86JVcoN6pg=="/>
+        <POI MapID="1595" xpos="46.9041" ypos="0.434349" zpos="408.839" type="leag.voe.story.doorstep.platter" GUID="fs0x7PoCwkSPFUEaEaCnBw=="/>
+        <POI MapID="1595" xpos="220.772" ypos="0.342821" zpos="-465.043" type="leag.voe.story.doorstep.numbers.1" GUID="h8AgYLQoak2BuZIhWSG1SQ=="/>
+        <POI MapID="1595" xpos="216.551" ypos="1.185" zpos="-463.759" type="leag.voe.story.doorstep.numbers.2" GUID="lj7DvyzEikijv5opT8PhCQ=="/>
+        <POI MapID="1595" xpos="185.771" ypos="-57.4132" zpos="-276.551" type="leag.voe.story.doorstep.tome" GUID="BgaBtZdchUibJZ7brZuhpQ=="/>
+        <POI MapID="1593" xpos="491.6" ypos="5.27794" zpos="-315.434" type="leag.voe.story.digging.icon" GUID="gFqLnEO1ZkOQx21e/VFpsQ=="/>
+        <POI MapID="1593" xpos="-92.3358" ypos="3.65714" zpos="294.291" type="leag.voe.story.digging.icon" GUID="QcnSPvgQ5U66p4nhVmdh2A=="/>
+        <POI MapID="1593" xpos="776.467" ypos="0.556573" zpos="-590.681" type="leag.voe.story.doorstep.msrsketch" GUID="7WUysaZ08Ey6Nfi1Tg9kZQ=="/>
+        <POI MapID="1593" xpos="779.34" ypos="-0.0236305" zpos="-586.639" type="leag.voe.story.doorstep.wp" GUID="5780N8YNIk+lAgIxyQU5jg=="/>
+        <POI MapID="1593" xpos="-367.219" ypos="65.5621" zpos="-551.565" type="leag.voe.story.doorstep.vial" GUID="dDWwlryW1UGGx6V/zoEwMQ=="/>
+        <POI MapID="1593" xpos="-170.933" ypos="62.4915" zpos="-45.7327" type="leag.voe.story.doorstep.mount.skyscale" GUID="VjUkbIl120imPjTWBmEZ+A=="/>
+        <POI MapID="1593" xpos="-215.311" ypos="47.0293" zpos="33.2961" type="leag.voe.story.doorstep.tablet" GUID="rmBgHmi+00i7BI0ZaBbUig=="/>
+        <POI MapID="1593" xpos="-224.488" ypos="46.5665" zpos="36.9186" type="leag.voe.story.doorstep.mount.skyscale" GUID="An79w+bPy0uTkIeVUCbmpA=="/>
+        <POI MapID="1593" xpos="-556.873" ypos="80.8259" zpos="345.273" type="leag.voe.story.doorstep.mount.springer" GUID="uS/KYxJOqUe23YG9S9HHEg=="/>
+        <POI MapID="1593" xpos="-541.425" ypos="104.416" zpos="350.711" type="leag.voe.story.doorstep.scroll" GUID="9dn6MrU+10iv6S099jSgcw=="/>
+        <POI MapID="1593" xpos="131.705" ypos="-0.918257" zpos="425.472" type="leag.voe.story.doorstep.mount.skimmer" GUID="9L14CtU5EE29G9lo085Q2g=="/>
+        <POI MapID="1593" xpos="442.861" ypos="-16.0754" zpos="434.695" type="leag.voe.story.doorstep.box" GUID="EAUWfnRng022LGe1FuVeqw=="/>
+        <POI MapID="1593" xpos="567.161" ypos="7.2589" zpos="582.83" type="leag.voe.story.doorstep.mount.springer" GUID="P20mleDq70qiuedazUA2lQ=="/>
+        <POI MapID="1593" xpos="701.466" ypos="34.6067" zpos="573.379" type="leag.voe.story.doorstep.isrsketch" GUID="9bZD7ZW2cUywILADT0Wa+g=="/>
+        
+        <Trail type="leag.voe.story.entrance.trail" trailData="Data/VoE/Story/Entrance to the Hidden Vault.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <POI MapID="1604" xpos="-721.138" ypos="62.7204" zpos="-475.617" type="leag.voe.story.entrance.icon" GUID="0AJGMLq+EkKwWt8WARkqzA=="/>
+        <POI MapID="1604" xpos="-688.781" ypos="63.4704" zpos="-468.509" type="leag.voe.story.entrance.icon" GUID="ZgZ/nZqeFkaq+e7kzD7PkA=="/>
+        <POI MapID="1604" xpos="-686.653" ypos="64.9804" zpos="-493.774" type="leag.voe.story.entrance.icon" GUID="l89WOoVW2UWh0od6OAf/xA=="/>
+        <POI MapID="1604" xpos="-668.645" ypos="21.0417" zpos="-495.077" type="leag.voe.story.impulse" GUID="hHYiXqbvfUqA+Tmmriqd9Q=="/>
     </POIs>
 </OverlayData>
