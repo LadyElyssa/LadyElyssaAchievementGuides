@@ -939,11 +939,17 @@
         <POI MapID="1175" xpos="-827.301" ypos="27.4956" zpos="-170.189" type="leag.lws3.ember.tablets.glider" GUID="tSn51lfyRUK6FYCYwnCQ/A=="/>
         <POI MapID="1175" xpos="-909.59" ypos="14.3895" zpos="-12.4943" type="leag.lws3.ember.tablets.glider" GUID="aOuSpWP6p06n4ThvGMEV/Q=="/>
         <POI MapID="1175" xpos="-697.656" ypos="90.907" zpos="-44.9204" type="leag.lws3.ember.tablets.glider" GUID="v6Sgs0+xvUC/5oA45SSFGg=="/>
-        <Trail type="leag.lws3.ember.token" trailData="Data/LWS3/Token Collector 1.trl"/>
-        <Trail type="leag.lws3.ember.token" trailData="Data/LWS3/Token Collector 2.trl"/>
-        <Trail type="leag.lws3.ember.token" trailData="Data/LWS3/Token Collector 3.trl"/>
-        <Trail type="leag.lws3.ember.token" trailData="Data/LWS3/Token Collector 4.trl"/>
-        <Trail type="leag.lws3.ember.token" trailData="Data/LWS3/Token Collector 5.trl"/>
+        <Trail type="leag.lws3.ember.token.1" trailData="Data/LWS3/Token Collector 1.trl"/>
+        <Trail type="leag.lws3.ember.token.2" trailData="Data/LWS3/Token Collector 2.trl"/>
+        <Trail type="leag.lws3.ember.token.3" trailData="Data/LWS3/Token Collector 3.trl"/>
+        <Trail type="leag.lws3.ember.token.4" trailData="Data/LWS3/Token Collector 4.trl"/>
+        <Trail type="leag.lws3.ember.token.4" trailData="Data/LWS3/Token Collector 5.trl"/>
+        <POI MapID="1175" xpos="-190.466" ypos="26.6666" zpos="-683.477" type="leag.lws3.ember.token.glider" GUID="3E9LV+NWjESLKwvA77wNEw=="/>
+        <POI MapID="1175" xpos="130.518" ypos="105.377" zpos="-783.496" type="leag.lws3.ember.token.glider" GUID="wE2BwOkIP0OdMLKWDqYw8g=="/>
+        <POI MapID="1175" xpos="214.846" ypos="90.455" zpos="-770.98" type="leag.lws3.ember.token.glider" GUID="RfHknrd0Wk+m90DxTJ3npw=="/>
+        <POI MapID="1175" xpos="553.901" ypos="22.2923" zpos="-265.125" type="leag.lws3.ember.token.1" GUID="9BcJLghmy0mVUD4S/qJgxA=="/>
+        <POI MapID="1175" xpos="663.227" ypos="79.753" zpos="-234.303" type="leag.lws3.ember.token.glider" GUID="mYiI+ucX3UKLbkZeWIWXNQ=="/>
+        <POI MapID="1175" xpos="71.6275" ypos="43.4895" zpos="-73.3546" type="leag.lws3.ember.token.glider" GUID="8D48D9DPWEOkDP9Ig4RCYg=="/>
         <POI MapID="1175" xpos="556.9716" ypos="22.34377" zpos="-264.1269" type="leag.lws3.ember.token" GUID="+E2bDKMF00aOo5IMX9ckvw==" iconFile="Data/Images/tokeninfo.png" minSize="64"/>
         <POI MapID="1175" xpos="546.653" ypos="17.3481" zpos="-271.438" type="leag.lws3.ember.token.start" GUID="mo2jxCb6ikWYpJWDNwAV2w=="/>
         <POI MapID="1175" xpos="530.095" ypos="11.8305" zpos="-399.011" type="leag.lws3.ember.token.glider" GUID="R22SS3VJBUSwoa4w7coC1Q=="/>
@@ -966,8 +972,9 @@
         <POI MapID="1175" xpos="-201.983" ypos="144.523" zpos="-425.63" type="leag.lws3.ember.token.glider" GUID="Mc+wMeIPcUK9ZVDGTkIm1g=="/>
         <POI MapID="1175" xpos="-207.576" ypos="131.986" zpos="-404.314" type="leag.lws3.ember.token.glider" GUID="awroLJkGF0OkUN+uQLBaMw=="/>
         <POI MapID="1175" xpos="-172.063" ypos="47.3166" zpos="-342.144" type="leag.lws3.ember.token.wp" GUID="XYO/K5MyykeQ2YmJit5ukQ==" copy="[&BF8JAAA=]" copy-message="Promontory Waypoint"/>
-        <POI MapID="1175" xpos="-188.838" ypos="19.954" zpos="-606.918" type="leag.lws3.ember.token.1" GUID="wFOjstqCW0K2TmkQP6nSvQ=="/>
-        <POI MapID="1175" xpos="-193.431" ypos="20.0353" zpos="-606.644" type="leag.lws3.ember.token.2" GUID="AOoFPBo5bUqPfOzcqa9trg=="/>
+        <POI MapID="1175" xpos="-188.838" ypos="19.954" zpos="-606.918" type="leag.lws3.ember.token.2" GUID="wFOjstqCW0K2TmkQP6nSvQ=="/>
+        <POI MapID="1175" xpos="-193.431" ypos="20.0353" zpos="-606.644" type="leag.lws3.ember.token.3" GUID="AOoFPBo5bUqPfOzcqa9trg=="/>
+        <POI MapID="1175" xpos="-615.426" ypos="5.1995" zpos="-493.755" type="leag.lws3.ember.token.4" GUID="DgoddU7oRE2B9hQyqIk6cg=="/>
         <POI MapID="1175" xpos="373.685" ypos="-1.7319" zpos="-910.312" type="leag.lws3.ember.token.wp" GUID="Dqk3hiU+Y0yMMjWrpiWQSg==" copy="[&BHgJAAA=]" copy-message="Castaway Circus Waypoint"/>
         <POI MapID="1175" xpos="-679.9717" ypos="52.95356" zpos="-754.526" type="leag.lws3.ember.token" GUID="HLg1r2YEj063acSP1t5/aA==" iconFile="Data/Images/Sloth Feeder.png" minSize="64" inGameVisibility="0" mapDisplaySize="64"/>
         <POI MapID="1175" xpos="-784.041" ypos="38.8903" zpos="-243.226" type="leag.lws3.ember.token.glider" GUID="MpvElGJVJ06+g4MlXRLKvA=="/>
