@@ -480,7 +480,7 @@
 
                 <MarkerCategory name="choya" DisplayName="Choya Champion Adventure / Race">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Jumping Puzzles/The Great Choya Race.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Adventures/The Great Choya Race.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="language" DisplayName="Choya Language Expert" achievementId="8967" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
@@ -544,7 +544,7 @@
 
                 <MarkerCategory name="old" DisplayName="Old Magic Adventure" achievementId="9018" texture="Data/Images/Trails/Line - Medium Wide with Shadow.png" animSpeed="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Jumping Puzzles/Old Magic.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Adventures/Old Magic.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
                     </MarkerCategory>
