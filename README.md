@@ -1,3 +1,9 @@
+## Contact ##
+* GW2 :: Lady Elyssa.2469
+* GW2 Wiki  :: [https://wiki.guildwars2.com/wiki/User:Lady_Elyssa](https://wiki.guildwars2.com/wiki/User:Lady_Elyssa)
+* Lady Elyssa's Discord :: [https://discord.gg/XwAqz6jCdv](https://discord.gg/XwAqz6jCdv)
+* GW2 Marker-mancy Discord courtesy of Metallis (MMM) :: [https://discord.gg/p6Ec9q6P8z](https://discord.gg/p6Ec9q6P8z)
+
 ## Lady Elyssa's Achievement & Collection Guides ##
   
 For more information on Getting Started with either [GW2 TacO](https://www.gw2taco.com/) or [Blish HUD](https://blishhud.com/), see [here](https://github.com/LadyElyssa/LadyElyssaAchievementGuides/wiki/Getting-Started).
