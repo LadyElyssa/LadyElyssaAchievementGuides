@@ -2,9 +2,7 @@
     <POIs>
         <!-- MAP ACHIEVEMENTS -->
         
-        <!--  -->
-        
-
+        <!-- SHIPWRECK STRAND -->
 
         <POI MapID="1595" xpos="-204.968" ypos="-260.154" zpos="526.098" type="leag.voe.shipwreck.aasb.low" GUID="lSbCbrCND0m/8WEtRzHYew=="/>
         <POI MapID="1595" xpos="-299.167" ypos="169.126" zpos="-163.535" type="leag.voe.shipwreck.aasb.high" GUID="dwMuO1pEZkWmpry8Ks7kFg=="/>
@@ -15,8 +13,7 @@
 
         <POI MapID="1595" xpos="-212.612" ypos="1.16709" zpos="18.7861" type="leag.voe.shipwreck.aquatic" GUID="v6XEGa0cZkKqFIfpEyklEQ=="/>
 
-        <!--
-        <POI MapID="1595" xpos="-481.966" ypos="2.06532" zpos="-219.38" type="leag.voe.shipwreck.boot.hammerhart" GUID="QjLUBCUCUEyV7kobanL7dw=="/>
+        <POI MapID="1595" xpos="-481.966" ypos="2.06532" zpos="-219.38" type="leag.voe.shipwreck.boot.hammerhart" GUID="+FpI+uJdbECkOLEbamLI9w=="/>
         <POI MapID="1595" xpos="213.345" ypos="0.524441" zpos="-248.911" type="leag.voe.shipwreck.boot.hullgardener" GUID="FnI3q5McMkuByUHvEEokwg=="/>
         <POI MapID="1595" xpos="283.343" ypos="1.70858" zpos="-258.288" type="leag.voe.shipwreck.boot.hullgardener" GUID="bqe625QizkSr8E62RO7PJA=="/>
         <POI MapID="1595" xpos="93.8644" ypos="0.499561" zpos="461.804" type="leag.voe.shipwreck.boot.recruiter" GUID="LaprlxOEAEaw53ssCOFKLw=="/>
@@ -34,8 +31,10 @@
         <POI MapID="1595" xpos="-182.48" ypos="44.5042" zpos="607.15" type="leag.voe.shipwreck.boot.recruiter" GUID="lCqh/KhOLESHKSltA8ka5A=="/>
         <POI MapID="1595" xpos="-199.979" ypos="31.2051" zpos="508.827" type="leag.voe.shipwreck.boot.recruiter" GUID="eIhzgGevHESi5PV9kq5i6w=="/>
         <POI MapID="1595" xpos="-208.578" ypos="0.304847" zpos="440.938" type="leag.voe.shipwreck.boot.recruiter" GUID="7VsuW5Q1U0WCRxR8g96EGg=="/>
-        <POI MapID="1595" xpos="524.434" ypos="6.15403" zpos="-422.997" type="leag.voe.shipwreck.boot.tennet" GUID="PfBE/alVPEqG2oiwPG89Rg=="/>
-        -->
+        <POI MapID="1595" xpos="524.434" ypos="6.15403" zpos="-422.997" type="leag.voe.shipwreck.boot.tennet" GUID="xkZB4+jktEe8WvsXfHQAzA=="/>
+        <POI MapID="1595" xpos="124.498" ypos="0.216643" zpos="-411.412" type="leag.voe.shipwreck.boot.escort" GUID="0ys78KFVA06Y47SPvhW1Cw=="/>
+        <POI MapID="1595" xpos="-212.825" ypos="1.20484" zpos="16.1638" type="leag.voe.shipwreck.boot.wavehawk" GUID="/+oRMBvVNECmBuJeT6+Bng=="/>
+
         <Trail type="leag.voe.shipwreck.captain.numbers.1" trailData="Data/VoE/Captain Leo the Relentless 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
         <Trail type="leag.voe.shipwreck.captain.numbers.2" trailData="Data/VoE/Captain Leo the Relentless 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
         <Trail type="leag.voe.shipwreck.captain.numbers.3" trailData="Data/VoE/Captain Leo the Relentless 3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
@@ -293,6 +292,15 @@
         <POI MapID="1595" xpos="476.897" ypos="45.237" zpos="54.6975" type="leag.voe.shipwreck.fireworks.blue" GUID="1z51VUGqQU6sZb6vE0FCFA=="/>
         <POI MapID="1595" xpos="447.316" ypos="40.1315" zpos="-19.0452" type="leag.voe.shipwreck.fireworks.blue" GUID="mo1C08+2bUCSWyARZH5DWg=="/>
         
+        <POI MapID="1595" xpos="-541.06" ypos="3.05872" zpos="-142.776" type="leag.voe.shipwreck.lesser.royalty.jimmy" GUID="FCiePxjz5kqagHmCpDqmZQ=="/>
+        <POI MapID="1595" xpos="-544.972" ypos="3.07714" zpos="-287.194" type="leag.voe.shipwreck.lesser.royalty.jessica" GUID="2Lhry4NyGEamk8qJnIIKFw=="/>
+        <POI MapID="1595" xpos="-405.5279" ypos="3.972271" zpos="363.5262" type="leag.voe.shipwreck.lesser.king" GUID="YjFB+C8blkWnPrQ7G1Uxhg=="/>
+        <POI MapID="1595" xpos="-628.01" ypos="3.9317" zpos="761.594" type="leag.voe.shipwreck.lesser.avyn" GUID="sljeFaB4zkiu1FtZbMrOgA=="/>
+        <POI MapID="1595" xpos="208.84" ypos="0.252857" zpos="-499.047" type="leag.voe.shipwreck.lesser.ursulette" GUID="5+HiVwot6kmkXyvdcLmZlQ=="/>
+        <POI MapID="1595" xpos="556.942" ypos="34.2431" zpos="467.63" type="leag.voe.shipwreck.lesser.crabs" GUID="ixknsqTh+ESstgBCFV8c0Q=="/>
+        <POI MapID="1595" xpos="124.498" ypos="0.216643" zpos="-411.412" type="leag.voe.shipwreck.lesser.kash" GUID="66DxaZZSNUqeiK4r5Y4NUw=="/>
+
+
         <POI MapID="1595" xpos="-62.6404" ypos="0.676239" zpos="563.928" type="leag.voe.shipwreck.skritcher.1" GUID="kUEZmujrPU6uAF28X0ZttQ=="/>
         <POI MapID="1595" xpos="-174.431" ypos="2.41949" zpos="561.618" type="leag.voe.shipwreck.skritcher.2" GUID="dnjYlTWbNka+1QXTlzYAww=="/>
         <POI MapID="1595" xpos="-42.0621" ypos="8.29389" zpos="523.119" type="leag.voe.shipwreck.skritcher.3" GUID="iCwbJvxPGUeu+SsczuaGew=="/>        
@@ -353,12 +361,15 @@
         
 
         <!-- STARLIT WEALD -->
+
         <POI MapID="1593" xpos="-598.873" ypos="119.367" zpos="382.26" type="leag.voe.starlit.backdoor" GUID="x3Df+fOpXUe7vQP23+x6dg=="/>
 
         <POI MapID="1593" xpos="491.415" ypos="45.1915" zpos="444.478" type="leag.voe.starlit.bodyguard" GUID="eZXSM8MO7UiGDRgurm+QwA=="/>
 
         <Trail type="leag.voe.starlit.choya" trailData="Data/VoE/Adventure - The Great Choya Race.trl" animSpeed="0.5"/>
         <POI MapID="1593" xpos="864.775" ypos="18.6495" zpos="-9.39148" type="leag.voe.starlit.choya.sign" GUID="1nhl+pSJ9UCnXFhXrjhNvw=="/>
+
+        <POI MapID="1593" xpos="-476.7617" ypos="17.92599" zpos="474.0012" type="leag.voe.starlit.exit" GUID="nlxOEia3ykyCNT0mVkF+QQ=="/>
 
         <POI MapID="1593" xpos="-569.234" ypos="81.6224" zpos="275.696" type="leag.voe.starlit.escape.progenitor" GUID="0spQQRfw+0O4PjM1dzOEzA=="/>
         <POI MapID="1593" xpos="-558.412" ypos="117.661" zpos="316.237" type="leag.voe.starlit.escape.spirit" GUID="cwi0uas7+E+z6BLnUzrmKw=="/>
@@ -407,7 +418,8 @@
         <POI MapID="1593" xpos="-378.377" ypos="103.277" zpos="192.489" type="leag.voe.starlit.old.sign" GUID="HVeh81MyLkyejL625cfuQA=="/>
         <POI MapID="1593" xpos="-361.627" ypos="96.346" zpos="258.606" type="leag.voe.starlit.old.mount.skyscale" GUID="6eziyKMHWUSYF2z/2Vmw9Q=="/>
 
-        <POI MapID="1593" xpos="608.04" ypos="2.56198" zpos="-206.825" type="leag.voe.starlit.rampage" GUID="KoHqO/GyLky/uV+/05bBPA=="/>
+        <POI MapID="1593" xpos="582.955" ypos="2.307049" zpos="-193.4333" type="leag.voe.starlit.rampage.event" GUID="KoHqO/GyLky/uV+/05bBPA=="/>
+        <POI MapID="1593" xpos="570.7895" ypos="1.606085" zpos="-217.4059" type="leag.voe.starlit.rampage.champion" GUID="SHgCsOn320+6NX7/CpxhNQ=="/>
 
         <POI MapID="1593" xpos="640.887" ypos="2.62197" zpos="432.935" type="leag.voe.starlit.savior" GUID="cSWV2jr4iU6STs/NMdZE9w=="/>
         <POI MapID="1593" xpos="646.79" ypos="2.29334" zpos="401.619" type="leag.voe.starlit.savior.trap" GUID="gn4mUAvw0EylgJJ3R+6QzA=="/>
@@ -431,8 +443,12 @@
         <POI MapID="1593" xpos="556.895" ypos="3.34703" zpos="-469.66" type="leag.voe.starlit.sketch" GUID="66aEdjJbh0CrnQO9OAHg2w=="/>
 
         <POI MapID="1593" xpos="-57.6249" ypos="4.94916" zpos="392.231" type="leag.voe.starlit.soup.talk" GUID="H5F1UQNP4keUs0tReYUecg=="/>
-        
+
         <POI MapID="1593" xpos="-771.524" ypos="67.1995" zpos="23.9221" type="leag.voe.starlit.tread" GUID="w/d+Zr5sU0WhqD0dEKaj1w=="/>
+
+        <POI MapID="1593" xpos="-529.559" ypos="18.1026" zpos="449.567" type="leag.voe.starlit.treasures" GUID="Ik3Ih17G7kGchf3I5xZEXg=="/>
+        <POI MapID="1593" xpos="-550.333" ypos="18.1026" zpos="443.772" type="leag.voe.starlit.treasures" GUID="AMD2BoAUKEKPeaSx2AKdVA=="/>
+        <POI MapID="1593" xpos="-522.689" ypos="18.1026" zpos="428.702" type="leag.voe.starlit.treasures" GUID="UJgmIZxmXU+dao0qxuiKgA=="/>
         
         <Trail type="leag.voe.starlit.spelunker" trailData="Data/VoE/Starlit Weald - Underwater Tunnels.trl" texture="Data/Images/Trails/Line - Fine with Shadow.png" inGameVisibility="0" color="33ccff"/>
         <Trail type="leag.voe.starlit.spelunker.hidden" trailData="Data/VoE/Hidden Aquifer.trl" texture="Data/Images/Trails/Line - Hashed with Shadow.png" inGameVisibility="0" color="0094FF" mapDisplaySize="8" animSpeed="0"/>
@@ -476,8 +492,6 @@
         <POI MapID="30" xpos="-885.99" ypos="12.3712" zpos="872.082" type="leag.voe.starlit.journey.jormag" GUID="fKTbf1nx50ap4zw8TB95zQ=="/>
         <POI MapID="1595" xpos="430.958" ypos="39.9792" zpos="614.768" type="leag.voe.starlit.journey.research" GUID="0ac1X9EJKkaVOhbgHHqK/g=="/>
         <POI MapID="1595" xpos="507.509" ypos="2.14003" zpos="466.831" type="leag.voe.starlit.journey.residue" GUID="4Jl5MPeMmkGB/gbc9bcP0g=="/>
-
-
 
         <Trail type="leag.voe.starlit.gwyl" trailData="Data/VoE/Gwyl Rings.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" animSpeed="0.8"/>
         <Trail type="leag.voe.starlit.gwyl.rock" trailData="Data/VoE/Gwyl Rings - Rock.trl"/>
