@@ -197,14 +197,14 @@
         <POI MapID="1517" xpos="38.4497" ypos="677.241" zpos="307.001" type="leag.soto.am.fff.trail.9" GUID="5hpRwKrg9UGCeGA3EPhDaw=="/>
         <POI MapID="1517" xpos="41.4557" ypos="677.24" zpos="307.007" type="leag.soto.am.fff.trail.8" GUID="wplLhqLaZUeU+oCoh0EhgQ=="/>
         <POI MapID="1517" xpos="40.2652" ypos="677.24" zpos="291.493" type="leag.soto.am.fff.trail.7" GUID="iEru8NviPU6beAU6MGTUpA=="/>
-        <POI MapID="1517" xpos="-97.3113" ypos="224.851" zpos="-542.05" type="leag.soto.am.fff.wp" GUID="plZ9hYZA8UGn/3Gk6mQq3Q==" copy="[&BDQOAAA=]" copy-message="Bastion of the Natural Waypoint"/>
-        <POI MapID="1517" xpos="343.135" ypos="212.202" zpos="-545.479" type="leag.soto.am.fff.wp" GUID="7ywjdCOZ0kC0IIv46icYbA==" copy="[&BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
-        <POI MapID="1517" xpos="701.554" ypos="319.079" zpos="-616.035" type="leag.soto.am.fff.wp" GUID="B1KxFyaIZkipiZJyxycGfg==" copy="[&BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
-        <POI MapID="1517" xpos="745.103" ypos="318.589" zpos="-233.917" type="leag.soto.am.fff.wp" GUID="dFJzQB1cfU64Da5SA/ra1g==" copy="[&BD0OAAA=]" copy-message="Bastion of Balance Waypoint"/>
-        <POI MapID="1517" xpos="-626.482" ypos="611.43" zpos="195.657" type="leag.soto.am.fff.wp" GUID="f5HsfaHouECsEq6CxYZQyQ==" copy="[&BEcOAAA=]" copy-message="Bastion of the Obscure Waypoint"/>
-        <POI MapID="1517" xpos="-436.312" ypos="274.01" zpos="-360.472" type="leag.soto.am.fff.wp" GUID="el+Wl+WmCkOpIScNEOZtPQ==" copy="[&BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
-        <POI MapID="1517" xpos="49.9049" ypos="709.23" zpos="-113.973" type="leag.soto.am.fff.wp" GUID="mSokNQTXeUmVXLQ4lTz2TQ==" copy="[&BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
-        <POI MapID="1517" xpos="-366.96" ypos="525.949" zpos="253.023" type="leag.soto.am.fff.wp" GUID="G9ESrPpicUaxeEzcwba3Gw==" copy="[&BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
+        <POI MapID="1517" xpos="-97.3113" ypos="224.851" zpos="-542.05" type="leag.soto.am.fff.wp" GUID="plZ9hYZA8UGn/3Gk6mQq3Q==" copy="[&amp;BDQOAAA=]" copy-message="Bastion of the Natural Waypoint"/>
+        <POI MapID="1517" xpos="343.135" ypos="212.202" zpos="-545.479" type="leag.soto.am.fff.wp" GUID="7ywjdCOZ0kC0IIv46icYbA==" copy="[&amp;BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
+        <POI MapID="1517" xpos="701.554" ypos="319.079" zpos="-616.035" type="leag.soto.am.fff.wp" GUID="B1KxFyaIZkipiZJyxycGfg==" copy="[&amp;BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
+        <POI MapID="1517" xpos="745.103" ypos="318.589" zpos="-233.917" type="leag.soto.am.fff.wp" GUID="dFJzQB1cfU64Da5SA/ra1g==" copy="[&amp;BD0OAAA=]" copy-message="Bastion of Balance Waypoint"/>
+        <POI MapID="1517" xpos="-626.482" ypos="611.43" zpos="195.657" type="leag.soto.am.fff.wp" GUID="f5HsfaHouECsEq6CxYZQyQ==" copy="[&amp;BEcOAAA=]" copy-message="Bastion of the Obscure Waypoint"/>
+        <POI MapID="1517" xpos="-436.312" ypos="274.01" zpos="-360.472" type="leag.soto.am.fff.wp" GUID="el+Wl+WmCkOpIScNEOZtPQ==" copy="[&amp;BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
+        <POI MapID="1517" xpos="49.9049" ypos="709.23" zpos="-113.973" type="leag.soto.am.fff.wp" GUID="mSokNQTXeUmVXLQ4lTz2TQ==" copy="[&amp;BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
+        <POI MapID="1517" xpos="-366.96" ypos="525.949" zpos="253.023" type="leag.soto.am.fff.wp" GUID="G9ESrPpicUaxeEzcwba3Gw==" copy="[&amp;BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
         
         
         
@@ -214,14 +214,14 @@
         <!-- For a Rainy Day -->
         <POI MapID="1517" xpos="-85.6818" ypos="270.301" zpos="-422.36" type="leag.soto.am.fard.start" GUID="0nzjJciMV0O4fBTP6ziOaA=="/>
         <Trail type="leag.soto.am.fard.trail.1" trailData="Data/SotO/For a Rainy Day 1.trl" color="ffcc00"/>
-        <POI MapID="1517" xpos="-192.647" ypos="292.495" zpos="-456.09" type="leag.soto.am.fard.wp" GUID="hoLT7W69GEOv47232QNUrA==" copy="[&BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
+        <POI MapID="1517" xpos="-192.647" ypos="292.495" zpos="-456.09" type="leag.soto.am.fard.wp" GUID="hoLT7W69GEOv47232QNUrA==" copy="[&amp;BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
         <Trail type="leag.soto.am.fard.trail.2" trailData="Data/SotO/For a Rainy Day 2.trl" color="ffff33"/>
-        <POI MapID="1517" xpos="671.099" ypos="275.954" zpos="-131.835" type="leag.soto.am.fard.wp" GUID="bFF0VSf7DEuVxYv4W4Cl8A==" copy="[&BNMNAAA=]" copy-message="Bastion of Strength Waypoint"/>
+        <POI MapID="1517" xpos="671.099" ypos="275.954" zpos="-131.835" type="leag.soto.am.fard.wp" GUID="bFF0VSf7DEuVxYv4W4Cl8A==" copy="[&amp;BNMNAAA=]" copy-message="Bastion of Strength Waypoint"/>
         <Trail type="leag.soto.am.fard.trail.3" trailData="Data/SotO/For a Rainy Day 3.trl" color="ffff33"/>
-        <POI MapID="1517" xpos="734.212" ypos="364.496" zpos="336.46" type="leag.soto.am.fard.wp" GUID="bBgn/cNwm0uRnDawP5lGKw==" copy="[&BD0OAAA=]" copy-message="Bastion of Balance Waypoint"/>
+        <POI MapID="1517" xpos="734.212" ypos="364.496" zpos="336.46" type="leag.soto.am.fard.wp" GUID="bBgn/cNwm0uRnDawP5lGKw==" copy="[&amp;BD0OAAA=]" copy-message="Bastion of Balance Waypoint"/>
         <Trail type="leag.soto.am.fard.trail.4" trailData="Data/SotO/For a Rainy Day 4.trl" color="ffff33"/>
         <Trail type="leag.soto.am.fard.trail.5" trailData="Data/SotO/For a Rainy Day 5.trl" color="ffff33"/>
-        <POI MapID="1517" xpos="-342.157" ypos="510.304" zpos="280.888" type="leag.soto.am.fard.wp" GUID="v3iefk24JES97RXre3oxLQ==" copy="[&BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
+        <POI MapID="1517" xpos="-342.157" ypos="510.304" zpos="280.888" type="leag.soto.am.fard.wp" GUID="v3iefk24JES97RXre3oxLQ==" copy="[&amp;BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
         <Trail type="leag.soto.am.fard.trail.6" trailData="Data/SotO/For a Rainy Day 6.trl" color="ffff33"/>
         
         <!-- Frode's Journal -->
@@ -269,13 +269,13 @@
         <POI MapID="1517" xpos="-542.006" ypos="507.066" zpos="-63.6944" type="leag.soto.am.ia.trail.7" GUID="TXKGDV5XKUidfXZW3Dub0Q=="/>
         <POI MapID="1517" xpos="38.1472" ypos="677.24" zpos="303.206" type="leag.soto.am.ia.trail.8" GUID="3rzvtwe12EyfTCwy0ZRPzg=="/>
         <POI MapID="1517" xpos="35.9722" ypos="677.24" zpos="294.665" type="leag.soto.am.ia.trail.9" GUID="BfCCkiYKVkKqU2399NISvQ=="/>
-        <POI MapID="1517" xpos="-78.4583" ypos="221.645" zpos="-597.672" type="leag.soto.am.ia.wp" GUID="Llyp+3zKO0KuLNu2v+QOuQ==" copy="[&BDQOAAA=]" copy-message="Bastion of the Natural Waypoint"/>
-        <POI MapID="1517" xpos="362.014" ypos="206.554" zpos="-714.281" type="leag.soto.am.ia.wp" GUID="W/Is576BQ0iBGbF14LtISA==" copy="[&BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
-        <POI MapID="1517" xpos="598.111" ypos="274.372" zpos="-98.2465" type="leag.soto.am.ia.wp" GUID="1ul2SWUv4Uy0iIg2KaGDyA==" copy="[&BNMNAAA=]" copy-message="Bastion of Strength Waypoint"/>
-        <POI MapID="1517" xpos="557.183" ypos="379.655" zpos="459.308" type="leag.soto.am.ia.wp" GUID="VNzpCBpFiEat5dc0FmIJ0A==" copy="[&BD0OAAA=]" copy-message="Bastion of Balance Waypoint"/>
-        <POI MapID="1517" xpos="-265.531" ypos="420.125" zpos="401.764" type="leag.soto.am.ia.wp" GUID="vkgojvdheE6DQeohdQ83/Q==" copy="[&BEcOAAA=]" copy-message="Bastion of the Obscure Waypoint"/>
-        <POI MapID="1517" xpos="-176.789" ypos="361.611" zpos="-113.432" type="leag.soto.am.ia.wp" GUID="xHEhNVro/keAJ7cPyNO4pA==" copy="[&BEcOAAA=]" copy-message="Bastion of the Obscure Waypoint"/>
-        <POI MapID="1517" xpos="-347.141" ypos="516.158" zpos="217.608" type="leag.soto.am.ia.wp" GUID="UPWSj0stR0yWsxNX9RefsQ==" copy="[&BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
+        <POI MapID="1517" xpos="-78.4583" ypos="221.645" zpos="-597.672" type="leag.soto.am.ia.wp" GUID="Llyp+3zKO0KuLNu2v+QOuQ==" copy="[&amp;BDQOAAA=]" copy-message="Bastion of the Natural Waypoint"/>
+        <POI MapID="1517" xpos="362.014" ypos="206.554" zpos="-714.281" type="leag.soto.am.ia.wp" GUID="W/Is576BQ0iBGbF14LtISA==" copy="[&amp;BEIOAAA=]" copy-message="Bastion of Knowledge Waypoint"/>
+        <POI MapID="1517" xpos="598.111" ypos="274.372" zpos="-98.2465" type="leag.soto.am.ia.wp" GUID="1ul2SWUv4Uy0iIg2KaGDyA==" copy="[&amp;BNMNAAA=]" copy-message="Bastion of Strength Waypoint"/>
+        <POI MapID="1517" xpos="557.183" ypos="379.655" zpos="459.308" type="leag.soto.am.ia.wp" GUID="VNzpCBpFiEat5dc0FmIJ0A==" copy="[&amp;BD0OAAA=]" copy-message="Bastion of Balance Waypoint"/>
+        <POI MapID="1517" xpos="-265.531" ypos="420.125" zpos="401.764" type="leag.soto.am.ia.wp" GUID="vkgojvdheE6DQeohdQ83/Q==" copy="[&amp;BEcOAAA=]" copy-message="Bastion of the Obscure Waypoint"/>
+        <POI MapID="1517" xpos="-176.789" ypos="361.611" zpos="-113.432" type="leag.soto.am.ia.wp" GUID="xHEhNVro/keAJ7cPyNO4pA==" copy="[&amp;BEcOAAA=]" copy-message="Bastion of the Obscure Waypoint"/>
+        <POI MapID="1517" xpos="-347.141" ypos="516.158" zpos="217.608" type="leag.soto.am.ia.wp" GUID="UPWSj0stR0yWsxNX9RefsQ==" copy="[&amp;BAoOAAA=]" copy-message="Bastion of the Celestial Waypoint"/>
 
         <POI MapID="1517" xpos="-183.957" ypos="366.95" zpos="-457.149" type="leag.soto.am.ia.lantern" GUID="0ciJ7MfC50ya7gJ6QQi9JQ=="/>
         <POI MapID="1517" xpos="-607.567" ypos="338.425" zpos="-641.667" type="leag.soto.am.ia.lantern" GUID="4FeeoM3IhUK+UvpgPkU1uw=="/>
@@ -341,8 +341,8 @@
 		<POI MapID="1526" xpos="698.493" ypos="215.347" zpos="-435.397" type="leag.soto.in.iin.trail.2" GUID="qvIIS8BvXkWUVFky3XPgyA=="/>
 		<POI MapID="1526" xpos="689.73" ypos="215.652" zpos="-433.574" type="leag.soto.in.iin.trail.1" GUID="1tWb14Hzb0aiqu1OWDdYnw=="/>
 		<POI MapID="1526" xpos="303.36" ypos="186.293" zpos="151.356" type="leag.soto.in.iin.trail.3" GUID="Y+U1k2eU/ESGkF40GWuGkQ=="/>
-        <POI MapID="1526" xpos="220.164" ypos="236.45" zpos="-499.459" type="leag.soto.in.iin.wp" GUID="ebxgov6HQE2g7YJctPgGmw==" copy="[&BGYOAAA=]" copy-message="Astral Ward Camp Waypoint"/>
-        <POI MapID="1526" xpos="495.276" ypos="196.642" zpos="237.777" type="leag.soto.in.iin.wp" GUID="3YBEqTbyQUKVJ0pahlf3Kw==" copy="[&BHYOAAA=]" copy-message=" Forward Bivouac Waypoint"/>
+        <POI MapID="1526" xpos="220.164" ypos="236.45" zpos="-499.459" type="leag.soto.in.iin.wp" GUID="ebxgov6HQE2g7YJctPgGmw==" copy="[&amp;BGYOAAA=]" copy-message="Astral Ward Camp Waypoint"/>
+        <POI MapID="1526" xpos="495.276" ypos="196.642" zpos="237.777" type="leag.soto.in.iin.wp" GUID="3YBEqTbyQUKVJ0pahlf3Kw==" copy="[&amp;BHYOAAA=]" copy-message=" Forward Bivouac Waypoint"/>
 
         <POI MapID="1526" xpos="646.683" ypos="215.606" zpos="-439.477" type="leag.soto.in.iin.lantern" GUID="o/cepKIP10OiOLBxbA82mw=="/>
         <POI MapID="1526" xpos="610.475" ypos="208.35" zpos="-320.388" type="leag.soto.in.iin.lantern" GUID="Of933RPhjkSV7GG8ZC8UGA=="/>
@@ -391,31 +391,31 @@
         <!-- Illuminating Skywatch Archipelago -->
         <POI MapID="1510" xpos="891.509" ypos="133.644" zpos="-371.291" type="leag.soto.sa.isa.start" GUID="3bAsuC3tak6FR/pXkycIQQ=="/>
         <Trail type="leag.soto.sa.isa.trail.1" trailData="Data/SotO/Illuminating Skywatch Archipelago 1.trl" color="ffff33"/>
-        <POI MapID="1510" xpos="749.624" ypos="97.7839" zpos="-218.234" type="leag.soto.sa.isa.wp" GUID="Vsk/yrtFI0eoDPnV81c3Tw==" copy="[&BBUOAAA=]" copy-message="Garenhoff Refugee Camp Waypoint"/>
+        <POI MapID="1510" xpos="749.624" ypos="97.7839" zpos="-218.234" type="leag.soto.sa.isa.wp" GUID="Vsk/yrtFI0eoDPnV81c3Tw==" copy="[&amp;BBUOAAA=]" copy-message="Garenhoff Refugee Camp Waypoint"/>
         <Trail type="leag.soto.sa.isa.trail.2" trailData="Data/SotO/Illuminating Skywatch Archipelago 2.trl" color="ffff33"/>
         <POI MapID="1510" xpos="966.227" ypos="185.939" zpos="-105.081" type="leag.soto.sa.isa.trail.2" GUID="Z6xNGSx4BE2G8soadJHmqg=="/>
-        <POI MapID="1510" xpos="641.903" ypos="243.992" zpos="-153.993" type="leag.soto.sa.isa.wp" GUID="XAlDkgqlDU2olSlyQnhBwQ==" copy="[&BBUOAAA=]" copy-message="Garenhoff Refugee Camp Waypoint"/>
+        <POI MapID="1510" xpos="641.903" ypos="243.992" zpos="-153.993" type="leag.soto.sa.isa.wp" GUID="XAlDkgqlDU2olSlyQnhBwQ==" copy="[&amp;BBUOAAA=]" copy-message="Garenhoff Refugee Camp Waypoint"/>
         <Trail type="leag.soto.sa.isa.trail.3" trailData="Data/SotO/Illuminating Skywatch Archipelago 3.trl" color="ffff33"/>
         <Trail type="leag.soto.sa.isa.trail.3" trailData="Data/SotO/Illuminating Skywatch Archipelago 3b.trl" color="ffff33" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1510" xpos="979.146" ypos="185.597" zpos="-108.432" type="leag.soto.sa.isa.trail.3" GUID="Vq40NpDDm02Vq0WgWbLorw=="/>
-        <POI MapID="1510" xpos="813.873" ypos="379.439" zpos="347.692" type="leag.soto.sa.isa.wp" GUID="gm2szHyvU02ScTP870eCOA==" copy="[&BOANAAA=]" copy-message="Rata Novus Promenade Waypoint"/>
+        <POI MapID="1510" xpos="813.873" ypos="379.439" zpos="347.692" type="leag.soto.sa.isa.wp" GUID="gm2szHyvU02ScTP870eCOA==" copy="[&amp;BOANAAA=]" copy-message="Rata Novus Promenade Waypoint"/>
         <Trail type="leag.soto.sa.isa.trail.4" trailData="Data/SotO/Illuminating Skywatch Archipelago 4.trl" color="ffff33"/>
         <Trail type="leag.soto.sa.isa.trail.4" trailData="Data/SotO/Illuminating Skywatch Archipelago 4b.trl" color="ffff33" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1510" xpos="580.723" ypos="311.769" zpos="449.968" type="leag.soto.sa.isa.trail.4" GUID="Wa15900Ot0afDMdzCfTCZw=="/>
         <POI MapID="1510" xpos="573.127" ypos="311.776" zpos="440.278" type="leag.soto.sa.isa.trail.5" GUID="qTkMtd+sfUSD+MoH3awGDg=="/>
-        <POI MapID="1510" xpos="801.559" ypos="646.861" zpos="524.052" type="leag.soto.sa.isa.wp" GUID="YZmFp4heD02L4zDurlgXtQ==" copy="[&BOANAAA=]" copy-message="Rata Novus Promenade Waypoint"/>
+        <POI MapID="1510" xpos="801.559" ypos="646.861" zpos="524.052" type="leag.soto.sa.isa.wp" GUID="YZmFp4heD02L4zDurlgXtQ==" copy="[&amp;BOANAAA=]" copy-message="Rata Novus Promenade Waypoint"/>
         <Trail type="leag.soto.sa.isa.trail.5" trailData="Data/SotO/Illuminating Skywatch Archipelago 5.trl" color="ffff33"/>
-        <POI MapID="1510" xpos="-290.738" ypos="527.788" zpos="403.156" type="leag.soto.sa.isa.wp" GUID="NUYsFNJH+kGIZnVy5dp4PQ==" copy="[&BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
+        <POI MapID="1510" xpos="-290.738" ypos="527.788" zpos="403.156" type="leag.soto.sa.isa.wp" GUID="NUYsFNJH+kGIZnVy5dp4PQ==" copy="[&amp;BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
         <Trail type="leag.soto.sa.isa.trail.6" trailData="Data/SotO/Illuminating Skywatch Archipelago 6.trl" color="ffff33"/>
         <POI MapID="1510" xpos="-637.188" ypos="549.597" zpos="166.121" type="leag.soto.sa.isa.trail.6" GUID="vKp0UOhGiU2rMbj79PuBJQ=="/>
         <Trail type="leag.soto.sa.isa.trail.6" trailData="Data/SotO/Illuminating Skywatch Archipelago 6b.trl" color="ffff33" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
-        <POI MapID="1510" xpos="327.385" ypos="240.425" zpos="-233.838" type="leag.soto.sa.isa.wp" GUID="lxp5YtWHt0+XLCDt53k/Sg==" copy="[&BA4OAAA=]" copy-message="Astral Ward Encampment Waypoint"/>
+        <POI MapID="1510" xpos="327.385" ypos="240.425" zpos="-233.838" type="leag.soto.sa.isa.wp" GUID="lxp5YtWHt0+XLCDt53k/Sg==" copy="[&amp;BA4OAAA=]" copy-message="Astral Ward Encampment Waypoint"/>
         <Trail type="leag.soto.sa.isa.trail.7" trailData="Data/SotO/Illuminating Skywatch Archipelago 7.trl" color="ffff33"/>
         <POI MapID="1510" xpos="249.857" ypos="257.256" zpos="-232.725" type="leag.soto.sa.isa.trail.7" GUID="1NlClfLHzUST21JIwCPzOw=="/>
-        <POI MapID="1510" xpos="-388.735" ypos="276.767" zpos="-183.659" type="leag.soto.sa.isa.wp" GUID="ngdMZlpNm0ynpCSPMqJUvQ==" copy="[&BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
+        <POI MapID="1510" xpos="-388.735" ypos="276.767" zpos="-183.659" type="leag.soto.sa.isa.wp" GUID="ngdMZlpNm0ynpCSPMqJUvQ==" copy="[&amp;BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
         <Trail type="leag.soto.sa.isa.trail.8" trailData="Data/SotO/Illuminating Skywatch Archipelago 8.trl" color="ffff33"/>
         <POI MapID="1510" xpos="-648.03" ypos="549.37" zpos="158.851" type="leag.soto.sa.isa.trail.8" GUID="mJRzjK4Kk02M+gIlqz47Ig=="/>
-        <POI MapID="1510" xpos="-819.423" ypos="442.146" zpos="-187.104" type="leag.soto.sa.isa.wp" GUID="SuFpLxAZskuP6JMTVXxqqw==" copy="[&BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
+        <POI MapID="1510" xpos="-819.423" ypos="442.146" zpos="-187.104" type="leag.soto.sa.isa.wp" GUID="SuFpLxAZskuP6JMTVXxqqw==" copy="[&amp;BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
         <Trail type="leag.soto.sa.isa.trail.9" trailData="Data/SotO/Illuminating Skywatch Archipelago 9.trl" color="ffff33"/>
         <POI MapID="1510" xpos="-649.468" ypos="549.502" zpos="163.163" type="leag.soto.sa.isa.trail.9" GUID="ZepOZmmxPEesOebOGVavgg=="/>
         <POI MapID="1510" xpos="-778.05" ypos="461.519" zpos="268.648" type="leag.soto.sa.isa.wp" GUID="3DtjhlZo9EefE+aAFFwlRQ=="/>
@@ -597,13 +597,13 @@
         <POI MapID="1510" xpos="68.3221" ypos="613.889" zpos="133.639" type="leag.soto.sa.ras.35" GUID="VkZ63BB8lE23ZfRHMglW0A=="/>
         <POI MapID="1510" xpos="285.458" ypos="556.938" zpos="173.138" type="leag.soto.sa.ras.35" GUID="tHBcOvpinkOg8V+xU2W3Tg=="/>
         <POI MapID="1510" xpos="-426.92" ypos="571.74" zpos="236.955" type="leag.soto.sa.ras.32" GUID="MxyUN5DfR0ymXzSuyCGA/Q=="/>
-        <POI MapID="1510" xpos="558.214" ypos="70.2637" zpos="-442.09" type="leag.soto.sa.ras.wp" GUID="+drQHnx/tEy1oouTDqBWfA==" copy="[&BBUOAAA=]" copy-message="Garenhoff Refugee Camp Waypoint"/>
-        <POI MapID="1510" xpos="613.251" ypos="236.393" zpos="-131.395" type="leag.soto.sa.ras.wp" GUID="cwVW3q5mSkmZ3+XTo88Wdg==" copy="[&BBUOAAA=]" copy-message="Garenhoff Refugee Camp Waypoint"/>
-        <POI MapID="1510" xpos="1062.07" ypos="277.695" zpos="394.014" type="leag.soto.sa.ras.wp" GUID="efHjqBRFL0G1mQ8+ndAsWw==" copy="[&BOANAAA=]" copy-message="Rata Novus Promenade Waypoint"/>
-        <POI MapID="1510" xpos="441.313" ypos="312.791" zpos="327.404" type="leag.soto.sa.ras.wp" GUID="tpA5W9ikjUG7JgIEJXzqDw==" copy="[&BEYOAAA=]" copy-message="Observation Camp Waypoint"/>
-        <POI MapID="1510" xpos="-120.892" ypos="486.27" zpos="457.031" type="leag.soto.sa.ras.wp" GUID="yRaQxYN37k6CkXCcs45Fbw==" copy="[&BD8OAAA=]" copy-message="Kestrel's Vow Waypoint"/>
-        <POI MapID="1510" xpos="-344.582" ypos="275.977" zpos="-175.702" type="leag.soto.sa.ras.wp" GUID="LZ11DiSn0EOMxXmdOLNeCQ==" copy="[&BD8OAAA=]" copy-message="Kestrel's Vow Waypoint"/>
-        <POI MapID="1510" xpos="-238.572" ypos="276.449" zpos="-264.629" type="leag.soto.sa.ras.wp" GUID="kdYgHziiy0eFtkdOigVKDg==" copy="[&BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
+        <POI MapID="1510" xpos="558.214" ypos="70.2637" zpos="-442.09" type="leag.soto.sa.ras.wp" GUID="+drQHnx/tEy1oouTDqBWfA==" copy="[&amp;BBUOAAA=]" copy-message="Garenhoff Refugee Camp Waypoint"/>
+        <POI MapID="1510" xpos="613.251" ypos="236.393" zpos="-131.395" type="leag.soto.sa.ras.wp" GUID="cwVW3q5mSkmZ3+XTo88Wdg==" copy="[&amp;BBUOAAA=]" copy-message="Garenhoff Refugee Camp Waypoint"/>
+        <POI MapID="1510" xpos="1062.07" ypos="277.695" zpos="394.014" type="leag.soto.sa.ras.wp" GUID="efHjqBRFL0G1mQ8+ndAsWw==" copy="[&amp;BOANAAA=]" copy-message="Rata Novus Promenade Waypoint"/>
+        <POI MapID="1510" xpos="441.313" ypos="312.791" zpos="327.404" type="leag.soto.sa.ras.wp" GUID="tpA5W9ikjUG7JgIEJXzqDw==" copy="[&amp;BEYOAAA=]" copy-message="Observation Camp Waypoint"/>
+        <POI MapID="1510" xpos="-120.892" ypos="486.27" zpos="457.031" type="leag.soto.sa.ras.wp" GUID="yRaQxYN37k6CkXCcs45Fbw==" copy="[&amp;BD8OAAA=]" copy-message="Kestrel's Vow Waypoint"/>
+        <POI MapID="1510" xpos="-344.582" ypos="275.977" zpos="-175.702" type="leag.soto.sa.ras.wp" GUID="LZ11DiSn0EOMxXmdOLNeCQ==" copy="[&amp;BD8OAAA=]" copy-message="Kestrel's Vow Waypoint"/>
+        <POI MapID="1510" xpos="-238.572" ypos="276.449" zpos="-264.629" type="leag.soto.sa.ras.wp" GUID="kdYgHziiy0eFtkdOigVKDg==" copy="[&amp;BL4NAAA=]" copy-message="Droknar's Light Waypoint"/>
         <POI MapID="1510" xpos="965.952" ypos="185.85" zpos="-106.733" type="leag.soto.sa.ras.trail.2" GUID="IlXMDWhHrUyBF6wF/9LiGg=="/>
         <POI MapID="1510" xpos="976.948" ypos="186.147" zpos="-102.731" type="leag.soto.sa.ras.trail.3" GUID="e83apjYCUES9DsPeOa/G/Q=="/>
         <POI MapID="1510" xpos="580.422" ypos="311.769" zpos="449.775" type="leag.soto.sa.ras.trail.4" GUID="RYmzIkrHkUaSKNVd9AuFYA=="/>
@@ -624,13 +624,13 @@
         <Trail type="leag.soto.twt.secrets.5" trailData="Data/SotO/Secrets Obscured 5.trl" texture="Data/Images/Trails/Trail Marker 1 Shaded Dark.png" color="80dfff"/>
         <Trail type="leag.soto.twt.secrets.6" trailData="Data/SotO/Secrets Obscured 6.trl" texture="Data/Images/Trails/Trail Marker 1 Shaded Dark.png" color="80dfff"/>
         <Trail type="leag.soto.twt.secrets.7" trailData="Data/SotO/Secrets Obscured 7.trl" texture="Data/Images/Trails/Trail Marker 1 Shaded Dark.png" color="80dfff"/>
-        <POI MapID="1509" xpos="38.4083" ypos="361.267" zpos="-136.499" type="leag.soto.twt.secrets.wp" GUID="esg89vaRfUKLF2QlmNT+lQ==" copy="[&BBIAAAA=]" copy-message="Cereboth Waypoint, Kessex Hills"/>
-        <POI MapID="23" xpos="1182.59" ypos="-19.6564" zpos="-485.367" type="leag.soto.twt.secrets.wp" GUID="dzbD/FZmy0W0VWdweV/JgA==" copy="[&BPcCAAA=]" copy-message="Lone Post Waypoint, Straits of Devastation"/>
-        <POI MapID="51" xpos="190.787" ypos="77.3186" zpos="-299.815" type="leag.soto.twt.secrets.wp" GUID="MmqR14hPlk2/yX43oxXBkQ==" copy="[&BOwCAAA=]" copy-message="Bramble Pass Waypoint"/>
-        <POI MapID="51" xpos="663.359" ypos="61.9653" zpos="839.041" type="leag.soto.twt.secrets.wp" GUID="emZRciAsBEqXew4bQM2wjQ==" copy="[&BC0DAAA=]" copy-message="Ossan Waypoint, Divinity's Reach"/>
-        <POI MapID="18" xpos="-100.187" ypos="57.2201" zpos="251.895" type="leag.soto.twt.secrets.wp" GUID="osUhKe3EE0u0gAF3NN/2Bg==" copy="[&BMkCAAA=]" copy-message="Criterion Waypoint, Mount Maelstrom"/>
+        <POI MapID="1509" xpos="38.4083" ypos="361.267" zpos="-136.499" type="leag.soto.twt.secrets.wp" GUID="esg89vaRfUKLF2QlmNT+lQ==" copy="[&amp;BBIAAAA=]" copy-message="Cereboth Waypoint, Kessex Hills"/>
+        <POI MapID="23" xpos="1182.59" ypos="-19.6564" zpos="-485.367" type="leag.soto.twt.secrets.wp" GUID="dzbD/FZmy0W0VWdweV/JgA==" copy="[&amp;BPcCAAA=]" copy-message="Lone Post Waypoint, Straits of Devastation"/>
+        <POI MapID="51" xpos="190.787" ypos="77.3186" zpos="-299.815" type="leag.soto.twt.secrets.wp" GUID="MmqR14hPlk2/yX43oxXBkQ==" copy="[&amp;BOwCAAA=]" copy-message="Bramble Pass Waypoint"/>
+        <POI MapID="51" xpos="663.359" ypos="61.9653" zpos="839.041" type="leag.soto.twt.secrets.wp" GUID="emZRciAsBEqXew4bQM2wjQ==" copy="[&amp;BC0DAAA=]" copy-message="Ossan Waypoint, Divinity's Reach"/>
+        <POI MapID="18" xpos="-100.187" ypos="57.2201" zpos="251.895" type="leag.soto.twt.secrets.wp" GUID="osUhKe3EE0u0gAF3NN/2Bg==" copy="[&amp;BMkCAAA=]" copy-message="Criterion Waypoint, Mount Maelstrom"/>
         <POI MapID="39" xpos="-1078.17" ypos="60.8669" zpos="227.945" type="leag.soto.twt.secrets.wp" GUID="ZPOsQPyU0kyqNTcqDa5D0g==" info="Locate a Kryptis Rift on one of the Core Tyria Maps" infoRange="5"/>
-        <POI MapID="19" xpos="925.35" ypos="109.863" zpos="532.243" type="leag.soto.twt.secrets.wp" GUID="hch6LxsYMEKS9xE0i1vm3Q==" copy="[&BB8OAAA=]" copy-message="Tower Courtyard Waypoint, The Wizard's Tower"/>
+        <POI MapID="19" xpos="925.35" ypos="109.863" zpos="532.243" type="leag.soto.twt.secrets.wp" GUID="hch6LxsYMEKS9xE0i1vm3Q==" copy="[&amp;BB8OAAA=]" copy-message="Tower Courtyard Waypoint, The Wizard's Tower"/>
         
         <!-- Secrets Unobscured -->
         <Trail type="leag.soto.twt.secrets2" trailData="Data/SotO/Secrets Unobscured 1a.trl" texture="Data/Images/Trails/Trail Marker 2 Dark.png" color="993399"/>
@@ -781,7 +781,7 @@
         <POI MapID="1526" xpos="120.442" ypos="242.741" zpos="463.54" type="leag.soto.in.tecla.icon" GUID="Sc/ey8L5e0q3mQwVE4i7sw=="/>
         <Trail type="leag.soto.in.tecla.10" trailData="Data/SotO/What Was Before 10.trl" color="ff3c18"/>
         <POI MapID="1526" xpos="935.449" ypos="176.74" zpos="273.418" type="leag.soto.in.tecla.icon" GUID="OR+To4D+4EWM8I5RMnDCbg=="/>
-        <POI MapID="1526" xpos="120.121" ypos="242.741" zpos="463.594" type="leag.soto.in.tecla.11.wp" GUID="xQv8QPAUV0i/LutE5ExXYQ==" copy="[&BHYOAAA=]" copy-message="Return to Tecla the Venerable at the forward bivouac"/>
+        <POI MapID="1526" xpos="120.121" ypos="242.741" zpos="463.594" type="leag.soto.in.tecla.11.wp" GUID="xQv8QPAUV0i/LutE5ExXYQ==" copy="[&amp;BHYOAAA=]" copy-message="Return to Tecla the Venerable at the forward bivouac"/>
         
         <!-- Wrong Time, Wrong Place -->
         <POI MapID="1517" xpos="39.7382" ypos="805.888" zpos="130.272" type="leag.soto.am.wtwp" GUID="Y6+Wd7hbEEKnqvhJUG63wg==" iconFile="Data/Images/Icons/Defeated.png" minSize="32" mapDisplaySize="48" fadeNear="2000" fadeFar="4000"/>

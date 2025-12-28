@@ -179,7 +179,7 @@
         <!-- CHAPTER 3: Clockwork Chaos -->
 
         <!-- Clockwork Invasion -->
-        <POI MapID="18" xpos="-224.5985" ypos="60.85187" zpos="-14.95355" type="leag.lws1.story.invasion" GUID="L9+X1Q063EOXOgIeihNJtQ==" iconFile="Data/Images/Icons/Blank.png" copy="[&BOIAAAA=]" copy-message="Oogooth Waypoint" autoTrigger="1" behavior="3"/>
+        <POI MapID="18" xpos="-224.5985" ypos="60.85187" zpos="-14.95355" type="leag.lws1.story.invasion" GUID="L9+X1Q063EOXOgIeihNJtQ==" iconFile="Data/Images/Icons/Blank.png" copy="[&amp;BOIAAAA=]" copy-message="Oogooth Waypoint" autoTrigger="1" behavior="3"/>
         <Trail type="leag.lws1.story.invasion" trailData="Data/LWS1/3. Clockwork Chaos/Clockwork Invasion.trl" texture="Data/Images/Trails/Dashed Line - Fine with Shadow.png" color="00FF00"/>
         <POI MapID="24" xpos="-353.5054" ypos="28.09958" zpos="63.15148" type="leag.lws1.story.invasion" GUID="M9eqEZxEEEOBb473EQHFYw==" iconFile="Data/Images/Circle - Green.png" mapDisplaySize="42" inGameVisibility="0"/>
         <POI MapID="24" xpos="305.218" ypos="17.7782" zpos="424.537" type="leag.lws1.story.invasion" GUID="V7CLHmVY6kmHc59HVWda9A==" iconFile="Data/Images/Circle - Green.png" mapDisplaySize="32" inGameVisibility="0"/>

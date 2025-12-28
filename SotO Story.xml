@@ -139,7 +139,7 @@
         <POI MapID="1526" xpos="62.3583" ypos="208.608" zpos="303.93" type="leag.soto.story.arsenal.tome" GUID="80V/WeqUNUO9p1ZVVm/A6g=="/>
         <POI MapID="1526" xpos="-134.022" ypos="224.496" zpos="-192.944" type="leag.soto.story.arsenal.carapace" GUID="O1fLn0bXn0GRHmjYvYgd+Q=="/>
         <POI MapID="1526" xpos="691.017" ypos="215.601" zpos="-436.134" type="leag.soto.story.arsenal.weapons" GUID="Y5gYM3W7iEuRCr1ldkiisA=="/>
-        <POI MapID="1526" xpos="-171.33" ypos="321.92" zpos="-471.265" type="leag.soto.story.arsenal.wp" GUID="9YNmAl7un06dp1pjUo4m6g==" copy="[&BGYOAAA=]" copy-message="Astral Ward Camp Waypoint"/>
+        <POI MapID="1526" xpos="-171.33" ypos="321.92" zpos="-471.265" type="leag.soto.story.arsenal.wp" GUID="9YNmAl7un06dp1pjUo4m6g==" copy="[&amp;BGYOAAA=]" copy-message="Astral Ward Camp Waypoint"/>
 
 
         <!-- CHAPTER 15 -->

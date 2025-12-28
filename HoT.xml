@@ -121,16 +121,16 @@
         <Trail type="leag.hot.ab.study" trailData="Data/HoT/A Study in Gold 7.trl"/>
         <Trail type="leag.hot.ab.study" trailData="Data/HoT/A Study in Gold 8.trl"/>
         <POI MapID="1043" xpos="-372.072" ypos="269.715" zpos="235.165" type="leag.hot.ab.study.start" GUID="kPUHuLJe5kClM6eyXBQWLA=="/>
-        <POI MapID="1043" xpos="-198.523" ypos="47.25615" zpos="319.2859" type="leag.hot.ab.study.wp" GUID="nLZpOhc1xkSVV3kJ0hfTtA==" copy="[&BN0HAAA=]" copy-message="Northwatch Waypoint"/>
+        <POI MapID="1043" xpos="-198.523" ypos="47.25615" zpos="319.2859" type="leag.hot.ab.study.wp" GUID="nLZpOhc1xkSVV3kJ0hfTtA==" copy="[&amp;BN0HAAA=]" copy-message="Northwatch Waypoint"/>
         <Trail type="leag.hot.ab.study" trailData="Data/HoT/A Study in Gold 9.trl"/>
         <Trail type="leag.hot.ab.study" trailData="Data/HoT/A Study in Gold 10.trl"/>
-        <POI MapID="1043" xpos="136.462" ypos="171.6734" zpos="206.9153" type="leag.hot.ab.study.wp" GUID="Frk/shOpykKg/kvWW0GysA==" copy="[&BGwIAAA=]" copy-message="Eastwatch Waypoint"/>
+        <POI MapID="1043" xpos="136.462" ypos="171.6734" zpos="206.9153" type="leag.hot.ab.study.wp" GUID="Frk/shOpykKg/kvWW0GysA==" copy="[&amp;BGwIAAA=]" copy-message="Eastwatch Waypoint"/>
         <Trail type="leag.hot.ab.study" trailData="Data/HoT/A Study in Gold 11.trl"/>
-        <POI MapID="1043" xpos="348.2749" ypos="153.284" zpos="-24.58135" type="leag.hot.ab.study.wp" GUID="RSazjU+jvEmnMzSvbdqVUA==" copy="[&BAIIAAA=]" copy-message="Southwatch Waypoint"/>
+        <POI MapID="1043" xpos="348.2749" ypos="153.284" zpos="-24.58135" type="leag.hot.ab.study.wp" GUID="RSazjU+jvEmnMzSvbdqVUA==" copy="[&amp;BAIIAAA=]" copy-message="Southwatch Waypoint"/>
         <Trail type="leag.hot.ab.study" trailData="Data/HoT/A Study in Gold 12.trl"/>
         <Trail type="leag.hot.ab.study" trailData="Data/HoT/A Study in Gold 13.trl"/>
         <Trail type="leag.hot.ab.study" trailData="Data/HoT/A Study in Gold 14.trl"/>
-        <POI MapID="1043" xpos="319.3155" ypos="-0.0594089" zpos="-271.3506" type="leag.hot.ab.study.wp" GUID="ixm0Fmie9Em34gTSbWNG5w==" copy="[&BMYHAAA=]" copy-message="Forgotten City Waypoint"/>
+        <POI MapID="1043" xpos="319.3155" ypos="-0.0594089" zpos="-271.3506" type="leag.hot.ab.study.wp" GUID="ixm0Fmie9Em34gTSbWNG5w==" copy="[&amp;BMYHAAA=]" copy-message="Forgotten City Waypoint"/>
         <Trail type="leag.hot.ab.study" trailData="Data/HoT/A Study in Gold 15.trl"/>
         <POI MapID="1043" xpos="-79.7372" ypos="336.643" zpos="-11.5989" type="leag.hot.ab.study.glider" GUID="UQzAfAAr0USRMErRLDXMdA=="/>
         <POI MapID="1043" xpos="-40.4383" ypos="119.891" zpos="-0.147226" type="leag.hot.ab.study.glider" GUID="ZcQ1KY6wkUGS/crY3Qxgpw=="/>
@@ -145,7 +145,7 @@
         <POI MapID="1043" xpos="-43.703" ypos="268.008" zpos="-403.668" type="leag.hot.ab.study.4" GUID="nyol4rpp1UaJj1UYGoELIQ=="/>
         <POI MapID="1043" xpos="11.1308" ypos="71.4764" zpos="-22.4868" type="leag.hot.ab.study.5" GUID="n1gN/lHRdUatrFAodHopdg=="/>
         <POI MapID="1043" xpos="458.658" ypos="292.074" zpos="74.5378" type="leag.hot.ab.study.6" GUID="76arsXDwNkSr/MsTt2NARQ=="/>
-        <POI MapID="1043" xpos="6.40871" ypos="21.1649" zpos="212.591" type="leag.hot.ab.study.wp" GUID="XREr2XIpMUOUZLRg2BT1Ew==" copy="[&BGwIAAA=]" copy-message="Eastwatch Waypoint"/>
+        <POI MapID="1043" xpos="6.40871" ypos="21.1649" zpos="212.591" type="leag.hot.ab.study.wp" GUID="XREr2XIpMUOUZLRg2BT1Ew==" copy="[&amp;BGwIAAA=]" copy-message="Eastwatch Waypoint"/>
 
 
         <!-- Egg Bearer -->
@@ -178,19 +178,19 @@
         <POI MapID="1043" xpos="-390.843" ypos="475.343" zpos="659.876" type="leag.hot.ab.mask.start" GUID="ozxgRNyJTE+Hq5SbJ18kmA=="/>
         <POI MapID="1043" xpos="-380.9155" ypos="475.3937" zpos="674.1807" type="leag.hot.ab.mask.1" GUID="74oCyALG60iBHrOhZNqbsg=="/>
         <POI MapID="1043" xpos="-365.621" ypos="475.534" zpos="687.744" type="leag.hot.ab.mask.glider" GUID="i7F/GKmfBU+qDWsL0QK9Ow=="/>
-        <POI MapID="1043" xpos="-309.807" ypos="364.754" zpos="735.19" type="leag.hot.ab.mask.wp" GUID="sqwzSm/8e06aGasCYwI1Ag==" copy="[&BNYHAAA=]" copy-message="Wanderer's Waypoint"/>
+        <POI MapID="1043" xpos="-309.807" ypos="364.754" zpos="735.19" type="leag.hot.ab.mask.wp" GUID="sqwzSm/8e06aGasCYwI1Ag==" copy="[&amp;BNYHAAA=]" copy-message="Wanderer's Waypoint"/>
         <POI MapID="1043" xpos="-378.36" ypos="475.146" zpos="668.171" type="leag.hot.ab.mask.2" GUID="h91BZAdMNkmYqIvaLIeJLw=="/>
-        <POI MapID="1043" xpos="65.2781" ypos="301.64" zpos="536.566" type="leag.hot.ab.mask.wp" GUID="Pw2admyqnECt1uAYP8Zfeg==" copy="[&BN0HAAA=]" copy-message="Northwatch Waypoint"/>
+        <POI MapID="1043" xpos="65.2781" ypos="301.64" zpos="536.566" type="leag.hot.ab.mask.wp" GUID="Pw2admyqnECt1uAYP8Zfeg==" copy="[&amp;BN0HAAA=]" copy-message="Northwatch Waypoint"/>
         <POI MapID="1043" xpos="62.7533" ypos="333.108" zpos="469.038" type="leag.hot.ab.mask.3" GUID="9Wyqy90EmkSQ7dL1pTv8jQ=="/>
-        <POI MapID="1043" xpos="83.7786" ypos="352.686" zpos="328.255" type="leag.hot.ab.mask.wp" GUID="1VRNK4gAu0ewxY/wuOU7UQ==" copy="[&BN0HAAA=]" copy-message="Northwatch Waypoint"/>
+        <POI MapID="1043" xpos="83.7786" ypos="352.686" zpos="328.255" type="leag.hot.ab.mask.wp" GUID="1VRNK4gAu0ewxY/wuOU7UQ==" copy="[&amp;BN0HAAA=]" copy-message="Northwatch Waypoint"/>
         <POI MapID="1043" xpos="63.1934" ypos="331.089" zpos="479.062" type="leag.hot.ab.mask.4" GUID="QdmsXfu2Kka9/oYmhiHt4g=="/>
-        <POI MapID="1043" xpos="377.911" ypos="347.438" zpos="536.357" type="leag.hot.ab.mask.wp" GUID="pSgiCOFHb0WGjdJK2PJlTQ==" copy="[&BNYHAAA=]" copy-message="Wanderer's Waypoint"/>
+        <POI MapID="1043" xpos="377.911" ypos="347.438" zpos="536.357" type="leag.hot.ab.mask.wp" GUID="pSgiCOFHb0WGjdJK2PJlTQ==" copy="[&amp;BNYHAAA=]" copy-message="Wanderer's Waypoint"/>
         <POI MapID="1043" xpos="-379.7768" ypos="475.0723" zpos="666.8017" type="leag.hot.ab.mask.5" GUID="A8iL5KnmMkqwOB5zWi/Kyw=="/>
-        <POI MapID="1043" xpos="541.994" ypos="371.322" zpos="716.205" type="leag.hot.ab.mask.wp" GUID="eghwQKT6qkKtpoHTDFITAQ==" copy="[&BNYHAAA=]" copy-message="Wanderer's Waypoint"/>
+        <POI MapID="1043" xpos="541.994" ypos="371.322" zpos="716.205" type="leag.hot.ab.mask.wp" GUID="eghwQKT6qkKtpoHTDFITAQ==" copy="[&amp;BNYHAAA=]" copy-message="Wanderer's Waypoint"/>
         <POI MapID="1043" xpos="-380.9057" ypos="475.0063" zpos="665.5079" type="leag.hot.ab.mask.6" GUID="KeRAu2FSSEKfkUnEcFlg9Q=="/>
-        <POI MapID="1043" xpos="320.547" ypos="282.4" zpos="-232.702" type="leag.hot.ab.mask.wp" GUID="afdujSU0eE+GfpgEAcCXZA==" copy="[&BGwIAAA=]" copy-message="Eastwatch Waypoint"/>
+        <POI MapID="1043" xpos="320.547" ypos="282.4" zpos="-232.702" type="leag.hot.ab.mask.wp" GUID="afdujSU0eE+GfpgEAcCXZA==" copy="[&amp;BGwIAAA=]" copy-message="Eastwatch Waypoint"/>
         <POI MapID="1043" xpos="457.293" ypos="292.177" zpos="68.6267" type="leag.hot.ab.mask.7" GUID="7ezzjVgDH0mSLSa4SRhMRA=="/>
-        <POI MapID="1043" xpos="613.704" ypos="307.448" zpos="62.9263" type="leag.hot.ab.mask.wp" GUID="I/DAhLvvrEmQBPyuc7vZ0g==" copy="[&BGwIAAA=]" copy-message="Eastwatch Waypoint"/>
+        <POI MapID="1043" xpos="613.704" ypos="307.448" zpos="62.9263" type="leag.hot.ab.mask.wp" GUID="I/DAhLvvrEmQBPyuc7vZ0g==" copy="[&amp;BGwIAAA=]" copy-message="Eastwatch Waypoint"/>
         <POI MapID="1043" xpos="458.008" ypos="292.046" zpos="73.7522" type="leag.hot.ab.mask.8" GUID="w+aptdcVHkOb0qISxut6Ww=="/>
         <POI MapID="1043" xpos="-367.128" ypos="469.881" zpos="574.306" type="leag.hot.ab.mask.glider" GUID="GWx8ZjvkfEilMbPXZec4pA=="/>
         <POI MapID="1043" xpos="-386.545" ypos="421.51" zpos="519.798" type="leag.hot.ab.mask.glider" GUID="6sN4ixKh5kWSp7qCCzEiDQ=="/>

@@ -29,8 +29,10 @@
                 <MarkerCategory name="beautiful" DisplayName="It's So Beautiful" achievementId="8985" iconFile="Data/Images/Emote - Cry.png" maxSize="64" mapVisibility="0" miniMapVisibility="0"/>
                 
                 <MarkerCategory name="zeba" DisplayName="Zeba Deserves Better" achievementId="9080" iconFile="Data/Images/Icons/Orb - Green - S.png" maxSize="16" heightOffset="-0.25"/>
+                
                 <MarkerCategory name="wavehawks" DisplayName="Wavehawks Are My Passion" achievementId="8978" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="48"/>
-                <MarkerCategory name="fundamentals" DisplayName="Wavehawks Fundamentals">
+                
+                <MarkerCategory name="fundamentals" DisplayName="Wavehawks Fundamentals" achievementId="8990">
                     <MarkerCategory name="tooth" DisplayName="Predator's Tooth" iconFile="Data/Images/Icons/Predator's Tooth.png" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="treats" DisplayName="Skimmer Treats" iconFile="Data/Images/Icons/Extra Fresh Fish.png" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="package" DisplayName="Lost Package" iconFile="Data/Images/Icons/Wavehawk Package.png" inGameVisibility="0" mapDisplaySize="32"/>
@@ -48,8 +50,8 @@
                 <MarkerCategory name="beatem" DisplayName="If You Can't Beat 'Em" achievementId="9075" iconFile="Data/Images/Emote - Dance.png" maxSize="16" heightOffset="-0.5"/>
                 <MarkerCategory name="swift" DisplayName="Swift Skimming" achievementId="9079" iconFile="Data/Images/Icons/Targeted Object - Green.png" maxSize="32" heightOffset="-0.2"/>
                 
-                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: Beneath the Canopy" achievementId="9017"/>
-                <MarkerCategory name="agents" DisplayName="Track down scouts around Foothold Bivouac">
+                <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: Beneath the Canopy"/>
+                <MarkerCategory name="agents" DisplayName="Track down scouts around Foothold Bivouac" achievementId="9017">
                     <MarkerCategory name="vigil" DisplayName="Vigil Scout Premhoc" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
                     <MarkerCategory name="kestrel" DisplayName="Kestrel Choole" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
                     <MarkerCategory name="scout" DisplayName="Scout Yakuti" iconFile="Data/Images/Circle - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
@@ -439,6 +441,12 @@
             
             <MarkerCategory name="starlit" DisplayName="Starlit Weald">
                 
+                <MarkerCategory name="hunt" DisplayName="A Hunt for the Ages" achievementId="8886">
+                    <MarkerCategory name="spineshell" DisplayName="Spineshell Impaler" iconFile="Data/Images/Champion Spineshell Impaler.png" mapDisplaySize="64" inGameVisibility="0"/>
+                    <MarkerCategory name="emperor" DisplayName="Tyrannus Emperor" iconFile="Data/Images/Elite Tyrannus Emperor.png" mapDisplaySize="64" inGameVisibility="0"/>
+                    <MarkerCategory name="man-eater" DisplayName="Tyrannus Man-Eater" iconFile="Data/Images/Champion Tyrannus Man Eater.png" mapDisplaySize="64" inGameVisibility="0"/>
+                </MarkerCategory>
+
                 <MarkerCategory name="journey" DisplayName="A Magical Journey" achievementId="9048">
                     <MarkerCategory name="sw" IsSeparator="1" DisplayName="STARLIT WEALD"/>
                     <MarkerCategory name="talk" DisplayName="Talk to Hiberus Mythseeker at the Priory Expedition" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="20" mapDisplaySize="40"/>
@@ -582,8 +590,8 @@
                 <MarkerCategory name="delivery" DisplayName="Wavehawk Delivery" achievementId="8920" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
 
                 <MarkerCategory name="savior" DisplayName="Wavehawk Savior" achievementId="8856" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0">
-                        <MarkerCategory name="trap" DisplayName="Wavehawk Trap" iconFile="Data/Images/Circle - Red.png" mapDisplaySize="40" inGameVisibility="0"/>
-                    </MarkerCategory>
+                    <MarkerCategory name="trap" DisplayName="Wavehawk Trap" iconFile="Data/Images/Circle - Red.png" mapDisplaySize="40" inGameVisibility="0"/>
+                </MarkerCategory>
 
             </MarkerCategory>
             

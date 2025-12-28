@@ -15,20 +15,20 @@
 		<Trail type="leag.explorer.lae" trailData="Data/Explorer/LA Exterminator 13.trl"/>
 		<POI MapID="50" xpos="-362.828" ypos="26.9899" zpos="368.143" type="leag.explorer.lae.start" GUID="WTbGqX55YEO6muZxhXR5nw=="/>
 		<POI MapID="50" xpos="-291.81" ypos="33.2494" zpos="366.764" type="leag.explorer.lae.talk" GUID="eJ7NRJkEVkik/OvSM0FB/w=="/>
-		<POI MapID="50" xpos="-284.062" ypos="43.5787" zpos="385.022" type="leag.explorer.lae.wp" GUID="tN+qwRipMU+cYLLVk81txg==" copy="[&BAwEAAA=]" copy-message="Commodore's Quarter Waypoint"/>
-		<POI MapID="50" xpos="-467.506" ypos="42.6846" zpos="353.424" type="leag.explorer.lae.wp" GUID="gbHYHlxeG0eChDBkKnVgww==" copy="[&BC8EAAA=]" copy-message="Sanctum Harbor Waypoint"/>
-		<POI MapID="50" xpos="-357.805" ypos="0.692009" zpos="153.19" type="leag.explorer.lae.wp" GUID="pMTza8TOhkCBvD2mBSkiJA==" copy="[&BC8EAAA=]" copy-message="Sanctum Harbor Waypoint"/>
-		<POI MapID="50" xpos="-422.409" ypos="3.10644" zpos="232.477" type="leag.explorer.lae.wp" GUID="nf/vPonii06kAUc0jFH5Ag==" copy="[&BC0EAAA=]" copy-message="Diverse Ledges Waypoint"/>
-		<POI MapID="50" xpos="-534.77" ypos="1.88949" zpos="-166.411" type="leag.explorer.lae.wp" GUID="MqKdMPrlJkiJ2Nl7iZ8T5A==" copy="[&BC0EAAA=]" copy-message="Diverse Ledges Waypoint"/>
-		<POI MapID="50" xpos="-521.755" ypos="7.47065" zpos="-201.591" type="leag.explorer.lae.wp" GUID="1QwojQaKpkOEfkVAbzbacA==" copy="[&BBAEAAA=]" copy-message="Trader's Forum Waypoint"/>
-		<POI MapID="50" xpos="267.405" ypos="-0.200772" zpos="357.84" type="leag.explorer.lae.wp" GUID="shnNmXE9Gk6Xz8Oy1pkg1Q==" copy="[&BDEEAAA=]" copy-message="Eastern Ward Waypoint"/>
+		<POI MapID="50" xpos="-284.062" ypos="43.5787" zpos="385.022" type="leag.explorer.lae.wp" GUID="tN+qwRipMU+cYLLVk81txg==" copy="[&amp;BAwEAAA=]" copy-message="Commodore's Quarter Waypoint"/>
+		<POI MapID="50" xpos="-467.506" ypos="42.6846" zpos="353.424" type="leag.explorer.lae.wp" GUID="gbHYHlxeG0eChDBkKnVgww==" copy="[&amp;BC8EAAA=]" copy-message="Sanctum Harbor Waypoint"/>
+		<POI MapID="50" xpos="-357.805" ypos="0.692009" zpos="153.19" type="leag.explorer.lae.wp" GUID="pMTza8TOhkCBvD2mBSkiJA==" copy="[&amp;BC8EAAA=]" copy-message="Sanctum Harbor Waypoint"/>
+		<POI MapID="50" xpos="-422.409" ypos="3.10644" zpos="232.477" type="leag.explorer.lae.wp" GUID="nf/vPonii06kAUc0jFH5Ag==" copy="[&amp;BC0EAAA=]" copy-message="Diverse Ledges Waypoint"/>
+		<POI MapID="50" xpos="-534.77" ypos="1.88949" zpos="-166.411" type="leag.explorer.lae.wp" GUID="MqKdMPrlJkiJ2Nl7iZ8T5A==" copy="[&amp;BC0EAAA=]" copy-message="Diverse Ledges Waypoint"/>
+		<POI MapID="50" xpos="-521.755" ypos="7.47065" zpos="-201.591" type="leag.explorer.lae.wp" GUID="1QwojQaKpkOEfkVAbzbacA==" copy="[&amp;BBAEAAA=]" copy-message="Trader's Forum Waypoint"/>
+		<POI MapID="50" xpos="267.405" ypos="-0.200772" zpos="357.84" type="leag.explorer.lae.wp" GUID="shnNmXE9Gk6Xz8Oy1pkg1Q==" copy="[&amp;BDEEAAA=]" copy-message="Eastern Ward Waypoint"/>
 		<POI MapID="50" xpos="367.421" ypos="29.5728" zpos="329.504" type="leag.explorer.lae.wp" GUID="iP8/BSKhz0qFTu0i+IVNvQ==" info="Can Only Enter at Night (21:00 - 0500, use /time)&#xa;Password is: Password" infoRange="3"/>
-		<POI MapID="50" xpos="694.041" ypos="39.3966" zpos="271.071" type="leag.explorer.lae.wp" GUID="bkoPie+SkkODkAjj6OnQyg==" copy="[&BDIEAAA=]" copy-message="Cavern Waypoint"/>
-		<POI MapID="50" xpos="328.997" ypos="20.3125" zpos="422.324" type="leag.explorer.lae.wp" GUID="8OjVB84lb0Wmv/CQfjVWsQ==" copy="[&BA0EAAA=]" copy-message="Guild Bluff Waypoint"/>
-		<POI MapID="50" xpos="371.571" ypos="10.2627" zpos="-3.57608" type="leag.explorer.lae.wp" GUID="MzrJduoO70e6tzEPZM2G9Q==" copy="[&BDMEAAA=]" copy-message="Farshore Waypoint"/>
+		<POI MapID="50" xpos="694.041" ypos="39.3966" zpos="271.071" type="leag.explorer.lae.wp" GUID="bkoPie+SkkODkAjj6OnQyg==" copy="[&amp;BDIEAAA=]" copy-message="Cavern Waypoint"/>
+		<POI MapID="50" xpos="328.997" ypos="20.3125" zpos="422.324" type="leag.explorer.lae.wp" GUID="8OjVB84lb0Wmv/CQfjVWsQ==" copy="[&amp;BA0EAAA=]" copy-message="Guild Bluff Waypoint"/>
+		<POI MapID="50" xpos="371.571" ypos="10.2627" zpos="-3.57608" type="leag.explorer.lae.wp" GUID="MzrJduoO70e6tzEPZM2G9Q==" copy="[&amp;BDMEAAA=]" copy-message="Farshore Waypoint"/>
 		<POI MapID="50" xpos="654.909" ypos="-1.11835" zpos="-401.312" type="leag.explorer.lae.wp" GUID="l54mq3F5Z0moHYwr46lzEQ==" info="Duck under the water and then come up just below the surface" infoRange="5"/>
-		<POI MapID="50" xpos="453.334" ypos="-0.527015" zpos="-324.03" type="leag.explorer.lae.wp" GUID="NOPfMenPhkiqXwqIfFLcIw==" copy="[&BA8EAAA=]" copy-message="Claw Island Portage Waypoint"/>
-		<POI MapID="50" xpos="-65.0323" ypos="0.947049" zpos="-51.9388" type="leag.explorer.lae.wp" GUID="hWoRGzIa+USvqSwLdlL9XQ==" copy="[&BA8EAAA=]" copy-message="Claw Island Portage Waypoint"/>
+		<POI MapID="50" xpos="453.334" ypos="-0.527015" zpos="-324.03" type="leag.explorer.lae.wp" GUID="NOPfMenPhkiqXwqIfFLcIw==" copy="[&amp;BA8EAAA=]" copy-message="Claw Island Portage Waypoint"/>
+		<POI MapID="50" xpos="-65.0323" ypos="0.947049" zpos="-51.9388" type="leag.explorer.lae.wp" GUID="hWoRGzIa+USvqSwLdlL9XQ==" copy="[&amp;BA8EAAA=]" copy-message="Claw Island Portage Waypoint"/>
 		<POI MapID="50" xpos="-291.597" ypos="32.0613" zpos="370.523" type="leag.explorer.lae.karka" GUID="Gq5Ux/ir/06r26cXtIg4pg=="/>
 		<POI MapID="50" xpos="-284.854" ypos="42.1211" zpos="383.998" type="leag.explorer.lae.karka" GUID="XsJSdU8uTkGcuQXfkIAx6g=="/>
 		<POI MapID="50" xpos="-289.263" ypos="41.8503" zpos="377.295" type="leag.explorer.lae.karka" GUID="Q7xZbhNBjkePCiZ9JTUbFg=="/>
@@ -54,7 +54,7 @@
 		<POI MapID="50" xpos="240.935" ypos="41.6444" zpos="206.564" type="leag.explorer.lae.karka" GUID="TFtEbAAfSE+9lhdPVKXvbw=="/>
 		<POI MapID="50" xpos="258.732" ypos="-1.94807" zpos="361.731" type="leag.explorer.lae.karka" GUID="TJ4VlPmDtEiF0Eo9HLjxFg=="/>
 		<POI MapID="50" xpos="348.129" ypos="9.63266" zpos="281.765" type="leag.explorer.lae.karka" GUID="2UyX5RVF0EeXXTxxJ0lXRg=="/>
-		<POI MapID="50" xpos="369.383" ypos="33.0442" zpos="336.14" type="leag.explorer.lae.karka" GUID="ho49SUsYBk6lbtr6RxffRw==" fadeFar="300"/>
+		<POI MapID="50" xpos="369.383" ypos="33.0442" zpos="336.14" type="leag.explorer.lae.karka" GUID="ho49SUsYBk6lbtr6RxffRw==" fadeFar="390"/>
 		<POI MapID="50" xpos="382.095" ypos="24.5959" zpos="417.288" type="leag.explorer.lae.karka" GUID="8l3u6Rq9Z0Gbwo1Z6Pbb7g=="/>
 		<POI MapID="50" xpos="345.288" ypos="27.5348" zpos="429.435" type="leag.explorer.lae.karka" GUID="ytqm+y892U2gq6LBOSI6gw=="/>
 		<POI MapID="50" xpos="435.404" ypos="-2.2591" zpos="233.3" type="leag.explorer.lae.karka" GUID="lg6+0wYj8E6XEbfMGwLj1Q=="/>

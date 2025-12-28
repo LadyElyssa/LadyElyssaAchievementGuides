@@ -73,21 +73,21 @@
         <POI MapID="1550" xpos="556.497" ypos="423.099" zpos="-554.469" type="leag.jw.ls.cc.11" GUID="TGMcHI6OqUuOzyJ8c/G+gA=="/>
         <POI MapID="1550" xpos="-104.403" ypos="43.5779" zpos="98.0126" type="leag.jw.ls.cc.12" GUID="j8WbdWZCJUCbPnkkE+6FNw=="/>
         <POI MapID="1550" xpos="566.436" ypos="423.126" zpos="-564.495" type="leag.jw.ls.cc.13" GUID="vWXbijhu/U2CPClBwH312Q=="/>
-        <POI MapID="1550" xpos="604.859" ypos="63.0971" zpos="282.397" type="leag.jw.ls.cc.wp" GUID="eqEbrAB5o02J2TJbcdbcIA==" copy="[&BCcPAAA=]" copy-message="Astral Ward Moon Camp Waypoint"/>
-        <POI MapID="1550" xpos="448.517" ypos="338.428" zpos="-560.67" type="leag.jw.ls.cc.wp" GUID="49xP9K58vUizgiqQHnkiqg==" copy="[&BN8OAAA=]" copy-message="Harvest Shore Waypoint"/>
-        <POI MapID="1550" xpos="914.186" ypos="1.80426" zpos="484.038" type="leag.jw.ls.cc.wp" GUID="i6Q7ZS0NDUKw3Arx9mLixw==" copy="[&BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
-        <POI MapID="1550" xpos="-261.617" ypos="210.013" zpos="-307.877" type="leag.jw.ls.cc.wp" GUID="sLmaop0NfEaDMLQ33KrF/w==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
-        <POI MapID="1550" xpos="690.696" ypos="326.615" zpos="52.5225" type="leag.jw.ls.cc.wp" GUID="0MNTZPv+K0i5UBKukdc5yQ==" copy="[&BPsOAAA=]" copy-message="Journeykin Outpost Waypoint"/>
-        <POI MapID="1550" xpos="-534.977" ypos="2.1053" zpos="416.657" type="leag.jw.ls.cc.wp" GUID="MA2IMb90BkSEsh3MNwSBzw==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint - Return to Echoes of Night"/>
-        <POI MapID="1550" xpos="820.574" ypos="261.635" zpos="272.329" type="leag.jw.ls.cc.wp" GUID="h9cv1IALmEaFNGyOoW61ew==" copy="[&BK4OAAA=]" copy-message="Autumn's Vale Waypoint"/>
+        <POI MapID="1550" xpos="604.859" ypos="63.0971" zpos="282.397" type="leag.jw.ls.cc.wp" GUID="eqEbrAB5o02J2TJbcdbcIA==" copy="[&amp;BCcPAAA=]" copy-message="Astral Ward Moon Camp Waypoint"/>
+        <POI MapID="1550" xpos="448.517" ypos="338.428" zpos="-560.67" type="leag.jw.ls.cc.wp" GUID="49xP9K58vUizgiqQHnkiqg==" copy="[&amp;BN8OAAA=]" copy-message="Harvest Shore Waypoint"/>
+        <POI MapID="1550" xpos="914.186" ypos="1.80426" zpos="484.038" type="leag.jw.ls.cc.wp" GUID="i6Q7ZS0NDUKw3Arx9mLixw==" copy="[&amp;BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
+        <POI MapID="1550" xpos="-261.617" ypos="210.013" zpos="-307.877" type="leag.jw.ls.cc.wp" GUID="sLmaop0NfEaDMLQ33KrF/w==" copy="[&amp;BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
+        <POI MapID="1550" xpos="690.696" ypos="326.615" zpos="52.5225" type="leag.jw.ls.cc.wp" GUID="0MNTZPv+K0i5UBKukdc5yQ==" copy="[&amp;BPsOAAA=]" copy-message="Journeykin Outpost Waypoint"/>
+        <POI MapID="1550" xpos="-534.977" ypos="2.1053" zpos="416.657" type="leag.jw.ls.cc.wp" GUID="MA2IMb90BkSEsh3MNwSBzw==" copy="[&amp;BK4OAAA=]" copy-message="Harvest Den Waypoint - Return to Echoes of Night"/>
+        <POI MapID="1550" xpos="820.574" ypos="261.635" zpos="272.329" type="leag.jw.ls.cc.wp" GUID="h9cv1IALmEaFNGyOoW61ew==" copy="[&amp;BK4OAAA=]" copy-message="Autumn's Vale Waypoint"/>
         <POI MapID="1550" xpos="-168.266" ypos="199.496" zpos="-44.2857" type="leag.jw.ls.cc" GUID="+EnP0lKV102efOKnEH1cfg==" iconFile="Data/Images/Icons/Talk.png"/>
-        <POI MapID="1550" xpos="-169.584" ypos="195.96" zpos="-44.1255" type="leag.jw.ls.cc.wp" GUID="ej/D5P5KY0WNrksqAa4GTw==" copy="[&BCcPAAA=]" copy-message="After Event - Astral Ward Moon Camp Waypoint"/>
-        <POI MapID="1550" xpos="748.735" ypos="303.807" zpos="-368.158" type="leag.jw.ls.cc.wp" GUID="4w1QKKZHRkecuqR9XLY2Ww==" copy="[&BCcPAAA=]" copy-message="Astral Ward Moon Camp Waypoint"/>
+        <POI MapID="1550" xpos="-169.584" ypos="195.96" zpos="-44.1255" type="leag.jw.ls.cc.wp" GUID="ej/D5P5KY0WNrksqAa4GTw==" copy="[&amp;BCcPAAA=]" copy-message="After Event - Astral Ward Moon Camp Waypoint"/>
+        <POI MapID="1550" xpos="748.735" ypos="303.807" zpos="-368.158" type="leag.jw.ls.cc.wp" GUID="4w1QKKZHRkecuqR9XLY2Ww==" copy="[&amp;BCcPAAA=]" copy-message="Astral Ward Moon Camp Waypoint"/>
         <POI MapID="1550" xpos="541.866" ypos="311.848" zpos="-250.126" type="leag.jw.ls.cc" GUID="5ijCLBASRkuFrj9ctHi0dA==" iconFile="Data/Images/Icons/Talk.png"/>
-        <POI MapID="1550" xpos="542.118" ypos="309.813" zpos="-250.189" type="leag.jw.ls.cc.wp" GUID="dnTg4BykkUKs5UlG0w/eLg==" copy="[&BK4OAAA=]" copy-message="Autumn's Vale Waypoint"/>
+        <POI MapID="1550" xpos="542.118" ypos="309.813" zpos="-250.189" type="leag.jw.ls.cc.wp" GUID="dnTg4BykkUKs5UlG0w/eLg==" copy="[&amp;BK4OAAA=]" copy-message="Autumn's Vale Waypoint"/>
         <POI MapID="1550" xpos="-400.278" ypos="70.9096" zpos="40.4247" type="leag.jw.ls.cc" GUID="cBpzGAy2EkqCBlvDEUxZ1A==" iconFile="Data/Images/Icons/Talk.png"/>
-        <POI MapID="1550" xpos="-399.215" ypos="67.4096" zpos="39.6036" type="leag.jw.ls.cc.wp" GUID="I2rrVPmhJESZ6iOqWoIRqg==" copy="[&BCcPAAA=]" copy-message="After Event - Astral Ward Moon Camp Waypoint"/>
-        <POI MapID="1550" xpos="598.843" ypos="423.096" zpos="-559.225" type="leag.jw.ls.cc.wp" GUID="OL/oszbbUUeG9Eyaibkn5Q==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint - Return to Echoes of Night"/>
+        <POI MapID="1550" xpos="-399.215" ypos="67.4096" zpos="39.6036" type="leag.jw.ls.cc.wp" GUID="I2rrVPmhJESZ6iOqWoIRqg==" copy="[&amp;BCcPAAA=]" copy-message="After Event - Astral Ward Moon Camp Waypoint"/>
+        <POI MapID="1550" xpos="598.843" ypos="423.096" zpos="-559.225" type="leag.jw.ls.cc.wp" GUID="OL/oszbbUUeG9Eyaibkn5Q==" copy="[&amp;BK4OAAA=]" copy-message="Harvest Den Waypoint - Return to Echoes of Night"/>
 
         <!-- Cultural Culinary Comprehension -->
         <Trail type="leag.jw.ls.ccc" trailData="Data/JW/To Cultural Culinary Comprehension.trl"/>
@@ -112,7 +112,7 @@
         <POI MapID="1550" xpos="557.6339" ypos="395.5073" zpos="-501.5738" type="leag.jw.ls.gtct.3" GUID="dzkye8CJaEu73V0Rr+xhtg==" info="Return to Zizel"/>
         <Trail type="leag.jw.ls.gtct.5" trailData="Data/JW/Gettin' the Crew Together 5.trl" inGameVisibility="1"/>
         <Trail type="leag.jw.ls.gtct.6" trailData="Data/JW/Gettin' the Crew Together 6.trl" inGameVisibility="1"/>
-        <POI MapID="1550" xpos="-493.397" ypos="-4.407524" zpos="-70.91869" type="leag.jw.ls.gtct.wp" GUID="Sb1wZ1v1oEOip30LyHhUvg==" copy="[&BMkOAAA=] then goto [&BCUPAAA=]" copy-message="Hot Springs Waypoint&#xa;EVENT: Collect Frog's at Amphibian's Knot, Exorheic Falls"/>
+        <POI MapID="1550" xpos="-493.397" ypos="-4.407524" zpos="-70.91869" type="leag.jw.ls.gtct.wp" GUID="Sb1wZ1v1oEOip30LyHhUvg==" copy="[&amp;BMkOAAA=] then goto [&amp;BCUPAAA=]" copy-message="Hot Springs Waypoint&#xa;EVENT: Collect Frog's at Amphibian's Knot, Exorheic Falls"/>
         <Trail type="leag.jw.ls.gtct.7" trailData="Data/JW/Gettin' the Crew Together 7a.trl" inGameVisibility="1"/>
         <Trail type="leag.jw.ls.gtct.7" trailData="Data/JW/Gettin' the Crew Together 7b.trl" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-189.7956" ypos="149.2855" zpos="-250.5638" type="leag.jw.ls.gtct" GUID="PyvOxwzE6ECeCQTOAxxxIQ==" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapVisibility="1" minimapVisibility="1" mapDisplaySize="128"/>
@@ -135,24 +135,24 @@
         <POI MapID="1550" xpos="-879.012" ypos="3.2193" zpos="102.052" type="leag.jw.ls.gtct.7" GUID="OIFbEmOpk0WMxLOg0HjzaA=="/>
         <POI MapID="1550" xpos="-341.718" ypos="212.4868" zpos="-479.0975" type="leag.jw.ls.gtct.7" GUID="irLRc2DfB0m04qqsL40i/w=="/>
         <POI MapID="1550" xpos="-341.718" ypos="212.4868" zpos="-479.0975" type="leag.jw.ls.gtct.7" GUID="VyLHawPAfEq78b3OmxQkVw==" iconFile="Data/Images/Numbers/7.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
-        <POI MapID="1550" xpos="-878.0458" ypos="2.963018" zpos="102.7631" type="leag.jw.ls.gtct.wp" GUID="DfRzrg5bq0mIv09WAJUeuw==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
+        <POI MapID="1550" xpos="-878.0458" ypos="2.963018" zpos="102.7631" type="leag.jw.ls.gtct.wp" GUID="DfRzrg5bq0mIv09WAJUeuw==" copy="[&amp;BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
         <POI MapID="1550" xpos="539.201" ypos="218.402" zpos="35.718" type="leag.jw.ls.gtct.8" GUID="XutRxfOLv0KHsBf3TdU5SQ==" iconFile="Data/Images/Numbers/8.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
         <POI MapID="1550" xpos="511.391" ypos="212.641" zpos="-115.202" type="leag.jw.ls.gtct.8" GUID="7qggHM791UaTVaShkWZ2Ow=="/>
-        <POI MapID="1550" xpos="511.4194" ypos="212.6646" zpos="-115.5599" type="leag.jw.ls.gtct.wp" GUID="0+igeKKm0UGxv9YkmCtUNg==" copy="[&BMkOAAA=]" copy-message="After Feeding Fang the special cabbage, goto Hot Springs Waypoint"/>
+        <POI MapID="1550" xpos="511.4194" ypos="212.6646" zpos="-115.5599" type="leag.jw.ls.gtct.wp" GUID="0+igeKKm0UGxv9YkmCtUNg==" copy="[&amp;BMkOAAA=]" copy-message="After Feeding Fang the special cabbage, goto Hot Springs Waypoint"/>
         <POI MapID="1550" xpos="-339.989" ypos="213.145" zpos="-479.657" type="leag.jw.ls.gtct.9" GUID="uH4scwhkhkCVAvKLfZrVcw==" iconFile="Data/Images/Numbers/9.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
-        <POI MapID="1550" xpos="48.53198" ypos="305.1057" zpos="-516.5078" type="leag.jw.ls.gtct.wp" GUID="MhekwY2GlESqCOXDI1/b0Q==" copy="[&BCcPAAA=]" copy-message="After saving the Wolf Pup, goto Astral Ward Moon Camp Waypoint"/>
+        <POI MapID="1550" xpos="48.53198" ypos="305.1057" zpos="-516.5078" type="leag.jw.ls.gtct.wp" GUID="MhekwY2GlESqCOXDI1/b0Q==" copy="[&amp;BCcPAAA=]" copy-message="After saving the Wolf Pup, goto Astral Ward Moon Camp Waypoint"/>
         <POI MapID="1550" xpos="-331.764" ypos="217.1" zpos="-470.237" type="leag.jw.ls.gtct.9" GUID="Yj2LV9LqukKH9vc2zwOxrA=="/>
         <POI MapID="1550" xpos="552.496" ypos="423.099" zpos="-558.865" type="leag.jw.ls.gtct.9" GUID="y7FeoVXgWEKEtWqP+qOhtA==" iconFile="Data/Images/Numbers/9.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
         <POI MapID="1550" xpos="503.775" ypos="339.185" zpos="-698.258" type="leag.jw.ls.gtct.9" GUID="+vKnlUosFUW71MhcBXlQHw=="/>
-        <POI MapID="1550" xpos="503.7067" ypos="339.2333" zpos="-698.4443" type="leag.jw.ls.gtct.10" GUID="Tg9p791QhkWjX1GnaKmC4w==" copy="[&BBAPAAA=]" copy-message="Apiary Holt PoI"/>
+        <POI MapID="1550" xpos="503.7067" ypos="339.2333" zpos="-698.4443" type="leag.jw.ls.gtct.10" GUID="Tg9p791QhkWjX1GnaKmC4w==" copy="[&amp;BBAPAAA=]" copy-message="Apiary Holt PoI"/>
         <POI MapID="1550" xpos="-343.907" ypos="212.073" zpos="-478.5" type="leag.jw.ls.gtct.10" GUID="m3TydKV+DUGzb/rp4nvadA==" iconFile="Data/Images/Numbers/10.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
         <POI MapID="1550" xpos="919.283" ypos="344.941" zpos="-111.479" type="leag.jw.ls.gtct.10" GUID="PdPLeNu0QkCFvPijojLYaw=="/>
         <POI MapID="1550" xpos="-201.352" ypos="175.169" zpos="-75.0674" type="leag.jw.ls.gtct.10" GUID="HwxLfoV5WkOa2Zs9BB9RVw=="/>
-        <POI MapID="1550" xpos="919.212" ypos="344.9267" zpos="-111.6385" type="leag.jw.ls.gtct.wp" GUID="uPw8nNKwVUqPX84xa7WEBw==" copy="[&BMkOAAA=]" copy-message="10. Hot Springs Waypoint"/>
-        <POI MapID="1550" xpos="-204.2025" ypos="155.6792" zpos="-74.65552" type="leag.jw.ls.gtct.wp" GUID="ou5CwB/8DUON9DvMwTW3SA==" copy="[&BC4PAAA=]" copy-message="Autumn's Vale Waypoint"/>
+        <POI MapID="1550" xpos="919.212" ypos="344.9267" zpos="-111.6385" type="leag.jw.ls.gtct.wp" GUID="uPw8nNKwVUqPX84xa7WEBw==" copy="[&amp;BMkOAAA=]" copy-message="10. Hot Springs Waypoint"/>
+        <POI MapID="1550" xpos="-204.2025" ypos="155.6792" zpos="-74.65552" type="leag.jw.ls.gtct.wp" GUID="ou5CwB/8DUON9DvMwTW3SA==" copy="[&amp;BC4PAAA=]" copy-message="Autumn's Vale Waypoint"/>
         <POI MapID="1550" xpos="-107.567" ypos="44.2175" zpos="96.908" type="leag.jw.ls.gtct.11" GUID="PwoZmu35zUKkBOahal1gvA==" iconFile="Data/Images/Numbers/11.png" inGameVisibility="1" mapVisibility="0" minimapVisibility="0"/>
         <POI MapID="1550" xpos="163.968" ypos="337.448" zpos="-171.654" type="leag.jw.ls.gtct.11" GUID="1egrKdQlnUKtT0JH19xM/Q=="/>
-        <POI MapID="1550" xpos="164.02" ypos="337.479" zpos="-171.953" type="leag.jw.ls.gtct.wp" GUID="1c8PpH2NcUesWfnRIdVSjg==" copy="[&BK4OAAA=]" copy-message="Goto Harvest Den WP then go to No. 5" triggerrange="2" autotrigger="true" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="164.02" ypos="337.479" zpos="-171.953" type="leag.jw.ls.gtct.wp" GUID="1c8PpH2NcUesWfnRIdVSjg==" copy="[&amp;BK4OAAA=]" copy-message="Goto Harvest Den WP then go to No. 5" triggerrange="2" autotrigger="true" inGameVisibility="1"/>
         
         <!-- Golden Mushroom Guru -->
         <POI MapID="1550" xpos="797.224" ypos="319.774" zpos="-226.096" type="leag.jw.ls.gmg" GUID="MH2OICCmfE65pW0WlZxseQ==" iconFile="Data/Images/Circlet.png" ingameVisibility="0"/>
@@ -170,7 +170,7 @@
         <Trail type="leag.jw.ls.jth.path.2" trailData="Data/JW/Janthiri Treasure Hunter LS 2 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1550" xpos="549.511" ypos="423.069" zpos="-573.978" type="leag.jw.ls.jth.start" GUID="j3c9vsL4bEmdkT8pM2EQ6Q=="/>
         <POI MapID="1550" xpos="552.607" ypos="423.099" zpos="-556.283" type="leag.jw.ls.jth.path.1" GUID="T/sxGOVgcUyOlWGWmcYVEA=="/>
-        <POI MapID="1550" xpos="437.7385" ypos="65.56487" zpos="201.1282" type="leag.jw.ls.jth.wp" GUID="Frs0sruxFUKwxxa9Q0Z+gg==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
+        <POI MapID="1550" xpos="437.7385" ypos="65.56487" zpos="201.1282" type="leag.jw.ls.jth.wp" GUID="Frs0sruxFUKwxxa9Q0Z+gg==" copy="[&amp;BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
         <POI MapID="1550" xpos="542.201" ypos="218.719" zpos="37.1884" type="leag.jw.ls.jth.path.2" GUID="J3ePu/ViNUKsiKE9o03pOg=="/>
         <POI MapID="1550" xpos="641.181" ypos="376.857" zpos="-533.914" type="leag.jw.ls.jth.dig" GUID="udnd2A5yHkuemcvWfI2pQg=="/>
         <POI MapID="1550" xpos="742.435" ypos="359.927" zpos="-557.777" type="leag.jw.ls.jth.dig" GUID="3kqufanWtECW/IW2FplncA=="/>
@@ -418,7 +418,7 @@
         <!-- Returning Kindness -->
         <Trail type="leag.jw.ls.kindness" trailData="Data/JW/Returning Kindness.trl"/>
         <POI MapID="1550" xpos="529.949" ypos="217.505" zpos="54.3688" type="leag.jw.ls.kindness.start" GUID="ahsUsBlpAUqkkkA4GTp2hw=="/>
-        <POI MapID="1550" xpos="666.49" ypos="90.6956" zpos="319.794" type="leag.jw.ls.kindness.wp" GUID="qhJX3M3vnEK8OUvIbNHM+Q==" copy="[&BK4OAAA=]" copy-message="Autumn's Vale Waypoint" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="666.49" ypos="90.6956" zpos="319.794" type="leag.jw.ls.kindness.wp" GUID="qhJX3M3vnEK8OUvIbNHM+Q==" copy="[&amp;BK4OAAA=]" copy-message="Autumn's Vale Waypoint" inGameVisibility="1"/>
 
         <!-- Star-Crossed Lovers -->
         <Trail type="leag.jw.ls.scl" trailData="Data/JW/Star-Crossed Lovers 1.trl"/>
@@ -461,7 +461,7 @@
         <!-- Numbers -->
         <POI MapID="1550" xpos="554.714" ypos="423.099" zpos="-557.609" type="leag.jw.ls.totlw.1" GUID="HWDh+qiuxEG6jRPk21a4+Q==" iconFile="Data/Images/Numbers/1.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="550.821" ypos="393.194" zpos="-541.563" type="leag.jw.ls.totlw.2" GUID="6hu7FO0Zb0C+6Xl76vxUVQ==" iconFile="Data/Images/Numbers/2.png" inGameVisibility="1"/>
-        <POI MapID="1550" xpos="398.086" ypos="327.215" zpos="-96.9219" type="leag.jw.ls.totlw.wp" GUID="ewQh80RZGEapvr6JOOY01g==" copy="[&BCcPAAA=]" copy-message="Astral Ward Moon Camp Waypoint" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="398.086" ypos="327.215" zpos="-96.9219" type="leag.jw.ls.totlw.wp" GUID="ewQh80RZGEapvr6JOOY01g==" copy="[&amp;BCcPAAA=]" copy-message="Astral Ward Moon Camp Waypoint" inGameVisibility="1"/>
         <POI MapID="1550" xpos="527.825" ypos="341.976" zpos="-405.14" type="leag.jw.ls.totlw.2" GUID="3ORlGbL4BkCREuhyiMOcBg==" iconFile="Data/Images/Numbers/n2.png"/>
         <POI MapID="1550" xpos="559.768" ypos="423.099" zpos="-558.71" type="leag.jw.ls.totlw.3" GUID="CTye3MtQVEyKcGKWHQTPLg==" iconFile="Data/Images/Numbers/3.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="943.369" ypos="379.432" zpos="-415.414" type="leag.jw.ls.totlw.3" GUID="PMxP1lUaH0eOQ8tS4h9YJQ==" iconFile="Data/Images/Numbers/n3.png"/>
@@ -469,31 +469,31 @@
         <POI MapID="1550" xpos="951.688" ypos="333.051" zpos="62.9275" type="leag.jw.ls.totlw.4" GUID="1yoAGxLUTUSCTp/km4f/bw==" iconFile="Data/Images/Numbers/n4.png"/>
         <POI MapID="1550" xpos="820.477" ypos="261.461" zpos="273.711" type="leag.jw.ls.totlw.5" GUID="VFvE4lW0rE6ow+wjicc6ow==" iconFile="Data/Images/Numbers/5.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="781.877" ypos="-0.0181531" zpos="432.986" type="leag.jw.ls.totlw.5" GUID="kATml5P0U0GGXvVzX8XJeQ==" iconFile="Data/Images/Numbers/n5.png"/>
-        <POI MapID="1550" xpos="1016.34" ypos="0.496725" zpos="498.823" type="leag.jw.ls.totlw.wp" GUID="aYSGa7krhkGqaY6WNRHNSQ==" copy="[&BN8OAAA=]" copy-message="Harvest Shore Waypoint" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="1016.34" ypos="0.496725" zpos="498.823" type="leag.jw.ls.totlw.wp" GUID="aYSGa7krhkGqaY6WNRHNSQ==" copy="[&amp;BN8OAAA=]" copy-message="Harvest Shore Waypoint" inGameVisibility="1"/>
         <POI MapID="1550" xpos="696.705" ypos="2.39066" zpos="565.404" type="leag.jw.ls.totlw.6" GUID="vVCXuP9SKkqkGwSR6mEeag==" iconFile="Data/Images/Numbers/6.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-65.7903" ypos="20.2633" zpos="509.451" type="leag.jw.ls.totlw.6" GUID="wjuF4xXkZEeddzh9kzd7YQ==" iconFile="Data/Images/Numbers/n6.png"/>
         <POI MapID="1550" xpos="-105.5842" ypos="43.96525" zpos="96.45458" type="leag.jw.ls.totlw.8" GUID="amjX/6AxdU2FczAVa0wCPg==" iconFile="Data/Images/Numbers/8.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-144.316" ypos="108.305" zpos="461.467" type="leag.jw.ls.totlw.8" GUID="FmDccBeVBUSE6thkja6HZQ==" iconFile="Data/Images/Numbers/n8.png"/>
-        <POI MapID="1550" xpos="-144.11" ypos="108.305" zpos="458.15" type="leag.jw.ls.totlw.wp" GUID="VqzL9gQhekWPeMPI4zGJag==" copy="[&BPsOAAA=]" copy-message="Journeykin Outpost Waypoint" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-144.11" ypos="108.305" zpos="458.15" type="leag.jw.ls.totlw.wp" GUID="VqzL9gQhekWPeMPI4zGJag==" copy="[&amp;BPsOAAA=]" copy-message="Journeykin Outpost Waypoint" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-714.982" ypos="210.306" zpos="-58.9454" type="leag.jw.ls.totlw.9" GUID="Tdohe3zI+EKKC1Ii3owYsA==" iconFile="Data/Images/Numbers/9.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-509.354" ypos="27.0998" zpos="266.114" type="leag.jw.ls.totlw.9" GUID="wPJd+7cQKUeHyuiXvpL49Q==" iconFile="Data/Images/Numbers/n9.png"/>
-        <POI MapID="1550" xpos="-903.3" ypos="21.6833" zpos="379.619" type="leag.jw.ls.totlw.wp" GUID="7P7rAIKKXUuXtuVhf1pR0w==" copy="[&BC4PAAA=]" copy-message="Autumn's Vale Waypoint" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-903.3" ypos="21.6833" zpos="379.619" type="leag.jw.ls.totlw.wp" GUID="7P7rAIKKXUuXtuVhf1pR0w==" copy="[&amp;BC4PAAA=]" copy-message="Autumn's Vale Waypoint" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-107.835" ypos="44.2652" zpos="96.8051" type="leag.jw.ls.totlw.10" GUID="NtaWirXOuk+GXjv0tZlCsQ==" iconFile="Data/Images/Numbers/10.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-216.936" ypos="129.213" zpos="61.4977" type="leag.jw.ls.totlw.10" GUID="WZSEJaNY9kmCP3DZryYgLg==" iconFile="Data/Images/Numbers/n10.png"/>
         <POI MapID="1550" xpos="-203.852" ypos="219.621" zpos="2.27546" type="leag.jw.ls.totlw.11" GUID="/VYMGfT3T0CYPucN5vEWnw==" iconFile="Data/Images/Numbers/11.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-29.2005" ypos="10.5376" zpos="251.474" type="leag.jw.ls.totlw.11" GUID="VEZFO2hLrUWz4XfaYf7Frw==" iconFile="Data/Images/Numbers/n11.png"/>
-        <POI MapID="1550" xpos="-56.641" ypos="92.2933" zpos="220.611" type="leag.jw.ls.totlw.wp" GUID="TSY2FVE9CUS5xGcZvHawRA==" copy="[&BMkOAAA=]" copy-message="Hot Springs Waypoint" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-56.641" ypos="92.2933" zpos="220.611" type="leag.jw.ls.totlw.wp" GUID="TSY2FVE9CUS5xGcZvHawRA==" copy="[&amp;BMkOAAA=]" copy-message="Hot Springs Waypoint" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-340.186" ypos="213.307" zpos="-481.432" type="leag.jw.ls.totlw.12" GUID="ds69wHVz7UOX5mjS8yyFlg==" iconFile="Data/Images/Numbers/12.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="19.8251" ypos="304.59" zpos="-379.849" type="leag.jw.ls.totlw.12" GUID="murw9oHC2U2tnM1GJ4MBbQ==" iconFile="Data/Images/Numbers/n12.png"/>
         <POI MapID="1550" xpos="-346.314" ypos="212.54" zpos="-481.607" type="leag.jw.ls.totlw.13" GUID="+xDhRECdv0u1eiYAYCodYQ==" iconFile="Data/Images/Numbers/13.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="-550.522" ypos="216.524" zpos="-453.539" type="leag.jw.ls.totlw.13" GUID="KFku+FMBxEuKSkGNijsXhQ==" iconFile="Data/Images/Numbers/n13.png"/>
         <POI MapID="1550" xpos="-778.003" ypos="301.414" zpos="-466.224" type="leag.jw.ls.totlw.14" GUID="kAg6wEp6MkKjxEoDW6u1yw==" iconFile="Data/Images/Numbers/14.png" inGameVisibility="1"/>
-        <POI MapID="1550" xpos="-778.523" ypos="305.422" zpos="-572.309" type="leag.jw.ls.totlw.wp" GUID="FuEg/FQkjEC3gBq/0t8Dmw==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
+        <POI MapID="1550" xpos="-778.523" ypos="305.422" zpos="-572.309" type="leag.jw.ls.totlw.wp" GUID="FuEg/FQkjEC3gBq/0t8Dmw==" copy="[&amp;BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
         <POI MapID="1550" xpos="536.61" ypos="218.825" zpos="45.6336" type="leag.jw.ls.totlw.15" GUID="cJF4C70C/kOXb1CWpCyaSQ==" iconFile="Data/Images/Numbers/15.png" inGameVisibility="1"/>
         <POI MapID="1550" xpos="676.642" ypos="100.345" zpos="185.107" type="leag.jw.ls.totlw.15" GUID="aCjNVw6IBEuH718pSXn+bQ==" iconFile="Data/Images/Numbers/n15.png"/>
         <POI MapID="1550" xpos="434.132" ypos="106.923" zpos="206.049" type="leag.jw.ls.totlw.16" GUID="Dmm8BeU+50a54ctL6raOWA==" iconFile="Data/Images/Numbers/n16.png"/>
-        <POI MapID="1550" xpos="435.325" ypos="107.637" zpos="201.579" type="leag.jw.ls.totlw.wp" GUID="fUPH15ttmkiVmW5a1pZI6Q==" copy="[&BC4PAAA=]" copy-message="Autumn's Vale Waypoint&#xA;Follow Route 8 back to Stalwart Heart" inGameVisibility="1"/>
-        <POI MapID="1550" xpos="-248.8621" ypos="308.5166" zpos="-584.4116" type="leag.jw.ls.totlw.wp" GUID="QEhBBL4bH0K9ohtl2VGGog==" copy="[&BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
+        <POI MapID="1550" xpos="435.325" ypos="107.637" zpos="201.579" type="leag.jw.ls.totlw.wp" GUID="fUPH15ttmkiVmW5a1pZI6Q==" copy="[&amp;BC4PAAA=]" copy-message="Autumn's Vale Waypoint&#xA;Follow Route 8 back to Stalwart Heart" inGameVisibility="1"/>
+        <POI MapID="1550" xpos="-248.8621" ypos="308.5166" zpos="-584.4116" type="leag.jw.ls.totlw.wp" GUID="QEhBBL4bH0K9ohtl2VGGog==" copy="[&amp;BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
         <POI MapID="1550" xpos="951.458" ypos="332.253" zpos="54.584" type="leag.jw.ls.totlw.wp" GUID="/prKrmSaakqXLZ5AoxFkgg==" info="/bow and then follow the Wisp" infoRange="5"/>
         
         <POI MapID="1550" xpos="-151.917" ypos="108.305" zpos="457.878" type="leag.jw.ls.totlw.17" GUID="l9YRgC2E90Krsmrnb+B1tA==" iconFile="Data/Images/Numbers/n17.png"/>
@@ -578,23 +578,23 @@
         <POI MapID="1554" xpos="65.342" ypos="22.1601" zpos="-655.565" type="leag.jw.js.baq.2" GUID="CTGUff4Fp0ubMSrCZVYQ2w=="/>
         <POI MapID="1554" xpos="57.8911" ypos="27.1548" zpos="-671.435" type="leag.jw.js.baq.2" GUID="ay+Z+cggjEaJGZB9sMnjVA=="/>
         <POI MapID="1554" xpos="44.8779" ypos="28.0476" zpos="-674.012" type="leag.jw.js.baq.2" GUID="Bes/t9rbhU+MC/bURLYxKg=="/>
-        <POI MapID="1554" xpos="44.8779" ypos="28.0476" zpos="-674.012" type="leag.jw.js.baq.wp" GUID="C0FxX9/Ab0q/+O3RYQEDtg==" copy="[&BOQAAAA=]" copy-message="Provern Shore Waypoint in Gendarran Fields"/>
+        <POI MapID="1554" xpos="44.8779" ypos="28.0476" zpos="-674.012" type="leag.jw.js.baq.wp" GUID="C0FxX9/Ab0q/+O3RYQEDtg==" copy="[&amp;BOQAAAA=]" copy-message="Provern Shore Waypoint in Gendarran Fields"/>
         <POI MapID="1554" xpos="28.1708" ypos="29.0433" zpos="-674.119" type="leag.jw.js.baq.2" GUID="kiGYJeqIFU2JFTZlfUWNhQ=="/>
         <POI MapID="1554" xpos="23.6467" ypos="30.8263" zpos="-698.039" type="leag.jw.js.baq.2" GUID="rzF+s0L/Ak+NdDBmwhDYcA=="/>
         <POI MapID="1554" xpos="-21.1866" ypos="34.8449" zpos="-694.663" type="leag.jw.js.baq.2" GUID="kWD4timim0emWedrXVtCnw=="/>
         <POI MapID="1554" xpos="40.846" ypos="27.3341" zpos="-659.407" type="leag.jw.js.baq.2" GUID="l5gv7Z8clUaAusvpewfulg=="/>
-        <POI MapID="24" xpos="379.498" ypos="48.2666" zpos="505.39" type="leag.jw.js.baq.3" GUID="L4mXghy9okCU58Roj9Q0Eg=="  copy="[&BLcEAAA=]" copy-message="Apprentice Waypoint in Rata Sum"/>
+        <POI MapID="24" xpos="379.498" ypos="48.2666" zpos="505.39" type="leag.jw.js.baq.3" GUID="L4mXghy9okCU58Roj9Q0Eg=="  copy="[&amp;BLcEAAA=]" copy-message="Apprentice Waypoint in Rata Sum"/>
         <POI MapID="139" xpos="178.467" ypos="339.52" zpos="177.155" type="leag.jw.js.baq.4" GUID="Mq/mlF8W8EqEA33BDesx7w==" mapDisplaySize="20"/>
         <POI MapID="139" xpos="178.147" ypos="339.522" zpos="179.906" type="leag.jw.js.baq.4" GUID="/4S7+WDvb0G2COY5rX+f8w==" iconFile="Data/Images/Relyor Riddle.png" miniMapVisibility="0" mapVisibility="0" inGameVisibility="1"/>
-        <POI MapID="139" xpos="178.48" ypos="339.52" zpos="177.175" type="leag.jw.js.baq.wp" GUID="kW2gvOa+N0WWO+3CeKxROg==" copy="[&BC4PAAA=]" copy-message="Autumn Vale Waypoint in Lowland Shore"/>
+        <POI MapID="139" xpos="178.48" ypos="339.52" zpos="177.175" type="leag.jw.js.baq.wp" GUID="kW2gvOa+N0WWO+3CeKxROg==" copy="[&amp;BC4PAAA=]" copy-message="Autumn Vale Waypoint in Lowland Shore"/>
         <POI MapID="1550" xpos="-110.557" ypos="108.197" zpos="400.397" type="leag.jw.js.baq.5" GUID="CQxEVcGDt06P74N3Wc7JzQ=="/>
         <POI MapID="1550" xpos="-130.202" ypos="110.253" zpos="419.017" type="leag.jw.js.baq.5" GUID="a+sCOm0j/EeOnah+Z0j7Eg=="/>
         <POI MapID="1550" xpos="-63.5352" ypos="107.685" zpos="444.239" type="leag.jw.js.baq.5" GUID="i1f9bwkRSEik+VZ+w9pb9Q=="/>
-        <POI MapID="1550" xpos="-63.4963" ypos="107.691" zpos="444.267" type="leag.jw.js.baq.wp" GUID="JDotmWU/jkKbJ9fQh2Wvhw==" copy="[&BLIAAAA=]" copy-message="Arca Waypoint in Gendarran Fields"/>
+        <POI MapID="1550" xpos="-63.4963" ypos="107.691" zpos="444.267" type="leag.jw.js.baq.wp" GUID="JDotmWU/jkKbJ9fQh2Wvhw==" copy="[&amp;BLIAAAA=]" copy-message="Arca Waypoint in Gendarran Fields"/>
         <POI MapID="17" xpos="-456.23" ypos="52.7343" zpos="690.603" type="leag.jw.js.baq.6" GUID="l4j1dblmYUSMYu3b7S8Ptw=="/>
-        <POI MapID="17" xpos="-456.049" ypos="52.7337" zpos="690.586" type="leag.jw.js.baq.wp" GUID="CnD//KYmH0+W+qdHgH3T8w==" copy="[&BCMDAAA=]" copy-message="Dwayna Waypoint in Divinity's Reach"/>
+        <POI MapID="17" xpos="-456.049" ypos="52.7337" zpos="690.586" type="leag.jw.js.baq.wp" GUID="CnD//KYmH0+W+qdHgH3T8w==" copy="[&amp;BCMDAAA=]" copy-message="Dwayna Waypoint in Divinity's Reach"/>
         <POI MapID="18" xpos="58.9828" ypos="87.7292" zpos="-370.264" type="leag.jw.js.baq.7" GUID="/0tJ5GRrJ0aJ+O9zqP4pvw=="/>
-        <POI MapID="18" xpos="59.0187" ypos="87.749" zpos="-370.342" type="leag.jw.js.baq.wp" GUID="rk47jx1GLUOL+/yrMm4tLQ==" copy="[&BCwPAAA=]" copy-message="Sanguine Crater Waypoint in Janthir Syntri"/>
+        <POI MapID="18" xpos="59.0187" ypos="87.749" zpos="-370.342" type="leag.jw.js.baq.wp" GUID="rk47jx1GLUOL+/yrMm4tLQ==" copy="[&amp;BCwPAAA=]" copy-message="Sanguine Crater Waypoint in Janthir Syntri"/>
         <POI MapID="1554" xpos="160.176" ypos="-5.75797" zpos="49.7941" type="leag.jw.js.baq.8" GUID="mHfo+cUifk+vhmtMAbIbuw=="/>
         <POI MapID="1554" xpos="166.616" ypos="-2.98898" zpos="38.2602" type="leag.jw.js.baq.8" GUID="aAW2E8iSpkyc6NiA4re6Lg=="/>
         <POI MapID="1554" xpos="160.902" ypos="-4.10689" zpos="32.4206" type="leag.jw.js.baq.8" GUID="C7oI7JbTpUyRm+us2+wALA=="/>
@@ -619,8 +619,8 @@
         <Trail type="leag.jw.js.gtct.14" trailData="Data/JW/Gettin' the Crew Together 14.trl" inGameVisibility="1"/>
         <Trail type="leag.jw.js.gtct.15" trailData="Data/JW/Gettin' the Crew Together 15.trl" inGameVisibility="1"/>
         <Trail type="leag.jw.js.gtct.15" trailData="Data/JW/Gettin' the Crew Together 15b.trl" inGameVisibility="1"/>
-        <POI MapID="1554" xpos="671.2905" ypos="3.361988" zpos="-681.6716" type="leag.jw.js.gtct.wp" GUID="TDarpws3Zk2B7XObm3VHXg==" copy="13. [&BLgOAAA=] - 17. [&BK4OAAA=]" copy-message="13. Festering Basin Waypoint&#xa;17. Harvest Den WP follow No. 5"/>
-        <POI MapID="1554" xpos="-343.3581" ypos="44.58147" zpos="-608.2231" type="leag.jw.js.gtct.wp" GUID="qbINOJ8zcU+hkepKsZTaSQ==" copy="[&BCoPAAA=]" copy-message="Stricken Plains Waypoint"/>
+        <POI MapID="1554" xpos="671.2905" ypos="3.361988" zpos="-681.6716" type="leag.jw.js.gtct.wp" GUID="TDarpws3Zk2B7XObm3VHXg==" copy="13. [&amp;BLgOAAA=] - 17. [&amp;BK4OAAA=]" copy-message="13. Festering Basin Waypoint&#xa;17. Harvest Den WP follow No. 5"/>
+        <POI MapID="1554" xpos="-343.3581" ypos="44.58147" zpos="-608.2231" type="leag.jw.js.gtct.wp" GUID="qbINOJ8zcU+hkepKsZTaSQ==" copy="[&amp;BCoPAAA=]" copy-message="Stricken Plains Waypoint"/>
 
 
         <!-- Hero of the Woods -->
@@ -678,8 +678,8 @@
         <POI MapID="1554" xpos="-358.066" ypos="83.5985" zpos="55.459" type="leag.jw.js.jth.path.2" GUID="R10+pKfqR0un5JePiHAiuA=="/>
         <POI MapID="1554" xpos="-361.109" ypos="83.4989" zpos="61.0151" type="leag.jw.js.jth.path.3" GUID="stRPE1ojUE6qBCQe28ZeLw=="/>
         <POI MapID="1554" xpos="606.777" ypos="1.88059" zpos="-611.107" type="leag.jw.js.jth.start" GUID="qOc/iaPEcUGwY7rcc9KeRQ=="/>
-        <POI MapID="1554" xpos="-763.014" ypos="10.427" zpos="-686.021" type="leag.jw.js.jth.wp" GUID="i4sMyiWv8Em08H60gen79w==" copy="[&BCwPAAA=]" copy-message="Sanguine Crater Waypoint"/>
-        <POI MapID="1554" xpos="-441.95" ypos="49.507" zpos="-61.4623" type="leag.jw.js.jth.wp" GUID="EDBz0Rk7GECDQ78OZNFkwQ==" copy="[&BCwPAAA=]" copy-message="Sanguine Crater Waypoint"/>
+        <POI MapID="1554" xpos="-763.014" ypos="10.427" zpos="-686.021" type="leag.jw.js.jth.wp" GUID="i4sMyiWv8Em08H60gen79w==" copy="[&amp;BCwPAAA=]" copy-message="Sanguine Crater Waypoint"/>
+        <POI MapID="1554" xpos="-441.95" ypos="49.507" zpos="-61.4623" type="leag.jw.js.jth.wp" GUID="EDBz0Rk7GECDQ78OZNFkwQ==" copy="[&amp;BCwPAAA=]" copy-message="Sanguine Crater Waypoint"/>
         <POI MapID="1554" xpos="602.787" ypos="1.25919" zpos="-614.479" type="leag.jw.js.jth.dig" GUID="AqbQ4VmL9U6MyhXW3DeEsg=="/>
         <POI MapID="1554" xpos="507.561" ypos="0.367694" zpos="-580.599" type="leag.jw.js.jth.dig" GUID="GM2OXiLHa0SJz5VgeUTGiw=="/>
         <POI MapID="1554" xpos="439.093" ypos="1.10122" zpos="-683.247" type="leag.jw.js.jth.dig" GUID="SZNnWIIZmk2UNzDHUHT32Q=="/>
@@ -885,21 +885,21 @@
         <POI MapID="1554" xpos="664.416" ypos="2.62702" zpos="-620.706" type="leag.jw.js.titan.2" GUID="gEG0/14HqU+30bu6orVOXQ=="/>
         <POI MapID="1554" xpos="672.699" ypos="0.729337" zpos="-640.391" type="leag.jw.js.titan.3" GUID="+nBRoke25UeOPSyVV3Zy3g=="/>
         <POI MapID="1554" xpos="89.3603" ypos="43.9338" zpos="-679.974" type="leag.jw.js.titan.4" GUID="UtmtNJSAuEKINt7j5njmcA=="/>
-        <POI MapID="1554" xpos="89.1174" ypos="43.9836" zpos="-680.476" type="leag.jw.js.titan.wp" GUID="KAWurJ+DH02b8qg/gL3JqQ==" copy="[&BLgOAAA=]" copy-message="Festering Basin Waypoint"/>
+        <POI MapID="1554" xpos="89.1174" ypos="43.9836" zpos="-680.476" type="leag.jw.js.titan.wp" GUID="KAWurJ+DH02b8qg/gL3JqQ==" copy="[&amp;BLgOAAA=]" copy-message="Festering Basin Waypoint"/>
         <POI MapID="1554" xpos="-738.259" ypos="91.599" zpos="-185.915" type="leag.jw.js.titan.5" GUID="6XrI5xxXdEGI1ebcCxiAtg=="/>
-        <POI MapID="1554" xpos="-739.137" ypos="91.7494" zpos="-186.295" type="leag.jw.js.titan.wp" GUID="lg4D270TD0q/FdykZQVdHw==" copy="[&BCoPAAA=]" copy-message="Durmand Priory Waypoint"/>
+        <POI MapID="1554" xpos="-739.137" ypos="91.7494" zpos="-186.295" type="leag.jw.js.titan.wp" GUID="lg4D270TD0q/FdykZQVdHw==" copy="[&amp;BCoPAAA=]" copy-message="Durmand Priory Waypoint"/>
         <POI MapID="1554" xpos="353.204" ypos="26.2996" zpos="79.5341" type="leag.jw.js.titan.6" GUID="AY1AIJC1LUa7J9GVFLbApg=="/>
         <POI MapID="1554" xpos="503.787" ypos="35.7723" zpos="44.3031" type="leag.jw.js.titan.7" GUID="DFbEziwLNUiWELYn2sroJw=="/>
-        <POI MapID="1554" xpos="503.85" ypos="35.7671" zpos="44.263" type="leag.jw.js.titan.wp" GUID="6YSFOdFD0kqKc/XGoXh6qw==" copy="[&BLgOAAA=]" copy-message="Festering Basin Waypoint"/>
+        <POI MapID="1554" xpos="503.85" ypos="35.7671" zpos="44.263" type="leag.jw.js.titan.wp" GUID="6YSFOdFD0kqKc/XGoXh6qw==" copy="[&amp;BLgOAAA=]" copy-message="Festering Basin Waypoint"/>
         <POI MapID="1554" xpos="-337.568" ypos="29.2722" zpos="-196.942" type="leag.jw.js.titan.8" GUID="JVx0MpEfdk6p6nri+1LzoA=="/>
         <POI MapID="1554" xpos="-15.5182" ypos="12.9198" zpos="-96.9343" type="leag.jw.js.titan.9" GUID="RMXXfypMykW+WDwraeFa5A=="/>
 
-        <POI MapID="1554" xpos="-15.5182" ypos="12.9198" zpos="-96.9343" type="leag.jw.js.titan.wp" GUID="GwFBbgTBcUmawSeDJm6Zug==" copy="[&BOkAAAA=]" copy-message="Durmand Priory Waypoint in Lornar's Pass"/>
+        <POI MapID="1554" xpos="-15.5182" ypos="12.9198" zpos="-96.9343" type="leag.jw.js.titan.wp" GUID="GwFBbgTBcUmawSeDJm6Zug==" copy="[&amp;BOkAAAA=]" copy-message="Durmand Priory Waypoint in Lornar's Pass"/>
         <POI MapID="27" xpos="-494.917" ypos="161.082" zpos="682.571" type="leag.jw.js.titan.10" GUID="7NH0Pcez80Sfcrge/7Q4FA=="/>
         <POI MapID="1543" xpos="-463.915" ypos="143.981" zpos="639.672" type="leag.jw.js.titan.10" GUID="v83cxNV7VUG8CIXNAtgo8w=="/>
         <POI MapID="1543" xpos="-463.638" ypos="143.978" zpos="639.621" type="leag.jw.js.titan.11" GUID="GwS48uOK8E60G+BuCm8+fQ=="/>
         <POI MapID="1543" xpos="-458.566" ypos="142.914" zpos="645.582" type="leag.jw.js.titan.12" GUID="uKTzCzxlBEexR7coLDWJXQ=="/>
-        <POI MapID="1543" xpos="-458.658" ypos="142.914" zpos="645.915" type="leag.jw.js.titan.wp" GUID="hbQnqF2dqkqm9HP6GEjHbg==" copy="[&BLcOAAA=]" copy-message="Forager's Hunt in Janthir Syntri"/>
+        <POI MapID="1543" xpos="-458.658" ypos="142.914" zpos="645.915" type="leag.jw.js.titan.wp" GUID="hbQnqF2dqkqm9HP6GEjHbg==" copy="[&amp;BLcOAAA=]" copy-message="Forager's Hunt in Janthir Syntri"/>
 
         <!-- True Artist -->
         <Trail type="leag.jw.js.artist" trailData="Data/JW/True Artist.trl"/>
@@ -925,13 +925,13 @@
         <Trail type="leag.jw.mb.game.9" trailData="Data/JW/Mursaat's Game 9.trl"/>
         <Trail type="leag.jw.mb.game.10" trailData="Data/JW/Mursaat's Game 10.trl"/>
         <POI MapID="1575" xpos="-1027.53" ypos="93.8764" zpos="27.9009" type="leag.jw.mb.game.start" GUID="RAhUD9II1kuXVSPlbTctyg=="/>
-        <POI MapID="1575" xpos="-1042.65" ypos="93.8764" zpos="-29.4313" type="leag.jw.mb.game.wp" GUID="kuHic30HC0+oGagY72qfAA==" copy="[&BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
-        <POI MapID="1550" xpos="587.809" ypos="173.03" zpos="151.464" type="leag.jw.mb.game.wp" GUID="cE6IE88/gEaCtaA2Xtmy3Q==" copy="[&BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
-        <POI MapID="1550" xpos="-392.461" ypos="208.926" zpos="-522.97" type="leag.jw.mb.game.wp" GUID="qLk+GPy7L020R4yKKJIt7w==" copy="[&BCwPAAA=]" copy-message="Sanguine Crater Waypoint"/>
-        <POI MapID="1554" xpos="-458.221" ypos="193.918" zpos="-140.332" type="leag.jw.mb.game.wp" GUID="kXt4pdC3vky5PxZIGZC7kw==" copy="[&BCoPAAA=]" copy-message="Stricken Plains Waypoint"/>
-        <POI MapID="1554" xpos="835.138" ypos="14.0918" zpos="311.612" type="leag.jw.mb.game.wp" GUID="8e3/QhecQkOX2xzA6PT37A==" copy="[&BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
-        <POI MapID="1575" xpos="-150.01" ypos="0.28589" zpos="474.63" type="leag.jw.mb.game.wp" GUID="mi6kVh7r2EGvJLlDrPUSiQ==" copy="[&BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
-        <POI MapID="1575" xpos="-188.715" ypos="178.839" zpos="-568.348" type="leag.jw.mb.game.wp" GUID="YNxqm35SHU+Pd6w7TNBXbg==" copy="[&BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
+        <POI MapID="1575" xpos="-1042.65" ypos="93.8764" zpos="-29.4313" type="leag.jw.mb.game.wp" GUID="kuHic30HC0+oGagY72qfAA==" copy="[&amp;BK4OAAA=]" copy-message="Harvest Den Waypoint"/>
+        <POI MapID="1550" xpos="587.809" ypos="173.03" zpos="151.464" type="leag.jw.mb.game.wp" GUID="cE6IE88/gEaCtaA2Xtmy3Q==" copy="[&amp;BMkOAAA=]" copy-message="Hot Springs Waypoint"/>
+        <POI MapID="1550" xpos="-392.461" ypos="208.926" zpos="-522.97" type="leag.jw.mb.game.wp" GUID="qLk+GPy7L020R4yKKJIt7w==" copy="[&amp;BCwPAAA=]" copy-message="Sanguine Crater Waypoint"/>
+        <POI MapID="1554" xpos="-458.221" ypos="193.918" zpos="-140.332" type="leag.jw.mb.game.wp" GUID="kXt4pdC3vky5PxZIGZC7kw==" copy="[&amp;BCoPAAA=]" copy-message="Stricken Plains Waypoint"/>
+        <POI MapID="1554" xpos="835.138" ypos="14.0918" zpos="311.612" type="leag.jw.mb.game.wp" GUID="8e3/QhecQkOX2xzA6PT37A==" copy="[&amp;BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
+        <POI MapID="1575" xpos="-150.01" ypos="0.28589" zpos="474.63" type="leag.jw.mb.game.wp" GUID="mi6kVh7r2EGvJLlDrPUSiQ==" copy="[&amp;BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
+        <POI MapID="1575" xpos="-188.715" ypos="178.839" zpos="-568.348" type="leag.jw.mb.game.wp" GUID="YNxqm35SHU+Pd6w7TNBXbg==" copy="[&amp;BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
         <POI MapID="1554" xpos="-472.362" ypos="105.164" zpos="-151.432" type="leag.jw.mb.game.mount.skyscale" GUID="mgTm+Ls+qUOjG8brcWWb/A=="/>
         <POI MapID="1575" xpos="-1011.75" ypos="93.8764" zpos="29.2978" type="leag.jw.mb.game.mount.skyscale" GUID="/fyCFkHv5kyMn8La7uysoQ=="/>
         <POI MapID="1575" xpos="-1022.13" ypos="93.8764" zpos="33.9841" type="leag.jw.mb.game.1" GUID="WgShE0xynU6Wx+IQeb7/pA=="/>
@@ -947,7 +947,7 @@
         <Trail type="leag.jw.mb.reading.journal.thunderbay" trailData="Data/JW/Reading Between the Lines 1.trl" inGameVisibility="1" mapDisplaySize="16"/>
         <Trail type="leag.jw.mb.reading.journal.thunderbay" trailData="Data/JW/Reading Between the Lines 2.trl" inGameVisibility="1" mapDisplaySize="16"/>
         <POI MapID="1554" xpos="171.222" ypos="2.62368" zpos="573.723" type="leag.jw.mb.reading.start" GUID="wjBwWppiOEWSeLEQDoji8A=="/>
-        <POI MapID="1554" xpos="149.819" ypos="1.26299" zpos="697.901" type="leag.jw.mb.reading.wp" GUID="Cii9vFcTOkej8czxuUUl7w==" copy="[&BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
+        <POI MapID="1554" xpos="149.819" ypos="1.26299" zpos="697.901" type="leag.jw.mb.reading.wp" GUID="Cii9vFcTOkej8czxuUUl7w==" copy="[&amp;BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
         <POI MapID="1554" xpos="148.535" ypos="0.950978" zpos="699.951" type="leag.jw.mb.reading.journal.thunderbay" GUID="CAYfFNUYdkGgEMU64SRAIA=="/>
         <POI MapID="1575" xpos="-635.663" ypos="43.3845" zpos="-67.4745" type="leag.jw.mb.reading.journal.nexus" GUID="cPUbbBSQHUCxsjYuNe5WdA=="/>
         <POI MapID="1575" xpos="-1025.75" ypos="95.488" zpos="2.31483" type="leag.jw.mb.reading.journal.table" GUID="G2JsCPxag0qD+Vrv7hO99w=="/>
@@ -958,7 +958,7 @@
         <POI MapID="1575" xpos="-1027.53" ypos="93.8764" zpos="27.9009" type="leag.jw.mb.archive.start" GUID="5jrNcyzO5EGxfadzH+f93g=="/>
         <POI MapID="1575" xpos="-1010.11" ypos="93.8764" zpos="35.3192" type="leag.jw.mb.archive.1" GUID="CzsG8gxD8kSOziEJUHmH0g=="/>
         <POI MapID="1575" xpos="-1013.34" ypos="93.8764" zpos="31.6688" type="leag.jw.mb.archive.2" GUID="AaVxNTOHEEGkJ8R9R9t+EA=="/>
-        <POI MapID="1575" xpos="-365.987" ypos="83.7689" zpos="13.8342" type="leag.jw.mb.archive.wp" GUID="XRI5Pduv5kWOQUtBZm0Sfw==" copy="[&BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
+        <POI MapID="1575" xpos="-365.987" ypos="83.7689" zpos="13.8342" type="leag.jw.mb.archive.wp" GUID="XRI5Pduv5kWOQUtBZm0Sfw==" copy="[&amp;BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
         <POI MapID="1575" xpos="-599.938" ypos="104.972" zpos="-59.8188" type="leag.jw.mb.archive.journal" GUID="nKTRZsW6HUGqHsGgnUd7Dg=="/>
         <POI MapID="1575" xpos="-707.753" ypos="66.1343" zpos="88.4327" type="leag.jw.mb.archive.journal" GUID="7iEdOCnBIE2VTr3CvVy1iw=="/>
         <POI MapID="1575" xpos="-421.965" ypos="110.764" zpos="44.3264" type="leag.jw.mb.archive.journal" GUID="5RfKzJ9v5k26qUWO36yajw=="/>
@@ -971,8 +971,8 @@
         <Trail type="leag.jw.mb.tww" trailData="Data/JW/The Wayward Wisp 2.trl" color="66FFFF"/>
         <Trail type="leag.jw.mb.tww" trailData="Data/JW/The Wayward Wisp 3.trl" color="66FFFF"/>
         <POI MapID="1575" xpos="-1027.53" ypos="93.8764" zpos="27.9009" type="leag.jw.mb.tww.start" GUID="7WKdmMuxIkC+fHq0jf05wg=="/>
-        <POI MapID="1575" xpos="-841.999" ypos="43.6911" zpos="-508.597" type="leag.jw.mb.tww.wp" GUID="bcOGf/J+5k+Ba2kX8SGp6Q==" copy="[&BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
-        <POI MapID="1575" xpos="-813.66" ypos="8.28503" zpos="520.058" type="leag.jw.mb.tww.wp" GUID="BX/D0pt7g0K9N1R2Nuzu4Q==" copy="[&BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
+        <POI MapID="1575" xpos="-841.999" ypos="43.6911" zpos="-508.597" type="leag.jw.mb.tww.wp" GUID="bcOGf/J+5k+Ba2kX8SGp6Q==" copy="[&amp;BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
+        <POI MapID="1575" xpos="-813.66" ypos="8.28503" zpos="520.058" type="leag.jw.mb.tww.wp" GUID="BX/D0pt7g0K9N1R2Nuzu4Q==" copy="[&amp;BFAPAAA=]" copy-message="Alliance Staging Ground Waypoint"/>
         <POI MapID="1575" xpos="-1020.49" ypos="93.8764" zpos="46.2319" type="leag.jw.mb.tww.1" GUID="SyLiGDgRT0WBPrvwgBKZQw=="/>
         <POI MapID="1575" xpos="-1028.81" ypos="94.5277" zpos="94.1532" type="leag.jw.mb.tww.2" GUID="4dDTgzEHNEaoIiC4ZQEBFw=="/>
         <POI MapID="1575" xpos="-1031.85" ypos="94.5279" zpos="94.8768" type="leag.jw.mb.tww.3" GUID="EYGuMydDLUKCjKxUKdtsLw=="/>
@@ -1011,17 +1011,17 @@
         <POI MapID="1574" xpos="-571.557" ypos="97.5828" zpos="-19.0072" type="leag.jw.bn.case382.2" GUID="DyzZpD2CiUuWkaHC0O9icQ=="/>
         <POI MapID="1574" xpos="-558.781" ypos="97.8621" zpos="-18.647" type="leag.jw.bn.case382.info" GUID="Fh98IFrEJ0+DE4kkTCagWA==" info="Return to Chief Inspector Lutze" infoRange="3"/>
         <POI MapID="18" xpos="216.602" ypos="79.7922" zpos="129.698" type="leag.jw.bn.case382.3" GUID="eprQKP8dJkSguDsuiZT/nw=="/>
-        <POI MapID="248" xpos="170.808" ypos="81.9844" zpos="206.023" type="leag.jw.bn.case382.wp" GUID="KDwsNFls6UWA7me6EerWKw==" copy="[&BGEPAAA=]" copy-message="Mantle's Arrival Waypoint&#xa;Bava Nisos"/>
+        <POI MapID="248" xpos="170.808" ypos="81.9844" zpos="206.023" type="leag.jw.bn.case382.wp" GUID="KDwsNFls6UWA7me6EerWKw==" copy="[&amp;BGEPAAA=]" copy-message="Mantle's Arrival Waypoint&#xa;Bava Nisos"/>
         <POI MapID="1574" xpos="-573.671" ypos="97.72" zpos="-22.1531" type="leag.jw.bn.case382.4" GUID="RSUa8grzSkaRBs6fjGuKUA=="/>
         <POI MapID="1574" xpos="-612.913" ypos="94.6518" zpos="-56.3792" type="leag.jw.bn.case382.info" GUID="1mqClCXYSEKDGY+JBA1H3A==" info="Return to Chief Inspector Lutze" infoRange="3"/>
         <POI MapID="1574" xpos="-573.962" ypos="97.5766" zpos="-14.0137" type="leag.jw.bn.case382.5" GUID="j8++9xZiRkK01twB9qArrQ=="/>
         <POI MapID="50" xpos="-292.725" ypos="10.382" zpos="51.7499" type="leag.jw.bn.case382.6" GUID="nO61JUzR8UqdbMli2gh52A=="/>
-        <POI MapID="50" xpos="-138.078" ypos="-1.15536" zpos="-93.7011" type="leag.jw.bn.case382.wp" GUID="Rn8tzEZhKkijOHGAfe7QlA==" copy="[&BGEPAAA=]" copy-message="Mantle's Arrival Waypoint&#xa;Bava Nisos"/>
+        <POI MapID="50" xpos="-138.078" ypos="-1.15536" zpos="-93.7011" type="leag.jw.bn.case382.wp" GUID="Rn8tzEZhKkijOHGAfe7QlA==" copy="[&amp;BGEPAAA=]" copy-message="Mantle's Arrival Waypoint&#xa;Bava Nisos"/>
         <POI MapID="1574" xpos="-572.779" ypos="97.5767" zpos="-16.2319" type="leag.jw.bn.case382.7" GUID="+V5Lzy5hfkaaZqYZmqPOTA=="/>
         <POI MapID="1574" xpos="307.424" ypos="160.63" zpos="521.819" type="leag.jw.bn.case382.7.event" GUID="0mIzKuc3Rk2Xsva7NlBTaw=="/>
         <POI MapID="1574" xpos="261.887" ypos="99.1827" zpos="452.345" type="leag.jw.bn.case382.info" GUID="X0wPxITMyEWANHZ1s67Uag==" info="Return to Chief Inspector Lutze" infoRange="3"/>
-        <POI MapID="28" xpos="-1.97114" ypos="97.5802" zpos="133.588" type="leag.jw.bn.case382.wp" GUID="ilDAdPgpH0CtesZDL1MhpQ==" copy="[&BC4EAAA=]" copy-message="Western Ward Waypoint&#xa;Lion's Arch"/>
-        <POI MapID="50" xpos="-602.478" ypos="11.1974" zpos="414.804" type="leag.jw.bn.case382.wp" GUID="ksrenlWH8EmrUN6RcSC3Nw==" copy="[&BGEPAAA=]" copy-message="Return to Chief Inspector Lutze&#xa;&#xa;Mantle's Arrival Waypoint, Bava Nisos"/>
+        <POI MapID="28" xpos="-1.97114" ypos="97.5802" zpos="133.588" type="leag.jw.bn.case382.wp" GUID="ilDAdPgpH0CtesZDL1MhpQ==" copy="[&amp;BC4EAAA=]" copy-message="Western Ward Waypoint&#xa;Lion's Arch"/>
+        <POI MapID="50" xpos="-602.478" ypos="11.1974" zpos="414.804" type="leag.jw.bn.case382.wp" GUID="ksrenlWH8EmrUN6RcSC3Nw==" copy="[&amp;BGEPAAA=]" copy-message="Return to Chief Inspector Lutze&#xa;&#xa;Mantle's Arrival Waypoint, Bava Nisos"/>
 
         <Trail type="leag.jw.bn.door" trailData="Data/JW/Close the Door.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
         <POI MapID="1574" xpos="-585.12" ypos="98.3695" zpos="-25.6057" type="leag.jw.bn.door.start" GUID="cyEadlsaTUeVKHybcaHpTQ=="/>
@@ -1105,36 +1105,36 @@
         <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 29.trl"/>
         <Trail type="leag.jw.bn.work.trail" trailData="Data/JW/Collections/Work Hard for Now 30.trl"/>
         <POI MapID="50" xpos="484.46" ypos="22.8107" zpos="-131.631" type="leag.jw.bn.work.start" GUID="9ETTXtYOI0qEuL6HXCxqEQ=="/>
-        <POI MapID="50" xpos="466.268" ypos="25.5852" zpos="-274.118" type="leag.jw.bn.work.wp" GUID="nnXegOozWUe8BOham20nBg==" copy="[&BE4DAAA=]" copy-message="Lowland Burns Waypoint&#xa;Blazeridge Steppes"/>
-        <POI MapID="20" xpos="-186.721" ypos="113.901" zpos="663.277" type="leag.jw.bn.work.wp" GUID="wII5cwRui0CRlZUQVANU8A==" copy="[&BK8BAAA=]" copy-message="Jelako Waypoint&#xa;Bloodtide Coast"/>
-        <POI MapID="73" xpos="-286.55" ypos="24.2043" zpos="-804.913" type="leag.jw.bn.work.wp" GUID="9WXPp4ulA0KgiN8KZ8Rzsg==" copy="[&BGIAAAA=]" copy-message="Seraph Observers Waypoint&#xa;Brisban Wildlands"/>
-        <POI MapID="54" xpos="-236.237" ypos="5.25945" zpos="712.868" type="leag.jw.bn.work.wp" GUID="l/3VzcX8oUWWrsBC0tnuiA==" copy="[&BDkBAAA=]" copy-message="Sperrins Waypoint&#xa;Caledon Forest"/>
-        <POI MapID="34" xpos="298.111" ypos="19.7354" zpos="-130.236" type="leag.jw.bn.work.wp" GUID="o6enbhjzfUiA5/6MLsMvGw==" copy="[&BBsDAAA=]" copy-message="Verdance Waypoint&#xa;Cursed Shore"/>
-        <POI MapID="62" xpos="325.07" ypos="8.48359" zpos="491.168" type="leag.jw.bn.work.wp" GUID="bGYRelj4wEqc/ltyPaQ7dQ==" copy="[&BN4AAAA=]" copy-message="Nolan Waypoint&#xa;Diessa Plateau"/>
-        <POI MapID="32" xpos="-1034.51" ypos="76.4407" zpos="-606.898" type="leag.jw.bn.work.wp" GUID="RbzLNs0XC0qlhEzeKI1WrA==" copy="[&BFoCAAA=]" copy-message="Grey Road Waypoint&#xa;Dredgehaunt Cliffs"/>
-        <POI MapID="26" xpos="-5.17995" ypos="140.465" zpos="-82.2527" type="leag.jw.bn.work.wp" GUID="+faXa3eykE6Gyvbv3aBdMQ==" copy="[&BHoHAAA=]" copy-message="Prosperity Waypoint&#xa;Dry Top"/>
-        <POI MapID="988" xpos="232.771" ypos="66.8138" zpos="-250.998" type="leag.jw.bn.work.wp" GUID="x/0FcdTJYU2tZuf2TsoRYA==" copy="[&BEwBAAA=]" copy-message="Fangfury Watch Waypoint&#xa;Fields of Ruin"/>
-        <POI MapID="21" xpos="771.491" ypos="38.8468" zpos="415.927" type="leag.jw.bn.work.wp" GUID="yNGQPQb9+UGuI/vwasR4gw==" copy="[&BEAFAAA=]" copy-message="The Citadel of Flame Waypoint&#xa;Fireheart Rise"/>
-        <POI MapID="22" xpos="809.88" ypos="62.0712" zpos="578.148" type="leag.jw.bn.work.wp" GUID="Kex3/O0MJkOXTQjtbEll6A==" copy="[&BEMFAAA=]" copy-message="Honor of the Waves Waypoint&#xa;Frostgorge Sound"/>
-        <POI MapID="30" xpos="390.659" ypos="72.8293" zpos="434.773" type="leag.jw.bn.work.wp" GUID="wYaW8htE8kKYkd2P9UwtQQ==" copy="[&BOEAAAA=]" copy-message="Broadhollow Waypoint&#xa;Gendarran Fields"/>
-        <POI MapID="24" xpos="-253.58" ypos="64.9394" zpos="-475.306" type="leag.jw.bn.work.wp" GUID="Dw1gnAvrpUKnMXSgOuS9UQ==" copy="[&BKgAAAA=]" copy-message="Wynchona Rally Point Waypoint&#xa;Harathi Hinterlands"/>
-        <POI MapID="17" xpos="-276.457" ypos="83.2757" zpos="-282.645" type="leag.jw.bn.work.wp" GUID="+LoH2zQPT0a3byAK4WEIkA==" copy="[&BO4BAAA=]" copy-message="Gladefall Waypoint&#xa;Iron Marches"/>
-        <POI MapID="25" xpos="-307.786" ypos="78.5089" zpos="1066.79" type="leag.jw.bn.work.wp" GUID="PLrn6PfpNUC8eadyQFB3Jw==" copy="[&BBYAAAA=]" copy-message="Greyhoof Camp Waypoint&#xa;Kessex Hills"/>
-        <POI MapID="23" xpos="-475.821" ypos="91.631" zpos="429.482" type="leag.jw.bn.work.wp" GUID="DxXDR6ikYkS+Wso8coIjWA==" copy="[&BDEHAAA=]" copy-message="False River Waypoint&#xa;Lornar's Pass"/>
-        <POI MapID="27" xpos="219.85" ypos="166.072" zpos="-318.012" type="leag.jw.bn.work.wp" GUID="4mDXaY/Vc0OiVYzmxM4y6A==" copy="[&BK4CAAA=]" copy-message="Blighted Arch Waypoint&#xa;Malchor's Leap"/>
-        <POI MapID="65" xpos="173.925" ypos="110.687" zpos="-57.6126" type="leag.jw.bn.work.wp" GUID="ekFSQ7RKZUmFNbInkUyqgg==" copy="[&BEIAAAA=]" copy-message="Akk Wilds Waypoint&#xa;Metrica Province"/>
-        <POI MapID="35" xpos="335.554" ypos="66.8086" zpos="-374.633" type="leag.jw.bn.work.wp" GUID="mEhwH0svx0u/fzu1jcHFEg==" copy="[&BEIFAAA=]" copy-message="Crucible of Eternity Waypoint&#xa;Mount Maelstrom"/>
-        <POI MapID="39" xpos="762.908" ypos="31.3402" zpos="694.833" type="leag.jw.bn.work.wp" GUID="kJBe1sWvK0WqWpXK7sT06Q==" copy="[&BIcBAAA=]" copy-message="Ascalon City Waypoint&#xa;Plains of Ashford"/>
-        <POI MapID="19" xpos="797.068" ypos="3.97015" zpos="340.327" type="leag.jw.bn.work.wp" GUID="p0ky0kKGq0KUxYcoE94rew==" copy="[&BPMAAAA=]" copy-message="Phinney Waypoint&#xa;Queensdale"/>
-        <POI MapID="15" xpos="-93.9506" ypos="15.5662" zpos="-245.709" type="leag.jw.bn.work.wp" GUID="PWiKqNcu5ky6mjzHccuCHw==" copy="[&BMEAAAA=]" copy-message="Owl Waypoint&#xa;Snowden Drifts"/>
-        <POI MapID="31" xpos="1042" ypos="144.35" zpos="-406.027" type="leag.jw.bn.work.wp" GUID="Il7f82txX0afdbCiyB1Ung==" copy="[&BNgGAAA=]" copy-message="Owain's Refuge Waypoint&#xa;Southsun Cove"/>
-        <POI MapID="873" xpos="-251.567" ypos="40.9798" zpos="112.307" type="leag.jw.bn.work.wp" GUID="7dEhVj5p30O35jMLO8Pi1g==" copy="[&BNABAAA=]" copy-message="Splintered Coast Waypoint&#xa;Sparkfly Fen"/>
-        <POI MapID="53" xpos="-343.281" ypos="33.6112" zpos="-906.191" type="leag.jw.bn.work.wp" GUID="/X8zAdBUykKDd7pZV2Aryg==" copy="[&BPgCAAA=]" copy-message="Waywarde Waypoint&#xa;Straits of Devastation"/>
-        <POI MapID="51" xpos="-592.707" ypos="30.3396" zpos="-733.114" type="leag.jw.bn.work.wp" GUID="CUdmElUidUadANpdkiQx2w==" copy="[&BKcHAAA=]" copy-message="Camp Resolve Waypoint&#xa;The Silverwastes"/>
-        <POI MapID="1015" xpos="-270.505" ypos="465.573" zpos="142.836" type="leag.jw.bn.work.wp" GUID="bOGOkndCsEW6X9WcAnyOUg==" copy="[&BEsCAAA=]" copy-message="Gyre Rapids Waypoint&#xa;Timberline Falls"/>
-        <POI MapID="29" xpos="-329.377" ypos="34.8733" zpos="-160.523" type="leag.jw.bn.work.wp" GUID="UxzKrlBvckOfh920xtODew==" copy="[&BHQBAAA=]" copy-message="Horncall Waypoint&#xa;Wayfarer Foothills"/>
-        <POI MapID="28" xpos="-72.9063" ypos="177.608" zpos="-561.78" type="leag.jw.bn.work.wp" GUID="7xxMqzJHWUeUTT7d1/C1dw==" copy="[&BDMEAAA=]" copy-message="Farshore Waypoint&#xa;Lion's Arch"/>
-        <POI MapID="50" xpos="-648.932" ypos="1.23832" zpos="357.046" type="leag.jw.bn.work.wp" GUID="0Swz9SIHPUq4Qle6Vf6Nig==" copy="[&BCAJAAA=]" copy-message="Aerodrome Waypoint&#xa;Lion's Arch Aerodrome"/>
+        <POI MapID="50" xpos="466.268" ypos="25.5852" zpos="-274.118" type="leag.jw.bn.work.wp" GUID="nnXegOozWUe8BOham20nBg==" copy="[&amp;BE4DAAA=]" copy-message="Lowland Burns Waypoint&#xa;Blazeridge Steppes"/>
+        <POI MapID="20" xpos="-186.721" ypos="113.901" zpos="663.277" type="leag.jw.bn.work.wp" GUID="wII5cwRui0CRlZUQVANU8A==" copy="[&amp;BK8BAAA=]" copy-message="Jelako Waypoint&#xa;Bloodtide Coast"/>
+        <POI MapID="73" xpos="-286.55" ypos="24.2043" zpos="-804.913" type="leag.jw.bn.work.wp" GUID="9WXPp4ulA0KgiN8KZ8Rzsg==" copy="[&amp;BGIAAAA=]" copy-message="Seraph Observers Waypoint&#xa;Brisban Wildlands"/>
+        <POI MapID="54" xpos="-236.237" ypos="5.25945" zpos="712.868" type="leag.jw.bn.work.wp" GUID="l/3VzcX8oUWWrsBC0tnuiA==" copy="[&amp;BDkBAAA=]" copy-message="Sperrins Waypoint&#xa;Caledon Forest"/>
+        <POI MapID="34" xpos="298.111" ypos="19.7354" zpos="-130.236" type="leag.jw.bn.work.wp" GUID="o6enbhjzfUiA5/6MLsMvGw==" copy="[&amp;BBsDAAA=]" copy-message="Verdance Waypoint&#xa;Cursed Shore"/>
+        <POI MapID="62" xpos="325.07" ypos="8.48359" zpos="491.168" type="leag.jw.bn.work.wp" GUID="bGYRelj4wEqc/ltyPaQ7dQ==" copy="[&amp;BN4AAAA=]" copy-message="Nolan Waypoint&#xa;Diessa Plateau"/>
+        <POI MapID="32" xpos="-1034.51" ypos="76.4407" zpos="-606.898" type="leag.jw.bn.work.wp" GUID="RbzLNs0XC0qlhEzeKI1WrA==" copy="[&amp;BFoCAAA=]" copy-message="Grey Road Waypoint&#xa;Dredgehaunt Cliffs"/>
+        <POI MapID="26" xpos="-5.17995" ypos="140.465" zpos="-82.2527" type="leag.jw.bn.work.wp" GUID="+faXa3eykE6Gyvbv3aBdMQ==" copy="[&amp;BHoHAAA=]" copy-message="Prosperity Waypoint&#xa;Dry Top"/>
+        <POI MapID="988" xpos="232.771" ypos="66.8138" zpos="-250.998" type="leag.jw.bn.work.wp" GUID="x/0FcdTJYU2tZuf2TsoRYA==" copy="[&amp;BEwBAAA=]" copy-message="Fangfury Watch Waypoint&#xa;Fields of Ruin"/>
+        <POI MapID="21" xpos="771.491" ypos="38.8468" zpos="415.927" type="leag.jw.bn.work.wp" GUID="yNGQPQb9+UGuI/vwasR4gw==" copy="[&amp;BEAFAAA=]" copy-message="The Citadel of Flame Waypoint&#xa;Fireheart Rise"/>
+        <POI MapID="22" xpos="809.88" ypos="62.0712" zpos="578.148" type="leag.jw.bn.work.wp" GUID="Kex3/O0MJkOXTQjtbEll6A==" copy="[&amp;BEMFAAA=]" copy-message="Honor of the Waves Waypoint&#xa;Frostgorge Sound"/>
+        <POI MapID="30" xpos="390.659" ypos="72.8293" zpos="434.773" type="leag.jw.bn.work.wp" GUID="wYaW8htE8kKYkd2P9UwtQQ==" copy="[&amp;BOEAAAA=]" copy-message="Broadhollow Waypoint&#xa;Gendarran Fields"/>
+        <POI MapID="24" xpos="-253.58" ypos="64.9394" zpos="-475.306" type="leag.jw.bn.work.wp" GUID="Dw1gnAvrpUKnMXSgOuS9UQ==" copy="[&amp;BKgAAAA=]" copy-message="Wynchona Rally Point Waypoint&#xa;Harathi Hinterlands"/>
+        <POI MapID="17" xpos="-276.457" ypos="83.2757" zpos="-282.645" type="leag.jw.bn.work.wp" GUID="+LoH2zQPT0a3byAK4WEIkA==" copy="[&amp;BO4BAAA=]" copy-message="Gladefall Waypoint&#xa;Iron Marches"/>
+        <POI MapID="25" xpos="-307.786" ypos="78.5089" zpos="1066.79" type="leag.jw.bn.work.wp" GUID="PLrn6PfpNUC8eadyQFB3Jw==" copy="[&amp;BBYAAAA=]" copy-message="Greyhoof Camp Waypoint&#xa;Kessex Hills"/>
+        <POI MapID="23" xpos="-475.821" ypos="91.631" zpos="429.482" type="leag.jw.bn.work.wp" GUID="DxXDR6ikYkS+Wso8coIjWA==" copy="[&amp;BDEHAAA=]" copy-message="False River Waypoint&#xa;Lornar's Pass"/>
+        <POI MapID="27" xpos="219.85" ypos="166.072" zpos="-318.012" type="leag.jw.bn.work.wp" GUID="4mDXaY/Vc0OiVYzmxM4y6A==" copy="[&amp;BK4CAAA=]" copy-message="Blighted Arch Waypoint&#xa;Malchor's Leap"/>
+        <POI MapID="65" xpos="173.925" ypos="110.687" zpos="-57.6126" type="leag.jw.bn.work.wp" GUID="ekFSQ7RKZUmFNbInkUyqgg==" copy="[&amp;BEIAAAA=]" copy-message="Akk Wilds Waypoint&#xa;Metrica Province"/>
+        <POI MapID="35" xpos="335.554" ypos="66.8086" zpos="-374.633" type="leag.jw.bn.work.wp" GUID="mEhwH0svx0u/fzu1jcHFEg==" copy="[&amp;BEIFAAA=]" copy-message="Crucible of Eternity Waypoint&#xa;Mount Maelstrom"/>
+        <POI MapID="39" xpos="762.908" ypos="31.3402" zpos="694.833" type="leag.jw.bn.work.wp" GUID="kJBe1sWvK0WqWpXK7sT06Q==" copy="[&amp;BIcBAAA=]" copy-message="Ascalon City Waypoint&#xa;Plains of Ashford"/>
+        <POI MapID="19" xpos="797.068" ypos="3.97015" zpos="340.327" type="leag.jw.bn.work.wp" GUID="p0ky0kKGq0KUxYcoE94rew==" copy="[&amp;BPMAAAA=]" copy-message="Phinney Waypoint&#xa;Queensdale"/>
+        <POI MapID="15" xpos="-93.9506" ypos="15.5662" zpos="-245.709" type="leag.jw.bn.work.wp" GUID="PWiKqNcu5ky6mjzHccuCHw==" copy="[&amp;BMEAAAA=]" copy-message="Owl Waypoint&#xa;Snowden Drifts"/>
+        <POI MapID="31" xpos="1042" ypos="144.35" zpos="-406.027" type="leag.jw.bn.work.wp" GUID="Il7f82txX0afdbCiyB1Ung==" copy="[&amp;BNgGAAA=]" copy-message="Owain's Refuge Waypoint&#xa;Southsun Cove"/>
+        <POI MapID="873" xpos="-251.567" ypos="40.9798" zpos="112.307" type="leag.jw.bn.work.wp" GUID="7dEhVj5p30O35jMLO8Pi1g==" copy="[&amp;BNABAAA=]" copy-message="Splintered Coast Waypoint&#xa;Sparkfly Fen"/>
+        <POI MapID="53" xpos="-343.281" ypos="33.6112" zpos="-906.191" type="leag.jw.bn.work.wp" GUID="/X8zAdBUykKDd7pZV2Aryg==" copy="[&amp;BPgCAAA=]" copy-message="Waywarde Waypoint&#xa;Straits of Devastation"/>
+        <POI MapID="51" xpos="-592.707" ypos="30.3396" zpos="-733.114" type="leag.jw.bn.work.wp" GUID="CUdmElUidUadANpdkiQx2w==" copy="[&amp;BKcHAAA=]" copy-message="Camp Resolve Waypoint&#xa;The Silverwastes"/>
+        <POI MapID="1015" xpos="-270.505" ypos="465.573" zpos="142.836" type="leag.jw.bn.work.wp" GUID="bOGOkndCsEW6X9WcAnyOUg==" copy="[&amp;BEsCAAA=]" copy-message="Gyre Rapids Waypoint&#xa;Timberline Falls"/>
+        <POI MapID="29" xpos="-329.377" ypos="34.8733" zpos="-160.523" type="leag.jw.bn.work.wp" GUID="UxzKrlBvckOfh920xtODew==" copy="[&amp;BHQBAAA=]" copy-message="Horncall Waypoint&#xa;Wayfarer Foothills"/>
+        <POI MapID="28" xpos="-72.9063" ypos="177.608" zpos="-561.78" type="leag.jw.bn.work.wp" GUID="7xxMqzJHWUeUTT7d1/C1dw==" copy="[&amp;BDMEAAA=]" copy-message="Farshore Waypoint&#xa;Lion's Arch"/>
+        <POI MapID="50" xpos="-648.932" ypos="1.23832" zpos="357.046" type="leag.jw.bn.work.wp" GUID="0Swz9SIHPUq4Qle6Vf6Nig==" copy="[&amp;BCAJAAA=]" copy-message="Aerodrome Waypoint&#xa;Lion's Arch Aerodrome"/>
 
         <Trail type="leag.jw.bn.bff" trailData="Data/JW/Collections/Best Friends Forever 1.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="d966ff"/>
         <Trail type="leag.jw.bn.bff" trailData="Data/JW/Collections/Best Friends Forever 2.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="d966ff"/>

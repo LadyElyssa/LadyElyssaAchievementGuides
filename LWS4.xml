@@ -119,9 +119,9 @@
         <POI MapID="1263" xpos="-67.9297" ypos="211.997" zpos="56.6822" type="leag.lws4.istan.lost.mount.jackal" GUID="s/qF9CJWBkyc67fggwH/5g=="/>
         <POI MapID="1263" xpos="-146.694" ypos="221.74" zpos="-37.8623" type="leag.lws4.istan.lost.mount.springer" GUID="dLha8l9Te06shy/YMBhBiw=="/>
         <POI MapID="1263" xpos="-121.259" ypos="262.877" zpos="-37.4095" type="leag.lws4.istan.lost.glider" GUID="RfYfPxCQ4UCt+TBjnVyH0Q=="/>
-        <POI MapID="1263" xpos="68.9482" ypos="2.51201" zpos="-372.798" type="leag.lws4.istan.lost.wp" GUID="3+Q9XZMxVEeDNF2tKALqWg==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
-        <POI MapID="1263" xpos="132.718" ypos="90.3083" zpos="680.117" type="leag.lws4.istan.lost.wp" GUID="btk/Uh/ZmEOLTu545E7fAQ==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
-        <POI MapID="1263" xpos="-324.363" ypos="25.1116" zpos="-54.0244" type="leag.lws4.istan.lost.wp" GUID="NaXF3QQYpkO8jy32Zd/LoQ==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
+        <POI MapID="1263" xpos="68.9482" ypos="2.51201" zpos="-372.798" type="leag.lws4.istan.lost.wp" GUID="3+Q9XZMxVEeDNF2tKALqWg==" copy="[&amp;BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
+        <POI MapID="1263" xpos="132.718" ypos="90.3083" zpos="680.117" type="leag.lws4.istan.lost.wp" GUID="btk/Uh/ZmEOLTu545E7fAQ==" copy="[&amp;BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
+        <POI MapID="1263" xpos="-324.363" ypos="25.1116" zpos="-54.0244" type="leag.lws4.istan.lost.wp" GUID="NaXF3QQYpkO8jy32Zd/LoQ==" copy="[&amp;BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
         <POI MapID="1263" xpos="183.681" ypos="211.941" zpos="467.296" type="leag.lws4.istan.lost.cache" GUID="8sVyZ1fU3UqObfDKUG4I0w=="/>
         <POI MapID="1263" xpos="172.722" ypos="46.261" zpos="259.088" type="leag.lws4.istan.lost.cache" GUID="Yvc6CypHzkuw0I/OJz/1rg=="/>
         <POI MapID="1263" xpos="179.333" ypos="112.098" zpos="566.213" type="leag.lws4.istan.lost.cache" GUID="fhqwmxh6fEyY/u0RD7tsHA=="/>
@@ -201,14 +201,14 @@
         <POI MapID="1271" xpos="-126.032" ypos="0.941028" zpos="697.173" type="leag.lws4.sandswept.bonds.from.number.3" GUID="sVAd0nrKBUi93ojAnwqlUw=="/>
         <POI MapID="1271" xpos="-265.14" ypos="2.47547" zpos="784.375" type="leag.lws4.sandswept.bonds.from.number.4" GUID="jsQoeIChTk+/oLJWBUGe5g=="/>
         <POI MapID="1271" xpos="7.89027" ypos="144.656" zpos="962.814" type="leag.lws4.sandswept.bonds.from.number.5" GUID="mSPv3mF2/k21n82vGEdVrQ=="/>
-        <POI MapID="1271" xpos="-35.1242" ypos="5.87274" zpos="568.583" type="leag.lws4.sandswept.bonds.from.wp" GUID="plOZmwfOl0C0QMrXdNFZtg==" copy="[&BEMLAAA=]" copy-message="Atholma Waypoint"/>
-        <POI MapID="1271" xpos="-471.893" ypos="32.6868" zpos="922.451" type="leag.lws4.sandswept.bonds.from.wp" GUID="12JCMJ+mx0itmu3jEea5LQ==" copy="[&BEMLAAA=]" copy-message="Atholma Waypoint"/>
+        <POI MapID="1271" xpos="-35.1242" ypos="5.87274" zpos="568.583" type="leag.lws4.sandswept.bonds.from.wp" GUID="plOZmwfOl0C0QMrXdNFZtg==" copy="[&amp;BEMLAAA=]" copy-message="Atholma Waypoint"/>
+        <POI MapID="1271" xpos="-471.893" ypos="32.6868" zpos="922.451" type="leag.lws4.sandswept.bonds.from.wp" GUID="12JCMJ+mx0itmu3jEea5LQ==" copy="[&amp;BEMLAAA=]" copy-message="Atholma Waypoint"/>
         <POI MapID="1271" xpos="-138.401" ypos="47.3612" zpos="909.603" type="leag.lws4.sandswept.bonds.from.mount.springer" GUID="12Z01iDUh0in4v1OG1923w=="/>
         <POI MapID="1271" xpos="-18.1911" ypos="143.669" zpos="884.323" type="leag.lws4.sandswept.bonds.from.mount.jackal" GUID="4sApYVoLc0qGse93uz3kzw=="/>
         <POI MapID="1271" xpos="7.4402" ypos="171.882" zpos="42.8364" type="leag.lws4.sandswept.bonds.from.glider" GUID="Aa96+7BNg0CX+Fd0MqejRA=="/>
         <POI MapID="1271" xpos="-242.831" ypos="106.984" zpos="-280.232" type="leag.lws4.sandswept.bonds.from.mount.springer" GUID="eAxwHYWdJkG2W4y8DlKQwA=="/>
         <POI MapID="1271" xpos="-242.01" ypos="142.345" zpos="-316.935" type="leag.lws4.sandswept.bonds.from.mount.jackal" GUID="uEvv4M0+QE6SWlTKaiQ1bA=="/>
-        <POI MapID="1271" xpos="-155.46" ypos="50.6521" zpos="126.95" type="leag.lws4.sandswept.bonds.from.wp" GUID="EM6ssQGWfkqY9qetOG+D6w==" copy="[&BEMLAAA=]" copy-message="Atholma Waypoint"/>
+        <POI MapID="1271" xpos="-155.46" ypos="50.6521" zpos="126.95" type="leag.lws4.sandswept.bonds.from.wp" GUID="EM6ssQGWfkqY9qetOG+D6w==" copy="[&amp;BEMLAAA=]" copy-message="Atholma Waypoint"/>
 
         <Trail type="leag.lws4.sandswept.bonds.here" trailData="Data/LWS4/Collections/Lasting Bonds 2 -  What We Do Here 1.trl"/>
         <Trail type="leag.lws4.sandswept.bonds.here" trailData="Data/LWS4/Collections/Lasting Bonds 2 -  What We Do Here 2.trl" color="FFFF00"/>
@@ -304,10 +304,10 @@
         <POI MapID="1271" xpos="319.409" ypos="84.6654" zpos="-329.963" type="leag.lws4.sandswept.ig6417.reboot.kl411.module" GUID="+HyZH5tJSUmxL2SnhP5Q7g=="/>
         <POI MapID="1271" xpos="-363.591" ypos="65.6922" zpos="29.5996" type="leag.lws4.sandswept.ig6417.reboot.gp739.module" GUID="i8ZDcNo/kUe6DCOiTD4KoQ=="/>
         <POI MapID="1271" xpos="278.691" ypos="112.271" zpos="-111.53" type="leag.lws4.sandswept.ig6417.reboot.glider" GUID="7aUmEDjnkk2GhK9aR8uyhg=="/>
-        <POI MapID="1271" xpos="-359.992" ypos="65.8426" zpos="29.0103" type="leag.lws4.sandswept.ig6417.reboot.wp" GUID="NusDBBaqmESYIxI0QYU4tQ==" copy="[&BCULAAA=]" copy-message="Anniogel Encampment Waypoint"/>
+        <POI MapID="1271" xpos="-359.992" ypos="65.8426" zpos="29.0103" type="leag.lws4.sandswept.ig6417.reboot.wp" GUID="NusDBBaqmESYIxI0QYU4tQ==" copy="[&amp;BCULAAA=]" copy-message="Anniogel Encampment Waypoint"/>
         <Trail type="leag.lws4.sandswept.ig6417.reboot.xd356.tron.la" trailData="Data/LWS4/Collections/Hero-Tron.trl"/>
         <POI MapID="50" xpos="-227.874" ypos="17.9069" zpos="216.138" type="leag.lws4.sandswept.ig6417.talk" GUID="SvghFc+KMEG6sqrXyoxhgg=="/>
-        <POI MapID="50" xpos="-224.878" ypos="17.0016" zpos="217.258" type="leag.lws4.sandswept.ig6417.reboot.xd356.tron.wp" GUID="WLsRXUd3Gkq33HAfZsaCvQ==" copy="[&BCULAAA=]" copy-message="Anniogel Encampment Waypoint, Sandswept Isles"/>
+        <POI MapID="50" xpos="-224.878" ypos="17.0016" zpos="217.258" type="leag.lws4.sandswept.ig6417.reboot.xd356.tron.wp" GUID="WLsRXUd3Gkq33HAfZsaCvQ==" copy="[&amp;BCULAAA=]" copy-message="Anniogel Encampment Waypoint, Sandswept Isles"/>
 
 
         <!-- Redeeming IG-6417 -->
@@ -481,7 +481,7 @@
         <POI MapID="1288" xpos="272.24" ypos="2.63443" zpos="681.626" type="leag.lws4.kourna.beetle.juice.item" GUID="/5hPTCYrlkypG2Ixf785kQ=="/>
         <POI MapID="1288" xpos="313.409" ypos="0.921125" zpos="382.651" type="leag.lws4.kourna.beetle.juice.item" GUID="xot2zgqu4Eidw8/RefFM3Q=="/>
         <POI MapID="1288" xpos="451.278" ypos="1.98923" zpos="254.25" type="leag.lws4.kourna.beetle.juice.item" GUID="+raJ/HfhRE+5tR8HcSAGwQ=="/>
-        <POI MapID="1288" xpos="423.394" ypos="34.6783" zpos="1196.54" type="leag.lws4.kourna.beetle.juice.wp" GUID="JQZokKw1i0m6V3f5zQkpAA==" copy="[&BFALAAA=]" copy-message="Apizmic Grounds Waypoint"/>
+        <POI MapID="1288" xpos="423.394" ypos="34.6783" zpos="1196.54" type="leag.lws4.kourna.beetle.juice.wp" GUID="JQZokKw1i0m6V3f5zQkpAA==" copy="[&amp;BFALAAA=]" copy-message="Apizmic Grounds Waypoint"/>
         <POI MapID="1288" xpos="452.912" ypos="1.82368" zpos="253.432" type="leag.lws4.kourna.beetle.juice.wp" GUID="bFCsTufsfkyQ1TFu7azFpw==" info="Return to Gorrik" infoRange="3"/>
 
         <POI MapID="1288" xpos="-214.876" ypos="25.929" zpos="571.283" type="leag.lws4.kourna.beetle.saddle.inquest" GUID="P1+T5ZvwIkW+M0jaoGdqJA=="/>
@@ -610,7 +610,7 @@
         <POI MapID="1301" xpos="-374.623" ypos="50.7408" zpos="-682.107" type="leag.lws4.jahai.sand.start" GUID="hK7DiJQCWk+riLPVBZgXsg=="/>
         <Trail type="leag.lws4.jahai.exhibit" trailData="Data/LWS4/4. A Star to Guide Us/Exhibit Aye 1.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="4B78A3"/>
         <Trail type="leag.lws4.jahai.exhibit" trailData="Data/LWS4/4. A Star to Guide Us/Exhibit Aye 2.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" color="4B78A3"/>
-        <POI MapID="1294" xpos="-839.728" ypos="9.37671" zpos="-548.13" type="leag.lws4.jahai.exhibit.wp" GUID="WlgF773B8ketWbtTsBozEQ==" copy="[&BJkLAAA=]" copy-message="Reclaimed Chantry Waypoint"/>
+        <POI MapID="1294" xpos="-839.728" ypos="9.37671" zpos="-548.13" type="leag.lws4.jahai.exhibit.wp" GUID="WlgF773B8ketWbtTsBozEQ==" copy="[&amp;BJkLAAA=]" copy-message="Reclaimed Chantry Waypoint"/>
         <POI MapID="1301" xpos="598.63" ypos="154.444" zpos="817.308" type="leag.lws4.jahai.exhibit.aye" GUID="bGEr84nfgUiWX1Z1Qf5I5A=="/>
         <POI MapID="1301" xpos="403.22" ypos="144.74" zpos="620.871" type="leag.lws4.jahai.exhibit.aye" GUID="DB3+uhSLSUmBdkhOyZYdAw=="/>
         <POI MapID="1301" xpos="-447.703" ypos="62.03" zpos="906.371" type="leag.lws4.jahai.exhibit.aye" GUID="fo5lljm0f0KISBCjrvFqMw=="/>
@@ -659,7 +659,7 @@
         <Trail type="leag.lws4.jahai.cents" trailData="Data/LWS4/Collections/Making Cents of Jahai 1.trl" texture="Data/Images/Trails/Trail Marker 1.png"/>
         <Trail type="leag.lws4.jahai.cents" trailData="Data/LWS4/Collections/Making Cents of Jahai 2.trl" texture="Data/Images/Trails/Trail Marker 1.png"/>
         <POI MapID="1301" xpos="550.543" ypos="144.018" zpos="920.792" type="leag.lws4.jahai.cents.start" GUID="nZjPAF6RnUaxTz5Vwy5Fcw=="/>
-        <POI MapID="1301" xpos="-406.811" ypos="151.083" zpos="326.196" type="leag.lws4.jahai.cents.wp" GUID="NQTnfp4ppU61zzgyUBQRug==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint"/>
+        <POI MapID="1301" xpos="-406.811" ypos="151.083" zpos="326.196" type="leag.lws4.jahai.cents.wp" GUID="NQTnfp4ppU61zzgyUBQRug==" copy="[&amp;BIMLAAA=]" copy-message="Soul's Vendetta Waypoint"/>
         <POI MapID="1301" xpos="686.494" ypos="132.809" zpos="890.1" type="leag.lws4.jahai.cents.mount.springer" GUID="oOvsnvQeyU+cG5bZd3lzCA=="/>
         <POI MapID="1301" xpos="698.284" ypos="168.033" zpos="871.689" type="leag.lws4.jahai.cents.glider" GUID="D3nABWRzqEyhgzjK9a6NpA=="/>
         <POI MapID="1301" xpos="838.749" ypos="117.601" zpos="909.241" type="leag.lws4.jahai.cents.mount.springer" GUID="tJtawX0G/kyuolRc2JaaYQ=="/>
@@ -881,24 +881,24 @@
         <Trail type="leag.lws4.jahai.sand.sr" trailData="Data/LWS4/Collections/In a Grain of Sand 9.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00CCFF"/>
         <Trail type="leag.lws4.jahai.sand.sr" trailData="Data/LWS4/Collections/In a Grain of Sand 10.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00CCFF"/>
         <Trail type="leag.lws4.jahai.sand.sr" trailData="Data/LWS4/Collections/In a Grain of Sand 11.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00CCFF"/>
-        <POI MapID="1294" xpos="-818.189" ypos="9.89264" zpos="-532.875" type="leag.lws4.jahai.sand.wp" GUID="qYrwn5eJO0Sp5RGtlI/zSg==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
-        <POI MapID="1301" xpos="-819.126" ypos="125.637" zpos="847.25" type="leag.lws4.jahai.sand.wp" GUID="vkJqXxUJ30S0/N9VomKpJw==" copy="[&BJkLAAA=]" copy-message="Reclaimed Chantry Waypoint"/>
-        <POI MapID="1301" xpos="904.124" ypos="220.43" zpos="323.408" type="leag.lws4.jahai.sand.wp" GUID="SHb87L3XF0W7pYoXWcS7qw==" copy="[&BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
-        <POI MapID="1301" xpos="658.646" ypos="91.132" zpos="-799.986" type="leag.lws4.jahai.sand.wp" GUID="PRGV4pwSZkyCcm2FxDnmww==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint"/>
-        <POI MapID="1301" xpos="-408.283" ypos="80.5219" zpos="-284.5" type="leag.lws4.jahai.sand.wp" GUID="WSrot+mVckiRypdSl4ljeQ==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint, Domain of Vabbi"/>
+        <POI MapID="1294" xpos="-818.189" ypos="9.89264" zpos="-532.875" type="leag.lws4.jahai.sand.wp" GUID="qYrwn5eJO0Sp5RGtlI/zSg==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
+        <POI MapID="1301" xpos="-819.126" ypos="125.637" zpos="847.25" type="leag.lws4.jahai.sand.wp" GUID="vkJqXxUJ30S0/N9VomKpJw==" copy="[&amp;BJkLAAA=]" copy-message="Reclaimed Chantry Waypoint"/>
+        <POI MapID="1301" xpos="904.124" ypos="220.43" zpos="323.408" type="leag.lws4.jahai.sand.wp" GUID="SHb87L3XF0W7pYoXWcS7qw==" copy="[&amp;BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
+        <POI MapID="1301" xpos="658.646" ypos="91.132" zpos="-799.986" type="leag.lws4.jahai.sand.wp" GUID="PRGV4pwSZkyCcm2FxDnmww==" copy="[&amp;BIMLAAA=]" copy-message="Soul's Vendetta Waypoint"/>
+        <POI MapID="1301" xpos="-408.283" ypos="80.5219" zpos="-284.5" type="leag.lws4.jahai.sand.wp" GUID="WSrot+mVckiRypdSl4ljeQ==" copy="[&amp;BEoKAAA=]" copy-message="Necropolis Waypoint, Domain of Vabbi"/>
         <POI MapID="1248" xpos="-500.775" ypos="95.7567" zpos="-382.744" type="leag.lws4.jahai.sand.mount.raptor" GUID="pAc2YKOF1EG5dE4dI73ytA=="/>
-        <POI MapID="1248" xpos="-463.672" ypos="98.1919" zpos="-351.16" type="leag.lws4.jahai.sand.wp" GUID="0ORvpylYCU+yzRk25dKBJw==" copy="[&BNAKAAA=]" copy-message="Seborhin Waypoint"/>
+        <POI MapID="1248" xpos="-463.672" ypos="98.1919" zpos="-351.16" type="leag.lws4.jahai.sand.wp" GUID="0ORvpylYCU+yzRk25dKBJw==" copy="[&amp;BNAKAAA=]" copy-message="Seborhin Waypoint"/>
         <POI MapID="1248" xpos="-386.291" ypos="48.3735" zpos="484.554" type="leag.lws4.jahai.sand.mount.raptor" GUID="/cSvI7z01Ue61XQxaLWg3Q=="/>
         <POI MapID="1248" xpos="-393.134" ypos="47.8175" zpos="599.651" type="leag.lws4.jahai.sand.mount.springer" GUID="fvSZWdmnwE2T4l3OsQ3gzw=="/>
-        <POI MapID="1248" xpos="-103.928" ypos="129.199" zpos="872.385" type="leag.lws4.jahai.sand.wp" GUID="NRAdrAq+OUetcKbJ6LuYeg==" copy="[&BHcKAAA=]" copy-message="Sand Jackal Run Waypoint, The Desolation"/>
+        <POI MapID="1248" xpos="-103.928" ypos="129.199" zpos="872.385" type="leag.lws4.jahai.sand.wp" GUID="NRAdrAq+OUetcKbJ6LuYeg==" copy="[&amp;BHcKAAA=]" copy-message="Sand Jackal Run Waypoint, The Desolation"/>
         <POI MapID="1301" xpos="-859.328" ypos="66.6549" zpos="780.486" type="leag.lws4.jahai.sand.mount.springer" GUID="orbHpTY6UEqF2/jTZwk//A=="/>
         <POI MapID="1301" xpos="912.4" ypos="123.551" zpos="373.085" type="leag.lws4.jahai.sand.mount.jackal" GUID="M6YHlw8IpEyhsSbYstWAkw=="/>
         <POI MapID="1301" xpos="735.144" ypos="69.4651" zpos="-354.238" type="leag.lws4.jahai.sand.mount.springer" GUID="2+E7E9XuXEyrO6RN7BP0Vw=="/>
         <POI MapID="1301" xpos="655.155" ypos="54.4418" zpos="-762.894" type="leag.lws4.jahai.sand.mount.springer" GUID="N+DbqkOLKESu6fZcQKoKLA=="/>
         <POI MapID="1226" xpos="-601.707" ypos="231.507" zpos="-1185.19" type="leag.lws4.jahai.sand.mount.jackal" GUID="GwuA8/kez0qT4IBHu5b1vg=="/>
-        <POI MapID="1226" xpos="-1000.53" ypos="296.437" zpos="-850.009" type="leag.lws4.jahai.sand.wp" GUID="1v9Tgqsx/kiD4yrXemfHBQ==" copy="[&BHMKAAA=]" copy-message="The Scourgeway Waypoint"/>
-        <POI MapID="1226" xpos="821.658" ypos="285.349" zpos="586.507" type="leag.lws4.jahai.sand.wp" GUID="KQsc13jTVEGtGZPVcgtIVg==" copy="[&BGcKAAA=]" copy-message="Skimmer Ranch Waypoint, Elon Riverlands"/>
-        <POI MapID="1228" xpos="-546.709" ypos="110.491" zpos="686.386" type="leag.lws4.jahai.sand.wp" GUID="1cHvWW3SoEm+/0bRhUz73A==" copy="[&BJEKAAA=]" copy-message="Brightwater Waypoint, Desert Highlands"/>
+        <POI MapID="1226" xpos="-1000.53" ypos="296.437" zpos="-850.009" type="leag.lws4.jahai.sand.wp" GUID="1v9Tgqsx/kiD4yrXemfHBQ==" copy="[&amp;BHMKAAA=]" copy-message="The Scourgeway Waypoint"/>
+        <POI MapID="1226" xpos="821.658" ypos="285.349" zpos="586.507" type="leag.lws4.jahai.sand.wp" GUID="KQsc13jTVEGtGZPVcgtIVg==" copy="[&amp;BGcKAAA=]" copy-message="Skimmer Ranch Waypoint, Elon Riverlands"/>
+        <POI MapID="1228" xpos="-546.709" ypos="110.491" zpos="686.386" type="leag.lws4.jahai.sand.wp" GUID="1cHvWW3SoEm+/0bRhUz73A==" copy="[&amp;BJEKAAA=]" copy-message="Brightwater Waypoint, Desert Highlands"/>
         <POI MapID="1211" xpos="-287.846" ypos="14.7503" zpos="-526.77" type="leag.lws4.jahai.sand.mount.skimmer" GUID="52MmFYJGekuu0bAw3W/hKQ=="/>
         <POI MapID="1228" xpos="-675.285" ypos="9.96532" zpos="27.8423" type="leag.lws4.jahai.sand.mount.jackal" GUID="M3ows/q180msWLc2gWHlYw=="/>
         <POI MapID="1226" xpos="257.952" ypos="275.936" zpos="308.482" type="leag.lws4.jahai.sand.mount.skimmer" GUID="aDvNreq/PU2+KatBifD9jA=="/>
@@ -918,14 +918,14 @@
         <Trail type="leag.lws4.jahai.nest.sr" trailData="Data/LWS4/Collections/Good, Better, Nest 8 Instance.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" color="92FF84"/>
         <POI MapID="1294" xpos="-918.507" ypos="13.8581" zpos="-517.761" type="leag.lws4.jahai.nest.talk" GUID="nsNbuI7mqUycaCOoYUZLtA=="/>
         <POI MapID="1294" xpos="-918.579" ypos="12.5675" zpos="-517.875" type="leag.lws4.jahai.nest.exit" GUID="u5JFAzj4HEyeFmVopYKOjg=="/>
-        <POI MapID="1301" xpos="-428.807" ypos="49.0594" zpos="-622.852" type="leag.lws4.jahai.nest.wp" GUID="L3nXU/Ld3UGB63MiGPG2bA==" copy="[&BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
+        <POI MapID="1301" xpos="-428.807" ypos="49.0594" zpos="-622.852" type="leag.lws4.jahai.nest.wp" GUID="L3nXU/Ld3UGB63MiGPG2bA==" copy="[&amp;BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
         <POI MapID="1301" xpos="742.963" ypos="68.9922" zpos="-339.794" type="leag.lws4.jahai.nest.glider" GUID="tvx/Bi0vjEeIswP1/xXFsg=="/>
-        <POI MapID="1301" xpos="822.827" ypos="38.1556" zpos="-227.276" type="leag.lws4.jahai.nest.wp" GUID="l/+fTbDmOke5vH2ILEkXmw==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint, Domain of Vabbi"/>
-        <POI MapID="1248" xpos="-921.945" ypos="252.49" zpos="-696.603" type="leag.lws4.jahai.nest.wp" GUID="zqZ+U127DkG78KQ3pWIc+A==" copy="[&BPoKAAA=]" copy-message="Astralarium Waypoint, Domain of Istan"/>
+        <POI MapID="1301" xpos="822.827" ypos="38.1556" zpos="-227.276" type="leag.lws4.jahai.nest.wp" GUID="l/+fTbDmOke5vH2ILEkXmw==" copy="[&amp;BEoKAAA=]" copy-message="Necropolis Waypoint, Domain of Vabbi"/>
+        <POI MapID="1248" xpos="-921.945" ypos="252.49" zpos="-696.603" type="leag.lws4.jahai.nest.wp" GUID="zqZ+U127DkG78KQ3pWIc+A==" copy="[&amp;BPoKAAA=]" copy-message="Astralarium Waypoint, Domain of Istan"/>
         <POI MapID="1263" xpos="-783.663" ypos="164.016" zpos="603.248" type="leag.lws4.jahai.nest.glider" GUID="27fTiCccgUuhyYX0SzURUQ=="/>
         <POI MapID="1263" xpos="-474.08" ypos="93.9537" zpos="664.936" type="leag.lws4.jahai.nest.glider" GUID="SRatPYqkFEuwstj/BzUA4A=="/>
-        <POI MapID="1263" xpos="-235.59" ypos="33.9722" zpos="857.057" type="leag.lws4.jahai.nest.wp" GUID="AfvykWKKFkuDuzeRq4i3Gg==" copy="[&BEMLAAA=]" copy-message="Atholma Waypoint, Sandswept Isles"/>
-        <POI MapID="1271" xpos="15.8096" ypos="33.4456" zpos="691.666" type="leag.lws4.jahai.nest.wp" GUID="62ejDAxzqEulyOEteB84+A==" copy="[&BLsKAAA=]" copy-message="Amnoon Waypoint, Crystal Oasis"/>
+        <POI MapID="1263" xpos="-235.59" ypos="33.9722" zpos="857.057" type="leag.lws4.jahai.nest.wp" GUID="AfvykWKKFkuDuzeRq4i3Gg==" copy="[&amp;BEMLAAA=]" copy-message="Atholma Waypoint, Sandswept Isles"/>
+        <POI MapID="1271" xpos="15.8096" ypos="33.4456" zpos="691.666" type="leag.lws4.jahai.nest.wp" GUID="62ejDAxzqEulyOEteB84+A==" copy="[&amp;BLsKAAA=]" copy-message="Amnoon Waypoint, Crystal Oasis"/>
         <POI MapID="1271" xpos="-99.2664" ypos="5.74634" zpos="687.534" type="leag.lws4.jahai.nest.mount.springer" GUID="MNOSKnGiXUiDxi+C49eONg=="/>
         <POI MapID="1210" xpos="-959.36" ypos="13.0327" zpos="-34.0696" type="leag.lws4.jahai.nest.wp" GUID="Y0iDIy81GECs0N+2acNmag==" info="ENTER Office of the Chief Councilor" infoRange="5"/>
         <POI MapID="1210" xpos="-918.529" ypos="17.3746" zpos="-312.015" type="leag.lws4.jahai.nest.wp" GUID="W9AZSEZNYEWm2UJNK3Eo6g==" info="ENTER Zalambur's Office" infoRange="5"/>
@@ -943,23 +943,23 @@
         <POI MapID="1301" xpos="728.432" ypos="96.5227" zpos="-360.198" type="leag.lws4.jahai.memorabilia.start" GUID="5Rd7tEzXZ0OCh0qNGKmN/g=="/>
         <POI MapID="1294" xpos="-1019.38" ypos="26.6374" zpos="-433.671" type="leag.lws4.jahai.memorabilia.talk" GUID="alPBZLO5x0OuaT45XNJFbQ=="/>
         <POI MapID="1301" xpos="711.12" ypos="24.9595" zpos="-85.0814" type="leag.lws4.jahai.memorabilia.item" GUID="nprX+tDlcE+kLRFR39+F1A=="/>
-        <POI MapID="1301" xpos="710.218" ypos="24.8985" zpos="-86.7754" type="leag.lws4.jahai.memorabilia.wp" GUID="okIX/Ejx2EC4ZEqgbUgDmg==" copy="[&BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
+        <POI MapID="1301" xpos="710.218" ypos="24.8985" zpos="-86.7754" type="leag.lws4.jahai.memorabilia.wp" GUID="okIX/Ejx2EC4ZEqgbUgDmg==" copy="[&amp;BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
         <POI MapID="1301" xpos="739.426" ypos="69.2998" zpos="-343.561" type="leag.lws4.jahai.memorabilia.number.1" GUID="liYMG2idpkudt3PC4jqm4A=="/>
         <POI MapID="1301" xpos="731.13" ypos="69.1149" zpos="-346.722" type="leag.lws4.jahai.memorabilia.number.2" GUID="4ubSlLYry02z+kxQvv+eVA=="/>
         <POI MapID="1301" xpos="640.534" ypos="44.8916" zpos="-365.603" type="leag.lws4.jahai.memorabilia.talk" GUID="QtTafU4V2k6f8M7B8KzJhA=="/>
-        <POI MapID="1301" xpos="640.534" ypos="44.8916" zpos="-365.603" type="leag.lws4.jahai.memorabilia.wp" GUID="XiwKzbmlhkebk5jMilay6A==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint, Enter Sun's Refuge"/>
+        <POI MapID="1301" xpos="640.534" ypos="44.8916" zpos="-365.603" type="leag.lws4.jahai.memorabilia.wp" GUID="XiwKzbmlhkebk5jMilay6A==" copy="[&amp;BIMLAAA=]" copy-message="Soul's Vendetta Waypoint, Enter Sun's Refuge"/>
         <Trail type="leag.lws4.jahai.memorabilia.sr" trailData="Data/LWS4/Collections/Soul's Vendetta WP to Sun's Refuge.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png"/>
         <POI MapID="1301" xpos="-481.617" ypos="37.4592" zpos="-595.049" type="leag.lws4.jahai.memorabilia.number.3" GUID="p+vJm2g45E+kvRyToJBQ+g=="/>
         <POI MapID="1301" xpos="110.32" ypos="50.3622" zpos="-487.567" type="leag.lws4.jahai.memorabilia.emote.salute" GUID="AVRCo1+i2ESWiQt4nQTfMQ=="/>
-        <POI MapID="1301" xpos="110.32" ypos="50.3622" zpos="-487.567" type="leag.lws4.jahai.memorabilia.wp" GUID="eKWgzr6n3EqEtNWGJVp5hw==" copy="[&BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
+        <POI MapID="1301" xpos="110.32" ypos="50.3622" zpos="-487.567" type="leag.lws4.jahai.memorabilia.wp" GUID="eKWgzr6n3EqEtNWGJVp5hw==" copy="[&amp;BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
         <POI MapID="1301" xpos="733.607" ypos="69.201" zpos="-350.807" type="leag.lws4.jahai.memorabilia.number.4" GUID="MV/JxK56PE2gDHruSjBLJg=="/>
         <POI MapID="1301" xpos="708.976" ypos="98.9711" zpos="-388.699" type="leag.lws4.jahai.memorabilia.emote.threaten" GUID="kI+nd6i4FUORKov6hJ56YA=="/>
-        <POI MapID="1301" xpos="708.976" ypos="98.9711" zpos="-388.699" type="leag.lws4.jahai.memorabilia.wp" GUID="IZ7NsZ7Aoke+QyFhTgTvdQ==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
+        <POI MapID="1301" xpos="708.976" ypos="98.9711" zpos="-388.699" type="leag.lws4.jahai.memorabilia.wp" GUID="IZ7NsZ7Aoke+QyFhTgTvdQ==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
         <POI MapID="1301" xpos="-1117.69" ypos="98.1123" zpos="197.734" type="leag.lws4.jahai.memorabilia.emote.cry" GUID="3OSioYacZ0W/YnPKPsr7MQ=="/>
         <POI MapID="1301" xpos="227.817" ypos="122.906" zpos="625.483" type="leag.lws4.jahai.memorabilia.emote.kneel" GUID="gRlGvB9SJUONVCJBH1LATg=="/>
         <POI MapID="1301" xpos="231.476" ypos="122.999" zpos="630.189" type="leag.lws4.jahai.memorabilia.emote.kneel" GUID="wbjy9udlY02jUU+FG/rlZg=="/>
         <POI MapID="1301" xpos="217.15" ypos="121.98" zpos="635.428" type="leag.lws4.jahai.memorabilia.emote.kneel" GUID="c7VeiOoB4k+8fIV5qsrEhg=="/>
-        <POI MapID="1301" xpos="217.15" ypos="121.98" zpos="635.428" type="leag.lws4.jahai.memorabilia.wp" GUID="+x4V1XM5TEyYBN3aIy5AbA==" copy="[&BJkLAAA=]" copy-message="Reclaimed Chantry Waypoint"/>
+        <POI MapID="1301" xpos="217.15" ypos="121.98" zpos="635.428" type="leag.lws4.jahai.memorabilia.wp" GUID="+x4V1XM5TEyYBN3aIy5AbA==" copy="[&amp;BJkLAAA=]" copy-message="Reclaimed Chantry Waypoint"/>
         <POI MapID="1301" xpos="-844.608" ypos="70.8786" zpos="112.571" type="leag.lws4.jahai.memorabilia.number.5" GUID="EQNnp+Q8u0mLv/mg/8XJTQ=="/>
         <POI MapID="1301" xpos="562.565" ypos="140.674" zpos="927.792" type="leag.lws4.jahai.memorabilia.number.6" GUID="nCQU3UKOLUCIR4sCt7XW2g=="/>
 
@@ -980,19 +980,19 @@
         <Trail type="leag.lws4.jahai.poster" trailData="Data/LWS4/Collections/Poster Child 14.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="E6B800"/>
         <POI MapID="1301" xpos="-374.623" ypos="50.7408" zpos="-682.107" type="leag.lws4.jahai.poster.start" GUID="wjpwk2W5IEm4gvzFddzK7w=="/>
         <POI MapID="1294" xpos="-944.11" ypos="12.298" zpos="-478.333" type="leag.lws4.jahai.poster.talk" GUID="2n1cDvMMgEWbOhAnCA8MlA=="/>
-        <POI MapID="1294" xpos="-941.472" ypos="10.3367" zpos="-478.574" type="leag.lws4.jahai.poster.wp" GUID="9VIp0KxlD0SZ4Ppb2LTWVg==" copy="[&BJkLAAA=]" copy-message="Reclaimed Chantry Waypoint"/>
-        <POI MapID="1301" xpos="736.332" ypos="123.88" zpos="868.817" type="leag.lws4.jahai.poster.wp" GUID="ddXjR8H4E0SzHlnPizw4hA==" copy="[&BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
-        <POI MapID="1301" xpos="762.883" ypos="43.9921" zpos="-788.988" type="leag.lws4.jahai.poster.wp" GUID="LjqrlkS/jUCeFAyVZNbe/Q==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint, Enter Sun's Refuge"/>
-        <POI MapID="1301" xpos="-433.171" ypos="47.0344" zpos="-623.445" type="leag.lws4.jahai.poster.wp" GUID="RAnaeFOv5UC6SPxZ86CGxg==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
-        <POI MapID="1301" xpos="-621.985" ypos="47.742" zpos="547.884" type="leag.lws4.jahai.poster.wp" GUID="PjOTcbBLE02SUE7Xra88Mw==" copy="[&BA8KAAA=]" copy-message="Vehtendi Academy Waypoint, Domain of Vabbi"/>
-        <POI MapID="1248" xpos="354.246" ypos="68.6047" zpos="-635.985" type="leag.lws4.jahai.poster.wp" GUID="aa2mmKbGJ0ybVPpKnaR59A==" copy="[&BNwKAAA=]" copy-message="Bonestrand Waypoint, The Desolation"/>
-        <POI MapID="1226" xpos="243.4" ypos="8.30966" zpos="1222.19" type="leag.lws4.jahai.poster.wp" GUID="Z+xu8ydyPkuKII+4UX/N+w==" copy="[&BFMKAAA=]" copy-message="Augury's Shadow Waypoint, Elon Riverlands"/>
-        <POI MapID="1228" xpos="390.163" ypos="78.4522" zpos="439.562" type="leag.lws4.jahai.poster.wp" GUID="3EI/6zmLlECPhqGVPJfWCw==" copy="[&BLsKAAA=]" copy-message="Amnoon Waypoint, Crystal Oasis"/>
-        <POI MapID="1210" xpos="-846.168" ypos="8.74362" zpos="-147.913" type="leag.lws4.jahai.poster.wp" GUID="+Ont6Bc4IkCvtlqlLGBQkg==" copy="[&BGsKAAA=]" copy-message="Makali Outpost Waypoint, Desert Highlands"/>
-        <POI MapID="1211" xpos="503.592" ypos="146.356" zpos="-626.694" type="leag.lws4.jahai.poster.wp" GUID="XGbWytzz7kyIBv8Ufal+Rg==" copy="[&BNMAAAA=]" copy-message="Hawkgates Waypoint, Fields of Ruin"/>
-        <POI MapID="21" xpos="-562.214" ypos="51.7225" zpos="-524.218" type="leag.lws4.jahai.poster.wp" GUID="DoXHMibnwkCZcqFVv4Iwnw==" copy="[&BDAEAAA=]" copy-message="Fort Marriner Waypoint, Lion's Arch"/>
-        <POI MapID="50" xpos="90.0521" ypos="30.6726" zpos="-214.847" type="leag.lws4.jahai.poster.wp" GUID="TkqjKgFtuEWCTsg72TvQbg==" copy="[&BC0DAAA=]" copy-message="Ossan Waypoint, Divinity's Reach"/>
-        <POI MapID="18" xpos="-197.31" ypos="59.413" zpos="222.235" type="leag.lws4.jahai.poster.wp" GUID="Ir5f0YoA3Uewo9Dh9UJD9A==" copy="[&BCkDAAA=]" copy-message="Palace Waypoint"/>
+        <POI MapID="1294" xpos="-941.472" ypos="10.3367" zpos="-478.574" type="leag.lws4.jahai.poster.wp" GUID="9VIp0KxlD0SZ4Ppb2LTWVg==" copy="[&amp;BJkLAAA=]" copy-message="Reclaimed Chantry Waypoint"/>
+        <POI MapID="1301" xpos="736.332" ypos="123.88" zpos="868.817" type="leag.lws4.jahai.poster.wp" GUID="ddXjR8H4E0SzHlnPizw4hA==" copy="[&amp;BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
+        <POI MapID="1301" xpos="762.883" ypos="43.9921" zpos="-788.988" type="leag.lws4.jahai.poster.wp" GUID="LjqrlkS/jUCeFAyVZNbe/Q==" copy="[&amp;BIMLAAA=]" copy-message="Soul's Vendetta Waypoint, Enter Sun's Refuge"/>
+        <POI MapID="1301" xpos="-433.171" ypos="47.0344" zpos="-623.445" type="leag.lws4.jahai.poster.wp" GUID="RAnaeFOv5UC6SPxZ86CGxg==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
+        <POI MapID="1301" xpos="-621.985" ypos="47.742" zpos="547.884" type="leag.lws4.jahai.poster.wp" GUID="PjOTcbBLE02SUE7Xra88Mw==" copy="[&amp;BA8KAAA=]" copy-message="Vehtendi Academy Waypoint, Domain of Vabbi"/>
+        <POI MapID="1248" xpos="354.246" ypos="68.6047" zpos="-635.985" type="leag.lws4.jahai.poster.wp" GUID="aa2mmKbGJ0ybVPpKnaR59A==" copy="[&amp;BNwKAAA=]" copy-message="Bonestrand Waypoint, The Desolation"/>
+        <POI MapID="1226" xpos="243.4" ypos="8.30966" zpos="1222.19" type="leag.lws4.jahai.poster.wp" GUID="Z+xu8ydyPkuKII+4UX/N+w==" copy="[&amp;BFMKAAA=]" copy-message="Augury's Shadow Waypoint, Elon Riverlands"/>
+        <POI MapID="1228" xpos="390.163" ypos="78.4522" zpos="439.562" type="leag.lws4.jahai.poster.wp" GUID="3EI/6zmLlECPhqGVPJfWCw==" copy="[&amp;BLsKAAA=]" copy-message="Amnoon Waypoint, Crystal Oasis"/>
+        <POI MapID="1210" xpos="-846.168" ypos="8.74362" zpos="-147.913" type="leag.lws4.jahai.poster.wp" GUID="+Ont6Bc4IkCvtlqlLGBQkg==" copy="[&amp;BGsKAAA=]" copy-message="Makali Outpost Waypoint, Desert Highlands"/>
+        <POI MapID="1211" xpos="503.592" ypos="146.356" zpos="-626.694" type="leag.lws4.jahai.poster.wp" GUID="XGbWytzz7kyIBv8Ufal+Rg==" copy="[&amp;BNMAAAA=]" copy-message="Hawkgates Waypoint, Fields of Ruin"/>
+        <POI MapID="21" xpos="-562.214" ypos="51.7225" zpos="-524.218" type="leag.lws4.jahai.poster.wp" GUID="DoXHMibnwkCZcqFVv4Iwnw==" copy="[&amp;BDAEAAA=]" copy-message="Fort Marriner Waypoint, Lion's Arch"/>
+        <POI MapID="50" xpos="90.0521" ypos="30.6726" zpos="-214.847" type="leag.lws4.jahai.poster.wp" GUID="TkqjKgFtuEWCTsg72TvQbg==" copy="[&amp;BC0DAAA=]" copy-message="Ossan Waypoint, Divinity's Reach"/>
+        <POI MapID="18" xpos="-197.31" ypos="59.413" zpos="222.235" type="leag.lws4.jahai.poster.wp" GUID="Ir5f0YoA3Uewo9Dh9UJD9A==" copy="[&amp;BCkDAAA=]" copy-message="Palace Waypoint"/>
         
         <Trail type="leag.lws4.jahai.readathon.sr" trailData="Data/LWS4/Collections/Soul's Vendetta WP to Sun's Refuge.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png"/>
         <POI MapID="1301" xpos="-374.623" ypos="50.7408" zpos="-682.107" type="leag.lws4.jahai.readathon.start" GUID="j5opENICLk6dM84D3OFxOQ=="/>
@@ -1002,10 +1002,10 @@
         <Trail type="leag.lws4.jahai.readathon" trailData="Data/LWS4/Collections/Readathon 4.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="A0A0A0"/>
         <Trail type="leag.lws4.jahai.readathon" trailData="Data/LWS4/Collections/Readathon 5.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="A0A0A0"/>
         <POI MapID="1294" xpos="-766.682" ypos="11.5835" zpos="-466.064" type="leag.lws4.jahai.readathon.talk" GUID="wscNLPrrUE2t0j/FV2jrHg=="/>
-        <POI MapID="1294" xpos="-764.828" ypos="10.0688" zpos="-466.106" type="leag.lws4.jahai.readathon.wp" GUID="63i71yHIa0mYi+PrX0zVPg==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint"/>
-        <POI MapID="1301" xpos="-118.215" ypos="85.6941" zpos="-503.477" type="leag.lws4.jahai.readathon.wp" GUID="APRKuqhT9kiKBz5M5qiGZw==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
-        <POI MapID="1301" xpos="-694.968" ypos="48.8132" zpos="524.191" type="leag.lws4.jahai.readathon.wp" GUID="qder9mBy1UuCprnXWuNYPg==" copy="[&BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
-        <POI MapID="1301" xpos="798.337" ypos="43.0655" zpos="-812.172" type="leag.lws4.jahai.readathon.wp" GUID="cjbseSkx6U+wE8xhk9C3jg==" copy="[&BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
+        <POI MapID="1294" xpos="-764.828" ypos="10.0688" zpos="-466.106" type="leag.lws4.jahai.readathon.wp" GUID="63i71yHIa0mYi+PrX0zVPg==" copy="[&amp;BIMLAAA=]" copy-message="Soul's Vendetta Waypoint"/>
+        <POI MapID="1301" xpos="-118.215" ypos="85.6941" zpos="-503.477" type="leag.lws4.jahai.readathon.wp" GUID="APRKuqhT9kiKBz5M5qiGZw==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
+        <POI MapID="1301" xpos="-694.968" ypos="48.8132" zpos="524.191" type="leag.lws4.jahai.readathon.wp" GUID="qder9mBy1UuCprnXWuNYPg==" copy="[&amp;BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
+        <POI MapID="1301" xpos="798.337" ypos="43.0655" zpos="-812.172" type="leag.lws4.jahai.readathon.wp" GUID="cjbseSkx6U+wE8xhk9C3jg==" copy="[&amp;BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
         <POI MapID="1301" xpos="-371.7722" ypos="50.90271" zpos="-675.4968" type="leag.lws4.jahai.readathon.number.1" GUID="vUEBYRdyVEWY5Psd+GxkVw=="/>
         <POI MapID="1301" xpos="-370.2066" ypos="50.90271" zpos="-676.6601" type="leag.lws4.jahai.readathon.number.2" GUID="zVJNEA8Kn02k65MbkATS/A=="/>
         <POI MapID="1301" xpos="-838.3456" ypos="71.13506" zpos="113.7412" type="leag.lws4.jahai.readathon.number.3" GUID="rZj8aL0VBkCXqDq+/gXVtA=="/>
@@ -1060,10 +1060,10 @@
 
         <POI MapID="1301" xpos="-373.898" ypos="50.9024" zpos="-678.503" type="leag.lws4.jahai.elegy.start" GUID="EDXmItOeoki2NFuWLj4ZOw=="/>
         <POI MapID="1294" xpos="-1056.41" ypos="24.6555" zpos="-442.303" type="leag.lws4.jahai.elegy.talk" GUID="0698TPSNz0SL6nUyCNDy2g=="/>
-        <POI MapID="1294" xpos="-1055.989" ypos="22.24216" zpos="-444.8415" type="leag.lws4.jahai.elegy.wp" GUID="7/ok5eQI+UOePyXi44Zg3g==" copy="2. [&BJMLAAA=] - 5. [&BJkLAAA=]" copy-message="2. Venta Pass Waypoint&#xa;5. Reclaimed Chantry Waypoint"/>
+        <POI MapID="1294" xpos="-1055.989" ypos="22.24216" zpos="-444.8415" type="leag.lws4.jahai.elegy.wp" GUID="7/ok5eQI+UOePyXi44Zg3g==" copy="2.[&amp;BJMLAAA=] - 5.[&amp;BJkLAAA=]" copy-message="2. Venta Pass Waypoint&#xa;5. Reclaimed Chantry Waypoint"/>
         <POI MapID="1301" xpos="-892.403" ypos="72.0099" zpos="152.44" type="leag.lws4.jahai.elegy.wp" GUID="3/6NuWpy9EyWQNkXZDbynQ==" info="TALK to Eladaar" infoRange="5"/>
-        <POI MapID="1294" xpos="-1055.75" ypos="22.2717" zpos="-439.05" type="leag.lws4.jahai.elegy.wp" GUID="csTdEXg51EesP8CXrokRuw==" copy="11.[&BIMLAAA=] - 12,16.[&BH4LAAA=] - 13,14.[&BJkLAAA=] - 15,17.[&BJMLAAA=]" copy-message="11. Soul's Vendetta WP&#xa;12, 16. Yatendi Village WP&#xa;13, 14. Reclaimed Chantry WP&#xa;15, 17. Venta Pass WP"/>
-        <POI MapID="1301" xpos="1161.58" ypos="122.887" zpos="686.786" type="leag.lws4.jahai.elegy.wp" GUID="aWjOJzwcDU62zl/BSInrhQ==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
+        <POI MapID="1294" xpos="-1055.75" ypos="22.2717" zpos="-439.05" type="leag.lws4.jahai.elegy.wp" GUID="csTdEXg51EesP8CXrokRuw==" copy="11.[&amp;BIMLAAA=] - 12,16.[&amp;BH4LAAA=] - 13,14.[&amp;BJkLAAA=] - 15,17.[&amp;BJMLAAA=]" copy-message="11. Soul's Vendetta WP&#xa;12, 16. Yatendi Village WP&#xa;13, 14. Reclaimed Chantry WP&#xa;15, 17. Venta Pass WP"/>
+        <POI MapID="1301" xpos="1161.58" ypos="122.887" zpos="686.786" type="leag.lws4.jahai.elegy.wp" GUID="aWjOJzwcDU62zl/BSInrhQ==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
         <POI MapID="1301" xpos="1157.5" ypos="123.501" zpos="683.363" type="leag.lws4.jahai.elegy.talk" GUID="2p3EZ8YjQ0SH6V7tOg+Q5Q=="/>
         <POI MapID="1301" xpos="1162.82" ypos="124.428" zpos="687.141" type="leag.lws4.jahai.elegy.talk" GUID="P3n4mFrwrEWpo2KoZh9m8A=="/>
         <POI MapID="1301" xpos="-371.547" ypos="50.9027" zpos="-675.276" type="leag.lws4.jahai.elegy.number.1" GUID="TgaXgQe54UCmvktKjxMQrA=="/>
@@ -1080,33 +1080,33 @@
         <POI MapID="1301" xpos="-362.918" ypos="50.8871" zpos="-667.32" type="leag.lws4.jahai.elegy.number.17" GUID="KDXpdF3UhEu7guGfVl9Udg=="/>
         <POI MapID="1301" xpos="-915.68" ypos="60.5756" zpos="376.524" type="leag.lws4.jahai.elegy.mount.springer" GUID="i03GrbnC106srham8Yd4JQ=="/>
         <POI MapID="1301" xpos="-941.109" ypos="80.8758" zpos="417.631" type="leag.lws4.jahai.elegy.mount.springer" GUID="2nhLCNpNk0G0pkmRdz9kdw=="/>
-        <POI MapID="1301" xpos="-958.078" ypos="41.3441" zpos="195.702" type="leag.lws4.jahai.elegy.wp" GUID="1UdcBQu+MEyEysTE1v08Lw==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira in Sun's Refuge"/>
+        <POI MapID="1301" xpos="-958.078" ypos="41.3441" zpos="195.702" type="leag.lws4.jahai.elegy.wp" GUID="1UdcBQu+MEyEysTE1v08Lw==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira in Sun's Refuge"/>
         <POI MapID="1301" xpos="-957.797" ypos="43.0757" zpos="193.286" type="leag.lws4.jahai.elegy.talk" GUID="qs7/TtYnJE28i2fqYOyaZg=="/>
         <POI MapID="1294" xpos="-1059.57" ypos="22.43295" zpos="-440.8308" type="leag.lws4.jahai.elegy" GUID="H5ZsW3vMa0Gm3QUdi/bNgQ==" iconFile="Data/Images/Commission.png" maxSize="128"/>
         
-        <POI MapID="1301" xpos="68.8746" ypos="32.2108" zpos="-712.772" type="leag.lws4.jahai.elegy.memorial.icon" GUID="dL3cXYNuPUeIP1s96JgMrw==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="574.696" ypos="50.4304" zpos="-228.369" type="leag.lws4.jahai.elegy.memorial.icon" GUID="kvfqhBhGVkeY52dbtBp0Ag==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="315.671" ypos="125.621" zpos="359.335" type="leag.lws4.jahai.elegy.memorial.icon" GUID="+rHWq6/+oEGz7ZwpE0f8ZQ==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="856.629" ypos="123.409" zpos="791.593" type="leag.lws4.jahai.elegy.memorial.icon" GUID="edtR7Tg1Qk+5LPB99moKBA==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="-495.917" ypos="70.3961" zpos="533.1" type="leag.lws4.jahai.elegy.memorial.icon" GUID="6wkUHQwRg0CAq/JsfHqAeQ==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="71.1552" ypos="55.8527" zpos="-46.9456" type="leag.lws4.jahai.elegy.memorial.icon" GUID="DKhUid6YOkeTFFJokLmcdg==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="-894.95" ypos="73.3676" zpos="154.298" type="leag.lws4.jahai.elegy.memorial.icon" GUID="kr6g8+mOH0mMkjQu/Zs/3Q==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="68.8746" ypos="32.2108" zpos="-712.772" type="leag.lws4.jahai.elegy.memorial.icon" GUID="dL3cXYNuPUeIP1s96JgMrw==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="574.696" ypos="50.4304" zpos="-228.369" type="leag.lws4.jahai.elegy.memorial.icon" GUID="kvfqhBhGVkeY52dbtBp0Ag==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="315.671" ypos="125.621" zpos="359.335" type="leag.lws4.jahai.elegy.memorial.icon" GUID="+rHWq6/+oEGz7ZwpE0f8ZQ==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="856.629" ypos="123.409" zpos="791.593" type="leag.lws4.jahai.elegy.memorial.icon" GUID="edtR7Tg1Qk+5LPB99moKBA==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="-495.917" ypos="70.3961" zpos="533.1" type="leag.lws4.jahai.elegy.memorial.icon" GUID="6wkUHQwRg0CAq/JsfHqAeQ==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="71.1552" ypos="55.8527" zpos="-46.9456" type="leag.lws4.jahai.elegy.memorial.icon" GUID="DKhUid6YOkeTFFJokLmcdg==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="-894.95" ypos="73.3676" zpos="154.298" type="leag.lws4.jahai.elegy.memorial.icon" GUID="kr6g8+mOH0mMkjQu/Zs/3Q==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
 
-        <POI MapID="1301" xpos="68.8746" ypos="32.2108" zpos="-712.772" type="leag.lws4.jahai.elegy.memorial.wp" GUID="7fgVvBiIcEuFURSGt9S8cw==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="574.696" ypos="50.4304" zpos="-228.369" type="leag.lws4.jahai.elegy.memorial.wp" GUID="IxXHl8bhREOIEsnUeyuv4g==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="315.671" ypos="125.621" zpos="359.335" type="leag.lws4.jahai.elegy.memorial.wp" GUID="KOzmx6SKWkWsmjPO26ZRPg==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="856.629" ypos="123.409" zpos="791.593" type="leag.lws4.jahai.elegy.memorial.wp" GUID="chbA2jX/U0K8DUI2TuHUPQ==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="-495.917" ypos="70.3961" zpos="533.1" type="leag.lws4.jahai.elegy.memorial.wp" GUID="4JsPVto6hkanJSc3az5MGg==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="71.1552" ypos="55.8527" zpos="-46.9456" type="leag.lws4.jahai.elegy.memorial.wp" GUID="IruRadimJUmJr+w6+rbXXA==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
-        <POI MapID="1301" xpos="-894.95" ypos="73.3676" zpos="154.298" type="leag.lws4.jahai.elegy.memorial.wp" GUID="LGIzEFsLJ0G/CYSskg8Isg==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="68.8746" ypos="32.2108" zpos="-712.772" type="leag.lws4.jahai.elegy.memorial.wp" GUID="7fgVvBiIcEuFURSGt9S8cw==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="574.696" ypos="50.4304" zpos="-228.369" type="leag.lws4.jahai.elegy.memorial.wp" GUID="IxXHl8bhREOIEsnUeyuv4g==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="315.671" ypos="125.621" zpos="359.335" type="leag.lws4.jahai.elegy.memorial.wp" GUID="KOzmx6SKWkWsmjPO26ZRPg==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="856.629" ypos="123.409" zpos="791.593" type="leag.lws4.jahai.elegy.memorial.wp" GUID="chbA2jX/U0K8DUI2TuHUPQ==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="-495.917" ypos="70.3961" zpos="533.1" type="leag.lws4.jahai.elegy.memorial.wp" GUID="4JsPVto6hkanJSc3az5MGg==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="71.1552" ypos="55.8527" zpos="-46.9456" type="leag.lws4.jahai.elegy.memorial.wp" GUID="IruRadimJUmJr+w6+rbXXA==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
+        <POI MapID="1301" xpos="-894.95" ypos="73.3676" zpos="154.298" type="leag.lws4.jahai.elegy.memorial.wp" GUID="LGIzEFsLJ0G/CYSskg8Isg==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira"/>
 
         <POI MapID="1301" xpos="-350.5456" ypos="50.87579" zpos="-631.1685" type="leag.lws4.jahai.elegy" GUID="sOKsHe36qEOtgANVmhYz5Q==" iconFile="Data/Images/Icons/Eladaar.png" inGameVisibility="0" mapDisplaySize="32" tip-name="Invitation" tip-description="Eladaar"/>
-        <POI MapID="1301" xpos="-349.391" ypos="50.6218" zpos="-632.186" type="leag.lws4.jahai.elegy.wp" GUID="QC6FU+gWZE61pzF9xVxrfg==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
+        <POI MapID="1301" xpos="-349.391" ypos="50.6218" zpos="-632.186" type="leag.lws4.jahai.elegy.wp" GUID="QC6FU+gWZE61pzF9xVxrfg==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
 
         <Trail type="leag.lws4.jahai.requiem.story" trailData="Data/LWS4/4. A Star to Guide Us/Bottled No More.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" color="CCA301"/>
         <POI MapID="1301" xpos="744.036" ypos="46.0538" zpos="-786.621" type="leag.lws4.jahai.requiem.story.ziya" GUID="ywJqduYtWEuD47OjinoRcQ=="/>
         <POI MapID="1301" xpos="1071.39" ypos="119.9" zpos="-296.749" type="leag.lws4.jahai.requiem.story.vemyen" GUID="ie37L2eEZEG/mK4olXPINw=="/>
-        <POI MapID="1301" xpos="1078.13" ypos="119.264" zpos="-306.162" type="leag.lws4.jahai.requiem.wp" GUID="igQfLO2hi0K+hKywnpAMmw==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint"/>
+        <POI MapID="1301" xpos="1078.13" ypos="119.264" zpos="-306.162" type="leag.lws4.jahai.requiem.wp" GUID="igQfLO2hi0K+hKywnpAMmw==" copy="[&amp;BIMLAAA=]" copy-message="Soul's Vendetta Waypoint"/>
         <Trail type="leag.lws4.jahai.requiem" trailData="Data/LWS4/Collections/Soul's Vendetta WP to Sun's Refuge.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="leag.lws4.jahai.requiem.story" trailData="Data/LWS4/Collections/In a Grain of Sand 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00CCFF"/>
         <Trail type="leag.lws4.jahai.requiem.amira" trailData="Data/LWS4/Collections/The Convergence of Sorrow II/Amira.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FFA27F"/>
@@ -1447,16 +1447,16 @@
         <Trail type="leag.lws4.thunderhead.treasure" trailData="Data/LWS4/5. All or Nothing/Thunderhead Peaks Treasure 7.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
         <POI MapID="1310" xpos="-495.3" ypos="142.936" zpos="1003.67" type="leag.lws4.thunderhead.treasure.start" GUID="f1bXGV4HYkeZP3aTU6Z+kQ=="/>
         <POI MapID="1310" xpos="-496.052" ypos="140.335" zpos="1009.94" type="leag.lws4.thunderhead.treasure.number.1" GUID="vCDve0olw0enbK7X+805LQ=="/>
-        <POI MapID="1310" xpos="-737.337" ypos="150.023" zpos="953.9706" type="leag.lws4.thunderhead.treasure.wp" GUID="iWudO1whbUqOQ6WCPIJpeQ==" copy="[&BEYOAAA=]" copy-message="Observation Deck Waypoint"/>
+        <POI MapID="1310" xpos="-737.337" ypos="150.023" zpos="953.9706" type="leag.lws4.thunderhead.treasure.wp" GUID="iWudO1whbUqOQ6WCPIJpeQ==" copy="[&amp;BEYOAAA=]" copy-message="Observation Deck Waypoint"/>
         <POI MapID="1310" xpos="-490.381" ypos="140.254" zpos="1005.91" type="leag.lws4.thunderhead.treasure.number.2" GUID="2+c0x8NbAUawf6ftvL4vvQ=="/>
         <POI MapID="1310" xpos="509.516" ypos="366.439" zpos="653.342" type="leag.lws4.thunderhead.treasure.number.3" GUID="DVAVGcu/kEOnOmER+YoIUQ=="/>
-        <POI MapID="1310" xpos="25.6752" ypos="316.736" zpos="438.797" type="leag.lws4.thunderhead.treasure.wp" GUID="URYpdvhdUEeYmUjUk4urug==" copy="[&BLsLAAA=]" copy-message="History's End Waypoint"/>
+        <POI MapID="1310" xpos="25.6752" ypos="316.736" zpos="438.797" type="leag.lws4.thunderhead.treasure.wp" GUID="URYpdvhdUEeYmUjUk4urug==" copy="[&amp;BLsLAAA=]" copy-message="History's End Waypoint"/>
         <POI MapID="1310" xpos="509.745" ypos="366.445" zpos="660.296" type="leag.lws4.thunderhead.treasure.number.4" GUID="sMgjlRunXUqhlTiZ2We/1w=="/>
-        <POI MapID="1310" xpos="767.298" ypos="345.305" zpos="1001.48" type="leag.lws4.thunderhead.treasure.wp" GUID="5DchG5BwjUyno3J0lOcctg==" copy="[&BLsLAAA=]" copy-message="History's End Waypoint"/>
+        <POI MapID="1310" xpos="767.298" ypos="345.305" zpos="1001.48" type="leag.lws4.thunderhead.treasure.wp" GUID="5DchG5BwjUyno3J0lOcctg==" copy="[&amp;BLsLAAA=]" copy-message="History's End Waypoint"/>
         <POI MapID="1310" xpos="515.272" ypos="366.672" zpos="663.245" type="leag.lws4.thunderhead.treasure.number.5" GUID="GILEMoQ57E6dQJ7P/6CHkA=="/>
-        <POI MapID="1310" xpos="-528.797" ypos="155.18" zpos="-26.7909" type="leag.lws4.thunderhead.treasure.wp" GUID="54/0G/Y5YUWJNCzMiZJE+g==" copy="[&BKYLAAA=]" copy-message="Revolution's Heart Waypoint"/>
+        <POI MapID="1310" xpos="-528.797" ypos="155.18" zpos="-26.7909" type="leag.lws4.thunderhead.treasure.wp" GUID="54/0G/Y5YUWJNCzMiZJE+g==" copy="[&amp;BKYLAAA=]" copy-message="Revolution's Heart Waypoint"/>
         <POI MapID="1310" xpos="-460.998" ypos="4.18513" zpos="-341.475" type="leag.lws4.thunderhead.treasure.number.6" GUID="ZB15YAx+2UeVyrtbJup4Zg=="/>
-        <POI MapID="1310" xpos="-910.783" ypos="-6.52533" zpos="-914.149" type="leag.lws4.thunderhead.treasure.wp" GUID="iytA3Tbm80ipKOrUcCnNxA==" copy="[&BLoLAAA=]" copy-message="Moorage Waypoint"/>
+        <POI MapID="1310" xpos="-910.783" ypos="-6.52533" zpos="-914.149" type="leag.lws4.thunderhead.treasure.wp" GUID="iytA3Tbm80ipKOrUcCnNxA==" copy="[&amp;BLoLAAA=]" copy-message="Moorage Waypoint"/>
         <POI MapID="1310" xpos="404.785" ypos="205.155" zpos="-69.3726" type="leag.lws4.thunderhead.treasure.number.7" GUID="eaD1sAWPvUiYf0kSl/x4iA=="/>
         <POI MapID="1310" xpos="-678.319" ypos="139.808" zpos="953.875" type="leag.lws4.thunderhead.treasure.mount.raptor" GUID="B5Y7+eWIIEqnj/Fs1JH6wQ=="/>
         <POI MapID="1310" xpos="-698.512" ypos="138.781" zpos="954.267" type="leag.lws4.thunderhead.treasure.mount.bof" GUID="INTfUN8FdUClTeE6w10oXw=="/>
@@ -1630,13 +1630,13 @@
         <Trail type="leag.lws4.dragonfall.newborn.scales" trailData="Data/LWS4/Collections/1. Newborn Skyscales/Scales 6.trl"/>
         <Trail type="leag.lws4.dragonfall.newborn.scales" trailData="Data/LWS4/Collections/1. Newborn Skyscales/Scales 7.trl"/>
         <Trail type="leag.lws4.dragonfall.newborn.scales" trailData="Data/LWS4/Collections/1. Newborn Skyscales/Scales 8.trl"/>
-        <POI MapID="1317" xpos="-983.578" ypos="81.2481" zpos="-164.499" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="VnvU8ZY3f0a+hVXyhSP/xg==" copy="[&BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
-        <POI MapID="1317" xpos="-969.12" ypos="5.37591" zpos="428.173" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="/DyTPw/XBkCTCR1P+9pqYA==" copy="[&BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
-        <POI MapID="1317" xpos="-30.2217" ypos="52.6904" zpos="792.778" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="Jyy1e/eU/kmxS3Gp7ssw4w==" copy="[&BNELAAA=]" copy-message="The Underworld Waypoint"/>
-        <POI MapID="1317" xpos="-186.167" ypos="109.529" zpos="-178.412" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="fTAvSOb/bUWRkBZA9M0iiQ==" copy="[&BNELAAA=]" copy-message="The Underworld Waypoint"/>
-        <POI MapID="1317" xpos="-462.838" ypos="181.569" zpos="-457.033" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="zbOgW1k/FUmQZBjYq9x8Lg==" copy="[&BN4LAAA=]" copy-message="Mount the Skyscale then go to Pact Command Waypoint"/>
-        <POI MapID="1317" xpos="969.0405" ypos="376.7814" zpos="-185.5444" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="w0rQc+rmLUeumOmIz7TKnA==" copy="[&BNILAAA=]" copy-message="Melandru's Lost Domain Waypoint"/>
-        <POI MapID="1317" xpos="863.812" ypos="193.612" zpos="-269.293" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="l5nVuqS8YUa4BAhCsdYPsg==" copy="[&BNILAAA=]" copy-message="Melandru's Lost Domain Waypoint"/>
+        <POI MapID="1317" xpos="-983.578" ypos="81.2481" zpos="-164.499" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="VnvU8ZY3f0a+hVXyhSP/xg==" copy="[&amp;BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
+        <POI MapID="1317" xpos="-969.12" ypos="5.37591" zpos="428.173" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="/DyTPw/XBkCTCR1P+9pqYA==" copy="[&amp;BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
+        <POI MapID="1317" xpos="-30.2217" ypos="52.6904" zpos="792.778" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="Jyy1e/eU/kmxS3Gp7ssw4w==" copy="[&amp;BNELAAA=]" copy-message="The Underworld Waypoint"/>
+        <POI MapID="1317" xpos="-186.167" ypos="109.529" zpos="-178.412" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="fTAvSOb/bUWRkBZA9M0iiQ==" copy="[&amp;BNELAAA=]" copy-message="The Underworld Waypoint"/>
+        <POI MapID="1317" xpos="-462.838" ypos="181.569" zpos="-457.033" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="zbOgW1k/FUmQZBjYq9x8Lg==" copy="[&amp;BN4LAAA=]" copy-message="Mount the Skyscale then go to Pact Command Waypoint"/>
+        <POI MapID="1317" xpos="969.0405" ypos="376.7814" zpos="-185.5444" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="w0rQc+rmLUeumOmIz7TKnA==" copy="[&amp;BNILAAA=]" copy-message="Melandru's Lost Domain Waypoint"/>
+        <POI MapID="1317" xpos="863.812" ypos="193.612" zpos="-269.293" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="l5nVuqS8YUa4BAhCsdYPsg==" copy="[&amp;BNILAAA=]" copy-message="Melandru's Lost Domain Waypoint"/>
         <POI MapID="1317" xpos="-868.893" ypos="119.597" zpos="484.288" type="leag.lws4.dragonfall.newborn.scales.glider" GUID="8eAElmSAbU21rzNMZCNW/A=="/>
         <POI MapID="1317" xpos="-927.709" ypos="77.9401" zpos="461.802" type="leag.lws4.dragonfall.newborn.scales.glider" GUID="4sSFfqBEIEufscjjfe0bOw=="/>
         <POI MapID="1317" xpos="-791.848" ypos="125.825" zpos="506.118" type="leag.lws4.dragonfall.newborn.scales.number.1" GUID="Rk0DavD910uyJwnwwVLVbg=="/>
@@ -1676,9 +1676,9 @@
         <Trail type="leag.lws4.dragonfall.newborn.fever" trailData="Data/LWS4/Collections/1. Newborn Skyscales/Fever 2.trl"/>
         <Trail type="leag.lws4.dragonfall.newborn.fever" trailData="Data/LWS4/Collections/1. Newborn Skyscales/Fever 3.trl"/>
         <Trail type="leag.lws4.dragonfall.newborn.fever" trailData="Data/LWS4/Collections/1. Newborn Skyscales/Fever 4.trl"/>
-        <POI MapID="1317" xpos="-377.129" ypos="244.071" zpos="-156.719" type="leag.lws4.dragonfall.newborn.fever.wp" GUID="TiK/4pgO70Ww9Kk8JDrf4A==" copy="[&BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
-        <POI MapID="1317" xpos="-461.513" ypos="175.696" zpos="702.671" type="leag.lws4.dragonfall.newborn.fever.wp" GUID="TpP1Fe5c00qhNK0WYMXpCQ==" copy="[&BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
-        <POI MapID="1317" xpos="-862.461" ypos="22.2932" zpos="227.329" type="leag.lws4.dragonfall.newborn.fever.wp" GUID="WyVGhFovb0mKNh7Iz9TQ5Q==" copy="[&BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
+        <POI MapID="1317" xpos="-377.129" ypos="244.071" zpos="-156.719" type="leag.lws4.dragonfall.newborn.fever.wp" GUID="TiK/4pgO70Ww9Kk8JDrf4A==" copy="[&amp;BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
+        <POI MapID="1317" xpos="-461.513" ypos="175.696" zpos="702.671" type="leag.lws4.dragonfall.newborn.fever.wp" GUID="TpP1Fe5c00qhNK0WYMXpCQ==" copy="[&amp;BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
+        <POI MapID="1317" xpos="-862.461" ypos="22.2932" zpos="227.329" type="leag.lws4.dragonfall.newborn.fever.wp" GUID="WyVGhFovb0mKNh7Iz9TQ5Q==" copy="[&amp;BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
         <POI MapID="1317" xpos="-781.31" ypos="125.823" zpos="508.491" type="leag.lws4.dragonfall.newborn.fever.number.1" GUID="i+vUmP01gEeVzUKSecTbgA=="/>
         <POI MapID="1317" xpos="-785.2149" ypos="125.9136" zpos="500.5547" type="leag.lws4.dragonfall.newborn.fever.number.2" GUID="4OP1KVc44E+zq3QGayoT5w=="/>
         <POI MapID="1317" xpos="-781.1547" ypos="125.8401" zpos="504.4138" type="leag.lws4.dragonfall.newborn.fever.number.3" GUID="IHNrF1F6uUiuCFjEN5VInQ=="/>
@@ -1718,11 +1718,11 @@
         <Trail type="leag.lws4.dragonfall.newborn.eggs" trailData="Data/LWS4/Collections/1. Newborn Skyscales/Eggs 3.trl"/>
         <Trail type="leag.lws4.dragonfall.newborn.eggs" trailData="Data/LWS4/Collections/1. Newborn Skyscales/Eggs 4.trl"/>
         <Trail type="leag.lws4.dragonfall.newborn.eggs" trailData="Data/LWS4/Collections/1. Newborn Skyscales/Eggs 5.trl"/>
-        <POI MapID="1317" xpos="-346.261" ypos="120.512" zpos="-714.523" type="leag.lws4.dragonfall.newborn.eggs.wp" GUID="uM/I5dL5nkitpe+seO7OMQ==" copy="[&BNELAAA=]" copy-message="The Underworld Waypoint"/>
-        <POI MapID="1317" xpos="-886.286" ypos="23.8233" zpos="248.897" type="leag.lws4.dragonfall.newborn.eggs.wp" GUID="mzlRkJh07U2TX+9bnEUlOQ==" copy="[&BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
-        <POI MapID="1317" xpos="829.376" ypos="20.8714" zpos="87.2456" type="leag.lws4.dragonfall.newborn.eggs.wp" GUID="9/R+3sgkukSnS122xWqtyQ==" copy="[&BNILAAA=]" copy-message="Melandru's Lost Domain Waypoint"/>
+        <POI MapID="1317" xpos="-346.261" ypos="120.512" zpos="-714.523" type="leag.lws4.dragonfall.newborn.eggs.wp" GUID="uM/I5dL5nkitpe+seO7OMQ==" copy="[&amp;BNELAAA=]" copy-message="The Underworld Waypoint"/>
+        <POI MapID="1317" xpos="-886.286" ypos="23.8233" zpos="248.897" type="leag.lws4.dragonfall.newborn.eggs.wp" GUID="mzlRkJh07U2TX+9bnEUlOQ==" copy="[&amp;BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
+        <POI MapID="1317" xpos="829.376" ypos="20.8714" zpos="87.2456" type="leag.lws4.dragonfall.newborn.eggs.wp" GUID="9/R+3sgkukSnS122xWqtyQ==" copy="[&amp;BNILAAA=]" copy-message="Melandru's Lost Domain Waypoint"/>
         
-        <POI MapID="1317" xpos="-544.4533" ypos="3.51053" zpos="803.7285" type="leag.lws4.dragonfall.newborn.eggs.wp" GUID="kfDdnLV6ikmmuV91hHqghQ==" copy="[&BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
+        <POI MapID="1317" xpos="-544.4533" ypos="3.51053" zpos="803.7285" type="leag.lws4.dragonfall.newborn.eggs.wp" GUID="kfDdnLV6ikmmuV91hHqghQ==" copy="[&amp;BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
         <POI MapID="1317" xpos="-790.3146" ypos="125.8226" zpos="509.1912" type="leag.lws4.dragonfall.newborn.eggs.number.1" GUID="5sUfMppncEuZT3Fg7inV7Q=="/>
         <POI MapID="1317" xpos="-780.832" ypos="125.8441" zpos="504.3139" type="leag.lws4.dragonfall.newborn.eggs.number.2" GUID="Voq2hn+fUECNAvcgzGwsSw=="/>
         <POI MapID="1317" xpos="-491.791" ypos="141.978" zpos="-392.194" type="leag.lws4.dragonfall.newborn.eggs.mount.springer" GUID="i43NDzF3Q0WHh+Btn3GCiQ=="/>
@@ -1816,63 +1816,63 @@
         <POI MapID="18" xpos="46.4283" ypos="102.629" zpos="-465.813" type="leag.lws4.dragonfall.saving.talk" GUID="mRpTUE7tPk++7he7HBeJqg=="/>
         <POI MapID="648" xpos="62.3758" ypos="109.5" zpos="62.6154" type="leag.lws4.dragonfall.saving.talk" GUID="+bfL2ZHGP0SdKuBzQd/vmQ=="/>
         <POI MapID="54" xpos="555.413" ypos="38.9666" zpos="-367.865" type="leag.lws4.dragonfall.saving.talk" GUID="Qx5D2qIoIkmr8KVULFkGDg=="/>
-        <POI MapID="1294" xpos="-872.169" ypos="22.1514" zpos="-252.96" type="leag.lws4.dragonfall.saving.wp" GUID="pm5z+BJg7UGyabUbGT1tUQ==" copy="[&BN4LAAA=]" copy-message="Pact Command Waypoint, Dragonfall"/>
-        <POI MapID="1317" xpos="726.056" ypos="107.441" zpos="733.053" type="leag.lws4.dragonfall.saving.wp" GUID="MDJMLhjwXkmYwuqm7iLpvg==" copy="[&BLoEAAA=]" copy-message="Upper Commons Waypoint, The Grove"/>
-        <POI MapID="648" xpos="60.7282" ypos="107.301" zpos="61.5315" type="leag.lws4.dragonfall.saving.wp" GUID="fCUVh0KpdUyT0Uo9bkcNoA==" copy="[&BHUAAAA=]" copy-message="Mrot Boru Waypoint, Brisban Wildlands"/>
-        <POI MapID="54" xpos="557.368" ypos="37.0845" zpos="-367.866" type="leag.lws4.dragonfall.saving.wp" GUID="vh6JJL12f0C03aZS2WVIfw==" copy="[&BOUAAAA=]" copy-message="Dwayna Waypoint, Divinity's Reach"/>
-        <POI MapID="18" xpos="45.0368" ypos="100.273" zpos="-468.322" type="leag.lws4.dragonfall.saving.wp" GUID="FEac9X8Oyk6P8cj45d/scA==" copy="[&BCMDAAA=]" copy-message="Blue Ice Shining Waypoint, Frostgorge Sound"/>
-        <POI MapID="30" xpos="-552.391" ypos="42.7203" zpos="-241.431" type="leag.lws4.dragonfall.saving.wp" GUID="ebf9l/4jDkC1CAvXbsHSMA==" copy="[&BHoCAAA=] or [&BH0JAAA=]" copy-message="Earthshake Waypoint, Claw of Jormag&#xa;or&#xa;Ice Storms, Bitterfrost Frontier"/>
-        <POI MapID="1178" xpos="-34.4751" ypos="1.01773" zpos="-98.4861" type="leag.lws4.dragonfall.saving.wp" GUID="Xt3qP25vQk+XsKu0m2vRuA==" copy="[&BOUAAAA=]" copy-message="Vanjir's Stead Waypoint, Lornar's Pass" info="After defeating the Ice Storms, head to Vanjir's Stead Waypoint, Lornar's Pass" infoRange="5"/>
-        <POI MapID="27" xpos="-37.1612" ypos="69.5626" zpos="-1266.6" type="leag.lws4.dragonfall.saving.wp" GUID="O6qkyTMVo0iX5rpONGmTLQ==" copy="[&BO4CAAA=]" copy-message="Fort Trinity Waypoint, Straits of Devastation"/>
-        <POI MapID="27" xpos="-88.8214" ypos="60.1663" zpos="-1241.52" type="leag.lws4.dragonfall.saving.wp" GUID="1j5WE64askOU68GvEzDGtw==" copy="[&BO4CAAA=]" copy-message="Fort Trinity Waypoint, Straits of Devastation"/>
+        <POI MapID="1294" xpos="-872.169" ypos="22.1514" zpos="-252.96" type="leag.lws4.dragonfall.saving.wp" GUID="pm5z+BJg7UGyabUbGT1tUQ==" copy="[&amp;BN4LAAA=]" copy-message="Pact Command Waypoint, Dragonfall"/>
+        <POI MapID="1317" xpos="726.056" ypos="107.441" zpos="733.053" type="leag.lws4.dragonfall.saving.wp" GUID="MDJMLhjwXkmYwuqm7iLpvg==" copy="[&amp;BLoEAAA=]" copy-message="Upper Commons Waypoint, The Grove"/>
+        <POI MapID="648" xpos="60.7282" ypos="107.301" zpos="61.5315" type="leag.lws4.dragonfall.saving.wp" GUID="fCUVh0KpdUyT0Uo9bkcNoA==" copy="[&amp;BHUAAAA=]" copy-message="Mrot Boru Waypoint, Brisban Wildlands"/>
+        <POI MapID="54" xpos="557.368" ypos="37.0845" zpos="-367.866" type="leag.lws4.dragonfall.saving.wp" GUID="vh6JJL12f0C03aZS2WVIfw==" copy="[&amp;BOUAAAA=]" copy-message="Dwayna Waypoint, Divinity's Reach"/>
+        <POI MapID="18" xpos="45.0368" ypos="100.273" zpos="-468.322" type="leag.lws4.dragonfall.saving.wp" GUID="FEac9X8Oyk6P8cj45d/scA==" copy="[&amp;BCMDAAA=]" copy-message="Blue Ice Shining Waypoint, Frostgorge Sound"/>
+        <POI MapID="30" xpos="-552.391" ypos="42.7203" zpos="-241.431" type="leag.lws4.dragonfall.saving.wp" GUID="ebf9l/4jDkC1CAvXbsHSMA==" copy="[&amp;BHoCAAA=] or [&amp;BH0JAAA=]" copy-message="Earthshake Waypoint, Claw of Jormag&#xa;or&#xa;Ice Storms, Bitterfrost Frontier"/>
+        <POI MapID="1178" xpos="-34.4751" ypos="1.01773" zpos="-98.4861" type="leag.lws4.dragonfall.saving.wp" GUID="Xt3qP25vQk+XsKu0m2vRuA==" copy="[&amp;BOUAAAA=]" copy-message="Vanjir's Stead Waypoint, Lornar's Pass" info="After defeating the Ice Storms, head to Vanjir's Stead Waypoint, Lornar's Pass" infoRange="5"/>
+        <POI MapID="27" xpos="-37.1612" ypos="69.5626" zpos="-1266.6" type="leag.lws4.dragonfall.saving.wp" GUID="O6qkyTMVo0iX5rpONGmTLQ==" copy="[&amp;BO4CAAA=]" copy-message="Fort Trinity Waypoint, Straits of Devastation"/>
+        <POI MapID="27" xpos="-88.8214" ypos="60.1663" zpos="-1241.52" type="leag.lws4.dragonfall.saving.wp" GUID="1j5WE64askOU68GvEzDGtw==" copy="[&amp;BO4CAAA=]" copy-message="Fort Trinity Waypoint, Straits of Devastation"/>
         <POI MapID="51" xpos="746.547" ypos="20.7334" zpos="124.116" type="leag.lws4.dragonfall.saving.mount.springer" GUID="sLImOUcD6UeFw1oFbnlG2Q=="/>
-        <POI MapID="51" xpos="755.024" ypos="32.4433" zpos="126.897" type="leag.lws4.dragonfall.saving.wp" GUID="Twl1KgAj4kGKGfOyjBfl9w==" copy="[&BHQKAAA=]" copy-message="Market Ruins Waypoint, Domain of Vabbi"/>
-        <POI MapID="1248" xpos="450.64" ypos="290.793" zpos="12.4857" type="leag.lws4.dragonfall.saving.wp" GUID="67MQ+wCLHkyA7VcnzRU00A==" copy="[&BHQKAAA=]" copy-message="Market Ruins Waypoint, Domain of Vabbi"/>
+        <POI MapID="51" xpos="755.024" ypos="32.4433" zpos="126.897" type="leag.lws4.dragonfall.saving.wp" GUID="Twl1KgAj4kGKGfOyjBfl9w==" copy="[&amp;BHQKAAA=]" copy-message="Market Ruins Waypoint, Domain of Vabbi"/>
+        <POI MapID="1248" xpos="450.64" ypos="290.793" zpos="12.4857" type="leag.lws4.dragonfall.saving.wp" GUID="67MQ+wCLHkyA7VcnzRU00A==" copy="[&amp;BHQKAAA=]" copy-message="Market Ruins Waypoint, Domain of Vabbi"/>
         <POI MapID="1248" xpos="673.815" ypos="216.974" zpos="-3.58837" type="leag.lws4.dragonfall.saving.mount.skimmer" GUID="xNVFpmsrFE+NoJZJqsFqOQ=="/>
         <POI MapID="1248" xpos="738.341" ypos="178.141" zpos="-3.21945" type="leag.lws4.dragonfall.saving.mount.springer" GUID="HB9bVBmqjkaCPlh7UabwSQ=="/>
         <POI MapID="1248" xpos="808.002" ypos="142.294" zpos="47.7901" type="leag.lws4.dragonfall.saving.number.1" GUID="rO+emOVOlkyc9vaWXj4BMg=="/>
         <POI MapID="1248" xpos="812.157" ypos="142.294" zpos="49.4136" type="leag.lws4.dragonfall.saving.number.2" GUID="y53B+9v2rEa3g4bgG+TbPw=="/>
         <POI MapID="1248" xpos="814.524" ypos="142.359" zpos="46.9893" type="leag.lws4.dragonfall.saving.mount.skimmer" GUID="S2S77r/AkUmPvMieR63AEQ=="/>
         <POI MapID="1248" xpos="1217.3" ypos="36.6595" zpos="-148.732" type="leag.lws4.dragonfall.saving.mount.springer" GUID="ol0dfN0BHkej6Ej0Q0KFkA=="/>
-        <POI MapID="1248" xpos="1369.45" ypos="90.2542" zpos="-112.735" type="leag.lws4.dragonfall.saving.wp" GUID="Z/kqZDIWA0CGthhXwDX/8A==" copy="[&BA8KAAA=]" copy-message="Vehtendi Academy Waypoint"/>
-        <POI MapID="1248" xpos="400.136" ypos="69.0858" zpos="-639.906" type="leag.lws4.dragonfall.saving.wp" GUID="yaxdAO3FDEOJv2J7pqfuFg==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint"/>
-        <POI MapID="1248" xpos="-969.578" ypos="261.981" zpos="-924.353" type="leag.lws4.dragonfall.saving.wp" GUID="paadUtjO7EK9B+huVbSfhA==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint"/>
+        <POI MapID="1248" xpos="1369.45" ypos="90.2542" zpos="-112.735" type="leag.lws4.dragonfall.saving.wp" GUID="Z/kqZDIWA0CGthhXwDX/8A==" copy="[&amp;BA8KAAA=]" copy-message="Vehtendi Academy Waypoint"/>
+        <POI MapID="1248" xpos="400.136" ypos="69.0858" zpos="-639.906" type="leag.lws4.dragonfall.saving.wp" GUID="yaxdAO3FDEOJv2J7pqfuFg==" copy="[&amp;BEoKAAA=]" copy-message="Necropolis Waypoint"/>
+        <POI MapID="1248" xpos="-969.578" ypos="261.981" zpos="-924.353" type="leag.lws4.dragonfall.saving.wp" GUID="paadUtjO7EK9B+huVbSfhA==" copy="[&amp;BEoKAAA=]" copy-message="Necropolis Waypoint"/>
         <POI MapID="1248" xpos="-575.005" ypos="115.383" zpos="-433.808" type="leag.lws4.dragonfall.saving.number.1" GUID="zdowM0a1q06qvopB2skdAQ=="/>
         <POI MapID="1248" xpos="-566.69" ypos="117.521" zpos="-427.234" type="leag.lws4.dragonfall.saving.number.2" GUID="b4g4m4JAvUKNNjz5uccWYg=="/>
         <POI MapID="1248" xpos="-829.388" ypos="200.825" zpos="-717.358" type="leag.lws4.dragonfall.saving.mount.springer" GUID="pOEQ/2coek+ahCPKTo7ExA=="/>
         <POI MapID="1248" xpos="-893.994" ypos="284.399" zpos="-818.037" type="leag.lws4.dragonfall.saving.mount.springer" GUID="Ky+hsRwUPU67H/9z6iqj1A=="/>
         <POI MapID="1248" xpos="-937.628" ypos="296.221" zpos="-889.177" type="leag.lws4.dragonfall.saving.glider" GUID="r5DFO9FH4k+7XEUxl+3gaA=="/>
-        <POI MapID="1248" xpos="-455.371" ypos="93.1346" zpos="-371.084" type="leag.lws4.dragonfall.saving.wp" GUID="KfTZblUjAUScF3OG50AsRA==" copy="[&BO0KAAA=]" copy-message="Vehjin Palace Waypoint"/>
+        <POI MapID="1248" xpos="-455.371" ypos="93.1346" zpos="-371.084" type="leag.lws4.dragonfall.saving.wp" GUID="KfTZblUjAUScF3OG50AsRA==" copy="[&amp;BO0KAAA=]" copy-message="Vehjin Palace Waypoint"/>
         <POI MapID="1248" xpos="-1075.33" ypos="139.625" zpos="372.916" type="leag.lws4.dragonfall.saving.mount.springer" GUID="SajACuiLDkKGxqlaKVLcSA=="/>
         <POI MapID="1248" xpos="-1133.07" ypos="153.844" zpos="314.452" type="leag.lws4.dragonfall.saving.glider" GUID="tCGjIp7N7Ey6HC8TZTesZA=="/>
         <POI MapID="1248" xpos="-1314.49" ypos="60.3009" zpos="-153.673" type="leag.lws4.dragonfall.saving.mount.springer" GUID="48+gfWhLTkuvj4fZnJKLOQ=="/>
-        <POI MapID="1248" xpos="-1282.3" ypos="70.9549" zpos="-242.148" type="leag.lws4.dragonfall.saving.wp" GUID="EFjJhy27AUC92cGdYkedeA==" copy="[&BH4LAAA=]" copy-message="Yatendi Village Waypoint, Jahai Bluffs"/>
+        <POI MapID="1248" xpos="-1282.3" ypos="70.9549" zpos="-242.148" type="leag.lws4.dragonfall.saving.wp" GUID="EFjJhy27AUC92cGdYkedeA==" copy="[&amp;BH4LAAA=]" copy-message="Yatendi Village Waypoint, Jahai Bluffs"/>
         <POI MapID="1301" xpos="721.477" ypos="70.9899" zpos="-343.756" type="leag.lws4.dragonfall.saving.wp" GUID="Di0jvGODm0KiOJV74x90Tg==" info="Winds of the Storm: Get caught in a Brand Tornado while following the trail" infoRange="5"/>
-        <POI MapID="1301" xpos="-974.333" ypos="50.848" zpos="561.742" type="leag.lws4.dragonfall.saving.wp" GUID="74HqFe6f3EGYvTJAzkXeHw==" copy="[&BFcLAAA=]" copy-message="Allied Encampment Waypoint, Domain of Kourna"/>
+        <POI MapID="1301" xpos="-974.333" ypos="50.848" zpos="561.742" type="leag.lws4.dragonfall.saving.wp" GUID="74HqFe6f3EGYvTJAzkXeHw==" copy="[&amp;BFcLAAA=]" copy-message="Allied Encampment Waypoint, Domain of Kourna"/>
         <POI MapID="1288" xpos="-936.536" ypos="35.4045" zpos="663.706" type="leag.lws4.dragonfall.saving.mount.springer" GUID="3sq6g/i0bkyPtnaQXjKpwQ=="/>
-        <POI MapID="1288" xpos="-979.5049" ypos="-397.8142" zpos="886.2013" type="leag.lws4.dragonfall.saving.wp" GUID="weOwfRVocEGAnKhCvCCN4w==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint, Domain of Istan"/>
-        <POI MapID="1263" xpos="-422.706" ypos="84.1714" zpos="-451.909" type="leag.lws4.dragonfall.saving.wp" GUID="DSj/TQdltEu3UMfE0E49FA==" copy="[&BAsKAAA=]" copy-message="Joko's Domain Waypoint, The Desolation"/>
-        <POI MapID="1226" xpos="311.518" ypos="277.323" zpos="-1355.28" type="leag.lws4.dragonfall.saving.wp" GUID="g1Gk1sibzUyn5iUV6uh/eA==" copy="[&BNwKAAA=]" copy-message="Bonestrand Waypoint"/>
+        <POI MapID="1288" xpos="-979.5049" ypos="-397.8142" zpos="886.2013" type="leag.lws4.dragonfall.saving.wp" GUID="weOwfRVocEGAnKhCvCCN4w==" copy="[&amp;BBoLAAA=]" copy-message="Champion's Dawn Waypoint, Domain of Istan"/>
+        <POI MapID="1263" xpos="-422.706" ypos="84.1714" zpos="-451.909" type="leag.lws4.dragonfall.saving.wp" GUID="DSj/TQdltEu3UMfE0E49FA==" copy="[&amp;BAsKAAA=]" copy-message="Joko's Domain Waypoint, The Desolation"/>
+        <POI MapID="1226" xpos="311.518" ypos="277.323" zpos="-1355.28" type="leag.lws4.dragonfall.saving.wp" GUID="g1Gk1sibzUyn5iUV6uh/eA==" copy="[&amp;BNwKAAA=]" copy-message="Bonestrand Waypoint"/>
         <POI MapID="1228" xpos="857.599" ypos="-0.773091" zpos="-938.075" type="leag.lws4.dragonfall.saving.mount.skimmer" GUID="0X2oUMmCDEmlWCt/+aCzXA=="/>
         <POI MapID="1228" xpos="822.081" ypos="9.44626" zpos="-597.077" type="leag.lws4.dragonfall.saving.mount.springer" GUID="3riVgmhobU+smz3NvetWrw=="/>
-        <POI MapID="1228" xpos="800.3061" ypos="53.58881" zpos="-560.0991" type="leag.lws4.dragonfall.saving.wp" GUID="ybOQB+S+OUWis+B+y9eIqw==" copy="[&BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
+        <POI MapID="1228" xpos="800.3061" ypos="53.58881" zpos="-560.0991" type="leag.lws4.dragonfall.saving.wp" GUID="ybOQB+S+OUWis+B+y9eIqw==" copy="[&amp;BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
         <POI MapID="1228" xpos="-39.2652" ypos="47.1804" zpos="120.977" type="leag.lws4.dragonfall.saving.mount.skimmer" GUID="kdXQEkJL9Ua3dHLl6HcJPA=="/>
-        <POI MapID="1228" xpos="-19.2176" ypos="62.66708" zpos="320.804" type="leag.lws4.dragonfall.saving.wp" GUID="xB0aWriAKUCUbnj79lFLhQ==" copy="[&BGcKAAA=]" copy-message="Skimmer Ranch Waypoint"/>
+        <POI MapID="1228" xpos="-19.2176" ypos="62.66708" zpos="320.804" type="leag.lws4.dragonfall.saving.wp" GUID="xB0aWriAKUCUbnj79lFLhQ==" copy="[&amp;BGcKAAA=]" copy-message="Skimmer Ranch Waypoint"/>
         <POI MapID="1228" xpos="-907.626" ypos="83.568" zpos="917.536" type="leag.lws4.dragonfall.saving.mount.raptor" GUID="L5p8Nm1NYECedUrIuR3oyw=="/>
-        <POI MapID="1228" xpos="-988.426" ypos="89.9107" zpos="1004.88" type="leag.lws4.dragonfall.saving.wp" GUID="4HZUJc1FV06w/0qLQo9ljA==" copy="[&BFMKAAA=]" copy-message="Augury's Shadow Waypoint"/>
-        <POI MapID="1228" xpos="635.918" ypos="87.5577" zpos="577.294" type="leag.lws4.dragonfall.saving.wp" GUID="cC+R/s/08UyleAUByHDl7Q==" copy="Augury Rock Event or Crazed Doppelganger, then go to [&BLsKAAA=]" copy-message="Augury Rock Event or Crazed Doppelganger&#xa;then go to Amnoon Waypoint, Crystal Oasis"/>
+        <POI MapID="1228" xpos="-988.426" ypos="89.9107" zpos="1004.88" type="leag.lws4.dragonfall.saving.wp" GUID="4HZUJc1FV06w/0qLQo9ljA==" copy="[&amp;BFMKAAA=]" copy-message="Augury's Shadow Waypoint"/>
+        <POI MapID="1228" xpos="635.918" ypos="87.5577" zpos="577.294" type="leag.lws4.dragonfall.saving.wp" GUID="cC+R/s/08UyleAUByHDl7Q==" copy="Augury Rock Event or Crazed Doppelganger, then go to [&amp;BLsKAAA=]" copy-message="Augury Rock Event or Crazed Doppelganger&#xa;then go to Amnoon Waypoint, Crystal Oasis"/>
         <POI MapID="1228" xpos="660.065" ypos="86.5732" zpos="599.933" type="leag.lws4.dragonfall.saving.event" GUID="e6tLI6jfm0m3ybwZOMwUhw==" tip-name="Augury Rock Event"/>
         <POI MapID="1228" xpos="587.966" ypos="92.83" zpos="874.877" type="leag.lws4.dragonfall.saving.event" GUID="V97CdsbaOUOpF0RHvyA2/Q==" tip-name="Crazed Doppelganger Event"/>
         <POI MapID="1210" xpos="-212.999" ypos="11.51381" zpos="35.53057" type="leag.lws4.dragonfall.saving.wp" GUID="qSq+WmYLy0WMM51tjC4cjg==" info="Need to be struck by Dust Mites" infoRange="15"/>
-        <POI MapID="1210" xpos="-287.752" ypos="43.7118" zpos="601.793" type="leag.lws4.dragonfall.saving.wp" GUID="AwN3jDSdr0uEzRnDyktNrw==" copy="[&BGsKAAA=]" copy-message="Makali Outpost Waypoint, Desert Highlands"/>
-        <POI MapID="1211" xpos="1077.51" ypos="204.438" zpos="-376.195" type="leag.lws4.dragonfall.saving.wp" GUID="qtKenK2IzU+dSWFsO6PY8g==" copy="[&BGoKAAA=]" copy-message="Lommuld Kraal Waypoint"/>
-        <POI MapID="1211" xpos="1417.47" ypos="160.99" zpos="543.661" type="leag.lws4.dragonfall.saving.wp" GUID="L+T75+ISN0O6BuUDrnxtFQ==" copy="[&BJEKAAA=]" copy-message="Brightwater Waypoint"/>
+        <POI MapID="1210" xpos="-287.752" ypos="43.7118" zpos="601.793" type="leag.lws4.dragonfall.saving.wp" GUID="AwN3jDSdr0uEzRnDyktNrw==" copy="[&amp;BGsKAAA=]" copy-message="Makali Outpost Waypoint, Desert Highlands"/>
+        <POI MapID="1211" xpos="1077.51" ypos="204.438" zpos="-376.195" type="leag.lws4.dragonfall.saving.wp" GUID="qtKenK2IzU+dSWFsO6PY8g==" copy="[&amp;BGoKAAA=]" copy-message="Lommuld Kraal Waypoint"/>
+        <POI MapID="1211" xpos="1417.47" ypos="160.99" zpos="543.661" type="leag.lws4.dragonfall.saving.wp" GUID="L+T75+ISN0O6BuUDrnxtFQ==" copy="[&amp;BJEKAAA=]" copy-message="Brightwater Waypoint"/>
         <POI MapID="1211" xpos="639.001" ypos="144.273" zpos="-567.505" type="leag.lws4.dragonfall.saving.mount.raptor" GUID="qKgruEY7t0uNi8mp5lXYBg=="/>
         <POI MapID="1211" xpos="774.59" ypos="146.42" zpos="-511.281" type="leag.lws4.dragonfall.saving.mount.springer" GUID="jA8YL52unkyWCUdqhYE5YA=="/>
         <POI MapID="1211" xpos="1063.84" ypos="179.757" zpos="-373.479" type="leag.lws4.dragonfall.saving.mount.springer" GUID="HX8AvKCN20mUJUtLzjH9tA=="/>
         <POI MapID="1211" xpos="823.725" ypos="200.199" zpos="380.499" type="leag.lws4.dragonfall.saving.mount.raptor" GUID="5d2KdeIHXkGKPBLpKcGDww=="/>
         <POI MapID="1211" xpos="915.109" ypos="188.146" zpos="357.141" type="leag.lws4.dragonfall.saving.mount.springer" GUID="dVjVaZ5kl0C3DA3AHl2RGw=="/>
-        <POI MapID="1211" xpos="-401.096" ypos="87.292" zpos="-176.291" type="leag.lws4.dragonfall.saving.wp" GUID="QgvD98H0AU2iilfvnVLtBA==" copy="[&BKQKAAA=]" copy-message="Derelict Delve Waypoint"/>
+        <POI MapID="1211" xpos="-401.096" ypos="87.292" zpos="-176.291" type="leag.lws4.dragonfall.saving.wp" GUID="QgvD98H0AU2iilfvnVLtBA==" copy="[&amp;BKQKAAA=]" copy-message="Derelict Delve Waypoint"/>
         <POI MapID="1211" xpos="-1303.53" ypos="341.469" zpos="251.77" type="leag.lws4.dragonfall.saving.glider" GUID="+EqvCEr5O0Ow87tG6ijf4Q=="/>
         <POI MapID="1211" xpos="-1303.56" ypos="341.468" zpos="252.359" type="leag.lws4.dragonfall.saving.wp" GUID="znUAu4Q96ESKPuq99ugsyA==" info="Descend to the steps and take damage from the Lava Flow" infoRange="5"/>
         <POI MapID="1211" xpos="-1314.37" ypos="338.712" zpos="127.233" type="leag.lws4.dragonfall.saving.glider" GUID="Ixdf0r6LzkStF6ZplOtSCQ=="/>
@@ -1882,15 +1882,15 @@
         <POI MapID="1211" xpos="-1241.61" ypos="277.116" zpos="140.797" type="leag.lws4.dragonfall.saving.mount.springer" GUID="gyyuRGLRS026guDGZc/9kQ=="/>
         <POI MapID="1211" xpos="-1296.76" ypos="283.758" zpos="200.691" type="leag.lws4.dragonfall.saving.mount.raptor" GUID="OTU3uq5DVUW4vHZ0jqq0Kg=="/>
         <POI MapID="1211" xpos="-1310.53" ypos="283.32" zpos="204.766" type="leag.lws4.dragonfall.saving.mount.springer" GUID="9w5+jnnA/06eXwpEwmKskg=="/>
-        <POI MapID="1211" xpos="-1378.45" ypos="-13.3714" zpos="171.208" type="leag.lws4.dragonfall.saving.wp" GUID="gF3JrqcMT0qAegrxQTVf4A==" copy="[&BKYLAAA=]" copy-message="Revolution's Heart Waypoint, Thunderhead Peaks"/>
+        <POI MapID="1211" xpos="-1378.45" ypos="-13.3714" zpos="171.208" type="leag.lws4.dragonfall.saving.wp" GUID="gF3JrqcMT0qAegrxQTVf4A==" copy="[&amp;BKYLAAA=]" copy-message="Revolution's Heart Waypoint, Thunderhead Peaks"/>
         <POI MapID="1310" xpos="-291.189" ypos="41.4499" zpos="-556.638" type="leag.lws4.dragonfall.saving.mount.skimmer" GUID="reEwdfy3y0eX0UFYrrBPqw=="/>
-        <POI MapID="1310" xpos="-70.2879" ypos="-47.405" zpos="-987.348" type="leag.lws4.dragonfall.saving.wp" GUID="uQCuyMinMkunN5PPxsUZGA==" copy="[&BFEBAAA=]" copy-message="Fallen Angels Waypoint, Fields of Ruin"/>
-        <POI MapID="21" xpos="-750.583" ypos="66.9588" zpos="-801.677" type="leag.lws4.dragonfall.saving.wp" GUID="zfzFOro+7kOGt/FrXHssbQ==" copy="[&BE4DAAA=]" copy-message="Kill Chickens until attacked by Angry Chickens&#xa;Then Lowland Burns Waypoint, Blazeridge Steppes"/>
+        <POI MapID="1310" xpos="-70.2879" ypos="-47.405" zpos="-987.348" type="leag.lws4.dragonfall.saving.wp" GUID="uQCuyMinMkunN5PPxsUZGA==" copy="[&amp;BFEBAAA=]" copy-message="Fallen Angels Waypoint, Fields of Ruin"/>
+        <POI MapID="21" xpos="-750.583" ypos="66.9588" zpos="-801.677" type="leag.lws4.dragonfall.saving.wp" GUID="zfzFOro+7kOGt/FrXHssbQ==" copy="[&amp;BE4DAAA=]" copy-message="Kill Chickens until attacked by Angry Chickens&#xa;Then Lowland Burns Waypoint, Blazeridge Steppes"/>
         <POI MapID="20" xpos="-258.361" ypos="34.121" zpos="716.385" type="leag.lws4.dragonfall.saving.mount.springer" GUID="z8v8G8DhfUmOUYOhDgN0kA=="/>
-        <POI MapID="20" xpos="-258.081" ypos="193.22" zpos="655.474" type="leag.lws4.dragonfall.saving.wp" GUID="As2pzsZkgUywCQ2bfXXVaw==" copy="[&BDcEAAA=]" copy-message="Junker's Waypoint, Black Citadel"/>
+        <POI MapID="20" xpos="-258.081" ypos="193.22" zpos="655.474" type="leag.lws4.dragonfall.saving.wp" GUID="As2pzsZkgUywCQ2bfXXVaw==" copy="[&amp;BDcEAAA=]" copy-message="Junker's Waypoint, Black Citadel"/>
         <POI MapID="218" xpos="162.562" ypos="169.541" zpos="-23.7156" type="leag.lws4.dragonfall.saving.glider" GUID="+7QdGBUrbEeaTCAY8/oOtg=="/>
-        <POI MapID="218" xpos="240.304" ypos="125.784" zpos="-113.481" type="leag.lws4.dragonfall.saving.wp" GUID="csYoVvjCm0uZges83gvywA==" copy="[&BK4BAAA=]" copy-message="Castavall Waypoint, Bloodtide Coast"/>
-        <POI MapID="73" xpos="-110.717" ypos="-253.256" zpos="-616.242" type="leag.lws4.dragonfall.saving.wp" GUID="CoPu5XMoJEid13Bi/BatTQ==" copy="[&BK4BAAA=]" copy-message="Castavall Waypoint, Bloodtide Coast"/>
+        <POI MapID="218" xpos="240.304" ypos="125.784" zpos="-113.481" type="leag.lws4.dragonfall.saving.wp" GUID="csYoVvjCm0uZges83gvywA==" copy="[&amp;BK4BAAA=]" copy-message="Castavall Waypoint, Bloodtide Coast"/>
+        <POI MapID="73" xpos="-110.717" ypos="-253.256" zpos="-616.242" type="leag.lws4.dragonfall.saving.wp" GUID="CoPu5XMoJEid13Bi/BatTQ==" copy="[&amp;BK4BAAA=]" copy-message="Castavall Waypoint, Bloodtide Coast"/>
         <Trail type="leag.lws4.dragonfall.saving" trailData="Data/LWS4/Collections/2. Saving Skyscales/Hidden Garden.trl"/>
         <POI MapID="39" xpos="-880.606" ypos="73.7872" zpos="350.108" type="leag.lws4.dragonfall.saving.hiddengarden.sign" GUID="F1zQH0e+SU2ly1ZKWsP+fQ=="/>
         <POI MapID="39" xpos="-18.5615" ypos="77.5864" zpos="-303.131" type="leag.lws4.dragonfall.saving.hiddengarden.sign" GUID="iv1jV5YtD0a+0Bwh2xxaxQ=="/>
@@ -1905,9 +1905,9 @@
         <POI MapID="39" xpos="1078.66" ypos="23.9285" zpos="691.28" type="leag.lws4.dragonfall.saving.mount.springer" GUID="b2l0BukHvUuY+kVpJefarw=="/>
         <POI MapID="39" xpos="1137.71" ypos="54.2067" zpos="658.17" type="leag.lws4.dragonfall.saving.mount.springer" GUID="9t8+XqHTVk2tK/BYzxn8wQ=="/>
         <POI MapID="39" xpos="1126.23" ypos="82.6871" zpos="675.602" type="leag.lws4.dragonfall.saving.mount.springer" GUID="Ej8OybGzmEWHsWy8Db6Iww=="/>
-        <POI MapID="39" xpos="1072.6" ypos="114.182" zpos="687.087" type="leag.lws4.dragonfall.saving.wp" GUID="LcM+nXr+BEWoR1pmIoS7vQ==" copy="[&BHoHAAA=]" copy-message="Prosperity Waypoint, Dry Top"/>
-        <POI MapID="988" xpos="212.273" ypos="11.7374" zpos="-276.173" type="leag.lws4.dragonfall.saving.wp" GUID="GR2VVcxqukyy0U6TlqY6LQ==" copy="[&BH8HAAA=]" copy-message="Camp Resolve Waypoint, The Silverwastes"/>
-        <POI MapID="1015" xpos="569.905" ypos="413.796" zpos="-231.066" type="leag.lws4.dragonfall.saving.wp" GUID="jeF9qQ3ta0OIE2PN4dQw8g==" copy="[&BJMLAAA=]" copy-message="Wait 2 Hours for Mail from Gorrik&#xa;Then Venta Pass Waypoint, Jahai Bluffs for Sun's Refuge"/>
+        <POI MapID="39" xpos="1072.6" ypos="114.182" zpos="687.087" type="leag.lws4.dragonfall.saving.wp" GUID="LcM+nXr+BEWoR1pmIoS7vQ==" copy="[&amp;BHoHAAA=]" copy-message="Prosperity Waypoint, Dry Top"/>
+        <POI MapID="988" xpos="212.273" ypos="11.7374" zpos="-276.173" type="leag.lws4.dragonfall.saving.wp" GUID="GR2VVcxqukyy0U6TlqY6LQ==" copy="[&amp;BH8HAAA=]" copy-message="Camp Resolve Waypoint, The Silverwastes"/>
+        <POI MapID="1015" xpos="569.905" ypos="413.796" zpos="-231.066" type="leag.lws4.dragonfall.saving.wp" GUID="jeF9qQ3ta0OIE2PN4dQw8g==" copy="[&amp;BJMLAAA=]" copy-message="Wait 2 Hours for Mail from Gorrik&#xa;Then Venta Pass Waypoint, Jahai Bluffs for Sun's Refuge"/>
         
 
         <!-- 3. Raising Skyscales -->
@@ -2044,17 +2044,17 @@
         <Trail type="leag.lws4.dragonfall.trouble.lost" trailData="Data/LWS4/Collections/4. Troublesome Skyscales/Lost 20.trl"/>
         <Trail type="leag.lws4.dragonfall.trouble.lost" trailData="Data/LWS4/Collections/4. Troublesome Skyscales/Lost 21.trl"/>
         <POI MapID="1294" xpos="-873.111" ypos="23.0211" zpos="-255.616" type="leag.lws4.dragonfall.trouble.lost.talk" GUID="OBZScvN+XEGzAkluMnW3Eg=="/>
-        <POI MapID="1294" xpos="-873.956" ypos="21.8945" zpos="-255.03" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="g71vkFWn6E2HWQRqUX00Iw==" copy="[&BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
+        <POI MapID="1294" xpos="-873.956" ypos="21.8945" zpos="-255.03" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="g71vkFWn6E2HWQRqUX00Iw==" copy="[&amp;BH4LAAA=]" copy-message="Yatendi Village Waypoint"/>
         <POI MapID="1301" xpos="99.7298" ypos="135.496" zpos="75.5976" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="L0OELjoBm0a20FAYCA3hXQ=="/>
         <POI MapID="1301" xpos="84.3722" ypos="176.299" zpos="108.328" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="DErqCtwz90y+RKPmtVC4bw=="/>
-        <POI MapID="1301" xpos="83.6988" ypos="190.954" zpos="140.921" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="ZOHXad9HAE2kdc+/KFDJrQ==" copy="[&BFcLAAA=]" copy-message="Allied Encampment Waypoint, Domain of Kourna"/>
+        <POI MapID="1301" xpos="83.6988" ypos="190.954" zpos="140.921" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="ZOHXad9HAE2kdc+/KFDJrQ==" copy="[&amp;BFcLAAA=]" copy-message="Allied Encampment Waypoint, Domain of Kourna"/>
         <POI MapID="1288" xpos="-935.982" ypos="49.948" zpos="462.568" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="dqdR6b1MJkauSCaP5j1IlA=="/>
         <POI MapID="1288" xpos="-1001.14" ypos="82.8102" zpos="491.437" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="893KcSM5AEuAmamS/FtMNw=="/>
-        <POI MapID="1288" xpos="-1048.82" ypos="158.119" zpos="556.543" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="pJb4dMFq3UKC5DXba5//9g==" copy="[&BCULAAA=]" copy-message="Anniogel Encampment Waypoint, Sandswept Isles"/>
+        <POI MapID="1288" xpos="-1048.82" ypos="158.119" zpos="556.543" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="pJb4dMFq3UKC5DXba5//9g==" copy="[&amp;BCULAAA=]" copy-message="Anniogel Encampment Waypoint, Sandswept Isles"/>
         <POI MapID="1271" xpos="464.062" ypos="124.55" zpos="-154.989" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="FZx+4L8xVESe6oCUHrOfCA=="/>
         <POI MapID="1271" xpos="447.963" ypos="103.779" zpos="-51.4072" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="jbB9eIZIS06ZhL7OTW5TMw=="/>
         <POI MapID="1271" xpos="428.634" ypos="108.723" zpos="-11.0316" type="leag.lws4.dragonfall.trouble.lost.mount.raptor" GUID="SciXUFEt6UWSOr89C5N4Ew=="/>
-        <POI MapID="1271" xpos="491.107" ypos="148.096" zpos="-242.516" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="i5o2t1/Td0aZu9RmvNX9RA==" copy="[&BHQKAAA=]" copy-message="Market Ruins Waypoint, Domain of Vabbi"/>
+        <POI MapID="1271" xpos="491.107" ypos="148.096" zpos="-242.516" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="i5o2t1/Td0aZu9RmvNX9RA==" copy="[&amp;BHQKAAA=]" copy-message="Market Ruins Waypoint, Domain of Vabbi"/>
         <POI MapID="1248" xpos="816.342" ypos="142.324" zpos="59.6107" type="leag.lws4.dragonfall.trouble.lost.mount.skimmer" GUID="ZlLEiUrDyUORm3vdYQHcNg=="/>
         <POI MapID="1248" xpos="1108.37" ypos="53.7918" zpos="889.257" type="leag.lws4.dragonfall.trouble.lost.mount.raptor" GUID="tZmMFflKH0Wg9A7mfwh+iw=="/>
         <POI MapID="1248" xpos="1073.07" ypos="61.8215" zpos="854.174" type="leag.lws4.dragonfall.trouble.lost.mount.jackal" GUID="5M3EapMOS0OZz0ynkehfIA=="/>
@@ -2066,16 +2066,16 @@
         <POI MapID="1248" xpos="1327" ypos="132.573" zpos="792.9" type="leag.lws4.dragonfall.trouble.lost.mount.raptor" GUID="1gGU0S3aakyqyloxx6kgZw=="/>
         <POI MapID="1248" xpos="1238.87" ypos="173.691" zpos="846.479" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="Zft1wzy5jUusrh+90G6k8w=="/>
         <POI MapID="1248" xpos="1246.3" ypos="193.902" zpos="826.637" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="WNeuULyq5UmUT7gM69jkGw=="/>
-        <POI MapID="1248" xpos="1298.51" ypos="206.434" zpos="830.996" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="OUk8sgFz8UKoEXby7zwBwA==" copy="[&BGcKAAA=]" copy-message="Skimmer Ranch Waypoint, Elon Riverlands"/>
+        <POI MapID="1248" xpos="1298.51" ypos="206.434" zpos="830.996" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="OUk8sgFz8UKoEXby7zwBwA==" copy="[&amp;BGcKAAA=]" copy-message="Skimmer Ranch Waypoint, Elon Riverlands"/>
         <POI MapID="1228" xpos="-637.202" ypos="5.78883" zpos="-129.178" type="leag.lws4.dragonfall.trouble.lost.mount.raptor" GUID="joF8WOgwTEq5ZNlBcn3oDA=="/>
         <POI MapID="1228" xpos="-689.203" ypos="23.7745" zpos="-199.673" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="ryr1TfrbTkqtypOYQB+2CQ=="/>
         <POI MapID="1228" xpos="-726.283" ypos="92.0812" zpos="-252.866" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="5qF+msBWFU2w+VAGHEnvJA=="/>
-        <POI MapID="1228" xpos="-720.887" ypos="107.239" zpos="-248.112" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="mp0bvQwBkkyvwQ9AnbWKcg==" copy="[&BFMKAAA=]" copy-message="Augury's Shadow Waypoint"/>
+        <POI MapID="1228" xpos="-720.887" ypos="107.239" zpos="-248.112" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="mp0bvQwBkkyvwQ9AnbWKcg==" copy="[&amp;BFMKAAA=]" copy-message="Augury's Shadow Waypoint"/>
         <POI MapID="1228" xpos="659.147" ypos="86.5106" zpos="599.139" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="dsp0oG4e9ky5jL/5UrvtoQ==" info="META: The Path to Ascension" infoRange="5"/>
-        <POI MapID="1228" xpos="462.546" ypos="248.949" zpos="697.906" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="R2LpQyRE70uVFzk3Xrc58A==" copy="[&BEAKAAA=]" copy-message="Temple of Kormir Waypoint, Crystal Oasis"/>
+        <POI MapID="1228" xpos="462.546" ypos="248.949" zpos="697.906" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="R2LpQyRE70uVFzk3Xrc58A==" copy="[&amp;BEAKAAA=]" copy-message="Temple of Kormir Waypoint, Crystal Oasis"/>
         <POI MapID="1210" xpos="1033.81" ypos="157.728" zpos="327.17" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="MtifIVOtVUKuyw21ZYevAA=="/>
         <POI MapID="1210" xpos="1241.44" ypos="274.467" zpos="433.904" type="leag.lws4.dragonfall.trouble.lost.mount.jackal" GUID="Gae6u5yY3EOeUSGSADUfQQ=="/>
-        <POI MapID="1210" xpos="1211.43" ypos="385.916" zpos="480.262" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="sYM8YdmzK0iXv0PsP/CynQ==" copy="[&BJMKAAA=]" copy-message="For those without Griffon, Destiny's Gorge Waypoint"/>
+        <POI MapID="1210" xpos="1211.43" ypos="385.916" zpos="480.262" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="sYM8YdmzK0iXv0PsP/CynQ==" copy="[&amp;BJMKAAA=]" copy-message="For those without Griffon, Destiny's Gorge Waypoint"/>
         <POI MapID="1210" xpos="1211.84" ypos="385.82" zpos="480.074" type="leag.lws4.dragonfall.trouble.lost.mount.griffon" GUID="DjsVdvxLDEq+3wT/dJiYzw=="/>
         <POI MapID="1210" xpos="1348.89" ypos="186.556" zpos="-542.315" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="fy1zUwP4OkKA9c+Az3c8yA=="/>
         <POI MapID="1210" xpos="1096.5" ypos="16.2531" zpos="-288.762" type="leag.lws4.dragonfall.trouble.lost.glider" GUID="YJ1uQe+nakWa6zjRNg6VBQ=="/>
@@ -2093,45 +2093,45 @@
         <POI MapID="1210" xpos="719.087" ypos="57.0124" zpos="-593.979" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="PQL4vrpsSkOWyLBRciRzBA=="/>
         <POI MapID="1210" xpos="747.424" ypos="93.3039" zpos="-572.354" type="leag.lws4.dragonfall.trouble.lost.mount.jackal" GUID="VOZMqv1e90a/vf+awW4KNQ=="/>
         <POI MapID="1210" xpos="726.166" ypos="192.256" zpos="-533.937" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="eK+Meow5kUiIXjpX3E++mw=="/>
-        <POI MapID="1210" xpos="722.386" ypos="235.366" zpos="-519.907" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="yorEMn74Ek+pyR7go25sWw==" copy="[&BJEKAAA=]" copy-message="Brightwater Waypoint, Desert Highlands"/>
+        <POI MapID="1210" xpos="722.386" ypos="235.366" zpos="-519.907" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="yorEMn74Ek+pyR7go25sWw==" copy="[&amp;BJEKAAA=]" copy-message="Brightwater Waypoint, Desert Highlands"/>
         <POI MapID="62" xpos="413.718" ypos="19.0875" zpos="-1087.49" type="leag.lws4.dragonfall.trouble.lost.mount.skimmer" GUID="Cr7cyzDTbkSftqqnF93nwA=="/>
         <POI MapID="62" xpos="-60.653" ypos="10.7359" zpos="-790.994" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="E4NPvjP22Ey4rVf40drQvw=="/>
         <POI MapID="62" xpos="-66.1345" ypos="112.637" zpos="-853.758" type="leag.lws4.dragonfall.trouble.lost.glider" GUID="EMoWOr47bUyWTjSw+51ZsA=="/>
         <POI MapID="1211" xpos="-338.504" ypos="14.9405" zpos="-428.771" type="leag.lws4.dragonfall.trouble.lost.mount.jackal" GUID="eSY26/RFD0GOun+SU182Qg=="/>
         <POI MapID="1211" xpos="-237.617" ypos="237.639" zpos="-95.8286" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="ymErB4ZadUWro/WufMQoZA=="/>
         <POI MapID="1211" xpos="-104.291" ypos="312.67" zpos="21.3363" type="leag.lws4.dragonfall.trouble.lost.mount.jackal" GUID="wGZwcGQo/U+H8eaANJdEqQ=="/>
-        <POI MapID="1211" xpos="-18.6309" ypos="463.412" zpos="-210.396" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="qo8IuR9HjECQxkqyPHs9mg==" copy="[&BJ0KAAA=]" copy-message="Highjump Ranch Waypoint"/>
+        <POI MapID="1211" xpos="-18.6309" ypos="463.412" zpos="-210.396" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="qo8IuR9HjECQxkqyPHs9mg==" copy="[&amp;BJ0KAAA=]" copy-message="Highjump Ranch Waypoint"/>
         <POI MapID="1211" xpos="-254.899" ypos="248.599" zpos="396.433" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="/ce4w2CFD0Sklz2ntQkpIg=="/>
-        <POI MapID="1211" xpos="-287.693" ypos="328.451" zpos="389.321" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="xHDXY58TxUS592U6dwhGcQ==" copy="[&BB8DAAA=]" copy-message="Buried Archives JP&#xa;Shipwreck Rock Waypoint, Cursed Shore"/>
-        <POI MapID="62" xpos="-71.7752" ypos="88.8842" zpos="-902.671" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="g7r+jJJcJk2KKzmHq+/MNA==" copy="[&BNQCAAA=]" copy-message="WORLD BOSS: Inquest Golem Mark II&#xa;Old Sledge Site Waypoint, Mount Maelstrom"/>
+        <POI MapID="1211" xpos="-287.693" ypos="328.451" zpos="389.321" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="xHDXY58TxUS592U6dwhGcQ==" copy="[&amp;BB8DAAA=]" copy-message="Buried Archives JP&#xa;Shipwreck Rock Waypoint, Cursed Shore"/>
+        <POI MapID="62" xpos="-71.7752" ypos="88.8842" zpos="-902.671" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="g7r+jJJcJk2KKzmHq+/MNA==" copy="[&amp;BNQCAAA=]" copy-message="WORLD BOSS: Inquest Golem Mark II&#xa;Old Sledge Site Waypoint, Mount Maelstrom"/>
         <POI MapID="39" xpos="898.4389" ypos="9.600152" zpos="75.18643" type="leag.lws4.dragonfall.trouble.lost" GUID="Rs/7ypu0+kuRMyRpNWzJ+A==" iconFile="Data/Images/Inquest Golem Mark II.png" minSize="48" maxSize="48"/>
-        <POI MapID="39" xpos="913.057" ypos="5.81768" zpos="110.799" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="X2zdNEjNvkC6vIC03ts8zQ==" copy="[&BEYCAAA=]" copy-message="Okarinoo Waypoint, Timberline Falls"/>
+        <POI MapID="39" xpos="913.057" ypos="5.81768" zpos="110.799" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="X2zdNEjNvkC6vIC03ts8zQ==" copy="[&amp;BEYCAAA=]" copy-message="Okarinoo Waypoint, Timberline Falls"/>
         <POI MapID="29" xpos="277.405" ypos="12.6579" zpos="-873.261" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="BmlW9IVv9k+Llz8vK8ae7Q=="/>
         <POI MapID="29" xpos="277.473" ypos="31.8549" zpos="-873" type="leag.lws4.dragonfall.trouble.lost.mount.bof" GUID="UEgDur7MOkSmhqw1G6z0Yw=="/>
         <POI MapID="29" xpos="257.888" ypos="37.8573" zpos="-888.033" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="WbVFilmoS0mYZB91Qk2fIg=="/>
-        <POI MapID="29" xpos="301.995" ypos="28.3409" zpos="-909.329" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="9UE/WNOygUOaM7xVheJQaQ==" copy="[&BP4FAAA=]" copy-message="Sleive's Waypoint, Caledon Forest"/>
+        <POI MapID="29" xpos="301.995" ypos="28.3409" zpos="-909.329" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="9UE/WNOygUOaM7xVheJQaQ==" copy="[&amp;BP4FAAA=]" copy-message="Sleive's Waypoint, Caledon Forest"/>
         <POI MapID="34" xpos="477.574" ypos="-0.0870867" zpos="-1067.75" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="grAvar0QC0CMy5TUHK84FQ=="/>
-        <POI MapID="34" xpos="459.071" ypos="22.1426" zpos="-1105.43" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="ATbudXzu1ECoEO7jqK0GMw==" copy="[&BEgAAAA=]" copy-message="Desider Atum Waypoint, Metrica Province"/>
+        <POI MapID="34" xpos="459.071" ypos="22.1426" zpos="-1105.43" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="ATbudXzu1ECoEO7jqK0GMw==" copy="[&amp;BEgAAAA=]" copy-message="Desider Atum Waypoint, Metrica Province"/>
         <POI MapID="35" xpos="355.047" ypos="18.157" zpos="-55.783" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="g/dfpvwh7kqNLs6JVe7ofA=="/>
         <POI MapID="35" xpos="399.666" ypos="73.4451" zpos="-38.018" type="leag.lws4.dragonfall.trouble.lost.glider" GUID="hPxCjF/KUkOZNNSKiV7ZXw==" fadeNear="1200" fadeFar="1400"/>
-        <POI MapID="35" xpos="557.996" ypos="557.57" zpos="757.565" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="hxjB3mAbR0isDLX2suCAOQ==" copy="[&BPcAAAA=]" copy-message="WORLD BOSS: Shadow Behemoth&#xa;Swamplost Haven Waypoint, Queensdale"/>
+        <POI MapID="35" xpos="557.996" ypos="557.57" zpos="757.565" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="hxjB3mAbR0isDLX2suCAOQ==" copy="[&amp;BPcAAAA=]" copy-message="WORLD BOSS: Shadow Behemoth&#xa;Swamplost Haven Waypoint, Queensdale"/>
         <POI MapID="15" xpos="259.0255" ypos="-0.747529" zpos="-428.8571" type="leag.lws4.dragonfall.trouble.lost" GUID="udyL8MvLdkqhFpx3yz3wdA==" iconFile="Data/Images/Shadow Behemoth.png" minSize="48" maxSize="48"/>
-        <POI MapID="15" xpos="218.234" ypos="-0.746129" zpos="-482.272" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="qv3tb74SRECT05/8ekBMhg==" copy="[&BLIAAAA=]" copy-message="Arca Waypoint, Harathi Hinterlands"/>
+        <POI MapID="15" xpos="218.234" ypos="-0.746129" zpos="-482.272" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="qv3tb74SRECT05/8ekBMhg==" copy="[&amp;BLIAAAA=]" copy-message="Arca Waypoint, Harathi Hinterlands"/>
         <POI MapID="17" xpos="-691.523" ypos="38.287" zpos="645.273" type="leag.lws4.dragonfall.trouble.lost.glider" GUID="EQWjiIpiRU6MLaDIyrIsrQ=="/>
         <POI MapID="17" xpos="-700.581" ypos="14.6249" zpos="633.549" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="uMxDxyioCkOwa9L2LLFdbA=="/>
-        <POI MapID="17" xpos="-676.534" ypos="33.3533" zpos="662.484" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="1lUWEobm40mym4LhpFvPkg==" copy="[&BOgAAAA=]" copy-message="False Lake Waypoint, Lornar's Pass"/>
+        <POI MapID="17" xpos="-676.534" ypos="33.3533" zpos="662.484" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="1lUWEobm40mym4LhpFvPkg==" copy="[&amp;BOgAAAA=]" copy-message="False Lake Waypoint, Lornar's Pass"/>
         <POI MapID="27" xpos="-306.337" ypos="56.394" zpos="-715.334" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="6dSdy2B8Yk65nNJl3WFtXg=="/>
         <POI MapID="27" xpos="-316.114" ypos="81.1459" zpos="-716.193" type="leag.lws4.dragonfall.trouble.lost.mount.bof" GUID="ld/slEohvECZRutXYq6zuw=="/>
         <POI MapID="27" xpos="-304.374" ypos="35.5588" zpos="-698.763" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="i7Ed7dCei0Ka+CimGUwbUw=="/>
         <POI MapID="27" xpos="-355.035" ypos="95.3318" zpos="-734.947" type="leag.lws4.dragonfall.trouble.lost.glider" GUID="H7qyu3cB7UOUxwJbjJLApA=="/>
-        <POI MapID="27" xpos="-420.672" ypos="85.4278" zpos="-754.699" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="YzCOUdiHGEGZNTPqDT9aKw==" copy="[&BH4CAAA=]" copy-message="Ice Floe Waypoint, Frostgorge Sound"/>
+        <POI MapID="27" xpos="-420.672" ypos="85.4278" zpos="-754.699" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="YzCOUdiHGEGZNTPqDT9aKw==" copy="[&amp;BH4CAAA=]" copy-message="Ice Floe Waypoint, Frostgorge Sound"/>
         <POI MapID="30" xpos="-290.369" ypos="2.56398" zpos="382.299" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="kfqPCiCfwUyfDsDL0nsyDA=="/>
-        <POI MapID="30" xpos="-165.402" ypos="31.7573" zpos="348.445" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="twVxcWTI7UCbkqMU1zA+Qg==" copy="[&BBoCAAA=]" copy-message="Breaktooth's Waypoint, Fireheart Rise"/>
+        <POI MapID="30" xpos="-165.402" ypos="31.7573" zpos="348.445" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="twVxcWTI7UCbkqMU1zA+Qg==" copy="[&amp;BBoCAAA=]" copy-message="Breaktooth's Waypoint, Fireheart Rise"/>
         <POI MapID="22" xpos="833.116" ypos="26.4424" zpos="45.9629" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="FOuApaRfzUOU3eN4dzVAOA=="/>
         <POI MapID="22" xpos="868.855" ypos="40.2276" zpos="33.5578" type="leag.lws4.dragonfall.trouble.lost.mount.raptor" GUID="Ov/hSZCBAkaSEOkseKLKgw=="/>
         <POI MapID="22" xpos="897.566" ypos="42.4529" zpos="-5.1814" type="leag.lws4.dragonfall.trouble.lost.mount.raptor" GUID="nAZCWhAPQECAIin/0GkL5g=="/>
         <POI MapID="22" xpos="910.546" ypos="43.4975" zpos="-17.7123" type="leag.lws4.dragonfall.trouble.lost.mount.springer" GUID="qClSC1X+A0Kzwb8/hcQfRw=="/>
-        <POI MapID="22" xpos="948.031" ypos="62.9669" zpos="-26.7464" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="/XUwfoZPVkisaWfepIXang==" copy="[&BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
+        <POI MapID="22" xpos="948.031" ypos="62.9669" zpos="-26.7464" type="leag.lws4.dragonfall.trouble.lost.wp" GUID="/XUwfoZPVkisaWfepIXang==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint"/>
 
 
         <!-- Reflexes -->
@@ -2205,8 +2205,8 @@
         <POI MapID="1301" xpos="752.058" ypos="71.3756" zpos="-360.492" type="leag.lws4.dragonfall.riding.talk" GUID="ueyX2Neeu0eXriKYNKGUYg=="/>
         <Trail type="leag.lws4.dragonfall.riding.silk.jahai" trailData="Data/LWS4/Collections/5. Riding Skyscales/Jahai 1.trl"/>
         <Trail type="leag.lws4.dragonfall.riding.silk.jahai" trailData="Data/LWS4/Collections/5. Riding Skyscales/Jahai 2.trl"/>
-        <POI MapID="1301" xpos="751.091" ypos="69.3771" zpos="-359.715" type="leag.lws4.dragonfall.riding.wp" GUID="qqyCIucnuk6Y92kCSMJKCg==" copy="Gathering [&BJkLAAA=] - Next Map: [&BFcLAAA=]" copy-message="For Gathering: Reclaimed Chantry&#xa;&#xa;Next Map: Allied Encampment Waypoint, Domain of Kourna"/>
-        <POI MapID="1301" xpos="-228.338" ypos="82.4744" zpos="-644.622" type="leag.lws4.dragonfall.riding.wp" GUID="YYh9Z14MGEejMKzKLvKDgg==" copy="[&BIMLAAA=]" copy-message="Soul's Vendetta Waypoint"/>
+        <POI MapID="1301" xpos="751.091" ypos="69.3771" zpos="-359.715" type="leag.lws4.dragonfall.riding.wp" GUID="qqyCIucnuk6Y92kCSMJKCg==" copy="Gathering [&amp;BJkLAAA=] - Next Map: [&amp;BFcLAAA=]" copy-message="For Gathering: Reclaimed Chantry&#xa;&#xa;Next Map: Allied Encampment Waypoint, Domain of Kourna"/>
+        <POI MapID="1301" xpos="-228.338" ypos="82.4744" zpos="-644.622" type="leag.lws4.dragonfall.riding.wp" GUID="YYh9Z14MGEejMKzKLvKDgg==" copy="[&amp;BIMLAAA=]" copy-message="Soul's Vendetta Waypoint"/>
         <POI MapID="1301" xpos="689.122" ypos="132.529" zpos="890.248" type="leag.lws4.dragonfall.riding.mount.springer" GUID="O3A492NwuEG8pifEQ3bWHA=="/>
         <POI MapID="1301" xpos="697.079" ypos="168.08" zpos="874.147" type="leag.lws4.dragonfall.riding.glider" GUID="bL4IwMxP00SCRv/UvW754g=="/>
         <POI MapID="1301" xpos="785.947" ypos="126.977" zpos="802.478" type="leag.lws4.dragonfall.riding.mount.springer" GUID="2P2SfDrjyE6QymX/1rRJEg=="/>
@@ -2327,13 +2327,13 @@
         <Trail type="leag.lws4.dragonfall.riding.tar" trailData="Data/LWS4/Collections/5. Riding Skyscales/Kourna 6.trl"/>
         <Trail type="leag.lws4.dragonfall.riding.tar" trailData="Data/LWS4/Collections/5. Riding Skyscales/Kourna 6 Beetle.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="leag.lws4.dragonfall.riding.tar" trailData="Data/LWS4/Collections/5. Riding Skyscales/Kourna 7.trl"/>
-        <POI MapID="1288" xpos="-470.026" ypos="23.6031" zpos="254.897" type="leag.lws4.dragonfall.riding.wp" GUID="hAffb7ZnfE2kPar1fDuqSw==" copy="[&BAkLAAA=]" copy-message="For Gathering: Follow Main Trail&#xa;&#xa;Next Map: Chalon Docks Waypoint, Domain of Istan"/>
-        <POI MapID="1288" xpos="-473.501" ypos="1.36082" zpos="780.118" type="leag.lws4.dragonfall.riding.wp" GUID="8VIXexVqREWBPX+zCe69pg==" copy="[&BFcLAAA=]" copy-message="Allied Encampment Waypoint"/>
-        <POI MapID="1288" xpos="-476.563" ypos="-0.0680437" zpos="-193.122" type="leag.lws4.dragonfall.riding.wp" GUID="IeUjmCieLEC+FttoSHHa+A==" copy="[&BFcLAAA=]" copy-message="Allied Encampment Waypoint"/>
-        <POI MapID="1288" xpos="-100.07" ypos="2.64708" zpos="-607.426" type="leag.lws4.dragonfall.riding.wp" GUID="zMEimXdG+0WQ93TaE3CXeg==" copy="[&BFcLAAA=]" copy-message="Allied Encampment Waypoint"/>
-        <POI MapID="1288" xpos="-154.354" ypos="13.8382" zpos="172.633" type="leag.lws4.dragonfall.riding.wp" GUID="BT8Pf89NQE6wKOGIP48bAQ==" copy="[&BFALAAA=]" copy-message="Apizmic Grounds Waypoint"/>
-        <POI MapID="1288" xpos="-948.243" ypos="-208.641" zpos="947.894" type="leag.lws4.dragonfall.riding.wp" GUID="T4n+o/bXo0KS7LCSo9HwMQ==" copy="[&BFALAAA=]" copy-message="Apizmic Grounds Waypoint"/>
-        <POI MapID="1288" xpos="225.927" ypos="-0.495405" zpos="419.325" type="leag.lws4.dragonfall.riding.wp" GUID="mb8wO4mFLUWFPw5qFKwVvg==" copy="[&BFALAAA=]" copy-message="Apizmic Grounds Waypoint"/>
+        <POI MapID="1288" xpos="-470.026" ypos="23.6031" zpos="254.897" type="leag.lws4.dragonfall.riding.wp" GUID="hAffb7ZnfE2kPar1fDuqSw==" copy="[&amp;BAkLAAA=]" copy-message="For Gathering: Follow Main Trail&#xa;&#xa;Next Map: Chalon Docks Waypoint, Domain of Istan"/>
+        <POI MapID="1288" xpos="-473.501" ypos="1.36082" zpos="780.118" type="leag.lws4.dragonfall.riding.wp" GUID="8VIXexVqREWBPX+zCe69pg==" copy="[&amp;BFcLAAA=]" copy-message="Allied Encampment Waypoint"/>
+        <POI MapID="1288" xpos="-476.563" ypos="-0.0680437" zpos="-193.122" type="leag.lws4.dragonfall.riding.wp" GUID="IeUjmCieLEC+FttoSHHa+A==" copy="[&amp;BFcLAAA=]" copy-message="Allied Encampment Waypoint"/>
+        <POI MapID="1288" xpos="-100.07" ypos="2.64708" zpos="-607.426" type="leag.lws4.dragonfall.riding.wp" GUID="zMEimXdG+0WQ93TaE3CXeg==" copy="[&amp;BFcLAAA=]" copy-message="Allied Encampment Waypoint"/>
+        <POI MapID="1288" xpos="-154.354" ypos="13.8382" zpos="172.633" type="leag.lws4.dragonfall.riding.wp" GUID="BT8Pf89NQE6wKOGIP48bAQ==" copy="[&amp;BFALAAA=]" copy-message="Apizmic Grounds Waypoint"/>
+        <POI MapID="1288" xpos="-948.243" ypos="-208.641" zpos="947.894" type="leag.lws4.dragonfall.riding.wp" GUID="T4n+o/bXo0KS7LCSo9HwMQ==" copy="[&amp;BFALAAA=]" copy-message="Apizmic Grounds Waypoint"/>
+        <POI MapID="1288" xpos="225.927" ypos="-0.495405" zpos="419.325" type="leag.lws4.dragonfall.riding.wp" GUID="mb8wO4mFLUWFPw5qFKwVvg==" copy="[&amp;BFALAAA=]" copy-message="Apizmic Grounds Waypoint"/>
         <POI MapID="1288" xpos="-555.518" ypos="18.9593" zpos="255.781" type="leag.lws4.dragonfall.riding.number.2" GUID="aVMw2cqlYEuyaupEZofktQ=="/>
         <POI MapID="1288" xpos="-556.93" ypos="18.9202" zpos="258.675" type="leag.lws4.dragonfall.riding.number.3" GUID="45k2GhA/KEGZDO7eMQQUyw=="/>
         <POI MapID="1288" xpos="-555.759" ypos="18.8084" zpos="262.873" type="leag.lws4.dragonfall.riding.number.4" GUID="R4j239GJjUaqw0mW0KIAAw=="/>
@@ -2417,7 +2417,7 @@
         <POI MapID="1263" xpos="-594.627" ypos="56.5507" zpos="-124.247" type="leag.lws4.dragonfall.riding.number.2" GUID="vV2udR2sv0Kb0ZZnNSMo3w=="/>
         <POI MapID="1263" xpos="-590.911" ypos="56.3816" zpos="-127.394" type="leag.lws4.dragonfall.riding.number.3" GUID="kUzJVtzVAkS1ypcDT6Gf0w=="/>
         <POI MapID="1263" xpos="-595.215" ypos="56.2327" zpos="-127.506" type="leag.lws4.dragonfall.riding.number.4" GUID="yXo+D8Y3ZUm4LQq6amZb0Q=="/>
-        <POI MapID="1263" xpos="374.314" ypos="1.26225" zpos="431.863" type="leag.lws4.dragonfall.riding.wp" GUID="rZox+y391UGNzVCmZ/GLVg==" copy="[&BEMLAAA=]" copy-message="For Gathering: Follow Main Trail&#xa;&#xa;Next Map: Atholma Waypoint, Sandswept Isles"/>
+        <POI MapID="1263" xpos="374.314" ypos="1.26225" zpos="431.863" type="leag.lws4.dragonfall.riding.wp" GUID="rZox+y391UGNzVCmZ/GLVg==" copy="[&amp;BEMLAAA=]" copy-message="For Gathering: Follow Main Trail&#xa;&#xa;Next Map: Atholma Waypoint, Sandswept Isles"/>
         <POI MapID="1263" xpos="-137.396" ypos="115.045" zpos="35.6455" type="leag.lws4.dragonfall.riding.mount.springer" GUID="/M4I+eHJUk2A+3snI02Q0g=="/>
         <POI MapID="1263" xpos="-171.705" ypos="171.293" zpos="28.8646" type="leag.lws4.dragonfall.riding.mount.springer" GUID="o0ajQB5CjUOdaAIlWH/uRQ=="/>
         <POI MapID="1263" xpos="-229.982" ypos="204.676" zpos="57.6434" type="leag.lws4.dragonfall.riding.mount.springer" GUID="SDYB8YSEk0aMwA+aRgXnaA=="/>
@@ -2471,9 +2471,9 @@
         <POI MapID="1263" xpos="-67.9297" ypos="211.997" zpos="56.6822" type="leag.lws4.dragonfall.riding.mount.jackal" GUID="7FOtV8MoIUOVB26nA8RwcA=="/>
         <POI MapID="1263" xpos="-146.694" ypos="221.74" zpos="-37.8623" type="leag.lws4.dragonfall.riding.mount.springer" GUID="UdGHmrUY1Eqfd7X029l9Pg=="/>
         <POI MapID="1263" xpos="-121.259" ypos="262.877" zpos="-37.4095" type="leag.lws4.dragonfall.riding.glider" GUID="SzzeXlU/jk+kvn8/yyVYww=="/>
-        <POI MapID="1263" xpos="68.9482" ypos="2.51201" zpos="-372.798" type="leag.lws4.dragonfall.riding.wp" GUID="8wxwVtxDLkK3OXxhjKyx5Q==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
-        <POI MapID="1263" xpos="132.718" ypos="90.3083" zpos="680.117" type="leag.lws4.dragonfall.riding.wp" GUID="aTMLQcGw9UOdVE/CTn1+jw==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
-        <POI MapID="1263" xpos="-324.363" ypos="25.1116" zpos="-54.0244" type="leag.lws4.dragonfall.riding.wp" GUID="zRDfLyLnqEWtoJslQ9nnag==" copy="[&BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
+        <POI MapID="1263" xpos="68.9482" ypos="2.51201" zpos="-372.798" type="leag.lws4.dragonfall.riding.wp" GUID="8wxwVtxDLkK3OXxhjKyx5Q==" copy="[&amp;BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
+        <POI MapID="1263" xpos="132.718" ypos="90.3083" zpos="680.117" type="leag.lws4.dragonfall.riding.wp" GUID="aTMLQcGw9UOdVE/CTn1+jw==" copy="[&amp;BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
+        <POI MapID="1263" xpos="-324.363" ypos="25.1116" zpos="-54.0244" type="leag.lws4.dragonfall.riding.wp" GUID="zRDfLyLnqEWtoJslQ9nnag==" copy="[&amp;BBoLAAA=]" copy-message="Champion's Dawn Waypoint"/>
         <POI MapID="1263" xpos="183.681" ypos="211.941" zpos="467.296" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="amnNu7rd5Uu4FquuBE5CLA=="/>
         <POI MapID="1263" xpos="172.722" ypos="46.261" zpos="259.088" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="MohQZdliBUaqeyO5xmTnrA=="/>
         <POI MapID="1263" xpos="179.333" ypos="112.098" zpos="566.213" type="leag.lws4.dragonfall.riding.sailcloth.cache" GUID="UOJa9k7p70Oy6Mpy5NyitA=="/>
@@ -2516,7 +2516,7 @@
         <POI MapID="1271" xpos="-121.686" ypos="7.16773" zpos="713.41" type="leag.lws4.dragonfall.riding.talk" GUID="mTK96u2IXUaKpcDTika8Qg=="/>
         <Trail type="leag.lws4.dragonfall.riding.leather.sandswept" trailData="Data/LWS4/Collections/5. Riding Skyscales/Sandswept 1 N.trl"/>
         <Trail type="leag.lws4.dragonfall.riding.leather.sandswept" trailData="Data/LWS4/Collections/5. Riding Skyscales/Sandswept 2 S.trl"/>
-        <POI MapID="1271" xpos="-121.808" ypos="3.3451" zpos="711.505" type="leag.lws4.dragonfall.riding.wp" GUID="Fjq6QvOQAEOmptSqfHRb4w==" copy="[&BLkLAAA=]" copy-message="For Gathering: Follow Main Trail&#xa;&#xa;Next Map: Observation Deck Waypoint, Thunderhead Peaks"/>
+        <POI MapID="1271" xpos="-121.808" ypos="3.3451" zpos="711.505" type="leag.lws4.dragonfall.riding.wp" GUID="Fjq6QvOQAEOmptSqfHRb4w==" copy="[&amp;BLkLAAA=]" copy-message="For Gathering: Follow Main Trail&#xa;&#xa;Next Map: Observation Deck Waypoint, Thunderhead Peaks"/>
         <POI MapID="1271" xpos="-98.77" ypos="5.75433" zpos="687.104" type="leag.lws4.dragonfall.riding.mount.springer" GUID="xQ/LKp2vaEifctiFGisCMg=="/>
         <POI MapID="1271" xpos="277.373" ypos="24.1653" zpos="711.253" type="leag.lws4.dragonfall.riding.mount.springer" GUID="fK3CoKgH6UygpyfjpLkyMg=="/>
         <POI MapID="1271" xpos="239.048" ypos="23.2903" zpos="644.008" type="leag.lws4.dragonfall.riding.mount.springer" GUID="Uuz1jEJXxUKkzup0EIKwoQ=="/>
@@ -2542,7 +2542,7 @@
         <POI MapID="1271" xpos="510.328" ypos="64.1991" zpos="969.581" type="leag.lws4.dragonfall.riding.mount.springer" GUID="I7mY7rcY60iS7nenvU3AYQ=="/>
         <POI MapID="1271" xpos="547.539" ypos="78.9342" zpos="888.296" type="leag.lws4.dragonfall.riding.glider" GUID="nJ6+ghJS+kCawdKo+ur5Dw=="/>
         <POI MapID="1271" xpos="176.562" ypos="85.8797" zpos="1100.4" type="leag.lws4.dragonfall.riding.wp" GUID="3zOUvE9LTE2WFDjRWF+tEQ==" iconFile="Data/Images/Itzel Poison Warning.png" fadeNear="1200" fadeFar="2400"/>
-        <POI MapID="1271" xpos="419.342" ypos="2.614" zpos="829.192" type="leag.lws4.dragonfall.riding.wp" GUID="Yk4/V0U3NkK+Y8eHF8++qA==" copy="[&BEILAAA=]" copy-message="Anniogel Encampment Waypoint"/>
+        <POI MapID="1271" xpos="419.342" ypos="2.614" zpos="829.192" type="leag.lws4.dragonfall.riding.wp" GUID="Yk4/V0U3NkK+Y8eHF8++qA==" copy="[&amp;BEILAAA=]" copy-message="Anniogel Encampment Waypoint"/>
         <POI MapID="1271" xpos="546.964" ypos="0.537744" zpos="147.467" type="leag.lws4.dragonfall.riding.number.2" GUID="cgQOgJPj+E6yMlQfwVFwpA=="/>
         <POI MapID="1271" xpos="654.205" ypos="40.4835" zpos="-544.565" type="leag.lws4.dragonfall.riding.mount.springer" GUID="odwxMSsY60WZtiKEk00aVg=="/>
         <POI MapID="1271" xpos="552.442" ypos="66.945" zpos="-548.301" type="leag.lws4.dragonfall.riding.glider" GUID="GF/T3A/hTUCyVnldfJHySA=="/>
@@ -2592,7 +2592,7 @@
         <Trail type="leag.lws4.dragonfall.riding.rivets.thunderhead" trailData="Data/LWS4/Collections/5. Riding Skyscales/Thunderhead 1 Alt.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <Trail type="leag.lws4.dragonfall.riding.rivets.thunderhead" trailData="Data/LWS4/Collections/5. Riding Skyscales/Thunderhead 2.trl"/>
         <Trail type="leag.lws4.dragonfall.riding.rivets.thunderhead" trailData="Data/LWS4/Collections/5. Riding Skyscales/Thunderhead 3.trl"/>
-        <POI MapID="1310" xpos="-534.363" ypos="139.029" zpos="1004.09" type="leag.lws4.dragonfall.riding.wp" GUID="+ftsMmQdTESlbflr8gX8vg==" copy="[&BN4LAAA=]" copy-message="For Gathering: Follow Main Trail&#xa;&#xa;Next Map: Pact Command Waypoint, Dragonfall"/>
+        <POI MapID="1310" xpos="-534.363" ypos="139.029" zpos="1004.09" type="leag.lws4.dragonfall.riding.wp" GUID="+ftsMmQdTESlbflr8gX8vg==" copy="[&amp;BN4LAAA=]" copy-message="For Gathering: Follow Main Trail&#xa;&#xa;Next Map: Pact Command Waypoint, Dragonfall"/>
         <POI MapID="1310" xpos="-678.414" ypos="139.807" zpos="955.995" type="leag.lws4.dragonfall.riding.mount.raptor" GUID="1hB6s3BsX0mTO7OmqP3z2A=="/>
         <POI MapID="1310" xpos="-683.665" ypos="131.305" zpos="953.67" type="leag.lws4.dragonfall.riding.mount.springer" GUID="wyMuZI2NFU+d/1ulJRarhA=="/>
         <POI MapID="1310" xpos="-212.925" ypos="165.851" zpos="986.673" type="leag.lws4.dragonfall.riding.mount.springer" GUID="ExsjKeFxb0WWn+S/5CcBtA=="/>
@@ -2614,11 +2614,11 @@
         <POI MapID="1310" xpos="-236.67" ypos="269.932" zpos="1071.12" type="leag.lws4.dragonfall.riding.glider" GUID="KhHSYiX3uku2CgIx/zc3Rg=="/>
         <POI MapID="1310" xpos="-264.151" ypos="264.391" zpos="1053.6" type="leag.lws4.dragonfall.riding.glider" GUID="gRTFwx1LyESZvMPwxL157A=="/>
         <POI MapID="1310" xpos="-694.966" ypos="141.428" zpos="955.489" type="leag.lws4.dragonfall.riding.mount.bof" GUID="EOtBwNI2DUKoR5wWRVPZxQ=="/>
-        <POI MapID="1310" xpos="325.527" ypos="276.195" zpos="997.192" type="leag.lws4.dragonfall.riding.wp" GUID="yCnZzAmY5kKSp76Jp7zb5A==" copy="[&BLsLAAA=]" copy-message="History's End Waypoint"/>
+        <POI MapID="1310" xpos="325.527" ypos="276.195" zpos="997.192" type="leag.lws4.dragonfall.riding.wp" GUID="yCnZzAmY5kKSp76Jp7zb5A==" copy="[&amp;BLsLAAA=]" copy-message="History's End Waypoint"/>
         <POI MapID="1310" xpos="565.549" ypos="394.401" zpos="825.184" type="leag.lws4.dragonfall.riding.glider" GUID="FKj9WWp/oEy9Dp/41acsew=="/>
         <POI MapID="1310" xpos="512.504" ypos="366.453" zpos="659.305" type="leag.lws4.dragonfall.riding.number.2" GUID="pHOCrzVEyEGDfofzzxGzYQ=="/>
         <POI MapID="1310" xpos="511.248" ypos="366.446" zpos="656.664" type="leag.lws4.dragonfall.riding.number.3" GUID="V2xMRU+YukyMK4ThcnFyLg=="/>
-        <POI MapID="1310" xpos="768.043" ypos="345.336" zpos="1001" type="leag.lws4.dragonfall.riding.wp" GUID="VGClTW9k+USWGzCQwECj2Q==" copy="[&BLsLAAA=]" copy-message="History's End Waypoint"/>
+        <POI MapID="1310" xpos="768.043" ypos="345.336" zpos="1001" type="leag.lws4.dragonfall.riding.wp" GUID="VGClTW9k+USWGzCQwECj2Q==" copy="[&amp;BLsLAAA=]" copy-message="History's End Waypoint"/>
         <POI MapID="1310" xpos="701.835" ypos="372.801" zpos="975.021" type="leag.lws4.dragonfall.riding.mount.springer" GUID="pyMgsKuqNU6SH2vQgHiZmQ=="/>
         <POI MapID="1310" xpos="310.209" ypos="406.083" zpos="620.932" type="leag.lws4.dragonfall.riding.glider" GUID="g3DKknJIqkS/l2h7i4MK/g=="/>
         <POI MapID="1310" xpos="268.122" ypos="376.561" zpos="597.167" type="leag.lws4.dragonfall.riding.glider" GUID="BocbKt/XTkSuEWe89MfkHw=="/>
@@ -2671,14 +2671,14 @@
         <Trail type="leag.lws4.dragonfall.riding.oil" trailData="Data/LWS4/Collections/5. Riding Skyscales/Dragonfall 2 SE.trl"/>
         <Trail type="leag.lws4.dragonfall.riding.oil" trailData="Data/LWS4/Collections/5. Riding Skyscales/Dragonfall 3 Sw.trl"/>
         <Trail type="leag.lws4.dragonfall.riding.oil" trailData="Data/LWS4/Collections/5. Riding Skyscales/Dragonfall 4 NW.trl"/>
-        <POI MapID="1317" xpos="720.687" ypos="105.067" zpos="675.484" type="leag.lws4.dragonfall.riding.wp" GUID="iCKrt3WJu0+3cxoWHBQ6gQ==" copy="[&BJkLAAA=]" copy-message="For Gathering: Follow Main Trail&#xa;&#xa;Return to Gorrik in Jahi Bluffs near the Fortress of Jahai"/>
+        <POI MapID="1317" xpos="720.687" ypos="105.067" zpos="675.484" type="leag.lws4.dragonfall.riding.wp" GUID="iCKrt3WJu0+3cxoWHBQ6gQ==" copy="[&amp;BJkLAAA=]" copy-message="For Gathering: Follow Main Trail&#xa;&#xa;Return to Gorrik in Jahi Bluffs near the Fortress of Jahai"/>
         <POI MapID="1317" xpos="760.711" ypos="100.92" zpos="287.893" type="leag.lws4.dragonfall.riding.mount.springer" GUID="gyIJctqzvEaBg23Ulr12fA=="/>
         <POI MapID="1317" xpos="808.302" ypos="146.035" zpos="322.894" type="leag.lws4.dragonfall.riding.glider" GUID="spooeQh0ZE2LaZWpbTcIwA=="/>
         <POI MapID="1317" xpos="991.749" ypos="76.4993" zpos="379.299" type="leag.lws4.dragonfall.riding.glider" GUID="bj4kgUpzyUmsR0aTi+11oQ=="/>
         <POI MapID="1317" xpos="1034.89" ypos="0.0464915" zpos="182.664" type="leag.lws4.dragonfall.riding.mount.skimmer" GUID="y7QBHhDmmEOE5C9hJqi7JQ=="/>
-        <POI MapID="1317" xpos="801.113" ypos="-0.0857697" zpos="8.29959" type="leag.lws4.dragonfall.riding.wp" GUID="kHtrd5HBUEK1M6tLrFaDCw==" copy="[&BN4LAAA=]" copy-message="Pact Command Waypoint"/>
-        <POI MapID="1317" xpos="635.571" ypos="234.072" zpos="-104.062" type="leag.lws4.dragonfall.riding.wp" GUID="3xUT47lkYki7DGFVRiY9Sg==" copy="[&BN4LAAA=]" copy-message="Pact Command Waypoint"/>
-        <POI MapID="1317" xpos="159.151" ypos="21.3942" zpos="-688.758" type="leag.lws4.dragonfall.riding.wp" GUID="2GVBUacxhUK2FOQq/dfnag==" copy="[&BN4LAAA=]" copy-message="Pact Command Waypoint"/>
+        <POI MapID="1317" xpos="801.113" ypos="-0.0857697" zpos="8.29959" type="leag.lws4.dragonfall.riding.wp" GUID="kHtrd5HBUEK1M6tLrFaDCw==" copy="[&amp;BN4LAAA=]" copy-message="Pact Command Waypoint"/>
+        <POI MapID="1317" xpos="635.571" ypos="234.072" zpos="-104.062" type="leag.lws4.dragonfall.riding.wp" GUID="3xUT47lkYki7DGFVRiY9Sg==" copy="[&amp;BN4LAAA=]" copy-message="Pact Command Waypoint"/>
+        <POI MapID="1317" xpos="159.151" ypos="21.3942" zpos="-688.758" type="leag.lws4.dragonfall.riding.wp" GUID="2GVBUacxhUK2FOQq/dfnag==" copy="[&amp;BN4LAAA=]" copy-message="Pact Command Waypoint"/>
         <POI MapID="1317" xpos="241.24" ypos="237.663" zpos="-208.354" type="leag.lws4.dragonfall.riding.wp" GUID="KCGubccgrky0TnA3VvS+iA==" iconFile="Data/Images/Eye of the Brandstorm.png" fadeNear="1200" fadeFar="2400"/>
         <POI MapID="1317" xpos="871.226" ypos="246.537" zpos="-114.311" type="leag.lws4.dragonfall.riding.mount.skyscale" GUID="olr4feXTuUSixy1/f1FK8A=="/>
         <POI MapID="1317" xpos="280.554" ypos="193.943" zpos="-185.79" type="leag.lws4.dragonfall.riding.glider" GUID="j8FNtIrC+EWQWqb0XDC/jA=="/>

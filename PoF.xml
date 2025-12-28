@@ -10,8 +10,8 @@
         <POI MapID="1210" xpos="-736.88" ypos="1.0503" zpos="-97.7798" type="leag.pof.oasis.bones.1" GUID="mAgNM4JZlEaFxtV/ORwRGw=="/>
         <POI MapID="1210" xpos="-736.876" ypos="1.09445" zpos="-94.7679" type="leag.pof.oasis.bones.2" GUID="Fa5sENDi5kKrBTfiVJZpUw=="/>
         <POI MapID="1210" xpos="700.779" ypos="122.794" zpos="201.914" type="leag.pof.oasis.bones.3" GUID="pb+55UPnhE2R4fh+ekD5MQ=="/>
-        <POI MapID="1210" xpos="-492.853" ypos="-9.61417" zpos="-514.921" type="leag.pof.oasis.bones.wp" GUID="jp/iI4SHZ0SfE09GzNZGuw==" copy="[&BLsKAAA=]" copy-message="Amnoon Waypoint"/>
-        <POI MapID="1210" xpos="290.593" ypos="58.9922" zpos="514.716" type="leag.pof.oasis.bones.wp" GUID="r4eONnJGhUyLirBRqaGc9A==" copy="[&BEAKAAA=]" copy-message="Temple of Kormir Waypoint"/>
+        <POI MapID="1210" xpos="-492.853" ypos="-9.61417" zpos="-514.921" type="leag.pof.oasis.bones.wp" GUID="jp/iI4SHZ0SfE09GzNZGuw==" copy="[&amp;BLsKAAA=]" copy-message="Amnoon Waypoint"/>
+        <POI MapID="1210" xpos="290.593" ypos="58.9922" zpos="514.716" type="leag.pof.oasis.bones.wp" GUID="r4eONnJGhUyLirBRqaGc9A==" copy="[&amp;BEAKAAA=]" copy-message="Temple of Kormir Waypoint"/>
         <POI MapID="1210" xpos="644.478" ypos="122.114" zpos="193.34" type="leag.pof.oasis.bones.mount.springer" GUID="sCbgTd70HkiN1CNC8lxaig=="/>
         <POI MapID="1210" xpos="-1248.32" ypos="-31.4521" zpos="-218.225" type="leag.pof.oasis.bones.mount.skimmer" GUID="Atkcth2+80qp98x8ah4qWA=="/>
         <POI MapID="1210" xpos="-1233.25" ypos="14.6235" zpos="-596.045" type="leag.pof.oasis.bones.mount.springer" GUID="1rila3xaFUWainIElyNcJA=="/>
@@ -58,9 +58,9 @@
         <POI MapID="1210" xpos="705.231" ypos="122.857" zpos="208.493" type="leag.pof.oasis.lloco.2" GUID="SH4t3Pxcx0i4T1kqJOSztA=="/>
         <POI MapID="1210" xpos="705.98" ypos="122.842" zpos="196.67" type="leag.pof.oasis.lloco.3" GUID="fxwxS2YAyEClnj3wgWWIYQ=="/>
         <POI MapID="1210" xpos="1080.38" ypos="19.5586" zpos="-362.655" type="leag.pof.oasis.lloco.4" GUID="sZeg+tKIfUeM9PuljqoIfQ=="/>
-        <POI MapID="1210" xpos="-1226.439" ypos="3.47823" zpos="-570.6094" type="leag.pof.oasis.lloco.wp" GUID="d6Lj0KRRd0+EL+fKmkOHBg==" copy="[&BEAKAAA=]" copy-message="Temple of Kormir Waypoint"/>
-        <POI MapID="1210" xpos="256.989" ypos="60.5408" zpos="620.936" type="leag.pof.oasis.lloco.wp" GUID="X1pAoBBK2kW5qPBVck7o2g==" copy="[&BEAKAAA=]" copy-message="Temple of Kormir Waypoint"/>
-        <POI MapID="1210" xpos="1207.95" ypos="372.064" zpos="391.749" type="leag.pof.oasis.lloco.wp" GUID="/PUvgIWg1UC5whtVwA13oQ==" copy="[&BJMKAAA=]" copy-message="Destiny's Gorge Waypoint"/>
+        <POI MapID="1210" xpos="-1226.439" ypos="3.47823" zpos="-570.6094" type="leag.pof.oasis.lloco.wp" GUID="d6Lj0KRRd0+EL+fKmkOHBg==" copy="[&amp;BEAKAAA=]" copy-message="Temple of Kormir Waypoint"/>
+        <POI MapID="1210" xpos="256.989" ypos="60.5408" zpos="620.936" type="leag.pof.oasis.lloco.wp" GUID="X1pAoBBK2kW5qPBVck7o2g==" copy="[&amp;BEAKAAA=]" copy-message="Temple of Kormir Waypoint"/>
+        <POI MapID="1210" xpos="1207.95" ypos="372.064" zpos="391.749" type="leag.pof.oasis.lloco.wp" GUID="/PUvgIWg1UC5whtVwA13oQ==" copy="[&amp;BJMKAAA=]" copy-message="Destiny's Gorge Waypoint"/>
         <POI MapID="1210" xpos="732.956" ypos="121.552" zpos="56.0668" type="leag.pof.oasis.lloco.mount.jackal" GUID="cD3DDVpHlkmgQmsm3q33zA=="/>
         <POI MapID="1210" xpos="890.504" ypos="184.51" zpos="140.588" type="leag.pof.oasis.lloco.mount.springer" GUID="s0FVdT0LjkCsbSKyMUXZqA=="/>
         <POI MapID="1210" xpos="921.199" ypos="215.887" zpos="197.515" type="leag.pof.oasis.lloco.mount.raptor" GUID="EtqYashheUSXHXHyebsErg=="/>
@@ -75,7 +75,7 @@
         <POI MapID="1210" xpos="701.843" ypos="122.857" zpos="193.813" type="leag.pof.oasis.pilgrims.start" GUID="MbKoaCxeQk2IEqa05X7n8w=="/>
         <POI MapID="1210" xpos="705.111" ypos="122.855" zpos="208.101" type="leag.pof.oasis.pilgrims.1" GUID="9JjZtDr/bU+4HZ3l0uMnAA=="/>
         <POI MapID="1210" xpos="711.081" ypos="122.912" zpos="203.556" type="leag.pof.oasis.pilgrims.2" GUID="a4QKTyMdJk+N7d8VMJ5Lqg=="/>
-        <POI MapID="1210" xpos="531.639" ypos="228.023" zpos="163.702" type="leag.pof.oasis.pilgrims.wp" GUID="ocYK+qeYgUuoGdJ4SdNO/A==" copy="[&BEAKAAA=]" copy-message="Temple of Kormir Waypoint"/>
+        <POI MapID="1210" xpos="531.639" ypos="228.023" zpos="163.702" type="leag.pof.oasis.pilgrims.wp" GUID="ocYK+qeYgUuoGdJ4SdNO/A==" copy="[&amp;BEAKAAA=]" copy-message="Temple of Kormir Waypoint"/>
         <POI MapID="1210" xpos="672.073" ypos="114.808" zpos="356.5" type="leag.pof.oasis.pilgrims.mount.springer" GUID="QIM8Z1vAOUWGa4DSKAHQMg=="/>
         <POI MapID="1210" xpos="601.378" ypos="197.542" zpos="474.446" type="leag.pof.oasis.pilgrims.mount.springer" GUID="LdiTBkgOiECvO9hKz/w9uw=="/>
         <POI MapID="1210" xpos="561.898" ypos="230.507" zpos="406.971" type="leag.pof.oasis.pilgrims.mount.springer" GUID="WDRyw4kqG0SQ1OiB+GBjTg=="/>
@@ -132,7 +132,7 @@
         <POI MapID="1211" xpos="-125.072" ypos="252.336" zpos="417.758" type="leag.pof.highlands.heirloom.2" GUID="j40SZwD28UyOBXWyhGOYJQ=="/>
         <POI MapID="1211" xpos="-365.969" ypos="293.122" zpos="609.286" type="leag.pof.highlands.heirloom.mount.springer" GUID="PhcSYbg5W0CYorvgMa/0kw=="/>
         <POI MapID="1211" xpos="-511.219" ypos="311.66" zpos="638.713" type="leag.pof.highlands.heirloom.mount.springer" GUID="Qwnb62VM5EegT4ovJ3a+uA=="/>
-        <POI MapID="1211" xpos="-547.261" ypos="325.376" zpos="642.245" type="leag.pof.highlands.heirloom.wp" GUID="p52nvvPeUUm95H+xZg+woQ==" copy="[&BJ0KAAA=]" copy-message="Highjump Ranch Waypoint"/>
+        <POI MapID="1211" xpos="-547.261" ypos="325.376" zpos="642.245" type="leag.pof.highlands.heirloom.wp" GUID="p52nvvPeUUm95H+xZg+woQ==" copy="[&amp;BJ0KAAA=]" copy-message="Highjump Ranch Waypoint"/>
 
         <!-- Carrot Collector -->
         <Trail type="leag.pof.highlands.carrot" trailData="Data/PoF/Carrot Collector.trl"/>
@@ -155,11 +155,11 @@
         <POI MapID="1211" xpos="-124.614" ypos="252.344" zpos="417.783" type="leag.pof.highlands.remnants.5" GUID="3RBCR9ZtjkOihlRDBupfQw=="/>
         <POI MapID="1211" xpos="472.5263" ypos="208.298" zpos="353.8929" type="leag.pof.highlands.remnants.6" GUID="bfnLJVUuWEqCmHi819+ygA=="/>
         <POI MapID="1211" xpos="475.525" ypos="207.748" zpos="342.411" type="leag.pof.highlands.remnants.7" GUID="LAl8t5JcZUSRO9RfnpoImw=="/>
-        <POI MapID="1211" xpos="-34.9204" ypos="463.618" zpos="-190.055" type="leag.pof.highlands.remnants.wp" GUID="tbcUYEN96UW2cn3VIYIjCA==" copy="[&BJEKAAA=]" copy-message="Brightwater Waypoint"/>
-        <POI MapID="1211" xpos="-448.198" ypos="4.97446" zpos="-573.84" type="leag.pof.highlands.remnants.wp" GUID="0Ib3ujp+xk6UsFLyiRXB0g==" copy="[&BNkKAAA=]" copy-message="Derelict Delve Waypoint"/>
-        <POI MapID="1211" xpos="-1371.3" ypos="2.45248" zpos="-484.352" type="leag.pof.highlands.remnants.wp" GUID="LCA9H1h/E0+5FU5dh73pNw==" copy="[&BJ0KAAA=]" copy-message="Highjump Ranch Waypoint"/>
-        <POI MapID="1211" xpos="-56.34998" ypos="320.907" zpos="419.1086" type="leag.pof.highlands.remnants.wp" GUID="oWNNem1FYUOy+cxCmzCUOQ==" copy="[&BGoKAAA=]" copy-message="Lommuld Kraal Waypoint"/>
-        <POI MapID="1211" xpos="547.2548" ypos="295.0656" zpos="621.9444" type="leag.pof.highlands.remnants.wp" GUID="qgiOsdu3Fk6AWEYt3jmqFA==" copy="[&BGoKAAA=]" copy-message="Lommuld Kraal Waypoint"/>
+        <POI MapID="1211" xpos="-34.9204" ypos="463.618" zpos="-190.055" type="leag.pof.highlands.remnants.wp" GUID="tbcUYEN96UW2cn3VIYIjCA==" copy="[&amp;BJEKAAA=]" copy-message="Brightwater Waypoint"/>
+        <POI MapID="1211" xpos="-448.198" ypos="4.97446" zpos="-573.84" type="leag.pof.highlands.remnants.wp" GUID="0Ib3ujp+xk6UsFLyiRXB0g==" copy="[&amp;BNkKAAA=]" copy-message="Derelict Delve Waypoint"/>
+        <POI MapID="1211" xpos="-1371.3" ypos="2.45248" zpos="-484.352" type="leag.pof.highlands.remnants.wp" GUID="LCA9H1h/E0+5FU5dh73pNw==" copy="[&amp;BJ0KAAA=]" copy-message="Highjump Ranch Waypoint"/>
+        <POI MapID="1211" xpos="-56.34998" ypos="320.907" zpos="419.1086" type="leag.pof.highlands.remnants.wp" GUID="oWNNem1FYUOy+cxCmzCUOQ==" copy="[&amp;BGoKAAA=]" copy-message="Lommuld Kraal Waypoint"/>
+        <POI MapID="1211" xpos="547.2548" ypos="295.0656" zpos="621.9444" type="leag.pof.highlands.remnants.wp" GUID="qgiOsdu3Fk6AWEYt3jmqFA==" copy="[&amp;BGoKAAA=]" copy-message="Lommuld Kraal Waypoint"/>
         <POI MapID="1211" xpos="466.4624" ypos="155.13" zpos="-666.355" type="leag.pof.highlands.remnants.mount.raptor" GUID="sDtrlsq3kEmKoxJElYssgg=="/>
         <POI MapID="1211" xpos="212.324" ypos="181.216" zpos="-661.237" type="leag.pof.highlands.remnants.mount.raptor" GUID="/KhdyJokhkeW3ykPd1/Wpw=="/>
         <POI MapID="1211" xpos="-129.708" ypos="151.775" zpos="-269.429" type="leag.pof.highlands.remnants.mount.jackal" GUID="JCz7J0oFok2ioCRHHsjLmw=="/>
@@ -199,8 +199,8 @@
         <Trail type="leag.pof.highlands.llodh.2" trailData="Data/PoF/Lost Lore of Desert Highlands 2.trl"/>
         <Trail type="leag.pof.highlands.llodh.3" trailData="Data/PoF/Lost Lore of Desert Highlands 3.trl"/>
         <POI MapID="1211" xpos="518.476" ypos="165.998" zpos="-698.986" type="leag.pof.highlands.llodh.start" GUID="qwYZg1qw90+H5CO748Unfg=="/>
-        <POI MapID="1211" xpos="-700.517" ypos="194.25" zpos="-250.158" type="leag.pof.highlands.llodh.wp" GUID="5diarKfGr0WaOgj1RHCzvA==" copy="[&BNkKAAA=]" copy-message="Derelict Delve Waypoint"/>
-        <POI MapID="1211" xpos="-1239.89" ypos="277.16" zpos="157.208" type="leag.pof.highlands.llodh.wp" GUID="BOiFrTBL9U2tAfQXJ1iQQw==" copy="[&BGoKAAA=]" copy-message="Lommuld Kraal Waypoint"/>
+        <POI MapID="1211" xpos="-700.517" ypos="194.25" zpos="-250.158" type="leag.pof.highlands.llodh.wp" GUID="5diarKfGr0WaOgj1RHCzvA==" copy="[&amp;BNkKAAA=]" copy-message="Derelict Delve Waypoint"/>
+        <POI MapID="1211" xpos="-1239.89" ypos="277.16" zpos="157.208" type="leag.pof.highlands.llodh.wp" GUID="BOiFrTBL9U2tAfQXJ1iQQw==" copy="[&amp;BGoKAAA=]" copy-message="Lommuld Kraal Waypoint"/>
         <POI MapID="1211" xpos="-131.269" ypos="152.31" zpos="-272.141" type="leag.pof.highlands.llodh.mount.jackal" GUID="yqOKJblgPEqV1vPa/VNXww=="/>
         <POI MapID="1211" xpos="-334.143" ypos="197.676" zpos="-90.7387" type="leag.pof.highlands.llodh.mount.springer" GUID="p9bxQEQEeUqaqxDxrRLvsQ=="/>
         <POI MapID="1211" xpos="-386.945" ypos="220.004" zpos="-11.4214" type="leag.pof.highlands.llodh.mount.springer" GUID="uKsuSTS+A0SHSP6pmPPcEA=="/>
@@ -301,8 +301,8 @@
         <Trail type="leag.pof.riverlands.tracker" trailData="Data/PoF/Equipment Tracker 1.trl"/>
         <Trail type="leag.pof.riverlands.tracker" trailData="Data/PoF/Equipment Tracker 2.trl"/>
         <Trail type="leag.pof.riverlands.tracker" trailData="Data/PoF/Equipment Tracker 3.trl"/>
-        <POI MapID="1228" xpos="-594.3123" ypos="26.68033" zpos="-343.8982" type="leag.pof.riverlands.tracker.wp" GUID="vOj4ve7sdEu4JjpbpQSCLQ==" copy="[&BGcKAAA=]" copy-message="Skimmer Ranch Waypoint"/>
-        <POI MapID="1228" xpos="-344.448" ypos="4.92999" zpos="175.02" type="leag.pof.riverlands.tracker.wp" GUID="UpnFlhvv4Uiz4NadLQ1F+w==" copy="[&BFMKAAA=]" copy-message="Augury's Shadow Waypoint"/>
+        <POI MapID="1228" xpos="-594.3123" ypos="26.68033" zpos="-343.8982" type="leag.pof.riverlands.tracker.wp" GUID="vOj4ve7sdEu4JjpbpQSCLQ==" copy="[&amp;BGcKAAA=]" copy-message="Skimmer Ranch Waypoint"/>
+        <POI MapID="1228" xpos="-344.448" ypos="4.92999" zpos="175.02" type="leag.pof.riverlands.tracker.wp" GUID="UpnFlhvv4Uiz4NadLQ1F+w==" copy="[&amp;BFMKAAA=]" copy-message="Augury's Shadow Waypoint"/>
         <POI MapID="1228" xpos="1037.128" ypos="57.2901" zpos="737.9057" type="leag.pof.riverlands.tracker.wp" GUID="ykF05s/FokODEdeSDbFYgg==" info="Return to Master Sergeant Shadi" infoRange="3"/>
         <POI MapID="1228" xpos="-833.814" ypos="99.3211" zpos="890.99" type="leag.pof.riverlands.tracker.list" GUID="S7RF4yrZ8UaByHjmUu4ViQ=="/>
         <POI MapID="1228" xpos="-883.589" ypos="89.9778" zpos="878.308" type="leag.pof.riverlands.tracker.sword" GUID="UOeNIASAKkqy9SOycRkzkw=="/>
@@ -456,7 +456,7 @@
         <POI MapID="1228" xpos="473.969" ypos="5.11215" zpos="45.0616" type="leag.pof.riverlands.flowers.3" GUID="vSP/0oxRhESF2dosS3QANA=="/>
         <POI MapID="1228" xpos="362.451" ypos="78.0955" zpos="462.323" type="leag.pof.riverlands.flowers.4" GUID="OdrfMwGty0O9sF/QcPcU1w=="/>
         <POI MapID="1228" xpos="199.761" ypos="33.6567" zpos="94.3599" type="leag.pof.riverlands.flowers.5" GUID="XwU0v29sqEqgWcq21C4IhA=="/>
-        <POI MapID="1228" xpos="382.973" ypos="58.6598" zpos="236.994" type="leag.pof.riverlands.flowers.wp" GUID="mRrQiIWZRE6cpTzlqLrdvg==" copy="[&BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
+        <POI MapID="1228" xpos="382.973" ypos="58.6598" zpos="236.994" type="leag.pof.riverlands.flowers.wp" GUID="mRrQiIWZRE6cpTzlqLrdvg==" copy="[&amp;BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
         <POI MapID="1228" xpos="-196.289" ypos="25.5877" zpos="26.0273" type="leag.pof.riverlands.flowers.wp" GUID="X18ZsYPF2E68OCZ8KyBmvw==" info="DEFEAT the Awakened Exile and then TALK to them&#xA;&#xA;RETURN to Jimoh" infoRange="5"/>
 
         <!-- Forgotten Debris -->
@@ -477,9 +477,9 @@
         <POI MapID="1228" xpos="-565.853" ypos="4.58174" zpos="-12.7303" type="leag.pof.riverlands.debris.5" GUID="/dAcnsHCmkK7I8ODrzzHKw=="/>
         <POI MapID="1228" xpos="-577.933" ypos="4.61039" zpos="-15.4167" type="leag.pof.riverlands.debris.6" GUID="5PxSZvNNukOdhYenY2JdwA=="/>
         <POI MapID="1228" xpos="660.719" ypos="86.5938" zpos="600.47" type="leag.pof.riverlands.debris.7" GUID="23lL5T14lESfEHUJAXmRJQ=="/>
-        <POI MapID="1228" xpos="1009.775" ypos="83.81512" zpos="958.9052" type="leag.pof.riverlands.debris.wp" GUID="9ztf5c/eAUmV0Y2wSCo8KQ==" copy="[&BFMKAAA=]" copy-message="Augury's Shadow Waypoint"/>
-        <POI MapID="1228" xpos="936.593" ypos="11.0128" zpos="2.58182" type="leag.pof.riverlands.debris.wp" GUID="QtIW04Oe6USw2+jacvoWdA==" copy="[&BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
-        <POI MapID="1228" xpos="235.21" ypos="-74.8965" zpos="35.1952" type="leag.pof.riverlands.debris.wp" GUID="pTUVd8SgoEOd2SCJdfM3BA==" copy="[&BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
+        <POI MapID="1228" xpos="1009.775" ypos="83.81512" zpos="958.9052" type="leag.pof.riverlands.debris.wp" GUID="9ztf5c/eAUmV0Y2wSCo8KQ==" copy="[&amp;BFMKAAA=]" copy-message="Augury's Shadow Waypoint"/>
+        <POI MapID="1228" xpos="936.593" ypos="11.0128" zpos="2.58182" type="leag.pof.riverlands.debris.wp" GUID="QtIW04Oe6USw2+jacvoWdA==" copy="[&amp;BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
+        <POI MapID="1228" xpos="235.21" ypos="-74.8965" zpos="35.1952" type="leag.pof.riverlands.debris.wp" GUID="pTUVd8SgoEOd2SCJdfM3BA==" copy="[&amp;BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
         <POI MapID="1228" xpos="-806.664" ypos="21.8516" zpos="352.937" type="leag.pof.riverlands.debris.wp" GUID="4MYLB8IuVUuInbnE+iOjmA=="/>
         <POI MapID="1228" xpos="-413.832" ypos="4.47673" zpos="165.097" type="leag.pof.riverlands.debris.wp" GUID="UQ4L8S5IPkiFQXoe3e2JFA=="/>
         
@@ -487,7 +487,7 @@
         <Trail type="leag.pof.riverlands.teleporter" trailData="Data/PoF/Frequent Forgotten Teleporter 1.trl" inGameVisibility="1" mapDisplaySize="8"/>
         <Trail type="leag.pof.riverlands.teleporter" trailData="Data/PoF/Frequent Forgotten Teleporter 2.trl" inGameVisibility="1" mapDisplaySize="8"/>
         <POI MapID="1228" xpos="195.053" ypos="33.6567" zpos="84.2164" type="leag.pof.riverlands.teleporter.start" GUID="w/N6a7nDsUuJO8hCKeyEpw=="/>
-        <POI MapID="1228" xpos="-247.3108" ypos="80.03384" zpos="459.0305" type="leag.pof.riverlands.teleporter.wp" GUID="M0zseokOoEaAatMTu4P3kg==" copy="[&BFMKAAA=]" copy-message="Augury's Shadow Waypoint"/>
+        <POI MapID="1228" xpos="-247.3108" ypos="80.03384" zpos="459.0305" type="leag.pof.riverlands.teleporter.wp" GUID="M0zseokOoEaAatMTu4P3kg==" copy="[&amp;BFMKAAA=]" copy-message="Augury's Shadow Waypoint"/>
         <POI MapID="1228" xpos="138.598" ypos="115.671" zpos="681.992" type="leag.pof.riverlands.teleporter.augury" GUID="p6yyrXeF9UKH4AISiGzw5g=="/>
         <POI MapID="1228" xpos="-128.927" ypos="23.1653" zpos="-203.063" type="leag.pof.riverlands.teleporter.east" GUID="F4dCC6Bg30WPer6+8P/vDQ=="/>
         <POI MapID="1228" xpos="-201.38" ypos="47.5088" zpos="-263.436" type="leag.pof.riverlands.teleporter.west" GUID="b3ArzrketU+Tx+yYQ106Ag=="/>
@@ -514,9 +514,9 @@
         <Trail type="leag.pof.riverlands.magic.3" trailData="Data/PoF/Magic Hunter 3.trl" color="99ccff"/>
         <Trail type="leag.pof.riverlands.magic.4" trailData="Data/PoF/Magic Hunter 4.trl" color="99ccff"/>
         <POI MapID="1228" xpos="-579.516" ypos="3.59626" zpos="-23.9084" type="leag.pof.riverlands.magic.start" GUID="0VpafQTF5EaJNzK5lDlugg=="/>
-        <POI MapID="1228" xpos="-962.132" ypos="111.495" zpos="841.782" type="leag.pof.riverlands.magic.wp" GUID="TbuudCHYZ0i+msT01md6Ng==" copy="[&BGcKAAA=]" copy-message="Skimmer Ranch Waypoint"/>
-        <POI MapID="1228" xpos="557.963" ypos="91.9665" zpos="768.851" type="leag.pof.riverlands.magic.wp" GUID="YGAHcBqhiUqRU0hhejhhvA==" copy="[&BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
-        <POI MapID="1228" xpos="954.086" ypos="1.46626" zpos="-863.541" type="leag.pof.riverlands.magic.wp" GUID="4KSTAVkTTEi2xH5reFlLdQ==" copy="[&BGcKAAA=]" copy-message="Skimmer Ranch Waypoint"/>
+        <POI MapID="1228" xpos="-962.132" ypos="111.495" zpos="841.782" type="leag.pof.riverlands.magic.wp" GUID="TbuudCHYZ0i+msT01md6Ng==" copy="[&amp;BGcKAAA=]" copy-message="Skimmer Ranch Waypoint"/>
+        <POI MapID="1228" xpos="557.963" ypos="91.9665" zpos="768.851" type="leag.pof.riverlands.magic.wp" GUID="YGAHcBqhiUqRU0hhejhhvA==" copy="[&amp;BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint"/>
+        <POI MapID="1228" xpos="954.086" ypos="1.46626" zpos="-863.541" type="leag.pof.riverlands.magic.wp" GUID="4KSTAVkTTEi2xH5reFlLdQ==" copy="[&amp;BGcKAAA=]" copy-message="Skimmer Ranch Waypoint"/>
         <POI MapID="1228" xpos="-578.877" ypos="4.92001" zpos="-13.3957" type="leag.pof.riverlands.magic.1" GUID="DssBhCrDhUyt5w3ryqTq/A=="/>
         <POI MapID="1228" xpos="-566.597" ypos="4.59097" zpos="-12.8067" type="leag.pof.riverlands.magic.2" GUID="NhnLk7Kd4UCDWhg3PoyxBA=="/>
         <POI MapID="1228" xpos="205.304" ypos="33.7529" zpos="94.4599" type="leag.pof.riverlands.magic.3" GUID="Q8lnFnJULUeuocUaf8v6yw=="/>
@@ -589,11 +589,11 @@
         <Trail type="leag.pof.desolation.llotd" trailData="Data/PoF/Lost Lore of The Desolation 5.trl"/>
         <Trail type="leag.pof.desolation.llotd" trailData="Data/PoF/Lost Lore of The Desolation 6.trl"/>
         <POI MapID="1226" xpos="23.0032" ypos="0.738206" zpos="1416.28" type="leag.pof.desolation.llotd.start" GUID="AU9fmWORMU2C5kqIjBb9gw=="/>
-        <POI MapID="1226" xpos="934.478" ypos="200.962" zpos="947.004" type="leag.pof.desolation.llotd.wp" GUID="tCvliuU1AEKcfiK9cnf1SQ==" copy="[&BNwKAAA=]" copy-message="Bonestrand Waypoint"/>
-        <POI MapID="1226" xpos="-927.348" ypos="86.6652" zpos="794.832" type="leag.pof.desolation.llotd.wp" GUID="LsnS02udr0q01rLn4TCoDg==" copy="[&BKMKAAA=]" copy-message="The Darklands Waypoint"/>
-        <POI MapID="1226" xpos="-120.661" ypos="207.398" zpos="57.4503" type="leag.pof.desolation.llotd.wp" GUID="AxRfBndoo0afzVeNYprWQA==" copy="[&BMEKAAA=]" copy-message="Lair of the Forgotten Waypoint"/>
-        <POI MapID="1226" xpos="774.999" ypos="294.486" zpos="-459.42" type="leag.pof.desolation.llotd.wp" GUID="J/6qLpW50kOcHB2xqOPAIw==" copy="[&BAsKAAA=]" copy-message="Joko's Domain Waypoint"/>
-        <POI MapID="1226" xpos="335.705" ypos="291.21" zpos="-956.002" type="leag.pof.desolation.llotd.wp" GUID="oH/q/WpIskubqokYYT2F3g==" copy="[&BHcKAAA=]" copy-message="Sand Jackal Run Waypoint"/>
+        <POI MapID="1226" xpos="934.478" ypos="200.962" zpos="947.004" type="leag.pof.desolation.llotd.wp" GUID="tCvliuU1AEKcfiK9cnf1SQ==" copy="[&amp;BNwKAAA=]" copy-message="Bonestrand Waypoint"/>
+        <POI MapID="1226" xpos="-927.348" ypos="86.6652" zpos="794.832" type="leag.pof.desolation.llotd.wp" GUID="LsnS02udr0q01rLn4TCoDg==" copy="[&amp;BKMKAAA=]" copy-message="The Darklands Waypoint"/>
+        <POI MapID="1226" xpos="-120.661" ypos="207.398" zpos="57.4503" type="leag.pof.desolation.llotd.wp" GUID="AxRfBndoo0afzVeNYprWQA==" copy="[&amp;BMEKAAA=]" copy-message="Lair of the Forgotten Waypoint"/>
+        <POI MapID="1226" xpos="774.999" ypos="294.486" zpos="-459.42" type="leag.pof.desolation.llotd.wp" GUID="J/6qLpW50kOcHB2xqOPAIw==" copy="[&amp;BAsKAAA=]" copy-message="Joko's Domain Waypoint"/>
+        <POI MapID="1226" xpos="335.705" ypos="291.21" zpos="-956.002" type="leag.pof.desolation.llotd.wp" GUID="oH/q/WpIskubqokYYT2F3g==" copy="[&amp;BHcKAAA=]" copy-message="Sand Jackal Run Waypoint"/>
         <POI MapID="1226" xpos="33.5561" ypos="0.700136" zpos="1425.65" type="leag.pof.desolation.llotd.1" GUID="3hrTLIQNzEqwAinjal5lkg=="/>
         <POI MapID="1226" xpos="24.1372" ypos="0.701656" zpos="1430.95" type="leag.pof.desolation.llotd.2" GUID="7443kNCHZEyF4KjkgQ5RCg=="/>
 
@@ -604,10 +604,10 @@
         <Trail type="leag.pof.desolation.potg.4" trailData="Data/PoF/Path of the Gods 4.trl"/>
         <Trail type="leag.pof.desolation.potg.5" trailData="Data/PoF/Path of the Gods 5.trl"/>
         <POI MapID="1226" xpos="23.0032" ypos="0.738206" zpos="1416.28" type="leag.pof.desolation.potg.start" GUID="vwA910grekiu9bRF64kD/A=="/>
-        <POI MapID="1226" xpos="1051.79" ypos="53.6739" zpos="1449.77" type="leag.pof.desolation.potg.wp" GUID="sZH0UtEuMkmzyvXzy5b57g==" copy="[&BNwKAAA=]" copy-message="Bonestrand Waypoint"/>
-        <POI MapID="1226" xpos="-644.493" ypos="0.095579" zpos="1387.67" type="leag.pof.desolation.potg.wp" GUID="VkRH8vUqo0mFQQa4g7zfpQ==" copy="[&BHMKAAA=]" copy-message="The Scourgeway Waypoint"/>
-        <POI MapID="1226" xpos="437.734" ypos="272.569" zpos="436.7" type="leag.pof.desolation.potg.wp" GUID="xT5Czt203EGPjv9RMLNEXg==" copy="[&BHMKAAA=]" copy-message="The Scourgeway Waypoint"/>
-        <POI MapID="1226" xpos="-56.4526" ypos="265.163" zpos="9.38916" type="leag.pof.desolation.potg.wp" GUID="YeZVdrT4ZEmJPci0dDE0rQ==" copy="[&BHcKAAA=]" copy-message="Sand Jackal Run Waypoint"/>
+        <POI MapID="1226" xpos="1051.79" ypos="53.6739" zpos="1449.77" type="leag.pof.desolation.potg.wp" GUID="sZH0UtEuMkmzyvXzy5b57g==" copy="[&amp;BNwKAAA=]" copy-message="Bonestrand Waypoint"/>
+        <POI MapID="1226" xpos="-644.493" ypos="0.095579" zpos="1387.67" type="leag.pof.desolation.potg.wp" GUID="VkRH8vUqo0mFQQa4g7zfpQ==" copy="[&amp;BHMKAAA=]" copy-message="The Scourgeway Waypoint"/>
+        <POI MapID="1226" xpos="437.734" ypos="272.569" zpos="436.7" type="leag.pof.desolation.potg.wp" GUID="xT5Czt203EGPjv9RMLNEXg==" copy="[&amp;BHMKAAA=]" copy-message="The Scourgeway Waypoint"/>
+        <POI MapID="1226" xpos="-56.4526" ypos="265.163" zpos="9.38916" type="leag.pof.desolation.potg.wp" GUID="YeZVdrT4ZEmJPci0dDE0rQ==" copy="[&amp;BHcKAAA=]" copy-message="Sand Jackal Run Waypoint"/>
         <POI MapID="1226" xpos="33.7815" ypos="0.144554" zpos="1432.37" type="leag.pof.desolation.potg.1" GUID="u0quUFPA4UCv3IW4uVkEcQ=="/>
         <POI MapID="1226" xpos="735.395" ypos="23.6074" zpos="1521.92" type="leag.pof.desolation.potg.emote" GUID="JW0bwd0JSUyYz1AEt22KZw=="/>
         <POI MapID="1226" xpos="1056.2" ypos="53.6984" zpos="1449.05" type="leag.pof.desolation.potg.emote" GUID="/HVmaIjiE0O8bFaKDsv1AA=="/>
@@ -633,12 +633,12 @@
         <POI MapID="1226" xpos="23.0032" ypos="0.738206" zpos="1416.28" type="leag.pof.desolation.provisions.start" GUID="L3LegyvDs0255IMBDzKn1w=="/>
         <POI MapID="1226" xpos="26.6878" ypos="1.02944" zpos="1426.4" type="leag.pof.desolation.provisions.1" GUID="wRYUGihaAUeEveXGwIoI4Q=="/>
         <POI MapID="1226" xpos="34.8771" ypos="0.414081" zpos="1432.55" type="leag.pof.desolation.provisions.2" GUID="0R98Ae0UpkSRoy+1bgaRQA=="/>
-        <POI MapID="1226" xpos="441.114" ypos="158.265" zpos="872.455" type="leag.pof.desolation.provisions.wp" GUID="6RlcOgje10mgexAhNyyx6w==" copy="[&BNwKAAA=]" copy-message="Bonestrand Waypoint"/>
-        <POI MapID="1226" xpos="548.99" ypos="264.629" zpos="444.115" type="leag.pof.desolation.provisions.wp" GUID="JSACg7uiyE6MGgar6bz5QQ==" copy="[&BHMKAAA=]" copy-message="The Scourgeway Waypoint"/>
-        <POI MapID="1226" xpos="-644.944" ypos="50.2993" zpos="928.315" type="leag.pof.desolation.provisions.wp" GUID="Oqq4/UoN6k+YZrT//I+z9A==" copy="[&BMEKAAA=]" copy-message="Lair of the Forgotten Waypoint"/>
-        <POI MapID="1226" xpos="1047.84" ypos="305.063" zpos="-279.993" type="leag.pof.desolation.provisions.wp" GUID="kQ4aZ4C+kEy0bruQxgHiJw==" copy="[&BAsKAAA=]" copy-message="Joko's Domain Waypoint"/>
-        <POI MapID="1226" xpos="289.578" ypos="407.503" zpos="-1348.08" type="leag.pof.desolation.provisions.wp" GUID="dDVU4egXCkyVWNDVO8RwnA==" copy="[&BHcKAAA=]" copy-message="Sand Jackal Run Waypoint"/>
-        <POI MapID="1226" xpos="-73.8264" ypos="266.564" zpos="-572.932" type="leag.pof.desolation.provisions.wp" GUID="FPiiApnl6ka6C3n5LP++rA==" copy="[&BHcKAAA=]" copy-message="Sand Jackal Run Waypoint"/>
+        <POI MapID="1226" xpos="441.114" ypos="158.265" zpos="872.455" type="leag.pof.desolation.provisions.wp" GUID="6RlcOgje10mgexAhNyyx6w==" copy="[&amp;BNwKAAA=]" copy-message="Bonestrand Waypoint"/>
+        <POI MapID="1226" xpos="548.99" ypos="264.629" zpos="444.115" type="leag.pof.desolation.provisions.wp" GUID="JSACg7uiyE6MGgar6bz5QQ==" copy="[&amp;BHMKAAA=]" copy-message="The Scourgeway Waypoint"/>
+        <POI MapID="1226" xpos="-644.944" ypos="50.2993" zpos="928.315" type="leag.pof.desolation.provisions.wp" GUID="Oqq4/UoN6k+YZrT//I+z9A==" copy="[&amp;BMEKAAA=]" copy-message="Lair of the Forgotten Waypoint"/>
+        <POI MapID="1226" xpos="1047.84" ypos="305.063" zpos="-279.993" type="leag.pof.desolation.provisions.wp" GUID="kQ4aZ4C+kEy0bruQxgHiJw==" copy="[&amp;BAsKAAA=]" copy-message="Joko's Domain Waypoint"/>
+        <POI MapID="1226" xpos="289.578" ypos="407.503" zpos="-1348.08" type="leag.pof.desolation.provisions.wp" GUID="dDVU4egXCkyVWNDVO8RwnA==" copy="[&amp;BHcKAAA=]" copy-message="Sand Jackal Run Waypoint"/>
+        <POI MapID="1226" xpos="-73.8264" ypos="266.564" zpos="-572.932" type="leag.pof.desolation.provisions.wp" GUID="FPiiApnl6ka6C3n5LP++rA==" copy="[&amp;BHcKAAA=]" copy-message="Sand Jackal Run Waypoint"/>
         <POI MapID="1226" xpos="525.452" ypos="258.24" zpos="-949.766" type="leag.pof.desolation.provisions.1" GUID="2VW8g+V/ukKiGmrdzw45+w=="/>
         <POI MapID="1226" xpos="517.317" ypos="258.473" zpos="-952.234" type="leag.pof.desolation.provisions.2" GUID="bKmLB8kIlUmiS3ykkIex+g=="/>
         <POI MapID="1226" xpos="-548.669" ypos="239.049" zpos="-1206.9" type="leag.pof.desolation.provisions.1" GUID="fsQGduYio06Gx1FaDIFxeQ=="/>
@@ -682,10 +682,10 @@
         <Trail type="leag.pof.vabbi.llotdov" trailData="Data/PoF/Lost Lore of the Domain of Vabbi 4.trl"/>
         <Trail type="leag.pof.vabbi.llotdov" trailData="Data/PoF/Lost Lore of the Domain of Vabbi 5.trl"/>
         <POI MapID="1248" xpos="-1075.54" ypos="139.356" zpos="421.982" type="leag.pof.vabbi.llotdov.start" GUID="R0o1HogykEWZOL8C9eGkHA=="/>
-        <POI MapID="1248" xpos="-1230.71" ypos="120.401" zpos="346.968" type="leag.pof.vabbi.llotdov.wp" GUID="L6hXCOzv20auZCZs4M8P6Q==" copy="[&BNAKAAA=]" copy-message="Seborhin Waypoint"/>
-        <POI MapID="1248" xpos="-744.393" ypos="217.922" zpos="497.746" type="leag.pof.vabbi.llotdov.wp" GUID="4MgvB0xIzkWtnX1Pm6leTA==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint"/>
-        <POI MapID="1248" xpos="-1459.84" ypos="313.684" zpos="-685.788" type="leag.pof.vabbi.llotdov.wp" GUID="tEPuO1mk6UOlcDW23LmibQ==" copy="[&BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
-        <POI MapID="1248" xpos="284.363" ypos="263.179" zpos="-93.9848" type="leag.pof.vabbi.llotdov.wp" GUID="MY7ACkT+hkek/OFmbDB37w==" copy="[&BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
+        <POI MapID="1248" xpos="-1230.71" ypos="120.401" zpos="346.968" type="leag.pof.vabbi.llotdov.wp" GUID="L6hXCOzv20auZCZs4M8P6Q==" copy="[&amp;BNAKAAA=]" copy-message="Seborhin Waypoint"/>
+        <POI MapID="1248" xpos="-744.393" ypos="217.922" zpos="497.746" type="leag.pof.vabbi.llotdov.wp" GUID="4MgvB0xIzkWtnX1Pm6leTA==" copy="[&amp;BEoKAAA=]" copy-message="Necropolis Waypoint"/>
+        <POI MapID="1248" xpos="-1459.84" ypos="313.684" zpos="-685.788" type="leag.pof.vabbi.llotdov.wp" GUID="tEPuO1mk6UOlcDW23LmibQ==" copy="[&amp;BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
+        <POI MapID="1248" xpos="284.363" ypos="263.179" zpos="-93.9848" type="leag.pof.vabbi.llotdov.wp" GUID="MY7ACkT+hkek/OFmbDB37w==" copy="[&amp;BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
         <POI MapID="1248" xpos="807.625" ypos="142.294" zpos="47.0635" type="leag.pof.vabbi.llotdov.1" GUID="uVaBOokczky5zKbvM4pTmA=="/>
         <POI MapID="1248" xpos="812.216" ypos="142.294" zpos="46.5977" type="leag.pof.vabbi.llotdov.2" GUID="KP+2DaV4VECubtBPDVYZDQ=="/>
         <POI MapID="1248" xpos="-724.627" ypos="169.5" zpos="464.47" type="leag.pof.vabbi.llotdov.mount.springer" GUID="TSubvwXsnkOBEn88PFmt1Q=="/>
@@ -713,9 +713,9 @@
         <Trail type="leag.pof.vabbi.joko" trailData="Data/PoF/Praise Joko! 3.trl"/>
         <Trail type="leag.pof.vabbi.joko" trailData="Data/PoF/Praise Joko! 4.trl"/>
         <POI MapID="1248" xpos="-1075.54" ypos="139.356" zpos="421.982" type="leag.pof.vabbi.joko.start" GUID="4xavYdm0X0mBhTKd+uv3oQ=="/>
-        <POI MapID="1248" xpos="-1090.7" ypos="119.81" zpos="-187.45" type="leag.pof.vabbi.joko.wp" GUID="ZRYleHSBWU+bvwaAoUqVOw==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint"/>
-        <POI MapID="1248" xpos="-952.968" ypos="107.319" zpos="-733.849" type="leag.pof.vabbi.joko.wp" GUID="n1BNGfQgFU6Xonto+Kcb0A==" copy="[&BNAKAAA=]" copy-message="Seborhin Waypoint"/>
-        <POI MapID="1248" xpos="-755.715" ypos="109.184" zpos="500.789" type="leag.pof.vabbi.joko.wp" GUID="Ds/wlj0GdkGuNJGvmimBGQ==" copy="[&BA8KAAA=]" copy-message="Vehtendi Academy Waypoint"/>
+        <POI MapID="1248" xpos="-1090.7" ypos="119.81" zpos="-187.45" type="leag.pof.vabbi.joko.wp" GUID="ZRYleHSBWU+bvwaAoUqVOw==" copy="[&amp;BEoKAAA=]" copy-message="Necropolis Waypoint"/>
+        <POI MapID="1248" xpos="-952.968" ypos="107.319" zpos="-733.849" type="leag.pof.vabbi.joko.wp" GUID="n1BNGfQgFU6Xonto+Kcb0A==" copy="[&amp;BNAKAAA=]" copy-message="Seborhin Waypoint"/>
+        <POI MapID="1248" xpos="-755.715" ypos="109.184" zpos="500.789" type="leag.pof.vabbi.joko.wp" GUID="Ds/wlj0GdkGuNJGvmimBGQ==" copy="[&amp;BA8KAAA=]" copy-message="Vehtendi Academy Waypoint"/>
         <POI MapID="1248" xpos="-1213.47" ypos="165.866" zpos="424.883" type="leag.pof.vabbi.joko.emote" GUID="ZktkClS+FEG/meNyJ9BREQ=="/>
         <POI MapID="1248" xpos="-1249.72" ypos="164.345" zpos="371.055" type="leag.pof.vabbi.joko.emote" GUID="/ViMSuVMtEq5PgWSXJp5qA=="/>
         <POI MapID="1248" xpos="-1295.82" ypos="164.317" zpos="369.664" type="leag.pof.vabbi.joko.emote" GUID="2aGhCuIKukiKWJia0wSUrw=="/>
@@ -787,14 +787,14 @@
         <Trail type="leag.pof.vabbi.scourge" trailData="Data/PoF/Scourge Buster 7.trl"/>
         <Trail type="leag.pof.vabbi.scourge" trailData="Data/PoF/Scourge Buster 8.trl"/>
         <Trail type="leag.pof.vabbi.scourge" trailData="Data/PoF/Scourge Buster 9.trl"/>
-        <POI MapID="1248" xpos="-1412.54" ypos="86.4803" zpos="614.441" type="leag.pof.vabbi.scourge.wp" GUID="VWcHS5P2HEyKM5Jb5PAdyA==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint"/>
-        <POI MapID="1248" xpos="-1227.71" ypos="135.4" zpos="-260.093" type="leag.pof.vabbi.scourge.wp" GUID="HN274OgVWUeJ0PkQKNwlNw==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint"/>
-        <POI MapID="1248" xpos="-999.833" ypos="126.342" zpos="-737.781" type="leag.pof.vabbi.scourge.wp" GUID="9Hh1OfECTUy01LwoejuIgg==" copy="[&BEoKAAA=]" copy-message="Necropolis Waypoint"/>
-        <POI MapID="1248" xpos="-366.026" ypos="125.641" zpos="-133.306" type="leag.pof.vabbi.scourge.wp" GUID="BRc27G2zk0OSiIJLaaueyg==" copy="[&BNAKAAA=]" copy-message="Seborhin Waypoint"/>
-        <POI MapID="1248" xpos="945.937" ypos="5.85914" zpos="930.9" type="leag.pof.vabbi.scourge.wp" GUID="htWxRFIe8kKLHAjUA8pzng==" copy="[&BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
-        <POI MapID="1248" xpos="1420.27" ypos="151.447" zpos="243.711" type="leag.pof.vabbi.scourge.wp" GUID="sNNeAcQ9/EyRJPOWlZHP/g==" copy="[&BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
-        <POI MapID="1248" xpos="1273.38" ypos="191.897" zpos="-486.521" type="leag.pof.vabbi.scourge.wp" GUID="1A7HhYObb0as+w2n/IyE7w==" copy="[&BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
-        <POI MapID="1248" xpos="512.004" ypos="68.9481" zpos="69.4125" type="leag.pof.vabbi.scourge.wp" GUID="6+9tjB8whEyNK26mIuZNQg==" copy="[&BA8KAAA=]" copy-message="Vehtendi Academy Waypoint"/>
+        <POI MapID="1248" xpos="-1412.54" ypos="86.4803" zpos="614.441" type="leag.pof.vabbi.scourge.wp" GUID="VWcHS5P2HEyKM5Jb5PAdyA==" copy="[&amp;BEoKAAA=]" copy-message="Necropolis Waypoint"/>
+        <POI MapID="1248" xpos="-1227.71" ypos="135.4" zpos="-260.093" type="leag.pof.vabbi.scourge.wp" GUID="HN274OgVWUeJ0PkQKNwlNw==" copy="[&amp;BEoKAAA=]" copy-message="Necropolis Waypoint"/>
+        <POI MapID="1248" xpos="-999.833" ypos="126.342" zpos="-737.781" type="leag.pof.vabbi.scourge.wp" GUID="9Hh1OfECTUy01LwoejuIgg==" copy="[&amp;BEoKAAA=]" copy-message="Necropolis Waypoint"/>
+        <POI MapID="1248" xpos="-366.026" ypos="125.641" zpos="-133.306" type="leag.pof.vabbi.scourge.wp" GUID="BRc27G2zk0OSiIJLaaueyg==" copy="[&amp;BNAKAAA=]" copy-message="Seborhin Waypoint"/>
+        <POI MapID="1248" xpos="945.937" ypos="5.85914" zpos="930.9" type="leag.pof.vabbi.scourge.wp" GUID="htWxRFIe8kKLHAjUA8pzng==" copy="[&amp;BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
+        <POI MapID="1248" xpos="1420.27" ypos="151.447" zpos="243.711" type="leag.pof.vabbi.scourge.wp" GUID="sNNeAcQ9/EyRJPOWlZHP/g==" copy="[&amp;BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
+        <POI MapID="1248" xpos="1273.38" ypos="191.897" zpos="-486.521" type="leag.pof.vabbi.scourge.wp" GUID="1A7HhYObb0as+w2n/IyE7w==" copy="[&amp;BHQKAAA=]" copy-message="Market Ruins Waypoint"/>
+        <POI MapID="1248" xpos="512.004" ypos="68.9481" zpos="69.4125" type="leag.pof.vabbi.scourge.wp" GUID="6+9tjB8whEyNK26mIuZNQg==" copy="[&amp;BA8KAAA=]" copy-message="Vehtendi Academy Waypoint"/>
         <POI MapID="1248" xpos="-571.817" ypos="117.3514" zpos="-422.7876" type="leag.pof.vabbi.scourge.1" GUID="+hs3rIVYa0u/v/mGtHGaSw=="/>
         <POI MapID="1248" xpos="-576.3594" ypos="116.096" zpos="-426.0884" type="leag.pof.vabbi.scourge.2" GUID="dXIeWpkhpUiZC0tax3dhtA=="/>
         <POI MapID="1248" xpos="-564.6011" ypos="117.5517" zpos="-429.2737" type="leag.pof.vabbi.scourge.3" GUID="y+79DsrNvUq9Ju07OJr0pQ=="/>

@@ -21,9 +21,11 @@
         <POI MapID="1595" xpos="546.552" ypos="33.2363" zpos="601.532" type="leag.voe.story.cultural.kestrel" GUID="1k47dZJrO0mFY+tcuiXeZg=="/>
         
         <POI MapID="1595" xpos="422.419" ypos="17.5167" zpos="518.401" type="leag.voe.story.beautiful" GUID="/fItBLsxTU6lFy8JJpFUCA=="/>
+        <!--
         <POI MapID="1595" xpos="442.711" ypos="40.5475" zpos="658.374" type="leag.voe.story.beautiful" GUID="9VjBFmUmBEa26ZDbXC2NHw=="/>
         <POI MapID="1595" xpos="545.245" ypos="-10.7617" zpos="814.635" type="leag.voe.story.beautiful" GUID="aezQEn8jAUyoTkocjS/96w=="/>
         <POI MapID="1595" xpos="368.035" ypos="1.82976" zpos="736.98" type="leag.voe.story.beautiful" GUID="dBpLnoBtEU+zYJb4CT32RQ=="/>
+        -->
         
         <POI MapID="1595" xpos="352.166" ypos="27.7428" zpos="174.95" type="leag.voe.story.wavehawks" GUID="LETeIAYoCkKQRnlW9K/PNA=="/>
 
@@ -88,13 +90,13 @@
         <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 11.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
         <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 9.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
         <Trail type="leag.voe.story.doorstep" trailData="Data/VoE/Story/The Doorstep of Divinity 8.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="00FF00"/>
-        <POI MapID="1593" xpos="698.701" ypos="34.8577" zpos="571.837" type="leag.voe.story.doorstep.wp" GUID="iBkk5Ov3VUSS+E/A55YRUw==" copy="[&BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
-        <POI MapID="1595" xpos="-291.116" ypos="2.22401" zpos="-809.656" type="leag.voe.story.doorstep.wp" GUID="KYAWpMUkV0iFMbfb8dP4sA==" copy="[&BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
-        <POI MapID="1595" xpos="184.222" ypos="-57.6422" zpos="-276.807" type="leag.voe.story.doorstep.wp" GUID="LqebU7pbXU+lr9R7tEpZmQ==" copy="[&BMwPAAA=]" copy-message="Hullgarden Pier Waypoint"/>
-        <POI MapID="1595" xpos="-465.529" ypos="0.229617" zpos="392.456" type="leag.voe.story.doorstep.wp" GUID="9FqvW40OD0SF9Q6rfiChrQ==" copy="[&BMAPAAA=]" copy-message="Foothold Bivouac Waypoint, Starlit Weald"/>
-        <POI MapID="1593" xpos="779.34" ypos="-0.0236305" zpos="-586.639" type="leag.voe.story.doorstep.wp" GUID="V/bGELAKn02+DaE/mnaTaQ==" copy="[&BMAPAAA=]" copy-message="Foothold Bivouac Waypoint"/>
-        <POI MapID="1593" xpos="-365.024" ypos="65.5621" zpos="-551.585" type="leag.voe.story.doorstep.wp" GUID="ixcKEZghtUWpsI6arbThsA==" copy="[&BJ4PAAA=]" copy-message="Priory Expedition Waypoint"/>
-        <POI MapID="1593" xpos="-544.295" ypos="104.679" zpos="351.237" type="leag.voe.story.doorstep.wp" GUID="TcyFC+IpqkuUoVjJi8k2CQ==" copy="[&BIoPAAA=]" copy-message="Hunter's Camp Waypoint"/>
+        <POI MapID="1593" xpos="698.701" ypos="34.8577" zpos="571.837" type="leag.voe.story.doorstep.wp" GUID="iBkk5Ov3VUSS+E/A55YRUw==" copy="[&amp;BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
+        <POI MapID="1595" xpos="-291.116" ypos="2.22401" zpos="-809.656" type="leag.voe.story.doorstep.wp" GUID="KYAWpMUkV0iFMbfb8dP4sA==" copy="[&amp;BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
+        <POI MapID="1595" xpos="184.222" ypos="-57.6422" zpos="-276.807" type="leag.voe.story.doorstep.wp" GUID="LqebU7pbXU+lr9R7tEpZmQ==" copy="[&amp;BMwPAAA=]" copy-message="Hullgarden Pier Waypoint"/>
+        <POI MapID="1595" xpos="-465.529" ypos="0.229617" zpos="392.456" type="leag.voe.story.doorstep.wp" GUID="9FqvW40OD0SF9Q6rfiChrQ==" copy="[&amp;BMAPAAA=]" copy-message="Foothold Bivouac Waypoint, Starlit Weald"/>
+        <POI MapID="1593" xpos="779.34" ypos="-0.0236305" zpos="-586.639" type="leag.voe.story.doorstep.wp" GUID="V/bGELAKn02+DaE/mnaTaQ==" copy="[&amp;BMAPAAA=]" copy-message="Foothold Bivouac Waypoint"/>
+        <POI MapID="1593" xpos="-365.024" ypos="65.5621" zpos="-551.585" type="leag.voe.story.doorstep.wp" GUID="ixcKEZghtUWpsI6arbThsA==" copy="[&amp;BJ4PAAA=]" copy-message="Priory Expedition Waypoint"/>
+        <POI MapID="1593" xpos="-544.295" ypos="104.679" zpos="351.237" type="leag.voe.story.doorstep.wp" GUID="TcyFC+IpqkuUoVjJi8k2CQ==" copy="[&amp;BIoPAAA=]" copy-message="Hunter's Camp Waypoint"/>
         <POI MapID="1595" xpos="177.676" ypos="-65.7477" zpos="197.284" type="leag.voe.story.doorstep.sample" GUID="wyfhozmjb0yjmtyg9rT0GQ=="/>
         <POI MapID="1595" xpos="-463.686" ypos="0.80409" zpos="390.23" type="leag.voe.story.doorstep.shard" GUID="IPKMWZUZw0+aabmP1MT2vA=="/>
         <POI MapID="1595" xpos="-289.137" ypos="2.29439" zpos="-807.022" type="leag.voe.story.doorstep.asrsketch" GUID="JUg1l08l306MLU+XYwiJ8w=="/>

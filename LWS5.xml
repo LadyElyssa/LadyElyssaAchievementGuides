@@ -107,9 +107,9 @@
         <Trail type="leag.lws5.bjora.idolatry" trailData="Data/LWS5/Idolatry 2.trl" color="5BA4C6"/>
         <Trail type="leag.lws5.bjora.idolatry" trailData="Data/LWS5/Idolatry 3.trl" color="5BA4C6"/>
         <Trail type="leag.lws5.bjora.idolatry" trailData="Data/LWS5/Idolatry 4.trl" color="5BA4C6"/>
-        <POI MapID="1343" xpos="1100.66" ypos="181.873" zpos="496.881" type="leag.lws5.bjora.idolatry.wp" GUID="Eswv5bUkKEyYzGjaJiABAA==" copy="[&BCcMAAA=]" copy-message="Jora's Keep Waypoint"/>
-        <POI MapID="1343" xpos="267.371" ypos="154.465" zpos="-106.694" type="leag.lws5.bjora.idolatry.wp" GUID="ZIuZs1KKsk+9x7dycWyctg==" copy="[&BDkMAAA=]" copy-message="Still Waters Speaking Waypoint"/>
-        <POI MapID="1343" xpos="-691.938" ypos="67.653" zpos="29.1918" type="leag.lws5.bjora.idolatry.wp" GUID="dahA0zN3ekOteUDLSfssHA==" copy="[&BDkMAAA=]" copy-message="Still Waters Speaking Waypoint"/>
+        <POI MapID="1343" xpos="1100.66" ypos="181.873" zpos="496.881" type="leag.lws5.bjora.idolatry.wp" GUID="Eswv5bUkKEyYzGjaJiABAA==" copy="[&amp;BCcMAAA=]" copy-message="Jora's Keep Waypoint"/>
+        <POI MapID="1343" xpos="267.371" ypos="154.465" zpos="-106.694" type="leag.lws5.bjora.idolatry.wp" GUID="ZIuZs1KKsk+9x7dycWyctg==" copy="[&amp;BDkMAAA=]" copy-message="Still Waters Speaking Waypoint"/>
+        <POI MapID="1343" xpos="-691.938" ypos="67.653" zpos="29.1918" type="leag.lws5.bjora.idolatry.wp" GUID="dahA0zN3ekOteUDLSfssHA==" copy="[&amp;BDkMAAA=]" copy-message="Still Waters Speaking Waypoint"/>
         <POI MapID="1343" xpos="1122.14" ypos="47.6583" zpos="-131.027" type="leag.lws5.bjora.idolatry.start" GUID="NYAh+X87bUmWSPtehrD5vg=="/>
         <POI MapID="1343" xpos="1123.78" ypos="47.6603" zpos="-122.986" type="leag.lws5.bjora.idolatry.1" GUID="ggys8Q2o6EOVICJ9uu0pBQ=="/>
         <POI MapID="1343" xpos="1132.79" ypos="47.6629" zpos="-121.904" type="leag.lws5.bjora.idolatry.2" GUID="hfvIuyrixkGizVHGXmrjhw=="/>
@@ -273,9 +273,9 @@
         <Trail type="leag.lws5.grothmar.historian" trailData="Data/LWS5/Grothmar Valley Historian 2.trl"/>
         <Trail type="leag.lws5.grothmar.historian" trailData="Data/LWS5/Grothmar Valley Historian 3.trl"/>
         <Trail type="leag.lws5.grothmar.historian" trailData="Data/LWS5/Grothmar Valley Historian 4.trl"/>
-        <POI MapID="1330" xpos="361.436" ypos="81.7098" zpos="428.066" type="leag.lws5.grothmar.historian.wp" GUID="kAB3HqSIB0qpyOfTk+1jUw==" copy="[&BA4MAAA=]" copy-message="Dalada Forest Waypoint"/>
-        <POI MapID="1330" xpos="576.384" ypos="0.657579" zpos="-89.0442" type="leag.lws5.grothmar.historian.wp" GUID="Cj4Tgtfv2k+W2R9VT01mtw==" copy="[&BBsMAAA=]" copy-message="Blood Keep Waypoint"/>
-        <POI MapID="1330" xpos="-162.218" ypos="-2.39493" zpos="-609.182" type="leag.lws5.grothmar.historian.wp" GUID="xzUUwoX6ZUWrb29fovf+og==" copy="[&BPgLAAA=]" copy-message="Wardowns Waypoint"/>
+        <POI MapID="1330" xpos="361.436" ypos="81.7098" zpos="428.066" type="leag.lws5.grothmar.historian.wp" GUID="kAB3HqSIB0qpyOfTk+1jUw==" copy="[&amp;BA4MAAA=]" copy-message="Dalada Forest Waypoint"/>
+        <POI MapID="1330" xpos="576.384" ypos="0.657579" zpos="-89.0442" type="leag.lws5.grothmar.historian.wp" GUID="Cj4Tgtfv2k+W2R9VT01mtw==" copy="[&amp;BBsMAAA=]" copy-message="Blood Keep Waypoint"/>
+        <POI MapID="1330" xpos="-162.218" ypos="-2.39493" zpos="-609.182" type="leag.lws5.grothmar.historian.wp" GUID="xzUUwoX6ZUWrb29fovf+og==" copy="[&amp;BPgLAAA=]" copy-message="Wardowns Waypoint"/>
         <POI MapID="1330" xpos="-312.645" ypos="29.6462" zpos="-50.6305" type="leag.lws5.grothmar.historian.start" GUID="FF2mVL+9NkKgfa49gn9nJA=="/>
         <POI MapID="1330" xpos="-306.873" ypos="29.5997" zpos="-33.5703" type="leag.lws5.grothmar.historian.path.1" GUID="jPjWgNPN1UONYcMHV1SfNQ=="/>
         <POI MapID="1330" xpos="-293.88" ypos="29.4808" zpos="-3.61224" type="leag.lws5.grothmar.historian.glider" GUID="TJj7ocLICE69VKByLemf7A=="/>
@@ -559,27 +559,27 @@
         <Trail type="leag.lws5.drizzlewood.shards" trailData="Data/LWS5/4 - Jormag Rising/Shards of Jormag.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" color="3AC2E8"/>
 
         <POI MapID="1370" xpos="-80.4976" ypos="5.94483" zpos="115.307" type="leag.lws5.drizzlewood.spiritual.talk" GUID="MHKRFZH+Z0qanGjbLlZMLQ=="/>
-        <POI MapID="1370" xpos="-80.5909" ypos="1.92363" zpos="113.401" type="leag.lws5.drizzlewood.spiritual.wp" GUID="jRa7AbHMzUSQkW5JLtsq+A==" copy="[&BMEAAAA=]" copy-message="Owl Waypoint, Snowden Drifts"/>
+        <POI MapID="1370" xpos="-80.5909" ypos="1.92363" zpos="113.401" type="leag.lws5.drizzlewood.spiritual.wp" GUID="jRa7AbHMzUSQkW5JLtsq+A==" copy="[&amp;BMEAAAA=]" copy-message="Owl Waypoint, Snowden Drifts"/>
         <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
         <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 1b.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
-        <POI MapID="31" xpos="1029.56" ypos="167.573" zpos="-378.413" type="leag.lws5.drizzlewood.spiritual.wp" GUID="DM+/IZah/0aqrWUDVpIKHg==" copy="[&BOsAAAA=]" copy-message="Thunderhorns Waypoint, Lornar's Pass"/>
+        <POI MapID="31" xpos="1029.56" ypos="167.573" zpos="-378.413" type="leag.lws5.drizzlewood.spiritual.wp" GUID="DM+/IZah/0aqrWUDVpIKHg==" copy="[&amp;BOsAAAA=]" copy-message="Thunderhorns Waypoint, Lornar's Pass"/>
         <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
         <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 2b.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
         <POI MapID="27" xpos="439.508" ypos="230.608" zpos="1083.9" type="leag.lws5.drizzlewood.spiritual.icon" GUID="YavFu3csI0ibl0HMKkUk8w=="/>
-        <POI MapID="27" xpos="415.933" ypos="199.708" zpos="1051.35" type="leag.lws5.drizzlewood.spiritual.wp" GUID="HF2cG97OeEOGD+zP2sN/5Q==" copy="[&BIwDAAA=]" copy-message="Legends Waypoint, Hoelbrak"/>
+        <POI MapID="27" xpos="415.933" ypos="199.708" zpos="1051.35" type="leag.lws5.drizzlewood.spiritual.wp" GUID="HF2cG97OeEOGD+zP2sN/5Q==" copy="[&amp;BIwDAAA=]" copy-message="Legends Waypoint, Hoelbrak"/>
         <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
         <POI MapID="326" xpos="590.452" ypos="279.949" zpos="-48.9182" type="leag.lws5.drizzlewood.spiritual.icon" GUID="bYeatG4K8UmMHzL+5F9e2Q=="/>
-        <POI MapID="326" xpos="590.452" ypos="279.949" zpos="-48.9182" type="leag.lws5.drizzlewood.spiritual.wp" GUID="2sSfnhFtKEanEyN28Ojxjg==" copy="[&BHsBAAA=]" copy-message="Dolyak Pass Waypoint, Wayfarer Foothills"/>
+        <POI MapID="326" xpos="590.452" ypos="279.949" zpos="-48.9182" type="leag.lws5.drizzlewood.spiritual.wp" GUID="2sSfnhFtKEanEyN28Ojxjg==" copy="[&amp;BHsBAAA=]" copy-message="Dolyak Pass Waypoint, Wayfarer Foothills"/>
         <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 4.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
         <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 5.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
         <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 5b.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
         <POI MapID="28" xpos="340.843" ypos="132.996" zpos="1024.12" type="leag.lws5.drizzlewood.spiritual.icon" GUID="rz46OcRAxEu2BeIACXRFJA=="/>
         <POI MapID="897" xpos="-232.175" ypos="169.138" zpos="-363.093" type="leag.lws5.drizzlewood.spiritual.icon" GUID="1Js70ew+ZU+Ll+zDDuKxgQ=="/>
-        <POI MapID="897" xpos="-374.898" ypos="201.438" zpos="-96.009" type="leag.lws5.drizzlewood.spiritual.wp" GUID="vMv2tX4xxUOYVqdy3NiQuQ==" copy="[&BHoCAAA=]" copy-message="Earthshake Waypoint, Frostgorge Sound"/>
+        <POI MapID="897" xpos="-374.898" ypos="201.438" zpos="-96.009" type="leag.lws5.drizzlewood.spiritual.wp" GUID="vMv2tX4xxUOYVqdy3NiQuQ==" copy="[&amp;BHoCAAA=]" copy-message="Earthshake Waypoint, Frostgorge Sound"/>
         <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 6.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
         <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 6b.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
         <POI MapID="30" xpos="811.022" ypos="63.1492" zpos="282.06" type="leag.lws5.drizzlewood.spiritual.icon" GUID="3VeZv2sxS0OeRFtdUs7EkA=="/>
-        <POI MapID="30" xpos="829.483" ypos="113.71" zpos="604.333" type="leag.lws5.drizzlewood.spiritual.wp" GUID="rCoyeIgszUGtdD8i1FVUWQ==" copy="[&BHIMAAA=]" copy-message="Forward Camp Waypoint, Drizzlewood Coast"/>
+        <POI MapID="30" xpos="829.483" ypos="113.71" zpos="604.333" type="leag.lws5.drizzlewood.spiritual.wp" GUID="rCoyeIgszUGtdD8i1FVUWQ==" copy="[&amp;BHIMAAA=]" copy-message="Forward Camp Waypoint, Drizzlewood Coast"/>
         <POI MapID="1371" xpos="-306.094" ypos="123.004" zpos="992.617" type="leag.lws5.drizzlewood.spiritual.icon" GUID="a8oC1i8anky8y/NC2FCAvw=="/>
         <Trail type="leag.lws5.drizzlewood.spiritual" trailData="Data/LWS5/4 - Jormag Rising/Spiritual Renewal 7.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
 
