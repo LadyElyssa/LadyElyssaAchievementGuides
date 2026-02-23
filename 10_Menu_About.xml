@@ -1,30 +1,44 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" texture="Data/Images/Trails/Trail Marker 1.png" animSpeed="0.8" alpha="1.0" fadeNear="2000" fadeFar="4000" mapDisplaySize="16">
         <MarkerCategory name="about" DisplayName="About">
-            <MarkerCategory name="version" DisplayName="Version    :: 5.5"/>
+            <MarkerCategory name="version" DisplayName="Version    :: 5.6"/>
             <MarkerCategory name="partner" IsSeparator="1" DisplayName="ARENANET PARTNER"/>
             <MarkerCategory name="gw2" DisplayName="GW2       :: Lady Elyssa.2469"/>
             <MarkerCategory name="github" DisplayName="Github     :: https://github.com/LadyElyssa/"/>
-            <MarkerCategory name="discord" DisplayName="Discord    :: https://discord.gg/XwAqz6jCdv"/>
+            <MarkerCategory name="discord" DisplayName="Discord    :: https://discord.gg/t6jMb6qgjB"/>
             <MarkerCategory name="wikiuser" DisplayName="GW2 Wiki  :: https://wiki.guildwars2.com/wiki/User:Lady Elyssa"/>
+
             <MarkerCategory name="credits" IsSeparator="1" DisplayName="CREDITS"/>
             <MarkerCategory name="anet" DisplayName="ArenaNet"/>
+            <MarkerCategory name="wikikrewe" DisplayName="The Wiki Krewe"/>
+            <MarkerCategory name="community" DisplayName="The Guild Wars 2 Community"/>
+
+            <MarkerCategory name="content" IsSeparator="1" DisplayName="CONTENT CREATORS"/>
+            <MarkerCategory name="guides" DisplayName="Ayin, Dulfy &amp; Guild Jen's Guides"/>
+            <MarkerCategory name="amaverra" DisplayName="Amaverra on Twitch &amp; Youtube"/>
+            <MarkerCategory name="atoa" DisplayName="Atoa Na Lagoa on Twitch &amp; Youtube"/>
+            <MarkerCategory name="darens" DisplayName="Darens on Youtube"/>
+            <MarkerCategory name="phandrel" DisplayName="Phandrel on Twitch &amp; Youtube"/>
+            <MarkerCategory name="uai" DisplayName="Uai Bora on Youtube"/>
+            <MarkerCategory name="skarzi" DisplayName="Uncle Skarzi on Twitch"/>
+            <MarkerCategory name="xayeka" DisplayName="Xayeka on Youtube"/>
+            
+            <MarkerCategory name="contributors" IsSeparator="1" DisplayName="CONTRIBUTORS"/>
             <MarkerCategory name="emz" DisplayName="Emz"/>
-            <MarkerCategory name="freesnow" Displayname="Freesn&#xf6;w [BlishHUD]"/>
-            <MarkerCategory name="mmm" DisplayName="Metallis"/>
             <MarkerCategory name="sab" DisplayName="Sab"/>
             <MarkerCategory name="sha" DisplayName="Sha"/>
             <MarkerCategory name="tanetris" DisplayName="Tanetris"/>
-            <MarkerCategory name="tekkit" DisplayName="Tekkit [GW2TacO]"/>
-            <MarkerCategory name="wikikrewe" DisplayName="The Wiki Krewe"/>
+            <MarkerCategory name="twelve" DisplayName="Twelvetables"/>
+            <MarkerCategory name="zen" DisplayName="Zen"/>
             <MarkerCategory name="followers" DisplayName="My GW2 Followers"/>
             <MarkerCategory name="git" DisplayName="My Github Contributors"/>
-            <MarkerCategory name="community" DisplayName="The Guild Wars 2 Community"/>
-            <MarkerCategory name="hon" IsSeparator="1" DisplayName="HONOURABLE MENTIONS"/>
-            <MarkerCategory name="guides" DisplayName="Ayin, Dulfy &amp; Guild Jen's Guides"/>
-            <MarkerCategory name="amaverra" DisplayName="Amaverra on Twitch &amp; Youtube"/>
-            <MarkerCategory name="darens" DisplayName="Darens on Youtube"/>
-            <MarkerCategory name="phandrel" DisplayName="Phandrel on Twitch &amp; Youtube"/>
+
+            <MarkerCategory name="mpt" IsSeparator="1" DisplayName="MARKER PACK TOOLS"/>
+            <MarkerCategory name="freesnow" Displayname="Freesn&#xf6;w [BlishHUD]"/>
+            <MarkerCategory name="mmm" DisplayName="Metallis"/>  
+            <MarkerCategory name="teh" DisplayName="Teh [MPT]"/>
+            <MarkerCategory name="tekkit" DisplayName="Tekkit [GW2TacO]"/>
+            
         </MarkerCategory>
     </MarkerCategory>
 </OverlayData>

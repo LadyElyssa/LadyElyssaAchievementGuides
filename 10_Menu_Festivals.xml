@@ -3,7 +3,7 @@
         <!-- ACHIEVEMENTS -->
 
         <MarkerCategory name="festivals" DisplayName="Festivals">
-            <MarkerCategory name="fotfw"  DisplayName="Festival of the Four Winds" festival="festivalofthefourwinds" bh-festival="festivalofthefourwinds">
+            <MarkerCategory name="fotfw"  DisplayName="Festival of the Four Winds" bh-festival="festivalofthefourwinds">
             <MarkerCategory name="lc"     IsSeparator="1" DisplayName="LABYRINTHINE CLIFFS"/>
             <MarkerCategory name="aspect" DisplayName="Aspect Gatherer">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -62,7 +62,7 @@
             <MarkerCategory name="pp" DisplayName="Pirate Purger" inGameVisibility="0"/>
         </MarkerCategory>
 
-        <MarkerCategory name="halloween" DisplayName="Halloween" texture="Data/Images/Trails/Candy Gradient.png" animSpeed="0.6" fadeNear="1200" fadeFar="2400" festival="halloween" bh-festival="halloween">
+        <MarkerCategory name="halloween" DisplayName="Halloween" texture="Data/Images/Trails/Candy Gradient.png" animSpeed="0.6" fadeNear="1200" fadeFar="2400" bh-festival="halloween">
             <MarkerCategory name="clocktower" DisplayName="Clocktower" texture="Data/Images/Trails/Candy Gradient.png" animSpeed="0"/>
             <!--
             <MarkerCategory name="court" DisplayName="Court Duty">
@@ -412,7 +412,7 @@
         </MarkerCategory>
 
         <!-- WINTERSDAY -->
-        <MarkerCategory name="wintersday"  DisplayName="Wintersday" texture="Data/Images/Trails/Trail Pointer - Wintersday.png" festival="wintersday" bh-festival="wintersday">
+        <MarkerCategory name="wintersday"  DisplayName="Wintersday" texture="Data/Images/Trails/Trail Pointer - Wintersday.png" bh-festival="wintersday">
             <MarkerCategory name="finders" DisplayName="Finders Keepers"/>
             <MarkerCategory name="grawnk" DisplayName="Grawnk Munch">
                 <MarkerCategory name="home" DisplayName="Home Instance" mapDisplaySize="8"/>

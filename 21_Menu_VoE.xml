@@ -48,7 +48,9 @@
                 
                 <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: Truths Unearthed"/>
                 <MarkerCategory name="beatem" DisplayName="If You Can't Beat 'Em" achievementId="9075" iconFile="Data/Images/Emote - Dance.png" maxSize="16" heightOffset="-0.5"/>
-                <MarkerCategory name="swift" DisplayName="Swift Skimming" achievementId="9079" iconFile="Data/Images/Icons/Targeted Object - Green.png" maxSize="32" heightOffset="-0.2"/>
+                <MarkerCategory name="swift" DisplayName="Swift Skimming" achievementId="9079" iconFile="Data/Images/Icons/Targeted Object - Green.png" maxSize="32" heightOffset="-0.2">
+                    <MarkerCategory name="trail" DisplayName="Trail"/>
+                </MarkerCategory>
                 
                 <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: Beneath the Canopy"/>
                 <MarkerCategory name="agents" DisplayName="Track down scouts around Foothold Bivouac" achievementId="9017">
@@ -395,20 +397,20 @@
                 </MarkerCategory>
                 
                 <MarkerCategory name="tomes" DisplayName="Tropical Tomes" achievementId="8894" iconFile="Data/Images/Icons/Journal Fragment.png" maxSize="16" mapDisplaySize="32">
-                    <MarkerCategory name="letter" DisplayName="Letter" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
-                    <MarkerCategory name="record" DisplayName="Transaction Record" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
-                    <MarkerCategory name="whales" DisplayName="On the Beaching of Whales" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
-                    <MarkerCategory name="captain" DisplayName="Captain's Journal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
-                    <MarkerCategory name="arrival" DisplayName="Peculiar Arrival" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
-                    <MarkerCategory name="westergard" DisplayName="Westergard's Journal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
-                    <MarkerCategory name="osborne" DisplayName="Osborn'e Journal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
-                    <MarkerCategory name="notice" DisplayName="Notice: Procedure for handling new castaways" iconFile="Data/Images/Icons/Talk.png" maxSize="16" info="Requires: Tier 2 Hullgarden Renown Mastery" infoRange="5"/>
-                    <MarkerCategory name="tattered" DisplayName="Tattered Journal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
-                    <MarkerCategory name="jernal" DisplayName="My Jernal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16"/>
+                    <MarkerCategory name="letter" DisplayName="Letter" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" achievementBit="0"/>
+                    <MarkerCategory name="record" DisplayName="Transaction Record" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" achievementBit="1"/>
+                    <MarkerCategory name="whales" DisplayName="On the Beaching of Whales" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" achievementBit="2"/>
+                    <MarkerCategory name="captain" DisplayName="Captain's Journal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" achievementBit="3"/>
+                    <MarkerCategory name="arrival" DisplayName="Peculiar Arrival" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" achievementBit="4"/>
+                    <MarkerCategory name="westergard" DisplayName="Westergard's Journal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" achievementBit="5"/>
+                    <MarkerCategory name="osborne" DisplayName="Osborn'e Journal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" achievementBit="6"/>
+                    <MarkerCategory name="notice" DisplayName="Notice: Procedure for handling new castaways" iconFile="Data/Images/Icons/Talk.png" maxSize="16" info="Requires: Tier 2 Hullgarden Renown Mastery" infoRange="5" achievementBit="7"/>
+                    <MarkerCategory name="tattered" DisplayName="Tattered Journal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" achievementBit="8"/>
+                    <MarkerCategory name="jernal" DisplayName="My Jernal" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" achievementBit="9"/>
                     <MarkerCategory name="req" IsSeparator="1" DisplayName="REQUIRE: Tier 3 Hullgarden Renown Mastery"/>
-                    <MarkerCategory name="rock" DisplayName="The Lonely Rock" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.25"/>
-                    <MarkerCategory name="grammie" DisplayName="Grammie West's Best Recipe, Vol. 96" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.25"/>
-                    <MarkerCategory name="complaints" DisplayName="Complaints" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.25"/>
+                    <MarkerCategory name="rock" DisplayName="The Lonely Rock" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.25" achievementBit="10"/>
+                    <MarkerCategory name="grammie" DisplayName="Grammie West's Best Recipe, Vol. 96" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.25" achievementBit="11"/>
+                    <MarkerCategory name="complaints" DisplayName="Complaints" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.25" achievementBit="12"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="skritcher" DisplayName="Wavehawk Scritcher" achievementId="8981" iconFile="Data/Images/Icons/Wavehawk.png" inGameVisibility="0" mapDisplaySize="32">

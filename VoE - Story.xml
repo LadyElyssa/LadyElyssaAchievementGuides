@@ -46,6 +46,7 @@
         <POI MapID="1595" xpos="-538.166" ypos="15.9281" zpos="-436.594" type="leag.voe.story.overindulgence" GUID="SyRV/EtxAkOKOPUdhAwwew=="/>
 
         <!-- CHAPTER 4: Truths Unearthed -->
+        <Trail type="leag.voe.story.swift.trail" trailData="Data/VoE/Story/Swift Skimming.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
         <POI MapID="1595" xpos="-151.871" ypos="0.465811" zpos="49.1378" type="leag.voe.story.swift" GUID="H60GV6VhfkmQ0tL4iU93BQ=="/>
         <POI MapID="1595" xpos="42.5208" ypos="0.40086" zpos="168.506" type="leag.voe.story.swift" GUID="8eO8VcV1iUmjGuQhT1GROg=="/>
         <POI MapID="1595" xpos="-12.3427" ypos="0.220468" zpos="343.403" type="leag.voe.story.swift" GUID="bkzE0vgW/kiQum9drcnxKg=="/>
