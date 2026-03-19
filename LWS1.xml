@@ -33,6 +33,12 @@
         <POI MapID="32" xpos="-812.945" ypos="93.3824" zpos="346.995" type="leag.lws1.diessa.laf.dirt" GUID="OPTAxCCvzEalAhzwPJBk1w=="/>
         <POI MapID="32" xpos="-515.545" ypos="74.831" zpos="307.81" type="leag.lws1.diessa.laf.dirt" GUID="cgpPRQwJUkaCguOaM3OYdw=="/>
         <POI MapID="32" xpos="-783.781" ypos="71.4548" zpos="77.5454" type="leag.lws1.diessa.laf.dirt" GUID="cZ0Q5naO5kiaApCtneynQg=="/>
+        <POI MapID="32" xpos="-753.566" ypos="81.0719" zpos="298.233" type="leag.lws1.diessa.laf.dirt" GUID="rrcJMWdpM062d0D3TlrvJQ=="/>
+        <POI MapID="32" xpos="-763.364" ypos="90.6285" zpos="374.095" type="leag.lws1.diessa.laf.dirt" GUID="hPdN0gyHBEyrs8mwHSF15Q=="/>
+        <POI MapID="32" xpos="-535.233" ypos="29.2317" zpos="-423.973" type="leag.lws1.diessa.laf.dirt" GUID="ekqZWFDyZ0W6TtdVz2nirg=="/>
+        <POI MapID="32" xpos="-486.149" ypos="44.5767" zpos="-515.257" type="leag.lws1.diessa.laf.dirt" GUID="jzHaSm7W/0mGvvPiV/kifw=="/>
+        <!-- Submitted by Lhew-Lhea through Github -->
+        <POI MapID="32" xpos="-715.603" ypos="37.3752" zpos="5.12185" type="leag.lws1.diessa.laf.dirt" GUID="GxqOuGWdKECFV4jJsFn3bQ=="/>
         
         <!-- Lost and Found - Wayfarer Foothills -->
         <POI MapID="28" xpos="328.652" ypos="111.602" zpos="882.72" type="leag.lws1.wayfarer.laf.snow" GUID="1PVLwz565UaMQAO/THEJ3Q=="/>
@@ -51,6 +57,11 @@
         <POI MapID="28" xpos="-17.9609" ypos="109.434" zpos="404.099" type="leag.lws1.wayfarer.laf.snow" GUID="+uBEg3HWYkiCNiFwaXlHQA=="/>
         <POI MapID="28" xpos="46.7341" ypos="100.563" zpos="381.952" type="leag.lws1.wayfarer.laf.snow" GUID="lLPJa29McEG647dbRuMHCQ=="/>
         <POI MapID="28" xpos="362.296" ypos="124.561" zpos="918.566" type="leag.lws1.wayfarer.laf.snow" GUID="cjGm/2ivk06Jki4eoUjXOw=="/>
+        <POI MapID="28" xpos="174.317" ypos="175.483" zpos="1145.36" type="leag.lws1.wayfarer.laf.snow" GUID="EDZLOPXcMUa3hQGiMB68qQ=="/>
+        <POI MapID="28" xpos="431.503" ypos="75.8683" zpos="191.848" type="leag.lws1.wayfarer.laf.snow" GUID="8ovw7dvP+U6Cls7Z7agE6g=="/>
+        <POI MapID="28" xpos="332.663" ypos="112.39" zpos="889.543" type="leag.lws1.wayfarer.laf.snow" GUID="CutUcXrb70Ga19SwwsJjVw=="/>
+        <POI MapID="28" xpos="-0.035939" ypos="132.49" zpos="825.044" type="leag.lws1.wayfarer.laf.snow" GUID="TS8PyqGln0u/2f/ZIY2Flg=="/>
+        
 
         <!-- Molten Memorial -->
         <POI MapID="50" xpos="371.978" ypos="29.5842" zpos="332.211" type="leag.lws1.la.memorial.drawing" GUID="3/uhi/eR6k6g1dlODQ9dew=="/>

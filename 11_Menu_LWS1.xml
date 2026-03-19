@@ -135,19 +135,19 @@
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
             
-            <MarkerCategory name="bc" DisplayName="Black Citadel">
+            <MarkerCategory name="bc" DisplayName="Black Citadel" defaulttoggle="0">
                 <MarkerCategory name="memorial" DisplayName="Molten Memorial" achievementId="6548">
                     <MarkerCategory name="pages" DisplayName="Crumpled Pages" iconFile="Data/Images/Icons/Talk.png" heightOffset="4.0" MapDisplaySize="32"/>
                 </MarkerCategory>
             </MarkerCategory>
 
-            <MarkerCategory name="hb" DisplayName="Hoelbrak">
+            <MarkerCategory name="hb" DisplayName="Hoelbrak" defaulttoggle="0">
                 <MarkerCategory name="memorial" DisplayName="Molten Memorial" achievementId="6548">
                     <MarkerCategory name="letter" DisplayName="Torn Letter" iconFile="Data/Images/Icons/Talk.png" heightOffset="4.0" MapDisplaySize="32"/>
                 </MarkerCategory>
             </MarkerCategory>
 
-            <MarkerCategory name="la" DisplayName="Lion's Arch">
+            <MarkerCategory name="la" DisplayName="Lion's Arch" defaulttoggle="0">
                 <MarkerCategory name="memorial" DisplayName="Molten Memorial" achievementId="6548">
                     <MarkerCategory name="drawing" DisplayName="Crude Drawing" iconFile="Data/Images/Icons/Talk.png" heightOffset="4.0" MapDisplaySize="24"/>
                 </MarkerCategory>
@@ -156,7 +156,7 @@
                 </MarkerCategory>
             </MarkerCategory>
 
-            <MarkerCategory name="diessa" DisplayName="Diessa Plateau">
+            <MarkerCategory name="diessa" DisplayName="Diessa Plateau" defaulttoggle="0">
 
                 <MarkerCategory name="laf" DisplayName="Lost and Found (Yellow Circle)" achievementId="536">
                     <MarkerCategory name="dirt" DisplayName="Dirt-Covered Object" iconFile="Data/Images/Circlet.png" inGameVisibility="0" MapDisplaySize="32"/>
@@ -172,7 +172,7 @@
 
             </MarkerCategory>
 
-            <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills">
+            <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills" defaulttoggle="0">
 
                 <MarkerCategory name="laf" DisplayName="Lost and Found (Yellow Circle)" achievementId="536">
                     <MarkerCategory name="snow" DisplayName="Snow-Covered Object" iconFile="Data/Images/Circlet.png" inGameVisibility="0" MapDisplaySize="32"/>

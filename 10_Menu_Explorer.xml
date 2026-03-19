@@ -1,7 +1,7 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
         
-        <MarkerCategory name="explorer" DisplayName="Explorer">
+        <MarkerCategory name="explorer" DisplayName="Explorer" defaulttoggle="0">
 
             <MarkerCategory name="lae" DisplayName="Lion's Arch Exterminator" fadeNear="1600" fadeFar="3000" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" achievementId="2128">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>

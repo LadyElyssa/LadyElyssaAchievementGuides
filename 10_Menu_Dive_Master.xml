@@ -1,7 +1,7 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" texture="Data/Images/Trails/Trail Marker 1.png" animSpeed="0.8" alpha="1.0" fadeNear="2000" fadeFar="4000">
         <!-- ACHIEVEMENTS -->
-        <MarkerCategory name="goggles" DisplayName="Dive Master">     
+        <MarkerCategory name="goggles" DisplayName="Dive Master" defaulttoggle="0">     
             <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
             <MarkerCategory name="map" IsSeparator="1" DisplayName="  | MAP REGION"/>      

@@ -145,7 +145,7 @@
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
-            <MarkerCategory name="bjora" DisplayName="Bjora Marches">
+            <MarkerCategory name="bjora" DisplayName="Bjora Marches" defaulttoggle="0">
                 
                 <MarkerCategory name="eastbjora" IsSeparator="1" DisplayName="EAST BJORA MARCHES"/>
 
@@ -233,7 +233,6 @@
                 </MarkerCategory>
 
 
-
                 <MarkerCategory name="westbjora" IsSeparator="1" DisplayName="WEST BJORA MARCHES"/>
 
                 <MarkerCategory name="bountiful" DisplayName="A Bountiful Pastime" achievementId="5134">
@@ -265,10 +264,10 @@
                     </MarkerCategory>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="koda" DisplayName="Koda Be Praised" achievementId="5112"/>
@@ -292,7 +291,7 @@
             </MarkerCategory>
 
 
-            <MarkerCategory name="grothmar" DisplayName="Grothmar Valley">
+            <MarkerCategory name="grothmar" DisplayName="Grothmar Valley" defaulttoggle="0">
 
                 <MarkerCategory name="acp" DisplayName="A Carved Path">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -373,10 +372,10 @@
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" DisplayName="Path Number">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
@@ -457,7 +456,7 @@
                 </MarkerCategory>
             </MarkerCategory>
 
-            <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast">
+            <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast" defaulttoggle="0">
                 
                 <MarkerCategory name="ch3" IsSeparator="1" DisplayName="No Quarter"/>
 

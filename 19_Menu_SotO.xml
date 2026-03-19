@@ -80,11 +80,11 @@
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="achieves" IsSeparator="1" DisplayName="ACHIEVEMENTS"/>
-                <MarkerCategory name="tablet" DisplayName="Mysterious Tablet" iconFile="Data/Images/Numbers/1.png"/>
-                <MarkerCategory name="scroll" DisplayName="Ancient Scroll" iconFile="Data/Images/Numbers/2.png"/>
-                <MarkerCategory name="tome" DisplayName="Ancient Tome" iconFile="Data/Images/Numbers/3.png"/>
-                <MarkerCategory name="carapace" DisplayName="Shattered Kryptis Carapace" iconFile="Data/Images/Numbers/4.png"/>
-                <MarkerCategory name="weapons" DisplayName="Ancient Scroll of Astral Ward Weapons" iconFile="Data/Images/Numbers/5.png"/>
+                <MarkerCategory name="tablet" DisplayName="Mysterious Tablet" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="scroll" DisplayName="Ancient Scroll" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="tome" DisplayName="Ancient Tome" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="carapace" DisplayName="Shattered Kryptis Carapace" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="weapons" DisplayName="Ancient Scroll of Astral Ward Weapons" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>
 
             <MarkerCategory name="ch15" IsSeparator="1" DisplayName="CHAPTER 15"/>
@@ -115,7 +115,7 @@
 
         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
-        <MarkerCategory name="am" DisplayName="Amnytas">
+        <MarkerCategory name="am" DisplayName="Amnytas" defaulttoggle="0">
         <MarkerCategory name="apk" DisplayName="A Promise Kept [H] (Do Comrades in Arms First)" defaulttoggle="0" achievementId="7059">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="basil" DisplayName="Basil"/>
@@ -132,15 +132,15 @@
         <MarkerCategory name="fff" DisplayName="Fantastic Flying Foxes" texture="Data/Images/Trails/Trail Marker 2.png" achievementId="7034">
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
-                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
-                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
-                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
-                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>
             <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
             <MarkerCategory name="1" DisplayName="1. Bastion of Strength" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
@@ -173,27 +173,27 @@
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                 <MarkerCategory name="1" DisplayName="Nature's riches."/>
-                <MarkerCategory name="2" DisplayName="Some seek knowledge; others seek treasure." iconFile="Data/Images/Numbers/2.png"/>
-                <MarkerCategory name="3" DisplayName="Only the strong may uncover certain fortunes." iconFile="Data/Images/Numbers/3.png"/>
-                <MarkerCategory name="4" DisplayName="True balance is worth more than gold." iconFile="Data/Images/Numbers/4.png"/>
-                <MarkerCategory name="5" DisplayName="Not everything is as it seems..." iconFile="Data/Images/Numbers/5.png"/>
-                <MarkerCategory name="6" DisplayName="Shining like a star." iconFile="Data/Images/Numbers/6.png"/>
+                <MarkerCategory name="2" DisplayName="Some seek knowledge; others seek treasure." iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="3" DisplayName="Only the strong may uncover certain fortunes." iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="4" DisplayName="True balance is worth more than gold." iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="5" DisplayName="Not everything is as it seems..." iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="6" DisplayName="Shining like a star." iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
         </MarkerCategory>
         <MarkerCategory name="ia" DisplayName="Illuminating Amnytas (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" defaulttoggle="0" achievementId="7053">
-            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
             <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Yellow.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
-                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
-                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
-                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
-                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
         </MarkerCategory>
@@ -231,7 +231,7 @@
         <MarkerCategory name="wtwp" DisplayName="Wrong Time, Wrong Place" achievementId="6988"/>
         </MarkerCategory>
 
-        <MarkerCategory name="in" DisplayName="Inner Nayos">
+        <MarkerCategory name="in" DisplayName="Inner Nayos" defaulttoggle="0">
         <MarkerCategory name="war" DisplayName="A Record of War" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png" achievementId="7830">
             <MarkerCategory name="balance" IsSeparator="1" DisplayName="  : Balance"/>
             <MarkerCategory name="b1" DisplayName="1. Agathine at the Old Settlement."/>
@@ -291,12 +291,12 @@
             <MarkerCategory name="hint" DisplayName="Heitor's Gate"/>
         </MarkerCategory>
         <MarkerCategory name="iin" DisplayName="Illuminating Inner Nayos (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" defaulttoggle="0" achievementId="7809">
-            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
             <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Yellow.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
-                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
         </MarkerCategory>
@@ -402,7 +402,7 @@
         </MarkerCategory>
         </MarkerCategory>
 
-        <MarkerCategory name="sa" DisplayName="Skywatch Archipelago">
+        <MarkerCategory name="sa" DisplayName="Skywatch Archipelago" defaulttoggle="0">
         <MarkerCategory name="back" DisplayName="...Back Again" achievementId="7202"/>
         <MarkerCategory name="dtt" DisplayName="Don't Think Twice" achievementId="7379">
             <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
@@ -418,19 +418,19 @@
         </MarkerCategory>
 
         <MarkerCategory name="isa" DisplayName="Illuminating Skywatch Archipelago (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" defaulttoggle="0" achievementId="7126">
-            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
+            <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
             <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Yellow.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
-                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
-                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
-                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
-                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
-                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
         </MarkerCategory>
@@ -443,15 +443,15 @@
         <MarkerCategory name="ras" DisplayName="Rise and Shrine" texture="Data/Images/Trails/Trail Marker 2.png" achievementId="7055">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
-                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
-                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
-                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
-                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
             <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
@@ -500,7 +500,7 @@
         <MarkerCategory name="there" DisplayName="There and..." achievementId="7092"/>
         </MarkerCategory>
 
-        <MarkerCategory name="twt" DisplayName="The Wizard's Tower">
+        <MarkerCategory name="twt" DisplayName="The Wizard's Tower" defaulttoggle="0">
         <MarkerCategory name="cia" DisplayName="Comrades in Arms [H] " iconFile="Data/Images/Circle.png" behavior="3" triggerRange="5" autoTrigger="1" inGameVisibility="1" achievementId="6979" defaulttoggle="0">
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
             <MarkerCategory name="1" DisplayName="1. Meeting Hortensia"/>

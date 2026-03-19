@@ -45,10 +45,10 @@
 
                 <MarkerCategory name="stimulus" DisplayName="Stimulus and Response" achievementId="4101">
                     <MarkerCategory name="number" DisplayName="Numbers" maxSize="16" miniMapVisibility="0" mapVisibility="0">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <!-- End Numbers -->
                 </MarkerCategory>
@@ -107,7 +107,7 @@
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
-            <MarkerCategory name="istan" DisplayName="Domain of Istan">
+            <MarkerCategory name="istan" DisplayName="Domain of Istan" defaulttoggle="0">
                 <MarkerCategory name="bookworm" DisplayName="Bookworm" iconFile="Data/Images/Orb - Dark Yellow.png" maxSize="12" heightOffset="-0.5" mapDisplaySize="24" achievementId="3999"/>
                 <MarkerCategory name="corsair" DisplayName="Corsair Keepsakes" achievementId="3958">
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
@@ -139,16 +139,16 @@
                     </MarkerCategory>
                     <!-- End Mounts -->
                     <MarkerCategory name="number" DisplayName="Trail Segment">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <!-- End Numbers -->
                 </MarkerCategory>
             </MarkerCategory>
 
-            <MarkerCategory name="kourna" DisplayName="Domain of Kourna">
+            <MarkerCategory name="kourna" DisplayName="Domain of Kourna" defaulttoggle="0">
                 <MarkerCategory name="crab" DisplayName="Crab Kickin' [H]" iconFile="Data/Images/Icons/Surly Crab.png" defaulttoggle="0" mapDisplaySize="32" inGameVisibility="0" achievementId="4222" tip-name="Crab Kickin'"/>
                 <MarkerCategory name="choya" DisplayName="Dances with Cacti" iconFile="Data/Images/Icons/Choya.png" mapDisplaySize="32" inGameVisibility="0" achievementId="4203" tip-name="Dances with Cacti"/>
                 <MarkerCategory name="debbie" DisplayName="Debbie's Cakes" iconFile="Data/Images/Icons/Debbie's Cake.png" mapDisplaySize="32" inGameVisibility="0" achievementId="4204" tip-name="Debbie's Cakes"/>
@@ -217,7 +217,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-                <MarkerCategory name="hero" DisplayName="More Than a Hero" achievementId="4207">
+                <MarkerCategory name="hero" DisplayName="More Than a Hero" achievementId="4207" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="talk" DisplayName="Talk to Lady Camilla" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
                     <MarkerCategory name="banner" IsSeparator="1" DisplayName="Banner of the Commander"/>
@@ -235,7 +235,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-                <MarkerCategory name="symbol" DisplayName="More Than a Hero, A Symbol" achievementId="4186">
+                <MarkerCategory name="symbol" DisplayName="More Than a Hero, A Symbol" achievementId="4186" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="talk" DisplayName="Talk to Lady Camilla" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
                     <MarkerCategory name="banner" IsSeparator="1" DisplayName="Banner of the Dauntless Commander"/>
@@ -253,7 +253,7 @@
                         <MarkerCategory name="merit" DisplayName="Inventor's Merit" iconFile="data/images/icons/inventor's merit.png" mapDisplaySize="64" inGameVisibility="0"/>
                     </MarkerCategory>
 
-                    <MarkerCategory name="tyrian" DisplayName="Tyrian Service Medal" achievementId="4233">
+                    <MarkerCategory name="tyrian" DisplayName="Tyrian Service Medal" achievementId="4233" defaulttoggle="0">
                         <MarkerCategory name="wb" IsSeparator="1" DisplayName="WORLD BOSSES"/>
                         <MarkerCategory name="coj" DisplayName="Claw of Jormag" iconFile="Data/Images/Icons/World Boss.png" mapDisplaySize="48" inGameVisibility="0"/>
                         <MarkerCategory name="fe" DisplayName="Fire Elemental" iconFile="Data/Images/Icons/World Boss.png" mapDisplaySize="48" inGameVisibility="0"/>
@@ -270,7 +270,7 @@
                         <MarkerCategory name="coz" DisplayName="Zephyrs" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
                     </MarkerCategory>
                     <MarkerCategory name="collectible" IsSeparator="1" DisplayName="COLLECTIBLES"/>
-                    <MarkerCategory name="urn" DisplayName="Urn of Heroic Ashes">
+                    <MarkerCategory name="urn" DisplayName="Urn of Heroic Ashes" defaulttoggle="0">
                         <MarkerCategory name="source" IsSeparator="1" DisplayName="SOURCE"/>
                         <MarkerCategory name="camilla" DisplayName="Lady Camilla"/>
                     </MarkerCategory>
@@ -278,9 +278,7 @@
 
             </MarkerCategory>
 
-            
-
-            <MarkerCategory name="jahai" DisplayName="Jahai Bluffs">
+            <MarkerCategory name="jahai" DisplayName="Jahai Bluffs" defaulttoggle="0">
                 <MarkerCategory name="hunter" DisplayName="Big Bluffs Hunter" achievementId="4434">
                     <MarkerCategory name="elasa" DisplayName="Elasa the Elemental" iconFile="Data/Images/Elasa the Elemental.png" mapDisplaySize="64" inGameVisibility="0" tip-name="Big Bluffs Hunter" tip-description="Elasa the Elemental"/>
                     <MarkerCategory name="aasma" DisplayName="Judge Aasma" iconFile="Data/Images/Judge Aasma.png" mapDisplaySize="64" inGameVisibility="0" tip-name="Big Bluffs Hunter" tip-description="Judge Aasma"/>
@@ -399,7 +397,6 @@
                 </MarkerCategory>
 
 
-
                 <MarkerCategory name="collection" IsSeparator="1" DisplayName="COLLECTIONS"/>
 
                 <MarkerCategory name="crystal" DisplayName="Crystal Attunement [H]" achievementId="4433" defaulttoggle="0">
@@ -461,12 +458,12 @@
                         <MarkerCategory name="threaten" DisplayName="Threaten" iconFile="Data/Images/Emote - Threaten.png" maxSize="32"/>
                     </MarkerCategory>
                     <MarkerCategory name="number" DisplayName="Path Number" MaxSize="32">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="location" IsSeparator="1" DisplayName="LOCATION"/>
                     <MarkerCategory name="sr" DisplayName="Sun's Refuge"/>
@@ -494,18 +491,18 @@
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                     </MarkerCategory>
                     <MarkerCategory name="number" DisplayName="Path Number" MaxSize="32">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="location" IsSeparator="1" DisplayName="LOCATION"/>
                     <MarkerCategory name="sr" DisplayName="Sun's Refuge"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="elegy" DisplayName="The Convergence of Sorrow I: Elegy" achievementId="4376">
+                <MarkerCategory name="elegy" DisplayName="The Convergence of Sorrow I: Elegy" achievementId="4376" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32"/>
@@ -516,20 +513,20 @@
                     </MarkerCategory>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                     <MarkerCategory name="number" DisplayName="Path Number" MaxSize="32">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
-                        <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png"/>
-                        <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/Images/Numbers/11.png"/>
-                        <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/Images/Numbers/12.png"/>
-                        <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/Images/Numbers/13.png"/>
-                        <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/Images/Numbers/14.png"/>
-                        <MarkerCategory name="15" DisplayName="Fifteen" iconFile="Data/Images/Numbers/15.png"/>
-                        <MarkerCategory name="16" DisplayName="Sixteen" iconFile="Data/Images/Numbers/16.png"/>
-                        <MarkerCategory name="17" DisplayName="Seventeen" iconFile="Data/Images/Numbers/17.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/Images/Numbers/11.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/Images/Numbers/12.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/Images/Numbers/13.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/Images/Numbers/14.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="15" DisplayName="Fifteen" iconFile="Data/Images/Numbers/15.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="16" DisplayName="Sixteen" iconFile="Data/Images/Numbers/16.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="17" DisplayName="Seventeen" iconFile="Data/Images/Numbers/17.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
@@ -540,7 +537,7 @@
                     <MarkerCategory name="sr" DisplayName="Sun's Refuge"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="requiem" DisplayName="The Convergence of Sorrow II: Requiem" achievementId="4362">
+                <MarkerCategory name="requiem" DisplayName="The Convergence of Sorrow II: Requiem" achievementId="4362" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32"/>
@@ -578,7 +575,7 @@
             </MarkerCategory>
 
 
-            <MarkerCategory name="sandswept" DisplayName="Sandswept Isles">
+            <MarkerCategory name="sandswept" DisplayName="Sandswept Isles" defaulttoggle="0">
                 <MarkerCategory name="branded" DisplayName="A Branded Blast" iconFile="Data/Images/Icons/Orb - Purple.png" maxSize="12" heightOffset="-0.5" mapDisplaySize="24" achievementId="4119" tip-name="A Branded Blast"/>
                 <MarkerCategory name="insuppressible" DisplayName="Insuppressible" iconFile="Data/Images/Mark III Suppressor Golem.png" inGameVisibility="0" mapDisplaySize="96" achievementId="4132" tip-name="Insuppressible"/>
                 
@@ -621,11 +618,11 @@
                             <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="number" DisplayName="Path Number">
-                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                            <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                            <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                            <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                            <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                            <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                            <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         </MarkerCategory>
                     </MarkerCategory>
 
@@ -639,11 +636,11 @@
                             <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="number" DisplayName="Path Number">
-                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                            <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                            <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                            <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                            <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                            <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                            <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         </MarkerCategory>
                         <MarkerCategory name="collectible" IsSeparator="1" DisplayName="COLLECTIBLE"/>
                         <MarkerCategory name="stonehoof" DisplayName="Old Stonehoof's Stone Hoof" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="20" mapDisplaySize="32" behavior="4" resetlength="900"/>
@@ -666,11 +663,11 @@
                             <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                         </MarkerCategory>
                         <MarkerCategory name="number" DisplayName="Path Number">
-                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                            <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                            <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                            <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                            <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                            <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                            <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                            <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                            <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         </MarkerCategory>
                         <MarkerCategory name="collectible" IsSeparator="1" DisplayName="COLLECTIBLES"/>
                         <MarkerCategory name="starcaller" DisplayName="Starcaller's Aetheric Gland" iconFile="Data/Images/Icons/Orb - Purple - S.png" maxSize="20" mapDisplaySize="32" behavior="4" resetlength="1800"/>
@@ -684,7 +681,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-                <MarkerCategory name="ig6417" DisplayName="IG-6417">
+                <MarkerCategory name="ig6417" DisplayName="IG-6417" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32" miniMapVisibility="0" mapVisibility="0"/>
                     <MarkerCategory name="achievement" IsSeparator="1" DisplayName="ACHIEVEMENT"/>
@@ -736,11 +733,11 @@
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                         <MarkerCategory name="number" IsSeparator="1" DisplayName="Path Number"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="redeem" DisplayName="Redeeming" achievementId="4108">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -899,7 +896,7 @@
                 </MarkerCategory>
             </MarkerCategory>
 
-            <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks">
+            <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks" defaulttoggle="0">
 
                 <MarkerCategory name="shatterer" DisplayName="A Different Kind of Shatterer" iconFile="Data/Images/Icons/Branded Crystal.png" mapDisplaySize="32" inGameVisibility="0" achievementId="4604" tip-name="EVENT: A Different Kind of Shatterer"/>
                 <MarkerCategory name="mine" DisplayName="Don't Mine If I Do" iconFile="Data/Images/Icons/Dragonsblood Shrapnel Mine.png" maxSize="16" mapDisplaySize="32" inGameVisibility="1" achievementId="4507" tip-name="Don't Mine If I Do" tip-description="Place Dragonsblood Shrapnel Mines"/>
@@ -1013,7 +1010,7 @@
                 
 
                 <MarkerCategory name="collection" IsSeparator="1" DisplayName="COLLECTIONS"/>
-                <MarkerCategory name="tales" DisplayName="Chasing Tales">
+                <MarkerCategory name="tales" DisplayName="Chasing Tales" defaulttoggle="0">
                     <MarkerCategory name="guidance" DisplayName="Guidance" achievementId="4566" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="42" miniMapVisibility="0" mapVisibility="1"/>
                     <MarkerCategory name="axe" DisplayName="Harkon Hakson the Maelstrom [H]" achievementId="4623" defaulttoggle="0">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
@@ -1082,7 +1079,7 @@
                         <MarkerCategory name="warhorn" DisplayName="Warhorn" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
                 </MarkerCategory>
-                <MarkerCategory name="forge" DisplayName="Journeyman of the Forge" achievementId="4577" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="42" miniMapVisibility="0" mapVisibility="1">
+                <MarkerCategory name="forge" DisplayName="Journeyman of the Forge" achievementId="4577" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="42" miniMapVisibility="0" mapVisibility="1" defaulttoggle="0">
                     <MarkerCategory name="axe" DisplayName="Dragonsblood Axe"/>
                     <MarkerCategory name="dagger" DisplayName="Dragonsblood Dagger"/>
                     <MarkerCategory name="focus" DisplayName="Dragonsblood Focus"/>
@@ -1104,7 +1101,7 @@
             </MarkerCategory>
 
 
-            <MarkerCategory name="dragonfall" DisplayName="Dragonfall">
+            <MarkerCategory name="dragonfall" DisplayName="Dragonfall" defaulttoggle="0">
                 <MarkerCategory name="bout" DisplayName="Championship Bout" achievementId="4708">
                     <MarkerCategory name="brandedair" DisplayName="Ley-Infused Branded Air Elemental" iconFile="Data/Images/Icons/Ley-Infused Branded Air Elemental.png" inGameVisibility="0" mapDisplaySize="48" tip-name="Ley-Infused Branded Air Elemental"/>
                     <MarkerCategory name="brandeddevourer" DisplayName="Ley-Infused Branded Devourer" iconFile="Data/Images/Icons/Ley-Infused Branded Devourer.png" inGameVisibility="0" mapDisplaySize="48" tip-name="Ley-Infused Branded Devourer"/>
@@ -1132,7 +1129,7 @@
                     <MarkerCategory name="wrathbringer" DisplayName="Death-Branded Wrathbringer" iconFile="Data/Images/Icons/Death-Branded Wrathbringer.png" inGameVisibility="0" mapDisplaySize="64" tip-name="Legendary Death-Branded Wrathbringer"/>
                 </MarkerCategory>
                 <MarkerCategory name="collection" IsSeparator="1" DisplayName="COLLECTIONS"/>
-                <MarkerCategory name="newborn" DisplayName="Newborn Skyscales" achievementId="4714">
+                <MarkerCategory name="newborn" DisplayName="Newborn Skyscales" achievementId="4714" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="talk" DisplayName="Talk to Gorrik" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
@@ -1191,7 +1188,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-                <MarkerCategory name="saving" DisplayName="Saving Skyscales" achievementId="4712" mapDisplaySize="16">
+                <MarkerCategory name="saving" DisplayName="Saving Skyscales" achievementId="4712" mapDisplaySize="16" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
@@ -1217,7 +1214,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-                <MarkerCategory name="raising" DisplayName="Raising Skyscales" achievementId="4693">
+                <MarkerCategory name="raising" DisplayName="Raising Skyscales" achievementId="4693" defaulttoggle="0">
                     <MarkerCategory name="care" DisplayName="Skyscale Care">
                         <MarkerCategory name="food" DisplayName="Piece of Skyscale Food" iconFile="Data/Images/Icons/Skyscale Food.png" maxSize="16"/>
                         <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
@@ -1304,7 +1301,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-                <MarkerCategory name="trouble" DisplayName="Troublesome Skyscales" achievementId="4675">
+                <MarkerCategory name="trouble" DisplayName="Troublesome Skyscales" achievementId="4675" defaulttoggle="0">
                     <MarkerCategory name="lost" DisplayName="Skyscale Lost">
                         <MarkerCategory name="talk" DisplayName="Talk to Gorrik" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
@@ -1334,7 +1331,8 @@
                         <MarkerCategory name="sunspear" DisplayName="Sunspear Sanctuary"/>
                     </MarkerCategory>
                 </MarkerCategory>
-                <MarkerCategory name="riding" DisplayName="Riding Skyscales" achievementId="4745">
+                
+                <MarkerCategory name="riding" DisplayName="Riding Skyscales" achievementId="4745" defaulttoggle="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
@@ -1350,16 +1348,16 @@
                         <MarkerCategory name="bof" DisplayName="Bond of Faith" iconFile="Data/Images/Mounts/Bond of Faith.png"/>
                     </MarkerCategory>
                     <MarkerCategory name="number" DisplayName="Trail Segment">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
-                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
-                        <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="collect" IsSeparator="1" DisplayName="COLLECTIBLES"/>
                     <MarkerCategory name="sandpaper" DisplayName="Elonian Sandpaper" mapDisplaySize="16">
@@ -1393,9 +1391,11 @@
                         <MarkerCategory name="dragonfall" DisplayName="Dragonfall"/>
                     </MarkerCategory>
                 </MarkerCategory>
-                <MarkerCategory name="flying" DisplayName="Flying Skyscales (Req: Rift Repair Mastery)" achievementId="4668" iconFile="Data/Images/Icons/Reality Tear.png" inGameVisibility="0" mapDisplaySize="72">
+                
+                <MarkerCategory name="flying" DisplayName="Flying Skyscales" achievementId="4668" iconFile="Data/Images/Icons/Reality Tear.png" inGameVisibility="0" mapDisplaySize="72" defaulttoggle="0">
+                    
+                    <MarkerCategory name="req" IsSeparator="1" DisplayName="REQUIRES: Rift Repair Mastery"/>
                     <!--
-                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>

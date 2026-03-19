@@ -81,12 +81,12 @@
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                     </MarkerCategory>
                     <MarkerCategory name="numbers" DisplayName="Trail Number">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="collectible" IsSeparator="1" DisplayName="COLLECTIBLES"/>
                     <MarkerCategory name="sample" DisplayName="Castoran Magic Sample"  iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="40"/>
@@ -141,7 +141,7 @@
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
-            <MarkerCategory name="shipwreck" DisplayName="Shipwreck Strand">
+            <MarkerCategory name="shipwreck" DisplayName="Shipwreck Strand" defaulttoggle="0">
 
                 <MarkerCategory name="aasb" DisplayName="As Above, So Below" achievementId="9082">
                     <MarkerCategory name="high" DisplayName="High" iconFile="Data/Images/Icons/Object - Above.png" maxSize="32" mapDisplaySize="48" inGameVisibility="0"/>
@@ -164,12 +164,12 @@
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                     </MarkerCategory>
                     <MarkerCategory name="numbers" DisplayName="Trail Number">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
 
                     <MarkerCategory name="obj" IsSeparator="1" DisplayName="OBJECTIVES"/>
@@ -263,11 +263,11 @@
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                     </MarkerCategory>
                     <MarkerCategory name="numbers" DisplayName="Trail Number">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="obj" IsSeparator="1" DisplayName="OBJECTIVES"/>
                     <MarkerCategory name="bouquet" DisplayName="A bouquet of flowers is placed here"/>
@@ -291,18 +291,18 @@
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                     </MarkerCategory>
                     <MarkerCategory name="numbers" DisplayName="Trail Number">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5a" DisplayName="Five a" iconFile="Data/Images/Numbers/5a.png"/>
-                        <MarkerCategory name="5b" DisplayName="Five b" iconFile="Data/Images/Numbers/5b.png"/>
-                        <MarkerCategory name="5c" DisplayName="Five c" iconFile="Data/Images/Numbers/5c.png"/>
-                        <MarkerCategory name="5d" DisplayName="Five d" iconFile="Data/Images/Numbers/5d.png"/>
-                        <MarkerCategory name="5e" DisplayName="Five e" iconFile="Data/Images/Numbers/5e.png"/>
-                        <MarkerCategory name="5f" DisplayName="Five f" iconFile="Data/Images/Numbers/5f.png"/>
-                        <MarkerCategory name="5g" DisplayName="Five g" iconFile="Data/Images/Numbers/5g.png"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5a" DisplayName="Five a" iconFile="Data/Images/Numbers/5a.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5b" DisplayName="Five b" iconFile="Data/Images/Numbers/5b.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5c" DisplayName="Five c" iconFile="Data/Images/Numbers/5c.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5d" DisplayName="Five d" iconFile="Data/Images/Numbers/5d.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5e" DisplayName="Five e" iconFile="Data/Images/Numbers/5e.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5f" DisplayName="Five f" iconFile="Data/Images/Numbers/5f.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5g" DisplayName="Five g" iconFile="Data/Images/Numbers/5g.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="obj" IsSeparator="1" DisplayName="OBJECTIVES"/>
                     <MarkerCategory name="message" DisplayName="Find the Message in a Bottle" iconFile="Data/Images/Icons/Collections.png" inGameVisibility="0" maxSize="16" mapDisplaySize="32"/>
@@ -331,11 +331,11 @@
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                     </MarkerCategory>
                     <MarkerCategory name="numbers" DisplayName="Trail Number">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="obj" IsSeparator="1" DisplayName="OBJECTIVES"/>
                     <MarkerCategory name="1" DisplayName="Speak with a former Astral Ward member in Glimmering Arches" iconFile="Data/Images/Icons/Talk.png" maxSize="24"/>
@@ -441,7 +441,7 @@
                 
             </MarkerCategory>
             
-            <MarkerCategory name="starlit" DisplayName="Starlit Weald">
+            <MarkerCategory name="starlit" DisplayName="Starlit Weald" defaulttoggle="0">
                 
                 <MarkerCategory name="hunt" DisplayName="A Hunt for the Ages" achievementId="8886">
                     <MarkerCategory name="spineshell" DisplayName="Spineshell Impaler" iconFile="Data/Images/Champion Spineshell Impaler.png" mapDisplaySize="64" inGameVisibility="0"/>
@@ -516,15 +516,15 @@
                     <MarkerCategory name="talk" DisplayName="Talk to Astral Ward Researcher Cattra" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="20" mapDisplaySize="40"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="numbers" DisplayName="Trail Number">
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
-                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
-                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
-                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="obj" IsSeparator="1" DisplayName="OBJECTIVES"/>
                     <MarkerCategory name="collectible" IsSeparator="1" DisplayName="COLLECTIBLES"/>

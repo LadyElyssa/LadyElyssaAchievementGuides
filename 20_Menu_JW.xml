@@ -121,7 +121,7 @@
             
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
-            <MarkerCategory name="ls" DisplayName="Lowland Shore">
+            <MarkerCategory name="ls" DisplayName="Lowland Shore" defaulttoggle="0">
             <MarkerCategory name="ahdw" DisplayName="A Hard Day's Work" achievementId="8291">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -159,20 +159,20 @@
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Trail Number"/>
-                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
-                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
-                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
-                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png"/>
-                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png"/>
-                <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/Images/Numbers/11.png"/>
-                <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/Images/Numbers/12.png"/>
-                <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/Images/Numbers/13.png"/>
-                <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/Images/Numbers/14.png"/>
+                <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="11" DisplayName="Eleven" iconFile="Data/Images/Numbers/11.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="12" DisplayName="Twelve" iconFile="Data/Images/Numbers/12.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="13" DisplayName="Thirteen" iconFile="Data/Images/Numbers/13.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/Images/Numbers/14.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>
             <MarkerCategory name="ccc" DisplayName="Cultural Culinary Comprehension" achievementId="8313"/>
             <MarkerCategory name="ftf" DisplayName="Feed the Flames [H]" iconFile="Data/Images/Feed the Flames.png" defaulttoggle="0" achievementId="8177"/>
@@ -210,8 +210,8 @@
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="dig" DisplayName="Possible Dig Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" iconFile="Data/Images/Warclaw Dig.png"/>
                 <MarkerCategory name="path" DisplayName="Path Number" miniMapVisibility="1" inGameVisibility="1">
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 </MarkerCategory>
             </MarkerCategory>
 
@@ -290,7 +290,7 @@
 
         <!-- JANTHIR SYNTRI -->
 
-        <MarkerCategory name="js" DisplayName="Janthir Syntri">
+        <MarkerCategory name="js" DisplayName="Janthir Syntri" defaulttoggle="0">
             <!-- A History Most Violent: Part 1 -->
             <MarkerCategory name="ahmv1" DisplayName="A History Most Violent: Part 1" achievementId="8161">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
@@ -374,9 +374,9 @@
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="dig" DisplayName="Possible Dig Locations" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="32" inGameVisibility="0" iconFile="Data/Images/Warclaw Dig.png"/>
                 <MarkerCategory name="path" DisplayName="Path Number" miniMapVisibility="1" inGameVisibility="1">
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 </MarkerCategory>
             </MarkerCategory>
 
@@ -388,10 +388,10 @@
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
-                <MarkerCategory name="1" DisplayName="Slithering Outskirts: The Immortal Oak"       iconFile="Data/Images/Numbers/1.png"/>
-                <MarkerCategory name="2" DisplayName="Slithering Outskirts: The First Bloodtree"    iconFile="Data/Images/Numbers/2.png"/>
-                <MarkerCategory name="3" DisplayName="Moldering Greenwood: Buried Sacrament"        iconFile="Data/Images/Numbers/3.png"/>
-                <MarkerCategory name="4" DisplayName="Dead Lab: The Reaping Stones"                 iconFile="Data/Images/Numbers/4.png"/>
+                <MarkerCategory name="1" DisplayName="Slithering Outskirts: The Immortal Oak"       iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="2" DisplayName="Slithering Outskirts: The First Bloodtree"    iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="3" DisplayName="Moldering Greenwood: Buried Sacrament"        iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="4" DisplayName="Dead Lab: The Reaping Stones"                 iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>
             
             <!-- Struck Twice -->
@@ -423,7 +423,7 @@
         </MarkerCategory>
 
         <!-- MISTBURNED BARRENS -->
-        <MarkerCategory name="mb" DisplayName="Mistburned Barrens">
+        <MarkerCategory name="mb" DisplayName="Mistburned Barrens" defaulttoggle="0">
             <MarkerCategory name="scout" DisplayName="Missing Scout" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="8552">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             </MarkerCategory>
@@ -435,16 +435,16 @@
                     <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
                 </MarkerCategory>
                 <MarkerCategory name="path" IsSeparator="1" DisplayName="  Path"/>
-                <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png"/>
-                <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png"/>
-                <MarkerCategory name="3" DisplayName="Three"    iconFile="Data/Images/Numbers/3.png"/>
-                <MarkerCategory name="4" DisplayName="Four"     iconFile="Data/Images/Numbers/4.png"/>
-                <MarkerCategory name="5" DisplayName="Five"     iconFile="Data/Images/Numbers/5.png"/>
-                <MarkerCategory name="6" DisplayName="Six"      iconFile="Data/Images/Numbers/6.png"/>
-                <MarkerCategory name="7" DisplayName="Seven"    iconFile="Data/Images/Numbers/7.png"/>
-                <MarkerCategory name="8" DisplayName="Eight"    iconFile="Data/Images/Numbers/8.png"/>
-                <MarkerCategory name="9" DisplayName="Nine"     iconFile="Data/Images/Numbers/9.png"/>
-                <MarkerCategory name="10" DisplayName="Ten"     iconFile="Data/Images/Numbers/10.png"/>
+                <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="3" DisplayName="Three"    iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="4" DisplayName="Four"     iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="5" DisplayName="Five"     iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="6" DisplayName="Six"      iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="7" DisplayName="Seven"    iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="8" DisplayName="Eight"    iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="9" DisplayName="Nine"     iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="10" DisplayName="Ten"     iconFile="Data/Images/Numbers/10.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>
             
             <MarkerCategory name="reading" DisplayName="Reading Between the Lines" achievementId="8610">
@@ -465,8 +465,8 @@
                 <MarkerCategory name="journal" DisplayName="Toggle Journal Fragment" iconFile="Data/Images/Icons/Journal Fragment.png"  miniMapVisibility="1" mapVisibility="1" inGameVisibility="1" mapDisplaySize="32"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="path" IsSeparator="1" DisplayName="  Path"/>
-                <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png"/>
-                <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png"/>
+                <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>
             
             <MarkerCategory name="tww" DisplayName="The Wayward Wisp: Vault Dispatch" achievementId="8616">
@@ -476,15 +476,15 @@
                 <MarkerCategory name="sighting" DisplayName="Wisp Sighting (Events/Rifts)" iconFile="Data/Images/Yellow Swirl.png" achievementId="8567" inGameVisibility="0" mapDisplaySize="128"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="path" IsSeparator="1" DisplayName="  Path"/>
-                <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png"/>
-                <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png"/>
-                <MarkerCategory name="3" DisplayName="Three"    iconFile="Data/Images/Numbers/3.png"/>
+                <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="3" DisplayName="Three"    iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>
             
         </MarkerCategory>
 
         <!-- BAVA NISOS -->
-        <MarkerCategory name="bn" DisplayName="Bava Nisos">
+        <MarkerCategory name="bn" DisplayName="Bava Nisos" defaulttoggle="0">
 
             <MarkerCategory name="chaos" DisplayName="Assorted Chaos" achievementId="8740">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -497,17 +497,17 @@
                 <MarkerCategory name="info" DisplayName="Toggle Info" iconFile="Data/Images/Icons/Blank.png" triggerrange="3" autotrigger="true"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="path" IsSeparator="1" DisplayName="  Path"/>
-                <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png"/>
-                <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png"/>
-                <MarkerCategory name="3" DisplayName="Three"    iconFile="Data/Images/Numbers/3.png"/>
-                <MarkerCategory name="4" DisplayName="Four"    iconFile="Data/Images/Numbers/4.png"/>
-                <MarkerCategory name="5" DisplayName="Five"     iconFile="Data/Images/Numbers/5.png"/>
-                <MarkerCategory name="6" DisplayName="Six"      iconFile="Data/Images/Numbers/6.png"/>
-                <MarkerCategory name="7" DisplayName="Seven"    iconFile="Data/Images/Numbers/7.png">
+                <MarkerCategory name="1" DisplayName="One"      iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="2" DisplayName="Two"      iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="3" DisplayName="Three"    iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="4" DisplayName="Four"    iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="5" DisplayName="Five"     iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="6" DisplayName="Six"      iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="7" DisplayName="Seven"    iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24">
                     <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                 </MarkerCategory>
-                <MarkerCategory name="8" DisplayName="Eight"    iconFile="Data/Images/Numbers/8.png"/>
-                <MarkerCategory name="9" DisplayName="Nine"     iconFile="Data/Images/Numbers/9.png"/>
+                <MarkerCategory name="8" DisplayName="Eight"    iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                <MarkerCategory name="9" DisplayName="Nine"     iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 <MarkerCategory name="10" DisplayName="Ten"     iconFile="Data/Images/Numbers/10.png"/>
             </MarkerCategory>
 

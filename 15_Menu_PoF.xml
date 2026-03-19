@@ -77,9 +77,9 @@
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                     </MarkerCategory>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 </MarkerCategory>
 
                 <!-- Lost Lore of the Crystal Oasis -->
@@ -95,10 +95,10 @@
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                     </MarkerCategory>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="pilgrims" DisplayName="Lost Pilgrims" achievementId="3551">
@@ -110,8 +110,8 @@
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                     </MarkerCategory>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="junkyard" DisplayName="Junkyard Weaponsmith" achievementId="3614">
@@ -246,7 +246,7 @@
 
 
             <!-- Domain of Vabbi -->
-            <MarkerCategory name="vabbi" DisplayName="Domain of Vabbi">
+            <MarkerCategory name="vabbi" DisplayName="Domain of Vabbi" defaulttoggle="0">
 
                 <!-- Court is Adjourned -->
                 <MarkerCategory name="court" DisplayName="Court is Adjourned" achievementId="3824">
@@ -328,7 +328,7 @@
 
 
             <!-- Elon Riverlands -->
-            <MarkerCategory name="riverlands" DisplayName="Elon Riverlands" mapDisplaySize="16">
+            <MarkerCategory name="riverlands" DisplayName="Elon Riverlands" mapDisplaySize="16" defaulttoggle="0">
                 <MarkerCategory name="augury" DisplayName="Augury Ascended" achievementId="3801"/>
                 <MarkerCategory name="sand" DisplayName="Blood and Sand" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128" achievementId="3681"/>
                 <MarkerCategory name="defector" DisplayName="Defector Protector" achievementId="3611">
@@ -429,7 +429,7 @@
 
             </MarkerCategory>
 
-            <MarkerCategory name="desolation" DisplayName="The Desolation">
+            <MarkerCategory name="desolation" DisplayName="The Desolation" defaulttoggle="0">
 
                 <!-- A Family's Sacrifice [H] -->
 

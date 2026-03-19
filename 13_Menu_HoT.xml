@@ -57,7 +57,7 @@
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
-            <MarkerCategory name="vb" DisplayName="Verdant Brink">
+            <MarkerCategory name="vb" DisplayName="Verdant Brink" defaulttoggle="0">
                 <MarkerCategory name="ffs" DisplayName="''Faren's Flyer'' Strongbox" achievementId="2631">
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
                     <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
@@ -117,7 +117,7 @@
 
             </MarkerCategory>
             
-            <MarkerCategory name="ab" DisplayName="Auric Basin">
+            <MarkerCategory name="ab" DisplayName="Auric Basin" defaulttoggle="0">
 
                 <MarkerCategory name="es" DisplayName="''Endurance'' Strongbox" achievementId="2565">
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
@@ -143,12 +143,12 @@
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 </MarkerCategory>
 
                 <!-- Egg Bearer -->
@@ -171,14 +171,14 @@
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
-                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
-                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png"/>
-                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png"/>
-                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png"/>
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/7.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 </MarkerCategory>
 
                 <!-- Tarnished Traitor -->
@@ -204,7 +204,7 @@
 
             </MarkerCategory>
 
-            <MarkerCategory name="td" DisplayName="Tangled Depths">
+            <MarkerCategory name="td" DisplayName="Tangled Depths" defaulttoggle="0">
                 
                 <!-- Cryptonym Strongbox -->
                 <MarkerCategory name="cryptonym" DisplayName="''Cryptonym'' Strongbox" achievementId="2365">
@@ -303,7 +303,7 @@
             </MarkerCategory>
 
             <!-- DRAGON'S STAND -->
-            <MarkerCategory name="ds" DisplayName="Dragon's Stand">
+            <MarkerCategory name="ds" DisplayName="Dragon's Stand" defaulttoggle="0">
 
 
             <!-- Dragon's Stand Overviewer -->

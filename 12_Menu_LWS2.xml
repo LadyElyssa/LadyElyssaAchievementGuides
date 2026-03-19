@@ -88,25 +88,22 @@
                 <MarkerCategory name="memorycave" DisplayName="Memory Locations" iconFile="Data/Images/Icons/Orb - Blue - S.png" maxSize="16" behavior="3" heightOffset="-0.5" mapDisplaySize="40"/>
                 <MarkerCategory name="mirror" DisplayName="Distorted Reflection" iconFile="Data/Images/Icons/Orb - White - S.png" maxSize="16" behavior="1" heightOffset="-0.5" mapDisplaySize="40" achievementId="2056"/>
                 <MarkerCategory name="relics" DisplayName="Relics" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" behavior="1" heightOffset="-0.5" mapDisplaySize="40"/>
-
-
-
                 
             </MarkerCategory>
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
-            <MarkerCategory name="drytop" DisplayName="Dry Top">
+            <MarkerCategory name="drytop" DisplayName="Dry Top" defaulttoggle="0">
                 <MarkerCategory name="coins" DisplayName="Coin Collector">
                     <MarkerCategory name="cliffs" DisplayName="Challenger Cliffs" achievementId="1694">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="valley" DisplayName="Prospect Valley" achievementId="1634">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
@@ -116,8 +113,8 @@
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                         <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                 </MarkerCategory>
                 <MarkerCategory name="lll" DisplayName="Legendary Llama" iconFile="Data/Images/Icons/Llama.png" heightOffset="2.0" maxSize="12" mapDisplaySize="32" achievementId="1636"/>
@@ -125,17 +122,17 @@
                 <MarkerCategory name="lllll" DisplayName="Licensed Learned Legendary Llama" iconFile="Data/Images/Icons/Llama.png" heightOffset="2.0" maxSize="12" mapDisplaySize="32" achievementId="1693"/>
             </MarkerCategory>
 
-            <MarkerCategory name="silverwastes" DisplayName="The Silverwastes">
+            <MarkerCategory name="silverwastes" DisplayName="The Silverwastes" defaulttoggle="0">
                 <MarkerCategory name="badges" DisplayName="Lost Badges" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="1810"/>
                 <MarkerCategory name="gold" DisplayName="Go for the Gold" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" achievementId="1835">
                     <MarkerCategory name="swiftness" DisplayName="Swiftness" iconFile="Data/Images/Icons/Boon - Swiftness.png" maxSize="16" heightOffset="0"  fadeNear="1200" fadeFar="2400" miniMapVisibility="0" mapVisibility="0"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
-                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
-                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
-                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png"/>
-                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png"/>
-                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png"/>
+                        <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 </MarkerCategory>
                 <!--
                 <MarkerCategory name="collections" IsSeparator="1" DisplayName="COLLECTIONS"/>
