@@ -1619,7 +1619,7 @@
         <Trail type="leag.lws4.dragonfall.newborn" trailData="Data/LWS4/Collections/1. Newborn Skyscales/To Gorrik.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
         <POI MapID="1317" xpos="-376.66" ypos="116.285" zpos="-703.205" type="leag.lws4.dragonfall.newborn.talk" GUID="qY682Jz6YkOZycf8ZleohA=="/>
         <POI MapID="1317" xpos="579.499" ypos="137.588" zpos="-590.139" type="leag.lws4.dragonfall.newborn.scales.number.1" GUID="ZboFY/GKpUKG/1s9GTHSyQ=="/>
-        <POI MapID="1317" xpos="569.847" ypos="137.868" zpos="-596.781" type="leag.lws4.dragonfall.newborn.scales.number.2" GUID="Qw2z4N/QBUenPdh4xXZVgQ=="/>
+        <POI MapID="1317" xpos="569.847" ypos="137.868" zpos="-596.781" type="leag.lws4.dragonfall.newborn.scales.number.3" GUID="Qw2z4N/QBUenPdh4xXZVgQ=="/>
         <POI MapID="1317" xpos="-465.337" ypos="138.557" zpos="-354.158" type="leag.lws4.dragonfall.newborn.scales.number.1" GUID="59YPFMZ2cUm50ZKqbpngzw=="/>
         <POI MapID="1317" xpos="-473.023" ypos="138.842" zpos="-363.771" type="leag.lws4.dragonfall.newborn.scales.number.2" GUID="XRiweL1vMku0i7rHzrKnng=="/>
         <Trail type="leag.lws4.dragonfall.newborn.scales" trailData="Data/LWS4/Collections/1. Newborn Skyscales/Scales 1.trl"/>
@@ -1630,6 +1630,7 @@
         <Trail type="leag.lws4.dragonfall.newborn.scales" trailData="Data/LWS4/Collections/1. Newborn Skyscales/Scales 6.trl"/>
         <Trail type="leag.lws4.dragonfall.newborn.scales" trailData="Data/LWS4/Collections/1. Newborn Skyscales/Scales 7.trl"/>
         <Trail type="leag.lws4.dragonfall.newborn.scales" trailData="Data/LWS4/Collections/1. Newborn Skyscales/Scales 8.trl"/>
+        <Trail type="leag.lws4.dragonfall.newborn.scales" trailData="Data/LWS4/Collections/1. Newborn Skyscales/Scales 9.trl"/>
         <POI MapID="1317" xpos="-983.578" ypos="81.2481" zpos="-164.499" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="VnvU8ZY3f0a+hVXyhSP/xg==" copy="[&amp;BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
         <POI MapID="1317" xpos="-969.12" ypos="5.37591" zpos="428.173" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="/DyTPw/XBkCTCR1P+9pqYA==" copy="[&amp;BOYLAAA=]" copy-message="Burning Forest Waypoint"/>
         <POI MapID="1317" xpos="-30.2217" ypos="52.6904" zpos="792.778" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="Jyy1e/eU/kmxS3Gp7ssw4w==" copy="[&amp;BNELAAA=]" copy-message="The Underworld Waypoint"/>
@@ -1640,7 +1641,7 @@
         <POI MapID="1317" xpos="-868.893" ypos="119.597" zpos="484.288" type="leag.lws4.dragonfall.newborn.scales.glider" GUID="8eAElmSAbU21rzNMZCNW/A=="/>
         <POI MapID="1317" xpos="-927.709" ypos="77.9401" zpos="461.802" type="leag.lws4.dragonfall.newborn.scales.glider" GUID="4sSFfqBEIEufscjjfe0bOw=="/>
         <POI MapID="1317" xpos="-791.848" ypos="125.825" zpos="506.118" type="leag.lws4.dragonfall.newborn.scales.number.1" GUID="Rk0DavD910uyJwnwwVLVbg=="/>
-        <POI MapID="1317" xpos="-780.358" ypos="125.823" zpos="508.903" type="leag.lws4.dragonfall.newborn.scales.number.2" GUID="nokj0BoiYkiekLrTBDw7WQ=="/>
+        <POI MapID="1317" xpos="-780.3276" ypos="125.851" zpos="504.3989" type="leag.lws4.dragonfall.newborn.scales.number.2" GUID="nokj0BoiYkiekLrTBDw7WQ=="/>
         <POI MapID="1317" xpos="-751.691" ypos="45.814" zpos="-773.862" type="leag.lws4.dragonfall.newborn.scales.glider" GUID="ZrF11g+gnE2t9jFHHEcduQ=="/>
         <POI MapID="1317" xpos="-796.841" ypos="14.3911" zpos="-795.528" type="leag.lws4.dragonfall.newborn.scales.mount.skimmer" GUID="DzD3h323cUicSB62giNm6Q=="/>
         <POI MapID="1317" xpos="-908.732" ypos="106.929" zpos="-181.729" type="leag.lws4.dragonfall.newborn.scales.glider" GUID="DYg1VW5TLU6MnQ3NnVfp8Q=="/>
@@ -1666,7 +1667,15 @@
         <POI MapID="1317" xpos="755.333" ypos="157.816" zpos="-361.14" type="leag.lws4.dragonfall.newborn.scales.mount.skyscale" GUID="iISfmo621UmtJbCORsiW1A=="/>
         <POI MapID="1317" xpos="863.308" ypos="193.688" zpos="-268.202" type="leag.lws4.dragonfall.newborn.scales.mount.springer" GUID="ghiEto1mxkST/k40LNDqlg=="/>
         <POI MapID="1317" xpos="872.934" ypos="246.513" zpos="-115.943" type="leag.lws4.dragonfall.newborn.scales.mount.skyscale" GUID="7Ho/D/n/Ykiw5CsfzuuvUg=="/>
-        
+
+        <POI MapID="1317" xpos="703.7856" ypos="139.4891" zpos="-669.6225" type="leag.lws4.dragonfall.newborn.scales.glider" GUID="Dk+3l/SWR0iBXMKtRnImWA=="/>
+        <POI MapID="1317" xpos="767.602" ypos="77.70202" zpos="-803.7514" type="leag.lws4.dragonfall.newborn.scales.wp" GUID="iciBFL/w3EyBzf+Q9eS5NA==" copy="[&amp;BNILAAA=]" copy-message="Melandru's Lost Domain Waypoint"/>
+        <POI MapID="1317" xpos="581.1968" ypos="138.0812" zpos="-600.7711" type="leag.lws4.dragonfall.newborn.scales.number.2" GUID="U59zGcr/Ck+7Rlp63DlnOw=="/>
+        <POI MapID="1317" xpos="-650.163" ypos="153.6592" zpos="376.4827" type="leag.lws4.dragonfall.newborn.scales.mount.springer" GUID="DoiP8Iisz02tEcc+PiBh5g=="/>
+        <POI MapID="1317" xpos="-646.6008" ypos="193.6571" zpos="342.1616" type="leag.lws4.dragonfall.newborn.scales.mount.jackal" GUID="u8oqoZod3EWl5G+7p/3eFg=="/>
+        <POI MapID="1317" xpos="-430.7974" ypos="278.5515" zpos="277.8706" type="leag.lws4.dragonfall.newborn.scales.mount.springer" GUID="xvXzcdVhU06bsss4Q3xCyA=="/>
+        <POI MapID="1317" xpos="-438.2654" ypos="296.4268" zpos="314.333" type="leag.lws4.dragonfall.newborn.scales.glider" GUID="m7G0ITLeO0Wx9rbkLJIDLQ=="/>
+    
         <POI MapID="1317" xpos="720.687" ypos="107.528" zpos="676.306" type="leag.lws4.dragonfall.newborn.medicine.talk" GUID="Vnudf5XAF0iMa3ElSIVPug=="/>
         <POI MapID="1317" xpos="694.139" ypos="105.378" zpos="529.771" type="leag.lws4.dragonfall.newborn.medicine.talk" GUID="X5nTKaEdEEWyrDboDofooA=="/>
         <POI MapID="1317" xpos="625.121" ypos="86.5986" zpos="524.183" type="leag.lws4.dragonfall.newborn.medicine.talk" GUID="zO9PBP+PvkSGE1isdF0XaA=="/>
