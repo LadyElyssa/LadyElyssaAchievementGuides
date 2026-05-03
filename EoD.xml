@@ -15,7 +15,7 @@
         <POI MapID="1442" xpos="-87.4225" ypos="14.5839" zpos="-195.099" type="leag.eod.sp.guardian.tdoz.start" GUID="m3Yafhc1pkuKkpDt0VAEVQ=="/>
         <POI MapID="1442" xpos="-83.3006" ypos="14.1906" zpos="-180.555" type="leag.eod.sp.guardian.tdoz.1" GUID="CTQnjAt/F02nh4xtR6UnPg=="/>
         <Trail type="leag.eod.sp.guardian.inoaf" trailData="Data/EoD/A Guardian Once More 2.trl" color="FF5016"/>
-        <POI MapID="1442" xpos="325.633" ypos="59.4702" zpos="-279.592" type="leag.eod.sp.guardian.inoaf.2" GUID="uNvTXBzhu0eHnco0hVhaDw=="/>
+        <POI MapID="1442" xpos="325.633" ypos="59.4702" zpos="-279.592" type="leag.eod.sp.guardian.inoaf.1" GUID="uNvTXBzhu0eHnco0hVhaDw=="/>
         <POI MapID="1442" xpos="198.748" ypos="106.306" zpos="-172.49" type="leag.eod.sp.guardian.inoaf.circle" GUID="pVeF3L9fG0Ww43WkIRk5Vg=="/>
         <POI MapID="1442" xpos="119.083" ypos="68.8023" zpos="-90.2788" type="leag.eod.sp.guardian.inoaf.circle" GUID="5/tOIX7J70urC5ZgoCEYaw=="/>
         <POI MapID="1442" xpos="160.408" ypos="72.6788" zpos="-77.8118" type="leag.eod.sp.guardian.inoaf.circle" GUID="tXD0/mnzDka9bmIgEov4hQ=="/>    

@@ -243,12 +243,6 @@
                         <MarkerCategory name="bsf" DisplayName="Bloodstone Fen"/>
                     </MarkerCategory>
                 </MarkerCategory>
-                <!--
-                https://wiki.guildwars2.com/wiki/Koda%27s_Blessing
-
-                <MarkerCategory name="collection" IsSeparator="1" DisplayName="COLLECTION"/>
-                Koda's Blessing 
-                -->
 
             </MarkerCategory>
 

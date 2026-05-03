@@ -21,14 +21,14 @@
 
         <!-- CHAPTER 2 -->
         <!-- Written Ward -->
-        <POI MapID="1501" xpos="1044.14" ypos="96.325" zpos="-326.382" type="leag.soto.story.ww.letter.marker" GUID="rRTFyw32ykmF42tVeiYBfw=="/>
-        <POI MapID="1501" xpos="921.937" ypos="176.329" zpos="-403.846" type="leag.soto.story.ww.report.marker" GUID="x+XxdDkgTUumlfhF4DswxQ=="/>
+        <POI MapID="1501" xpos="1044.14" ypos="96.325" zpos="-326.382" type="leag.soto.story.ww.letter" GUID="rRTFyw32ykmF42tVeiYBfw=="/>
+        <POI MapID="1501" xpos="921.937" ypos="176.329" zpos="-403.846" type="leag.soto.story.ww.report" GUID="x+XxdDkgTUumlfhF4DswxQ=="/>
 
 
         <!-- CHAPTER 3 -->
         <!-- Reader of Notes -->
-        <POI MapID="1503" xpos="1029.21" ypos="262.927" zpos="109.074" type="leag.soto.story.ron.letter.marker" GUID="XBUZewsmWEOPFBQJIozQZA=="/>
-        <POI MapID="1503" xpos="971.5" ypos="269.525" zpos="213.216" type="leag.soto.story.ron.letter.marker" GUID="9H5lRtnozU2JoQxLDUPPWw=="/>
+        <POI MapID="1503" xpos="1029.21" ypos="262.927" zpos="109.074" type="leag.soto.story.ron.letter" GUID="XBUZewsmWEOPFBQJIozQZA=="/>
+        <POI MapID="1503" xpos="971.5" ypos="269.525" zpos="213.216" type="leag.soto.story.ron.letter" GUID="9H5lRtnozU2JoQxLDUPPWw=="/>
 
 
         <!-- CHAPTER  6 -->

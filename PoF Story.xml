@@ -144,7 +144,7 @@
         <Trail type="leag.pof.story.departing" trailData="Data/PoF/Story/The Departing 1.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5"/>
         <Trail type="leag.pof.story.departing" trailData="Data/PoF/Story/The Departing 2.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5"/>
         <Trail type="leag.pof.story.departing" trailData="Data/PoF/Story/The Departing 3.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5" color="666699"/>
-        <Trail type="leag.pof.story.story" trailData="Data/PoF/Story/The Departing 4 - Purpose.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5" color="c2c2d6"/>
+        <Trail type="leag.pof.story.departing.story" trailData="Data/PoF/Story/The Departing 4 - Purpose.trl" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" animSpeed="0.5" color="c2c2d6"/>
 
         <!-- CHAPTER 10: Enemy of my Enemy -->
         <POI MapID="1255" xpos="-924.792" ypos="162.129" zpos="-186.963" type="leag.pof.story.mummy" GUID="xC1RkexEOEqd7afM8Gii9Q=="/>

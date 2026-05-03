@@ -335,14 +335,14 @@
         <POI MapID="29" xpos="285.278" ypos="14.4641" zpos="-897.2" type="leag.lws3.bff.koda.basket" GUID="KOGkN9x52EaVXeitfFnGvw=="/>
         <POI MapID="29" xpos="285.278" ypos="14.4641" zpos="-897.2" type="leag.lws3.bff.koda.wp" GUID="FiIYZRnCHEWRo9HoCrtuNA==" copy="[&amp;BNUAAAA=]" copy-message="Hidden Garden, Mount Maelstrom"/>
         <Trail type="leag.lws3.bff.koda.eharmony.maelstrom" trailData="Data/LWS3/Hidden Garden.trl" color="FF8800"/>
-        <POI MapID="39" xpos="-880.606" ypos="73.7872" zpos="350.108" type="legs.jp.mj.hiddengarden.sign" GUID="ZkMAkvT6NUmrM6mUvxLnGg=="  iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
-        <POI MapID="39" xpos="-18.5615" ypos="77.5864" zpos="-303.131" type="legs.jp.mj.hiddengarden.sign" GUID="/a0gpNO9pUGuZokVIBI5Xg==" iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
-        <POI MapID="39" xpos="447.339" ypos="20.2969" zpos="-345.196" type="legs.jp.mj.hiddengarden.sign" GUID="78W3Ts6+bUq2pzBrA/N9nQ=="  iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
-        <POI MapID="39" xpos="182.858" ypos="1.71168" zpos="43.9268" type="legs.jp.mj.hiddengarden.sign" GUID="0G4ULP3EpUWdyXppGSJ9Rg=="   iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
-        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="legs.jp.mj.hiddengarden.earth" GUID="fc3vBiQZa0aHrxsZ5aVpvw=="  iconfile="Data/Images/Swirl - Tan.png" mapDisplaySize="64" inGameVisibility="0"/>
-        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="legs.jp.mj.hiddengarden.light" GUID="unmCkcQSBUe8N775JmriUw==" iconfile="Data/Images/Swirl - White.png" mapDisplaySize="64" inGameVisibility="0"/>
-        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="legs.jp.mj.hiddengarden.waves" GUID="T6yb/bM/KEqoEvt18a2+ng==" iconfile="Data/Images/Swirl - Sea Green.png" mapDisplaySize="64" inGameVisibility="0"/>
-        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="legs.jp.mj.hiddengarden.winds" GUID="YyjSTGlUHEKOQ1wqxL1YhQ=="   iconfile="Data/Images/Swirl - Teal.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="-880.606" ypos="73.7872" zpos="350.108" type="leag.lws3.bff.koda.eharmony.maelstrom" GUID="ZkMAkvT6NUmrM6mUvxLnGg=="  iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
+        <POI MapID="39" xpos="-18.5615" ypos="77.5864" zpos="-303.131" type="leag.lws3.bff.koda.eharmony.maelstrom" GUID="/a0gpNO9pUGuZokVIBI5Xg==" iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
+        <POI MapID="39" xpos="447.339" ypos="20.2969" zpos="-345.196" type="leag.lws3.bff.koda.eharmony.maelstrom" GUID="78W3Ts6+bUq2pzBrA/N9nQ=="  iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
+        <POI MapID="39" xpos="182.858" ypos="1.71168" zpos="43.9268" type="leag.lws3.bff.koda.eharmony.maelstrom" GUID="0G4ULP3EpUWdyXppGSJ9Rg=="   iconFile="Data/Images/Jumping Puzzles/Hidden Garden.png"/>
+        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="leag.lws3.bff.koda.eharmony.maelstrom" GUID="fc3vBiQZa0aHrxsZ5aVpvw=="  iconfile="Data/Images/Swirl - Tan.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="leag.lws3.bff.koda.eharmony.maelstrom" GUID="unmCkcQSBUe8N775JmriUw==" iconfile="Data/Images/Swirl - White.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="leag.lws3.bff.koda.eharmony.maelstrom" GUID="T6yb/bM/KEqoEvt18a2+ng==" iconfile="Data/Images/Swirl - Sea Green.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="leag.lws3.bff.koda.eharmony.maelstrom" GUID="YyjSTGlUHEKOQ1wqxL1YhQ=="   iconfile="Data/Images/Swirl - Teal.png" mapDisplaySize="64" inGameVisibility="0"/>
         <POI MapID="39" xpos="1077.41" ypos="31.7517" zpos="470.378" type="leag.lws3.bff.koda.glider" GUID="lEWzkxOjwUGA3dHn3Xq5yw=="/>
         <POI MapID="39" xpos="1026.32" ypos="23.933" zpos="589.699" type="leag.lws3.bff.koda.glider" GUID="h4bs/kmQXEGgyd27jeXmzQ=="/>
         <POI MapID="39" xpos="1070.89" ypos="64.4281" zpos="498.924" type="leag.lws3.bff.koda.basket" GUID="WFipPoG3T0q2iH7VWNTTew=="/>
