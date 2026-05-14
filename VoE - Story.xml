@@ -126,5 +126,119 @@
         <POI MapID="1604" xpos="-688.781" ypos="63.4704" zpos="-468.509" type="leag.voe.story.entrance.icon" GUID="ZgZ/nZqeFkaq+e7kzD7PkA=="/>
         <POI MapID="1604" xpos="-686.653" ypos="64.9804" zpos="-493.774" type="leag.voe.story.entrance.icon" GUID="l89WOoVW2UWh0od6OAf/xA=="/>
         <POI MapID="1604" xpos="-668.645" ypos="21.0417" zpos="-495.077" type="leag.voe.story.impulse" GUID="hHYiXqbvfUqA+Tmmriqd9Q=="/>
+
+        <!-- CHAPTER 9 -->
+
+        <POI MapID="1613" xpos="376.191" ypos="12.8534" zpos="-622.577" type="leag.voe.story.thoughts" GUID="jcGzkzC0EE+YCqeGnhpTMA=="/>
+        <POI MapID="1613" xpos="429.945" ypos="8.69867" zpos="-606.059" type="leag.voe.story.thoughts" GUID="YJNarl2gK0eWPXDsfCak2g=="/>
+        <POI MapID="1613" xpos="430.721" ypos="5.81223" zpos="-623.506" type="leag.voe.story.thoughts" GUID="gbFI1aJOEUWl90agvext8A=="/>
+
+        <!-- CHAPTER 10 -->
+
+        <Trail type="leag.voe.story.ptoa.trail" trailData="Data/VoE/Story/The Path to Ascension 1.trl"/>
+        <Trail type="leag.voe.story.ptoa.trail" trailData="Data/VoE/Story/The Path to Ascension 2.trl"/>
+        <Trail type="leag.voe.story.ptoa.trail" trailData="Data/VoE/Story/The Path to Ascension 3.trl"/>
+        <Trail type="leag.voe.story.ptoa.trail" trailData="Data/VoE/Story/The Path to Ascension 4.trl"/>
+        <Trail type="leag.voe.story.ptoa.trail" trailData="Data/VoE/Story/The Path to Ascension 5.trl"/>
+        <POI MapID="1617" xpos="126.402" ypos="142.894" zpos="579.863" type="leag.voe.story.ptoa" GUID="71rlXGq+HEu/5650oMOCEQ=="/>
+        <POI MapID="1617" xpos="203.127" ypos="141.155" zpos="554.442" type="leag.voe.story.ptoa.icon" GUID="550BXjvEZEOV212aHMaIww=="/>
+        <POI MapID="1617" xpos="339.587" ypos="140.426" zpos="535.395" type="leag.voe.story.ptoa.icon" GUID="IOoyBOds3Um9R7Eq1y6ZQA=="/>
+        <POI MapID="1617" xpos="328.817" ypos="141.732" zpos="621.097" type="leag.voe.story.ptoa.icon" GUID="qqjCpydRzE+eTofKtaJzGw=="/>
+        <POI MapID="1617" xpos="298.105" ypos="138.613" zpos="501.831" type="leag.voe.story.ptoa.icon" GUID="6kVJvFny+kOHb323zr+stQ=="/>
+        <POI MapID="1617" xpos="226.642" ypos="178.6" zpos="537.532" type="leag.voe.story.ptoa.icon" GUID="tKvZ0Akm1k6xICLuNdNXBg=="/>
+
+        <POI MapID="1622" xpos="367.27" ypos="4.7798" zpos="-478.375" type="leag.voe.story.infiltration" GUID="JzMbU1kXrEKGR9P0qHgY+A=="/>
+        <POI MapID="1622" xpos="502.181" ypos="5.35297" zpos="-519.035" type="leag.voe.story.infiltration.hourglass" GUID="jd7kBHsLu0u9nPwzD3JNTw=="/>
+        <POI MapID="1622" xpos="-543.651" ypos="23.4649" zpos="-624.977" type="leag.voe.story.infiltration.seer" GUID="Zs2nmKKcbkC8gyyRVdcSCw=="/>
+        <POI MapID="1622" xpos="-344.656" ypos="-82.4566" zpos="155.703" type="leag.voe.story.infiltration.ley" GUID="/mti7HiW1kCLBpvGxO7nFg=="/>
+        <POI MapID="1622" xpos="-249.558" ypos="3.61211" zpos="360.367" type="leag.voe.story.infiltration.inquest" GUID="Bvv7LwMJfk+EFDklV5lnHg=="/>
+        <POI MapID="1622" xpos="-197.382" ypos="36.0101" zpos="400.133" type="leag.voe.story.infiltration.copper" GUID="2StYGHVSq0apIgT+uXEF2Q=="/>
+        <POI MapID="1622" xpos="245.539" ypos="1.63049" zpos="369.881" type="leag.voe.story.infiltration.inquest" GUID="j+6pwRteEUi+2j2SkbDzSQ=="/>
+        <POI MapID="1622" xpos="226.982" ypos="7.42248" zpos="418.404" type="leag.voe.story.infiltration.cell" GUID="JrI4DvpQHkOTip+1MmV4UA=="/>
+        <POI MapID="1622" xpos="516.144" ypos="-81.2032" zpos="249.053" type="leag.voe.story.infiltration.ley" GUID="1XpX6Mmx2EGHMnX13mPNnw=="/>
+        <POI MapID="1622" xpos="135.721" ypos="-93.5117" zpos="-264.449" type="leag.voe.story.infiltration.ley" GUID="DknwtkQgkU6qRNLOJwkHWQ=="/>
+        <POI MapID="1622" xpos="-168.373" ypos="-32.3342" zpos="-252.261" type="leag.voe.story.infiltration.pyrite" GUID="k4aWxoktjUK32e0rRezcdQ=="/>
+        <POI MapID="1622" xpos="-445.597" ypos="24.9954" zpos="-132.345" type="leag.voe.story.infiltration.seer" GUID="g3W9VXJHMkWB4pDHUnkVCQ=="/>
+        <POI MapID="1622" xpos="-51.1563" ypos="33.035" zpos="-13.6377" type="leag.voe.story.infiltration.inquest" GUID="c7J8l5y8sECO8+5kQ7v11g=="/>
+        <POI MapID="1622" xpos="-176.797" ypos="26.7919" zpos="-669.26" type="leag.voe.story.infiltration.oil" GUID="6+O+cnuEl0OCKWbR9Xs+2Q=="/>
+        <POI MapID="1622" xpos="-401.066" ypos="53.4245" zpos="449.625" type="leag.voe.story.infiltration.leather" GUID="uMeNiT83HU2BrlHjo0xoYQ=="/>
+        <POI MapID="1622" xpos="-532.646" ypos="137.764" zpos="753.831" type="leag.voe.story.infiltration.alum" GUID="+qAK7+4cE06hadihGgBPCQ=="/>
+        <POI MapID="1622" xpos="489.047" ypos="51.1434" zpos="515.4" type="leag.voe.story.infiltration.seer" GUID="LZqFNwp7kU2ay40pCxgNBQ=="/>
+        <POI MapID="1622" xpos="36.367" ypos="8.49365" zpos="208.417" type="leag.voe.story.infiltration.metal" GUID="vETIC3AyrkitNv0gagNDLg=="/>
+        <POI MapID="1622" xpos="649.7867" ypos="4.332686" zpos="-20.71478" type="leag.voe.story.infiltration.saltpeter" GUID="rs1WGBS9j02PamqE9jcKLg=="/>
+
+        
+
+        <!-- CHAPTER 11 -->
+
+        <POI MapID="1624" xpos="67.2888" ypos="6.54432" zpos="16.5736" type="leag.voe.story.meticulous.pyrite" GUID="p+HC+qQD40Gmv4F0hqRD2w=="/>
+        <POI MapID="1624" xpos="84.4505" ypos="6.54432" zpos="49.4298" type="leag.voe.story.meticulous.pyrite" GUID="ta+zPbVyLU633gJK0mDL4g==" info="Hammer" infoRange="1"/>
+        <POI MapID="1624" xpos="66.7246" ypos="6.54432" zpos="17.1213" type="leag.voe.story.meticulous.ley" GUID="qGTK2kMbHUylIPnHoXoRjQ=="/>
+        <POI MapID="1624" xpos="92.1928" ypos="6.54432" zpos="37.5469" type="leag.voe.story.meticulous.ley" GUID="vIGM0lICGke9PKy07w4gDg==" info="Extract" infoRange="1"/>
+        <POI MapID="1624" xpos="66.2726" ypos="6.54432" zpos="17.5595" type="leag.voe.story.meticulous.seer" GUID="JwTHhX8CYka/3rty9fxZpg=="/>
+        <POI MapID="1624" xpos="93.5359" ypos="6.54432" zpos="37.5423" type="leag.voe.story.meticulous.seer" GUID="mgL/o4aXvkWyLWDk94KQiA==" info="Extract" infoRange="1"/>
+        <POI MapID="1624" xpos="65.7646" ypos="6.54432" zpos="18.0712" type="leag.voe.story.meticulous.inquest" GUID="SX/zpefOpk+0XrgQw8+Qrw=="/>
+        <POI MapID="1624" xpos="84.3927" ypos="6.54432" zpos="48.1425" type="leag.voe.story.meticulous.inquest" GUID="qlY5Drxea0G/HOOJkDpahw==" info="Hammer" infoRange="1"/>
+        <POI MapID="1624" xpos="94.9861" ypos="6.54432" zpos="37.5612" type="leag.voe.story.meticulous.inquest" GUID="5Hqo14k9v0KX1wTB9T7UjQ==" info="Extract" infoRange="1"/>
+        <POI MapID="1624" xpos="72.70865" ypos="6.54432" zpos="12.28788" type="leag.voe.story.meticulous.solution" GUID="Vnc4monp0kKjyKKqFlMaFA=="/>
+        <POI MapID="1624" xpos="96.2662" ypos="6.54432" zpos="37.5791" type="leag.voe.story.meticulous.solution" GUID="7/h0p+1fAk2ogwHoEzE9mg==" info="Leach" infoRange="1"/>
+        <POI MapID="1624" xpos="65.2333" ypos="6.54432" zpos="18.6774" type="leag.voe.story.meticulous.saltpeter" GUID="gMLQ1c+WZEiPrjqAmf1f9Q=="/>
+        <POI MapID="1624" xpos="84.484" ypos="6.54432" zpos="46.5952" type="leag.voe.story.meticulous.saltpeter" GUID="9P3AlqC9Pku3g0lKh2D+SA==" info="Hammer" infoRange="1"/>
+        <POI MapID="1624" xpos="97.4049" ypos="6.54432" zpos="38.6635" type="leag.voe.story.meticulous.saltpeter" GUID="KOxnCUXyD0+9zm/TrEbYQw==" info="Leach" infoRange="1"/>
+        <POI MapID="1624" xpos="64.5484" ypos="6.54432" zpos="19.3868" type="leag.voe.story.meticulous.alum" GUID="new1HxuQ4kiiBv99G2kJgw=="/>
+        <POI MapID="1624" xpos="84.3782" ypos="6.54432" zpos="45.5396" type="leag.voe.story.meticulous.alum" GUID="Lbr7ayZnwE6/vxiooUffsQ==" info="Hammer" infoRange="1"/>
+        <POI MapID="1624" xpos="96.2079" ypos="6.54432" zpos="39.8294" type="leag.voe.story.meticulous.alum" GUID="1YSmC/9cHUeZ6Ros7IJXAA==" info="Leach" infoRange="1"/>
+        <POI MapID="1624" xpos="64.0582" ypos="6.59225" zpos="20.0813" type="leag.voe.story.meticulous.copper" GUID="b0MthGVBB0iqQOaoBjGbjg=="/>
+        <POI MapID="1624" xpos="92.3011" ypos="6.57308" zpos="39.8652" type="leag.voe.story.meticulous.copper" GUID="ifYGLIhnTE+zuaQfAhUneQ==" info="Ablate then Leach" infoRange="1"/>
+        <POI MapID="1624" xpos="63.4989" ypos="6.57394" zpos="20.5894" type="leag.voe.story.meticulous.cell" GUID="2MFdpw1qv0yFRTUUnFnTLQ=="/>
+        <POI MapID="1624" xpos="90.94837" ypos="6.57394" zpos="38.61935" type="leag.voe.story.meticulous.cell" GUID="sECYNkxQQ06wDTq2PKYCLg==" info="Extract" infoRange="1"/>
+        <POI MapID="1624" xpos="62.8159" ypos="6.56271" zpos="21.2406" type="leag.voe.story.meticulous.metal" GUID="oDoxYpt9ZEG5r+NdUDxJgg=="/>
+        <POI MapID="1624" xpos="85.4928" ypos="6.55336" zpos="44.4471" type="leag.voe.story.meticulous.metal" GUID="3dL2hHD89EmDuUW13IVqBA==" info="Molding" infoRange="1"/>
+        <POI MapID="1624" xpos="103.674" ypos="6.4582" zpos="45.2156" type="leag.voe.story.meticulous.metal" GUID="b3rVuXl0kkKcfOKt26NaaA==" info="Coating" infoRange="1"/>
+        <POI MapID="1624" xpos="62.3429" ypos="6.59795" zpos="21.989" type="leag.voe.story.meticulous.hourglass" GUID="fm7UTCQQ9Eu9LkUHZN9uXw=="/>
+        <POI MapID="1624" xpos="103.635" ypos="6.48177" zpos="46.527" type="leag.voe.story.meticulous.hourglass" GUID="NAkud+HkvEyt3AYbUVcL2A==" info="Plated" infoRange="1"/>
+        <POI MapID="1624" xpos="61.4855" ypos="6.59795" zpos="22.6235" type="leag.voe.story.meticulous.leather" GUID="rBVGZhr3pkqHe4FSMnOiNQ=="/>
+        <POI MapID="1624" xpos="103.7" ypos="6.54936" zpos="48.0067" type="leag.voe.story.meticulous.leather" GUID="enlj43XQy0mn7losXnBrJg==" info="Polish" infoRange="1"/>
+
+        
+        <Trail type="leag.voe.story.end" trailData="Data/VoE/Story/Ascension's End.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" miniMapVisibility="0"/>
+        <POI MapID="1621" xpos="241.371" ypos="138.25" zpos="869.826" type="leag.voe.story.end" GUID="7f4cR/7K8U27WpqqVz9E1Q=="/>
+
+        <Trail type="leag.voe.story.astute" trailData="Data/VoE/Story/Astute Candidate 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="99CCFF" animSpeed="0"/>
+        <POI MapID="1623" xpos="-134.3438" ypos="58.0474" zpos="-44.5962" type="leag.voe.story.astute" GUID="8TEgqC4frkmQDAiR+g/dHw==" iconFile="Data/Images/Aeming.png" maxSize="128" miniMapVisibility="0" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
+        <POI MapID="1623" xpos="-146.6832" ypos="57.88803" zpos="-40.06859" type="leag.voe.story.astute" GUID="iPyPmYI1SkiMZbe55APrQw" iconFile="Data/Images/Destro.png" maxSize="128" miniMapVisibility="0" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
+        <POI MapID="1623" xpos="-144.0005" ypos="58.05204" zpos="-23.96709" type="leag.voe.story.astute" GUID="mh2rsHCS4U6WQz92nYlnNQ==" iconFile="Data/Images/Reatalle.png" maxSize="128" miniMapVisibility="0" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
+        <POI MapID="1623" xpos="-129.4108" ypos="57.99081" zpos="-20.98979" type="leag.voe.story.astute" GUID="wOdr//85WkqRprDzA41LZw==" iconFile="Data/Images/Pugine.png" maxSize="128" miniMapVisibility="0" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
+
+        <Trail type="leag.voe.story.stalwart" trailData="Data/VoE/Story/Stalwart Candidate 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <Trail type="leag.voe.story.stalwart" trailData="Data/VoE/Story/Stalwart Candidate 2 Power Nodes.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="FFFF00"/>
+        <Trail type="leag.voe.story.stalwart" trailData="Data/VoE/Story/Stalwart Candidate 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <Trail type="leag.voe.story.stalwart" trailData="Data/VoE/Story/Stalwart Candidate 3.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <Trail type="leag.voe.story.stalwart" trailData="Data/VoE/Story/Stalwart Candidate 4.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <Trail type="leag.voe.story.stalwart" trailData="Data/VoE/Story/Stalwart Candidate 5.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <Trail type="leag.voe.story.stalwart" trailData="Data/VoE/Story/Stalwart Candidate 6.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+
+        <!-- Chapter 12 -->
+        <POI MapID="1618" xpos="245.418" ypos="7.98172" zpos="400.229" type="leag.voe.story.scouting" GUID="/VrAqntDMku7drVlTt++dg=="/>
+        <POI MapID="1618" xpos="243.495" ypos="8.13875" zpos="429.3" type="leag.voe.story.scouting" GUID="gCBJwmPlCkW197X5MTek4w=="/>
+
+        <POI MapID="1618" xpos="12.3495" ypos="33.6797" zpos="-57.6075" type="leag.voe.story.scouting" GUID="MW/zn03k0EKo9C6NThgGuA=="/>
+        <POI MapID="1618" xpos="-50.6087" ypos="32.2611" zpos="-13.5021" type="leag.voe.story.scouting" GUID="qO0+L7umKkC2uIRRSF6YnQ=="/>
+        <POI MapID="1618" xpos="-125.36" ypos="33.5783" zpos="-31.8232" type="leag.voe.story.scouting" GUID="jLX4iHMPckCbfOVI4IIlkg=="/>
+        <POI MapID="1618" xpos="-142.099" ypos="33.1153" zpos="-73.3273" type="leag.voe.story.scouting" GUID="QseUpNYw80yU85eCRUOAfw=="/>
+
+        <POI MapID="1618" xpos="-55.27228" ypos="5.832371" zpos="102.5721" type="leag.voe.story.diy" GUID="5ASW557xWkOvDk41aerQAg=="/>
+
+        <!-- Chapter 13 -->
+        <POI MapID="1620" xpos="505.147" ypos="51.64" zpos="475.988" type="leag.voe.story.written.joy" GUID="Zx1ViPwoqEan3aZqjrTY7w=="/>
+        <POI MapID="1620" xpos="469.892" ypos="51.4743" zpos="557.647" type="leag.voe.story.written.perceptions" GUID="v1HjjClTvkKRVbV6Agc6DQ=="/>
+        <POI MapID="1620" xpos="553.159" ypos="51.7366" zpos="591.961" type="leag.voe.story.written.ground" GUID="J942g0ydRkisjGlcT1y8SA=="/>
+        <POI MapID="1620" xpos="586.292" ypos="51.5001" zpos="509.613" type="leag.voe.story.written.weight" GUID="iTdh0WB1zkqiH3FwmraFGA=="/>
+
+        <POI MapID="1620" xpos="493.12" ypos="93.2333" zpos="855.528" type="leag.voe.story.guest" GUID="jeQqpF53VEa+IvUVPrSH8A=="/>
+        <POI MapID="1620" xpos="622.913" ypos="52.9064" zpos="594.397" type="leag.voe.story.guest" GUID="zS7CatJn5kGEkY9JWLGiuA=="/>
+        <POI MapID="1620" xpos="629.657" ypos="58.3718" zpos="859.092" type="leag.voe.story.guest" GUID="mv4/mFsPT0qz23fxX6LS1Q=="/>
+        <POI MapID="1620" xpos="631.897" ypos="56.8394" zpos="744.303" type="leag.voe.story.guest" GUID="GlZg0FcHuEGvEH0PGJsP4w=="/>
+        <POI MapID="1620" xpos="422.256" ypos="79.847" zpos="478.68" type="leag.voe.story.guest" GUID="kvv8CuKkzU2EZMHyF+ryow=="/>
     </POIs>
 </OverlayData>

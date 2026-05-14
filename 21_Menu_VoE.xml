@@ -110,22 +110,74 @@
 
                 <MarkerCategory name="impulse" DisplayName="No Impulse Control" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" mapDisplaySize="32" heightOffset="-0.25"/>
 
-                <!--
+                
+                <!-- CHAPTER 9 -->
 
-                <MarkerCategory name="ch9" IsSeparator="1" DisplayName="CHAPTER 9: "/>
-                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
+                <MarkerCategory name="ch9" IsSeparator="1" DisplayName="CHAPTER 9: On the Threshold"/>
+
+                <MarkerCategory name="thoughts" DisplayName="Any Last Thoughts" achievementId="9261" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24" mapDisplaySize="48" inGameVisibility="0"/>
+
+                <!-- CHAPTER 10 -->
 
                 <MarkerCategory name="ch10" IsSeparator="1" DisplayName="CHAPTER 10: "/>
-                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
 
+                <MarkerCategory name="ptoa" DisplayName="The Path of Ascension" achievementId="9301" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24" mapDisplaySize="48">
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Orb - Blue - S.png" maxSize="16" mapDisplaySize="32" heightOffset="-0.25"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="infiltration" DisplayName="Infiltration Improvisation" achievementId="9308" iconFile="Data/Images/Icons/Collection - Story.png" mapDisplaySize="48" inGameVisibility="0">
+                    <MarkerCategory name="ley" DisplayName="Raw Ley Magic" iconFile="Data/Images/Icons/Collections - Raw Ley Magic.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="seer" DisplayName="Seer Magic" iconFile="Data/Images/Icons/Collections - Seer Magic.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="inquest" DisplayName="Inquest Magitech" iconFile="Data/Images/Icons/Collections - Inquest Magitech.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="saltpeter" DisplayName="Saltpeter" iconFile="Data/Images/Icons/Collections - Saltpeter.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="copper" DisplayName="Oxidised Copper" iconFile="Data/Images/Icons/Collections - Oxidised Copper.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="alum" DisplayName="Alum Crystal" iconFile="Data/Images/Icons/Collections - Alum Crystal.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="pyrite" DisplayName="Pyrite Crystal" iconFile="Data/Images/Icons/Collections - Pyrite Crystal.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="oil" DisplayName="Vial of Crude Oil" iconFile="Data/Images/Icons/Collections - Crude Oil.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="hourglass" DisplayName="Portable Hourglass" iconFile="Data/Images/Icons/Collections - Portable Hourglass.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="cell" DisplayName="Rudimentary Power Cell" iconFile="Data/Images/Icons/Collections - Rudimentary Power Cell.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="metal" DisplayName="Sheet of Metal" iconFile="Data/Images/Icons/Collections - Sheet of Metal.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="leather" DisplayName="Leather Straps" iconFile="Data/Images/Icons/Collections - Leather Straps.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="meticulous" DisplayName="Meticulous Craftsperson" achievementId="9319">
+                    <MarkerCategory name="pyrite" DisplayName="Pyrite Crystal" iconFile="Data/Images/Numbers/n1.png" minSize="12" maxSize="12"/>
+                    <MarkerCategory name="ley" DisplayName="Raw Ley Magic" iconFile="Data/Images/Numbers/n2.png" minSize="12" maxSize="12"/>
+                    <MarkerCategory name="seer" DisplayName="Seer Magic" iconFile="Data/Images/Numbers/n3.png" minSize="12" maxSize="12"/>
+                    <MarkerCategory name="inquest" DisplayName="Inquest magitech" iconFile="Data/Images/Numbers/n4.png" minSize="12" maxSize="12"/>
+                    <MarkerCategory name="solution" DisplayName="Canach's Solution" iconFile="Data/Images/Numbers/n5.png" minSize="12" maxSize="12"/>
+                    <MarkerCategory name="saltpeter" DisplayName="Saltpeter" iconFile="Data/Images/Numbers/n6.png" minSize="12" maxSize="12"/>
+                    <MarkerCategory name="alum" DisplayName="Alum crystal" iconFile="Data/Images/Numbers/n7.png" minSize="12" maxSize="12"/>
+                    <MarkerCategory name="copper" DisplayName="Oxidised Copper" iconFile="Data/Images/Numbers/n8.png" minSize="12" maxSize="12"/>
+                    <MarkerCategory name="cell" DisplayName="Power Cell" iconFile="Data/Images/Numbers/n9.png" minSize="12" maxSize="12"/>
+                    <MarkerCategory name="metal" DisplayName="Sheet Metal" iconFile="Data/Images/Numbers/n10.png" minSize="12" maxSize="12"/>
+                    <MarkerCategory name="hourglass" DisplayName="Portable hourglass" iconFile="Data/Images/Numbers/n11.png" minSize="12" maxSize="12"/>
+                    <MarkerCategory name="leather" DisplayName="Leather Straps" iconFile="Data/Images/Numbers/n12.png" minSize="12" maxSize="12"/>
+                </MarkerCategory>
+
+                <!-- CHAPTER 11 -->
+                
                 <MarkerCategory name="ch11" IsSeparator="1" DisplayName="CHAPTER 11: "/>
-                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
-
+                <MarkerCategory name="end" DisplayName="Ascension's End" achievementId="9340" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="24" mapDisplaySize="32" heightOffset="-0.5"/>
+                <MarkerCategory name="astute" DisplayName="Astute Candidate" achievementId="9269" iconFile="Data/Images/Icons/Cog.png" maxSize="16" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="1600"/>
+                <MarkerCategory name="stalwart" DisplayName="Stalwart Candidate" achievementId="9332" miniMapVisibility="0" mapVisibility="0" fadeNear="1200" fadeFar="1600"/>
+                
                 <MarkerCategory name="ch12" IsSeparator="1" DisplayName="CHAPTER 12: "/>
-                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
-
+                <MarkerCategory name="diy" DisplayName="DIY Enthusiast" achievementId="9300" iconFile="Data/Images/Icons/Inquest Spanner.png" minSize="20" maxSize="24" mapDisplaySize="32" fadeNear="3000" fadeFar="4000"/>
+                <MarkerCategory name="scouting" DisplayName="Scouting Report" achievementId="9316" iconFile="Data/Images/Icons/Orb - Red - S.png" minSize="20" maxSize="24" mapDisplaySize="32"/>
+                
                 <MarkerCategory name="ch13" IsSeparator="1" DisplayName="CHAPTER 13: "/>
-                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
+                <MarkerCategory name="written" DisplayName="So it is Written" achievementId="9336">
+                     <MarkerCategory name="joy" DisplayName="In Joyous Company" iconFile="Data/Images/Icons/VoE So It Is Written - In Joyous Company.png" maxSize="16"/>
+                     <MarkerCategory name="perceptions" DisplayName="Perceptions Sharpened" iconFile="Data/Images/Icons/VoE So It Is Written - Perceptions Sharpened.png" maxSize="16"/>
+                     <MarkerCategory name="weight" DisplayName="Weight of the Sky" iconFile="Data/Images/Icons/VoE So It Is Written - Weight of the Sky.png" maxSize="16"/>
+                     <MarkerCategory name="ground" DisplayName="Above the Ground" iconFile="Data/Images/Icons/VoE So It Is Written - Above the Ground.png" maxSize="16"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="guest" DisplayName="Honored Guest" achievementId="9299"  iconFile="Data/Images/Icons/Otter.png" minSize="20" maxSize="24" mapDisplaySize="32"/>
+
+                <!--
 
                 <MarkerCategory name="ch14" IsSeparator="1" DisplayName="CHAPTER 14: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
@@ -451,22 +503,22 @@
 
                 <MarkerCategory name="journey" DisplayName="A Magical Journey" achievementId="9048">
                     <MarkerCategory name="sw" IsSeparator="1" DisplayName="STARLIT WEALD"/>
-                    <MarkerCategory name="talk" DisplayName="Talk to Hiberus Mythseeker at the Priory Expedition" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="20" mapDisplaySize="40"/>
+                    <MarkerCategory name="talk" DisplayName="Talk to Hiberus Mythseeker at the Priory Expedition" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24" mapDisplaySize="40"/>
                     <MarkerCategory name="trapped" DisplayName="Magic from a Trapped Room" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0">
-                        <MarkerCategory name="orb" DisplayName="Fractured Magical Essence" iconFile="Data/Images/Icons/Orb - White - S.png" mapDisplaySize="32" inGameVisibility="1" minSize="16" maxSize="20" heightOffset="-0.25"/>
+                        <MarkerCategory name="orb" DisplayName="Fractured Magical Essence" iconFile="Data/Images/Icons/Orb - White - S.png" mapDisplaySize="32" inGameVisibility="1" minSize="20" maxSize="24" heightOffset="-0.25"/>
                     </MarkerCategory>
                     <MarkerCategory name="spirit" DisplayName="Essence of Seer Spirit" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
                     <MarkerCategory name="relics" DisplayName="Fragments of Seer Relics" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
                     <MarkerCategory name="flower" DisplayName="Magic from an Ancient Flower" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
                     <MarkerCategory name="weapon" DisplayName="Remnants of a Seer Weapon" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0">
-                        <MarkerCategory name="orb" DisplayName="Fractured Magical Essence" iconFile="Data/Images/Icons/Orb - White - S.png" mapDisplaySize="32" inGameVisibility="1" minSize="16" maxSize="20" heightOffset="-0.25"/>
+                        <MarkerCategory name="orb" DisplayName="Fractured Magical Essence" iconFile="Data/Images/Icons/Orb - White - S.png" mapDisplaySize="32" inGameVisibility="1" minSize="20" maxSize="24" heightOffset="-0.25"/>
                     </MarkerCategory>
                     <MarkerCategory name="orb" DisplayName="Orb of Skimmer-Collected Magic" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
                     <MarkerCategory name="gwyldell" DisplayName="Residue from a Subdued Gwyldell" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0">
                         <MarkerCategory name="gwyldell" DisplayName="Gwyldell" iconFile="Data/Images/Circlet.png" mapDisplaySize="32" inGameVisibility="0"/>
                     </MarkerCategory>
                     <MarkerCategory name="choya" DisplayName="Memories of Life as a Choya" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0">
-                        <MarkerCategory name="orb" DisplayName="Fractured Magical Essence" iconFile="Data/Images/Icons/Orb - White - S.png" mapDisplaySize="32" inGameVisibility="1" minSize="16" maxSize="20" heightOffset="-0.25"/>
+                        <MarkerCategory name="orb" DisplayName="Fractured Magical Essence" iconFile="Data/Images/Icons/Orb - White - S.png" mapDisplaySize="32" inGameVisibility="1" minSize="20" maxSize="24" heightOffset="-0.25"/>
                     </MarkerCategory>
                     <MarkerCategory name="ss" IsSeparator="1" DisplayName="SHIPWRECK STRAND"/>
                     <MarkerCategory name="research" DisplayName="Results of Magical Research" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
@@ -513,7 +565,7 @@
                 <MarkerCategory name="gwyl" DisplayName="Gwyl Rings" achievementId="8919" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="0">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="talk" DisplayName="Talk to Astral Ward Researcher Cattra" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="20" mapDisplaySize="40"/>
+                    <MarkerCategory name="talk" DisplayName="Talk to Astral Ward Researcher Cattra" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24" mapDisplaySize="40"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
                     <MarkerCategory name="numbers" DisplayName="Trail Number">
                         <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -575,7 +627,7 @@
 
                 <MarkerCategory name="soup" DisplayName="Soup's On" achievementId="9033">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="talk" DisplayName="Talk to Kjartan the Cook in Hunter's Camp" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="20" mapDisplaySize="40"/>
+                    <MarkerCategory name="talk" DisplayName="Talk to Kjartan the Cook in Hunter's Camp" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24" mapDisplaySize="40"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="bodyguard" DisplayName="Project Bodyguard (EVENT: FRU1TPUNCH)" achievementId="9077" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
@@ -587,7 +639,7 @@
 
                 <MarkerCategory name="tread" DisplayName="Tread Lightly [H]" achievementId="8941" iconFile="Data/Images/Icons/Gwyllian.png" mapDisplaySize="48" inGameVisibility="0"/>
 
-                <MarkerCategory name="treasures" DisplayName="Treasures of the Last Vault" achievementId="8996" iconFile="Data/Images/Icons/Orb - Yellow.png" minSize="8" maxSize="12" mapDisplaySize="24" heightOffset="-0.25"/>
+                <MarkerCategory name="treasures" DisplayName="Treasures of the Last Vault" achievementId="8996" iconFile="Data/Images/Icons/Orb - Yellow.png" minSize="12" maxSize="12" mapDisplaySize="24" heightOffset="-0.25"/>
 
                 <MarkerCategory name="delivery" DisplayName="Wavehawk Delivery" achievementId="8920" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
 
@@ -596,6 +648,112 @@
                 </MarkerCategory>
 
             </MarkerCategory>
+
+            <MarkerCategory name="eternity" DisplayName="Eternity's Garden (WIP)">
+                <MarkerCategory name="reprieve" DisplayName="A Brief Reprieve" achievementId="9314" iconFile="Data/Images/Icons/Orb - Purple - S.png" minSize="20" maxSize="24">
+                    <MarkerCategory name="isgarren" DisplayName="Isgarren" iconFile="Data/Images/Icons/IsGarren.png" mapDisplaySize="64" inGameVisibility="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="calamity" DisplayName="A Crustacean Calamity" achievementId="9297" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24">
+                    <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Icons/Crab.png" mapDisplaySize="48" inGameVisibility="0"/>
+                </MarkerCategory>
+                <!--
+                <MarkerCategory name="enquiry" DisplayName="An Imperial Inquiry" achievementId="9250" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24"/>
+                -->
+                <!--
+                <MarkerCategory name="arcane" DisplayName="Arcane Certification" achievementId="9281" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24"/>
+                -->
+                <MarkerCategory name="preservation" DisplayName="Arcane Preservation" achievementId="9273" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24">
+                    <MarkerCategory name="event" DisplayName="EVENT: Help Steward Cecco unfuse animals of their seer influence" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Help Steward Cecco unfuse animals of their seer influence"/>
+                </MarkerCategory>                    
+                <MarkerCategory name="artificer" DisplayName="Artificer's Islet Renown Mastery" achievementId="9343" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24"/>
+                <MarkerCategory name="arjp" DisplayName="Artificer's Rise Jumping Puzzle" achievementId="9290" iconFile="Data/Images/Icons/talk.png" minSize="20" maxSize="24" fadeNear="900" fadeFar="1200">
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" minSize="16" maxSize="24" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
+                    <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/Images/Jumping Puzzles/Artificer's Rise.png" mapDisplaySize="128" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="audience" DisplayName="Attentive Audience" achievementId="9302" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24">
+                    <MarkerCategory name="icon" DisplayName="PTM" iconFile="Data/Images/Icons/PTM.png" mapDisplaySize="64" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="beetle" DisplayName="Beetle Research" achievementId="9277" iconFile="Data/Images/Icons/Beetle Specimen.png" mapDisplaySize="32" inGameVisibility="0"/>
+                
+                <MarkerCategory name="calculated" DisplayName="Calculated Destruction" achievementId="9325" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
+                
+                <MarkerCategory name="cursebreaker" DisplayName="Castoran Curse Breaker" achievementId="9253" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
+                
+                <MarkerCategory name="overgrowth" DisplayName="Castoran Overgrowth" achievementId="9298" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
+                <!--
+                <MarkerCategory name="cruel" DisplayName="Cruel Creations" achievementId="9296" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24"/>
+                -->
+
+                <MarkerCategory name="divine" DisplayName="Divine Historian" achievementId="9338" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
+                <!--
+                <MarkerCategory name="glove" DisplayName="Fits like a Glove" achievementId="9251" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24"/>
+                -->
+                <MarkerCategory name="gregorios" DisplayName="Gregorios the Beautiful" achievementId="9294" iconFile="Data/Images/Icons/Hullgardener Gregorious.png" minSize="20" maxSize="24" mapDisplaySize="48">
+                    <MarkerCategory name="flower" DisplayName="Most Beautiful Flower" iconFile="Data/Images/Icons/Red Iris Flower.png" mapDisplaySize="40" inGameVisibility="0"/>
+                    <MarkerCategory name="talk" DisplayName="Talk to Hullgardener Gregorious" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24"/>
+                </MarkerCategory>
+                <!--
+                <MarkerCategory name="instigator" DisplayName="Inquest Instigator" achievementId="9329" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24"/>
+                -->
+                <!--
+                <MarkerCategory name="kitshark" DisplayName="Kitshark Adventure" achievementId="9311" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24"/>
+            -->
+                <MarkerCategory name="entertainment" DisplayName="Kitshark Entertainment" achievementId="9258" iconFile="Data/Images/Icons/Kitshark.png" minSize="20" maxSize="24" mapDisplaySize="48" inGameVisibility="0"/>
+        
+
+                <MarkerCategory name="translation" DisplayName="Lost in Translation" achievementId="9295" iconFile="Data/Images/Icons/Orb - Blue.png" minSize="20" maxSize="24" mapDisplaySize="32"/>
+
+                <MarkerCategory name="master" DisplayName="Master of Sacred Arms" achievementId="9248" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24">
+                    <MarkerCategory name="event" DisplayName="EVENT: Thrumming Faceted Shadowstone" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Help Steward Cecco unfuse animals of their seer influence"/>
+                </MarkerCategory>
+                <MarkerCategory name="moth" DisplayName="Moth Enthusiast" achievementId="9337" iconFile="Data/Images/Icons/Moth.png" mapDisplaySize="48" inGameVisibility="0"/>
+
+                <!-- Hidden? -->
+                <MarkerCategory name="otter" DisplayName="Otter Snack Time" achievementId="9249" iconFile="Data/Images/Icons/Fish.png" minSize="20" maxSize="24" mapVisibility="0"/>
+
+                <MarkerCategory name="potd" DisplayName="Path of the Divine" achievementId="9304" iconFile="Data/Images/Icons/Historian Minna.png" minSize="20" maxSize="24" mapDisplaySize="48"/>
+                <MarkerCategory name="pilgrim" DisplayName="Pilgrim's Rest Renown Mastery" achievementId="9243" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24"/>
+                <MarkerCategory name="mothmarsh" DisplayName="Protector of the Mothmarsh" achievementId="9322" iconFile="Data/Images/Icons/Giant Beetle.png" mapDisplaySize="48" inGameVisibility="0" tip-name="EVENT: Defend the cocoons from beetles"/>
+
+                <MarkerCategory name="questionable" DisplayName="Questionable Choices" achievementId="9341" iconFile="Data/Images/Icons/Shadowstone.png" mapDisplaySize="48" inGameVisibility="0" tip-name="Questionable Choices"/>
+                <!--
+                <MarkerCategory name="ancients" DisplayName="Respect for the Ancients" achievementId="9257" iconFile="Data/Images/Icons/Leywright Edifi.png" tip-name="EVENT: Explore the temple with Historian Minna" mapDisplaySize="48" inGameVisibility="0"/>
+                -->
+                <MarkerCategory name="forge" DisplayName="Revitalizing the Forge" achievementId="9306" iconFile="Data/Images/Icons/Leywright Edifi.png" tip-name="EVENT: Help Steward Edifi build more stewards" mapDisplaySize="48" inGameVisibility="0"/>
+                <MarkerCategory name="risky" DisplayName="Risky Research" achievementId="9315" iconFile="Data/Images/Icons/Lutorius Tomeweaver.png" minSize="20" maxSize="24" mapDisplaySize="48"/>
+                
+                <MarkerCategory name="sacking" DisplayName="Sacking the Inquest" achievementId="9309" achievementBit="" iconFile="Data/Images/Icons/Inquest Cache.png" mapDisplaySize="48" inGameVisibility="0" tip-name="Inquest Cache"/>
+                <MarkerCategory name="savior" DisplayName="Savior of the Gwyldell" achievementId="9242">
+                    <MarkerCategory name="research" DisplayName="Research Notes" iconFile="Data/Images/Circle - Teal.png" mapDisplaySize="40" inGameVisibility="0"/>
+                </MarkerCategory>
+                <MarkerCategory name="scholar" DisplayName="Scholar of the Garden" achievementId="9321" iconFile="Data/Images/Icons/Book - Green.png" minSize="20" maxSize="24" mapDisplaySize="40"/>
+                <!--
+                <MarkerCategory name="shepherd" DisplayName="Shepherd of the Garden" achievementId="9324" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24"/>
+                -->
+                <!--
+                <MarkerCategory name="scour" DisplayName="Skimmer Relic Scour" achievementId="9254" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24"/>
+                -->
+                <MarkerCategory name="temple" DisplayName="Temple of Abnegation Jumping Puzzle" achievementId=""  fadeNear="1200" fadeFar="1600">
+                    <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/Images/Jumping Puzzles/Temple of Abnegation.png" mapDisplaySize="128" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="hard" DisplayName="The Hard Choice" achievementId="9264" iconFile="Data/Images/Icons/Steward of Galdra.png" tip-name="GROUP EVENT: Defeat the Inquest augmented Steward of Galdra" mapDisplaySize="48" inGameVisibility="0"/>
+                <MarkerCategory name="halls" DisplayName="These Cursed Halls" achievementId="9328" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24">
+                    <MarkerCategory name="event" DisplayName="GROUP EVENT: Enter and conquer the Temple of Abnegation" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Help Steward Cecco unfuse animals of their seer influence"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="allies" DisplayName="Unexpected Allies" achievementId="9270">
+                    <MarkerCategory name="gwyllian" DisplayName="Gwyllian" iconFile="Data/Images/Icons/Gwyllian.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="kela" DisplayName="Kela" iconFile="Data/Images/Icons/Kela.png" mapDisplaySize="48" inGameVisibility="0"/>
+                </MarkerCategory>
+                <!--
+                <MarkerCategory name="uplift" DisplayName="The Uplift" achievementId="9318"  iconFile="Data/Images/Icons/Collection.png" mapDisplaySize="48" inGameVisibility="0"/>
+                -->
+                
+            </MarkerCategory>
+
             
         </MarkerCategory>
             
