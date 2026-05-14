@@ -578,11 +578,14 @@
         <POI MapID="1622" xpos="-534.147" ypos="137.861" zpos="749.224" type="leag.voe.eternity.cursebreaker" GUID="jcr4HHqv+Uqlprno2/a7iA=="/>
         <POI MapID="1622" xpos="139.8298" ypos="139.1737" zpos="724.4986" type="leag.voe.eternity.cursebreaker" GUID="r/RTlqvuIECBOcepH8GzoA=="/>
 
+        <POI MapID="1622" xpos="601.046" ypos="57.2318" zpos="708.789" type="leag.voe.eternity.divine" GUID="TH1FpPLkhUCgjqcZl8xb/Q=="/>
+        <POI MapID="1622" xpos="-229.244" ypos="4.62061" zpos="-347.188" type="leag.voe.eternity.entertainment" GUID="YuIKqgdODEiDvu//P+167w=="/>
+
         <POI MapID="1622" xpos="-225.099" ypos="18.224" zpos="-607.683" type="leag.voe.eternity.gregorios.flower" GUID="lwWnbdIPo0q581YNx7KaKg=="/>
         <POI MapID="1622" xpos="464.527" ypos="7.95891" zpos="72.8854" type="leag.voe.eternity.gregorios" GUID="RF9brj+ZoE+5w5mqGQ1IMg=="/>
 
         <POI MapID="1622" xpos="158.362" ypos="34.3493" zpos="131.566" type="leag.voe.eternity.master" GUID="gW2yJ7OYk0y09gnyjOGv8A=="/>
-        <POI MapID="1622" xpos="158.362" ypos="34.3493" zpos="131.566" type="leag.voe.eternity.master.event" GUID="gW2yJ7OYk0y09gnyjOGv8A=="/>
+        <POI MapID="1622" xpos="158.362" ypos="34.3493" zpos="131.566" type="leag.voe.eternity.master.event" GUID="E8qdN5L2NEqUACs2PKbBAQ=="/>
         <POI MapID="1622" xpos="303.699" ypos="140.617" zpos="761.159" type="leag.voe.eternity.master" GUID="8lsRJx63HEOLBmNPavRmJQ=="/>
         <POI MapID="1622" xpos="303.699" ypos="140.617" zpos="761.159" type="leag.voe.eternity.master.event" GUID="BQcf3OtHf0mzeEWYKz/IsQ=="/>
 

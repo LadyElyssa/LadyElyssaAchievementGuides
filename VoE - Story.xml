@@ -206,7 +206,7 @@
 
         <Trail type="leag.voe.story.astute" trailData="Data/VoE/Story/Astute Candidate 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="99CCFF" animSpeed="0"/>
         <POI MapID="1623" xpos="-134.3438" ypos="58.0474" zpos="-44.5962" type="leag.voe.story.astute" GUID="8TEgqC4frkmQDAiR+g/dHw==" iconFile="Data/Images/Aeming.png" maxSize="128" miniMapVisibility="0" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
-        <POI MapID="1623" xpos="-146.6832" ypos="57.88803" zpos="-40.06859" type="leag.voe.story.astute" GUID="iPyPmYI1SkiMZbe55APrQw" iconFile="Data/Images/Destro.png" maxSize="128" miniMapVisibility="0" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
+        <POI MapID="1623" xpos="-146.6832" ypos="57.88803" zpos="-40.06859" type="leag.voe.story.astute" GUID="0bbd4+J1GUWo0XrgsScjdQ==" iconFile="Data/Images/Destro.png" maxSize="128" miniMapVisibility="0" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
         <POI MapID="1623" xpos="-144.0005" ypos="58.05204" zpos="-23.96709" type="leag.voe.story.astute" GUID="mh2rsHCS4U6WQz92nYlnNQ==" iconFile="Data/Images/Reatalle.png" maxSize="128" miniMapVisibility="0" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
         <POI MapID="1623" xpos="-129.4108" ypos="57.99081" zpos="-20.98979" type="leag.voe.story.astute" GUID="wOdr//85WkqRprDzA41LZw==" iconFile="Data/Images/Pugine.png" maxSize="128" miniMapVisibility="0" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
 

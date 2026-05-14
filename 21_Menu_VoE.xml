@@ -708,10 +708,10 @@
                 <MarkerCategory name="master" DisplayName="Master of Sacred Arms" achievementId="9248" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24">
                     <MarkerCategory name="event" DisplayName="EVENT: Thrumming Faceted Shadowstone" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Help Steward Cecco unfuse animals of their seer influence"/>
                 </MarkerCategory>
-                <MarkerCategory name="moth" DisplayName="Moth Enthusiast" achievementId="9337" iconFile="Data/Images/Icons/Moth.png" mapDisplaySize="48" inGameVisibility="0"/>
+                <MarkerCategory name="moth" DisplayName="Moth Enthusiast [H]" achievementId="9337" iconFile="Data/Images/Icons/Moth.png" mapDisplaySize="48" inGameVisibility="0" defaulttoggle="0"/>
 
                 <!-- Hidden? -->
-                <MarkerCategory name="otter" DisplayName="Otter Snack Time" achievementId="9249" iconFile="Data/Images/Icons/Fish.png" minSize="20" maxSize="24" mapVisibility="0"/>
+                <MarkerCategory name="otter" DisplayName="Otter Snack Time [H]" achievementId="9249" iconFile="Data/Images/Icons/Fish.png" minSize="20" maxSize="24" mapVisibility="0" defaulttoggle="0"/>
 
                 <MarkerCategory name="potd" DisplayName="Path of the Divine" achievementId="9304" iconFile="Data/Images/Icons/Historian Minna.png" minSize="20" maxSize="24" mapDisplaySize="48"/>
                 <MarkerCategory name="pilgrim" DisplayName="Pilgrim's Rest Renown Mastery" achievementId="9243" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24"/>
@@ -735,7 +735,7 @@
                 <!--
                 <MarkerCategory name="scour" DisplayName="Skimmer Relic Scour" achievementId="9254" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24"/>
                 -->
-                <MarkerCategory name="temple" DisplayName="Temple of Abnegation Jumping Puzzle" achievementId=""  fadeNear="1200" fadeFar="1600">
+                <MarkerCategory name="temple" DisplayName="Temple of Abnegation Jumping Puzzle" achievementId="9327"  fadeNear="1200" fadeFar="1600">
                     <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/Images/Jumping Puzzles/Temple of Abnegation.png" mapDisplaySize="128" inGameVisibility="0"/>
                 </MarkerCategory>
 
