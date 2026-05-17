@@ -151,12 +151,12 @@
         <POI MapID="1622" xpos="502.181" ypos="5.35297" zpos="-519.035" type="leag.voe.story.infiltration.hourglass" GUID="jd7kBHsLu0u9nPwzD3JNTw=="/>
         <POI MapID="1622" xpos="-543.651" ypos="23.4649" zpos="-624.977" type="leag.voe.story.infiltration.seer" GUID="Zs2nmKKcbkC8gyyRVdcSCw=="/>
         <POI MapID="1622" xpos="-344.656" ypos="-82.4566" zpos="155.703" type="leag.voe.story.infiltration.ley" GUID="/mti7HiW1kCLBpvGxO7nFg=="/>
+        <POI MapID="1622" xpos="516.144" ypos="-81.2032" zpos="249.053" type="leag.voe.story.infiltration.ley" GUID="1XpX6Mmx2EGHMnX13mPNnw=="/>
+        <POI MapID="1622" xpos="135.721" ypos="-93.5117" zpos="-264.449" type="leag.voe.story.infiltration.ley" GUID="DknwtkQgkU6qRNLOJwkHWQ=="/>
         <POI MapID="1622" xpos="-249.558" ypos="3.61211" zpos="360.367" type="leag.voe.story.infiltration.inquest" GUID="Bvv7LwMJfk+EFDklV5lnHg=="/>
         <POI MapID="1622" xpos="-197.382" ypos="36.0101" zpos="400.133" type="leag.voe.story.infiltration.copper" GUID="2StYGHVSq0apIgT+uXEF2Q=="/>
         <POI MapID="1622" xpos="245.539" ypos="1.63049" zpos="369.881" type="leag.voe.story.infiltration.inquest" GUID="j+6pwRteEUi+2j2SkbDzSQ=="/>
         <POI MapID="1622" xpos="226.982" ypos="7.42248" zpos="418.404" type="leag.voe.story.infiltration.cell" GUID="JrI4DvpQHkOTip+1MmV4UA=="/>
-        <POI MapID="1622" xpos="516.144" ypos="-81.2032" zpos="249.053" type="leag.voe.story.infiltration.ley" GUID="1XpX6Mmx2EGHMnX13mPNnw=="/>
-        <POI MapID="1622" xpos="135.721" ypos="-93.5117" zpos="-264.449" type="leag.voe.story.infiltration.ley" GUID="DknwtkQgkU6qRNLOJwkHWQ=="/>
         <POI MapID="1622" xpos="-168.373" ypos="-32.3342" zpos="-252.261" type="leag.voe.story.infiltration.pyrite" GUID="k4aWxoktjUK32e0rRezcdQ=="/>
         <POI MapID="1622" xpos="-445.597" ypos="24.9954" zpos="-132.345" type="leag.voe.story.infiltration.seer" GUID="g3W9VXJHMkWB4pDHUnkVCQ=="/>
         <POI MapID="1622" xpos="-51.1563" ypos="33.035" zpos="-13.6377" type="leag.voe.story.infiltration.inquest" GUID="c7J8l5y8sECO8+5kQ7v11g=="/>
@@ -228,6 +228,8 @@
         <POI MapID="1618" xpos="-142.099" ypos="33.1153" zpos="-73.3273" type="leag.voe.story.scouting" GUID="QseUpNYw80yU85eCRUOAfw=="/>
 
         <POI MapID="1618" xpos="-55.27228" ypos="5.832371" zpos="102.5721" type="leag.voe.story.diy" GUID="5ASW557xWkOvDk41aerQAg=="/>
+
+        <POI MapID="1622" xpos="-260.4165" ypos="41.25771" zpos="-109.2274" type="leag.voe.story.twist" GUID="ojRFyuxIG0C0hVi1Qrso5Q=="/>
 
         <!-- Chapter 13 -->
         <POI MapID="1620" xpos="505.147" ypos="51.64" zpos="475.988" type="leag.voe.story.written.joy" GUID="Zx1ViPwoqEan3aZqjrTY7w=="/>
