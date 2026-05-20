@@ -8,12 +8,12 @@
                 <MarkerCategory name="ally" DisplayName="Ally Assessment" iconFile="Data/Images/Icons/Talk.png" maxSize="32" heightOffset="3.5" mapDisplaySize="32" achievementId="4022"/>
                 <MarkerCategory name="evac" DisplayName="Amnoon Evacuation" iconFile="Data/Images/Icons/Orb - Blue - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32" achievementId="3329"/>
                 <MarkerCategory name="downtown" DisplayName="From Downtown!" iconFile="Data/Images/Icons/Orb - White - S.png" mapDisplaySize="32" inGameVisibility="0" achievementId="3961"/>
-                <MarkerCategory name="swimming" DisplayName="Gone Swimming [H]" iconFile="Data/Images/Icons/Diving Goggles.png" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0" achievementId="3986"/>
+                <MarkerCategory name="swimming" DisplayName="Gone Swimming [H]" iconFile="Data/Images/Icons/Diving Goggles.png" mapDisplaySize="32" inGameVisibility="0" achievementId="3986"/>
                 <MarkerCategory name="nightfall" DisplayName="Nightfall" iconFile="Data/Images/Icons/Orb - Purple - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
-                <MarkerCategory name="museum" DisplayName="That Belongs in a Museum [H]" iconFile="Data/Images/Icons/Ancient Chest.png" mapDisplaySize="48" inGameVisibility="0" defaulttoggle="0" achievementId="4032"/>
-                <MarkerCategory name="tale" DisplayName="Thereby Hangs a Tale [H]" defaulttoggle="0" achievementId="3972"/>
-                <MarkerCategory name="qais" DisplayName="Qais Closed [H]" iconFile="Data/Images/Icons/Talk.png" maxSize="24" heightOffset="4.5" defaulttoggle="0" achievementId="3984"/>
-                <MarkerCategory name="ribbon" DisplayName="You Left This [H]" iconFile="Data/Images/Icons/Taimi's Hair Bow.png" mapDisplaySize="40" inGameVisibility="0" defaulttoggle="0" achievementId="3975"/>
+                <MarkerCategory name="museum" DisplayName="That Belongs in a Museum [H]" iconFile="Data/Images/Icons/Ancient Chest.png" mapDisplaySize="48" inGameVisibility="0" achievementId="4032"/>
+                <MarkerCategory name="tale" DisplayName="Thereby Hangs a Tale [H]" achievementId="3972"/>
+                <MarkerCategory name="qais" DisplayName="Qais Closed [H]" iconFile="Data/Images/Icons/Talk.png" maxSize="24" heightOffset="4.5" achievementId="3984"/>
+                <MarkerCategory name="ribbon" DisplayName="You Left This [H]" iconFile="Data/Images/Icons/Taimi's Hair Bow.png" mapDisplaySize="40" inGameVisibility="0" achievementId="3975"/>
 
 
 
@@ -84,8 +84,8 @@
 
                 <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: A Star to Guide Us"/>
                 <MarkerCategory name="balth" DisplayName="Balthazar's Sword" iconFile="Data/Images/Icons/Balthazar's Sword.png" mapDisplaySize="48" inGameVisibility="0"/>
-                <MarkerCategory name="friend" DisplayName="I Brought a Friend [H]" iconFile="Data/Images/Icons/Orb - Orange - S.png" maxSize="32" mapDisplaySize="32" defaulttoggle="0" heightOffset="-0.5">
-                    <MarkerCategory name="swiftness" DisplayName="Swiftness" iconFile="Data/Images/Icons/Swiftness.png" maxSize="24" mapDisplaySize="32" defaulttoggle="0" heightOffset="-0.5"/>
+                <MarkerCategory name="friend" DisplayName="I Brought a Friend [H]" iconFile="Data/Images/Icons/Orb - Orange - S.png" maxSize="32" mapDisplaySize="32" heightOffset="-0.5">
+                    <MarkerCategory name="swiftness" DisplayName="Swiftness" iconFile="Data/Images/Icons/Swiftness.png" maxSize="24" mapDisplaySize="32" heightOffset="-0.5"/>
                 </MarkerCategory>
                 <MarkerCategory name="splat" DisplayName="Splat!" iconFile="Data/Images/Icons/Death.png" maxSize="32" achievementId="4347"/>
                 <MarkerCategory name="raptor" DisplayName="Raptor Out" achievementId="4428"/>
@@ -93,7 +93,7 @@
 
                 <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: All or Nothing"/>
                 <MarkerCategory name="oil" DisplayName="Resonance: Spill Oil Locations" iconFile="Data/Images/Icons/Orb - Black and White.png" maxSize="16" heightOffset="-0.5" achievementId="4497"/>
-                <MarkerCategory name="hyped" DisplayName="Appropriately Hyped [H]" iconFile="Data/Images/Icons/Talk.png" maxSize="32" heightOffset="3.5" mapDisplaySize="32" achievementId="4557" defaulttoggle="0"/>
+                <MarkerCategory name="hyped" DisplayName="Appropriately Hyped [H]" iconFile="Data/Images/Icons/Talk.png" maxSize="32" heightOffset="3.5" mapDisplaySize="32" achievementId="4557"/>
                 <MarkerCategory name="stubborn" DisplayName="Stubborn">
                     <MarkerCategory name="mellitus" DisplayName="Hearty Meal" iconFile="Data/Images/Icons/Hearty Meal.png" maxSize="16" heightOffset="3.5"/>
                     <MarkerCategory name="amira" DisplayName="Reinforced Armor" iconFile="Data/Images/Icons/Reinforced Armor.png" maxSize="16" heightOffset="3.5"/>
@@ -107,7 +107,7 @@
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
-            <MarkerCategory name="istan" DisplayName="Domain of Istan" defaulttoggle="0">
+            <MarkerCategory name="istan" DisplayName="Domain of Istan">
                 <MarkerCategory name="bookworm" DisplayName="Bookworm" iconFile="Data/Images/Orb - Dark Yellow.png" maxSize="12" heightOffset="-0.5" mapDisplaySize="24" achievementId="3999"/>
                 <MarkerCategory name="corsair" DisplayName="Corsair Keepsakes" achievementId="3958">
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
@@ -148,8 +148,8 @@
                 </MarkerCategory>
             </MarkerCategory>
 
-            <MarkerCategory name="kourna" DisplayName="Domain of Kourna" defaulttoggle="0">
-                <MarkerCategory name="crab" DisplayName="Crab Kickin' [H]" iconFile="Data/Images/Icons/Surly Crab.png" defaulttoggle="0" mapDisplaySize="32" inGameVisibility="0" achievementId="4222" tip-name="Crab Kickin'"/>
+            <MarkerCategory name="kourna" DisplayName="Domain of Kourna">
+                <MarkerCategory name="crab" DisplayName="Crab Kickin' [H]" iconFile="Data/Images/Icons/Surly Crab.png" mapDisplaySize="32" inGameVisibility="0" achievementId="4222" tip-name="Crab Kickin'"/>
                 <MarkerCategory name="choya" DisplayName="Dances with Cacti" iconFile="Data/Images/Icons/Choya.png" mapDisplaySize="32" inGameVisibility="0" achievementId="4203" tip-name="Dances with Cacti"/>
                 <MarkerCategory name="debbie" DisplayName="Debbie's Cakes" iconFile="Data/Images/Icons/Debbie's Cake.png" mapDisplaySize="32" inGameVisibility="0" achievementId="4204" tip-name="Debbie's Cakes"/>
 
@@ -217,7 +217,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-                <MarkerCategory name="hero" DisplayName="More Than a Hero" achievementId="4207" defaulttoggle="0">
+                <MarkerCategory name="hero" DisplayName="More Than a Hero" achievementId="4207">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="talk" DisplayName="Talk to Lady Camilla" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
                     <MarkerCategory name="banner" IsSeparator="1" DisplayName="Banner of the Commander"/>
@@ -235,7 +235,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-                <MarkerCategory name="symbol" DisplayName="More Than a Hero, A Symbol" achievementId="4186" defaulttoggle="0">
+                <MarkerCategory name="symbol" DisplayName="More Than a Hero, A Symbol" achievementId="4186">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="talk" DisplayName="Talk to Lady Camilla" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
                     <MarkerCategory name="banner" IsSeparator="1" DisplayName="Banner of the Dauntless Commander"/>
@@ -253,7 +253,7 @@
                         <MarkerCategory name="merit" DisplayName="Inventor's Merit" iconFile="data/images/icons/inventor's merit.png" mapDisplaySize="64" inGameVisibility="0"/>
                     </MarkerCategory>
 
-                    <MarkerCategory name="tyrian" DisplayName="Tyrian Service Medal" achievementId="4233" defaulttoggle="0">
+                    <MarkerCategory name="tyrian" DisplayName="Tyrian Service Medal" achievementId="4233">
                         <MarkerCategory name="wb" IsSeparator="1" DisplayName="WORLD BOSSES"/>
                         <MarkerCategory name="coj" DisplayName="Claw of Jormag" iconFile="Data/Images/Icons/World Boss.png" mapDisplaySize="48" inGameVisibility="0"/>
                         <MarkerCategory name="fe" DisplayName="Fire Elemental" iconFile="Data/Images/Icons/World Boss.png" mapDisplaySize="48" inGameVisibility="0"/>
@@ -270,7 +270,7 @@
                         <MarkerCategory name="coz" DisplayName="Zephyrs" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
                     </MarkerCategory>
                     <MarkerCategory name="collectible" IsSeparator="1" DisplayName="COLLECTIBLES"/>
-                    <MarkerCategory name="urn" DisplayName="Urn of Heroic Ashes" defaulttoggle="0">
+                    <MarkerCategory name="urn" DisplayName="Urn of Heroic Ashes">
                         <MarkerCategory name="source" IsSeparator="1" DisplayName="SOURCE"/>
                         <MarkerCategory name="camilla" DisplayName="Lady Camilla"/>
                     </MarkerCategory>
@@ -278,7 +278,7 @@
 
             </MarkerCategory>
 
-            <MarkerCategory name="jahai" DisplayName="Jahai Bluffs" defaulttoggle="0">
+            <MarkerCategory name="jahai" DisplayName="Jahai Bluffs">
                 <MarkerCategory name="hunter" DisplayName="Big Bluffs Hunter" achievementId="4434">
                     <MarkerCategory name="elasa" DisplayName="Elasa the Elemental" iconFile="Data/Images/Elasa the Elemental.png" mapDisplaySize="64" inGameVisibility="0" tip-name="Big Bluffs Hunter" tip-description="Elasa the Elemental"/>
                     <MarkerCategory name="aasma" DisplayName="Judge Aasma" iconFile="Data/Images/Judge Aasma.png" mapDisplaySize="64" inGameVisibility="0" tip-name="Big Bluffs Hunter" tip-description="Judge Aasma"/>
@@ -292,7 +292,7 @@
                     <MarkerCategory name="vemyen" DisplayName="Branded djinn Vemyan" iconFile="Data/Images/Vemyen.png" mapDisplaySize="64" inGameVisibility="0" tip-name="Branded djinn Vemyan"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="door" DisplayName="Door to the Past [H]" achievementId="4348" defaulttoggle="0">
+                <MarkerCategory name="door" DisplayName="Door to the Past [H]" achievementId="4348">
                     <MarkerCategory name="earth" DisplayName="Rune of the Earth" iconFile="Data/Images/Rune of the Earth.png" maxSize="32"/>
                     <MarkerCategory name="seed" DisplayName="Rune of the Seed" iconFile="Data/Images/Rune of the Seed.png" maxSize="32"/>
                     <MarkerCategory name="thorn" DisplayName="Rune of the Thorn" iconFile="Data/Images/Rune of the Thorn.png" maxSize="32"/>
@@ -300,12 +300,12 @@
                     <MarkerCategory name="wind" DisplayName="Rune of the Wind" iconFile="Data/Images/Rune of the Wind.png" maxSize="32"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="ethereal" DisplayName="Ethereal Exchange [H]" iconFile="Data/Images/Emote - Kneel.png" maxSize="32" achievementId="4414" defaulttoggle="0">
+                <MarkerCategory name="ethereal" DisplayName="Ethereal Exchange [H]" iconFile="Data/Images/Emote - Kneel.png" maxSize="32" achievementId="4414">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64" inGameVisibility="0"/>                    
                     <MarkerCategory name="kneel" DisplayName="Toggle Kneel" iconFile="Data/Images/Emote - Kneel.png" maxSize="32"/>
                 </MarkerCategory>
-                <MarkerCategory name="exhibit" DisplayName="Exhibit Aye [H]" achievementId="4403" defaulttoggle="0">
+                <MarkerCategory name="exhibit" DisplayName="Exhibit Aye [H]" achievementId="4403">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64" inGameVisibility="0"/>
                     <MarkerCategory name="aye" DisplayName="Toggle Exhibit" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.5"/>
@@ -314,12 +314,12 @@
                     <MarkerCategory name="location" IsSeparator="1" DisplayName="LOCATION"/>
                     <MarkerCategory name="sr" DisplayName="Sun's Refuge" iconFile="Data/Images/Icons/Start.png"/>
                 </MarkerCategory>
-                <MarkerCategory name="fishy" DisplayName="Fishy Business [H]" achievementId="4419" defaulttoggle="0">
+                <MarkerCategory name="fishy" DisplayName="Fishy Business [H]" achievementId="4419">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>                    
                     <MarkerCategory name="fish" DisplayName="Toggle Elonian Red Trout" iconFile="Data/Images/Icons/Elonian Red Trout.png" mapDisplaySize="40" inGameVisibility="0"/>
                     <MarkerCategory name="talk" DisplayName="Talk to Lofa (After Heart)" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
                 </MarkerCategory>
-                <MarkerCategory name="fragments" DisplayName="Fragments I Have Shored [H]" achievementId="4373" defaulttoggle="0">
+                <MarkerCategory name="fragments" DisplayName="Fragments I Have Shored [H]" achievementId="4373">
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64" inGameVisibility="0"/>
                     <MarkerCategory name="location" IsSeparator="1" DisplayName="LOCATION"/>
                     <MarkerCategory name="sr" DisplayName="Sun's Refuge"/>
@@ -334,7 +334,7 @@
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64" inGameVisibility="0"/>
                     <MarkerCategory name="egg" DisplayName="Harpy Egg" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="12" mapDisplaySize="16" heightOffset="-0.5"/>
                 </MarkerCategory>
-                <MarkerCategory name="gotchu" DisplayName="Gotchu! [H]" achievementId="4366" defaulttoggle="0">
+                <MarkerCategory name="gotchu" DisplayName="Gotchu! [H]" achievementId="4366">
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="64" inGameVisibility="0"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32"/>
                     <MarkerCategory name="location" IsSeparator="1" DisplayName="LOCATION"/>
@@ -372,7 +372,7 @@
 
                 <MarkerCategory name="fungi" DisplayName="No More Mr. Fungi" achievementId="4401" iconFile="Data/Images/Icons/Bad Trip.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="48"/>
 
-                <MarkerCategory name="philanthropist" DisplayName="Philanthropist [H]" achievementId="4374" defaulttoggle="0">
+                <MarkerCategory name="philanthropist" DisplayName="Philanthropist [H]" achievementId="4374">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32"/>
@@ -382,7 +382,7 @@
                 
                 <MarkerCategory name="rafnr" DisplayName="Run Around for No Reason" achievementId="4390"/>
 
-                <MarkerCategory name="watchful" DisplayName="Watchful Eyes [H]" achievementId="4407" defaulttoggle="0">
+                <MarkerCategory name="watchful" DisplayName="Watchful Eyes [H]" achievementId="4407">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="kneel" DisplayName="Kneel" iconFile="Data/Images/Emote - Kneel.png" maxSize="32"/>
@@ -399,7 +399,7 @@
 
                 <MarkerCategory name="collection" IsSeparator="1" DisplayName="COLLECTIONS"/>
 
-                <MarkerCategory name="crystal" DisplayName="Crystal Attunement [H]" achievementId="4433" defaulttoggle="0">
+                <MarkerCategory name="crystal" DisplayName="Crystal Attunement [H]" achievementId="4433">
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
@@ -417,7 +417,7 @@
                     <MarkerCategory name="location" IsSeparator="1" DisplayName="LOCATION"/>
                     <MarkerCategory name="sr" DisplayName="Sun's Refuge" iconFile="Data/Images/Icons/Start.png"/>
                 </MarkerCategory>
-                <MarkerCategory name="sand" DisplayName="In a Grain of Sand [H]" achievementId="4406" defaulttoggle="0">
+                <MarkerCategory name="sand" DisplayName="In a Grain of Sand [H]" achievementId="4406">
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
@@ -431,7 +431,7 @@
                     <MarkerCategory name="sr" DisplayName="Sun's Refuge" iconFile="Data/Images/Icons/Start.png"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="nest" DisplayName="Good, Better, Nest [H]" achievementId="4426" defaulttoggle="0">
+                <MarkerCategory name="nest" DisplayName="Good, Better, Nest [H]" achievementId="4426">
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32"/>
                     <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="Clear out the Awakened Inquest lab"/>
@@ -446,7 +446,7 @@
                     
                 </MarkerCategory>
 
-                <MarkerCategory name="memorabilia" DisplayName="Memorabilia [H]" achievementId="4417" defaulttoggle="0">
+                <MarkerCategory name="memorabilia" DisplayName="Memorabilia [H]" achievementId="4417">
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="item" DisplayName="Toggle Item" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="20" mapDisplaySize="32" heightOffset="-0.5"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32"/>
@@ -469,7 +469,7 @@
                     <MarkerCategory name="sr" DisplayName="Sun's Refuge"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="poster" DisplayName="Poster Child [H]" achievementId="4398" defaulttoggle="0" mapDisplaySize="16">
+                <MarkerCategory name="poster" DisplayName="Poster Child [H]" achievementId="4398" mapDisplaySize="16">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32"/>
@@ -478,7 +478,7 @@
                     <MarkerCategory name="sr" DisplayName="Sun's Refuge"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="readathon" DisplayName="Readathon [H]" achievementId="4387" defaulttoggle="0">
+                <MarkerCategory name="readathon" DisplayName="Readathon [H]" achievementId="4387">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
@@ -502,7 +502,7 @@
                     <MarkerCategory name="sr" DisplayName="Sun's Refuge"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="elegy" DisplayName="The Convergence of Sorrow I: Elegy" achievementId="4376" defaulttoggle="0">
+                <MarkerCategory name="elegy" DisplayName="The Convergence of Sorrow I: Elegy" achievementId="4376">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32"/>
@@ -537,7 +537,7 @@
                     <MarkerCategory name="sr" DisplayName="Sun's Refuge"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="requiem" DisplayName="The Convergence of Sorrow II: Requiem" achievementId="4362" defaulttoggle="0">
+                <MarkerCategory name="requiem" DisplayName="The Convergence of Sorrow II: Requiem" achievementId="4362">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32"/>
@@ -575,7 +575,7 @@
             </MarkerCategory>
 
 
-            <MarkerCategory name="sandswept" DisplayName="Sandswept Isles" defaulttoggle="0">
+            <MarkerCategory name="sandswept" DisplayName="Sandswept Isles">
                 <MarkerCategory name="branded" DisplayName="A Branded Blast" iconFile="Data/Images/Icons/Orb - Purple.png" maxSize="12" heightOffset="-0.5" mapDisplaySize="24" achievementId="4119" tip-name="A Branded Blast"/>
                 <MarkerCategory name="insuppressible" DisplayName="Insuppressible" iconFile="Data/Images/Mark III Suppressor Golem.png" inGameVisibility="0" mapDisplaySize="96" achievementId="4132" tip-name="Insuppressible"/>
                 
@@ -606,7 +606,7 @@
 
                 <MarkerCategory name="collection" IsSeparator="1" DisplayName="COLLECTION"/>
                     
-                <MarkerCategory name="bonds" DisplayName="Lasting Bonds [H]" defaulttoggle="0">
+                <MarkerCategory name="bonds" DisplayName="Lasting Bonds [H]">
 
                     <MarkerCategory name="from" DisplayName="1. Where We Come From"  achievementId="4144">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -626,7 +626,7 @@
                         </MarkerCategory>
                     </MarkerCategory>
 
-                    <MarkerCategory name="here" DisplayName="2. What We Do Here [H]" defaulttoggle="0" achievementId="4106">
+                    <MarkerCategory name="here" DisplayName="2. What We Do Here [H]" achievementId="4106">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
@@ -653,7 +653,7 @@
 
                     </MarkerCategory>
                     
-                    <MarkerCategory name="next" DisplayName="3. What Comes Next [H]" defaulttoggle="0" achievementId="4112">
+                    <MarkerCategory name="next" DisplayName="3. What Comes Next [H]" achievementId="4112">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
@@ -681,7 +681,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-                <MarkerCategory name="ig6417" DisplayName="IG-6417" defaulttoggle="0">
+                <MarkerCategory name="ig6417" DisplayName="IG-6417">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32" miniMapVisibility="0" mapVisibility="0"/>
                     <MarkerCategory name="achievement" IsSeparator="1" DisplayName="ACHIEVEMENT"/>
@@ -896,7 +896,7 @@
                 </MarkerCategory>
             </MarkerCategory>
 
-            <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks" defaulttoggle="0">
+            <MarkerCategory name="thunderhead" DisplayName="Thunderhead Peaks">
 
                 <MarkerCategory name="shatterer" DisplayName="A Different Kind of Shatterer" iconFile="Data/Images/Icons/Branded Crystal.png" mapDisplaySize="32" inGameVisibility="0" achievementId="4604" tip-name="EVENT: A Different Kind of Shatterer"/>
                 <MarkerCategory name="mine" DisplayName="Don't Mine If I Do" iconFile="Data/Images/Icons/Dragonsblood Shrapnel Mine.png" maxSize="16" mapDisplaySize="32" inGameVisibility="1" achievementId="4507" tip-name="Don't Mine If I Do" tip-description="Place Dragonsblood Shrapnel Mines"/>
@@ -934,7 +934,7 @@
                 <MarkerCategory name="rodeo" DisplayName="Hydra Rodeo" achievementId="4522" iconFile="Data/Images/Champion Ancient Ice Hydra.png" mapDisplaySize="64" inGameVisibility="0" tip-name="EVENT: Hydra Rodeo"/>
 
                 <!-- It's Getting Hot in Here -->
-                <MarkerCategory name="ighih" DisplayName="It's Getting Hot in Here [H]" achievementId="4503" defaulttoggle="0" iconFile="Data/Images/Icons/Orb - Red - S.png" inGameVisibility="1" maxSize="16" mapDisplaySize="24" heightOffset="-0.5" autotrigger="1" triggerrange="5"/>
+                <MarkerCategory name="ighih" DisplayName="It's Getting Hot in Here [H]" achievementId="4503" iconFile="Data/Images/Icons/Orb - Red - S.png" inGameVisibility="1" maxSize="16" mapDisplaySize="24" heightOffset="-0.5" autotrigger="1" triggerrange="5"/>
                 
                 <MarkerCategory name="junk" DisplayName="Junk Debunk" achievementId="4621">
                     <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128" tip-name="EVENT: Junk Debunk"/>
@@ -966,7 +966,7 @@
                 </MarkerCategory>
                 
                 <MarkerCategory name="fugitive" DisplayName="The Fugitive" achievementId="4569" iconFile="Data/Images/Icons/Death-Branded Hessper Sasso.png" inGameVisibility="0" mapDisplaySize="48" tip-name="The Fugitive" tip-description="Death-Branded Hessper Sasso"/>
-                <MarkerCategory name="throne" DisplayName="The Ironhammer Throne [H]" achievementId="4581" defaulttoggle="0">
+                <MarkerCategory name="throne" DisplayName="The Ironhammer Throne [H]" achievementId="4581">
                     <MarkerCategory name="emote" DisplayName="Sit" iconFile="Data/Images/Icons/Targeted Object - Green.png" maxSize="32"/>
                 </MarkerCategory>
                 <MarkerCategory name="music" DisplayName="The Master of Music" achievementId="4600">
@@ -1010,76 +1010,76 @@
                 
 
                 <MarkerCategory name="collection" IsSeparator="1" DisplayName="COLLECTIONS"/>
-                <MarkerCategory name="tales" DisplayName="Chasing Tales" defaulttoggle="0">
+                <MarkerCategory name="tales" DisplayName="Chasing Tales">
                     <MarkerCategory name="guidance" DisplayName="Guidance" achievementId="4566" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="42" miniMapVisibility="0" mapVisibility="1"/>
-                    <MarkerCategory name="axe" DisplayName="Harkon Hakson the Maelstrom [H]" achievementId="4623" defaulttoggle="0">
+                    <MarkerCategory name="axe" DisplayName="Harkon Hakson the Maelstrom [H]" achievementId="4623">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                          <MarkerCategory name="axe" DisplayName="Axe" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="dagger" DisplayName="Belitrea the Blade of Want [H]" achievementId="4607" defaulttoggle="0">
+                    <MarkerCategory name="dagger" DisplayName="Belitrea the Blade of Want [H]" achievementId="4607">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="dagger" DisplayName="Dagger" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="focus" DisplayName="Asaliea the Channeler [H]" achievementId="4619" defaulttoggle="0">
+                    <MarkerCategory name="focus" DisplayName="Asaliea the Channeler [H]" achievementId="4619">
                         <MarkerCategory name="storm" DisplayName="Temporal Storm" iconFile="Data/Images/Icons/Temporal Storm.png" mapDisplaySize="32" tip-name="Temporal Storm"/>
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="focus" DisplayName="Focus" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="greatsword" DisplayName="Kobbel the Poetic [H]" achievementId="4562" defaulttoggle="0">
+                    <MarkerCategory name="greatsword" DisplayName="Kobbel the Poetic [H]" achievementId="4562">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="greatsword" DisplayName="Greatsword" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="hammer" DisplayName="Katarin the Bonecrusher [H]" achievementId="4620" defaulttoggle="0">
+                    <MarkerCategory name="hammer" DisplayName="Katarin the Bonecrusher [H]" achievementId="4620">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="hammer" DisplayName="Hammer" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="longbow" DisplayName="Azra the Sunslayer [H]" achievementId="4558" defaulttoggle="0">
+                    <MarkerCategory name="longbow" DisplayName="Azra the Sunslayer [H]" achievementId="4558">
                         <MarkerCategory name="sun" DisplayName="Miniature Sun" iconFile="Data/Images/Icons/Miniature Sun.png" mapDisplaySize="32" tip-name="Miniature Sun"/>
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="longbow" DisplayName="Longbow" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="mace" DisplayName="Mouglon the Watchful [H]" achievementId="4560" defaulttoggle="0">
+                    <MarkerCategory name="mace" DisplayName="Mouglon the Watchful [H]" achievementId="4560">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="mace" DisplayName="Mace" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="pistol" DisplayName="Durio the Contemptuous [H]" achievementId="4518" defaulttoggle="0">
+                    <MarkerCategory name="pistol" DisplayName="Durio the Contemptuous [H]" achievementId="4518">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="pistol" DisplayName="Pistol" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="rifle" DisplayName="Baverne the Hunter [H]" achievementId="4521" defaulttoggle="0">
+                    <MarkerCategory name="rifle" DisplayName="Baverne the Hunter [H]" achievementId="4521">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="rifle" DisplayName="Rifle" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="scepter" DisplayName="Mirren the Manipulator [H]" achievementId="4535" defaulttoggle="0">
+                    <MarkerCategory name="scepter" DisplayName="Mirren the Manipulator [H]" achievementId="4535">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="scepter" DisplayName="Scepter" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="shield" DisplayName="Wossaul the Giant [H]" achievementId="4502" defaulttoggle="0">
+                    <MarkerCategory name="shield" DisplayName="Wossaul the Giant [H]" achievementId="4502">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="shield" DisplayName="Shield" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="shortbow" DisplayName="Mosa the Majestic [H]" achievementId="4556" defaulttoggle="0">
+                    <MarkerCategory name="shortbow" DisplayName="Mosa the Majestic [H]" achievementId="4556">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="shortbow" DisplayName="Short Bow" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="staff" DisplayName="Elegos the Harmless [H]" achievementId="4533" defaulttoggle="0">
+                    <MarkerCategory name="staff" DisplayName="Elegos the Harmless [H]" achievementId="4533">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="staff" DisplayName="Staff" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="sword" DisplayName="Carver the Carver [H]" achievementId="4523" defaulttoggle="0">
+                    <MarkerCategory name="sword" DisplayName="Carver the Carver [H]" achievementId="4523">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="sword" DisplayName="Sword" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="torch" DisplayName="Haliver the Seeker [H]" achievementId="4598" defaulttoggle="0">
+                    <MarkerCategory name="torch" DisplayName="Haliver the Seeker [H]" achievementId="4598">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="torch" DisplayName="Torch" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
-                    <MarkerCategory name="warhorn" DisplayName="Codd the Cheerful [H]" achievementId="4573" defaulttoggle="0">
+                    <MarkerCategory name="warhorn" DisplayName="Codd the Cheerful [H]" achievementId="4573">
                         <MarkerCategory name="weapon" IsSeparator="1" DisplayName="WEAPON"/>
                         <MarkerCategory name="warhorn" DisplayName="Warhorn" iconFile="Data/Images/Icons/Blank.png"/>
                     </MarkerCategory>
                 </MarkerCategory>
-                <MarkerCategory name="forge" DisplayName="Journeyman of the Forge" achievementId="4577" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="42" miniMapVisibility="0" mapVisibility="1" defaulttoggle="0">
+                <MarkerCategory name="forge" DisplayName="Journeyman of the Forge" achievementId="4577" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="42" miniMapVisibility="0" mapVisibility="1">
                     <MarkerCategory name="axe" DisplayName="Dragonsblood Axe"/>
                     <MarkerCategory name="dagger" DisplayName="Dragonsblood Dagger"/>
                     <MarkerCategory name="focus" DisplayName="Dragonsblood Focus"/>
@@ -1101,7 +1101,7 @@
             </MarkerCategory>
 
 
-            <MarkerCategory name="dragonfall" DisplayName="Dragonfall" defaulttoggle="0">
+            <MarkerCategory name="dragonfall" DisplayName="Dragonfall">
                 <MarkerCategory name="bout" DisplayName="Championship Bout" achievementId="4708">
                     <MarkerCategory name="brandedair" DisplayName="Ley-Infused Branded Air Elemental" iconFile="Data/Images/Icons/Ley-Infused Branded Air Elemental.png" inGameVisibility="0" mapDisplaySize="48" tip-name="Ley-Infused Branded Air Elemental"/>
                     <MarkerCategory name="brandeddevourer" DisplayName="Ley-Infused Branded Devourer" iconFile="Data/Images/Icons/Ley-Infused Branded Devourer.png" inGameVisibility="0" mapDisplaySize="48" tip-name="Ley-Infused Branded Devourer"/>
@@ -1129,7 +1129,7 @@
                     <MarkerCategory name="wrathbringer" DisplayName="Death-Branded Wrathbringer" iconFile="Data/Images/Icons/Death-Branded Wrathbringer.png" inGameVisibility="0" mapDisplaySize="64" tip-name="Legendary Death-Branded Wrathbringer"/>
                 </MarkerCategory>
                 <MarkerCategory name="collection" IsSeparator="1" DisplayName="COLLECTIONS"/>
-                <MarkerCategory name="newborn" DisplayName="Newborn Skyscales" achievementId="4714" defaulttoggle="0">
+                <MarkerCategory name="newborn" DisplayName="Newborn Skyscales" achievementId="4714">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="talk" DisplayName="Talk to Gorrik" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
                         <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
@@ -1190,7 +1190,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-                <MarkerCategory name="saving" DisplayName="Saving Skyscales" achievementId="4712" mapDisplaySize="16" defaulttoggle="0">
+                <MarkerCategory name="saving" DisplayName="Saving Skyscales" achievementId="4712" mapDisplaySize="16">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
@@ -1216,7 +1216,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-                <MarkerCategory name="raising" DisplayName="Raising Skyscales" achievementId="4693" defaulttoggle="0">
+                <MarkerCategory name="raising" DisplayName="Raising Skyscales" achievementId="4693">
                     <MarkerCategory name="care" DisplayName="Skyscale Care">
                         <MarkerCategory name="food" DisplayName="Piece of Skyscale Food" iconFile="Data/Images/Icons/Skyscale Food.png" maxSize="16"/>
                         <MarkerCategory name="loc" IsSeparator="1" DisplayName="LOCATION"/>
@@ -1303,7 +1303,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-                <MarkerCategory name="trouble" DisplayName="Troublesome Skyscales" achievementId="4675" defaulttoggle="0">
+                <MarkerCategory name="trouble" DisplayName="Troublesome Skyscales" achievementId="4675">
                     <MarkerCategory name="lost" DisplayName="Skyscale Lost">
                         <MarkerCategory name="talk" DisplayName="Talk to Gorrik" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
@@ -1334,7 +1334,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
                 
-                <MarkerCategory name="riding" DisplayName="Riding Skyscales" achievementId="4745" defaulttoggle="0">
+                <MarkerCategory name="riding" DisplayName="Riding Skyscales" achievementId="4745">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="32" mapDisplaySize="32"/>
@@ -1394,7 +1394,7 @@
                     </MarkerCategory>
                 </MarkerCategory>
                 
-                <MarkerCategory name="flying" DisplayName="Flying Skyscales" achievementId="4668" iconFile="Data/Images/Icons/Reality Tear.png" inGameVisibility="0" mapDisplaySize="72" defaulttoggle="0">
+                <MarkerCategory name="flying" DisplayName="Flying Skyscales" achievementId="4668" iconFile="Data/Images/Icons/Reality Tear.png" inGameVisibility="0" mapDisplaySize="72">
                     
                     <MarkerCategory name="req" IsSeparator="1" DisplayName="REQUIRES: Rift Repair Mastery"/>
                     <!--

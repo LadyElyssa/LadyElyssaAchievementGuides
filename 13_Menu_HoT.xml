@@ -57,7 +57,7 @@
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
-            <MarkerCategory name="vb" DisplayName="Verdant Brink" defaulttoggle="0">
+            <MarkerCategory name="vb" DisplayName="Verdant Brink">
                 <MarkerCategory name="ffs" DisplayName="''Faren's Flyer'' Strongbox" achievementId="2631">
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
                     <MarkerCategory name="strongbox" DisplayName="Toggle Strongbox" iconFile="Data/Images/Icons/Strongbox.png" mapDisplaySize="32" inGameVisibility="0"/>
@@ -117,7 +117,7 @@
 
             </MarkerCategory>
             
-            <MarkerCategory name="ab" DisplayName="Auric Basin" defaulttoggle="0">
+            <MarkerCategory name="ab" DisplayName="Auric Basin">
 
                 <MarkerCategory name="es" DisplayName="''Endurance'' Strongbox" achievementId="2565">
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
@@ -204,7 +204,7 @@
 
             </MarkerCategory>
 
-            <MarkerCategory name="td" DisplayName="Tangled Depths" defaulttoggle="0">
+            <MarkerCategory name="td" DisplayName="Tangled Depths">
                 
                 <!-- Cryptonym Strongbox -->
                 <MarkerCategory name="cryptonym" DisplayName="''Cryptonym'' Strongbox" achievementId="2365">
@@ -303,7 +303,7 @@
             </MarkerCategory>
 
             <!-- DRAGON'S STAND -->
-            <MarkerCategory name="ds" DisplayName="Dragon's Stand" defaulttoggle="0">
+            <MarkerCategory name="ds" DisplayName="Dragon's Stand">
 
 
             <!-- Dragon's Stand Overviewer -->

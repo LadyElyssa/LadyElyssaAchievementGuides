@@ -35,19 +35,19 @@
                 <MarkerCategory name="zojja" DisplayName="Help Zojja">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="marker" DisplayName="Toggle Marker" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
-                    <MarkerCategory name="trail" DisplayName="Toggle Trail" color="365DAD" defaulttoggle="0"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" color="365DAD"/>
                 </MarkerCategory>
                 <MarkerCategory name="skritt" DisplayName="Help R'tchikk">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="marker" DisplayName="Toggle Marker" iconFile="Data/Images/Icons/Orb - Yellow.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
-                    <MarkerCategory name="trail" DisplayName="Toggle Trail" color="BAA53F" defaulttoggle="0"/>
+                    <MarkerCategory name="trail" DisplayName="Toggle Trail" color="BAA53F"/>
                 </MarkerCategory>
                 <MarkerCategory name="frode" DisplayName="Help Frode">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="marker" DisplayName="Toggle Marker" iconFile="Data/Images/Icons/Orb - Red.png" alpha="0.8" maxSize="16" heightOffset="-0.5"/>
                 </MarkerCategory>
             </MarkerCategory>
-            <MarkerCategory name="keys" DisplayName="Bastion Keys" texture="Data/Images/Trails/Dashed Line with Shadow.png" defaulttoggle="0">
+            <MarkerCategory name="keys" DisplayName="Bastion Keys" texture="Data/Images/Trails/Dashed Line with Shadow.png">
                 <MarkerCategory name="balance" DisplayName="Toggle Balance"/>
                 <MarkerCategory name="celestial" DisplayName="Toggle Celestial" color="5400FF"/>
                 <MarkerCategory name="knowledge" DisplayName="Toggle Knowledge" color="664400"/>
@@ -115,8 +115,8 @@
 
         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
-        <MarkerCategory name="am" DisplayName="Amnytas" defaulttoggle="0">
-        <MarkerCategory name="apk" DisplayName="A Promise Kept [H] (Do Comrades in Arms First)" defaulttoggle="0" achievementId="7059">
+        <MarkerCategory name="am" DisplayName="Amnytas">
+        <MarkerCategory name="apk" DisplayName="A Promise Kept [H] (Do Comrades in Arms First)" achievementId="7059">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="basil" DisplayName="Basil"/>
             <MarkerCategory name="la" IsSeparator="1" DisplayName="  | LION'S ARCH"/>
@@ -181,7 +181,7 @@
             </MarkerCategory>    
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
         </MarkerCategory>
-        <MarkerCategory name="ia" DisplayName="Illuminating Amnytas (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" defaulttoggle="0" achievementId="7053">
+        <MarkerCategory name="ia" DisplayName="Illuminating Amnytas (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" achievementId="7053">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
             <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Yellow.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
@@ -198,7 +198,7 @@
             <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
         </MarkerCategory>
         <MarkerCategory name="llliw" DisplayName="Laugh Like Lyhr Is Watching (After Lyhr Escort Event)  " texture="Data/Images/Trails/Trail Marker 1.png" achievementId="7165"/>
-        <MarkerCategory name="sorrows" DisplayName="Sorrow's Lost [H] " defaulttoggle="0">
+        <MarkerCategory name="sorrows" DisplayName="Sorrow's Lost [H] ">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="3" DisplayName="3. I: The Forager"/>
             <MarkerCategory name="4" DisplayName="4. II: The Minister Illuminate"/>
@@ -231,7 +231,7 @@
         <MarkerCategory name="wtwp" DisplayName="Wrong Time, Wrong Place" achievementId="6988"/>
         </MarkerCategory>
 
-        <MarkerCategory name="in" DisplayName="Inner Nayos" defaulttoggle="0">
+        <MarkerCategory name="in" DisplayName="Inner Nayos">
         <MarkerCategory name="war" DisplayName="A Record of War" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png" achievementId="7830">
             <MarkerCategory name="balance" IsSeparator="1" DisplayName="  : Balance"/>
             <MarkerCategory name="b1" DisplayName="1. Agathine at the Old Settlement."/>
@@ -290,7 +290,7 @@
             <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
             <MarkerCategory name="hint" DisplayName="Heitor's Gate"/>
         </MarkerCategory>
-        <MarkerCategory name="iin" DisplayName="Illuminating Inner Nayos (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" defaulttoggle="0" achievementId="7809">
+        <MarkerCategory name="iin" DisplayName="Illuminating Inner Nayos (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" achievementId="7809">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
             <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Yellow.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
@@ -402,7 +402,7 @@
         </MarkerCategory>
         </MarkerCategory>
 
-        <MarkerCategory name="sa" DisplayName="Skywatch Archipelago" defaulttoggle="0">
+        <MarkerCategory name="sa" DisplayName="Skywatch Archipelago">
         <MarkerCategory name="back" DisplayName="...Back Again" achievementId="7202"/>
         <MarkerCategory name="dtt" DisplayName="Don't Think Twice" achievementId="7379">
             <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
@@ -417,7 +417,7 @@
             <MarkerCategory name="hint" DisplayName="Glint's Shrine in Droknar's Light"/>
         </MarkerCategory>
 
-        <MarkerCategory name="isa" DisplayName="Illuminating Skywatch Archipelago (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" defaulttoggle="0" achievementId="7126">
+        <MarkerCategory name="isa" DisplayName="Illuminating Skywatch Archipelago (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" achievementId="7126">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
             <MarkerCategory name="lantern" DisplayName="Toggle Lantern Markers" iconFile="Data/Images/Lantern - Yellow.png" mapVisibility="1" minimapVisibility="1" inGameVisibility="1" heightOffset="0" maxSize="12"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
@@ -500,8 +500,8 @@
         <MarkerCategory name="there" DisplayName="There and..." achievementId="7092"/>
         </MarkerCategory>
 
-        <MarkerCategory name="twt" DisplayName="The Wizard's Tower" defaulttoggle="0">
-        <MarkerCategory name="cia" DisplayName="Comrades in Arms [H] " iconFile="Data/Images/Circle.png" behavior="3" triggerRange="5" autoTrigger="1" inGameVisibility="1" achievementId="6979" defaulttoggle="0">
+        <MarkerCategory name="twt" DisplayName="The Wizard's Tower">
+        <MarkerCategory name="cia" DisplayName="Comrades in Arms [H] " iconFile="Data/Images/Circle.png" behavior="3" triggerRange="5" autoTrigger="1" inGameVisibility="1" achievementId="6979">
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
             <MarkerCategory name="1" DisplayName="1. Meeting Hortensia"/>
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
@@ -528,14 +528,14 @@
             <MarkerCategory name="19" DisplayName="19. Return to Hortensia at the Wizard's Tower Infirmary."/>
             <MarkerCategory name="20" DisplayName="20. In Memoriam"/>
         </MarkerCategory>
-        <MarkerCategory name="cwc" DisplayName="Consternation with Conri [H] " achievementId="8053" defaulttoggle="0"/>
-        <MarkerCategory name="fif" DisplayName="Flashing into Focus [H] " achievementId="6973" defaulttoggle="0"/>
+        <MarkerCategory name="cwc" DisplayName="Consternation with Conri [H] " achievementId="8053"/>
+        <MarkerCategory name="fif" DisplayName="Flashing into Focus [H] " achievementId="6973"/>
         <MarkerCategory name="hasitwt" DisplayName="Hide-and-Seek in the Wizard's Tower" texture="Data/Images/Trails/Trail Marker 1 Dark.png" achievementId="6971"/>
         <MarkerCategory name="kiu" DisplayName="Keep it Up" achievementId="7024">
             <MarkerCategory name="to" DisplayName="To Keep it Up" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
             <MarkerCategory name="trail" DisplayName="Keep it Up Trail"/>
         </MarkerCategory>
-        <MarkerCategory name="sts" DisplayName="Salute the Shopkeeper [H] " achievementId="7958" defaulttoggle="0">
+        <MarkerCategory name="sts" DisplayName="Salute the Shopkeeper [H] " achievementId="7958">
             <MarkerCategory name="loc" IsSeparator="1" DisplayName="  : Location"/>
             <MarkerCategory name="hint" DisplayName="Gharr Leadclaw NW area of the Outer Ring"/>
         </MarkerCategory>
@@ -588,7 +588,7 @@
             <MarkerCategory name="twt2" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
             <MarkerCategory name="9" DisplayName="9. Completed List of Artifacts. Return to Isgarren."/>
         </MarkerCategory>
-        <MarkerCategory name="secrets2" DisplayName="Secrets Unobscured [H] " achievementId="7151" defaulttoggle="0"/>
+        <MarkerCategory name="secrets2" DisplayName="Secrets Unobscured [H] " achievementId="7151"/>
         <MarkerCategory name="twl" DisplayName="The Waylit Lantern" texture="Data/Images/Trails/Trail Marker 1.png" color="33ccff">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="2" DisplayName="2. Retrieve Lyhr's Relic"/>
@@ -609,7 +609,7 @@
             <MarkerCategory name="3" DisplayName="3. Speak to Lyhr"/>
             <MarkerCategory name="14" DisplayName="14. Return to Lyhr. "/>
         </MarkerCategory>
-        <MarkerCategory name="tb" DisplayName="Thornsprout Boom! [H] " achievementId="8004" defaulttoggle="0"/>
+        <MarkerCategory name="tb" DisplayName="Thornsprout Boom! [H] " achievementId="8004"/>
         <MarkerCategory name="ttt" DisplayName="Tyrian Taste Testing" texture="Data/Images/Trails/Trail Marker 1 Dark.png" color="33ccff" achievementId="7948">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             <MarkerCategory name="soto" IsSeparator="1" DisplayName="  | SECRETS OF THE OBSCURE"/>
@@ -636,8 +636,8 @@
             <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
             <MarkerCategory name="11" DisplayName="11. Return to the Kryptis delegation"/>
         </MarkerCategory>
-        <MarkerCategory name="yb" DisplayName="You Buy [H] " achievementId="7664" defaulttoggle="0"/>        
-        <MarkerCategory name="zojja" DisplayName="Zojja's Journal [H] " achievementId="7083" defaulttoggle="0">
+        <MarkerCategory name="yb" DisplayName="You Buy [H] " achievementId="7664"/>        
+        <MarkerCategory name="zojja" DisplayName="Zojja's Journal [H] " achievementId="7083">
             <MarkerCategory name="twt" IsSeparator="1" DisplayName="  | WIZARD's TOWER"/>
             <MarkerCategory name="1" DisplayName="1. Speak to Zojja at the Wizard's Tower."/>
             <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>
@@ -677,7 +677,7 @@
 
         </MarkerCategory>
         
-        <MarkerCategory name="wgh" DisplayName="Wayfinder Guided Home [H] " achievementId="7353" defaulttoggle="0">
+        <MarkerCategory name="wgh" DisplayName="Wayfinder Guided Home [H] " achievementId="7353">
             <MarkerCategory name="loc" IsSeparator="1" DisplayName="  | ASCALON"/>
             <MarkerCategory name="ashford" DisplayName="Plains of Ashford"/>
         </MarkerCategory>

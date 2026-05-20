@@ -93,7 +93,7 @@
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
-            <MarkerCategory name="drytop" DisplayName="Dry Top" defaulttoggle="0">
+            <MarkerCategory name="drytop" DisplayName="Dry Top">
                 <MarkerCategory name="coins" DisplayName="Coin Collector">
                     <MarkerCategory name="cliffs" DisplayName="Challenger Cliffs" achievementId="1694">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
@@ -122,7 +122,7 @@
                 <MarkerCategory name="lllll" DisplayName="Licensed Learned Legendary Llama" iconFile="Data/Images/Icons/Llama.png" heightOffset="2.0" maxSize="12" mapDisplaySize="32" achievementId="1693"/>
             </MarkerCategory>
 
-            <MarkerCategory name="silverwastes" DisplayName="The Silverwastes" defaulttoggle="0">
+            <MarkerCategory name="silverwastes" DisplayName="The Silverwastes">
                 <MarkerCategory name="badges" DisplayName="Lost Badges" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="1810"/>
                 <MarkerCategory name="gold" DisplayName="Go for the Gold" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" achievementId="1835">
                     <MarkerCategory name="swiftness" DisplayName="Swiftness" iconFile="Data/Images/Icons/Boon - Swiftness.png" maxSize="16" heightOffset="0"  fadeNear="1200" fadeFar="2400" miniMapVisibility="0" mapVisibility="0"/>

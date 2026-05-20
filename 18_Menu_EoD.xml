@@ -22,7 +22,7 @@
 
             <MarkerCategory name="ch3" IsSeparator="1" DisplayName="CHAPTER 3"/>
             <MarkerCategory name="bloodhound" DisplayName="Bloodhound" achievementId="6237">
-                <MarkerCategory name="minsec" DisplayName="Minsec Files" defaulttoggle="0" iconFile="Data/Images/Icons/Orb - Blue - S.png" alpha="0.8" maxSize="12" heightOffset="-0.5" behavior="3"/>
+                <MarkerCategory name="minsec" DisplayName="Minsec Files" iconFile="Data/Images/Icons/Orb - Blue - S.png" alpha="0.8" maxSize="12" heightOffset="-0.5" behavior="3"/>
                 <MarkerCategory name="aetherblade" DisplayName="Aetherblade Recordings" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5" behavior="3"/>
             </MarkerCategory>
 
@@ -102,7 +102,7 @@
 
             <!-- ARBORSTONE -->
 
-            <MarkerCategory name="arb" DisplayName="Arborstone" defaulttoggle="0">
+            <MarkerCategory name="arb" DisplayName="Arborstone">
 
                 <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
                     <MarkerCategory name="tdoz" DisplayName="The Disappearance of Zunraa">
@@ -122,7 +122,7 @@
                     <MarkerCategory name="tew" DisplayName="The Echovald WIlds"/>                    
                 </MarkerCategory>
 
-                <MarkerCategory name="albax" DisplayName="Albax, the Unlucky [H] (Reqs DE Meta)" achievementId="6455" defaulttoggle="0">
+                <MarkerCategory name="albax" DisplayName="Albax, the Unlucky [H] (Reqs DE Meta)" achievementId="6455">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" mapDisplaySize="32" heightOffset="3.5"/>
                     <MarkerCategory name="event" DisplayName="Toggle Event Markers" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
@@ -283,7 +283,7 @@
                     <MarkerCategory name="5" DisplayName="Speak to Ju, the descendant of Minister Nai"/>
                     <MarkerCategory name="6" DisplayName="Find rare flowers for Ju to get in her good graces">
                         <!-- A Blooming Errand -->
-                        <MarkerCategory name="blooming" IsSeparator="1" DisplayName="A Blooming Errand [H]" defaulttoggle="0"/>
+                        <MarkerCategory name="blooming" IsSeparator="1" DisplayName="A Blooming Errand [H]"/>
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" mapDisplaySize="32" heightOffset="3.5"/>
                         <MarkerCategory name="event" DisplayName="Toggle Event Markers" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
@@ -301,7 +301,7 @@
                     <MarkerCategory name="9" DisplayName="Speak to Suyin, the descendant of Minister Tao"/>
                     <MarkerCategory name="10" DisplayName="Disrupt the Jade Brotherhood in Kaineng City to get in Suyin's good graces">
                         <!-- Brothers in Harms -->
-                        <MarkerCategory name="brothers" IsSeparator="1" DisplayName="Brothers in Harms [H]" defaulttoggle="0"/>
+                        <MarkerCategory name="brothers" IsSeparator="1" DisplayName="Brothers in Harms [H]"/>
                         <MarkerCategory name="events" IsSeparator="1" DisplayName="COMPLETE ANY 4 OF THESE EVENTS"/>
                         <MarkerCategory name="1" DisplayName="EVENT: Attend the particularly posh party" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="2" DisplayName="EVENT: Bring scrap to Officer Ji-Hu" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
@@ -318,7 +318,7 @@
                     <MarkerCategory name="12" DisplayName="Return Suyin's document to Hui."/>
                     <MarkerCategory name="13" DisplayName="Disrupt Purist activity in Kaineng City for Hui">
                         <!--  Pure Enmity -->
-                        <MarkerCategory name="enmity" IsSeparator="1" DisplayName="Pure Enmity [H]" defaulttoggle="0"/>
+                        <MarkerCategory name="enmity" IsSeparator="1" DisplayName="Pure Enmity [H]"/>
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                         <MarkerCategory name="book" DisplayName="Toggle Book Markers" iconFile="Data/Images/Notes.png" inGameVisibility="0" mapDisplaySize="32"/>
                         <MarkerCategory name="1" DisplayName="Search the ruins of Old Kaineng for the first clue."/>
@@ -345,7 +345,7 @@
                     <MarkerCategory name="5" DisplayName="Return to Valeria in the House zu Heltzer"/>
                     <MarkerCategory name="6" DisplayName="Track down seven of the zu Heltzer tapestry pieces">                    
                         <!-- Tracing the Tapestry -->
-                        <MarkerCategory name="tapestry" IsSeparator="1" DisplayName="Tracing the Tapestry [H]" defaulttoggle="0"/>
+                        <MarkerCategory name="tapestry" IsSeparator="1" DisplayName="Tracing the Tapestry [H]"/>
                         <MarkerCategory name="1" DisplayName="Captain Hao Luen in Lion's Arch"/>
                         <MarkerCategory name="2" DisplayName="Durmand Priory Archives" mapDisplaySize="8" miniMapVisibility="0"/>
                         <MarkerCategory name="3" DisplayName="Speak to tengu in Caledon Forest"/>
@@ -368,7 +368,7 @@
 
             <!-- DRAGON'S END -->
 
-            <MarkerCategory name="de" DisplayName="Dragon's End" defaulttoggle="0">
+            <MarkerCategory name="de" DisplayName="Dragon's End">
 
                 <!-- A Guardian Once More -->
                 <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
@@ -519,7 +519,7 @@
 
             <!-- GYALA DELVE -->
 
-            <MarkerCategory name="gd" DisplayName="Gyala Delve" defaulttoggle="0">
+            <MarkerCategory name="gd" DisplayName="Gyala Delve">
 
                 <!-- DELVE IN TO THE HAZE -->
                 <MarkerCategory name="haze" IsSeparator="1" DisplayName="DELVE IN TO THE HAZE"/>
@@ -550,7 +550,7 @@
                 </MarkerCategory>
 
                 <!-- There’s Sea Life Down Here? [H] -->
-                <MarkerCategory name="sealife" DisplayName="There's Sea Life Down Here? [H]" achievementId="5523" defaulttoggle="0">
+                <MarkerCategory name="sealife" DisplayName="There's Sea Life Down Here? [H]" achievementId="5523">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="circle" DisplayName="Toggle Locations" iconFile="Data/Images/Circle.png" inGameVisibility="0" mapDisplaySize="40"/>
                 </MarkerCategory>
@@ -585,7 +585,7 @@
 
             <!-- NEW KAINENG CITY -->
 
-            <MarkerCategory name="nkc" DisplayName="New Kaineng City" defaulttoggle="0">
+            <MarkerCategory name="nkc" DisplayName="New Kaineng City">
 
                 <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
                     <MarkerCategory name="ach" IsSeparator="1" DisplayName="ACHIEVEMENTS"/>
@@ -703,7 +703,7 @@
 
 
             <!-- SEITUNG PROVINCE -->
-            <MarkerCategory name="sp" DisplayName="Seitung Province" defaulttoggle="0">
+            <MarkerCategory name="sp" DisplayName="Seitung Province">
                                 
                 <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -887,7 +887,7 @@
             </MarkerCategory>
 
             <!-- THE ECHOVALD WILDS -->
-            <MarkerCategory name="tew" DisplayName="The Echovald Wilds" defaulttoggle="0">
+            <MarkerCategory name="tew" DisplayName="The Echovald Wilds">
 
                 <!-- A Guardian Once More -->
                 <MarkerCategory name="guardian" DisplayName="A Guardian Once More" achievementId="6261">
@@ -917,10 +917,10 @@
                 </MarkerCategory>
 
                 <!-- Dancing Barefoot [H] -->
-                <MarkerCategory name="barefoot" DisplayName="Dancing Barefoot [H]" achievementId="6515" iconFile="Data/Images/Emote - Dance.png" defaulttoggle="0"/>
+                <MarkerCategory name="barefoot" DisplayName="Dancing Barefoot [H]" achievementId="6515" iconFile="Data/Images/Emote - Dance.png"/>
 
                 <!-- Dance like Bei Fung is Watching -->
-                <MarkerCategory name="dlbfiw" DisplayName="Dance like Bei Fung is Watching [H]" achievementId="6367" iconFile="Data/Images/Emote - Dance.png" defaulttoggle="0"/>
+                <MarkerCategory name="dlbfiw" DisplayName="Dance like Bei Fung is Watching [H]" achievementId="6367" iconFile="Data/Images/Emote - Dance.png"/>
 
                 <!-- Distant Ancestry -->
                 <MarkerCategory name="ancestry" DisplayName="Distant Ancestry" achievementId="6315">

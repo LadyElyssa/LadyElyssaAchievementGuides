@@ -196,7 +196,7 @@
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
-            <MarkerCategory name="shipwreck" DisplayName="Shipwreck Strand" defaulttoggle="0">
+            <MarkerCategory name="shipwreck" DisplayName="Shipwreck Strand">
 
                 <MarkerCategory name="aasb" DisplayName="As Above, So Below" achievementId="9082">
                     <MarkerCategory name="high" DisplayName="High" iconFile="Data/Images/Icons/Object - Above.png" maxSize="32" mapDisplaySize="48" inGameVisibility="0"/>
@@ -496,7 +496,7 @@
                 
             </MarkerCategory>
             
-            <MarkerCategory name="starlit" DisplayName="Starlit Weald" defaulttoggle="0">
+            <MarkerCategory name="starlit" DisplayName="Starlit Weald">
                 
                 <MarkerCategory name="hunt" DisplayName="A Hunt for the Ages" achievementId="8886">
                     <MarkerCategory name="spineshell" DisplayName="Spineshell Impaler" iconFile="Data/Images/Champion Spineshell Impaler.png" mapDisplaySize="64" inGameVisibility="0"/>
@@ -652,7 +652,7 @@
 
             </MarkerCategory>
 
-            <MarkerCategory name="eternity" DisplayName="Eternity's Garden" defaulttoggle="0">
+            <MarkerCategory name="eternity" DisplayName="Eternity's Garden">
                 <MarkerCategory name="reprieve" DisplayName="A Brief Reprieve" achievementId="9314" iconFile="Data/Images/Icons/Orb - Purple - S.png" minSize="20" maxSize="24">
                     <MarkerCategory name="isgarren" DisplayName="Isgarren" iconFile="Data/Images/Icons/IsGarren.png" mapDisplaySize="64" inGameVisibility="0"/>
                 </MarkerCategory>
@@ -707,10 +707,10 @@
                 <MarkerCategory name="master" DisplayName="Master of Sacred Arms" achievementId="9248" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24">
                     <MarkerCategory name="event" DisplayName="EVENT: Thrumming Faceted Shadowstone" iconFile="Data/Images/Icons/Master of Sacred Arms.png" mapDisplaySize="48" inGameVisibility="0" tip-name="EVENT: Help Steward Cecco unfuse animals of their seer influence"/>
                 </MarkerCategory>
-                <MarkerCategory name="moth" DisplayName="Moth Enthusiast [H]" achievementId="9337" iconFile="Data/Images/Icons/Moth.png" mapDisplaySize="48" inGameVisibility="0" defaulttoggle="0"/>
-                <MarkerCategory name="alone" DisplayName="No Longer Alone [H]" achievementId="9255" iconFile="Data/Images/Emote - Cheer.png" inGameVisibility="1" defaulttoggle="0"/>
+                <MarkerCategory name="moth" DisplayName="Moth Enthusiast [H]" achievementId="9337" iconFile="Data/Images/Icons/Moth.png" mapDisplaySize="48" inGameVisibility="0"/>
+                <MarkerCategory name="alone" DisplayName="No Longer Alone [H]" achievementId="9255" iconFile="Data/Images/Emote - Cheer.png" inGameVisibility="1"/>
 
-                <MarkerCategory name="otter" DisplayName="Otter Snack Time [H]" achievementId="9249" iconFile="Data/Images/Icons/Fish.png" minSize="20" maxSize="24" mapVisibility="0" defaulttoggle="0"/>
+                <MarkerCategory name="otter" DisplayName="Otter Snack Time [H]" achievementId="9249" iconFile="Data/Images/Icons/Fish.png" minSize="20" maxSize="24" mapVisibility="0"/>
 
                 <MarkerCategory name="potd" DisplayName="Path of the Divine" achievementId="9304" iconFile="Data/Images/Icons/Historian Minna.png" minSize="20" maxSize="24" mapDisplaySize="48"/>
 

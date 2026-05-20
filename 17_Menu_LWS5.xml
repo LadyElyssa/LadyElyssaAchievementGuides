@@ -30,7 +30,7 @@
                     <MarkerCategory name="emote" DisplayName="Emote: /cheer" iconFile="Data/Images/Emote - Cheer.png" miniMapVisibility="0" mapVisibility="0" info="Cheer when Bangar says:&#xa;''Brothers and sisters of the Legions! Let Tyria hear you!''" infoRange="2.5"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="imperator" DisplayName="Meet You Imperator [H]" achievementId="4958" defaulttoggle="0">
+                <MarkerCategory name="imperator" DisplayName="Meet You Imperator [H]" achievementId="4958">
                     <MarkerCategory name="icon" DisplayName="Toggle Blood Legion Icon" iconFile="Data/Images/Icons/Blood Legion.png" maxSize="16"/>
                 </MarkerCategory>
 
@@ -73,7 +73,7 @@
                 <MarkerCategory name="purrsuit" DisplayName="Fast Purrsuit" achievementId="5275" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png">
                     <MarkerCategory name="swiftness" DisplayName="Swiftness" iconFile="Data/Images/Icons/Swiftness.png" heightOffset="-0.25" maxSize="16" mapVisibility="0"/>
                 </MarkerCategory>
-                <MarkerCategory name="kitty" DisplayName="Good Kitty [H]" achievementId="5243" iconFile="Data/Images/Icons/Head Pat.png" maxSize="32" defaulttoggle="0"/>
+                <MarkerCategory name="kitty" DisplayName="Good Kitty [H]" achievementId="5243" iconFile="Data/Images/Icons/Head Pat.png" maxSize="32"/>
                 <MarkerCategory name="intel" DisplayName="Intel Acquired" achievementId="5248" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.25" maxSize="16" mapDisplaySize="32"/>
                 <MarkerCategory name="shoulder" DisplayName="Shoulder to Shoulder" iconFile="Data/Images/Icons/Blank.png" info="Agent One, direction South" infoRange="5" behavior="3"/>
                 <MarkerCategory name="nothing" DisplayName="You Saw Nothing" achievementId="5306" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png">
@@ -84,7 +84,7 @@
                 
                 <!-- CHAPTER 4: Jormag Rising -->
                 <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: Jormag Rising"/>
-                <MarkerCategory name="bangar" DisplayName="Confer with Bangar [H]" achievementId="5383" defaulttoggle="0">
+                <MarkerCategory name="bangar" DisplayName="Confer with Bangar [H]" achievementId="5383">
                     <MarkerCategory name="talk" DisplayName="Talk to Bangar in Eye of the North" iconFile="Data/Images/Icons/Talk.png" minSize="16" maxSize="32" mapDisplaySize="32"/>
                 </MarkerCategory>
                 <MarkerCategory name="ghost" DisplayName="The Ghost" achievementId="5386" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" color="00FF00"/>
@@ -145,7 +145,7 @@
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
-            <MarkerCategory name="bjora" DisplayName="Bjora Marches" defaulttoggle="0">
+            <MarkerCategory name="bjora" DisplayName="Bjora Marches">
                 
                 <MarkerCategory name="eastbjora" IsSeparator="1" DisplayName="EAST BJORA MARCHES"/>
 
@@ -167,7 +167,7 @@
                     <MarkerCategory name="red" DisplayName="Chest of Resilience (Red)" iconFile="Data/Images/Icons/Chest Resilience.png" minSize="16" maxSize="24" mapDisplaySize="40" inGameVisibility="0"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="critic" DisplayName="Everyone's a Critic [H]" achievementId="5010" defaulttoggle="0">
+                <MarkerCategory name="critic" DisplayName="Everyone's a Critic [H]" achievementId="5010">
                     <MarkerCategory name="cook" DisplayName="Toggle Cook" iconFile="Data/Images/Icons/Veteran Enraged Cook.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="48" tip-name="Veteran Enraged Cook"/>
                     <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Orb - Yellow - S.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32"/>
                 </MarkerCategory>
@@ -246,7 +246,7 @@
                     <MarkerCategory name="book" DisplayName="Toggle Book" iconFile="Data/Images/Book.png" mapDisplaySize="32" inGameVisibility="0"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="anvil" DisplayName="Anvil Drop [H]" achievementId="5115" defaulttoggle="0">
+                <MarkerCategory name="anvil" DisplayName="Anvil Drop [H]" achievementId="5115">
                     <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Corrupted Shard.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="40"/>
                 </MarkerCategory>
 
@@ -273,7 +273,7 @@
                 <MarkerCategory name="koda" DisplayName="Koda Be Praised" achievementId="5112"/>
 
                 <MarkerCategory name="shadows" DisplayName="Shadows Creep [H]" achievementId="5034">
-                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Orb - Black and White.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32" inGameVisibility="0" defaulttoggle="0"/>
+                    <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Orb - Black and White.png" maxSize="16" heightOffset="-0.5" mapDisplaySize="32" inGameVisibility="0"/>
                 </MarkerCategory>
     
                 <MarkerCategory name="collections" IsSeparator="1" DisplayName="COLLECTIONS"/>
@@ -291,7 +291,7 @@
             </MarkerCategory>
 
 
-            <MarkerCategory name="grothmar" DisplayName="Grothmar Valley" defaulttoggle="0">
+            <MarkerCategory name="grothmar" DisplayName="Grothmar Valley">
 
                 <MarkerCategory name="acp" DisplayName="A Carved Path">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -309,7 +309,7 @@
                 <MarkerCategory name="mixologist" DisplayName="Amateur Mixologist" achievementId="4920">
                     <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Help the bartender keep the customers liquored up!"/>
                 </MarkerCategory>
-                <MarkerCategory name="eye" DisplayName="An Eye for Detail [H]" achievementId="4932" defaulttoggle="0">
+                <MarkerCategory name="eye" DisplayName="An Eye for Detail [H]" achievementId="4932">
                     <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="32"/>
                     <MarkerCategory name="icon" DisplayName="Present Evidence">
                         <MarkerCategory name="1" DisplayName="1" iconFile="Data/Images/Numbers/t1.png" maxSize="24" mapDisplaySize="40"/>
@@ -385,7 +385,7 @@
                         <MarkerCategory name="skyscale" DisplayName="Skyscale" iconFile="Data/Images/Mounts/Mount_Skyscale.png"/>
                     </MarkerCategory>
                 </MarkerCategory>
-                <MarkerCategory name="heads" DisplayName="Heads up! [H]" achievementId="4926" defaulttoggle="0">
+                <MarkerCategory name="heads" DisplayName="Heads up! [H]" achievementId="4926">
                     <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Icons/Heads up!.png" mapDisplaySize="32" inGameVisibility="0" tip-name="Must be treading water."/>
                 </MarkerCategory>
                 <MarkerCategory name="feet" DisplayName="Hot Feet" achievementId="4982" texture="Data/Images/Trails/Trail Pointer - Small.png">
@@ -445,18 +445,18 @@
                 <MarkerCategory name="spiritbane" DisplayName="Spiritbane" achievementId="4935">
                     <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Defeat Murakai, Doomlore's Bane"/>
                 </MarkerCategory>
-                <MarkerCategory name="limelight" DisplayName="Stealing the Limelight [H]" achievementId="4927" defaulttoggle="0">
+                <MarkerCategory name="limelight" DisplayName="Stealing the Limelight [H]" achievementId="4927">
                     <MarkerCategory name="music" DisplayName="Play Music" iconFile="Data/Images/Icons/Music.png" maxSize="32" mapDisplaySize="40"/>
                 </MarkerCategory>
                 <MarkerCategory name="teachers" DisplayName="Teacher's Assistants" achievementId="4986">
                     <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Help the cubs defeat illusory foes to build warband cohesion"/>
                 </MarkerCategory>
-                <MarkerCategory name="vip" DisplayName="VIP Access [H]" achievementId="4931" defaulttoggle="0">
+                <MarkerCategory name="vip" DisplayName="VIP Access [H]" achievementId="4931">
                     <MarkerCategory name="merchant" DisplayName="Rally Provisioner" iconFile="Data/Images/Icons/Rally Provisioner.png" mapDisplaySize="40" inGameVisibility="0"/>
                 </MarkerCategory>
             </MarkerCategory>
 
-            <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast" defaulttoggle="0">
+            <MarkerCategory name="drizzlewood" DisplayName="Drizzlewood Coast">
                 
                 <MarkerCategory name="ch3" IsSeparator="1" DisplayName="No Quarter"/>
 
@@ -583,7 +583,7 @@
                     <MarkerCategory name="door" DisplayName="Treasure Door" iconFile="Data/Images/Icons/Treasure Door.png"  mapDisplaySize="48" inGameVisibility="0"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="otter" DisplayName="Significant Otter [H]" achievementId="5350" defaulttoggle="0">
+                <MarkerCategory name="otter" DisplayName="Significant Otter [H]" achievementId="5350">
                     <MarkerCategory name="req" IsSeparator="1" DisplayName="REQUIRES: Treasure Sleuth"/>
                     <MarkerCategory name="blood" DisplayName="Blood Tribune" iconFile="Data/Images/Icons/Dominion Blood Tribune.png" mapDisplaySize="64" inGameVisibility="0" tip-name="EVENT: Dominion Blood Tribune"/>
                     <MarkerCategory name="frost" DisplayName="Frost Tribune" iconFile="Data/Images/Icons/Dominion Frost Tribune.png" mapDisplaySize="64" inGameVisibility="0" tip-name="EVENT: Dominion Frost Tribune"/>

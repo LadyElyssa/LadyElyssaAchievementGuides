@@ -7,7 +7,7 @@
                 <MarkerCategory name="ch3" IsSeparator="1" DisplayName="CHAPTER 3: Night of Fires"/>
                 <MarkerCategory name="latf" DisplayName="Lurking among the Flames" iconFile="Data/Images/Circle - Orange.png" mapDisplaySize="40" inGameVisibility="0" achievementId="3879"/>
                 <MarkerCategory name="sok" DisplayName="Shield of Kormir" iconFile="Data/Images/Move!.png" heightOffset="3.0" maxSize="32" achievementId="3813"/>
-                <MarkerCategory name="had" DisplayName="Hidden and Dishonored [H]" defaulttoggle="0" iconFile="Data/Images/Icons/Orb - Red.png" maxSize="16" heightOffset="1.5" achievementId="3564"/>
+                <MarkerCategory name="had" DisplayName="Hidden and Dishonored [H]" iconFile="Data/Images/Icons/Orb - Red.png" maxSize="16" heightOffset="1.5" achievementId="3564"/>
 
                 <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: The Sacrifice"/>
                 <MarkerCategory name="dc" DisplayName="Damage Control" iconFile="Data/Images/Circle - Orange.png" mapDisplaySize="40" inGameVisibility="0" achievementId="3568"/>
@@ -32,7 +32,7 @@
                     <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/4.png" heightOffset="3.0"/>
                     <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" heightOffset="3.0"/>
                 </MarkerCategory>
-                <MarkerCategory name="seeker" DisplayName="Seeker of Truth and Knowledge [H]" defaulttoggle="0" achievementId="3908">
+                <MarkerCategory name="seeker" DisplayName="Seeker of Truth and Knowledge [H]" achievementId="3908">
                     <MarkerCategory name="book" DisplayName="Toggle Books" iconFile="Data/Images/Orb - White.png" mapDisplaySize="12" heightOffset="-0.5"  minSize="6" maxSize="8" fadeNear="2400" fadeFar="4800"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
@@ -55,7 +55,7 @@
                 <MarkerCategory name="tag" DisplayName="Tag!" achievementId="3835"/>
 
                 <MarkerCategory name="ch13" IsSeparator="1" DisplayName="CHAPTER 13: Small Victory"/>
-                <MarkerCategory name="snf" DisplayName="Saturday Night Fever [H]" defaulttoggle="0" iconFile="Data/Images/Emote - Dance.png" achievementId="3903"/>
+                <MarkerCategory name="snf" DisplayName="Saturday Night Fever [H]" iconFile="Data/Images/Emote - Dance.png" achievementId="3903"/>
             </MarkerCategory>
 
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
@@ -246,7 +246,7 @@
 
 
             <!-- Domain of Vabbi -->
-            <MarkerCategory name="vabbi" DisplayName="Domain of Vabbi" defaulttoggle="0">
+            <MarkerCategory name="vabbi" DisplayName="Domain of Vabbi">
 
                 <!-- Court is Adjourned -->
                 <MarkerCategory name="court" DisplayName="Court is Adjourned" achievementId="3824">
@@ -328,7 +328,7 @@
 
 
             <!-- Elon Riverlands -->
-            <MarkerCategory name="riverlands" DisplayName="Elon Riverlands" mapDisplaySize="16" defaulttoggle="0">
+            <MarkerCategory name="riverlands" DisplayName="Elon Riverlands" mapDisplaySize="16">
                 <MarkerCategory name="augury" DisplayName="Augury Ascended" achievementId="3801"/>
                 <MarkerCategory name="sand" DisplayName="Blood and Sand" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128" achievementId="3681"/>
                 <MarkerCategory name="defector" DisplayName="Defector Protector" achievementId="3611">
@@ -416,7 +416,7 @@
 
                 <MarkerCategory name="lloer" DisplayName="Lost Lore of Elon Riverlands" achievementId="3632"/>
 
-                <MarkerCategory name="magic" DisplayName="Magic Hunter [H]" defaulttoggle="0" achievementId="3669">
+                <MarkerCategory name="magic" DisplayName="Magic Hunter [H]" achievementId="3669">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
@@ -429,7 +429,7 @@
 
             </MarkerCategory>
 
-            <MarkerCategory name="desolation" DisplayName="The Desolation" defaulttoggle="0">
+            <MarkerCategory name="desolation" DisplayName="The Desolation">
 
                 <!-- A Family's Sacrifice [H] -->
 

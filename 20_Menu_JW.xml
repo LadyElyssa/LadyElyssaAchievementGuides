@@ -121,7 +121,7 @@
             
             <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
-            <MarkerCategory name="ls" DisplayName="Lowland Shore" defaulttoggle="0">
+            <MarkerCategory name="ls" DisplayName="Lowland Shore">
             <MarkerCategory name="ahdw" DisplayName="A Hard Day's Work" achievementId="8291">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -136,7 +136,7 @@
                 <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/n8.png" inGameVisibility="0"/>
             </MarkerCategory>
 
-            <MarkerCategory name="ash" DisplayName="Ash Legion Diplomacy [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8209"/>
+            <MarkerCategory name="ash" DisplayName="Ash Legion Diplomacy [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" achievementId="8209"/>
 
             <MarkerCategory name="waterfalls" DisplayName="Chasing Waterfalls" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png" achievementId="8327">
                 <MarkerCategory name="num" IsSeparator="1" DisplayName="  Locations"/>
@@ -175,7 +175,7 @@
                 <MarkerCategory name="14" DisplayName="Fourteen" iconFile="Data/Images/Numbers/14.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>
             <MarkerCategory name="ccc" DisplayName="Cultural Culinary Comprehension" achievementId="8313"/>
-            <MarkerCategory name="ftf" DisplayName="Feed the Flames [H]" iconFile="Data/Images/Feed the Flames.png" defaulttoggle="0" achievementId="8177"/>
+            <MarkerCategory name="ftf" DisplayName="Feed the Flames [H]" iconFile="Data/Images/Feed the Flames.png" achievementId="8177"/>
             <MarkerCategory name="fott" DisplayName="Friend of the Trolls" achievementId="8282"/>
             
             <!-- Gettin' the Crew Together -->
@@ -241,9 +241,9 @@
                 <MarkerCategory name="22" DisplayName="Twenty Two" iconFile="Data/Images/Numbers/n22.png"    inGameVisibility="0"/>
                 <MarkerCategory name="23" DisplayName="Twenty Three" iconFile="Data/Images/Numbers/n23.png"  inGameVisibility="0"/>
             </MarkerCategory>
-            <MarkerCategory name="mulch" DisplayName="Mulch Master [H]" iconFile="Data/Images/Mulch Master.png" defaulttoggle="0" achievementId="8318"/>
+            <MarkerCategory name="mulch" DisplayName="Mulch Master [H]" iconFile="Data/Images/Mulch Master.png" achievementId="8318"/>
             <MarkerCategory name="pyr" DisplayName="Pay Your Respects" iconFile="Data/Images/Pay Your Respects.png" achievementId="8297"/>
-            <MarkerCategory name="rehearsal" DisplayName="Rehearsal [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8361"/>
+            <MarkerCategory name="rehearsal" DisplayName="Rehearsal [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" achievementId="8361"/>
             <MarkerCategory name="rar" DisplayName="Relaxed and Rejuvenated" achievementId="8222"/>
             <MarkerCategory name="kindness" DisplayName="Returning Kindness" achievementId="8268">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
@@ -276,21 +276,21 @@
             </MarkerCategory>
 
             <!-- Troll Delicacy -->
-            <MarkerCategory name="delicacy" DisplayName="Troll Delicacy [H]" iconFile="Data/Images/Troll Delicacy.png" defaulttoggle="0" achievementId="8294"/>
+            <MarkerCategory name="delicacy" DisplayName="Troll Delicacy [H]" iconFile="Data/Images/Troll Delicacy.png" achievementId="8294"/>
 
             <MarkerCategory name="ww" DisplayName="Warclaw Wrangling" achievementId="8190">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             </MarkerCategory>
             
-            <MarkerCategory name="wts" DisplayName="What's That Sound [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8156"/>
-            <MarkerCategory name="workplace" DisplayName="Workplace Safety [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" defaulttoggle="0" achievementId="8184"/>
+            <MarkerCategory name="wts" DisplayName="What's That Sound [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" achievementId="8156"/>
+            <MarkerCategory name="workplace" DisplayName="Workplace Safety [H]" texture="Data/Images/Trails/Trail Marker 1 Dark.png" achievementId="8184"/>
 
         </MarkerCategory>
 
 
         <!-- JANTHIR SYNTRI -->
 
-        <MarkerCategory name="js" DisplayName="Janthir Syntri" defaulttoggle="0">
+        <MarkerCategory name="js" DisplayName="Janthir Syntri">
             <!-- A History Most Violent: Part 1 -->
             <MarkerCategory name="ahmv1" DisplayName="A History Most Violent: Part 1" achievementId="8161">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="  | SETTINGS"/>
@@ -395,7 +395,7 @@
             </MarkerCategory>
             
             <!-- Struck Twice -->
-            <MarkerCategory name="struck" DisplayName="Struck Twice [H]" defaulttoggle="0" achievementId="8356"/>
+            <MarkerCategory name="struck" DisplayName="Struck Twice [H]" achievementId="8356"/>
 
             <!-- Titan Researcher -->
             <MarkerCategory name="titan" DisplayName="Titan Researcher" achievementId="8175">
@@ -423,12 +423,12 @@
         </MarkerCategory>
 
         <!-- MISTBURNED BARRENS -->
-        <MarkerCategory name="mb" DisplayName="Mistburned Barrens" defaulttoggle="0">
+        <MarkerCategory name="mb" DisplayName="Mistburned Barrens">
             <MarkerCategory name="scout" DisplayName="Missing Scout" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="8552">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             </MarkerCategory>
 
-            <MarkerCategory name="game" DisplayName="Mursaat's Game [H] Req: Missing Scout" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" defaulttoggle="0" achievementId="8584">
+            <MarkerCategory name="game" DisplayName="Mursaat's Game [H] Req: Missing Scout" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" achievementId="8584">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
@@ -484,7 +484,7 @@
         </MarkerCategory>
 
         <!-- BAVA NISOS -->
-        <MarkerCategory name="bn" DisplayName="Bava Nisos" defaulttoggle="0">
+        <MarkerCategory name="bn" DisplayName="Bava Nisos">
 
             <MarkerCategory name="chaos" DisplayName="Assorted Chaos" achievementId="8740">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -539,7 +539,7 @@
                 <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
             </MarkerCategory>
 
-            <MarkerCategory name="tif" DisplayName="This Is Fine [H]" achievementId="8724" iconFile="Data/Images/Emote - Sit.png" defaulttoggle="0">
+            <MarkerCategory name="tif" DisplayName="This Is Fine [H]" achievementId="8724" iconFile="Data/Images/Emote - Sit.png">
                  <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
             </MarkerCategory>
 

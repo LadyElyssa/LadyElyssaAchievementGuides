@@ -123,8 +123,8 @@
                 <MarkerCategory name="location" IsSeparator="1" DisplayName="LOCATIONS"/>
                 <MarkerCategory name="la" DisplayName="Lions Arch">                
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
-                        <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
-                        <MarkerCategory name="foot" DisplayName="Foot Trail Path" defaulttoggle="0">
+                        <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
+                        <MarkerCategory name="foot" DisplayName="Foot Trail Path">
                         <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                         <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="wp" DisplayName="Toggle WP Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
@@ -164,7 +164,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                    <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png">
                         <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
                         <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
@@ -215,7 +215,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                    <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png">
                         <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
                         <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
@@ -261,7 +261,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                     <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                    <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                    <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png">
                         <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
                         <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
@@ -310,7 +310,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                         <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                        <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png">
                             <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
                             <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
@@ -356,7 +356,7 @@
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="Settings"/>
                         <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                         <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
-                        <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32" defaulttoggle="0"/>
+                        <MarkerCategory name="pumpkin" DisplayName="Toggle Pumpkin Markers" iconFile="Data/Images/Icons/Pumpkin.png" miniMapVisibility="1" inGameVisibility="0" mapDisplaySize="32"/>
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png">
                             <MarkerCategory name="small" DisplayName="Small" iconSize="0.25"/>
                             <MarkerCategory name="medium" DisplayName="Medium" iconSize="0.5"/>
