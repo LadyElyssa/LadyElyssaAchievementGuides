@@ -683,7 +683,7 @@
                 
                 <MarkerCategory name="calculated" DisplayName="Calculated Destruction" achievementId="9325" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
                 
-                <MarkerCategory name="cursebreaker" DisplayName="Castoran Curse Breaker" achievementId="9253" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
+                <MarkerCategory name="cursebreaker" DisplayName="Castoran Curse-Breaker" achievementId="9253" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
                 
                 <MarkerCategory name="overgrowth" DisplayName="Castoran Overgrowth" achievementId="9298" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
                 

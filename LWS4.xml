@@ -1067,7 +1067,8 @@
         <POI MapID="1301" xpos="1157.5" ypos="123.501" zpos="683.363" type="leag.lws4.jahai.elegy.talk" GUID="2p3EZ8YjQ0SH6V7tOg+Q5Q=="/>
         <POI MapID="1301" xpos="1162.82" ypos="124.428" zpos="687.141" type="leag.lws4.jahai.elegy.talk" GUID="P3n4mFrwrEWpo2KoZh9m8A=="/>
         <POI MapID="1301" xpos="-371.547" ypos="50.9027" zpos="-675.276" type="leag.lws4.jahai.elegy.number.1" GUID="TgaXgQe54UCmvktKjxMQrA=="/>
-        <POI MapID="1301" xpos="-843.548" ypos="71.1166" zpos="112.117" type="leag.lws4.jahai.elegy.number.2" GUID="ZJ3IpLe4tk68y+NbtusKJw=="/>
+        <POI MapID="1301" xpos="-843.548" ypos="72.35166" zpos="112.117" type="leag.lws4.jahai.elegy.number.2" GUID="ZJ3IpLe4tk68y+NbtusKJw=="/>
+        <POI MapID="1301" xpos="-843.548" ypos="71.1166" zpos="112.117" type="leag.lws4.jahai.elegy.number.17" GUID="DBr1hhbP3kq9vIukZPcVrA=="/>
         <POI MapID="1301" xpos="562.2749" ypos="140.6137" zpos="928.3824" type="leag.lws4.jahai.elegy.number.5" GUID="P9JX7zZxKkKxJ07CpZFo2w=="/>
         <POI MapID="1301" xpos="-842.384" ypos="71.1206" zpos="113.424" type="leag.lws4.jahai.elegy.number.7" GUID="ofj3iHvN8kenEfLsKt4gjQ=="/>
         <POI MapID="1301" xpos="-844.253" ypos="70.5385" zpos="105.797" type="leag.lws4.jahai.elegy.number.10" GUID="GWQS1YYikkykA2nxWpJ1Ag=="/>
@@ -1077,7 +1078,7 @@
         <POI MapID="1301" xpos="562.605" ypos="140.467" zpos="929.468" type="leag.lws4.jahai.elegy.number.14" GUID="mqi0vjbsVk2DlcwKSG2v1A=="/>
         <POI MapID="1301" xpos="-838.08" ypos="71.1663" zpos="114.993" type="leag.lws4.jahai.elegy.number.15" GUID="KgT+59WkN0SY9WmuoApFKA=="/>
         <POI MapID="1301" xpos="730.004" ypos="69.0972" zpos="-345.873" type="leag.lws4.jahai.elegy.number.16" GUID="KJqEIVhFSkOYfyWw5E0e3g=="/>
-        <POI MapID="1301" xpos="-362.918" ypos="50.8871" zpos="-667.32" type="leag.lws4.jahai.elegy.number.17" GUID="KDXpdF3UhEu7guGfVl9Udg=="/>
+        <POI MapID="1301" xpos="-362.918" ypos="50.8871" zpos="-667.32" type="leag.lws4.jahai.elegy.number.18" GUID="KDXpdF3UhEu7guGfVl9Udg=="/>
         <POI MapID="1301" xpos="-915.68" ypos="60.5756" zpos="376.524" type="leag.lws4.jahai.elegy.mount.springer" GUID="i03GrbnC106srham8Yd4JQ=="/>
         <POI MapID="1301" xpos="-941.109" ypos="80.8758" zpos="417.631" type="leag.lws4.jahai.elegy.mount.springer" GUID="2nhLCNpNk0G0pkmRdz9kdw=="/>
         <POI MapID="1301" xpos="-958.078" ypos="41.3441" zpos="195.702" type="leag.lws4.jahai.elegy.wp" GUID="1UdcBQu+MEyEysTE1v08Lw==" copy="[&amp;BJMLAAA=]" copy-message="Venta Pass Waypoint&#xa;Return to Amira in Sun's Refuge"/>
