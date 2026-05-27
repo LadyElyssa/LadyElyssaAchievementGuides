@@ -59,5 +59,9 @@
             </MarkerCategory>
             
         </MarkerCategory>
+
+        <!-- ACHIEVEMENTS -->
+        <MarkerCategory name="achievements" IsSeparator="1" DisplayName="ACHIEVEMENTS"/>
+        
     </MarkerCategory>
 </OverlayData>

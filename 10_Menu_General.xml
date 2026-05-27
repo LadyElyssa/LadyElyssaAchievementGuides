@@ -1,7 +1,6 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" texture="Data/Images/Trails/Trail Marker 1.png" animSpeed="0.8" alpha="1.0" fadeNear="2000" fadeFar="4000">
-        <!-- ACHIEVEMENTS -->
-        <MarkerCategory name="achievements" IsSeparator="1" DisplayName="ACHIEVEMENTS"/>      
+        
 
         <!--
             General Achievements from the Core Game

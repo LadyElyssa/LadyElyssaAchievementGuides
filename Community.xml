@@ -1,0 +1,94 @@
+<OverlayData>
+	<POIs>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 0.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 2.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 2 JP.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 4.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 4 JP.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 6.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 6 JP 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 6 JP 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 6 JP 3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 6 JP 4.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 8 Alt.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 8.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 8 JP 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="400" fadeFar="900" animSpeed="0.5"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 8 JP 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"  fadeNear="800" fadeFar="1600" animSpeed="0.5"/>
+
+		<POI MapID="25" xpos="-573.993" ypos="9.080985" zpos="-770.8261" type="leag.community.sin.wp" GUID="NU/nPApgqkOjoah+AZdWzg==" copy="[&amp;BC0EAAA=]" copy-message="Lion's Arch, Diverse Ledges Waypoint"/>
+		<POI MapID="23" xpos="950.7056" ypos="65.50512" zpos="-601.3576" type="leag.community.sin.wp" GUID="NwhgmH9e4kOkGvRS/our7g==" copy="[&amp;BC0EAAA=]" copy-message="Lion's Arch, Diverse Ledges Waypoint"/>
+		<POI MapID="39" xpos="1059.908" ypos="62.88488" zpos="509.7749" type="leag.community.sin.wp" GUID="SRzR4QfSe0+yUUtLpNSetQ==" copy="[&amp;BC0EAAA=]" copy-message="Lion's Arch, Diverse Ledges Waypoint"/>
+		<POI MapID="34" xpos="287.4589" ypos="66.35523" zpos="-525.8633" type="leag.community.sin.wp" GUID="3MkTHaOiBU+oKAB5zBb/ww==" copy="[&amp;BC0EAAA=]" copy-message="Lion's Arch, Diverse Ledges Waypoint"/>
+		<POI MapID="1045" xpos="-352.3444" ypos="107.4551" zpos="-172.7117" type="leag.community.sin.wp" GUID="/DtvF+JwP0CwKEaSf75WEg==" copy="[&amp;BC0EAAA=]" copy-message="Lion's Arch, Diverse Ledges Waypoint"/>
+		<POI MapID="1211" xpos="-1457.237" ypos="4.387603" zpos="81.15095" type="leag.community.sin.wp" GUID="FYd6mZwL+UuX788uKYQn8w==" copy="[&amp;BC0EAAA=]" copy-message="Lion's Arch, Diverse Ledges Waypoint"/>
+		<POI MapID="1045" xpos="-844.2" ypos="30.1913" zpos="-500.532" type="leag.community.sin.glider" GUID="CudkB6tmIECQqeDQ8x2Kqg=="/>
+        <POI MapID="1045" xpos="-833.208" ypos="58.5992" zpos="-427.942" type="leag.community.sin.glider" GUID="jc2cc0RIS0W0ZIMxEKKGeg=="/>
+        <POI MapID="1045" xpos="-840.988" ypos="49.9012" zpos="-353.761" type="leag.community.sin.glider" GUID="Pbc0dljRA0i+5z7CKE/TYQ=="/>
+        <POI MapID="1045" xpos="-474.446" ypos="24.3407" zpos="-136.533" type="leag.community.sin.glider" GUID="WdqRxUljbEmwTXN8/I1UbA=="/>
+        <POI MapID="1045" xpos="-461.512" ypos="20.9969" zpos="-147.177" type="leag.community.sin.glider" GUID="m5pfajAqu0iXYA4ZbQkNkg=="/>
+        <POI MapID="1045" xpos="-448.554" ypos="22.7431" zpos="-151.693" type="leag.community.sin.glider" GUID="5gp9AFuTXUy8FGIQ1+5yTg=="/>
+        <POI MapID="1045" xpos="-440.492" ypos="23.9006" zpos="-159.334" type="leag.community.sin.glider" GUID="yM4MTcI6eE+r3WfrZPUfHA=="/>
+        <POI MapID="1045" xpos="-427.797" ypos="25.3103" zpos="-179.089" type="leag.community.sin.glider" GUID="FDVAq1aYIEOn4ECnSpcwTA=="/>
+        <POI MapID="1045" xpos="-413.364" ypos="26.7631" zpos="-183.397" type="leag.community.sin.glider" GUID="Hya3s0wZSUmIohTlmX6swQ=="/>
+        <POI MapID="1045" xpos="-384.773" ypos="23.0249" zpos="-190.178" type="leag.community.sin.glider" GUID="/iMrS/dUNU6aXHoBZzW8lA=="/>
+        <POI MapID="1045" xpos="-368.362" ypos="23.8398" zpos="-199.936" type="leag.community.sin.glider" GUID="42yhk6lRUE6030EloFAx3w=="/>
+        <POI MapID="1045" xpos="-338.22" ypos="26.3046" zpos="-217.183" type="leag.community.sin.glider" GUID="VcprTY2CD0ebdbMSyHhvqg=="/>
+        <POI MapID="1045" xpos="-315.768" ypos="20.8869" zpos="-222.925" type="leag.community.sin.glider" GUID="btSiMLYJdUiDeIc23FN4/w=="/>
+        <POI MapID="1045" xpos="-300.066" ypos="17.5456" zpos="-222.319" type="leag.community.sin.glider" GUID="iTbTBHRA7UCjd8tpR/rA3g=="/>
+        <POI MapID="1045" xpos="-282.931" ypos="23.3617" zpos="-223.01" type="leag.community.sin.glider" GUID="LhLF9fvoAU6VwZBrHXsvyA=="/>
+        <POI MapID="1045" xpos="-243.1" ypos="101.365" zpos="-260.592" type="leag.community.sin.glider" GUID="ZRyBX1m10EudyasvpZZ7wQ=="/>
+        <POI MapID="1045" xpos="-282.1834" ypos="111.0017" zpos="-215.7318" type="leag.community.sin" GUID="tjFDBy9ZFU2JL13wkttpdQ==" iconFile="Data/Images/Emote - Wave.png"/>
+		<POI MapID="1045" xpos="-317.9423" ypos="109.6383" zpos="-234.9414" type="leag.community.sin" GUID="ZHrOGOyoVUSLr8+R0r2XUg==" iconFile="Data/Images/Emote - Threaten.png"/>
+		<POI MapID="1045" xpos="-348.7718" ypos="110.0048" zpos="-188.3095" type="leag.community.sin" GUID="D1MdnfCwkkShhCLZjV/CQQ==" iconFile="Data/Images/Emote - Cry.png"/>
+		<POI MapID="1045" xpos="-304.328" ypos="110.9766" zpos="-174.6973" type="leag.community.sin" GUID="MKRp/jk550e2Ppt4aIaCkQ==" iconFile="Data/Images/Emote - Sleep.png"/>
+		<POI MapID="1045" xpos="-316.3376" ypos="106.933" zpos="-203.8816" type="leag.community.sin" GUID="GoyrGx3a70GrqYT491khXg==" iconFile="Data/Images/Emote - Dance.png"/>
+
+
+		<Trail type="leag.community.sin.path.to" trailData="Data/Community/Rune-Locked Doors 0.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.community.sin.path.cold" trailData="Data/Community/Rune-Locked Doors 1.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.community.sin.path.lava" trailData="Data/Community/Rune-Locked Doors 2.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.community.sin.path.lava" trailData="Data/Community/Rune-Locked Doors 3.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.community.sin.path.lava" trailData="Data/Community/Rune-Locked Doors 4.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.community.sin.path.lava" trailData="Data/Community/Rune-Locked Doors 5.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.community.sin.path.lava" trailData="Data/Community/Rune-Locked Doors 6.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.community.sin.path.cobweb" trailData="Data/Community/Rune-Locked Doors 7.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.community.sin.path.cobweb" trailData="Data/Community/Rune-Locked Doors 7b.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.community.sin.path.cobweb" trailData="Data/Community/Rune-Locked Doors 8.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.community.sin.path.cobweb" trailData="Data/Community/Rune-Locked Doors 9.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.community.sin.path.water" trailData="Data/Community/Rune-Locked Doors 10.trl" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="1211" xpos="-1138.75" ypos="340.412" zpos="157.528" type="leag.community.sin.rune.1" GUID="BBtAgmKf2E+NkUI+UZDixg=="/>
+        <POI MapID="1211" xpos="-1222.37" ypos="340.002" zpos="125.077" type="leag.community.sin.rune.1" GUID="ECof2bBXXU2ipOMvRXMWuA=="/>
+        <POI MapID="1211" xpos="-1150.42" ypos="356.691" zpos="81.4204" type="leag.community.sin.rune.2" GUID="tmD9NUvDxEuRuwhActDQdQ=="/>
+        <POI MapID="1211" xpos="-1245.43" ypos="278.537" zpos="126.965" type="leag.community.sin.rune.2" GUID="4F+qz/ZFNkmSkNBFeiMgEg=="/>
+        <POI MapID="1211" xpos="-1245.36" ypos="278.693" zpos="123.143" type="leag.community.sin.rune.3" GUID="M0NGuAI4k0yGiyFUSqO3IQ=="/>
+        <POI MapID="1211" xpos="-1224.42" ypos="321.066" zpos="68.9512" type="leag.community.sin.rune.3" GUID="2beVKmDz+EOtquftCWsl9Q=="/>
+        <POI MapID="1211" xpos="-1335.28" ypos="299.589" zpos="201.924" type="leag.community.sin.rune.7" GUID="QtfDpDuR20OjFsyE3owhZw=="/>
+        <POI MapID="1211" xpos="-1333.95" ypos="299.452" zpos="203.712" type="leag.community.sin.rune.8" GUID="bRTPkWkSb0+0EoMdNyzR8Q=="/>
+        <POI MapID="1211" xpos="-1333.96" ypos="299.459" zpos="205.989" type="leag.community.sin.rune.9" GUID="95gzDc+9X0u0Qpw6r0nv7A=="/>
+        <POI MapID="1211" xpos="-1335.24" ypos="299.498" zpos="207.809" type="leag.community.sin.rune.10" GUID="2eTUk6KKU0GgARfs6611Vw=="/>
+        <POI MapID="1211" xpos="-1283.85" ypos="284.414" zpos="202.202" type="leag.community.sin.rune.4" GUID="L9LiIUj62UqpZwJ2CV+TMQ=="/>
+        <POI MapID="1211" xpos="-1281.06" ypos="284.418" zpos="201.066" type="leag.community.sin.rune.5" GUID="99hIlahXJ0+2qszvPq/FaA=="/>
+        <POI MapID="1211" xpos="-1278.14" ypos="284.421" zpos="202.308" type="leag.community.sin.rune.6" GUID="984yhW4tnEeGV91tYrnkXg=="/>
+        <POI MapID="1211" xpos="-1157.16" ypos="239.047" zpos="155.11" type="leag.community.sin.rune.4" GUID="+vo0Lqxb/0ylXxxa5/x5sQ=="/>
+        <POI MapID="1211" xpos="-1048.84" ypos="242.436" zpos="112.388" type="leag.community.sin.rune.5" GUID="tU+l6dSLcEuD1ZOKy5p+mA=="/>
+        <POI MapID="1211" xpos="-1077.37" ypos="214.091" zpos="159.271" type="leag.community.sin.rune.6" GUID="xvyeXkwdPU6riv2BtWxQSA=="/>
+        <POI MapID="1211" xpos="-1292.94" ypos="223.933" zpos="385.374" type="leag.community.sin.rune.7" GUID="fOjkyUNEok+2FKpnYpMOVA=="/>
+        <POI MapID="1211" xpos="-1179.77" ypos="235.217" zpos="334.049" type="leag.community.sin.rune.8" GUID="J6W0xPpfh0qnKzsqNijEqw=="/>
+        <POI MapID="1211" xpos="-1285.27" ypos="253.865" zpos="345.448" type="leag.community.sin.rune.10" GUID="CW1qCgvfsUWxtts39RO6jg=="/>
+        <POI MapID="1211" xpos="-1203.79" ypos="252.184" zpos="368.514" type="leag.community.sin.rune.9" GUID="/MRIPjG8fkKxmLObJngeIg=="/>
+        <POI MapID="1211" xpos="-1156.81" ypos="340.645" zpos="81.4527" type="leag.community.sin.mount.springer" GUID="9aBVqilN5kicBMkbAJqxPg=="/>
+        <POI MapID="1211" xpos="-1118.77" ypos="327.505" zpos="69.732" type="leag.community.sin.mount.raptor" GUID="rX+r2PGN40qJLEAdUKOKhg=="/>
+        <POI MapID="1211" xpos="-1241.31" ypos="277.085" zpos="140.973" type="leag.community.sin.mount.springer" GUID="Fta4SLtRpk68/ROGjGZQdA=="/>
+        <POI MapID="1211" xpos="-1296.42" ypos="283.886" zpos="205.07" type="leag.community.sin.mount.raptor" GUID="zF7Tme3ozEufzxzBgjDjVw=="/>
+        <POI MapID="1211" xpos="-1309.76" ypos="282.339" zpos="204.658" type="leag.community.sin.mount.springer" GUID="dNcIDDCyAkCeixSjLWbkdg=="/>
+        <POI MapID="1211" xpos="-1055" ypos="232.228" zpos="111.519" type="leag.community.sin.mount.springer" GUID="pa0K/FHs/0a6Rfc7qti21Q=="/>
+        <POI MapID="1211" xpos="-1102.83" ypos="210.851" zpos="137.395" type="leag.community.sin.mount.raptor" GUID="s0vS2+mbR0Ke/GWxO8UAew=="/>
+        <POI MapID="1211" xpos="-1181.05" ypos="226.407" zpos="381.811" type="leag.community.sin.mount.springer" GUID="zvK2ySfoD0WtG0+UGkwiEg=="/>
+
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 10 RLD 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 10 RLD 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 10 RLD 3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 10 RLD 4.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+
+	</POIs>
+</OverlayData>

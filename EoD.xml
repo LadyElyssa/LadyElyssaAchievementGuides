@@ -1,5 +1,41 @@
 <OverlayData>
     <POIs>
+        <!-- CANTHA -->
+        <!-- Stomping Around -->
+        <POI MapID="1422" xpos="25.1572" ypos="204.412" zpos="-983.729" type="leag.eod.cantha.stomping.egg" GUID="NSPPaC7r/EGqKQVkVYeb8Q==" tip-name="Can buy a Dragon's Egg for 200 Writs of Dragon's End"/>
+        <POI MapID="1422" xpos="15.4587" ypos="391.713" zpos="-518.185" type="leag.eod.cantha.stomping.egg" GUID="Gl3T+V5jC0SqpJnK3GCD1Q==" tip-name="META: The Battle for the Jade Sea" inGameVisibility="0"/>
+        <POI MapID="1428" xpos="-935.638" ypos="18.9202" zpos="689.108" type="leag.eod.cantha.stomping.rota" GUID="H44sRchAY0uAlks8hFyDvQ=="/>
+
+        <POI MapID="1428" xpos="-935.638" ypos="18.9202" zpos="689.108" type="leag.eod.cantha.stomping.small.food" GUID="Vn1tVzv8l0im1JaRCOtSZw=="/>
+        <POI MapID="1428" xpos="-948.621" ypos="14.323" zpos="692.618" type="leag.eod.cantha.stomping.small.carrot" GUID="TN9fJfJBYUeb6T1qnxvGaA=="/>
+        <POI MapID="1428" xpos="-947.353" ypos="14.3193" zpos="693.634" type="leag.eod.cantha.stomping.small.lettuce" GUID="ELQaQv65FUihmPxOXVIMUQ=="/>
+        <POI MapID="1428" xpos="-946.151" ypos="14.317" zpos="694.59" type="leag.eod.cantha.stomping.small.strawberries" GUID="qyEmow3FlEOCijYkULMsrg=="/>
+        <POI MapID="1428" xpos="-949.763" ypos="14.3376" zpos="691.704" type="leag.eod.cantha.stomping.small.kale" GUID="Dt0J+CmtuUKb0DvY+PRzEQ=="/>
+
+        <POI MapID="1428" xpos="-935.638" ypos="18.9202" zpos="689.108" type="leag.eod.cantha.stomping.stronger.list" GUID="WdM9v9xMHEOAf9jUiFNT3Q=="/>
+        <POI MapID="1428" xpos="-948.621" ypos="14.323" zpos="692.618" type="leag.eod.cantha.stomping.stronger.fine" GUID="It7CQAtw0U+LvSUSor3PzA=="/>
+        <POI MapID="1428" xpos="-947.353" ypos="14.3193" zpos="693.634" type="leag.eod.cantha.stomping.stronger.fabulous" GUID="ceBomD8u0UWpaxkYUK2XKg=="/>
+        <POI MapID="1428" xpos="-946.151" ypos="14.317" zpos="694.59" type="leag.eod.cantha.stomping.stronger.flavorful" GUID="gBg0KUZdw0uhGdaU1ar0ow=="/>
+        <POI MapID="1428" xpos="-949.763" ypos="14.3376" zpos="691.704" type="leag.eod.cantha.stomping.stronger.fantastic" GUID="2S+/VUKyCkSoCDEjhCQHVQ=="/>
+        <POI MapID="1428" xpos="-965.9922" ypos="15.30485" zpos="733.0464" type="leag.eod.cantha.stomping.stronger" GUID="y7ekqIBCnUeAOPpbD0NAnQ==" iconFile="Data/Images/Icons/Taro Everclaw.png" inGameVisibility="1" miniMapVisibility="1" mapVisibility="1" tip-name="Taro Everclaw" minSize="24" maxSize="24" mapDisplaySize="32"/>
+
+        <POI MapID="1428" xpos="-935.638" ypos="18.9202" zpos="689.108" type="leag.eod.cantha.stomping.suit.list" GUID="2CCPIihfIEa1RR7tDfYAXg=="/>
+        <POI MapID="1422" xpos="117.88" ypos="9.42848" zpos="328.605" type="leag.eod.cantha.stomping.suit.tools" GUID="Too8S8vThU+pzvr4bbyMPQ==" tip-name="Miner's Folly Event: Jade Maw"/>
+        <POI MapID="1438" xpos="-563.627" ypos="214.921" zpos="449.727" type="leag.eod.cantha.stomping.suit.plans" GUID="xHdD0fuBCEK3dY0u9E8rLA==" miniMapVisibility="0" mapVisibility="0"/>
+        <POI MapID="1438" xpos="-563.627" ypos="214.921" zpos="449.727" type="leag.eod.cantha.stomping.suit.plans" GUID="b3Up0p2dn0Gwhmz29OPABw==" iconFile="Data/Images/Icons/Elora.png" inGameVisibility="0" tip-name="HEART: Elora"/>
+        <POI MapID="1442" xpos="66.3679" ypos="82.6346" zpos="619.355" type="leag.eod.cantha.stomping.suit.power" GUID="BampFq2t3UW/KL6g2HS85g==" tip-name="META: Aetherblade Assault"/>
+        <POI MapID="1452" xpos="-73.7491" ypos="120.113" zpos="-677.096" type="leag.eod.cantha.stomping.suit.oil" GUID="t0aQFuRBw0qs6b6OyzMipw==" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128"/>
+        <POI MapID="1452" xpos="-73.7491" ypos="120.113" zpos="-677.096" type="leag.eod.cantha.stomping.suit.oil" GUID="yGQtOC9vak2z8A+d++frrA==" tip-name="EVENTS: Collect Sap OR Protect the Sylvari"/>
+        <Trail type="leag.eod.cantha.stomping.suit.oil" trailData="Data/EoD/Cantha/Turtle Unlock Suiting Up 5 Alleola Oil.trl" mapDisplaySize="12" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <POI MapID="1442" xpos="-182.6788" ypos="-1.132793" zpos="-628.4814" type="leag.eod.cantha.stomping.suit.leather" GUID="z7nctM5fb0uS1fljzzcJnw==" tip-name="EVENT: Kill the Adolescent Leviathan"/>
+        <Trail type="leag.eod.cantha.stomping.suit.thruster" trailData="Data/EoD/Cantha/Turtle Unlock Suiting Up 7 Thruster Plans.trl" mapDisplaySize="12" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1"/>
+        <POI MapID="1452" xpos="41.7845" ypos="178.792" zpos="527.195" type="leag.eod.cantha.stomping.suit.thruster" GUID="2W73mhzvJ0qXSY2KhRl06w==" minSize="12" maxSize="16" inGameVisibility="1"/>
+        <POI MapID="1490" xpos="92.0227" ypos="274.839" zpos="829.952" type="leag.eod.cantha.stomping.suit.control" GUID="NOmqfg8SokmO/l3w4nXY3Q==" minSize="12" maxSize="16" inGameVisibility="1"/>
+        <Trail type="leag.eod.cantha.stomping.suit.thruster" trailData="Data/EoD/Cantha/Turtle Unlock Suiting Up 8 Thruster Control Unit.trl" mapDisplaySize="12" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1"/>
+        <POI MapID="1428" xpos="-947.871" ypos="17.2426" zpos="693.197" type="leag.eod.cantha.stomping.suit.color" GUID="xmIuMRmPc0+u3MwZMLWsWg=="/>
+                
+
+
         <!-- ARBORSTONE -->
 
         <!-- A Guardian Once More -->

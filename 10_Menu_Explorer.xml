@@ -1,5 +1,5 @@
 <OverlayData>
-    <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides">
+    <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" texture="Data/Images/Trails/Trail Marker 1.png" animSpeed="0.8" alpha="1.0" fadeNear="2000" fadeFar="4000">
         
         <MarkerCategory name="explorer" DisplayName="Explorer">
 

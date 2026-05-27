@@ -1,0 +1,43 @@
+<OverlayData>
+    <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" texture="Data/Images/Trails/Trail Marker 1.png" animSpeed="0.8" alpha="1.0" fadeNear="2000" fadeFar="4000" mapDisplaySize="16">
+        
+        <MarkerCategory name="community" DisplayName="Community">
+
+            <!-- https://wiki.guildwars2.com/wiki/Someone_in_Need -->
+            <MarkerCategory name="sin" DisplayName="Someone in Need" fadeNear="1600" fadeFar="3000" achievementId="6776">
+                <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5" fadeNear="1200" fadeFar="2400"/>
+                <MarkerCategory name="wp" DisplayName="Waypoints" iconFile="Data/Images/Icons/Blank.png" triggerrange="2.0" autotrigger="true"/>
+                
+                <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
+                    <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
+                    <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="path" DisplayName="Path">
+                    <MarkerCategory name="to" DisplayName="To First Rune" mapDisplaySize="8"/>
+                    <MarkerCategory name="cold" DisplayName="Cold" mapDisplaySize="8" color="00ffff"/>
+                    <MarkerCategory name="lava" DisplayName="Lava" mapDisplaySize="8" color="ff6600"/>
+                    <MarkerCategory name="cobweb" DisplayName="Cobweb" mapDisplaySize="8" color="9494b8"/>
+                    <MarkerCategory name="water" DisplayName="Water" mapDisplaySize="8" color="33cccc"/>
+                </MarkerCategory>
+                
+                <MarkerCategory name="rune" DisplayName="Rune Number">
+                    <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/n1.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                    <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/n2.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                    <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/n3.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                    <MarkerCategory name="4" DisplayName="Four" iconFile="Data/Images/Numbers/n4.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                    <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/n5.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                    <MarkerCategory name="6" DisplayName="Six" iconFile="Data/Images/Numbers/n6.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                    <MarkerCategory name="7" DisplayName="Seven" iconFile="Data/Images/Numbers/n7.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                    <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/n8.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                    <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/n9.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                    <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/n10.png" mapDisplaySize="8" maxSize="16" heightOffset="0.5"/>
+                </MarkerCategory>
+                
+            </MarkerCategory>
+
+        </MarkerCategory>
+    </MarkerCategory>
+    <!-- End of Lady Elyssa's AP Guides -->
+</OverlayData>

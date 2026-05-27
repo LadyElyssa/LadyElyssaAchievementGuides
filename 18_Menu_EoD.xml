@@ -100,6 +100,47 @@
         
         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
+            <!-- CANTHA -->
+            <MarkerCategory name="cantha" DisplayName="Cantha">
+                <MarkerCategory name="stomping" DisplayName="Stomping Around" achievementId="6176">
+                    <MarkerCategory name="egg" DisplayName="Dragon's Egg" iconFile="Data/Images/Icons/Dragon's Egg.png" minSize="24" maxSize="24" mapDisplaySize="32"/>
+                    <MarkerCategory name="rota" DisplayName="Rota (Arborstone)" iconFile="Data/Images/Icons/Talk.png" miniMapVisibility="0" mapVisibility="0"/>
+
+                    <MarkerCategory name="small" DisplayName="Starting Small [H]" achievementId="6408" miniMapVisibility="0" mapVisibility="0" heightOffset="2.5">
+                        <MarkerCategory name="food" DisplayName="Rota's Baby Food" iconFile="Data/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="kale" DisplayName="Kale" iconFile="Data/Images/Icons/Kale.png" minSize="12" maxSize="16"/>
+                        <MarkerCategory name="carrot" DisplayName="Carrots" iconFile="Data/Images/Icons/Carrot.png" minSize="12" maxSize="16"/>
+                        <MarkerCategory name="lettuce" DisplayName="Lettuce" iconFile="Data/Images/Icons/Lettuce.png" minSize="12" maxSize="16"/>
+                        <MarkerCategory name="strawberries" DisplayName="Strawberry" iconFile="Data/Images/Icons/Strawberry.png" minSize="12" maxSize="16"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="stronger" DisplayName="Getting Stronger [H]" achievementId="6066" miniMapVisibility="0" mapVisibility="0" heightOffset="3.5">
+                        <MarkerCategory name="list" DisplayName="Fishing List" iconFile="Data/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="fine" DisplayName="Fine Fish" iconFile="Data/Images/Icons/Fine Fish.png" minSize="12" maxSize="16"/>
+                        <MarkerCategory name="fabulous" DisplayName="Fabulous Fish" iconFile="Data/Images/Icons/Fabulous Fish.png" minSize="12" maxSize="16"/>
+                        <MarkerCategory name="flavorful" DisplayName="Flavorful Fish" iconFile="Data/Images/Icons/Flavorful Fish.png" minSize="12" maxSize="16"/>
+                        <MarkerCategory name="fantastic" DisplayName="Fantastic Fish" iconFile="Data/Images/Icons/Fantastic Fish.png" minSize="12" maxSize="16"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="suit" DisplayName="Suiting Up [H]" achievementId="6099" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="48">
+                        <MarkerCategory name="list" DisplayName="Saddle Parts" iconFile="Data/Images/Icons/Blank.png"/>
+                        <MarkerCategory name="tools" DisplayName="Luxon Tools" iconFile="Data/Images/Icons/Luxon Tools.png" minSize="12" maxSize="16"/>
+                        <MarkerCategory name="plans" DisplayName="Turret Plans" iconFile="Data/Images/Icons/Turret Plans.png" minSize="12" maxSize="16" inGameVisibility="1"/>
+                        <MarkerCategory name="power" DisplayName="Turret Power Unit" iconFile="Data/Images/Icons/Turret Power Unit.png" minSize="12" maxSize="16"/>
+                        <MarkerCategory name="oil" DisplayName="Alleola Oil" iconFile="Data/Images/Icons/Alleola Oil.png" minSize="12" maxSize="16"/>
+                        <MarkerCategory name="leather" DisplayName="Deluxe Leather Seating" iconFile="Data/Images/Icons/Deluxe Leather Seating.png" minSize="12" maxSize="16"/>
+                        <MarkerCategory name="thruster" DisplayName="Thruster Plans" iconFile="Data/Images/Icons/Thruster Plans.png" minSize="12" maxSize="16"/>
+                        <MarkerCategory name="control" DisplayName="Thruster Control Unit" iconFile="Data/Images/Icons/Thruster Control Unit.png" minSize="12" maxSize="16"/>
+                        <MarkerCategory name="color" DisplayName="Saddle Color Selection" iconFile="Data/Images/Icons/Saddle Color Selection.png" minSize="12" maxSize="16" inGameVisibility="1"/>
+                    </MarkerCategory>
+                    
+
+                    <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    
+                </MarkerCategory>
+            </MarkerCategory>
+
             <!-- ARBORSTONE -->
 
             <MarkerCategory name="arb" DisplayName="Arborstone">
