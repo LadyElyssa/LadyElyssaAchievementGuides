@@ -20,6 +20,10 @@ Principles
    * minimising the need to adjust the camera
    * why jump when you can walk
 
+## Content Sharing ##
+
+I am happy for people to use any of my trails and markers for their own GW2 projects and just ask that I am attributed accordingly. Please do contact me to let me know as I would also be happy to link to your project.
+
 This pack currently covers:
 
 ## Achievements ##
