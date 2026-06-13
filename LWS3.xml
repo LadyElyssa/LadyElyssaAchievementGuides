@@ -932,13 +932,34 @@
         <POI MapID="1175" xpos="225.308" ypos="29.8926" zpos="-257.948" type="leag.lws3.ember.coalescence" GUID="51vRWGq7XkW7j6beKPHCdg=="/>
         <POI MapID="1175" xpos="426.362" ypos="2.97347" zpos="-596.823" type="leag.lws3.ember.coalescence" GUID="IWbZAv22I0yS1dJ/m7DsXQ=="/>
         <POI MapID="1175" xpos="-416.193" ypos="14.1562" zpos="-874.94" type="leag.lws3.ember.coalescence" GUID="MNNFARk7S0C4HN15dshZfA=="/>
+        <POI MapID="1175" xpos="-683.169" ypos="69.6702" zpos="-224.076" type="leag.lws3.ember.hal" GUID="Xtbu00S2SEKbtYU5LxoS3Q=="/>
+        <POI MapID="1175" xpos="-870.76" ypos="50.0818" zpos="-436.589" type="leag.lws3.ember.hal.apple" GUID="Pqx8zB2qVUWW8wcnRIInVQ=="/>
+        <POI MapID="1175" xpos="-863.935" ypos="49.4682" zpos="-440.332" type="leag.lws3.ember.hal.apple" GUID="gRsspLgKCESJFucj/9meYw=="/>
+        <POI MapID="1175" xpos="-876.981" ypos="26.5818" zpos="-425.914" type="leag.lws3.ember.hal.apple" GUID="1YmuSCBI4keBA+yN8uPbnw=="/>
+        <POI MapID="1175" xpos="-863.439" ypos="19.8771" zpos="-414.54" type="leag.lws3.ember.hal.apple" GUID="w6LWv4KMNUqmqKF+XCk5RQ=="/>
+        <POI MapID="1175" xpos="-838.908" ypos="34.9996" zpos="-455.218" type="leag.lws3.ember.hal.apple" GUID="MTbjdXgEw0Wbju2QnBK6KQ=="/>
+        <POI MapID="1175" xpos="-835.113" ypos="34.5549" zpos="-458.434" type="leag.lws3.ember.hal.apple" GUID="OTK9IW9xyECm4tmLWteHlw=="/>
+        <POI MapID="1175" xpos="-830.652" ypos="35.2014" zpos="-462.565" type="leag.lws3.ember.hal.apple" GUID="wT3ZIbXKFk2RXV3cpZuhJA=="/>
+        <POI MapID="1175" xpos="-634.884" ypos="33.1096" zpos="-661.417" type="leag.lws3.ember.hal.apple" GUID="3qND+MuUJUi+fdv9/WOSBQ=="/>
+        <POI MapID="1175" xpos="-655.784" ypos="55.2372" zpos="-661.387" type="leag.lws3.ember.hal.apple" GUID="iJtTFCMQW02zkYmbkykNUQ=="/>
+        <POI MapID="1175" xpos="-681.492" ypos="70.7236" zpos="-706.898" type="leag.lws3.ember.hal.apple" GUID="UGjlsJwioEeDRHzpdbzlZQ=="/>
+        <POI MapID="1175" xpos="-637.517" ypos="66.2141" zpos="-730.943" type="leag.lws3.ember.hal.apple" GUID="pe6rYIZFx0GcvSeUZ/PS6w=="/>
+        <POI MapID="1175" xpos="-646.841" ypos="78.3545" zpos="-774.636" type="leag.lws3.ember.hal.apple" GUID="WKQtU9J8b0+A2EmVzkxRbw=="/>
+        <POI MapID="1175" xpos="-570.937" ypos="74.0284" zpos="-791.348" type="leag.lws3.ember.hal.apple" GUID="SfU1ezt7X0O5jA1O+wjqtQ=="/>
+        <POI MapID="1175" xpos="-568.46" ypos="74.8882" zpos="-803.5" type="leag.lws3.ember.hal.apple" GUID="Ow6maJlAXkS7rqCMgxgzTw=="/>
         <POI MapID="1175" xpos="-830.38" ypos="12.851" zpos="-26.3269" type="leag.lws3.ember.jade" GUID="xKzVuWwCA0CB5zh1Ve9Uxw=="/>
         <POI MapID="1175" xpos="856.691" ypos="0.136946" zpos="-143.378" type="leag.lws3.ember.karka" GUID="EIddvL+xBE+Fn0gxfHy8HA=="/>
+        <POI MapID="1175" xpos="603.675" ypos="16.6676" zpos="-321.015" type="leag.lws3.ember.skrilla" GUID="wLVZgdXrlE2sBKqpCx/UeQ==" info="Donate a gold for a good cause" infoRange="6.5"/>
         <Trail type="leag.lws3.ember.tablets" trailData="Data/LWS3/Tablets of the Unseen.trl"/>
         <POI MapID="1175" xpos="-622.45" ypos="1.69499" zpos="-508.677" type="leag.lws3.ember.tablets.start" GUID="AL0ajs+Hvk+EIJ9wL6b2Tw=="/>
         <POI MapID="1175" xpos="-827.301" ypos="27.4956" zpos="-170.189" type="leag.lws3.ember.tablets.glider" GUID="tSn51lfyRUK6FYCYwnCQ/A=="/>
         <POI MapID="1175" xpos="-909.59" ypos="14.3895" zpos="-12.4943" type="leag.lws3.ember.tablets.glider" GUID="aOuSpWP6p06n4ThvGMEV/Q=="/>
         <POI MapID="1175" xpos="-697.656" ypos="90.907" zpos="-44.9204" type="leag.lws3.ember.tablets.glider" GUID="v6Sgs0+xvUC/5oA45SSFGg=="/>
+        <POI MapID="1175" xpos="-856.905" ypos="28.4636" zpos="-31.1094" type="leag.lws3.ember.tfg" GUID="quCRGET/t0WGJnYIhL8+Kw=="/>
+        <POI MapID="1175" xpos="-916.612" ypos="-0.302377" zpos="-51.2356" type="leag.lws3.ember.tfg.ship" GUID="UqCT0NvW2U2kXCyzoV/3uQ=="/>
+        <POI MapID="1175" xpos="-910.779" ypos="-0.2129" zpos="-136.022" type="leag.lws3.ember.tfg.ship" GUID="LhytyHivB0KRxNFXGohMnA=="/>
+        <POI MapID="1175" xpos="-913.608" ypos="0.0949256" zpos="2.14592" type="leag.lws3.ember.tfg.ship" GUID="WNGx2dKAqUOXNQjSCcqZXg=="/>
+        <POI MapID="1175" xpos="-967.299" ypos="5.25637" zpos="49.3675" type="leag.lws3.ember.tfg.ship" GUID="S3jyajJPcESqm6V7e/a35w=="/>
         <Trail type="leag.lws3.ember.token.1" trailData="Data/LWS3/Token Collector 1.trl"/>
         <Trail type="leag.lws3.ember.token.2" trailData="Data/LWS3/Token Collector 2.trl"/>
         <Trail type="leag.lws3.ember.token.3" trailData="Data/LWS3/Token Collector 3.trl"/>

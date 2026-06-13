@@ -669,13 +669,23 @@
 
                 <MarkerCategory name="coalescence" DisplayName="Collecting Coalescence" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128" achievementId="3131"/>
 
-                <MarkerCategory name="jade" DisplayName="Return of the Jade Construct" iconFile="Data/Images/Champion Pyroclastic Jade Construct.png" inGameVisibility="0" mapDisplaySize="64" achievementId="3148" tip-name="Champion Pyroclastic Jade Construct"/>
+                <MarkerCategory name="hal" DisplayName="Hungry Hal" iconFile="Data/Images/Hungry Hal.png" inGameVisibility="1" minSize="24" maxSize="24" mapDisplaySize="48" achievementId="3104" tip-name="Hungry Hal">
+                    <MarkerCategory name="apple" DisplayName="Ember Apple" iconFile="Data/Images/Icons/Ember Apple.png" minSize="16" maxSize="24" inGameVisibility="1" mapDisplaySize="32" tip-name="Ember Apple"/>
+                </MarkerCategory>
                 
                 <MarkerCategory name="karka" DisplayName="Krackin' Karka" iconFile="Data/Images/Champion Karka.png" inGameVisibility="0" mapDisplaySize="64" achievementId="3120" tip-name="Champion Karka"/>
+
+                <MarkerCategory name="jade" DisplayName="Return of the Jade Construct" iconFile="Data/Images/Champion Pyroclastic Jade Construct.png" inGameVisibility="0" mapDisplaySize="64" achievementId="3148" tip-name="Champion Pyroclastic Jade Construct"/>
+
+                <MarkerCategory name="skrilla" DisplayName="Skrilla's Benefactor" iconFile="Data/Images/Skrilla.png" inGameVisibility="1" minSize="24" maxSize="24" mapDisplaySize="48" achievementId="3150" tip-name="Skrilla"/>
 
                 <MarkerCategory name="tablets" DisplayName="Tablets of the Unseen" achievementId="3113">
                     <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="tfg" DisplayName="The Friendly Ghost [H]" iconFile="Data/Images/Captain Grumby.png" inGameVisibility="1" minSize="24" maxSize="24" mapDisplaySize="48" achievementId="3110" tip-name="Captain Grumby">
+                    <MarkerCategory name="ship" DisplayName="Piece of Damaged Ship" iconFile="Data/Images/Icons/Orb - Blue - S.png" minSize="16" maxSize="24" inGameVisibility="1" mapDisplaySize="32" tip-name="Piece of Damaged Ship"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="token" DisplayName="Token Collector" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="3129">
