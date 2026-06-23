@@ -434,7 +434,7 @@
                 <MarkerCategory name="nest" DisplayName="Good, Better, Nest [H]" achievementId="4426">
                     <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" inGameVisibility="0" miniMapVisibility="1" mapVisibility="1" mapDisplaySize="96"/>
                     <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" maxSize="24" mapDisplaySize="32"/>
-                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="Clear out the Awakened Inquest lab"/>
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0"/>
                     <MarkerCategory name="exit" DisplayName="Exit Instance" iconFile="Data/Images/Icons/ExitInstance.png" maxSize="16" heightOffset="-0.5" miniMapVisibility="0" mapVisibility="0"/>
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
                     <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true"/>
@@ -528,6 +528,7 @@
                         <MarkerCategory name="16" DisplayName="Sixteen" iconFile="Data/Images/Numbers/16.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         <MarkerCategory name="17" DisplayName="Seventeen" iconFile="Data/Images/Numbers/17.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                         <MarkerCategory name="18" DisplayName="Eighteen" iconFile="Data/Images/Numbers/18.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
+                        <MarkerCategory name="19" DisplayName="Nineteen" iconFile="Data/Images/Numbers/19.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                     </MarkerCategory>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="32" maxSize="48">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>

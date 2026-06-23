@@ -248,6 +248,55 @@
         <POI MapID="1178" xpos="518.638" ypos="0.564914" zpos="-290.706" type="leag.lws3.bff.desserts" GUID="jKWM1iyQMEyP4xxlq22A/A=="/>
         <POI MapID="1178" xpos="30.9969" ypos="-132.34" zpos="-110.291" type="leag.lws3.bff.desserts" GUID="hkSqz4B+mkyLOXNRWGjFQw=="/>
 
+        <!-- Thaw Elixir -->
+        <POI MapID="1178" xpos="63.7291" ypos="9.30355" zpos="-345.112" type="leag.lws3.bff.elixir.winterberry" GUID="Zp5HvsADP0yp1sdHTpwvkQ=="/>
+        <POI MapID="1178" xpos="562.922" ypos="1.70332" zpos="-26.9336" type="leag.lws3.bff.elixir.winterberry" GUID="q5jHQEwg5EydFX1+3G3EiA=="/>
+        <POI MapID="1178" xpos="248.748" ypos="34.6747" zpos="212.767" type="leag.lws3.bff.elixir.winterberry" GUID="uSc+GBvsd0WNjkKL8nuVYQ=="/>
+        <POI MapID="1178" xpos="-204.65" ypos="15.8787" zpos="59.2524" type="leag.lws3.bff.elixir.winterberry" GUID="OCfbNa2sykS7oHyzy0/b3g=="/>
+        <POI MapID="1178" xpos="-184.059" ypos="23.8964" zpos="162.881" type="leag.lws3.bff.elixir.winterberry" GUID="iz71VgHi9Ea9CTMZ7E9Isw=="/>
+        <POI MapID="1178" xpos="-232.664" ypos="35.4803" zpos="170.717" type="leag.lws3.bff.elixir.winterberry" GUID="/qJOGM4HfE+Ig5wCEgi/oQ=="/>
+        <POI MapID="1178" xpos="-300.177" ypos="34.1698" zpos="105.414" type="leag.lws3.bff.elixir.winterberry" GUID="qSCsiUTk3Eiy5toct1HB1A=="/>
+        <POI MapID="1178" xpos="-307.862" ypos="48.3523" zpos="208.285" type="leag.lws3.bff.elixir.winterberry" GUID="V09DAo5IQEukpwQIX4ho9w=="/>
+        <POI MapID="1178" xpos="-167.332" ypos="101.776" zpos="288.303" type="leag.lws3.bff.elixir.winterberry" GUID="MB9F1enffEG32nLXBD5VAA=="/>
+        <POI MapID="1178" xpos="-271.226" ypos="74.9472" zpos="304.223" type="leag.lws3.bff.elixir.winterberry" GUID="ExVo0Nbg+kCgCLWCzmGOWQ=="/>
+        <POI MapID="1178" xpos="-376.861" ypos="88.6589" zpos="331.574" type="leag.lws3.bff.elixir.winterberry" GUID="xGXGrUXlik+WssnBSEBuUg=="/>
+        <POI MapID="1178" xpos="-552.111" ypos="70.752" zpos="284.264" type="leag.lws3.bff.elixir.winterberry" GUID="rmnS2TkeRECeK2U8vgrG9w=="/>
+        <POI MapID="1178" xpos="-713.804" ypos="66.614" zpos="173.285" type="leag.lws3.bff.elixir.winterberry" GUID="a4aEN3GOQ0mYRUIc+XAMdg=="/>
+        <POI MapID="1178" xpos="-712.946" ypos="66.4873" zpos="175.325" type="leag.lws3.bff.elixir.winterberry" GUID="dvUk0+2FZkCe6TNd8p+hOg=="/>
+        <POI MapID="1178" xpos="-698.191" ypos="72.7931" zpos="231.943" type="leag.lws3.bff.elixir.winterberry" GUID="GXX6DRI3vkWtKqEfq6Gptg=="/>
+        <POI MapID="1178" xpos="-748.104" ypos="102.303" zpos="262.374" type="leag.lws3.bff.elixir.winterberry" GUID="VIv2o78M8EC6hRxFDPUrQg=="/>
+        <POI MapID="1178" xpos="-777.736" ypos="88.5535" zpos="67.6159" type="leag.lws3.bff.elixir.winterberry" GUID="7b7ptGqgjEOAkZV0PsAHrg=="/>
+        <POI MapID="1178" xpos="-578.658" ypos="40.7343" zpos="-24.2234" type="leag.lws3.bff.elixir.winterberry" GUID="+r7yt2YJ2EGlKerCkLVznQ=="/>
+        <POI MapID="1178" xpos="-426.38" ypos="15.5989" zpos="-98.3626" type="leag.lws3.bff.elixir.winterberry" GUID="NI7cu8Nj6UKuX+UyJETBUQ=="/>
+        <POI MapID="1178" xpos="-346.867" ypos="30.4919" zpos="-61.6096" type="leag.lws3.bff.elixir.winterberry" GUID="37HvUdTb/kqhp7AT5wSizw=="/>
+        <POI MapID="1178" xpos="-340.714" ypos="31.9052" zpos="44.6319" type="leag.lws3.bff.elixir.winterberry" GUID="x5fmHgCb30epw07C/nv0aw=="/>
+        <POI MapID="1178" xpos="-128.562" ypos="1.59234" zpos="125.759" type="leag.lws3.bff.elixir.winterberry" GUID="2GhREwaQy0OmF+a01Z3B3g=="/>
+
+        <POI MapID="1178" xpos="-404.989" ypos="37.8278" zpos="73.8574" type="leag.lws3.bff.elixir.eggshell" GUID="B//EoXr9Rk+4uqx2HHMTPw=="/>
+        <POI MapID="1178" xpos="-415.254" ypos="37.6804" zpos="50.6798" type="leag.lws3.bff.elixir.eggshell.egg" GUID="V8Ws5Gu7P0C8mlabQaYrhw=="/>
+        <POI MapID="1178" xpos="-408.195" ypos="33.167" zpos="-26.4839" type="leag.lws3.bff.elixir.eggshell.egg" GUID="wyhd18apNEOtnqHNVAqQFQ=="/>
+        <POI MapID="1178" xpos="-338.592" ypos="23.0766" zpos="-14.1932" type="leag.lws3.bff.elixir.eggshell.egg" GUID="hjPOi8eXNkOx8YsJgXfxbg=="/>
+        <POI MapID="1178" xpos="-307.409" ypos="17.9936" zpos="-13.7987" type="leag.lws3.bff.elixir.eggshell.egg" GUID="zaxZEmsrqUCHxVwaofsEcg=="/>
+        <POI MapID="1178" xpos="-370.3" ypos="31.202" zpos="20.8396" type="leag.lws3.bff.elixir.eggshell.egg" GUID="WGE4EnZ1DUW81TPhA5HdWQ=="/>
+        <POI MapID="1178" xpos="-381.506" ypos="35.0931" zpos="30.8596" type="leag.lws3.bff.elixir.eggshell.egg" GUID="YqlwrPtgjUGp2HcaHEs2pQ=="/>
+        <POI MapID="1178" xpos="-348.963" ypos="33.3929" zpos="36.1734" type="leag.lws3.bff.elixir.eggshell.egg" GUID="C+zyi96xxUGdej26G5Q3Jw=="/>
+        <POI MapID="1178" xpos="-353.385" ypos="30.7036" zpos="128.758" type="leag.lws3.bff.elixir.eggshell.egg" GUID="NM39isiRUEeNEh69+5xOLQ=="/>
+        <POI MapID="1178" xpos="-386.209" ypos="33.0199" zpos="125.714" type="leag.lws3.bff.elixir.eggshell.egg" GUID="7RsLq3dzJ0OAcY5WOfVLnA=="/>
+
+        <POI MapID="1178" xpos="-88.1221" ypos="0.655472" zpos="60.4259" type="leag.lws3.bff.elixir.suet" GUID="V5dAHQVLDEm4j6t6aZrqgQ=="/>
+        <POI MapID="1178" xpos="-150.121" ypos="0.405332" zpos="63.3831" type="leag.lws3.bff.elixir.suet" GUID="VKOGoTynKUGXppHfx+SOtw=="/>
+        <POI MapID="1178" xpos="-129.259" ypos="0.332469" zpos="-40.121" type="leag.lws3.bff.elixir.suet" GUID="0T5hNzT3PUOAgbq1n+gU9w=="/>
+        <POI MapID="1178" xpos="-207.121" ypos="0.336232" zpos="-54.8765" type="leag.lws3.bff.elixir.suet" GUID="rand2ERgTke6Zy+UAfy+nA=="/>
+        <POI MapID="1178" xpos="-608.568" ypos="0.190585" zpos="-198.821" type="leag.lws3.bff.elixir.suet" GUID="/1X9z0AqTEqaj32kOF5HcQ=="/>
+        <POI MapID="1178" xpos="-621.73" ypos="0.122811" zpos="-150.87" type="leag.lws3.bff.elixir.suet" GUID="rkwOjyoBoki5GpfJ4gcscQ=="/>
+        <POI MapID="1178" xpos="-650.056" ypos="0.12875" zpos="-119.517" type="leag.lws3.bff.elixir.suet" GUID="vYwUQbfzvUKIr+Lm/rh9zA=="/>
+        <POI MapID="1178" xpos="-760.472" ypos="1.74196" zpos="-174.639" type="leag.lws3.bff.elixir.suet" GUID="fst9QPFCyUaMWrAqZiyvUg=="/>
+        <POI MapID="1178" xpos="-739.376" ypos="0.121974" zpos="-238.839" type="leag.lws3.bff.elixir.suet" GUID="b5DMjk0JzkC+aVSqyj72pg=="/>
+        <POI MapID="1178" xpos="-699.347" ypos="3.47594" zpos="-209.794" type="leag.lws3.bff.elixir.suet" GUID="spx9OxRNN0+b5OR2m4fPOA=="/>
+        <POI MapID="1178" xpos="-523.956" ypos="7.48687" zpos="-173.2" type="leag.lws3.bff.elixir.suet" GUID="EeI+HDRK50KNGpC0cE0WeA=="/>
+
+        <POI MapID="1178" xpos="-38.5245" ypos="31.0267" zpos="179.406" type="leag.lws3.bff.elixir.firestone" GUID="YwEmQ0aSI06EulxMgvH2MA=="/>
+
         <!-- Thorough Sampling -->
         <Trail type="leag.lws3.bff.sampling" trailData="Data/LWS3/Thorough Sampling 1.trl"/>
         <Trail type="leag.lws3.bff.sampling" trailData="Data/LWS3/Thorough Sampling 2.trl"/>
@@ -394,6 +443,10 @@
         <POI MapID="1165" xpos="195.114" ypos="336.751" zpos="81.5189" type="leag.lws3.bsf.notebook.wp" GUID="oCzk7VsSe0K3A53jZgqnxA==" copy="[&amp;BD8JAAA=]" copy-message="Depths of the Maw Waypoint"/>
         <POI MapID="1165" xpos="-210.013" ypos="764.204" zpos="92.8507" type="leag.lws3.bsf.notebook.1" GUID="fZydiuzvZEWUDyGH57wSxA=="/>
         <POI MapID="1165" xpos="-215.118" ypos="764.351" zpos="99.665" type="leag.lws3.bsf.notebook.2" GUID="5le8ZxOnQ02Ntz52mTF/KQ=="/>
+
+        <Trail type="leag.lws3.bsf.grief" trailData="Data/LWS3/Grief Counseling.trl"  texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="0" color="FF6A00"/>
+        <POI MapID="1165" xpos="-80.7097" ypos="519.529" zpos="-12.086" type="leag.lws3.bsf.grief.alari" GUID="Ol2VsZlv3EWA6KonXtSOCw=="/>
+        <POI MapID="1165" xpos="-197.651" ypos="505.322" zpos="125.378" type="leag.lws3.bsf.grief.emote" GUID="m2q/0zi8Kk6e8EHjSdv4rg==" info="Type /Yes when she says:''Tell me the truth...''" infoRange="6.5"/>
 
         <Trail type="leag.lws3.bsf.journal" trailData="Data/LWS3/Grand Savant Valis the Learned's Research Journal 1.trl"/>
         <Trail type="leag.lws3.bsf.journal" trailData="Data/LWS3/Grand Savant Valis the Learned's Research Journal 2.trl"/>
@@ -1074,7 +1127,9 @@
         <POI MapID="1185" xpos="253.19" ypos="185.294" zpos="624.245" type="leag.lws3.doric.cin.set.glider" GUID="c6yGzB4aPkyF0KA41R7MDQ=="/>
         <POI MapID="1185" xpos="-332.092" ypos="33.6864" zpos="-22.9908" type="leag.lws3.doric.cin.set.glider" GUID="NeYK8Xj/SkaiES3OvXY35A=="/>
         <POI MapID="1185" xpos="172.883" ypos="64.7499" zpos="-390.843" type="leag.lws3.doric.cin.set.glider" GUID="U75Xao8j2E2c+NDsKyAY5g=="/>
-        <POI MapID="1185" xpos="315.518" ypos="48.435" zpos="-278.037" type="leag.lws3.doric.dance" GUID="cVTpPMzc/0yWTNh5GICgXA=="/>
+        <Trail type="leag.lws3.doric.dance.lakeside" trailData="Data/LWS3/Dance Club.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png"/>
+        <POI MapID="1185" xpos="313.9375" ypos="48.43951" zpos="-277.776" type="leag.lws3.doric.dance.lakeside" GUID="cVTpPMzc/0yWTNh5GICgXA=="/>
+        <POI MapID="1185" xpos="313.9375" ypos="48.43951" zpos="-277.776" type="leag.lws3.doric.dance" GUID="wPqRD6igy0mG/C6ApPDiqw=="/>
         <POI MapID="1185" xpos="309.972" ypos="48.1573" zpos="-326.128" type="leag.lws3.doric.gems" GUID="KPKRpjqS3EGFXb/mEf/joA=="/>
         <Trail type="leag.lws3.doric.letters" trailData="Data/LWS3/Letters from E.trl"/>
         <Trail type="leag.lws3.doric.wander" trailData="Data/LWS3/Not All Who Wander Are Lost.trl"/>
@@ -1092,6 +1147,8 @@
         <POI MapID="1185" xpos="335.332" ypos="25.5948" zpos="-653.518" type="leag.lws3.doric.wander.glider" GUID="F5FfX2dEM0GloVX0N23U1Q=="/>
         <POI MapID="1185" xpos="337.312" ypos="39.8843" zpos="-687.337" type="leag.lws3.doric.wander.glider" GUID="RgdLBqd0NkaX/e7qQOmqxA=="/>
         <POI MapID="1185" xpos="-266.234" ypos="100.459" zpos="713.671" type="leag.lws3.doric.respects.soren" GUID="IQzuwhAJIkuliHo9vBSXlQ=="/>
+        <POI MapID="1185" xpos="-266.234" ypos="100.459" zpos="713.671" type="leag.lws3.doric.respects" GUID="rojzRcw3T0+WzWs2TzQM2A=="/>
+        <Trail type="leag.lws3.doric.respects.soren" trailData="Data/LWS3/Paying Respects.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png"/>
         <Trail type="leag.lws3.doric.trap" trailData="Data/LWS3/It's a Trap.trl"/>
         <POI MapID="1185" xpos="-334.235" ypos="41.9256" zpos="628.933" type="leag.lws3.doric.trap.glider" GUID="XZXewWjcOkWdGANx9oGTGA=="/>
         <POI MapID="1185" xpos="-332.799" ypos="41.7876" zpos="618.459" type="leag.lws3.doric.trap.glider" GUID="DbL2WRAaL0aHvzXhS9I3sw=="/>
@@ -1099,7 +1156,9 @@
         <POI MapID="1185" xpos="-307.003" ypos="31.3104" zpos="579.947" type="leag.lws3.doric.trap.glider" GUID="HIuIohKDoEiQysEZ5upUiw=="/>
         <POI MapID="1185" xpos="164.447" ypos="65.2518" zpos="-633.125" type="leag.lws3.doric.hugger.seafood" GUID="t8ozthr67U676tjsjhLfcQ=="/>
         <POI MapID="1185" xpos="171.269" ypos="62.7302" zpos="-645.295" type="leag.lws3.doric.hugger.crawdad" GUID="Fi2g/p94KE2v3EFzicQfgA=="/>
+        <Trail type="leag.lws3.doric.wellfare" trailData="Data/LWS3/Well Fare.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" mapDisplaySize="12" inGameVisibility="1"/>
         <POI MapID="1185" xpos="314.1564" ypos="79.45704" zpos="-93.81572" type="leag.lws3.doric.wellfare" GUID="nIfhsAWlQEm0CkzaSa70EA=="/>
+        <POI MapID="1185" xpos="229.2325" ypos="51.3819" zpos="-335.9502" type="leag.lws3.doric.wellfare.blaine" GUID="W/0W6lJVrk+Q/Dqku19dmA=="/>
 
 
         <!-- Siren's Landing -->

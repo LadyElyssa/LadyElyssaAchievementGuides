@@ -534,8 +534,8 @@
         <POI MapID="1593" xpos="-71.3114" ypos="6.52748" zpos="377.648" type="leag.voe.starlit.gwyl.numbers.8" GUID="vtjSY7llgkaGL7Zlt21tUw=="/>
         <POI MapID="1593" xpos="-67.6306" ypos="4.25176" zpos="377.255" type="leag.voe.starlit.gwyl.numbers.9" GUID="yRtWcOMeOEq7tnG939dHQg=="/>
 
-        <POI MapID="1593" xpos="861.473" ypos="25.7903" zpos="-165.488" type="leag.voe.starlit.dubious" GUID="ND5PUneLmkSf9jV5WqG6QA==" info="Only during the Choya Dance event" infoRange="5"/>
-        <POI MapID="1593" xpos="856.594" ypos="30.6386" zpos="-131.785" type="leag.voe.starlit.grilling" GUID="cwO+D+qlW02c6n5z5ysGhA==" info="Only during the Choya Dance event" infoRange="5"/>
+        <POI MapID="1593" xpos="861.473" ypos="25.7903" zpos="-165.488" type="leag.voe.starlit.dubious" GUID="ND5PUneLmkSf9jV5WqG6QA==" info="/dance untransformed during the Choya Dance event&#xa;&#xa;Speak to Narcisse to start" infoRange="10"/>
+        <POI MapID="1593" xpos="856.594" ypos="30.6386" zpos="-131.785" type="leag.voe.starlit.grilling" GUID="cwO+D+qlW02c6n5z5ysGhA==" info="Only during the Choya Dance event&#xa;&#xa;Speak to Narcisse to transform in to a Choya" infoRange="10"/>
 
 
         <!-- Eternity's Garden -->
@@ -601,7 +601,10 @@
         <POI MapID="1622" xpos="-225.099" ypos="18.224" zpos="-607.683" type="leag.voe.eternity.gregorios.flower" GUID="lwWnbdIPo0q581YNx7KaKg=="/>
         <POI MapID="1622" xpos="464.527" ypos="7.95891" zpos="72.8854" type="leag.voe.eternity.gregorios" GUID="RF9brj+ZoE+5w5mqGQ1IMg=="/>
 
-        <Trail type="leag.voe.eternity.kitshark" trailData="Data/VoE/Adventure - Kitshark Fishing.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.voe.eternity.kitshark" trailData="Data/VoE/Adventure - Kitshark Fishing Alt.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="0"/>
+        <Trail type="leag.voe.eternity.kitshark" trailData="Data/VoE/Adventure - Kitshark Fishing.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Trail Pointer - Small.png" animSpeed="0"/>
+        <POI MapID="1622" xpos="-237.347" ypos="0.348523" zpos="-340.949" type="leag.voe.eternity.kitshark.sign" GUID="BwGHR7cJLUqzdmw+IMxqnQ=="/>
+        
 
         <POI MapID="1622" xpos="158.362" ypos="34.3493" zpos="131.566" type="leag.voe.eternity.master" GUID="gW2yJ7OYk0y09gnyjOGv8A=="/>
         <POI MapID="1622" xpos="158.362" ypos="34.3493" zpos="131.566" type="leag.voe.eternity.master.event" GUID="E8qdN5L2NEqUACs2PKbBAQ=="/>

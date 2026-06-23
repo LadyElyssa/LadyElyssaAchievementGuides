@@ -929,8 +929,8 @@
         <POI MapID="1271" xpos="-99.2664" ypos="5.74634" zpos="687.534" type="leag.lws4.jahai.nest.mount.springer" GUID="MNOSKnGiXUiDxi+C49eONg=="/>
         <POI MapID="1210" xpos="-959.36" ypos="13.0327" zpos="-34.0696" type="leag.lws4.jahai.nest.wp" GUID="Y0iDIy81GECs0N+2acNmag==" info="ENTER Office of the Chief Councilor" infoRange="5"/>
         <POI MapID="1210" xpos="-918.529" ypos="17.3746" zpos="-312.015" type="leag.lws4.jahai.nest.wp" GUID="W9AZSEZNYEWm2UJNK3Eo6g==" info="ENTER Zalambur's Office" infoRange="5"/>
-        <POI MapID="1210" xpos="-1177.25" ypos="0.368801" zpos="-179.93" type="leag.lws4.jahai.nest.event" GUID="Z5VDLY3r102PrS9OvjZCkg=="/>
-        <POI MapID="1210" xpos="-517.951" ypos="35.8518" zpos="-582.543" type="leag.lws4.jahai.nest.event" GUID="Q3HryMDe9EWyEP3kJ4g8QQ=="/>
+        <POI MapID="1210" xpos="-1177.25" ypos="0.368801" zpos="-179.93" type="leag.lws4.jahai.nest.event" GUID="Z5VDLY3r102PrS9OvjZCkg==" tip-name="EVENT: Recover the sunken Consortium cargo polluting Amnoon's harbor"/>
+        <POI MapID="1210" xpos="-517.951" ypos="35.8518" zpos="-582.543" type="leag.lws4.jahai.nest.event" GUID="Q3HryMDe9EWyEP3kJ4g8QQ==" tip-name="EVENT: Defend the Water Authority plant from Hamaseen saboteurs"/>
 
         <Trail type="leag.lws4.jahai.memorabilia" trailData="Data/LWS4/Collections/Memorabilia 1.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="DDAF96"/>
         <Trail type="leag.lws4.jahai.memorabilia" trailData="Data/LWS4/Collections/Memorabilia 2.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="DDAF96"/>
@@ -1069,6 +1069,7 @@
         <POI MapID="1301" xpos="-371.547" ypos="50.9027" zpos="-675.276" type="leag.lws4.jahai.elegy.number.1" GUID="TgaXgQe54UCmvktKjxMQrA=="/>
         <POI MapID="1301" xpos="-843.548" ypos="72.35166" zpos="112.117" type="leag.lws4.jahai.elegy.number.2" GUID="ZJ3IpLe4tk68y+NbtusKJw=="/>
         <POI MapID="1301" xpos="-843.548" ypos="71.1166" zpos="112.117" type="leag.lws4.jahai.elegy.number.17" GUID="DBr1hhbP3kq9vIukZPcVrA=="/>
+        <POI MapID="1301" xpos="-843.548" ypos="70.1166" zpos="112.117" type="leag.lws4.jahai.elegy.number.19" GUID="VzxQp1rshU6C52yQqqmzGg=="/>
         <POI MapID="1301" xpos="562.2749" ypos="140.6137" zpos="928.3824" type="leag.lws4.jahai.elegy.number.5" GUID="P9JX7zZxKkKxJ07CpZFo2w=="/>
         <POI MapID="1301" xpos="-842.384" ypos="71.1206" zpos="113.424" type="leag.lws4.jahai.elegy.number.7" GUID="ofj3iHvN8kenEfLsKt4gjQ=="/>
         <POI MapID="1301" xpos="-844.253" ypos="70.5385" zpos="105.797" type="leag.lws4.jahai.elegy.number.10" GUID="GWQS1YYikkykA2nxWpJ1Ag=="/>

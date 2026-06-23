@@ -5,15 +5,18 @@
 		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 2 JP.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
 		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 4.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
 		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 4 JP.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
-		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 6.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
-		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 6 JP 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
-		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 6 JP 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
-		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 6 JP 3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
-		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 6 JP 4.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
-		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 8 Alt.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
-		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 8.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
-		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 8 JP 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="400" fadeFar="900" animSpeed="0.5"/>
-		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 8 JP 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"  fadeNear="800" fadeFar="1600" animSpeed="0.5"/>
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 6.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 6 JP.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+		
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 8 JP 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 8 JP 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 8 JP 3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 8 JP 4.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
+
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 10 Alt.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="1200" fadeFar="2400"/>
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 10.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 10 JP 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" fadeNear="400" fadeFar="900" animSpeed="0.5"/>
+		<Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 10 JP 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"  fadeNear="800" fadeFar="1600" animSpeed="0.5"/>
 
 		<POI MapID="25" xpos="-573.993" ypos="9.080985" zpos="-770.8261" type="leag.community.sin.wp" GUID="NU/nPApgqkOjoah+AZdWzg==" copy="[&amp;BC0EAAA=]" copy-message="Lion's Arch, Diverse Ledges Waypoint"/>
 		<POI MapID="23" xpos="950.7056" ypos="65.50512" zpos="-601.3576" type="leag.community.sin.wp" GUID="NwhgmH9e4kOkGvRS/our7g==" copy="[&amp;BC0EAAA=]" copy-message="Lion's Arch, Diverse Ledges Waypoint"/>
@@ -85,10 +88,10 @@
         <POI MapID="1211" xpos="-1102.83" ypos="210.851" zpos="137.395" type="leag.community.sin.mount.raptor" GUID="s0vS2+mbR0Ke/GWxO8UAew=="/>
         <POI MapID="1211" xpos="-1181.05" ypos="226.407" zpos="381.811" type="leag.community.sin.mount.springer" GUID="zvK2ySfoD0WtG0+UGkwiEg=="/>
 
-        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 10 RLD 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
-        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 10 RLD 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
-        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 10 RLD 3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
-        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 10 RLD 4.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 12 RLD 1.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 12 RLD 2.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 12 RLD 3.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <Trail type="leag.community.sin" trailData="Data/Community/Someone in Need 12 RLD 4.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
 
 	</POIs>
 </OverlayData>
