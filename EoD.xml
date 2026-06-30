@@ -1219,11 +1219,82 @@
         <!-- World Lore: Gyala Delve -->
         <POI MapID="1490" xpos="-208.406" ypos="290.941" zpos="923.761" type="leag.eod.gd.wlgd.talk" GUID="nCxFeimsbkev66LSZCAA/Q=="/>
 
-        <!-- World Lore: Special Ops Rescue Agency -->
-        <POI MapID="1490" xpos="-93.7591" ypos="289.487" zpos="924.15" type="leag.eod.gd.wlsora.talk" GUID="++v09NOjiEiHS6PpI7PdEg=="/>
 
-        <!-- Special Ops Armor Collection ??? -->
+        <!-- Special Ops Armor Collection -->
 
+        <Trail type="leag.eod.gd.captain.gd" trailData="Data/EoD/Special Ops Armor/Spec Ops 0.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png" color="00FF00"/>
         
+        <POI MapID="1490" xpos="-93.7248" ypos="293.238" zpos="924.089" type="leag.eod.gd.captain.talk" GUID="fDjWCZ66jkm8k41ON0EPvg=="/>
+        <POI MapID="1490" xpos="-93.8835" ypos="290.556" zpos="928.173" type="leag.eod.gd.captain.materials" GUID="FENrIBXaz0CbBqxIZBtNkQ==" minSize="128" maxSize="128"/>
+
+        <Trail type="leag.eod.gd.sobc1.sart1" trailData="Data/EoD/Special Ops Armor/Spec Ops 1 - SAR 1.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png" color="00FF00"/>
+        <POI MapID="1452" xpos="1033.919" ypos="-0.4659867" zpos="-610.7795" type="leag.eod.gd.sobc1.sart1" GUID="q00LLyTC3ES0OpCp0escjg==" info="EVENT: Compete with tengu youngsters in the archery contest" infoRange="5" iconFile="Data/Images/Special Ops Armor/Tateo.png" heightOffset="3.5" minSize="24" maxSize="24" mapDisplaySize="48" tip-name="EVENT: Compete with tengu youngsters in the archery contest"/>
+        <Trail type="leag.eod.gd.sobc1.sart2" trailData="Data/EoD/Special Ops Armor/Spec Ops 1 - SAR 2.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FF00"/>
+        <Trail type="leag.eod.gd.sobc1.fr" trailData="Data/EoD/Special Ops Armor/Spec Ops Fractals.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png" color="00FF00"/>
+        <POI MapID="1490" xpos="-93.7248" ypos="293.238" zpos="924.089" type="leag.eod.gd.sobc1.pwrsrc" GUID="FWE/VgEOV0SzAXlbdD3k1A==" iconFile="Data/Images/Icons/Blank.png"/>
+        <POI MapID="1490" xpos="-93.7248" ypos="293.238" zpos="924.089" type="leag.eod.gd.sobc1.boots" GUID="+1dPBDWA5UeWuuUSqpuYsw==" iconFile="Data/Images/Icons/Blank.png"/>
+        
+        <Trail type="leag.eod.gd.sobc2.utrt1" trailData="Data/EoD/Special Ops Armor/Spec Ops 2 - UTR 1.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FF00"/>
+        <POI MapID="1438" xpos="764.7432" ypos="2.614871" zpos="-26.26764" type="leag.eod.gd.sobc2.utrt1" GUID="uHMk4RzqtUm+brswPCOG2Q==" iconFile="Data/Images/Special Ops Armor/Aimi.png" inGameVisibility="0" mapDisplaySize="48" tip-name="EVENT: Reclaim the boathouse from the Unchained Risen" tip-description="After saving the boathouse, escort Aimi and her team deeper into the ruins."/>
+        <POI MapID="1438" xpos="781.4697" ypos="46.94668" zpos="309.8501" type="leag.eod.gd.sobc2.utrt1" GUID="SlEkIj04G0KYzuidWClccw==" iconFile="Data/Images/Special Ops Armor/Janin.png" inGameVisibility="0" mapDisplaySize="48" tip-name="EVENT: Defeat Janin"/>
+        <Trail type="leag.eod.gd.sobc2.utrt2" trailData="Data/EoD/Special Ops Armor/Spec Ops 2 - UTR 2.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FF00"/>
+        <POI MapID="1438" xpos="-754.3937" ypos="-0.6751356" zpos="-692.0406" GUID="YO0GxMunZUG13r5gPTwqKg==" iconFile="Data/Images/Special Ops Armor/Fisherman Daegu.png" inGameVisibility="0" mapDisplaySize="48" tip-name="EVENT: Protect the fisherman and slay Unchained Risen in the area"/>
+        <Trail type="leag.eod.gd.sobc2.utrt3" trailData="Data/EoD/Special Ops Armor/Spec Ops 2 - UTR 3.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FF00"/>
+        <POI MapID="1438" xpos="-987.8809" ypos="41.90948" zpos="616.9052" GUID="yFpVRQhBOU+S08EG/fA/DA==" iconFile="Data/Images/Special Ops Armor/Naga.png" inGameVisibility="0" mapDisplaySize="48" tip-name="EVENT: Defeat the naga leader before it withdraws"/>
+        <Trail type="leag.eod.gd.sobc2.fr" trailData="Data/EoD/Special Ops Armor/Spec Ops Fractals.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png" color="00FF00"/>
+        <POI MapID="1490" xpos="-93.7248" ypos="293.238" zpos="924.089" type="leag.eod.gd.sobc2.pwrsrc" GUID="HX1dx4SPw0aiprLC4++0gQ==" iconFile="Data/Images/Icons/Blank.png"/>
+        <POI MapID="1490" xpos="-93.7248" ypos="293.238" zpos="924.089" type="leag.eod.gd.sobc2.gloves" GUID="sCF0G2Zd3EydgzJ2SKDs3g==" iconFile="Data/Images/Icons/Blank.png"/>
+        
+        <Trail type="leag.eod.gd.sobc3.tmt1" trailData="Data/EoD/Special Ops Armor/Spec Ops 3 - TMT 1.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FF00"/>
+        <POI MapID="1442" xpos="-79.00556" ypos="14.33336" zpos="-183.8186" type="leag.eod.gd.sobc3.tmt1" GUID="81QnXQeu0EuDxxjfeJFagw==" iconFile="Data/Images/Icons/Blank.png" info="Requires PRE-EVENT (Night): Stop the extremist Speakers from binding the spirits&#xa;&#xa;On Success EVENT: Escort Kyung to Zen Daijun's main temple" infoRange="3"/>
+        <POI MapID="1442" xpos="-158.433" ypos="19.01692" zpos="-273.6716" type="leag.eod.gd.sobc3.tmt1" GUID="TjRWlfyuTESz0ZwD9Gz3gg==" iconFile="Data/Images/Special Ops Armor/Kyung.png" inGameVisibility="0" mapDisplaySize="48" tip-name="Stop the extremist Speakers from binding the spirits"/>
+        <POI MapID="1442" xpos="136.9499" ypos="74.29218" zpos="-274.8411" type="leag.eod.gd.sobc3.tmt1" GUID="vzPxoODVn0+r7ZZDaVwFNw==" iconFile="Data/Images/Special Ops Armor/Elite Speak Saboteur.png" inGameVisibility="0" mapDisplaySize="48"/>
+        <POI MapID="1442" xpos="206.6913" ypos="80.71726" zpos="-355.8621" type="leag.eod.gd.sobc3.tmt1" GUID="xTJ/XUjaaEmNIecn8cZBbw==" iconFile="Data/Images/Special Ops Armor/Tae-Sung.png" inGameVisibility="0" mapDisplaySize="48"/>
+        <Trail type="leag.eod.gd.sobc3.tmt2" trailData="Data/EoD/Special Ops Armor/Spec Ops 3 - TMT 2.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FF00"/>
+        <POI MapID="1442" xpos="-618.7583" ypos="146.1009" zpos="-28.96077" type="leag.eod.gd.sobc3.tmt2" GUID="JW8RaEZqwUCq/GwfbGBxEA==" iconFile="Data/Images/Special Ops Armor/Special Agent Teng.png" inGameVisibility="0" mapDisplaySize="48"/>
+        <POI MapID="1442" xpos="-673.1562" ypos="148.8554" zpos="-16.34757" type="leag.eod.gd.sobc3.tmt2" GUID="62wYHCHzg0C0jhnscPOmMQ==" iconFile="Data/Images/Special Ops Armor/Champion Purist Mesmer.png" inGameVisibility="0" mapDisplaySize="48"/>
+        <Trail type="leag.eod.gd.sobc3.tmt3" trailData="Data/EoD/Special Ops Armor/Spec Ops 3 - TMT 3.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FF00"/>
+        <POI MapID="1442" xpos="836.4755" ypos="1.087977" zpos="-386.6841" type="leag.eod.gd.sobc3.tmt3" GUID="Xbo9IpS1x0SWREZDCu93sA==" iconFile="Data/Images/Special Ops Armor/Nabi Sun.png" inGameVisibility="0" mapDisplaySize="48"/>
+        <POI MapID="1442" xpos="890.5787" ypos="0.6721911" zpos="-596.7269" type="leag.eod.gd.sobc3.tmt3" GUID="1zJXYiyk60GXlGW8K/V6wQ==" iconFile="Data/Images/Special Ops Armor/Champion Naga Tide Priest.png" inGameVisibility="0" mapDisplaySize="48"/>
+        <Trail type="leag.eod.gd.sobc3.fr" trailData="Data/EoD/Special Ops Armor/Spec Ops Fractals.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png" color="00FF00"/>
+        <POI MapID="1490" xpos="-93.7248" ypos="293.238" zpos="924.089" type="leag.eod.gd.sobc3.pwrsrc" GUID="XJJ6z3p3KUaqlEfT3B9Qng==" iconFile="Data/Images/Icons/Blank.png"/>
+        <POI MapID="1490" xpos="-93.7248" ypos="293.238" zpos="924.089" type="leag.eod.gd.sobc3.pauldrons" GUID="jbrYFMIlfUyWUVt6KsdxCw==" iconFile="Data/Images/Icons/Blank.png"/>
+
+        <Trail type="leag.eod.gd.soac1.tit1" trailData="Data/EoD/Special Ops Armor/Spec Ops 4 - TIT 1.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FF00"/>
+        <POI MapID="1452" xpos="479.2208" ypos="98.33586" zpos="284.915" type="leag.eod.gd.soac1.tit1" GUID="gZxSDbarvkG5bilndjkcOw==" iconFile="Data/Images/Special Ops Armor/God's Vengeance.png" inGameVisibility="0" mapDisplaySize="96"/>
+        <POI MapID="1452" xpos="568.7722" ypos="133.5651" zpos="457.6157" type="leag.eod.gd.soac1.tit1" GUID="E2ybpvNxME+S4guEEuCCLA==" iconFile="Data/Images/Special Ops Armor/Event.png" inGameVisibility="0" mapDisplaySize="128"/>
+        <Trail type="leag.eod.gd.soac1.tit2" trailData="Data/EoD/Special Ops Armor/Spec Ops 4 - TIT 2.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FF00"/>
+        <POI MapID="1452" xpos="-267.9395" ypos="142.3525" zpos="-380.1688" type="leag.eod.gd.soac1.tit2" GUID="ZEYe99cYc0eP4nW1SP3qvQ==" iconFile="Data/Images/Special Ops Armor/Verasha.png" inGameVisibility="0" mapDisplaySize="48"/>
+        <POI MapID="1452" xpos="11.83262" ypos="136.8847" zpos="-326.8036" type="leag.eod.gd.soac1.tit2" GUID="/S6+lValNEmJwnOGi60HeA==" iconFile="Data/Images/Special Ops Armor/Igne Mossheart.png" inGameVisibility="0" mapDisplaySize="48"/>
+        <Trail type="leag.eod.gd.soac1.tit3" trailData="Data/EoD/Special Ops Armor/Spec Ops 4 - TIT 3.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FF00"/>
+        <POI MapID="1452" xpos="-957.7694" ypos="174.0876" zpos="176.5975" type="leag.eod.gd.soac1.tit3" GUID="SzfO1cnSDke9OSWPltaz+g==" iconFile="Data/Images/Special Ops Armor/Elite Enraged Amber Elemental.png" inGameVisibility="0" mapDisplaySize="48"/>
+        <Trail type="leag.eod.gd.soac1.fr" trailData="Data/EoD/Special Ops Armor/Spec Ops Fractals.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png" color="00FF00"/>
+        <POI MapID="1490" xpos="-93.7248" ypos="293.238" zpos="924.089" type="leag.eod.gd.soac1.pwrsrc" GUID="H9yxqybTzkWBCi8UPBJYCw==" iconFile="Data/Images/Icons/Blank.png"/>
+        <POI MapID="1490" xpos="-93.7248" ypos="293.238" zpos="924.089" type="leag.eod.gd.soac1.helmet" GUID="G8OFrn4frEm3zxwLZJgscg==" iconFile="Data/Images/Icons/Blank.png"/>
+
+        <Trail type="leag.eod.gd.soac2.prt1" trailData="Data/EoD/Special Ops Armor/Spec Ops 5 - PRT 1.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FF00"/>
+        <POI MapID="1438" xpos="-505.2949" ypos="206.8237" zpos="-462.3283" type="leag.eod.gd.soac2.prt1" GUID="x++FhsADFEa93Gl9aesp4g==" iconFile="Data/Images/Special Ops Armor/Purist Propaganda.png" inGameVisibility="0" mapDisplaySize="48"/>
+        <Trail type="leag.eod.gd.soac2.prt2" trailData="Data/EoD/Special Ops Armor/Spec Ops 5 - PRT 2.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png" color="00FF00"/>
+        <POI MapID="1438" xpos="-539.7725" ypos="198.0327" zpos="-494.0684" type="leag.eod.gd.soac2.prt2" GUID="41neVlphPEaZFL0sSZEC1w==" iconFile="Data/Images/Special Ops Armor/Elite Purist.png" inGameVisibility="0" mapDisplaySize="48"/>
+        <Trail type="leag.eod.gd.soac2.prt3" trailData="Data/EoD/Special Ops Armor/Spec Ops 5 - PRT 3.trl" texture="Data/Images/Trails/Trail Pointer Dark - Small.png" color="00FF00"/>
+        <POI MapID="1438" xpos="322.4625" ypos="2.623821" zpos="105.3668" type="leag.eod.gd.soac2.prt3" GUID="t1OCpkZzQU+rNa/ciQH8Mg==" iconFile="Data/Images/Special Ops Armor/Event.png" inGameVisibility="0" mapDisplaySize="128" tip-name="PRE-EVENT: Thwart the Purist agitators!" tip-description="Followed by EVENT: Defeat the Purist champion"/>
+        <POI MapID="1438" xpos="711.8764" ypos="22.31283" zpos="533.4532" type="leag.eod.gd.soac2.prt3" GUID="AzDzavr7HUSsXHh55RUaUQ==" iconFile="Data/Images/Special Ops Armor/Event.png" inGameVisibility="0" mapDisplaySize="128" tip-name="EVENT: Defeat the Purist champion"/>
+        <POI MapID="1438" xpos="774.172" ypos="54.75824" zpos="533.5654" type="leag.eod.gd.soac2.prt3" GUID="xWI7MawH3Ei8r9SRhZ4bcQ==" iconFile="Data/Images/Special Ops Armor/Event.png" inGameVisibility="0" mapDisplaySize="128" tip-name="EVENT: Defeat the Purist champion"/>
+        <POI MapID="1438" xpos="699.5154" ypos="58.88589" zpos="472.0997" type="leag.eod.gd.soac2.prt3" GUID="40Rtn9hBkke/oPOni2g3/g==" iconFile="Data/Images/Special Ops Armor/Event.png" inGameVisibility="0" mapDisplaySize="128" tip-name="EVENT: Defeat the Purist champion"/>
+        <POI MapID="1438" xpos="723.0123" ypos="46.22446" zpos="377.4345" type="leag.eod.gd.soac2.prt3" GUID="ZsBD1lNc2kCxG3Wn44/MMw==" iconFile="Data/Images/Special Ops Armor/Event.png" inGameVisibility="0" mapDisplaySize="128" tip-name="EVENT: Defeat the Purist champion"/>
+        <POI MapID="1438" xpos="622.9453" ypos="46.94126" zpos="380.7742" type="leag.eod.gd.soac2.prt3" GUID="r8vI0WCX2kOj1FX+PSqiVQ==" iconFile="Data/Images/Special Ops Armor/Event.png" inGameVisibility="0" mapDisplaySize="128" tip-name="EVENT: Defeat the Purist champion"/>
+        <POI MapID="1438" xpos="911.458" ypos="59.10525" zpos="335.4361" type="leag.eod.gd.soac2.prt3" GUID="O/Tlz+Pn/0mJ/YMXjC6/9Q==" iconFile="Data/Images/Special Ops Armor/Event.png" inGameVisibility="0" mapDisplaySize="128" tip-name="EVENT: Defeat the Purist champion"/>
+        <POI MapID="1438" xpos="873.0121" ypos="68.5662" zpos="120.8708" type="leag.eod.gd.soac2.prt3" GUID="jiBbH+VFIEKIxbzV/+Hw/A==" iconFile="Data/Images/Special Ops Armor/Event.png" inGameVisibility="0" mapDisplaySize="128" tip-name="EVENT: Defeat the Purist champion"/>
+        <POI MapID="1438" xpos="850.6343" ypos="64.04486" zpos="68.28722" type="leag.eod.gd.soac2.prt3" GUID="T5aSoE+ekUa2oB49ywVJXg==" iconFile="Data/Images/Special Ops Armor/Event.png" inGameVisibility="0" mapDisplaySize="128" tip-name="EVENT: Defeat the Purist champion"/>
+        <Trail type="leag.eod.gd.soac2.fr" trailData="Data/EoD/Special Ops Armor/Spec Ops Fractals.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png" color="00FF00"/>
+        <POI MapID="1490" xpos="-93.7248" ypos="293.238" zpos="924.089" type="leag.eod.gd.soac2.pwrsrc" GUID="lrj35nXaaUqMR4xg4t1/Eg==" iconFile="Data/Images/Icons/Blank.png"/>
+        <POI MapID="1490" xpos="-93.7248" ypos="293.238" zpos="924.089" type="leag.eod.gd.soac2.pants" GUID="Jgxw0c4SR0yg7CU4tG/IEg==" iconFile="Data/Images/Icons/Blank.png"/>
+
+        <POI MapID="1422" xpos="15.22941" ypos="391.7176" zpos="-518.1118" type="leag.eod.gd.sofc.dct1" GUID="lcZvIrJSz0aymkN3SU/8TA==" iconFile="Data/Images/Special Ops Armor/Event.png" inGameVisibility="0" mapDisplaySize="128" tip-name="META: Defeat Soo-Won"/>
+        <POI MapID="1490" xpos="-321.3591" ypos="280.3951" zpos="922.39" type="leag.eod.gd.sofc.dct2" GUID="C8+MXC4t40mgyVH/NOOf6w" iconFile="Data/Images/Special Ops Armor/Event.png" inGameVisibility="0" mapDisplaySize="128" tip-name="META: Defeat the Ravenous Wanderer"/>
+        <Trail type="leag.eod.gd.sofc.fr" trailData="Data/EoD/Special Ops Armor/Spec Ops Fractals.trl" texture="Data/Images/Trails/Dark Dashed Line with Shadow.png" color="00FF00"/>
+        <POI MapID="1490" xpos="-93.7248" ypos="293.238" zpos="924.089" type="leag.eod.gd.sofc.pwrsrc" GUID="CqZKcQZP/kCgwBqvOwCo1w==" iconFile="Data/Images/Icons/Blank.png"/>
+        <POI MapID="1490" xpos="-93.7248" ypos="293.238" zpos="924.089" type="leag.eod.gd.sofc.chest" GUID="mis1kLLMiUub+9VIGHjAyA==" iconFile="Data/Images/Icons/Blank.png"/>
+
     </POIs>
 </OverlayData>

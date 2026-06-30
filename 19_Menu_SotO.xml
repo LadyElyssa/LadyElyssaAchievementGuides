@@ -78,7 +78,7 @@
             <MarkerCategory name="salute" DisplayName="Salute the Troops" achievementId="7805" iconFile="Data/Images/Emote - Salute.png" alpha="0.8"/>
             <MarkerCategory name="arsenal" DisplayName="Astral Ward Arsenal" achievementId="7781">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 <MarkerCategory name="achieves" IsSeparator="1" DisplayName="ACHIEVEMENTS"/>
                 <MarkerCategory name="tablet" DisplayName="Mysterious Tablet" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 <MarkerCategory name="scroll" DisplayName="Ancient Scroll" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -115,6 +115,277 @@
 
         <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP ZONE"/>
 
+        <MarkerCategory name="hom" DisplayName="Horn of Maguuma">
+            <MarkerCategory name="anf" DisplayName="A New Friend" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="7225">
+                <MarkerCategory name="nest" DisplayName="Abandoned Nests" iconFile="Data/Images/Skyscale Nest.png" inGameVisibility="1" minSize="16" maxSize="24" heightOffset="0" fadeNear="14000" fadeFar="16000" achievementBit="0"/>
+                <MarkerCategory name="egg" DisplayName="Egg Infusions" achievementBit="2">
+                    <MarkerCategory name="water" DisplayName="Water" iconFile="Data/Images/Skyscale/Water.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="bloodtide" DisplayName="Bloodtide Coast" mapDisplaySize="12" mapVisibility="1" inGameVisibility="1"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="fire" DisplayName="Fire" iconFile="Data/Images/Skyscale/Fire.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="bc" DisplayName="Black Citadel" mapDisplaySize="12" mapVisibility="1" inGameVisibility="1"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="ice" DisplayName="Ice" iconFile="Data/Images/Skyscale/Ice.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="bff" DisplayName="Bitterfrost Frontier"/>
+                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound" mapDisplaySize="12" mapVisibility="1" inGameVisibility="1"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="earth" DisplayName="Earth" iconFile="Data/Images/Skyscale/Earth.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="dt" DisplayName="Drytop" mapDisplaySize="12" mapVisibility="1" inGameVisibility="1"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="air" DisplayName="Air" iconFile="Data/Images/Skyscale/Air.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="maelstrom" DisplayName="Mount Maelstrom" mapDisplaySize="12" mapVisibility="1" inGameVisibility="1"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="life" DisplayName="Life" iconFile="Data/Images/Skyscale/Life.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location" mapDisplaySize="12" mapVisibility="1" inGameVisibility="1"/>
+                        <MarkerCategory name="revive" DisplayName="Gendarran Fields"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="blood" DisplayName="Blood" iconFile="Data/Images/Skyscale/Blood.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="gendarran" DisplayName="Gendarran Fields" mapDisplaySize="12" mapVisibility="1" inGameVisibility="1"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="growth" DisplayName="Growth" iconFile="Data/Images/Skyscale/Growth.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="tg" DisplayName="The Grove" mapDisplaySize="12" mapVisibility="1" inGameVisibility="1"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="death" DisplayName="Death" iconFile="Data/Images/Skyscale/Death.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="cs" DisplayName="Cursed Shore" mapDisplaySize="12" mapVisibility="1" inGameVisibility="1"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="spirit" DisplayName="Spirit" iconFile="Data/Images/Skyscale/Spirit.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="im" DisplayName="Iron Marches" mapDisplaySize="12" mapVisibility="1" inGameVisibility="1"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="fear" DisplayName="Fear" iconFile="Data/Images/Skyscale/Fear.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="for" DisplayName="Fields of Ruin" mapDisplaySize="12" mapVisibility="1" inGameVisibility="1"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="courage" DisplayName="Courage" iconFile="Data/Images/Skyscale/Courage.png">
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="wb" DisplayName="World Bosses" mapDisplaySize="12" mapVisibility="1" inGameVisibility="1"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+                
+                <MarkerCategory name="growing" DisplayName="Growing Comforts" achievementBit="3">
+                    <MarkerCategory name="treat" DisplayName="Skyscale Treat x 12" inGameVisibility="0" mapVisibility="0" miniMapVisibility="0">
+                        <MarkerCategory name="mf" IsSeparator="1" DisplayName="Mystic Forge"/>
+                        <MarkerCategory name="meat" DisplayName="2 Slab of Red Meat"/>
+                        <MarkerCategory name="quartz" DisplayName="Charged Quartz Crystal"/>
+                        <MarkerCategory name="ecto" DisplayName="Glob of Ectoplasm"/>
+                        <MarkerCategory name="bloodstone" DisplayName="Pile of Bloodstone Dust"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="skin" DisplayName="Tasty Kryptis Skin">
+                        <MarkerCategory name="rifts" DisplayName="T1 Rifts" iconFile="Data/Images/Skyscale/Tasty Kryptis Skin.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="hom" DisplayName="Horn of Maguuma"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="ration" DisplayName="Tasty Trail Ration">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Tasty Trail Ration.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="wayfarer" DisplayName="Wayfarer Foothills"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="carapace" DisplayName="Tasty Devourer Carapace">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Tasty Devourer Carapace.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="poa" DisplayName="Plains of Ashford"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="legs" DisplayName="Tasty Chak Legs">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Tasty Chak Legs.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Locations"/>
+                        <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="bark" DisplayName="Tasty Moss-Covered Bark">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Tasty Moss-Covered Bark.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="cf" DisplayName="Caledon Forest"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="segment" DisplayName="Tasty Wurm Segment">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Tasty Wurm Segment.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                        <MarkerCategory name="queensdale" DisplayName="Queensdale"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="meat" DisplayName="Tasty Ooze-Cured Meat">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Tasty Ooze-Cured Meat.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="mp" DisplayName="Metrica Province"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="joint" DisplayName="Forged Ankle Joint">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Forged Ankle Joint.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="whistle" DisplayName="Bird Whistle">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Bird Whistle.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="im" DisplayName="Iron Marches"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="plush" DisplayName="Plush Quaggan">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Plush Quaggan.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="twt" DisplayName="The Wizard's Tower"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="blanket" DisplayName="Heavy-Duty Dolyak Blanket">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Heavy-Duty Dolyak Blanket.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="lp" DisplayName="Lornar's Pass"/>
+                    </MarkerCategory>
+                </MarkerCategory>
+
+                <MarkerCategory name="saddle" DisplayName="Saddle Materials" achievementBit="4">
+                    
+                    <MarkerCategory name="leather" DisplayName="Stardust-Infused Leather">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Stardust-Infused Leather.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="am" DisplayName="Amnytas"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="oil" DisplayName="Mist-Infused Saddle Oil">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Mist-Infused Saddle Oil.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="am" DisplayName="Amnytas"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="thread" DisplayName="Jade-Spun Silk Thread">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Jade-Spun Silk Thread.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="hardware" DisplayName="Durable Saddle Hardware">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Durable Saddle Hardware.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="am" DisplayName="Amnytas"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="mahogany" DisplayName="Rich Maguuman Mahogany">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Rich Maguuman Mahogany.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="holding" DisplayName="Saddlebag of Holding">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Saddlebag of Holding.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="am" DisplayName="Amnytas"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="rivets" DisplayName="Deldrimor Rivets">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Deldrimor Rivets.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="tp" DisplayName="Thunderhead Peaks"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="cloth" DisplayName="Garenhoff-Weave Cloth">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Garenhoff-Weave Cloth.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="sandpaper" DisplayName="Elonian Sandpaper">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
+                    </MarkerCategory>
+                    <MarkerCategory name="tar" DisplayName="Extra-Sticky Tar">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Extra-Sticky Tar.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                        <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                        <MarkerCategory name="dok" DisplayName="Domain of Kourna"/>
+                    </MarkerCategory>
+                    
+                </MarkerCategory>
+
+                <MarkerCategory name="flight" DisplayName="Flight Training" achievementBit="5"/>
+
+            </MarkerCategory>
+            
+            <MarkerCategory name="collect" IsSeparator="1" DisplayName="Collections"/>
+            
+            <MarkerCategory name="anl" DisplayName="A New Look" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="7018">
+                
+                <MarkerCategory name="charm" DisplayName="Analytical Charm" achievementBit="1">
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                    <MarkerCategory name="twt" DisplayName="The Wizard's Tower"/>
+                </MarkerCategory>
+                <MarkerCategory name="target" DisplayName="Skyscale Target Practice" achievementBit="2">
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                    <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
+                </MarkerCategory>
+                <MarkerCategory name="turrets" DisplayName="Defeat 20 Kryptis Turrets" achievementBit="3">
+                    <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Kryptis Turret.png" inGameVisibility="0" mapDisplaySize="24"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                    <MarkerCategory name="am" DisplayName="Amnytas"/>
+                </MarkerCategory>
+                <MarkerCategory name="leyline" DisplayName="30secs on Leyline" achievementBit="4">
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                    <MarkerCategory name="am" DisplayName="Amnytas"/>
+                </MarkerCategory>
+                <MarkerCategory name="cauldron" DisplayName="Anodized Medicinal Cauldron" achievementBit="6">
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                    <MarkerCategory name="twt" DisplayName="The Wizard's Tower"/>
+                </MarkerCategory>
+                <MarkerCategory name="possess" DisplayName="Sample of Possession" achievementBit="7">
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                    <MarkerCategory name="twt" DisplayName="The Wizard's Tower"/>
+                </MarkerCategory>
+                <MarkerCategory name="corrupt" DisplayName="Sample of Corruption" achievementBit="8">
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                    <MarkerCategory name="twt" DisplayName="The Wizard's Tower"/>
+                </MarkerCategory>
+                <MarkerCategory name="masker" DisplayName="Skyscale Medicine Masker" achievementBit="9">
+                    <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Tasty Wurm Segment.png" inGameVisibility="0" mapDisplaySize="24"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                    <MarkerCategory name="diessa" DisplayName="Diessa Plateau"/>
+                    <MarkerCategory name="queensdale" DisplayName="Queensdale"/>
+                </MarkerCategory>
+                <MarkerCategory name="medicine" DisplayName="Administer the Medicine" achievementBit="11">
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                    <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
+                </MarkerCategory>
+                <MarkerCategory name="ao" DisplayName="Arcane Osmogrifier" achievementBit="12">
+                    <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Arcane Chest Greater.png" inGameVisibility="0" mapDisplaySize="64"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                    <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
+                </MarkerCategory>
+                <MarkerCategory name="use" DisplayName="Use the Arcane Osmogrifier" achievementBit="13">
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
+                    <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
+                </MarkerCategory>
+            </MarkerCategory>
+            
+        </MarkerCategory>
+
         <MarkerCategory name="am" DisplayName="Amnytas">
         <MarkerCategory name="apk" DisplayName="A Promise Kept [H] (Do Comrades in Arms First)" achievementId="7059">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
@@ -130,7 +401,7 @@
         <MarkerCategory name="caltit" DisplayName="Cruising Amnytas: Lyhr's Tower to Isgarren's Tower" achievementId="7633"/>
         <MarkerCategory name="cats" DisplayName="Cruising Amnytas: Natural to Strength" achievementId="7630"/>
         <MarkerCategory name="fff" DisplayName="Fantastic Flying Foxes" texture="Data/Images/Trails/Trail Marker 2.png" achievementId="7034">
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+            <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
             <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                 <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
@@ -179,7 +450,7 @@
                 <MarkerCategory name="5" DisplayName="Not everything is as it seems..." iconFile="Data/Images/Numbers/5.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 <MarkerCategory name="6" DisplayName="Shining like a star." iconFile="Data/Images/Numbers/6.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>    
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+            <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
         </MarkerCategory>
         <MarkerCategory name="ia" DisplayName="Illuminating Amnytas (Lanterns)" texture="Data/Images/Trails/Trail Marker 1.png" achievementId="7053">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
@@ -195,7 +466,7 @@
                 <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>    
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+            <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
         </MarkerCategory>
         <MarkerCategory name="llliw" DisplayName="Laugh Like Lyhr Is Watching (After Lyhr Escort Event)  " texture="Data/Images/Trails/Trail Marker 1.png" achievementId="7165"/>
         <MarkerCategory name="sorrows" DisplayName="Sorrow's Lost [H] ">
@@ -298,7 +569,7 @@
                 <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 <MarkerCategory name="3" DisplayName="Three" iconFile="Data/Images/Numbers/3.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>    
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+            <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
         </MarkerCategory>
         <MarkerCategory name="kosmas" DisplayName="Missing Brood" texture="Data/Images/Trails/Trail Marker 1 Shaded.png" achievementId="7973">
             <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
@@ -397,7 +668,7 @@
             <MarkerCategory name="9" DisplayName="9. Vexed Urn"/>
             <MarkerCategory name="10" DisplayName="10. Dream Essence"/>
             <MarkerCategory name="11" DisplayName="11. Return to Tecla the Venerable">
-                <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
             </MarkerCategory>
         </MarkerCategory>
         </MarkerCategory>
@@ -432,7 +703,7 @@
                 <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 <MarkerCategory name="10" DisplayName="Ten" iconFile="Data/Images/Numbers/10.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>    
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+            <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
         </MarkerCategory>
 
         <MarkerCategory name="ltmla" DisplayName="Let the Memory Live Again" achievementId="6987">
@@ -453,7 +724,7 @@
                 <MarkerCategory name="8" DisplayName="Eight" iconFile="Data/Images/Numbers/8.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
                 <MarkerCategory name="9" DisplayName="Nine" iconFile="Data/Images/Numbers/9.png" miniMapVisibility="0" minSize="16" maxSize="24"/>
             </MarkerCategory>    
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+            <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
             <MarkerCategory name="blank" IsSeparator="1" DisplayName=" "/>
             <MarkerCategory name="1" DisplayName="1. Wizard's Ascent" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
             <MarkerCategory name="2" DisplayName="2. Garenhoff" iconFile="Data/Images/Circle.png" heightOffset="0" mapDisplaySize="40" inGameVisibility="0"/>
@@ -540,7 +811,7 @@
             <MarkerCategory name="hint" DisplayName="Gharr Leadclaw NW area of the Outer Ring"/>
         </MarkerCategory>
         <MarkerCategory name="secrets" DisplayName="Secrets Obscured" texture="Data/Images/Trails/Trail Marker 1.png" color="33ccff" achievementId="6965">
-            <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+            <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
             <MarkerCategory name="twt1" IsSeparator="1" DisplayName="  | THE WIZARD'S TOWER"/>
             <MarkerCategory name="1" DisplayName="1. Talk to Isgarren for the List of Artifacts."/>
             <MarkerCategory name="core" IsSeparator="1" DisplayName="  | CORE TYRIA"/>

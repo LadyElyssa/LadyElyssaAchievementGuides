@@ -604,6 +604,7 @@
         <Trail type="leag.voe.eternity.kitshark" trailData="Data/VoE/Adventure - Kitshark Fishing Alt.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" animSpeed="0"/>
         <Trail type="leag.voe.eternity.kitshark" trailData="Data/VoE/Adventure - Kitshark Fishing.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Trail Pointer - Small.png" animSpeed="0"/>
         <POI MapID="1622" xpos="-237.347" ypos="0.348523" zpos="-340.949" type="leag.voe.eternity.kitshark.sign" GUID="BwGHR7cJLUqzdmw+IMxqnQ=="/>
+        <POI MapID="1622" xpos="-210.228" ypos="0.896791" zpos="-348.06" type="leag.voe.eternity.kitshark.tips" GUID="Hv/ONQwI40OqBoxzThKAWA=="/>
         
 
         <POI MapID="1622" xpos="158.362" ypos="34.3493" zpos="131.566" type="leag.voe.eternity.master" GUID="gW2yJ7OYk0y09gnyjOGv8A=="/>

@@ -700,6 +700,7 @@
                 <MarkerCategory name="kitshark" DisplayName="Kitshark Fishing" achievementId="9311" iconFile="Data/Images/Icons/Talk.png" minSize="20" maxSize="24">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/Images/Adventures/Kitshark Fishing.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
+                    <MarkerCategory name="tips" DisplayName="Tips" iconFile="Data/Images/Adventures/Kitshark Adventure Tips.png" miniMapVisibility="0" mapVisibility="0" minSize="96" maxSize="96" fadeNear="1200" fadeFar="1600"/>
                 </MarkerCategory>
                 
                 <MarkerCategory name="entertainment" DisplayName="Kitshark Entertainment" achievementId="9258" iconFile="Data/Images/Icons/Kitshark.png" minSize="20" maxSize="24" mapDisplaySize="48" inGameVisibility="0"/>

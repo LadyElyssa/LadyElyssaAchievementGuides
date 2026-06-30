@@ -1,5 +1,405 @@
 <OverlayData>
     <POIs>
+        <!-- HORN OF MAGUUMA -->
+        
+        <!-- Skyscale - A New Friend -->
+        <!-- Abandoned Nests -->
+        <POI MapID="1510" xpos="782.552" ypos="132.068" zpos="-372.152" type="leag.soto.hom.anf" GUID="csUp3sOeLEOnu6DPGqp7RA==" iconFile="Data/Images/Icons/Skyscale Trainer.png" inGameVisibility="0" mapDisplaySize="32"/>
+        <POI MapID="1510" xpos="646.705" ypos="51.0832" zpos="-424.636" type="leag.soto.hom.anf.nest" GUID="cDmRj+l1rU2I9sfDH+YWtA=="/>
+        <POI MapID="1510" xpos="31.4452" ypos="592.602" zpos="254.34" type="leag.soto.hom.anf.nest" GUID="YAs/t1Dic0S6Q0KIvbKw+g=="/>
+        <POI MapID="1510" xpos="369.508" ypos="566.059" zpos="-192.539" type="leag.soto.hom.anf.nest" GUID="TJ1mJJYju06AEnOmG/dNEg=="/>
+        <POI MapID="1510" xpos="499.691" ypos="402.884" zpos="-66.9539" type="leag.soto.hom.anf.nest" GUID="SqfU4apCnUGyQDyVBlAg3g=="/>
+        <POI MapID="1510" xpos="1092.38" ypos="283.894" zpos="121.995" type="leag.soto.hom.anf.nest" GUID="XON/NfBtfkqwE2g66Kp8SQ=="/>
+        <POI MapID="1510" xpos="-131.304" ypos="543.841" zpos="-39.1086" type="leag.soto.hom.anf.nest" GUID="WBLRJKHyIkGimZOyACw8ag=="/>
+        <POI MapID="1510" xpos="-91.806" ypos="385.015" zpos="-282.072" type="leag.soto.hom.anf.nest" GUID="xeEUV/QhKUewHSU3wUYAzA=="/>
+        <POI MapID="1510" xpos="-193.566" ypos="257.522" zpos="-453.213" type="leag.soto.hom.anf.nest" GUID="s7iUFUuew0O5vX9i6kLJ1w=="/>
+        <POI MapID="1510" xpos="-775.226" ypos="598.501" zpos="-382.155" type="leag.soto.hom.anf.nest" GUID="hwIlnAUpcE+RfGIL9bRKTA=="/>
+        <POI MapID="1510" xpos="-921.446" ypos="758.547" zpos="325.311" type="leag.soto.hom.anf.nest" GUID="dOlfZWM/iU+23XtTllF8Gg=="/>
+        <POI MapID="1510" xpos="-755.763" ypos="625.702" zpos="630.595" type="leag.soto.hom.anf.nest" GUID="qFPCPVVn4EqiF/hxmOIupg=="/>
+
+        <POI MapID="1517" xpos="206.913" ypos="230.729" zpos="-694.825" type="leag.soto.hom.anf.nest" GUID="W737/jj+xEq/vIOKnczEdQ=="/>
+        <POI MapID="1517" xpos="264.712" ypos="363.485" zpos="-388.968" type="leag.soto.hom.anf.nest" GUID="WQwKCHa5z0e0eGVz9rtJEQ=="/>
+        <POI MapID="1517" xpos="-414.612" ypos="215.357" zpos="-318.072" type="leag.soto.hom.anf.nest" GUID="tFzWuA2ewUGog7ZGbgs0NQ=="/>
+        <POI MapID="1517" xpos="-707.594" ypos="493.36" zpos="30.2292" type="leag.soto.hom.anf.nest" GUID="XsNqqbfiH0yAVBs+9LIKoQ=="/>
+        <POI MapID="1517" xpos="-314.634" ypos="343.559" zpos="-43.7572" type="leag.soto.hom.anf.nest" GUID="Ijhhqt/AskmpbefdRexe3w=="/>
+        <POI MapID="1517" xpos="94.4218" ypos="726.94" zpos="39.8603" type="leag.soto.hom.anf.nest" GUID="uBhaanagLkyK3ck00r0vLQ=="/>
+        <POI MapID="1517" xpos="-38.9571" ypos="532.552" zpos="428.05" type="leag.soto.hom.anf.nest" GUID="Q0QUPtNa+Ui/m+AMe+CV9w=="/>
+        <POI MapID="1517" xpos="-556.489" ypos="403.692" zpos="528.923" type="leag.soto.hom.anf.nest" GUID="3DRzETAPcE+r3o989M5fWw=="/>
+        <POI MapID="1517" xpos="413.094" ypos="493.499" zpos="722.259" type="leag.soto.hom.anf.nest" GUID="3uqGUjGnXkijD6apYQ1KHw=="/>
+        <POI MapID="1517" xpos="707.819" ypos="570.467" zpos="383.527" type="leag.soto.hom.anf.nest" GUID="b1jpqhnnzkSWZ9uJ9vUuiQ=="/>
+        <POI MapID="1517" xpos="735.861" ypos="409.531" zpos="-536.131" type="leag.soto.hom.anf.nest" GUID="QsPMIohqhk2dx24Vv4qnnA=="/>
+        <!-- Skyscale Egg Infusions -->
+        <Trail type="leag.soto.hom.anf.egg.water.bloodtide" trailData="Data/SotO/HoM/Skyscale of Water.trl"/>
+        <POI MapID="73" xpos="-111.359" ypos="-253.919" zpos="-615.504" type="leag.soto.hom.anf.egg.water" GUID="SMwLsuN3ok66eMd3YxauxQ=="/>
+        <POI MapID="73" xpos="-111.359" ypos="-253.919" zpos="-615.504" type="leag.soto.hom.anf.egg.water.wp" GUID="Jo2n+ld8IU6uET11DJ7pog==" copy="[&amp;BDcEAAA=]" copy-message="Junker's Waypoint, Black Citadel"/>
+        <Trail type="leag.soto.hom.anf.egg.fire.bc" trailData="Data/SotO/HoM/Skyscale of Fire.trl"/>
+        <POI MapID="218" xpos="239.865" ypos="125.784" zpos="-112.856" type="leag.soto.hom.anf.egg.fire" GUID="lHHkAPzMVk2f8TOxOvas2w=="/>
+        <POI MapID="218" xpos="239.865" ypos="125.784" zpos="-112.856" type="leag.soto.hom.anf.egg.fire" GUID="o2sPT7OR+0SwZ447Cy6Mmg==" copy="Bitterfrost [&amp;BH0JAAA=] OR Frostgorge [&amp;BHoCAAA=]" copy-message="Sorrow's Eclipse Waypoint, Bitterfrost Frontier&#xa;OR&#xa;Earthshake Waypoint, Frostgorge Sound"/>
+        <Trail type="leag.soto.hom.anf.egg.ice.fgs" trailData="Data/SotO/HoM/Skyscale of Ice.trl"/>
+        <POI MapID="30" xpos="435.766" ypos="21.7821" zpos="507.802" type="leag.soto.hom.anf.egg.ice" GUID="+HkB7kSnw0ydiCwkFitLSg=="/>
+        <POI MapID="30" xpos="435.766" ypos="21.7821" zpos="507.802" type="leag.soto.hom.anf.egg.ice" GUID="vOqmcU97BU2RuwBYY9G68A==" copy="[&amp;BHoHAAA=]" copy-message="Prosperity Waypoint, Drytop"/>
+        <POI MapID="1178" xpos="-34.38489" ypos="1.026857" zpos="-98.50299" type="leag.soto.hom.anf.egg.ice" GUID="lbJ2u1manECt4c2nFbGYRA==" copy="[&amp;BHoHAAA=]" copy-message="Become encased in an ice prison caused by ice storms.&#xa;&#xa;Prosperity Waypoint, Drytop"/>
+        <POI MapID="1178" xpos="-156.855" ypos="0.819529" zpos="1.46745" type="leag.soto.hom.anf.egg.ice" GUID="ZXFI7rw4TkO+VroW9WrxyA=="/>
+        <POI MapID="1178" xpos="-55.4957" ypos="0.588724" zpos="7.30534" type="leag.soto.hom.anf.egg.ice" GUID="NudMsNxFJEK0aYwPdmMElw=="/>
+        <POI MapID="1178" xpos="-79.8048" ypos="0.712804" zpos="-51.5358" type="leag.soto.hom.anf.egg.ice" GUID="CEc2W/2UTk22KuUGO0Fivg=="/>
+        <POI MapID="1178" xpos="-20.7487" ypos="6.16002" zpos="-340.363" type="leag.soto.hom.anf.egg.ice" GUID="aTWBWaMJs0mkN4zKD4q5eg=="/>
+        <POI MapID="1178" xpos="119.318" ypos="7.08896" zpos="-322.521" type="leag.soto.hom.anf.egg.ice" GUID="lSmEs/18FU+rfsTscA4V3Q=="/>
+        <POI MapID="1178" xpos="235.603" ypos="11.156" zpos="-291.076" type="leag.soto.hom.anf.egg.ice" GUID="2trtPrwgT0m9LqGHV+1hUg=="/>
+        <POI MapID="1178" xpos="129.966" ypos="0.90305" zpos="-178.758" type="leag.soto.hom.anf.egg.ice" GUID="N9iI+gPYFkWf7rSj8JySGg=="/>
+        <POI MapID="1178" xpos="169.569" ypos="0.421867" zpos="-67.1371" type="leag.soto.hom.anf.egg.ice" GUID="LMbYyDoIE0KoErqDXW7R2A=="/>
+        <Trail type="leag.soto.hom.anf.egg.earth.dt" trailData="Data/SotO/HoM/Skyscale of Earth.trl"/>
+        <POI MapID="988" xpos="211.945" ypos="11.3674" zpos="-275.877" type="leag.soto.hom.anf.egg.earth" GUID="ipTDxFq8wkuUD44iItVgNA=="/>
+        <POI MapID="988" xpos="211.945" ypos="11.3674" zpos="-275.877" type="leag.soto.hom.anf.egg.earth.wp" GUID="EGjgcGrjqkuE3lqXQqjHWQ==" copy="[&amp;BMkCAAA=]" copy-message="Criterion Waypoint, Mount Maelstrom"/>
+        <Trail type="leag.soto.hom.anf.egg.air.maelstrom" trailData="Data/SotO/HoM/Hidden Garden - North.trl"/>
+        <Trail type="leag.soto.hom.anf.egg.air.maelstrom" trailData="Data/SotO/HoM/Hidden Garden.trl"/>
+        <POI MapID="39" xpos="-880.606" ypos="73.7872" zpos="350.108" type="leag.soto.hom.anf.egg.air" GUID="ZkMAkvT6NUmrM6mUvxLnGg=="  iconFile="Data/Images/Skyscale/Hidden Garden.png"/>
+        <POI MapID="39" xpos="-18.5615" ypos="77.5864" zpos="-303.131" type="leag.soto.hom.anf.egg.air" GUID="/a0gpNO9pUGuZokVIBI5Xg==" iconFile="Data/Images/Skyscale/Hidden Garden.png"/>
+        <POI MapID="39" xpos="447.339" ypos="20.2969" zpos="-345.196" type="leag.soto.hom.anf.egg.air" GUID="78W3Ts6+bUq2pzBrA/N9nQ=="  iconFile="Data/Images/Skyscale/Hidden Garden.png"/>
+        <POI MapID="39" xpos="182.858" ypos="1.71168" zpos="43.9268" type="leag.soto.hom.anf.egg.air" GUID="0G4ULP3EpUWdyXppGSJ9Rg=="   iconFile="Data/Images/Skyscale/Hidden Garden.png"/>
+        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="leag.soto.hom.anf.egg.air" GUID="3JvV5YScOEqxnnlWeD+OeA=="  iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="leag.soto.hom.anf.egg.air" GUID="LT6G4M/Mmk6o7FhvRDxBIw==" iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="leag.soto.hom.anf.egg.air" GUID="mHNX4tPue0OaoG2DTCKDVQ==" iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="leag.soto.hom.anf.egg.air" GUID="xUUEBMx6iU279jjFmaaAnw=="   iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="1071.92" ypos="114.037" zpos="687.023" type="leag.soto.hom.anf.egg.air" GUID="zisDMc4NOUawPTn8JUKQnQ=="/>
+        <POI MapID="39" xpos="1071.92" ypos="114.037" zpos="687.023" type="leag.soto.hom.anf.egg.air.wp" GUID="zisDMc4NOUawPTn8JUKQnQ==" copy="[&amp;BI0BAAA=]" copy-message="Blood Hill Waypoint, Gendarran Fields"/>
+        <POI MapID="24" xpos="-670.7903" ypos="50.5282" zpos="569.5609" type="leag.soto.hom.anf.egg.life.wp" GUID="8mt+cw3VVUaHQP1lo2vjYg=="/>
+        <POI MapID="24" xpos="-670.7903" ypos="50.5282" zpos="569.5609" type="leag.soto.hom.anf.egg.life.wp" GUID="kjcsnlajzk+Wn1QK7+HpLg==" copy="[&amp;BLoEAAA=]" copy-message="KILL Foes within Blood Hill Camps&#xa;&#xa;REVIVE 20 Allies in The Bloodfields &amp; Nebo Terrace&#xa;&#xa;Upper Commons Waypoint, The Grove"/>
+        <POI MapID="24" xpos="-536.111" ypos="44.749" zpos="472.953" type="leag.soto.hom.anf.egg.blood" GUID="LIF9Q1JnuEWQULKr1CMlww=="/>
+        <POI MapID="24" xpos="-696.028" ypos="15.3368" zpos="191.565" type="leag.soto.hom.anf.egg.life" GUID="pDhPZLnjSEi+TcT4lkFO8A=="/>
+        <Trail type="leag.soto.hom.anf.egg.growth.tg" trailData="Data/SotO/HoM/Hidden Garden.trl"/>
+        <POI MapID="91" xpos="-99.3953" ypos="61.2139" zpos="223.47" type="leag.soto.hom.anf.egg.growth" GUID="dCCCQmN4cUCmnjIcYWK2pg=="/>
+        <POI MapID="91" xpos="-99.3953" ypos="61.2139" zpos="223.47" type="leag.soto.hom.anf.egg.growth.wp" GUID="36ID1XxQQkSEwd82HoUqkw==" copy="[&amp;BCIDAAA=]" copy-message="Murdered Dreams Waypoint, Cursed Shore"/>
+        <Trail type="leag.soto.hom.anf.egg.death.cs" trailData="Data/SotO/HoM/Skyscale of Death.trl"/>
+        <POI MapID="62" xpos="-465.494" ypos="35.873" zpos="-849.705" type="leag.soto.hom.anf.egg.death" GUID="Bl6HRd8fS0+CVavlUUpqgw=="/>
+        <POI MapID="62" xpos="-465.494" ypos="35.873" zpos="-849.705" type="leag.soto.hom.anf.egg.death.wp" GUID="ODv6eYQjm0agWVFa4Urkug==" copy="[&amp;BOIBAAA=]" copy-message="Dewclaw Waypoint, Iron Marches"/>
+        <Trail type="leag.soto.hom.anf.egg.spirit.im" trailData="Data/SotO/HoM/Skyscale of Spirit.trl"/>
+        <POI MapID="25" xpos="1.774932" ypos="20.42422" zpos="-1028.56" type="leag.soto.hom.anf.egg.spirit" GUID="zdsYqv3Z+E2QKo0m6pKbWg=="/>
+        <POI MapID="25" xpos="1.774932" ypos="20.42422" zpos="-1028.56" type="leag.soto.hom.anf.egg.spirit.wp" GUID="nr/qZuu1m0yi+zpxhb4Sdg==" copy="[&amp;BFEBAAA=]" copy-message="Fallen Angels Garrison Waypoint, Fields of Ruin"/>
+        <Trail type="leag.soto.hom.anf.egg.fear.for" trailData="Data/SotO/HoM/Skyscale of Fear.trl"/>
+        <POI MapID="21" xpos="-745.1093" ypos="66.8735" zpos="-800.5304" type="leag.soto.hom.anf.egg.fear" GUID="r6lhkssfLECPX/mCyMrQ6Q=="/>
+        <POI MapID="21" xpos="-745.1093" ypos="66.8735" zpos="-800.5304" type="leag.soto.hom.anf.egg.fear.wp" GUID="8qL3Tb5oykuQqvTnvAVxMQ==" copy="[&amp;BCsOAAA=]" copy-message="Beacon of Ages Waypoint, Skywatch Archipelago"/>
+        <POI MapID="39" xpos="-329.535" ypos="9.72488" zpos="-224.968" type="leag.soto.hom.anf.egg.courage" GUID="CHQatuzm6USF4fTrTK5Pmw=="/>
+        <POI MapID="39" xpos="898.214" ypos="9.59826" zpos="75.3439" type="leag.soto.hom.anf.egg.courage" GUID="jdBOkfpSA0K17YqqQ57iuA=="/>
+        <POI MapID="34" xpos="-390.731" ypos="0.0248259" zpos="845.937" type="leag.soto.hom.anf.egg.courage" GUID="UTbnY1gvnU2bTcfrxmp6hQ=="/>
+        <POI MapID="17" xpos="809.939" ypos="144.396" zpos="668.081" type="leag.soto.hom.anf.egg.courage" GUID="bAh5PdgraE60U1camUAUwA=="/>
+        <POI MapID="73" xpos="-145.32" ypos="18.2007" zpos="206.959" type="leag.soto.hom.anf.egg.courage" GUID="nRETbTADs0eeJAPKYjbY9Q=="/>
+        <POI MapID="35" xpos="-370.714" ypos="21.6336" zpos="888.881" type="leag.soto.hom.anf.egg.courage" GUID="rOhVypIxhUy8pywjdAjD+A=="/>
+        <POI MapID="28" xpos="401.078" ypos="71.3646" zpos="344.116" type="leag.soto.hom.anf.egg.courage" GUID="sMeogpCO90WKB9j/NUij6Q=="/>
+        <POI MapID="53" xpos="-518.111" ypos="0.166745" zpos="-872.857" type="leag.soto.hom.anf.egg.courage" GUID="U7/E9Oalb0eveNepq0ndLw=="/>
+        <POI MapID="15" xpos="260.465" ypos="-0.753378" zpos="-431.584" type="leag.soto.hom.anf.egg.courage" GUID="GnX+IAY8T0KIiC08sM25ig=="/>
+        <POI MapID="20" xpos="-289.878" ypos="2.76121" zpos="916.995" type="leag.soto.hom.anf.egg.courage" GUID="Ts9diNU6pUW0a2M1ScaGTw=="/>
+        <POI MapID="873" xpos="-69.1814" ypos="31.3503" zpos="-235.633" type="leag.soto.hom.anf.egg.courage" GUID="A1c26zgDZki32Hm/Ka3v9Q=="/>
+        <POI MapID="873" xpos="40.7833" ypos="38.4421" zpos="-14.3307" type="leag.soto.hom.anf.egg.courage" GUID="PnGxniVaPUCI1KaJnQb7zw=="/>
+        <POI MapID="873" xpos="481.057" ypos="28.5793" zpos="135.676" type="leag.soto.hom.anf.egg.courage" GUID="FU/dI0fxgkaTprUTIC3Ybw=="/>
+        <!-- Skyscale Treats -->
+        <POI MapID="1510" xpos="782.5064" ypos="132.0687" zpos="-372.1649" type="leag.soto.hom.anf.growing.treat.meat" GUID="RXIOBmb36kav0OHHw69TLQ=="/>
+        <POI MapID="1510" xpos="782.5064" ypos="132.0687" zpos="-372.1649" type="leag.soto.hom.anf.growing.treat.quartz" GUID="JBKVQdGWSUyy/EEksBbnXw=="/>
+        <POI MapID="1510" xpos="782.5064" ypos="132.0687" zpos="-372.1649" type="leag.soto.hom.anf.growing.treat.ecto" GUID="sK3vh8prs0WmT0gak0LipQ=="/>
+        <POI MapID="1510" xpos="782.5064" ypos="132.0687" zpos="-372.1649" type="leag.soto.hom.anf.growing.treat.bloodstone" GUID="2hXioeFY4Umys40i6eiV8A=="/>
+        <POI MapID="1510" xpos="782.5064" ypos="132.0687" zpos="-372.1649" type="leag.soto.hom.anf.growing.treat.sa" GUID="PC6oRgMDCkywy+Sezttc2g=="/>
+
+        <POI MapID="1510" xpos="782.5064" ypos="132.0687" zpos="-372.1649"  type="leag.soto.hom.anf.growing.skin.hom" GUID="RXIOBmb36kav0OHHw69TLQ==" iconFile="Data/Images/Icons/Blank.png"/>
+        <POI MapID="1510" xpos="268.18" ypos="355.819" zpos="463.073"       type="leag.soto.hom.anf.growing.skin.rifts" GUID="MG1I090QP0CjVELZzQFXJA=="/>
+        <POI MapID="1510" xpos="-878.833" ypos="425.022" zpos="-183.349"    type="leag.soto.hom.anf.growing.skin.rifts" GUID="IAg2diZfhkiNSyTcOFE67w=="/>
+        <POI MapID="1510" xpos="-498.498" ypos="459.499" zpos="205.302"     type="leag.soto.hom.anf.growing.skin.rifts" GUID="c5NcreyC3UKWTXZV/Q4Wrw=="/>
+        <POI MapID="1510" xpos="-462.475" ypos="237.747" zpos="-285.819"    type="leag.soto.hom.anf.growing.skin.rifts" GUID="yyoh0KcBcUOXOuJ9C10lSw=="/>
+        <POI MapID="1510" xpos="281.332" ypos="316.586" zpos="-137.046"     type="leag.soto.hom.anf.growing.skin.rifts" GUID="zrdRKjEfqUioGCXhAeqUiw=="/>
+        <POI MapID="1510" xpos="629.86" ypos="48.0863" zpos="-437.927"      type="leag.soto.hom.anf.growing.skin.rifts" GUID="nwl0VCht0EWu9eaLvXfUSA=="/>
+        <POI MapID="1510" xpos="365.584" ypos="355.182" zpos="588.725"      type="leag.soto.hom.anf.growing.skin.rifts" GUID="qzrGPAxcmUuIAuQrN8mv8w=="/>
+        <POI MapID="1510" xpos="-944.416" ypos="544.998" zpos="65.1777"     type="leag.soto.hom.anf.growing.skin.rifts" GUID="V/h9IYfsIEuRvkRUl/aojw=="/>
+        
+        <Trail type="leag.soto.hom.anf.growing.ration.wayfarer" trailData="Data/SotO/HoM/Tasty Trail Ration.trl"/>
+        <POI MapID="28" xpos="276.0598" ypos="2.535733" zpos="-915.397" type="leag.soto.hom.anf.growing.ration.wp" GUID="HrPTnNfP50eRT1+Vig+5ng==" copy="[&amp;BIEBAAA=]" copy-message="After getting the Tasty Trail Ration from the Jotun&#xa;&#xa;Greysteel Armory Waypoint, Plains of Ashford"/>
+        <POI MapID="28" xpos="324.205" ypos="30.0765" zpos="-720.39" type="leag.soto.hom.anf.growing.ration.icon" GUID="NzG4vzg7Y0iAj0PBr2OFaA=="/>
+        <POI MapID="28" xpos="463.242" ypos="32.5197" zpos="-682.474" type="leag.soto.hom.anf.growing.ration.icon" GUID="9ICrXuASxkW4CznSOwvzyw=="/>
+        <POI MapID="28" xpos="386.708" ypos="35.687" zpos="-746.33" type="leag.soto.hom.anf.growing.ration.icon" GUID="YbohJYeXmE6fwA9rv/Cn7A=="/>
+        <POI MapID="28" xpos="372.823" ypos="33.5028" zpos="-698.733" type="leag.soto.hom.anf.growing.ration.icon" GUID="AYgr33CXn0eozXv2EN6o0w=="/>
+        <POI MapID="28" xpos="349.968" ypos="36.9221" zpos="-658.514" type="leag.soto.hom.anf.growing.ration.icon" GUID="HdygUD+vlUe/0JP9baG6Fg=="/>
+        
+        <Trail type="leag.soto.hom.anf.growing.carapace.poa" trailData="Data/SotO/HoM/Tasty Devourer Carapace.trl"/>
+        <POI MapID="19" xpos="-1086.399" ypos="56.4317" zpos="489.3913" type="leag.soto.hom.anf.growing.carapace.wp" GUID="+2UUwB0tPk+BjLpwxMoEdg==" copy="[&amp;BEEBAAA=]" copy-message="After getting the Tasty Devourer Carapace&#xa;&#xa;Wychmire Waypoint, Caledon Forest"/>
+        <POI MapID="19" xpos="-1056.69" ypos="27.6275" zpos="453.193" type="leag.soto.hom.anf.growing.carapace.icon" GUID="n9aCK6W/kUGIRorF5c5qCg=="/>
+        <POI MapID="19" xpos="-1044.91" ypos="24.6531" zpos="460.835" type="leag.soto.hom.anf.growing.carapace.icon" GUID="C8b6B0VId06ASSLKVVkvTw=="/>
+        <POI MapID="19" xpos="-1068.82" ypos="30.8097" zpos="433.699" type="leag.soto.hom.anf.growing.carapace.icon" GUID="egblaUZorEqzaCCoCGvh3w=="/>
+        <POI MapID="19" xpos="-964.723" ypos="8.80401" zpos="513.647" type="leag.soto.hom.anf.growing.carapace.icon" GUID="fHNsza4mVU+Uln0a+bAeiQ=="/>
+        <POI MapID="19" xpos="-942.555" ypos="6.54645" zpos="522.421" type="leag.soto.hom.anf.growing.carapace.icon" GUID="I9XGlKEMN0yPJMWxgWqCSA=="/>
+        <POI MapID="19" xpos="-920.276" ypos="5.9281" zpos="531.766" type="leag.soto.hom.anf.growing.carapace.icon" GUID="8M58mmg/M0OWfRW6a2t2Hg=="/>
+
+        <Trail type="leag.soto.hom.anf.growing.bark.cf" trailData="Data/SotO/HoM/Tasty Moss-Covered Bark.trl"/>
+        <POI MapID="34" xpos="-460.419" ypos="7.115006" zpos="1146.099" type="leag.soto.hom.anf.growing.bark.wp" GUID="d+Ya9GJc2UyKuM4NS6rngQ==" copy="[&amp;BEQDAAA=]" copy-message="After getting the Tasty Moss-Covered Bark&#xa;&#xa;Orchard Waypoint, Queensdale"/>
+        <POI MapID="34" xpos="-426.989" ypos="6.90517" zpos="1180.68" type="leag.soto.hom.anf.growing.bark.icon" GUID="cQsw6ebH9UK9lWbXl1l4Ow=="/>
+        <POI MapID="34" xpos="-405.107" ypos="10.4914" zpos="1199.39" type="leag.soto.hom.anf.growing.bark.icon" GUID="lRmCoym6lEaTy3lED3PveQ=="/>
+        <POI MapID="34" xpos="-362.82" ypos="11.2896" zpos="1178.27" type="leag.soto.hom.anf.growing.bark.icon" GUID="qG/o0+C7nE2c4W4BXMyIlQ=="/>
+        <POI MapID="34" xpos="-408.083" ypos="0.487695" zpos="1137.68" type="leag.soto.hom.anf.growing.bark.icon" GUID="uYp4KfamQUGx/1Oj8tw1pw=="/>
+
+        <Trail type="leag.soto.hom.anf.growing.segment.queensdale" trailData="Data/SotO/HoM/Tasty Wurm Segment.trl"/>
+        <Trail type="leag.soto.hom.anf.growing.segment.diessa" trailData="Data/SotO/HoM/Tasty Wurm Segment Diessa.trl"/>
+        <POI MapID="15" xpos="-946.1778" ypos="14.79426" zpos="489.1367" type="leag.soto.hom.anf.growing.segment.wp" GUID="PGcaegRMt0K3/6zbOmcoug==" copy="[&amp;BEgAAAA=]" copy-message="After getting the Tasty Wurm Segment&#xa;&#xa;Desider Atum Waypoint, Metrica Province"/>
+        <POI MapID="15" xpos="-888.112" ypos="12.8325" zpos="505.129" type="leag.soto.hom.anf.growing.segment.icon" GUID="v6J7bY5s8kaO7f2plnCFJA=="/>
+        <POI MapID="15" xpos="-879.429" ypos="13.6278" zpos="475.939" type="leag.soto.hom.anf.growing.segment.icon" GUID="3SE56yEF20u/ELKY0dwbxw=="/>
+        <POI MapID="15" xpos="-967.77" ypos="16.0796" zpos="472.31" type="leag.soto.hom.anf.growing.segment.icon" GUID="aRSyIRZCsk+HXXKih0fNHQ=="/>
+        <POI MapID="15" xpos="-944.287" ypos="17.0778" zpos="454.987" type="leag.soto.hom.anf.growing.segment.icon" GUID="hQHx+SNlxkK0Ywovjm9ASA=="/>
+        <POI MapID="15" xpos="-903.721" ypos="25.5323" zpos="429.619" type="leag.soto.hom.anf.growing.segment.icon" GUID="87WJ2lwV4E6E9vpI7ihbtQ=="/>
+        <POI MapID="15" xpos="-873.877" ypos="21.0597" zpos="443.094" type="leag.soto.hom.anf.growing.segment.icon" GUID="j5YT6xpAu0uWfCbZxaQaMA=="/>
+        <POI MapID="15" xpos="-837.347" ypos="21.0176" zpos="449.36" type="leag.soto.hom.anf.growing.segment.icon" GUID="WWv7T0HSgkeJr5kyG7Noqw=="/>
+        <POI MapID="15" xpos="-894.05" ypos="6.38611" zpos="539.33" type="leag.soto.hom.anf.growing.segment.icon" GUID="Pv+DBa6Dk027oUDRybK+vQ=="/>
+        <POI MapID="15" xpos="-858.353" ypos="20.8166" zpos="454.613" type="leag.soto.hom.anf.growing.segment.icon" GUID="ou+MkxBPTUKr7a0ih8JPDA=="/>
+        <POI MapID="15" xpos="-839.472" ypos="21.3164" zpos="467.352" type="leag.soto.hom.anf.growing.segment.icon" GUID="MAXhuJCFnECVv1r1+LMJuQ=="/>
+        <POI MapID="15" xpos="-820.073" ypos="20.9563" zpos="470.714" type="leag.soto.hom.anf.growing.segment.icon" GUID="gI7nfwZL7kyMU8j/G3JH2Q=="/>
+        <POI MapID="32" xpos="-381.554" ypos="47.43" zpos="-156.602" type="leag.soto.hom.anf.growing.segment.icon" GUID="HeGr+1AvgEO85XledVbkjQ=="/>
+        <POI MapID="32" xpos="-392.574" ypos="48.9603" zpos="-141.381" type="leag.soto.hom.anf.growing.segment.icon" GUID="Y7melDJUSk2fQ5pD1ar0eg=="/>
+        <POI MapID="32" xpos="-426.881" ypos="45.1635" zpos="-128.916" type="leag.soto.hom.anf.growing.segment.icon" GUID="yc2lgKKCyU2bYfB1XiW/YQ=="/>
+        <POI MapID="32" xpos="-432.009" ypos="45.3316" zpos="-86.6526" type="leag.soto.hom.anf.growing.segment.icon" GUID="9RHYS0Xh10aEdwJjIukmmw=="/>
+        <POI MapID="32" xpos="-437.152" ypos="46.8443" zpos="-63.3625" type="leag.soto.hom.anf.growing.segment.icon" GUID="bOnOkmXl8km2XxRGwIikpA=="/>
+        <POI MapID="32" xpos="-463.69" ypos="42.7182" zpos="-27.6691" type="leag.soto.hom.anf.growing.segment.icon" GUID="kxcC48IypkW82f3GP+RgMQ=="/>
+        <POI MapID="32" xpos="-476.624" ypos="44.2831" zpos="48.9406" type="leag.soto.hom.anf.growing.segment.icon" GUID="VdbrjWqP8kWocbqWoe9/cw=="/>
+        <POI MapID="32" xpos="-502.844" ypos="44.7567" zpos="71.6776" type="leag.soto.hom.anf.growing.segment.icon" GUID="khDZBVh4n0qTDNzXD1HW2A=="/>
+        <POI MapID="32" xpos="-475.588" ypos="43.7674" zpos="83.5251" type="leag.soto.hom.anf.growing.segment.icon" GUID="0LrWr/txrEurD+/otjIT0A=="/>
+        <POI MapID="32" xpos="-477.779" ypos="45.7015" zpos="124.178" type="leag.soto.hom.anf.growing.segment.icon" GUID="n4clhVjR00encRGZ6xR1dw=="/>
+        <POI MapID="32" xpos="-496.71" ypos="43.1223" zpos="151.212" type="leag.soto.hom.anf.growing.segment.icon" GUID="WLqiyifUak2QVb9TOdJXwA=="/>
+        <POI MapID="32" xpos="-499.179" ypos="43.1602" zpos="174.993" type="leag.soto.hom.anf.growing.segment.icon" GUID="nJqvRgSr7UW51qwea+3G8A=="/>
+        <POI MapID="32" xpos="-492.491" ypos="45.8413" zpos="197.789" type="leag.soto.hom.anf.growing.segment.icon" GUID="NzdaaRxQlkSSo/qfs1lmGA=="/>
+        <POI MapID="32" xpos="-447.021" ypos="40.1401" zpos="194.086" type="leag.soto.hom.anf.growing.segment.icon" GUID="zQIU4EUrA0GNkG6eBT1w2Q=="/>
+        <POI MapID="32" xpos="-418.749" ypos="42.7769" zpos="208.061" type="leag.soto.hom.anf.growing.segment.icon" GUID="anPxTKWDp0uOWuaUhEfrMQ=="/>
+        <POI MapID="32" xpos="-390.886" ypos="44.7202" zpos="187.29" type="leag.soto.hom.anf.growing.segment.icon" GUID="aHTzqQ/W3kqgna5q5HhEaw=="/>
+        <POI MapID="32" xpos="-420.001" ypos="40.7998" zpos="173.881" type="leag.soto.hom.anf.growing.segment.icon" GUID="jVHs/WXXO0OJ95ca/B/oUA=="/>
+        <POI MapID="32" xpos="-367.205" ypos="40.6619" zpos="162.203" type="leag.soto.hom.anf.growing.segment.icon" GUID="+VltJWUn9UOYPHJZs46RVA=="/>
+        <POI MapID="32" xpos="-383.827" ypos="40.9257" zpos="142.786" type="leag.soto.hom.anf.growing.segment.icon" GUID="2IjXv7IjWUaENr8X1aVM9Q=="/>
+        <POI MapID="32" xpos="-356.773" ypos="38.3465" zpos="128.244" type="leag.soto.hom.anf.growing.segment.icon" GUID="JSNeHEW1SEyd8cJsPvioWw=="/>
+        <POI MapID="32" xpos="-379.704" ypos="37.2309" zpos="93.3359" type="leag.soto.hom.anf.growing.segment.icon" GUID="ruxAO9mOzUmQyuY0nD+7Uw=="/>
+        <POI MapID="32" xpos="-402.573" ypos="43.4733" zpos="114.736" type="leag.soto.hom.anf.growing.segment.icon" GUID="/eP1OHGNkEWIlbD1IWHxpQ=="/>
+        <POI MapID="32" xpos="-425.794" ypos="40.5683" zpos="84.9827" type="leag.soto.hom.anf.growing.segment.icon" GUID="F0vjZz/Jr0uDc8+UlrbBuA=="/>
+        <POI MapID="32" xpos="-444.024" ypos="39.8835" zpos="67.8582" type="leag.soto.hom.anf.growing.segment.icon" GUID="RotT+yGrbkqDY9V921NCJw=="/>
+        <POI MapID="32" xpos="-444.963" ypos="39.9935" zpos="43.9767" type="leag.soto.hom.anf.growing.segment.icon" GUID="UNuI46OlgEKC5290ypodfQ=="/>
+        <POI MapID="32" xpos="-424.025" ypos="36.2686" zpos="32.8269" type="leag.soto.hom.anf.growing.segment.icon" GUID="Y+wne36g1UWgvhl6kbzNDg=="/>
+        <POI MapID="32" xpos="-402.624" ypos="33.7943" zpos="29.2952" type="leag.soto.hom.anf.growing.segment.icon" GUID="tPl9p8jU+0iKGGTHkHMgvA=="/>
+        <POI MapID="32" xpos="-439.883" ypos="39.593" zpos="6.39153" type="leag.soto.hom.anf.growing.segment.icon" GUID="E6cf8XDZVUW32l0lShFhNw=="/>
+        <POI MapID="32" xpos="-407.314" ypos="35.7971" zpos="-18.1006" type="leag.soto.hom.anf.growing.segment.icon" GUID="kLQPsFqW7EujOVQw4m9RXg=="/>
+        <POI MapID="32" xpos="-326.708" ypos="44.5431" zpos="-136.216" type="leag.soto.hom.anf.growing.segment.icon" GUID="R1p/3AcJIUuQmyxwRVWA0w=="/>
+        <POI MapID="32" xpos="-305.547" ypos="39.1947" zpos="-183.547" type="leag.soto.hom.anf.growing.segment.icon" GUID="Gn7bpNYtj0aaKUsOHJ3s8A=="/>
+        <POI MapID="32" xpos="-271.474" ypos="32.3816" zpos="-164.349" type="leag.soto.hom.anf.growing.segment.icon" GUID="EnF0NfsFZkK0y9tTmPl4cw=="/>
+        <POI MapID="32" xpos="-233.453" ypos="33.8693" zpos="-162.151" type="leag.soto.hom.anf.growing.segment.icon" GUID="xRcO1e3o7U+EzISFAvQTHg=="/>
+        <POI MapID="32" xpos="-234.541" ypos="36.6564" zpos="-196.546" type="leag.soto.hom.anf.growing.segment.icon" GUID="t3fQZDMs6kCwNxeP9Nycaw=="/>
+        <POI MapID="32" xpos="-279.566" ypos="33.0936" zpos="-204.182" type="leag.soto.hom.anf.growing.segment.icon" GUID="+/QGDMujx063W3D7NW6BKA=="/>
+        <POI MapID="32" xpos="-292.687" ypos="32.7554" zpos="-233.812" type="leag.soto.hom.anf.growing.segment.icon" GUID="yUoPDXaPTk+2mGUCNUQVpQ=="/>
+        <POI MapID="32" xpos="-309.403" ypos="34.7959" zpos="-261.585" type="leag.soto.hom.anf.growing.segment.icon" GUID="OVZMhOlBpkCQwdzmpOxO4g=="/>
+        <POI MapID="32" xpos="-332.332" ypos="32.6294" zpos="-258.868" type="leag.soto.hom.anf.growing.segment.icon" GUID="EplPUaJ2G0KC6eW5OL9b5g=="/>
+        <POI MapID="32" xpos="-329.404" ypos="32.9298" zpos="-233.312" type="leag.soto.hom.anf.growing.segment.icon" GUID="9qW3XMNcIUark22/n5kUFQ=="/>
+        <POI MapID="32" xpos="-360.954" ypos="34.0659" zpos="-237.566" type="leag.soto.hom.anf.growing.segment.icon" GUID="QmYAhwgvbEO3qWEaEHF1jg=="/>
+        <POI MapID="32" xpos="-354.546" ypos="32.6258" zpos="-247.971" type="leag.soto.hom.anf.growing.segment.icon" GUID="PQBvJTnVtEG3dF6M1E/XuA=="/>
+        <POI MapID="32" xpos="-387.211" ypos="32.5403" zpos="-181.321" type="leag.soto.hom.anf.growing.segment.icon" GUID="3EQaTWIJakmc+n7OBvFpKg=="/>
+        <POI MapID="32" xpos="-392.646" ypos="33.3955" zpos="-176.483" type="leag.soto.hom.anf.growing.segment.icon" GUID="VC/NWUnDzU6ypNc2ZVsglg=="/>
+        <POI MapID="32" xpos="-387.333" ypos="41.3133" zpos="-83.0228" type="leag.soto.hom.anf.growing.segment.icon" GUID="FeDouq2L4kSg9tGxK22n0w=="/>
+        <POI MapID="32" xpos="-400.687" ypos="46.6399" zpos="-109.612" type="leag.soto.hom.anf.growing.segment.icon" GUID="brkoVrPjQU2AdXFThotaug=="/>
+        <POI MapID="32" xpos="-374.151" ypos="43.8711" zpos="-105.007" type="leag.soto.hom.anf.growing.segment.icon" GUID="XChoGd+xUU6y7QdrK0AOdA=="/>
+        <POI MapID="32" xpos="-353.095" ypos="43.7833" zpos="-118.642" type="leag.soto.hom.anf.growing.segment.icon" GUID="sFSd208GLEexkwacswc78A=="/>
+        <POI MapID="32" xpos="-349.607" ypos="44.7096" zpos="-144.256" type="leag.soto.hom.anf.growing.segment.icon" GUID="bD2aiEgqqE+uW6lRddxckQ=="/>
+
+        <Trail type="leag.soto.hom.anf.growing.meat.mp" trailData="Data/SotO/HoM/Tasty Ooze-Cured Meat.trl"/>
+        <POI MapID="35" xpos="212.0381" ypos="3.071416" zpos="-144.5885" type="leag.soto.hom.anf.growing.meat.wp" GUID="I1feLSHYBUeR0Hx+VRpKQA==" copy="[&amp;BO8BAAA=]" copy-message="After getting the Tasty Ooze-Cured Meat&#xa;&#xa;Grostogg's Kraal Waypoint, Iron Marches"/>
+        <POI MapID="35" xpos="230.396" ypos="6.04644" zpos="-175.526" type="leag.soto.hom.anf.growing.meat.icon" GUID="BYxarZEXA065Q/xAEq5IMA=="/>
+        <POI MapID="35" xpos="248.818" ypos="0.778928" zpos="-168.371" type="leag.soto.hom.anf.growing.meat.icon" GUID="JlwgumF4TkiLUeUSWLw6Iw=="/>
+        <POI MapID="35" xpos="261.681" ypos="3.95532" zpos="-178.948" type="leag.soto.hom.anf.growing.meat.icon" GUID="mKPpDVRp6EyVT2u1b3dWTQ=="/>
+        <POI MapID="35" xpos="265.952" ypos="7.64833" zpos="-195.359" type="leag.soto.hom.anf.growing.meat.icon" GUID="5xbNq+prYkaZe0v4WFcpCQ=="/>
+        <POI MapID="35" xpos="247.582" ypos="10.5125" zpos="-198.547" type="leag.soto.hom.anf.growing.meat.icon" GUID="BaYlMF/VkkOw8hA4lzisdw=="/>
+        <POI MapID="35" xpos="235.497" ypos="20.4961" zpos="-218.814" type="leag.soto.hom.anf.growing.meat.icon" GUID="QQGBGlgNrEm4XchNXy2kxg=="/>
+        <POI MapID="35" xpos="262.373" ypos="28.3182" zpos="-232.066" type="leag.soto.hom.anf.growing.meat.icon" GUID="AHbEl1Njgk+vRYlhSTOC2A=="/>
+        <POI MapID="35" xpos="357.203" ypos="27.957" zpos="-375.606" type="leag.soto.hom.anf.growing.meat.icon" GUID="LEbbN0zz5kWBjmwSD9yEJQ=="/>
+        <POI MapID="35" xpos="307.406" ypos="32.0446" zpos="-275.765" type="leag.soto.hom.anf.growing.meat.icon" GUID="Sm3D/fgVN0GTpkdnZb7iyQ=="/>
+        <POI MapID="35" xpos="311.194" ypos="30.2034" zpos="-326.53" type="leag.soto.hom.anf.growing.meat.icon" GUID="+215t1n79EOfPurzBdrSNA=="/>
+        <POI MapID="35" xpos="320.498" ypos="30.9382" zpos="-342.837" type="leag.soto.hom.anf.growing.meat.icon" GUID="1tig8D6HkkiwK4EKAlhFsA=="/>
+        <POI MapID="35" xpos="339.926" ypos="25.6204" zpos="-349.676" type="leag.soto.hom.anf.growing.meat.icon" GUID="wAeNgaMR7UifqBgiS2Xsog=="/>
+        <POI MapID="35" xpos="356.453" ypos="27.746" zpos="-373.692" type="leag.soto.hom.anf.growing.meat.icon" GUID="ENpGycWOU0iVaSz47Dbrzg=="/>
+
+        <Trail type="leag.soto.hom.anf.growing.whistle.im" trailData="Data/SotO/HoM/Bird Whistle.trl"/>
+        <POI MapID="25" xpos="476.2" ypos="12.9329" zpos="953.598" type="leag.soto.hom.anf.growing.whistle.wp" GUID="o6pPMdflH0GN3iRiraR4RQ==" copy="[&amp;BJcBAAA=]" copy-message="Stonescatter Waypoint, Lornar's Pass"/>
+        <POI MapID="25" xpos="476.2" ypos="12.9329" zpos="953.598" type="leag.soto.hom.anf.growing.whistle.icon" GUID="aKcK3A78e0OfKwnCmQ/ctA=="/>
+
+        <Trail type="leag.soto.hom.anf.growing.blanket.lp" trailData="Data/SotO/HoM/Heavy-Duty Dolyak Blanket.trl"/>
+        <POI MapID="27" xpos="-286.949" ypos="56.864" zpos="163" type="leag.soto.hom.anf.growing.blanket.wp" GUID="bQJOr9Eu7kWaKG4fACV2Pg==" copy="[&amp;BB8OAAA=]" copy-message="Tower Courtyard Waypoint, The Wizard's Tower"/>
+        <POI MapID="27" xpos="-286.949" ypos="56.864" zpos="163" type="leag.soto.hom.anf.growing.blanket.icon" GUID="MQ7Gs6H7g0uatHiOTjXxuw=="/>
+
+        <Trail type="leag.soto.hom.anf.growing.plush.twt" trailData="Data/SotO/HoM/Plush Quaggan.trl"/>
+        <POI MapID="1509" xpos="79.75887" ypos="293.6829" zpos="-31.06111" type="leag.soto.hom.anf.growing.plush.wp" GUID="W6/Z+jrVyEu2eWyXFLwbFA==" copy="[&amp;BOANAAA=]" copy-message="Rata Novus Promenade Waypoint, Skywatch Archipelago"/>
+        <POI MapID="1509" xpos="79.75887" ypos="293.6829" zpos="-31.06111" type="leag.soto.hom.anf.growing.plush.icon" GUID="4VUo/oKIOUmKsWYofHdUiQ=="/>
+
+        <Trail type="leag.soto.hom.anf.growing.legs.sa" trailData="Data/SotO/HoM/Tasty Chak Legs.trl"/>
+        <POI MapID="1510" xpos="578.6743" ypos="311.7729" zpos="443.9346" type="leag.soto.hom.anf.growing.legs.wp" GUID="grUVmkskn0mAcI7/oOAKiw==" copy="[&amp;BA4OAAA=]" copy-message="After getting the Tasty Chak Legs&#xa;&#xa; Astral Ward Encampment Waypoint"/>
+        <POI MapID="1510" xpos="849.813" ypos="333.929" zpos="356.137" type="leag.soto.hom.anf.growing.legs.icon" GUID="4Nsw4nGcLke5bbKdURXgfA=="/>
+        <POI MapID="1510" xpos="876.062" ypos="331.947" zpos="384.222" type="leag.soto.hom.anf.growing.legs.icon" GUID="fGXwQ2mn50mODq2QI55lCw=="/>
+        <POI MapID="1510" xpos="887.646" ypos="331.017" zpos="399.711" type="leag.soto.hom.anf.growing.legs.icon" GUID="j98gyheRfEGT0U0ypSrBjQ=="/>
+        <POI MapID="1510" xpos="808.102" ypos="326.133" zpos="429.593" type="leag.soto.hom.anf.growing.legs.icon" GUID="XvFr0Pmd0U29UMQ1SAIYRw=="/>
+        <POI MapID="1510" xpos="839.488" ypos="347.465" zpos="324.537" type="leag.soto.hom.anf.growing.legs.icon" GUID="KV1Exi8Y1kujromIA0DUIg=="/>
+        <POI MapID="1510" xpos="861.217" ypos="342.934" zpos="299.595" type="leag.soto.hom.anf.growing.legs.icon" GUID="geRLuJwIYUuvUgbb3pi+rA=="/>
+        <POI MapID="1510" xpos="841.913" ypos="344.827" zpos="265.584" type="leag.soto.hom.anf.growing.legs.icon" GUID="3dX4gXRZyUeZjnt30QoqZg=="/>
+        <POI MapID="1510" xpos="811.838" ypos="340.268" zpos="241.716" type="leag.soto.hom.anf.growing.legs.icon" GUID="a9Ll4GkBJEmnVnTd3tf41g=="/>
+        <POI MapID="1510" xpos="781.555" ypos="346.626" zpos="271.187" type="leag.soto.hom.anf.growing.legs.icon" GUID="vjrndQtIxEqV6f6sDzgG5g=="/>
+
+        <Trail type="leag.soto.hom.anf.growing.joint.sa" trailData="Data/SotO/HoM/Forged Ankle Joint.trl"/>
+        <POI MapID="1510" xpos="273.1646" ypos="255.2144" zpos="-222.0375" type="leag.soto.hom.anf.growing.joint.wp" GUID="OnDKTjwXS0OAaQK8W2gIkw==" copy="[&amp;BCsOAAA=]" copy-message="After getting the Forged Ankle Joint&#xa;&#xa; Beacon of Ages Waypoint, Skywatch Archipelago"/>
+        <POI MapID="1510" xpos="130.136" ypos="254.866" zpos="-237.156" type="leag.soto.hom.anf.growing.joint.icon" GUID="lvoWKHwcFkSgYEBdu5XlKQ=="/>
+        <POI MapID="1510" xpos="111.534" ypos="257.319" zpos="-217.625" type="leag.soto.hom.anf.growing.joint.icon" GUID="JSWdqYHXG0KUVfwQakZ+og=="/>
+        <POI MapID="1510" xpos="93.523" ypos="258.641" zpos="-238.746" type="leag.soto.hom.anf.growing.joint.icon" GUID="xKosFuSxSUWoCO6Vbbusiw=="/>
+        <POI MapID="1510" xpos="67.2853" ypos="259.112" zpos="-218.096" type="leag.soto.hom.anf.growing.joint.icon" GUID="zen7pS0KGUik9590V1Alpg=="/>
+
+        <!-- Skyscale Saddle Materials -->
+        <Trail type="leag.soto.hom.anf.saddle.leather.am" trailData="Data/SotO/HoM/Stardust-Infused Leather.trl"/>
+        <POI MapID="1517" xpos="-94.0111" ypos="270.303" zpos="-387.149" type="leag.soto.hom.anf.saddle.leather.wp" GUID="/DM7XmaVIUi43mVs4I7fjw==" copy="[&amp;BEcOAAA=]" copy-message="Bastion of the Obscure Waypoint"/>
+        <POI MapID="1517" xpos="-94.0111" ypos="270.303" zpos="-387.149" type="leag.soto.hom.anf.saddle.leather.icon" GUID="zPpm6HI+u0qy78n8tUHNPg=="/>
+
+        <Trail type="leag.soto.hom.anf.saddle.oil.am" trailData="Data/SotO/HoM/Mist-Infused Saddle Oil.trl"/>
+        <POI MapID="1517" xpos="-567.518" ypos="507.028" zpos="-54.0168" type="leag.soto.hom.anf.saddle.oil.wp" GUID="Kkz1SGUMt0m4L4FRk1t3ng==" copy="[&amp;BNMNAAA=]" copy-message="Bastion of Strength Waypoint"/>
+        <POI MapID="1517" xpos="-567.518" ypos="507.028" zpos="-54.0168" type="leag.soto.hom.anf.saddle.oil.icon" GUID="cfhCAFj0AU+OfOpoNoyQAw=="/>
+
+        <Trail type="leag.soto.hom.anf.saddle.hardware.am" trailData="Data/SotO/HoM/Durable Saddle Hardware.trl"/>
+        <POI MapID="1517" xpos="696.458" ypos="379.652" zpos="173.593" type="leag.soto.hom.anf.saddle.hardware.wp" GUID="XQTYWUPwaUqPm7bRAPjmUQ==" copy="[&amp;BD0OAAA=]" copy-message="Bastion of Balance Waypoint"/>
+        <POI MapID="1517" xpos="696.458" ypos="379.652" zpos="173.593" type="leag.soto.hom.anf.saddle.hardware.icon" GUID="ZN5z5v0Opk+L9ftYtf/kqg=="/>
+
+        <Trail type="leag.soto.hom.anf.saddle.holding.am" trailData="Data/SotO/HoM/Saddlebag of Holding.trl"/>
+        <POI MapID="1517" xpos="-151.441" ypos="395.081" zpos="557.273" type="leag.soto.hom.anf.saddle.holding.wp" GUID="3WcIlc6Zy0SMC8K8rYSudQ==" copy="[&amp;BCsOAAA=]" copy-message="Beacon of Ages Waypoint, Skywatch Archipelago"/>
+        <POI MapID="1517" xpos="-151.441" ypos="395.081" zpos="557.273" type="leag.soto.hom.anf.saddle.holding.icon" GUID="718tgHxwe0WxnGKQDeVxTg=="/>
+
+        <Trail type="leag.soto.hom.anf.saddle.cloth.sa" trailData="Data/SotO/HoM/Garenhoff-Weave Cloth.trl"/>
+        <POI MapID="1510" xpos="870.066" ypos="128.238" zpos="-494.154" type="leag.soto.hom.anf.saddle.cloth.wp" GUID="nQwv3jDrcESTL53ePF3M9A==" copy="[&amp;BA4OAAA=]" copy-message="Astral Ward Encampment Waypoint"/>
+        <POI MapID="1510" xpos="870.066" ypos="128.238" zpos="-494.154" type="leag.soto.hom.anf.saddle.cloth.icon" GUID="S70CSheAYUiXPycjb1AqzA=="/>
+
+        <Trail type="leag.soto.hom.anf.saddle.sandpaper.sa" trailData="Data/SotO/HoM/Elonian Sandpaper.trl"/>
+        <POI MapID="1510" xpos="65.9353" ypos="254.255" zpos="-367.823" type="leag.soto.hom.anf.saddle.sandpaper.wp" GUID="dulKTulhn0iD3asitKIC2g==" copy="[&amp;BD8OAAA=]" copy-message="Kestrel's Vow Waypoint"/>
+        <POI MapID="1510" xpos="65.9353" ypos="254.255" zpos="-367.823" type="leag.soto.hom.anf.saddle.sandpaper.icon" GUID="hekYokZT7kW2I7qL1NXojQ=="/>
+
+        <Trail type="leag.soto.hom.anf.saddle.thread.sa" trailData="Data/SotO/HoM/Jade-Spun Silk Thread.trl"/>
+        <POI MapID="1510" xpos="-6.02156" ypos="401.286" zpos="-53.5108" type="leag.soto.hom.anf.saddle.thread.wp" GUID="HnxAA+ILE0SxAH0yB5yAJw==" copy="[&amp;BOANAAA=]" copy-message="Rata Novus Promenade Waypoint"/>
+        <POI MapID="1510" xpos="-6.02156" ypos="401.286" zpos="-53.5108" type="leag.soto.hom.anf.saddle.thread.icon" GUID="i9qnbxVyuEGr+/ft3oPwvw=="/>
+
+        <Trail type="leag.soto.hom.anf.saddle.mahogany.sa" trailData="Data/SotO/HoM/Rich Maguuman Mahogany.trl"/>
+        <POI MapID="1510" xpos="553.915" ypos="311.676" zpos="400.447" type="leag.soto.hom.anf.saddle.mahogany.wp" GUID="z8IRA2uC0Emm3s6CHNUp4Q==" copy="[&amp;BLkLAAA=]" copy-message="Observation Deck Waypoint, Thunderhead Peaks"/>
+        <POI MapID="1510" xpos="553.915" ypos="311.676" zpos="400.447" type="leag.soto.hom.anf.saddle.mahogany.icon" GUID="mGsJmWGuZEibQ4x3C2inrQ=="/>
+
+        <Trail type="leag.soto.hom.anf.saddle.rivets.tp" trailData="Data/SotO/HoM/Deldrimor Rivets.trl"/>
+        <POI MapID="1310" xpos="-586.122" ypos="139.344" zpos="991.018" type="leag.soto.hom.anf.saddle.rivets.wp" GUID="3r+ib2uDlE2Qz+O5uLM55A==" copy="[&amp;BFcLAAA=]" copy-message="Allied Encampment Waypoint, Domain of Kourna"/>
+        <POI MapID="1310" xpos="-586.122" ypos="139.344" zpos="991.018" type="leag.soto.hom.anf.saddle.rivets.icon" GUID="KxFPy7I48Uu+S/mB1pOb3A=="/>
+
+        <Trail type="leag.soto.hom.anf.saddle.tar.dok" trailData="Data/SotO/HoM/Extra-Sticky Tar.trl"/>
+        <POI MapID="1288" xpos="-468.603" ypos="23.7166" zpos="255.549" type="leag.soto.hom.anf.saddle.tar.wp" GUID="M2iyYDwmk0WFDBpWo036lg==" copy="[&amp;BCsOAAA=]" copy-message="Beacon of Ages Waypoint, Skywatch Archipelago"/>
+        <POI MapID="1288" xpos="-468.603" ypos="23.7166" zpos="255.549" type="leag.soto.hom.anf.saddle.tar.icon" GUID="AeKBSd/aMU+PbFxvoABHVQ=="/>
+
+        <!-- A New Look -->
+        <POI MapID="1510" xpos="782.552" ypos="132.068" zpos="-372.152" type="leag.soto.hom.anl" GUID="I0XvpqBrq0WiLjtZIMQDBQ==" iconFile="Data/Images/Icons/Skyscale Trainer.png" inGameVisibility="0" mapDisplaySize="32"/>
+        <Trail type="leag.soto.hom.anl.charm.twt" trailData="Data/SotO/HoM/Lyhr.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <Trail type="leag.soto.hom.anl.target.sa" trailData="Data/SotO/HoM/Target Practise.trl"/>
+        <POI MapID="1517" xpos="373.855" ypos="510.665" zpos="722.539" type="leag.soto.hom.anl.turrets.icon" GUID="zQrKFKT/eUmtC3dLktvWaw=="/>
+        <POI MapID="1517" xpos="378.549" ypos="403.151" zpos="661.804" type="leag.soto.hom.anl.turrets.icon" GUID="TPS+Q52SPU+uEbtdpv1IAA=="/>
+        <POI MapID="1517" xpos="356.625" ypos="413.779" zpos="647.169" type="leag.soto.hom.anl.turrets.icon" GUID="jD3F+a9n/EGBcKzjcxlEXg=="/>
+        <POI MapID="1517" xpos="521.133" ypos="404.21" zpos="584.549" type="leag.soto.hom.anl.turrets.icon" GUID="6fJUealrlESydolMwnwmaQ=="/>
+        <POI MapID="1517" xpos="479.155" ypos="402.923" zpos="495.25" type="leag.soto.hom.anl.turrets.icon" GUID="M5k8foNe8E+mQlID3LYTsw=="/>
+        <POI MapID="1517" xpos="508.049" ypos="405.045" zpos="491.465" type="leag.soto.hom.anl.turrets.icon" GUID="ciUryAVMNka9PSC7+Y8C1g=="/>
+        <POI MapID="1517" xpos="518.769" ypos="397.446" zpos="493.541" type="leag.soto.hom.anl.turrets.icon" GUID="D7piMEs7bUGcc/DBW65jJw=="/>
+        <POI MapID="1517" xpos="538.867" ypos="398.346" zpos="508.779" type="leag.soto.hom.anl.turrets.icon" GUID="oPnA0ln4zk2/lCQT0wmHXA=="/>
+        <POI MapID="1517" xpos="196.61" ypos="387.027" zpos="638.443" type="leag.soto.hom.anl.turrets.icon" GUID="T0zrZOhrq0moN7ldKg5Tyg=="/>
+        <POI MapID="1517" xpos="173.609" ypos="391.562" zpos="679.729" type="leag.soto.hom.anl.turrets.icon" GUID="YfxPfjeJDkOmr78VLBT0zQ=="/>
+        <POI MapID="1517" xpos="363.365" ypos="403.787" zpos="699.001" type="leag.soto.hom.anl.turrets.icon" GUID="kRkGvScn/UCistJSPR8r2g=="/>
+        <POI MapID="1517" xpos="452.075" ypos="437.768" zpos="727.031" type="leag.soto.hom.anl.turrets.icon" GUID="LZP6R6n6KUeni4CH01T3Zw=="/>
+        <POI MapID="1517" xpos="314.259" ypos="392.351" zpos="642.203" type="leag.soto.hom.anl.turrets.icon" GUID="VKQ8fLItj0KF6pSQB31yFw=="/>
+        <Trail type="leag.soto.hom.anl.leyline.am" trailData="Data/SotO/HoM/Leyline.trl"/>
+        <Trail type="leag.soto.hom.anl.cauldron.twt" trailData="Data/SotO/HoM/Lyhr.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
+        <POI MapID="1509" xpos="79.31174" ypos="326.7809" zpos="-91.68574" type="leag.soto.hom.anl.possess.twt" GUID="xFOeARd1ME6twyKaPv1nog==" iconFile="Data/Images/Icons/Blank.png"/>
+        <POI MapID="1509" xpos="79.31174" ypos="326.7809" zpos="-91.68574" type="leag.soto.hom.anl.corrupt.twt" GUID="u8Y+nuO3hU6xC2Kr1cCb4g==" iconFile="Data/Images/Icons/Blank.png"/>
+
+        <Trail type="leag.soto.hom.anl.masker.queensdale" trailData="Data/SotO/HoM/Tasty Wurm Segment.trl"/>
+        <Trail type="leag.soto.hom.anl.masker.diessa" trailData="Data/SotO/HoM/Tasty Wurm Segment Diessa.trl"/>
+        <POI MapID="15" xpos="-888.112" ypos="12.8325" zpos="505.129" type="leag.soto.hom.anl.masker.icon" GUID="KFHZdsY6Y0O/oRmcNGFjZw=="/>
+        <POI MapID="15" xpos="-879.429" ypos="13.6278" zpos="475.939" type="leag.soto.hom.anl.masker.icon" GUID="pA8EOAn+nUGoJiQg3Ken8g=="/>
+        <POI MapID="15" xpos="-967.77" ypos="16.0796" zpos="472.31" type="leag.soto.hom.anl.masker.icon" GUID="Zq34wp6DQkG4I472xxnuIw=="/>
+        <POI MapID="15" xpos="-944.287" ypos="17.0778" zpos="454.987" type="leag.soto.hom.anl.masker.icon" GUID="L4MbifpaXUu7eoFfn3oM/Q=="/>
+        <POI MapID="15" xpos="-903.721" ypos="25.5323" zpos="429.619" type="leag.soto.hom.anl.masker.icon" GUID="hCU5e3vJJEiFjGk4XrY+Uw=="/>
+        <POI MapID="15" xpos="-873.877" ypos="21.0597" zpos="443.094" type="leag.soto.hom.anl.masker.icon" GUID="BdhDEFRexUmGFP4+yn95IA=="/>
+        <POI MapID="15" xpos="-837.347" ypos="21.0176" zpos="449.36" type="leag.soto.hom.anl.masker.icon" GUID="cqdrRdKQF06lRUmhzfkJzg=="/>
+        <POI MapID="15" xpos="-894.05" ypos="6.38611" zpos="539.33" type="leag.soto.hom.anl.masker.icon" GUID="yDkVq9qpBUy681iEw1T9LQ=="/>
+        <POI MapID="15" xpos="-858.353" ypos="20.8166" zpos="454.613" type="leag.soto.hom.anl.masker.icon" GUID="toGG/dvOt0yBTDjraBLPhw=="/>
+        <POI MapID="15" xpos="-839.472" ypos="21.3164" zpos="467.352" type="leag.soto.hom.anl.masker.icon" GUID="7jEFnTJsxUO6sVcLE7OhgQ=="/>
+        <POI MapID="15" xpos="-820.073" ypos="20.9563" zpos="470.714" type="leag.soto.hom.anl.masker.icon" GUID="mzzy5ILPxUiar1J/LLo47g=="/>
+
+        <POI MapID="32" xpos="-381.554" ypos="47.43" zpos="-156.602" type="leag.soto.hom.anl.masker.icon" GUID="4dLPuK1vcEWIV3c6Nd13Ow=="/>
+        <POI MapID="32" xpos="-392.574" ypos="48.9603" zpos="-141.381" type="leag.soto.hom.anl.masker.icon" GUID="dy7OQfhPtki9SeFoKmUuLA=="/>
+        <POI MapID="32" xpos="-426.881" ypos="45.1635" zpos="-128.916" type="leag.soto.hom.anl.masker.icon" GUID="GO8kkHLisUKAGuXbnxjdQA=="/>
+        <POI MapID="32" xpos="-432.009" ypos="45.3316" zpos="-86.6526" type="leag.soto.hom.anl.masker.icon" GUID="jVhYseNHnUGAGriwgi0wPw=="/>
+        <POI MapID="32" xpos="-437.152" ypos="46.8443" zpos="-63.3625" type="leag.soto.hom.anl.masker.icon" GUID="lxwuTgYWR0+VN8XPZD6eKw=="/>
+        <POI MapID="32" xpos="-463.69" ypos="42.7182" zpos="-27.6691" type="leag.soto.hom.anl.masker.icon" GUID="qEeGUlshQEuJ2DKmdajbtQ=="/>
+        <POI MapID="32" xpos="-476.624" ypos="44.2831" zpos="48.9406" type="leag.soto.hom.anl.masker.icon" GUID="TeXvoioBhEuOWxKUtuYs7g=="/>
+        <POI MapID="32" xpos="-502.844" ypos="44.7567" zpos="71.6776" type="leag.soto.hom.anl.masker.icon" GUID="b82/uuNOjE2qidVqVNZ0rQ=="/>
+        <POI MapID="32" xpos="-475.588" ypos="43.7674" zpos="83.5251" type="leag.soto.hom.anl.masker.icon" GUID="e15RysPQZ0C632LPYjMo5Q=="/>
+        <POI MapID="32" xpos="-477.779" ypos="45.7015" zpos="124.178" type="leag.soto.hom.anl.masker.icon" GUID="r9zlDldduUu4D920ztMJ5A=="/>
+        <POI MapID="32" xpos="-496.71" ypos="43.1223" zpos="151.212" type="leag.soto.hom.anl.masker.icon" GUID="ePq6wqRsMEGl/6PB6fvVKg=="/>
+        <POI MapID="32" xpos="-499.179" ypos="43.1602" zpos="174.993" type="leag.soto.hom.anl.masker.icon" GUID="5FLlNpeYQUKS027wUzt/1w=="/>
+        <POI MapID="32" xpos="-492.491" ypos="45.8413" zpos="197.789" type="leag.soto.hom.anl.masker.icon" GUID="i7A0MuWCzUmRtRMzUTK0og=="/>
+        <POI MapID="32" xpos="-447.021" ypos="40.1401" zpos="194.086" type="leag.soto.hom.anl.masker.icon" GUID="NfBD3BhkgkSsW6rOrFxbXg=="/>
+        <POI MapID="32" xpos="-418.749" ypos="42.7769" zpos="208.061" type="leag.soto.hom.anl.masker.icon" GUID="74I9L5zJGkW+uFb6B997Zg=="/>
+        <POI MapID="32" xpos="-390.886" ypos="44.7202" zpos="187.29" type="leag.soto.hom.anl.masker.icon" GUID="vmrGHPkl1E+EHU6/OmzGJA=="/>
+        <POI MapID="32" xpos="-420.001" ypos="40.7998" zpos="173.881" type="leag.soto.hom.anl.masker.icon" GUID="NeTXc7K2s0eEJgRVMm04mQ=="/>
+        <POI MapID="32" xpos="-367.205" ypos="40.6619" zpos="162.203" type="leag.soto.hom.anl.masker.icon" GUID="km26bDz0jkCDDHXOvJ87ow=="/>
+        <POI MapID="32" xpos="-383.827" ypos="40.9257" zpos="142.786" type="leag.soto.hom.anl.masker.icon" GUID="qLton4JWBUmHAbnjTRWhXg=="/>
+        <POI MapID="32" xpos="-356.773" ypos="38.3465" zpos="128.244" type="leag.soto.hom.anl.masker.icon" GUID="SZHdjVP8XUmyC8XQzvPZxA=="/>
+        <POI MapID="32" xpos="-379.704" ypos="37.2309" zpos="93.3359" type="leag.soto.hom.anl.masker.icon" GUID="kXBrqjq39UC6J5m91RdeyA=="/>
+        <POI MapID="32" xpos="-402.573" ypos="43.4733" zpos="114.736" type="leag.soto.hom.anl.masker.icon" GUID="KMJct34alEC4zWyUuxg94Q=="/>
+        <POI MapID="32" xpos="-425.794" ypos="40.5683" zpos="84.9827" type="leag.soto.hom.anl.masker.icon" GUID="N4bA8cMT1Em4b2RMTXNvFw=="/>
+        <POI MapID="32" xpos="-444.024" ypos="39.8835" zpos="67.8582" type="leag.soto.hom.anl.masker.icon" GUID="FROqu3jxeUO9ZHUFRpc2tg=="/>
+        <POI MapID="32" xpos="-444.963" ypos="39.9935" zpos="43.9767" type="leag.soto.hom.anl.masker.icon" GUID="m89jFCHS6kmwq/Fekz5eTA=="/>
+        <POI MapID="32" xpos="-424.025" ypos="36.2686" zpos="32.8269" type="leag.soto.hom.anl.masker.icon" GUID="FWOejPC7m0mwgIBhlD/JAw=="/>
+        <POI MapID="32" xpos="-402.624" ypos="33.7943" zpos="29.2952" type="leag.soto.hom.anl.masker.icon" GUID="t3/0bg31NE+drHvqNNx60A=="/>
+        <POI MapID="32" xpos="-439.883" ypos="39.593" zpos="6.39153" type="leag.soto.hom.anl.masker.icon" GUID="aAmGYMoUXU6f23XyCEs6IA=="/>
+        <POI MapID="32" xpos="-407.314" ypos="35.7971" zpos="-18.1006" type="leag.soto.hom.anl.masker.icon" GUID="iFoJjc9pzUSwLagGbhJq/Q=="/>
+        <POI MapID="32" xpos="-326.708" ypos="44.5431" zpos="-136.216" type="leag.soto.hom.anl.masker.icon" GUID="9UnNEz5f2UeJTp5AuH7/8w=="/>
+        <POI MapID="32" xpos="-305.547" ypos="39.1947" zpos="-183.547" type="leag.soto.hom.anl.masker.icon" GUID="THDqos3mV0KF9TMzF/tpEA=="/>
+        <POI MapID="32" xpos="-271.474" ypos="32.3816" zpos="-164.349" type="leag.soto.hom.anl.masker.icon" GUID="8vRQ/0SxYECQSij/oAt+9w=="/>
+        <POI MapID="32" xpos="-233.453" ypos="33.8693" zpos="-162.151" type="leag.soto.hom.anl.masker.icon" GUID="3+is56JLuEywUVXFrMBMxQ=="/>
+        <POI MapID="32" xpos="-234.541" ypos="36.6564" zpos="-196.546" type="leag.soto.hom.anl.masker.icon" GUID="Z1xTCK2400+jFnWLa/jwbA=="/>
+        <POI MapID="32" xpos="-279.566" ypos="33.0936" zpos="-204.182" type="leag.soto.hom.anl.masker.icon" GUID="zmTa0WqUnE+9QI4Ai5FnLQ=="/>
+        <POI MapID="32" xpos="-292.687" ypos="32.7554" zpos="-233.812" type="leag.soto.hom.anl.masker.icon" GUID="1qPJMEetNUCuoLJBkXQR3A=="/>
+        <POI MapID="32" xpos="-309.403" ypos="34.7959" zpos="-261.585" type="leag.soto.hom.anl.masker.icon" GUID="zv9ecr26MUa1YUhoM35HEQ=="/>
+        <POI MapID="32" xpos="-332.332" ypos="32.6294" zpos="-258.868" type="leag.soto.hom.anl.masker.icon" GUID="h+Yh5cfrwkqtzBTBnIkF8A=="/>
+        <POI MapID="32" xpos="-329.404" ypos="32.9298" zpos="-233.312" type="leag.soto.hom.anl.masker.icon" GUID="OGgeFqJeNUeqh3+UvMm+Ig=="/>
+        <POI MapID="32" xpos="-360.954" ypos="34.0659" zpos="-237.566" type="leag.soto.hom.anl.masker.icon" GUID="2XkDerLZpEWUkAhOyG2BuQ=="/>
+        <POI MapID="32" xpos="-354.546" ypos="32.6258" zpos="-247.971" type="leag.soto.hom.anl.masker.icon" GUID="tk+M7T5d40CZG/1hzBOpFw=="/>
+        <POI MapID="32" xpos="-387.211" ypos="32.5403" zpos="-181.321" type="leag.soto.hom.anl.masker.icon" GUID="I/HhaPhOUkSbxQkFrwR8vw=="/>
+        <POI MapID="32" xpos="-392.646" ypos="33.3955" zpos="-176.483" type="leag.soto.hom.anl.masker.icon" GUID="HBzoY/ccy0Gxo/cBhmBW1A=="/>
+        <POI MapID="32" xpos="-387.333" ypos="41.3133" zpos="-83.0228" type="leag.soto.hom.anl.masker.icon" GUID="eVkb+Y8ZxkWuco1QrJGmCQ=="/>
+        <POI MapID="32" xpos="-400.687" ypos="46.6399" zpos="-109.612" type="leag.soto.hom.anl.masker.icon" GUID="thv11NKaF0q0AYhaaxZXAg=="/>
+        <POI MapID="32" xpos="-374.151" ypos="43.8711" zpos="-105.007" type="leag.soto.hom.anl.masker.icon" GUID="OdnpbbuBzUac0dhLsCKr7Q=="/>
+        <POI MapID="32" xpos="-353.095" ypos="43.7833" zpos="-118.642" type="leag.soto.hom.anl.masker.icon" GUID="zglBa7nMtEGo6WlhSqTJOA=="/>
+        <POI MapID="32" xpos="-349.607" ypos="44.7096" zpos="-144.256" type="leag.soto.hom.anl.masker.icon" GUID="QG6VNh6cTEe7K8Pgb2g/bg=="/>
+
+        <!-- Greater Arcane Chests -->
+        <POI MapID="1510" xpos="543.017" ypos="29.9837" zpos="-454.27" type="leag.soto.hom.anl.ao.icon" GUID="x4D9o2gZ8ESdQ/TGmMJgaA=="/>
+        <POI MapID="1510" xpos="11.7252" ypos="255.813" zpos="-551.72" type="leag.soto.hom.anl.ao.icon" GUID="+8Nt4x4oGka5+a9js9cTRg=="/>
+        <POI MapID="1510" xpos="-697.3666" ypos="619.3185" zpos="-267.4067" type="leag.soto.hom.anl.ao.icon" GUID="DekZFmqKOUiPtwTsIHFpaQ=="/>
+        <POI MapID="1510" xpos="-895.786" ypos="555.501" zpos="99.9195" type="leag.soto.hom.anl.ao.icon" GUID="uKMvPR3/yEGsAOKW3uocjA=="/>
+        <POI MapID="1510" xpos="1035.7" ypos="179.221" zpos="348.318" type="leag.soto.hom.anl.ao.icon" GUID="fjSqwdDwF06KTSacyefUHA=="/>
+        <POI MapID="1510" xpos="513.343" ypos="277.239" zpos="-36.2781" type="leag.soto.hom.anl.ao.icon" GUID="lgcTerqyI0Ko6z96BfemBg=="/>
+        <POI MapID="1510" xpos="99.3975" ypos="641.232" zpos="54.8838" type="leag.soto.hom.anl.ao.icon" GUID="IgZQnobJjkq4HFjgWXzcbw=="/>
+        <POI MapID="1510" xpos="80.1224" ypos="444.826" zpos="-39.2661" type="leag.soto.hom.anl.ao.icon" GUID="7V7LMYhk7UCAtpBqDBeaXw=="/>
+        <POI MapID="1510" xpos="10.8375" ypos="365.342" zpos="403.89" type="leag.soto.hom.anl.ao.icon" GUID="uog0I0Hvg0+1Dk6rabwZdw=="/>
+        <POI MapID="1510" xpos="586.059" ypos="278.269" zpos="448.751" type="leag.soto.hom.anl.ao.icon" GUID="79MyAvcgM02l9eWnvF+kfw=="/>
+        <POI MapID="1517" xpos="10.1271" ypos="649.815" zpos="-115.244" type="leag.soto.hom.anl.ao.icon" GUID="QxpXmrCkWEeq9gCUCads7Q=="/>
+        <POI MapID="1517" xpos="79.5266" ypos="648.154" zpos="-123.404" type="leag.soto.hom.anl.ao.icon" GUID="A1q29qB/60K/naGMwWtrRw=="/>
+        <POI MapID="1517" xpos="413.413" ypos="384.999" zpos="426.043" type="leag.soto.hom.anl.ao.icon" GUID="79+pNbrHhEm/Y5i5XLXcPQ=="/>
+        <POI MapID="1517" xpos="369.342" ypos="384.975" zpos="426.339" type="leag.soto.hom.anl.ao.icon" GUID="i7bYO2RAUEam/rZ07cJtQA=="/>
+        <POI MapID="1517" xpos="67.1319" ypos="648.154" zpos="-220.644" type="leag.soto.hom.anl.ao.icon" GUID="FQoiQL95T0+X3iJsv5Hm7A=="/>
+        <POI MapID="1517" xpos="10.4992" ypos="679.041" zpos="-208.218" type="leag.soto.hom.anl.ao.icon" GUID="jGrBqPnfYEqywEWcbTKQmg=="/>
+        <POI MapID="1526" xpos="156.424" ypos="426.646" zpos="-21.3947" type="leag.soto.hom.anl.ao.icon" GUID="xohrzGbRw0a+s3lT5RqAhQ=="/>
+        <POI MapID="1526" xpos="101.41" ypos="285.087" zpos="-159.85" type="leag.soto.hom.anl.ao.icon" GUID="AMl+2ZxAt0OTwVYXkjkZ+A=="/>
+        <POI MapID="1526" xpos="-164.673" ypos="310.871" zpos="-491.461" type="leag.soto.hom.anl.ao.icon" GUID="H+wxN/KXV0epgPIDsrT4+A=="/>
+        <POI MapID="1526" xpos="-174.394" ypos="304.019" zpos="-69.6088" type="leag.soto.hom.anl.ao.icon" GUID="2Vg75krpeUuImV8yb/PJpw=="/>
+        <POI MapID="1526" xpos="94.7113" ypos="308.159" zpos="554.087" type="leag.soto.hom.anl.ao.icon" GUID="vdRdGrM91068ikGJFrd3wQ=="/>
+        <POI MapID="1526" xpos="25.1168" ypos="269.795" zpos="562.308" type="leag.soto.hom.anl.ao.icon" GUID="R6VTUC9epUq4biO6DoPEMQ=="/>
+        <POI MapID="1526" xpos="966.883" ypos="226.942" zpos="355.552" type="leag.soto.hom.anl.ao.icon" GUID="VRzNdI3SVk6xi7CafxAPPg=="/>
+        <POI MapID="1526" xpos="924.377" ypos="225.142" zpos="381.854" type="leag.soto.hom.anl.ao.icon" GUID="y65uY1aYAkGrYTxsfSZXRQ=="/>
+        <POI MapID="1526" xpos="957.462" ypos="213.814" zpos="306.643" type="leag.soto.hom.anl.ao.icon" GUID="dgLOyO+hX0eKqCdUnT88FQ=="/>
+        <POI MapID="1510" xpos="785.1246" ypos="131.8141" zpos="-365.435" type="leag.soto.hom.anl.ao.sa" GUID="9gHyGLi5aUKUOk8mkAbazg==" iconFile="Data/Images/Icons/Blank.png"/>
+        <POI MapID="1510" xpos="785.1246" ypos="131.8141" zpos="-365.435" type="leag.soto.hom.anl.medicine.sa" GUID="mRlzGxjUTUu8uAemLhamZw==" iconFile="Data/Images/Icons/Blank.png"/>
+        <POI MapID="1510" xpos="785.1246" ypos="131.8141" zpos="-365.435" type="leag.soto.hom.anl.use.sa" GUID="HpKbEp81DU+iNL8l+gmHKQ==" iconFile="Data/Images/Icons/Blank.png"/>
+
+
+
         <!-- A Record of War: Balance -->
         <POI MapID="1526" xpos="307.451" ypos="186.3" zpos="144.189" type="leag.soto.in.war.b1" GUID="W7Rll27/DUmYPisSuJtFvA==" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
         <Trail type="leag.soto.in.war.b1" trailData="Data/SotO/A Record of War - Balance 1.trl"/>

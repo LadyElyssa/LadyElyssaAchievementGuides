@@ -590,36 +590,118 @@
                     <MarkerCategory name="icon" DisplayName="Toggle Icon" iconFile="Data/Images/Oni Ambusher.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 </MarkerCategory>
 
-                <!-- There’s Sea Life Down Here? [H] -->
+                <!-- There's Sea Life Down Here? [H] -->
                 <MarkerCategory name="sealife" DisplayName="There's Sea Life Down Here? [H]" achievementId="5523">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="circle" DisplayName="Toggle Locations" iconFile="Data/Images/Circle.png" inGameVisibility="0" mapDisplaySize="40"/>
                 </MarkerCategory>
 
+
                 <!-- WHAT LIES WITHIN -->
                 <MarkerCategory name="within" IsSeparator="1" DisplayName="WHAT LIES WITHIN"/>
 
+
                 <!-- A Brotherhood's Best Friend [H] -->
+
                 <MarkerCategory name="abbf" DisplayName="A Brotherhood's Best Friend" achievementId="6906">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="interact" DisplayName="Toggle Head Pat" iconFile="Data/Images/Icons/Head Pat.png" miniMapVisibility="0" mapVisibility="0"/>
                 </MarkerCategory>
 
+
                 <!-- World Lore: Gyala Delve -->
+
                 <MarkerCategory name="wlgd" DisplayName="World Lore: Gyala Delve" achievementId="5250" iconFile="Data/Images/Icons/Blank.png">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="talk" DisplayName="Talk to Ari"/>
                 </MarkerCategory>
 
-                <!-- World Lore: Special Ops Rescue Agency -->
-                <MarkerCategory name="wlsora" DisplayName="World Lore: Special Ops Rescue Agency" achievementId="6904" iconFile="Data/Images/Icons/Blank.png">
+
+                <!-- Special Ops Armor Collection -->
+
+                <MarkerCategory name="so" IsSeparator="1" DisplayName="SPECIAL OPS ARMOR"/>
+
+                <MarkerCategory name="captain" DisplayName="World Lore: Special Ops Rescue Agency" achievementId="6904">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="talk" DisplayName="Talk to Captain Wing Jun"/>
+                    <MarkerCategory name="talk" DisplayName="Speak to Captain Wing Jun" iconFile="Data/Images/Icons/Talk.png"/>
+                    <MarkerCategory name="materials" DisplayName="Material List" iconFile="Data/Images/Special Ops Armor/Materials.png"/>
+                    <MarkerCategory name="map" IsSeparator="1" DisplayName="MAP LOCATION"/>
+                    <MarkerCategory name="gd" DisplayName="Gyala Delve"/>
                 </MarkerCategory>
 
-                
+                <MarkerCategory name="sobc1" DisplayName="Basic Course 1" achievementId="5495">
+                    <MarkerCategory name="ew" IsSeparator="1" DisplayName="ECHOVALD WILDS"/>
+                    <MarkerCategory name="sart1" DisplayName="Search and Rescue (Track Tateo)" achievementBit="0"/>
+                    <MarkerCategory name="sart2" DisplayName="Search and Rescue (Rescue Tateo)" achievementBit="1"/>
+                    <MarkerCategory name="la" IsSeparator="1" DisplayName="LION'S ARCH"/>
+                    <MarkerCategory name="fr" DisplayName="Disaster Response (Thaumanova Fractal)" achievementBit="2"/>
+                    <MarkerCategory name="gd" IsSeparator="1" DisplayName="GYALA DELVE"/>
+                    <MarkerCategory name="pwrsrc" DisplayName="Power Source: Boots" achievementBit="3"/>
+                    <MarkerCategory name="boots" DisplayName="Special Ops Requisition: Boots" achievementBit="4"/>
+                </MarkerCategory>
 
-                <!-- Special Ops Armor Collection ??? -->
+                <MarkerCategory name="sobc2" DisplayName="Basic Course 2" achievementId="6908">
+                    <MarkerCategory name="nkc" IsSeparator="1" DisplayName="NEW KAINENG CITY"/>
+                    <MarkerCategory name="utrt1" DisplayName="Urban Threat Response (Defeat Janin)" achievementBit="0"/>
+                    <MarkerCategory name="utrt2" DisplayName="Urban Threat Response (Event: Fisherman)" achievementBit="1"/>
+                    <MarkerCategory name="utrt3" DisplayName="Urban Threat Response (Defeat: Naga)" achievementBit="2"/>
+                    <MarkerCategory name="la" IsSeparator="1" DisplayName="LION'S ARCH"/>
+                    <MarkerCategory name="fr" DisplayName="Survivor Search (Uncategorized Fractal)" achievementBit="3"/>
+                    <MarkerCategory name="gd" IsSeparator="1" DisplayName="GYALA DELVE"/>
+                    <MarkerCategory name="pwrsrc" DisplayName="Power Source: Gloves" achievementBit="4"/>
+                    <MarkerCategory name="gloves" DisplayName="Special Ops Requisition: Gloves" achievementBit="5"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="sobc3" DisplayName="Basic Course 3" achievementId="6912">
+                    <MarkerCategory name="sp" IsSeparator="1" DisplayName="SEITUNG PROVINCE"/>
+                    <MarkerCategory name="tmt1" DisplayName="Threat Mitigation (Defeat Tae-Sung)" achievementBit="0"/>
+                    <MarkerCategory name="tmt2" DisplayName="Threat Mitigation (Subdue: Purists)" achievementBit="1"/>
+                    <MarkerCategory name="tmt3" DisplayName="Threat Mitigation (Defeat: Naga Priest)" achievementBit="2"/>
+                    <MarkerCategory name="la" IsSeparator="1" DisplayName="LION'S ARCH"/>
+                    <MarkerCategory name="fr" DisplayName="Targeted Rescue (Cliffside Fractal)" achievementBit="3"/>
+                    <MarkerCategory name="gd" IsSeparator="1" DisplayName="GYALA DELVE"/>
+                    <MarkerCategory name="pwrsrc" DisplayName="Power Source: Pauldrons" achievementBit="4"/>
+                    <MarkerCategory name="pauldrons" DisplayName="Special Ops Requisition: Pauldrons" achievementBit="5"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="soac1" DisplayName="Advanced Course 1" achievementId="6920">
+                    <MarkerCategory name="sp" IsSeparator="1" DisplayName="ECHOVALD WILDS"/>
+                    <MarkerCategory name="tit1" DisplayName="Threat Intervention (Meta: God's Vengeance)" achievementBit="0"/>
+                    <MarkerCategory name="tit2" DisplayName="Threat Intervention (Defeat: Igne Mossheart)" achievementBit="1"/>
+                    <MarkerCategory name="tit3" DisplayName="Threat Intervention (Defeat: Amber Elemental)" achievementBit="2"/>
+                    <MarkerCategory name="la" IsSeparator="1" DisplayName="LION'S ARCH"/>
+                    <MarkerCategory name="fr" DisplayName="Threat Containment (Nightmare Fractal)" achievementBit="3"/>
+                    <MarkerCategory name="gd" IsSeparator="1" DisplayName="GYALA DELVE"/>
+                    <MarkerCategory name="pwrsrc" DisplayName="Power Source: Helmet" achievementBit="4"/>
+                    <MarkerCategory name="helmet" DisplayName="Special Ops Requisition: Helmet" achievementBit="5"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="soac2" DisplayName="Advanced Course 2" achievementId="6900">
+                    <MarkerCategory name="sp" IsSeparator="1" DisplayName="NEW KAINENG CITY"/>
+                    <MarkerCategory name="prt1" DisplayName="Purist Resolution (Event: Purist Propaganda)" achievementBit="0"/>
+                    <MarkerCategory name="prt2" DisplayName="Purist Resolution (Defeat: Purists)" achievementBit="1"/>
+                    <MarkerCategory name="prt3" DisplayName="Purist Resolution (Defeat: Purist Champion)" achievementBit="2"/>
+                    <MarkerCategory name="la" IsSeparator="1" DisplayName="LION'S ARCH"/>
+                    <MarkerCategory name="fr" DisplayName="Disaster Cleanup (Shattered Observatory Fractal)" achievementBit="3"/>
+                    <MarkerCategory name="gd" IsSeparator="1" DisplayName="GYALA DELVE"/>
+                    <MarkerCategory name="pwrsrc" DisplayName="Power Source: Pants" achievementBit="4"/>
+                    <MarkerCategory name="pants" DisplayName="Special Ops Requisition: Pants" achievementBit="5"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="sofc" DisplayName="Final Course" achievementId="6928">
+                    <MarkerCategory name="sp" IsSeparator="1" DisplayName="DRAGON'S END"/>
+                    <MarkerCategory name="dct1" DisplayName="Disaster Containment (Meta: Defeat Soo-Won)" achievementBit="0"/>
+                    <MarkerCategory name="sp" IsSeparator="1" DisplayName="GYALA DELVE"/>
+                    <MarkerCategory name="dct2" DisplayName="Disaster Containment (Defeat: Ravenous Wanderer)" achievementBit="1"/>
+                    <MarkerCategory name="la" IsSeparator="1" DisplayName="LION'S ARCH"/>
+                    <MarkerCategory name="fr" DisplayName="Extreme Danger (Sunqua Peak Fractal)" achievementBit="2"/>
+                    <MarkerCategory name="gd" IsSeparator="1" DisplayName="GYALA DELVE"/>
+                    <MarkerCategory name="pwrsrc" DisplayName="Power Source: Chestpiece" achievementBit="3"/>
+                    <MarkerCategory name="chest" DisplayName="Special Ops Requisition: Chestpiece" achievementBit="4"/>
+                </MarkerCategory>
+
+
+
 
             </MarkerCategory>
 

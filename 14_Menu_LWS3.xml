@@ -78,7 +78,11 @@
 
                 <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: Flashpoint"/>
                 <MarkerCategory name="arrival" DisplayName="Arrival and Survival" achievementId="3401"/>
-                <MarkerCategory name="excess" DisplayName="Excess Energy" achievementId="3408"/>
+                <MarkerCategory name="excess" DisplayName="Excess Energy" achievementId="3408">
+                    <MarkerCategory name="jor" DisplayName="Jormag" iconFile="Data/Images/Icons/Jormag Energy.png" maxSize="24" inGameVisibility="1" fadeNear="4000" FadeFar="6000"/>
+                    <MarkerCategory name="pri" DisplayName="Primordus" iconFile="Data/Images/Icons/Primordus Energy.png" maxSize="24" inGameVisibility="1" fadeNear="4000" FadeFar="6000"/>
+                </MarkerCategory>
+                    
                 <MarkerCategory name="fire" DisplayName="Fire Fighter" achievementId="3441">
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1"/>
                 </MarkerCategory>
