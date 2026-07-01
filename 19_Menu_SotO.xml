@@ -133,7 +133,7 @@
                         <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
                         <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
                         <MarkerCategory name="bff" DisplayName="Bitterfrost Frontier"/>
-                        <MarkerCategory name="frostgorge" DisplayName="Frostgorge Sound" mapDisplaySize="12" mapVisibility="1" inGameVisibility="1"/>
+                        <MarkerCategory name="fgs" DisplayName="Frostgorge Sound" mapDisplaySize="12" mapVisibility="1" inGameVisibility="1"/>
                     </MarkerCategory>
                     <MarkerCategory name="earth" DisplayName="Earth" iconFile="Data/Images/Skyscale/Earth.png">
                         <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
@@ -311,7 +311,7 @@
                         <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>
                     </MarkerCategory>
                     <MarkerCategory name="sandpaper" DisplayName="Elonian Sandpaper">
-                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/.png" inGameVisibility="0" mapDisplaySize="24"/>
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Skyscale/Elonian Sandpaper.png" inGameVisibility="0" mapDisplaySize="24"/>
                         <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" inGameVisibility="1"/>
                         <MarkerCategory name="map" IsSeparator="1" DisplayName="Map Location"/>
                         <MarkerCategory name="sa" DisplayName="Skywatch Archipelago"/>

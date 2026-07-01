@@ -52,21 +52,21 @@
         <POI MapID="988" xpos="211.945" ypos="11.3674" zpos="-275.877" type="leag.soto.hom.anf.egg.earth.wp" GUID="EGjgcGrjqkuE3lqXQqjHWQ==" copy="[&amp;BMkCAAA=]" copy-message="Criterion Waypoint, Mount Maelstrom"/>
         <Trail type="leag.soto.hom.anf.egg.air.maelstrom" trailData="Data/SotO/HoM/Hidden Garden - North.trl"/>
         <Trail type="leag.soto.hom.anf.egg.air.maelstrom" trailData="Data/SotO/HoM/Hidden Garden.trl"/>
-        <POI MapID="39" xpos="-880.606" ypos="73.7872" zpos="350.108" type="leag.soto.hom.anf.egg.air" GUID="ZkMAkvT6NUmrM6mUvxLnGg=="  iconFile="Data/Images/Skyscale/Hidden Garden.png"/>
-        <POI MapID="39" xpos="-18.5615" ypos="77.5864" zpos="-303.131" type="leag.soto.hom.anf.egg.air" GUID="/a0gpNO9pUGuZokVIBI5Xg==" iconFile="Data/Images/Skyscale/Hidden Garden.png"/>
-        <POI MapID="39" xpos="447.339" ypos="20.2969" zpos="-345.196" type="leag.soto.hom.anf.egg.air" GUID="78W3Ts6+bUq2pzBrA/N9nQ=="  iconFile="Data/Images/Skyscale/Hidden Garden.png"/>
-        <POI MapID="39" xpos="182.858" ypos="1.71168" zpos="43.9268" type="leag.soto.hom.anf.egg.air" GUID="0G4ULP3EpUWdyXppGSJ9Rg=="   iconFile="Data/Images/Skyscale/Hidden Garden.png"/>
-        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="leag.soto.hom.anf.egg.air" GUID="3JvV5YScOEqxnnlWeD+OeA=="  iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
-        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="leag.soto.hom.anf.egg.air" GUID="LT6G4M/Mmk6o7FhvRDxBIw==" iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
-        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="leag.soto.hom.anf.egg.air" GUID="mHNX4tPue0OaoG2DTCKDVQ==" iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
-        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="leag.soto.hom.anf.egg.air" GUID="xUUEBMx6iU279jjFmaaAnw=="   iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
-        <POI MapID="39" xpos="1071.92" ypos="114.037" zpos="687.023" type="leag.soto.hom.anf.egg.air" GUID="zisDMc4NOUawPTn8JUKQnQ=="/>
-        <POI MapID="39" xpos="1071.92" ypos="114.037" zpos="687.023" type="leag.soto.hom.anf.egg.air.wp" GUID="zisDMc4NOUawPTn8JUKQnQ==" copy="[&amp;BI0BAAA=]" copy-message="Blood Hill Waypoint, Gendarran Fields"/>
+        <POI MapID="39" xpos="-880.606" ypos="73.7872" zpos="350.108" type="leag.soto.hom.anf.egg.air" GUID="KnJ/r03HBEevciH6DIqn8Q=="  iconFile="Data/Images/Skyscale/Hidden Garden.png"/>
+        <POI MapID="39" xpos="-18.5615" ypos="77.5864" zpos="-303.131" type="leag.soto.hom.anf.egg.air" GUID="XCPxCles+E2lBdwpDxVVpQ==" iconFile="Data/Images/Skyscale/Hidden Garden.png"/>
+        <POI MapID="39" xpos="447.339" ypos="20.2969" zpos="-345.196" type="leag.soto.hom.anf.egg.air" GUID="zUdjVw6PQ0qimoU87KIhXA=="  iconFile="Data/Images/Skyscale/Hidden Garden.png"/>
+        <POI MapID="39" xpos="182.858" ypos="1.71168" zpos="43.9268" type="leag.soto.hom.anf.egg.air" GUID="gKFjAS4RWEKuAwU+bPNF5Q=="   iconFile="Data/Images/Skyscale/Hidden Garden.png"/>
+        <POI MapID="39" xpos="-846.072" ypos="50.9303" zpos="323.325" type="leag.soto.hom.anf.egg.air" GUID="0nWA7QYYnkynXJ2k+3zMJg=="  iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="-119.141" ypos="77.8336" zpos="-33.7747" type="leag.soto.hom.anf.egg.air" GUID="tnCXgBnWOEafc3JBDLZmlA==" iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="261.501" ypos="-0.680637" zpos="270.926" type="leag.soto.hom.anf.egg.air" GUID="Nk9gvLU/50yjIcv9vYYfiQ==" iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="647.26" ypos="16.4214" zpos="-437.415" type="leag.soto.hom.anf.egg.air" GUID="qDijNEObZ0OYtTXmaUXX/A=="   iconfile="Data/Images/Yellow Swirl.png" mapDisplaySize="64" inGameVisibility="0"/>
+        <POI MapID="39" xpos="1071.92" ypos="114.037" zpos="687.023" type="leag.soto.hom.anf.egg.air" GUID="PQ7H79MM5k6cDhsJ9EhHdQ=="/>
+        <POI MapID="39" xpos="1071.92" ypos="114.037" zpos="687.023" type="leag.soto.hom.anf.egg.air.wp" GUID="wU9M3Vu5nkC6+fnoLQEQTw==" copy="[&amp;BI0BAAA=]" copy-message="Blood Hill Waypoint, Gendarran Fields"/>
         <POI MapID="24" xpos="-670.7903" ypos="50.5282" zpos="569.5609" type="leag.soto.hom.anf.egg.life.wp" GUID="8mt+cw3VVUaHQP1lo2vjYg=="/>
         <POI MapID="24" xpos="-670.7903" ypos="50.5282" zpos="569.5609" type="leag.soto.hom.anf.egg.life.wp" GUID="kjcsnlajzk+Wn1QK7+HpLg==" copy="[&amp;BLoEAAA=]" copy-message="KILL Foes within Blood Hill Camps&#xa;&#xa;REVIVE 20 Allies in The Bloodfields &amp; Nebo Terrace&#xa;&#xa;Upper Commons Waypoint, The Grove"/>
         <POI MapID="24" xpos="-536.111" ypos="44.749" zpos="472.953" type="leag.soto.hom.anf.egg.blood" GUID="LIF9Q1JnuEWQULKr1CMlww=="/>
         <POI MapID="24" xpos="-696.028" ypos="15.3368" zpos="191.565" type="leag.soto.hom.anf.egg.life" GUID="pDhPZLnjSEi+TcT4lkFO8A=="/>
-        <Trail type="leag.soto.hom.anf.egg.growth.tg" trailData="Data/SotO/HoM/Hidden Garden.trl"/>
+        <Trail type="leag.soto.hom.anf.egg.growth.tg" trailData="Data/SotO/HoM/Skyscale of Growth.trl"/>
         <POI MapID="91" xpos="-99.3953" ypos="61.2139" zpos="223.47" type="leag.soto.hom.anf.egg.growth" GUID="dCCCQmN4cUCmnjIcYWK2pg=="/>
         <POI MapID="91" xpos="-99.3953" ypos="61.2139" zpos="223.47" type="leag.soto.hom.anf.egg.growth.wp" GUID="36ID1XxQQkSEwd82HoUqkw==" copy="[&amp;BCIDAAA=]" copy-message="Murdered Dreams Waypoint, Cursed Shore"/>
         <Trail type="leag.soto.hom.anf.egg.death.cs" trailData="Data/SotO/HoM/Skyscale of Death.trl"/>
@@ -98,7 +98,7 @@
         <POI MapID="1510" xpos="782.5064" ypos="132.0687" zpos="-372.1649" type="leag.soto.hom.anf.growing.treat.bloodstone" GUID="2hXioeFY4Umys40i6eiV8A=="/>
         <POI MapID="1510" xpos="782.5064" ypos="132.0687" zpos="-372.1649" type="leag.soto.hom.anf.growing.treat.sa" GUID="PC6oRgMDCkywy+Sezttc2g=="/>
 
-        <POI MapID="1510" xpos="782.5064" ypos="132.0687" zpos="-372.1649"  type="leag.soto.hom.anf.growing.skin.hom" GUID="RXIOBmb36kav0OHHw69TLQ==" iconFile="Data/Images/Icons/Blank.png"/>
+        <POI MapID="1510" xpos="782.5064" ypos="132.0687" zpos="-372.1649"  type="leag.soto.hom.anf.growing.skin.hom" GUID="ySpjhBGue0uB+ZtozXIB5Q==" iconFile="Data/Images/Icons/Blank.png"/>
         <POI MapID="1510" xpos="268.18" ypos="355.819" zpos="463.073"       type="leag.soto.hom.anf.growing.skin.rifts" GUID="MG1I090QP0CjVELZzQFXJA=="/>
         <POI MapID="1510" xpos="-878.833" ypos="425.022" zpos="-183.349"    type="leag.soto.hom.anf.growing.skin.rifts" GUID="IAg2diZfhkiNSyTcOFE67w=="/>
         <POI MapID="1510" xpos="-498.498" ypos="459.499" zpos="205.302"     type="leag.soto.hom.anf.growing.skin.rifts" GUID="c5NcreyC3UKWTXZV/Q4Wrw=="/>
