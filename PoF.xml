@@ -1,5 +1,112 @@
 <OverlayData>
     <POIs>
+        <!-- CRYSTAL DESERT -->
+        <Trail type="leag.pof.desert.griffon.beastmaster" trailData="Data/PoF/Griffon/Beastmaster Ghazal.trl"/>
+        <POI MapID="1248" xpos="130.2154" ypos="3.583662" zpos="498.0376" type="leag.pof.desert.griffon.beastmaster.icon" GUID="bsF2rAWBlkap1U7Q/N2bug=="/>
+        <POI MapID="1248" xpos="-272.1081" ypos="65.95922" zpos="398.2905" type="leag.pof.desert.griffon.beastmaster.jackal" GUID="uN8Hg1qegUCMCCwvJXqjqQ=="/>
+        <POI MapID="1248" xpos="130.2154" ypos="3.583662" zpos="498.0376" type="leag.pof.desert.griffon.beastmaster.wp" GUID="X6XPt9kKCEWaWF/LZO0OGQ==" copy="[&amp;BMMKAAA=]" copy-message="Vehtendi Waypoint"/>
+
+        <Trail type="leag.pof.desert.griffon.seeker" trailData="Data/PoF/Griffon/Seeker Kandake.trml"/>
+        <POI MapID="1248" xpos="1239.229" ypos="55.44413" zpos="-610.914" type="leag.pof.desert.griffon.seeker.icon" GUID="Af5n+tnFCEGo1YBYKt7kfw=="/>
+        <POI MapID="1248" xpos="563.2889" ypos="75.62406" zpos="-744.2348" type="leag.pof.desert.griffon.seeker.skimmer" GUID="pHqbWrD5CUWBK248QFr0SQ=="/>
+        <POI MapID="1248" xpos="1106.5" ypos="42.78711" zpos="-607.2245" type="leag.pof.desert.griffon.seeker.jackal" GUID="BC//aZoPB0K9S7RB5BOnMg=="/>
+        <Trail type="leag.pof.desert.griffon.seeker" trailData="Data/PoF/Griffon/Sunspear Sanctuary.trl"/>
+        <POI MapID="1248" xpos="1247.392" ypos="76.90961" zpos="-622.9961" type="leag.pof.desert.griffon.seeker.jackal" GUID="fvEJop2y6EieJEiKXVY0pg=="/>
+        <POI MapID="1248" xpos="1386.922" ypos="95.23486" zpos="-637.0114" type="leag.pof.desert.griffon.seeker.springer" GUID="Qn9F1ppiqEKgMGzch7Cp4g=="/>
+        <POI MapID="1248" xpos="1429.958" ypos="154.403" zpos="-666.9971" type="leag.pof.desert.griffon.ss.icon" GUID="YCyJpC2n9kWKCWItcHnEcA==" tip-name="Sunspear Sanctuary"/>
+
+        <Trail type="leag.pof.desert.griffon.dh.loyalty" trailData="Data/PoF/Griffon/To Nayrim.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="12" color="FF6A00"/>
+        <Trail type="leag.pof.desert.griffon.dh.loyalty" trailData="Data/PoF/Griffon/Nayrim.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="12" color="FF6A00"/>
+        <POI MapID="1211" xpos="604.9644" ypos="141.7467" zpos="-678.939" type="leag.pof.desert.griffon.dh.loyalty" GUID="DyEHjIfrDESHDUezy7E+kA==" iconFile="Data/Images/Griffon/Nayrim.png"/>
+        <POI MapID="1211" xpos="89.38326" ypos="115.4862" zpos="-533.8238" type="leag.pof.desert.griffon.dh.loyalty" GUID="NN9r7GrGZkGjHt96Khnjhw==" mapDisplaySize="32"/>
+        <Trail type="leag.pof.desert.griffon.dh.bird" trailData="Data/PoF/Griffon/Bird Feed.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="8" color="FFFF00"/>
+        <POI MapID="1211" xpos="499.74" ypos="201.024" zpos="231.918" type="leag.pof.desert.griffon.dh.bird" GUID="8s3NvWSySku3YMUTIA6KQA=="/>
+        <Trail type="leag.pof.desert.griffon.dh.survival" trailData="Data/PoF/Griffon/Survival Supplies.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="8" color="FFFF00"/>
+        <POI MapID="1211" xpos="540.681" ypos="151.712" zpos="-620.555" type="leag.pof.desert.griffon.dh.survival" GUID="hDJar8iIAE2fTdVGL4b4iQ=="/>
+        <POI MapID="1211" xpos="-70.00077" ypos="242.3273" zpos="374.5233" type="leag.pof.desert.griffon.dh.survival" GUID="TZLMtlCPgUOfA7hQWOk/AQ=="/>
+        <POI MapID="1211" xpos="-184.568" ypos="292.166" zpos="-128.195" type="leag.pof.desert.griffon.dh.warmed" GUID="1QLNka30qU2x/dSGWwl+tw=="/>
+        <POI MapID="1211" xpos="131.631" ypos="250.915" zpos="-359.644" type="leag.pof.desert.griffon.dh.crusty" GUID="T6Hk5JIwkkqXt6uoeqxjtA=="/>
+        <POI MapID="1211" xpos="-598.949" ypos="340.218" zpos="124.802" type="leag.pof.desert.griffon.dh.rough" GUID="glCW1kPtPk65Kuqfl8LA8Q=="/>
+        <POI MapID="1211" xpos="35.39604" ypos="336.1419" zpos="215.1726" type="leag.pof.desert.griffon.dh.vibrant" GUID="J2c38A+2CUmFuIJrM8y8ug=="/>
+        <POI MapID="1211" xpos="-992.6693" ypos="234.4347" zpos="-350.0227" type="leag.pof.desert.griffon.dh.damp" GUID="oBXfbqD6AkqpHBmn41q2Aw=="/>
+
+        <POI MapID="1210" xpos="1232.38" ypos="189.2212" zpos="443.6308" type="leag.pof.desert.griffon.co.honesty" GUID="YlSaXUE2V0uolSkabG60FQ=="/>
+        <Trail type="leag.pof.desert.griffon.co.goddess" trailData="Data/PoF/Griffon/Icon of the Goddess.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="8" color="FFFF00"/>
+        <POI MapID="1210" xpos="708.4247" ypos="124.1006" zpos="111.1122" type="leag.pof.desert.griffon.co.goddess" GUID="iGQuy5TwW0OVOoZ6oQ2kig=="/>
+        <Trail type="leag.pof.desert.griffon.co.tithe" trailData="Data/PoF/Griffon/Sunspear Tithe.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="8" color="FFFF00"/>
+        <POI MapID="1210" xpos="-353.7729" ypos="8.613843" zpos="-345.2439" type="leag.pof.desert.griffon.co.tithe" GUID="Yg9M7RsP80yadr2Ctetqdg=="/>
+        <POI MapID="1210" xpos="561.5253" ypos="278.2178" zpos="378.4147" type="leag.pof.desert.griffon.co.warmed" GUID="X5qS4mZ+60Kb92BwM5URzg=="/>
+        <POI MapID="1210" xpos="169.2289" ypos="170.6619" zpos="624.1026" type="leag.pof.desert.griffon.co.browned" GUID="e7XQtIphG0KpVvstBiEfKw=="/>
+        <POI MapID="1210" xpos="1235.204" ypos="318.3427" zpos="454.4815" type="leag.pof.desert.griffon.co.lustrous" GUID="rwb+/AI7oEaM49ng+lgfLA=="/>
+        <POI MapID="1210" xpos="744.3954" ypos="159.7151" zpos="-496.1099" type="leag.pof.desert.griffon.co.dusty" GUID="Drw38pihAUOckajbI3rm3g=="/>
+        <POI MapID="1210" xpos="558.2932" ypos="172.4921" zpos="342.8631" type="leag.pof.desert.griffon.co.ridged" GUID="WcZsXhFxike9NwKHT+2WHg=="/>
+
+        <Trail type="leag.pof.desert.griffon.er.justice" trailData="Data/PoF/Griffon/Field Foreman Erran.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="12" color="FF6A00"/>
+        <POI MapID="1228" xpos="241.8165" ypos="2.538332" zpos="-172.5836" type="leag.pof.desert.griffon.er.justice" GUID="KHA2scP3aEO+v6ZVe4E/MA==" iconFile="Data/Images/Griffon/Field Foreman Erran.png"/>
+        <POI MapID="1228" xpos="386.3093" ypos="4.572479" zpos="-897.4307" type="leag.pof.desert.griffon.er.justice" GUID="qjybdwPDc0a23z/bwzHpCQ==" iconFile="Data/Images/Griffon/Warden Jabari.png"/>
+        <POI MapID="1228" xpos="-833.9985" ypos="99.27119" zpos="890.6085" type="leag.pof.desert.griffon.er.honor" GUID="pHlxwEm4okGHlHELrgGX9w=="/>
+        <POI MapID="1228" xpos="-1028.969" ypos="16.18268" zpos="-618.113" type="leag.pof.desert.griffon.er.humility" GUID="j0yO0SAf1kyqeRGPAWhc3A=="/>
+
+        <Trail type="leag.pof.desert.griffon.er.materials" trailData="Data/PoF/Griffon/Relic Preservation Materials.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="12" color="FFFF00"/>
+        <POI MapID="1228" xpos="480.7241" ypos="102.0876" zpos="909.0302" type="leag.pof.desert.griffon.er.materials" GUID="bPYrYJM2zUy5960tj6yUtQ=="/>
+
+        <Trail type="leag.pof.desert.griffon.er.maps" trailData="Data/PoF/Griffon/Maps to the Outpost.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="12" color="FFFF00"/>
+        <POI MapID="1228" xpos="381.8333" ypos="45.01638" zpos="153.849" type="leag.pof.desert.griffon.er.maps" GUID="sM7/JBN+E0Gj1eAkBs2udA=="/>
+
+        <POI MapID="1228" xpos="-35.56011" ypos="125.5788" zpos="51.7565" type="leag.pof.desert.griffon.er.warmed" GUID="hZziMVcFYE2E2TzXiH4lnw=="/>
+        <POI MapID="1228" xpos="-386.7717" ypos="93.36281" zpos="-281.1636" type="leag.pof.desert.griffon.er.rocky" GUID="izZ1f62ssEGs4BM7I/8BQA=="/>
+        <POI MapID="1228" xpos="329.088" ypos="85.64008" zpos="-119.863" type="leag.pof.desert.griffon.er.azure" GUID="oVcGrnY09ECVGhGLUWFGWw=="/>
+
+        <Trail type="leag.pof.desert.griffon.td.valor" trailData="Data/PoF/Griffon/Redeemer Kossan.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="12" color="FF6A00"/>
+        <POI MapID="1226" xpos="-418.4776" ypos="284.6138" zpos="53.34298" type="leag.pof.desert.griffon.td.valor" GUID="U0BkeDNSDU65iIJJvakqBQ=="/>
+        <POI MapID="1226" xpos="-671.5193" ypos="312.638" zpos="364.4241" type="leag.pof.desert.griffon.td.compassion" GUID="161EsXL/bUy2TarwLRLIXw=="/>
+
+        <Trail type="leag.pof.desert.griffon.td.flags" trailData="Data/PoF/Griffon/Ancient Sunspear Flags.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="12" color="FFFF00"/>
+        <POI MapID="1226" xpos="897.2391" ypos="253.2111" zpos="-198.1188" type="leag.pof.desert.griffon.td.flags" GUID="vtEAURMUCk6Pz5hMU94pCw=="/>
+
+        <Trail type="leag.pof.desert.griffon.td.lights" trailData="Data/PoF/Griffon/Prayer Lights.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="12" color="FFFF00"/>
+        <POI MapID="1226" xpos="205.8672" ypos="7.406459" zpos="1329.12" type="leag.pof.desert.griffon.td.lights" GUID="1ODSptFYAk+DNvuAJtbVDQ=="/>
+        <POI MapID="1226" xpos="228.0402" ypos="420.0611" zpos="-78.17657" type="leag.pof.desert.griffon.td.warmed" GUID="lqbEDr2QlE2o7WwN4itQzw=="/>
+        <POI MapID="1226" xpos="329.9612" ypos="391.3696" zpos="180.6863" type="leag.pof.desert.griffon.td.dark" GUID="nSf5t3chiUmKn7aWlAx0og=="/>
+        <POI MapID="1226" xpos="5.601793" ypos="347.8055" zpos="464.8593" type="leag.pof.desert.griffon.td.pale" GUID="9RxHEHTpEEG0J9sLv6roQA=="/>
+        <POI MapID="1226" xpos="-129.2773" ypos="325.1065" zpos="145.6379" type="leag.pof.desert.griffon.td.mottled" GUID="r6q+Iazxu0qYFG1aAU6S2Q=="/>
+
+        <Trail type="leag.pof.desert.griffon.dov.sacrifice" trailData="Data/PoF/Griffon/First Spear Kitur.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="12" color="FF6A00"/>
+        <POI MapID="1248" xpos="370.6402" ypos="92.82643" zpos="-451.529" type="leag.pof.desert.griffon.dov.sacrifice" GUID="sFf1WPB+oU6/ZKpfppO3RQ==" iconFile="Data/Images/Griffon/First Spear Kitur.png"/>
+
+        <Trail type="leag.pof.desert.griffon.dov.tools" trailData="Data/PoF/Griffon/Stone-Carving Tools.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="12" color="FFFF00"/>
+        <POI MapID="1248" xpos="-1215.722" ypos="62.95548" zpos="93.00304" type="leag.pof.desert.griffon.dov.tools" GUID="tlA/5K3L0U2I5Kh1CnV8lw=="/>
+        <POI MapID="1248" xpos="-1077.058" ypos="139.6246" zpos="372.1656" type="leag.pof.desert.griffon.dov.springer" GUID="YGVyTweoxkGKSXVG3PVhAw=="/>
+        <POI MapID="1248" xpos="-1210.514" ypos="55.71109" zpos="103.9726" type="leag.pof.desert.griffon.dov.springer" GUID="uIAmSJBK5Uy0lDWKk5+CMg=="/>
+
+        <Trail type="leag.pof.desert.griffon.dov.bribe" trailData="Data/PoF/Griffon/Guard Bribe.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="12" color="FFFF00"/>
+        <POI MapID="1248" xpos="208.8201" ypos="66.04371" zpos="-687.535" type="leag.pof.desert.griffon.dov.bribe" GUID="g0cJcljUDk234emPDpnkDg=="/>
+        <POI MapID="1248" xpos="1410.638" ypos="275.2039" zpos="-805.4653" type="leag.pof.desert.griffon.dov.warmed" GUID="ozXQPoe/CEaAJSuxLnKOQg=="/>
+        <POI MapID="1248" xpos="1287.802" ypos="281.502" zpos="-518.0086" type="leag.pof.desert.griffon.dov.cracked" GUID="hy17007oIUWzXR2gz1kx4A=="/>
+        <POI MapID="1248" xpos="1316.57" ypos="209.955" zpos="-129.9894" type="leag.pof.desert.griffon.dov.polished" GUID="0Q3kECW6Fkq1dty7ZQ7Bsg=="/>
+        <POI MapID="1248" xpos="990.1327" ypos="199.761" zpos="-550.0911" type="leag.pof.desert.griffon.dov.ruddy" GUID="XJkVXG8/00atkMtlhDWIVA=="/>
+        <POI MapID="1248" xpos="1019.36" ypos="133.527" zpos="-807.0607" type="leag.pof.desert.griffon.dov.charged" GUID="ye2GgUU/EEG8hJ6DPerZmA=="/>
+
+        <Trail type="leag.pof.desert.griffon.sw.trail" trailData="Data/PoF/Griffon/Sunspear Wisdom.trl" texture="Data/Images/Trails/Trail Pointer - Small.png" inGameVisibility="1" mapDisplaySize="12"/>
+        <POI MapID="1256" xpos="746.563" ypos="141.012" zpos="205.264" type="leag.pof.desert.griffon.sw.icon" GUID="pxPPe2kNmEWhTNdrJjimyQ=="/>
+        <POI MapID="1256" xpos="675.798" ypos="129.248" zpos="158.434" type="leag.pof.desert.griffon.sw.icon" GUID="KtCwd0tcMEu3gByupfByRA=="/>
+        <POI MapID="1256" xpos="561.645" ypos="141.715" zpos="242.054" type="leag.pof.desert.griffon.sw.icon" GUID="lMQVTkRkGUKk/aBd2BGEsA=="/>
+        <POI MapID="1256" xpos="416.948" ypos="147.761" zpos="194.712" type="leag.pof.desert.griffon.sw.icon" GUID="8Zu/3DRuG0eJ5yip3+Vcig=="/>
+        <POI MapID="1256" xpos="425.821" ypos="2.95663" zpos="201.577" type="leag.pof.desert.griffon.sw.icon" GUID="qkIWHkD1NkGK2WSEObH9wQ=="/>
+        <POI MapID="1256" xpos="444.01" ypos="13.6791" zpos="331.755" type="leag.pof.desert.griffon.sw.icon" GUID="TlNCdtU/Q0CHLvZmL849/w=="/>
+        <POI MapID="1256" xpos="709.763" ypos="16.3648" zpos="337.412" type="leag.pof.desert.griffon.sw.icon" GUID="RGTIBoWT5k6/RxlPKgsxRQ=="/>
+        <POI MapID="1256" xpos="801.836" ypos="2.76424" zpos="364.824" type="leag.pof.desert.griffon.sw.icon" GUID="0uQiAx0bAUWi1vI7fLz01w=="/>
+        <POI MapID="1256" xpos="456.29" ypos="2.62137" zpos="-3.60999" type="leag.pof.desert.griffon.sw.icon" GUID="UisGbsjf9kq/eS8ALLJCSg=="/>
+        <POI MapID="1256" xpos="681.881" ypos="3.60772" zpos="-82.0703" type="leag.pof.desert.griffon.sw.icon" GUID="FItM6YiD2U+VJt2mZtDAAA=="/>
+        
+        <POI MapID="1256" xpos="747.457" ypos="2.95541" zpos="334.798" type="leag.pof.desert.griffon.sw.springer" GUID="Cqfp83j8X0mokm6PvbXleA=="/>
+        <POI MapID="1256" xpos="459.584" ypos="3.45283" zpos="338.866" type="leag.pof.desert.griffon.sw.springer" GUID="eH0C+JyVtUCtrOR5Aae3HA=="/>
+        <POI MapID="1256" xpos="446.59" ypos="2.95684" zpos="242.155" type="leag.pof.desert.griffon.sw.raptor" GUID="0YvJSbsFS0GUXxEGDnCuDw=="/>
+        <POI MapID="1256" xpos="730.38" ypos="140.537" zpos="135.767" type="leag.pof.desert.griffon.sw.raptor" GUID="sNacY3GnC0KeyBxslq965A=="/>
+        <POI MapID="1256" xpos="730.38" ypos="142.537" zpos="135.767" type="leag.pof.desert.griffon.sw.glider" GUID="uwxoQ4WimUivgjSVfLxBww=="/>
+
+
+
         <!-- CRYSTAL OASIS -->
         <!-- Bleached Bones -->
         <Trail type="leag.pof.oasis.bones.1" trailData="Data/PoF/Bleached Bones 1.trl"/>

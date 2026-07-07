@@ -33,7 +33,7 @@
                     <MarkerCategory name="5" DisplayName="Five" iconFile="Data/Images/Numbers/5.png" heightOffset="3.0"/>
                 </MarkerCategory>
                 <MarkerCategory name="seeker" DisplayName="Seeker of Truth and Knowledge [H]" achievementId="3908">
-                    <MarkerCategory name="book" DisplayName="Toggle Books" iconFile="Data/Images/Orb - White.png" mapDisplaySize="12" heightOffset="-0.5"  minSize="6" maxSize="8" fadeNear="2400" fadeFar="4800"/>
+                    <MarkerCategory name="book" DisplayName="Books" iconFile="Data/Images/Orb - White.png" mapDisplaySize="12" heightOffset="-0.5"  minSize="6" maxSize="8" fadeNear="2400" fadeFar="4800"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                     </MarkerCategory>
@@ -62,13 +62,122 @@
 
             <!-- Taimi Contact Points https://wiki.guildwars2.com/wiki/Contact_Point -->
 
+            <MarkerCategory name="desert" DisplayName="Crystal Desert" texture="Data/Images/Trails/Trail Pointer - Small.png">
+                <MarkerCategory name="griffon" DisplayName="Griffon">
+                    <MarkerCategory name="req" IsSeparator="1" DisplayName="REQs: PoF Story Completion"/>
+
+                    <MarkerCategory name="beastmaster" DisplayName="Beastmaster Ghazal">
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Griffon/Beastmaster Ghazal.png" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                        <MarkerCategory name="mounts" IsSeparator="1" DisplayName="MOUNTS"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="Map Zone"/>
+                        <MarkerCategory name="dov" DisplayName="Domain of Vabbi"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="seeker" DisplayName="Seeker Kandake">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Griffon/Seeker Kandake.png" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="mounts" IsSeparator="1" DisplayName="MOUNTS"/>
+                        <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
+                        <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="os" IsSeparator="1" DisplayName="Open Skies"/>
+
+                    <MarkerCategory name="ss" DisplayName="Sunspear Sanctuary" achievementId="3736">
+                        <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
+                        <MarkerCategory name="icon" DisplayName="Icon" iconFile="Data/Images/Griffon/Sunspear Sanctuary.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="dh" DisplayName="Desert Highlands" achievementId="3856" fadeNear="12000" fadeFar="15000">
+                        <MarkerCategory name="relics" IsSeparator="1" DisplayName="SUNSPEAR RELICS"/>
+                        <MarkerCategory name="loyalty" DisplayName="Rune of Loyalty" iconFile="Data/Images/Griffon/Rune of Loyalty.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="bird" DisplayName="Bird Food" iconFile="Data/Images/Griffon/Bird Food.png" inGameVisibility="0" miniMapVisibility="0" mapDisplaySize="32"/>
+                        <MarkerCategory name="survival" DisplayName="Survival Supplies" iconFile="Data/Images/Griffon/Survival Supplies.png" inGameVisibility="0" miniMapVisibility="0" mapDisplaySize="32"/>
+                        <MarkerCategory name="spearmarshal" DisplayName="The Last Spearmarshal" iconFile="Data/Images/Griffon/Sunspear Sanctuary.png" inGameVisibility="0" miniMapVisibility="0" mapDisplaySize="32"/>
+                        <MarkerCategory name="warmed" DisplayName="Warmed Egg" iconFile="Data/Images/Griffon/Warmed Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="crusty" DisplayName="Crusty Egg" iconFile="Data/Images/Griffon/Crusty Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="rough" DisplayName="Rough Egg" iconFile="Data/Images/Griffon/Rough Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="vibrant" DisplayName="Vibrant Egg" iconFile="Data/Images/Griffon/Vibrant Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="damp" DisplayName="Damp Egg" iconFile="Data/Images/Griffon/Damp Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="co" DisplayName="Crystal Oasis" achievementId="3634" fadeNear="12000" fadeFar="15000">
+                        <MarkerCategory name="relics" IsSeparator="1" DisplayName="SUNSPEAR RELICS"/>
+                        <MarkerCategory name="honesty" DisplayName="Rune of Honesty" iconFile="Data/Images/Griffon/Rune of Honesty.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="goddess" DisplayName="Icon of the Goddess" iconFile="Data/Images/Griffon/Icon of the Goddess.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="tithe" DisplayName="Sunspear Tithe" iconFile="Data/Images/Griffon/Tithe.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="spearmarshal" DisplayName="The Last Spearmarshal" iconFile="Data/Images/Griffon/Sunspear Sanctuary.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="warmed" DisplayName="Warmed Egg" iconFile="Data/Images/Griffon/Damp Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="browned" DisplayName="Browned Egg" iconFile="Data/Images/Griffon/Rough.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="lustrous" DisplayName="Lustrous Eegg" iconFile="Data/Images/Griffon/Vibrant Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="dusty" DisplayName="Dusty Egg" iconFile="Data/Images/Griffon/Crusty Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="ridged" DisplayName="Ridged Egg" iconFile="Data/Images/Griffon/Warmed Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="er" DisplayName="Elon Riverlands" achievementId="3834" fadeNear="12000" fadeFar="15000">
+                        <MarkerCategory name="relics" IsSeparator="1" DisplayName="SUNSPEAR RELICS"/>
+                        <MarkerCategory name="justice" DisplayName="Rune of Justice" iconFile="Data/Images/Griffon/Rune of Justice.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="honor" DisplayName="Rune of Honor" iconFile="Data/Images/Griffon/Rune of Honor.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="humility" DisplayName="Rune of Humility" iconFile="Data/Images/Griffon/Rune of Humility.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="materials" DisplayName="Relic Preservation Materials" iconFile="Data/Images/Griffon/Relic Preservation Materials.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="maps" DisplayName="Maps to the Outpost" iconFile="Data/Images/Griffon/Maps to the Outpost.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="spearmarshal" DisplayName="The Last Spearmarshal" iconFile="Data/Images/Griffon/Sunspear Sanctuary.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="warmed" DisplayName="Warmed Egg" iconFile="Data/Images/Griffon/Rough Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="rocky" DisplayName="Rocky Egg" iconFile="Data/Images/Griffon/Crusty Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="azure" DisplayName="Azure Egg" iconFile="Data/Images/Griffon/Damp Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="td" DisplayName="The Desolation" achievementId="3856" fadeNear="12000" fadeFar="15000">
+                        <MarkerCategory name="relics" IsSeparator="1" DisplayName="SUNSPEAR RELICS"/>
+                        <MarkerCategory name="valor" DisplayName="Rune of Valor" iconFile="Data/Images/Griffon/Rune of Valor.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="compassion" DisplayName="Virzak, the Rune of Compassion" iconFile="Data/Images/Griffon/Rune of Compassion.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="flags" DisplayName="Ancient Sunspear Flags" iconFile="Data/Images/Griffon/Ancient Sunspear Flags.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="lights" DisplayName="Prayer Lights" iconFile="Data/Images/Griffon/Prayer Lights.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="spearmarshal" DisplayName="The Last Spearmarshal" iconFile="Data/Images/Griffon/Sunspear Sanctuary.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="warmed" DisplayName="Warmed Egg" iconFile="Data/Images/Griffon/Vibrant Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="dark" DisplayName="Dark Egg" iconFile="Data/Images/Griffon/Rough Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="pale" DisplayName="Pale Egg" iconFile="Data/Images/Griffon/Damp Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="mottled" DisplayName="Mottled Egg" iconFile="Data/Images/Griffon/Crusty Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="dov" DisplayName="Domain of Vabbi" achievementId="3756" fadeNear="12000" fadeFar="15000">
+                        <MarkerCategory name="relics" IsSeparator="1" DisplayName="SUNSPEAR RELICS"/>
+                        <MarkerCategory name="sacrifice" DisplayName="Rune of Sacrifice" iconFile="Data/Images/Griffon/Rune of Sacrifice.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="tools" DisplayName="Stone-Carving Tools" iconFile="Data/Images/Griffon/Stone-Carving Tools.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="bribe" DisplayName="Guard Bribe" iconFile="Data/Images/Griffon/Guard Bribe.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="spearmarshal" DisplayName="The Last Spearmarshal" iconFile="Data/Images/Griffon/Sunspear Sanctuary.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
+                        <MarkerCategory name="warmed" DisplayName="Warmed Egg" iconFile="Data/Images/Griffon/Crusty Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="cracked" DisplayName="Cracked Egg" iconFile="Data/Images/Griffon/Warmed Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="polished" DisplayName="Polished Egg" iconFile="Data/Images/Griffon/Damp Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="ruddy" DisplayName="Ruddy Egg" iconFile="Data/Images/Griffon/Rough Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="charged" DisplayName="Charged Egg" iconFile="Data/Images/Griffon/Vibrant Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="mounts" IsSeparator="1" DisplayName="MOUNTS"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+
+                    <MarkerCategory name="sw" DisplayName="Sunspear Wisdom" achievementId="3662">
+                        <MarkerCategory name="writings" IsSeparator="1" DisplayName="WRITINGS OF THE SPEARMARSHAL"/>
+                        <MarkerCategory name="icon" DisplayName="Vol. 1-10" iconFile="Data/Images/Griffon/Writings of the Spearmarshal.png"/>
+                        <MarkerCategory name="trail" DisplayName="Trail"/>
+                        <MarkerCategory name="mounts" IsSeparator="1" DisplayName="MOUNTS"/>
+                        <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
+                        <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
+                        <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
+                    </MarkerCategory>
+
+                </MarkerCategory>
+            </MarkerCategory>
+
             <MarkerCategory name="oasis" DisplayName="Crystal Oasis">
 
                 <!-- Bleached Bones -->
                 <MarkerCategory name="bones" DisplayName="Bleached Bones" achievementId="3862">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
@@ -85,8 +194,8 @@
                 <!-- Lost Lore of the Crystal Oasis -->
                 <MarkerCategory name="lloco" DisplayName="Lost Lore of Crystal Oasis" achievementId="3625">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
@@ -103,8 +212,8 @@
 
                 <MarkerCategory name="pilgrims" DisplayName="Lost Pilgrims" achievementId="3551">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
@@ -116,7 +225,7 @@
 
                 <MarkerCategory name="junkyard" DisplayName="Junkyard Weaponsmith" achievementId="3614">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="makeshift" DisplayName="Makeshift Weapons" iconFile="Data/Images/Icons/Orb - Yellow.png" heightOffset="-0.5" mapDisplaySize="12" maxSize="8" fadeNear="1200" fadeFar="2400"/>
                 </MarkerCategory>
 
@@ -126,8 +235,8 @@
                 <!-- A Family Heirloom -->
                 <MarkerCategory name="heirloom" DisplayName="A Family Heirloom" achievementId="3689">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                     </MarkerCategory>
@@ -138,7 +247,7 @@
 
                 <MarkerCategory name="carrot" DisplayName="Carrot Collector" achievementId="3766">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
                     </MarkerCategory>
@@ -146,8 +255,8 @@
 
                 <MarkerCategory name="remnants" DisplayName="Dwarven Remnants" achievementId="3596" texture="Data/Images/Trails/Trail Marker 1 Shaded Glow.png">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
                         <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
@@ -170,7 +279,7 @@
 
                 <MarkerCategory name="hunt" DisplayName="Hidden Carrot Hunt" achievementId="3896" mapDisplaySize="8">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
@@ -179,8 +288,8 @@
 
                 <MarkerCategory name="llodh" DisplayName="Lost Lore of Desert Highlands" achievementId="3594">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
                         <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
@@ -198,7 +307,7 @@
 
                 <MarkerCategory name="rune" DisplayName="Rune-Locked Doors">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
@@ -226,7 +335,7 @@
 
                 <MarkerCategory name="bowl" DisplayName="The Curious Bowl" achievementId="3703" mapDisplaySize="8">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
                     </MarkerCategory>
@@ -234,8 +343,8 @@
 
                 <MarkerCategory name="dolyak" DisplayName="The Lost Dolyak" achievementId="3912" mapDisplaySize="8">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="event" DisplayName="Toggle Event Marker" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
 
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
@@ -251,8 +360,8 @@
                 <!-- Court is Adjourned -->
                 <MarkerCategory name="court" DisplayName="Court is Adjourned" achievementId="3824">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" maxSize="16" mapDisplaySize="128" inGameVisibility="0"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" maxSize="16" mapDisplaySize="128" inGameVisibility="0"/>
                     <MarkerCategory name="judges" IsSeparator="1" DisplayName="JUDGES"/>
                     <MarkerCategory name="ejele" DisplayName="High Judge Ejele" iconFile="Data/Images/Swirl - Purple.png" maxSize="16" mapDisplaySize="64" inGameVisibility="0"/>
                     <MarkerCategory name="kulul" DisplayName="High Judge Kulul" iconFile="Data/Images/Swirl - Orange.png" maxSize="16" mapDisplaySize="64" inGameVisibility="0"/>
@@ -262,7 +371,7 @@
                 <!-- Dispersed Energy -->
                 <MarkerCategory name="energy" DisplayName="Dispersed Energy" achievementId="3928" mapDisplaySize="8">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="skimmer" DisplayName="Skimmer" iconFile="Data/Images/Mounts/Mount_Skimmer.png"/>
                         <MarkerCategory name="springer" DisplayName="Springer" iconFile="Data/Images/Mounts/Mount_Springer.png"/>
@@ -272,16 +381,16 @@
                 <!-- Dogs of War -->
                 <MarkerCategory name="dogs" DisplayName="Dogs of War" achievementId="3809">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" maxSize="16" mapDisplaySize="128" inGameVisibility="0"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" maxSize="16" mapDisplaySize="128" inGameVisibility="0"/>
                 </MarkerCategory>
 
 
                 <!-- Lost Lore of the Domain of Vabbi -->
                 <MarkerCategory name="llotdov" DisplayName="Lost Lore of the Domain of Vabbi" achievementId="3555">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
@@ -296,9 +405,9 @@
                 <!-- Praise Joko -->
                 <MarkerCategory name="joko" DisplayName="Praise Joko!" achievementId="3887">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="emote" DisplayName="Toggle Emote" iconFile="Data/Images/Emote - Bow.png"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="emote" DisplayName="Emote" iconFile="Data/Images/Emote - Bow.png"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
                         <MarkerCategory name="raptor" DisplayName="Raptor" iconFile="Data/Images/Mounts/Mount_Raptor.png"/>
@@ -309,8 +418,8 @@
                 <!-- Scourge Buster -->
                 <MarkerCategory name="scourge" DisplayName="Scourge Buster" achievementId="3732">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                     <MarkerCategory name="mount" DisplayName="Mounts" miniMapVisibility="0" minSize="24" maxSize="32">
                         <MarkerCategory name="griffon" DisplayName="Griffon" iconFile="Data/Images/Mounts/Mount_Griffon.png"/>
                         <MarkerCategory name="jackal" DisplayName="Jackal" iconFile="Data/Images/Mounts/Mount_Jackal.png"/>
@@ -332,8 +441,8 @@
                 <MarkerCategory name="augury" DisplayName="Augury Ascended" achievementId="3801"/>
                 <MarkerCategory name="sand" DisplayName="Blood and Sand" iconFile="Data/Images/Yellow Swirl.png" inGameVisibility="0" mapDisplaySize="128" achievementId="3681"/>
                 <MarkerCategory name="defector" DisplayName="Defector Protector" achievementId="3611">
-                    <MarkerCategory name="event" DisplayName="Toggle Event" iconFile="Data/Images/Yellow Swirl.png" heightOffset="3.0" maxSize="16" mapDisplaySize="128"/>
-                    <MarkerCategory name="exile" DisplayName="Toggle Restless Exiles" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.5" maxSize="16" mapDisplaySize="32"/>
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" heightOffset="3.0" maxSize="16" mapDisplaySize="128"/>
+                    <MarkerCategory name="exile" DisplayName="Restless Exiles" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.5" maxSize="16" mapDisplaySize="32"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="tracker" DisplayName="Equipment Tracker" achievementId="3849">
@@ -343,7 +452,7 @@
                     <MarkerCategory name="gloves" DisplayName="Shadi's Gloves" iconFile="Data/Images/Shadi's Gloves.png" mapDisplaySize="24" inGameVisibility="0"/>
                     <MarkerCategory name="helm" DisplayName="Shadi's Helm" iconFile="Data/Images/Shadi's Helm.png" mapDisplaySize="24" inGameVisibility="0"/>
                     <MarkerCategory name="sword" DisplayName="Shadi's Sword" iconFile="Data/Images/Shadi's Sword.png" mapDisplaySize="24" inGameVisibility="0"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
                 </MarkerCategory>
                 
                 <MarkerCategory name="doppel" DisplayName="Doppel Dropper" achievementId="3571">
@@ -370,9 +479,9 @@
 
                 <MarkerCategory name="flowers" DisplayName="Flowers for Jimoh" achievementId="3706" texture="Data/Images/Trails/Trail Pointer - Small.png">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="talk" DisplayName="Toggle Talk Markers" iconFile="Data/Images/Icons/Talk.png" heightOffset="4.0"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" heightOffset="4.0"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
                     <MarkerCategory name="trail" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Line with Shadow.png"/>
@@ -386,8 +495,8 @@
                 
                 <MarkerCategory name="debris" DisplayName="Forgotten Debris" achievementId="3629">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
                     <MarkerCategory name="trail" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
@@ -400,8 +509,8 @@
 
                 <MarkerCategory name="teleporter" DisplayName="Frequent Forgotten Teleporter" iconFile="Data/Images/Icons/Forgotten Teleporter.png" inGameVisibility="0" achievementId="3826" mapDisplaySize="32">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
                     <MarkerCategory name="teleporters" IsSeparator="1" DisplayName="TELEPORTERS"/>
                     <MarkerCategory name="augury" DisplayName="Augury Rock"/>
                     <MarkerCategory name="east" DisplayName="Vulture Drifts Eastbound"/>
@@ -418,8 +527,8 @@
 
                 <MarkerCategory name="magic" DisplayName="Magic Hunter [H]" achievementId="3669">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
                     <MarkerCategory name="trail" IsSeparator="1" DisplayName="TRAIL SEGMENT"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
@@ -441,7 +550,7 @@
                 <!-- A Soaring Stench -->
                 <MarkerCategory name="stench" DisplayName="A Soaring Stench" achievementId="3670">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
 
                     <MarkerCategory name="air" DisplayName="Glider / Flying Mount">
                         <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" iconSize="0.5"/>
@@ -462,21 +571,21 @@
                 <!-- Acrid Springs Recovery -->
                 <MarkerCategory name="acrid" DisplayName="Acrid Springs Recovery" achievementId="3759">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                 </MarkerCategory>
 
                 <!-- Bone Palace Pinnacle -->
                 <MarkerCategory name="pinnacle" DisplayName="Bone Palace Pinnacle" achievementId="3804">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                 </MarkerCategory>
 
                 <!-- Cleansing Tormented Remnants -->
                 <MarkerCategory name="ctr" DisplayName="Cleansing Tormented Remnants" achievementId="3683">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="remnant" DisplayName="Toggle Remnant Markers" iconFile="Data/Images/Flame - Purple.png" inGameVisibility="0" mapDisplaySize="32"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="remnant" DisplayName="Remnant" iconFile="Data/Images/Flame - Purple.png" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
@@ -491,14 +600,14 @@
                 <!-- Joko's Hidden Chamber -->
                 <MarkerCategory name="jhc" DisplayName="Joko's Hidden Chamber" achievementId="3637" mapDisplaySize="8">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Event Marker" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                 </MarkerCategory>
 
                 <!-- Lost Lore of the Desolation -->
                 <MarkerCategory name="llotd" DisplayName="Lost Lore of the Desolation" achievementId="3633">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
@@ -507,9 +616,9 @@
                 <!-- Path of the Gods -->
                 <MarkerCategory name="potg" DisplayName="Path of the Gods" achievementId="3593">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="emote" DisplayName="Toggle Kneel Marker" iconFile="Data/Images/Emote - Kneel.png" fadeNear="1200" fadeFar="2400"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="emote" DisplayName="Kneel" iconFile="Data/Images/Emote - Kneel.png" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
@@ -521,15 +630,15 @@
                 <!-- Shadow Patroller -->
                 <MarkerCategory name="patroller" DisplayName="Shadow Patroller" achievementId="3677">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="event" DisplayName="Toggle Event Marker" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="event" DisplayName="Event" iconFile="Data/Images/Yellow Swirl.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
                 </MarkerCategory>
 
                 <!-- Shadows Provisions -->
                 <MarkerCategory name="provisions" DisplayName="Shadows Provisions" achievementId="3737">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true" inGameVisibility="1"/>
                     <MarkerCategory name="path" IsSeparator="1" DisplayName="PATH NUMBER"/>
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png" mapDisplaySize="8"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png" mapDisplaySize="8"/>
@@ -547,8 +656,8 @@
                 <!-- The Throne of Bones -->
                 <MarkerCategory name="throne" DisplayName="The Throne of Bones" achievementId="3720">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
-                    <MarkerCategory name="start" DisplayName="Toggle Start Marker" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
-                    <MarkerCategory name="emote" DisplayName="Toggle Sit Marker" iconFile="Data/Images/Emote - Sit.png" fadeNear="1200" fadeFar="2400"/>
+                    <MarkerCategory name="start" DisplayName="Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="128"/>
+                    <MarkerCategory name="emote" DisplayName="Sit" iconFile="Data/Images/Emote - Sit.png" fadeNear="1200" fadeFar="2400"/>
                 </MarkerCategory>
 
             </MarkerCategory>
