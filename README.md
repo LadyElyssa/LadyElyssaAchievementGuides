@@ -24,6 +24,8 @@ Principles
 
 I am happy for people to use any of my trails and markers for their own GW2 projects and just ask that I am attributed accordingly. Please do contact me to let me know as I would also be happy to link to your project.
 
+* [Metal-Marker-Myriad](https://github.com/Metallis/Metal-Marker-Myriad)
+
 This pack currently covers:
 
 ## Achievements ##
