@@ -6,7 +6,7 @@
         <POI MapID="1248" xpos="-272.1081" ypos="65.95922" zpos="398.2905" type="leag.pof.desert.griffon.beastmaster.jackal" GUID="uN8Hg1qegUCMCCwvJXqjqQ=="/>
         <POI MapID="1248" xpos="130.2154" ypos="3.583662" zpos="498.0376" type="leag.pof.desert.griffon.beastmaster.wp" GUID="X6XPt9kKCEWaWF/LZO0OGQ==" copy="[&amp;BMMKAAA=]" copy-message="Vehtendi Waypoint"/>
 
-        <Trail type="leag.pof.desert.griffon.seeker" trailData="Data/PoF/Griffon/Seeker Kandake.trml"/>
+        <Trail type="leag.pof.desert.griffon.seeker" trailData="Data/PoF/Griffon/Seeker Kandake.trl"/>
         <POI MapID="1248" xpos="1239.229" ypos="55.44413" zpos="-610.914" type="leag.pof.desert.griffon.seeker.icon" GUID="Af5n+tnFCEGo1YBYKt7kfw=="/>
         <POI MapID="1248" xpos="563.2889" ypos="75.62406" zpos="-744.2348" type="leag.pof.desert.griffon.seeker.skimmer" GUID="pHqbWrD5CUWBK248QFr0SQ=="/>
         <POI MapID="1248" xpos="1106.5" ypos="42.78711" zpos="-607.2245" type="leag.pof.desert.griffon.seeker.jackal" GUID="BC//aZoPB0K9S7RB5BOnMg=="/>
@@ -43,7 +43,7 @@
 
         <Trail type="leag.pof.desert.griffon.er.justice" trailData="Data/PoF/Griffon/Field Foreman Erran.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="12" color="FF6A00"/>
         <POI MapID="1228" xpos="241.8165" ypos="2.538332" zpos="-172.5836" type="leag.pof.desert.griffon.er.justice" GUID="KHA2scP3aEO+v6ZVe4E/MA==" iconFile="Data/Images/Griffon/Field Foreman Erran.png"/>
-        <POI MapID="1228" xpos="386.3093" ypos="4.572479" zpos="-897.4307" type="leag.pof.desert.griffon.er.justice" GUID="qjybdwPDc0a23z/bwzHpCQ==" iconFile="Data/Images/Griffon/Warden Jabari.png"/>
+        <POI MapID="1228" xpos="386.3093" ypos="4.572479" zpos="-897.4307" type="leag.pof.desert.griffon.er.justice" GUID="qjybdwPDc0a23z/bwzHpCQ=="/>
         <POI MapID="1228" xpos="-833.9985" ypos="99.27119" zpos="890.6085" type="leag.pof.desert.griffon.er.honor" GUID="pHlxwEm4okGHlHELrgGX9w=="/>
         <POI MapID="1228" xpos="-1028.969" ypos="16.18268" zpos="-618.113" type="leag.pof.desert.griffon.er.humility" GUID="j0yO0SAf1kyqeRGPAWhc3A=="/>
 
@@ -72,7 +72,7 @@
         <POI MapID="1226" xpos="-129.2773" ypos="325.1065" zpos="145.6379" type="leag.pof.desert.griffon.td.mottled" GUID="r6q+Iazxu0qYFG1aAU6S2Q=="/>
 
         <Trail type="leag.pof.desert.griffon.dov.sacrifice" trailData="Data/PoF/Griffon/First Spear Kitur.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="12" color="FF6A00"/>
-        <POI MapID="1248" xpos="370.6402" ypos="92.82643" zpos="-451.529" type="leag.pof.desert.griffon.dov.sacrifice" GUID="sFf1WPB+oU6/ZKpfppO3RQ==" iconFile="Data/Images/Griffon/First Spear Kitur.png"/>
+        <POI MapID="1248" xpos="370.6402" ypos="92.82643" zpos="-451.529" type="leag.pof.desert.griffon.dov.sacrifice" GUID="sFf1WPB+oU6/ZKpfppO3RQ==" tip-name="EVENT: Help First Spear Kitur"/>
 
         <Trail type="leag.pof.desert.griffon.dov.tools" trailData="Data/PoF/Griffon/Stone-Carving Tools.trl" texture="Data/Images/Trails/Dashed Line with Shadow.png" inGameVisibility="1" mapDisplaySize="12" color="FFFF00"/>
         <POI MapID="1248" xpos="-1215.722" ypos="62.95548" zpos="93.00304" type="leag.pof.desert.griffon.dov.tools" GUID="tlA/5K3L0U2I5Kh1CnV8lw=="/>

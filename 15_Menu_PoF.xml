@@ -111,7 +111,7 @@
                         <MarkerCategory name="tithe" DisplayName="Sunspear Tithe" iconFile="Data/Images/Griffon/Tithe.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
                         <MarkerCategory name="spearmarshal" DisplayName="The Last Spearmarshal" iconFile="Data/Images/Griffon/Sunspear Sanctuary.png" miniMapVisibility="0" inGameVisibility="0" mapDisplaySize="48"/>
                         <MarkerCategory name="warmed" DisplayName="Warmed Egg" iconFile="Data/Images/Griffon/Damp Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
-                        <MarkerCategory name="browned" DisplayName="Browned Egg" iconFile="Data/Images/Griffon/Rough.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
+                        <MarkerCategory name="browned" DisplayName="Browned Egg" iconFile="Data/Images/Griffon/Rough Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
                         <MarkerCategory name="lustrous" DisplayName="Lustrous Eegg" iconFile="Data/Images/Griffon/Vibrant Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
                         <MarkerCategory name="dusty" DisplayName="Dusty Egg" iconFile="Data/Images/Griffon/Crusty Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
                         <MarkerCategory name="ridged" DisplayName="Ridged Egg" iconFile="Data/Images/Griffon/Warmed Egg.png" maxSize="24" mapDisplaySize="32" heightOffset="0"/>
