@@ -4,6 +4,12 @@
 * Lady Elyssa's Discord for Guild Wars 2 :: [https://discord.gg/t6jMb6qgjB](https://discord.gg/t6jMb6qgjB)
 * Metallis Marker-mancy (MMM) Discord :: [https://discord.gg/p6Ec9q6P8z](https://discord.gg/p6Ec9q6P8z)
 
+## Content Sharing ##
+
+I am happy for people to use any of my trails and markers for their own GW2 projects and just ask that I am attributed accordingly. Please do contact me to let me know as I would also be happy to link to your project.
+
+* [Metal-Marker-Myriad](https://github.com/Metallis/Metal-Marker-Myriad)
+  
 ## Lady Elyssa's Achievement & Collection Guides ##
   
 For more information on Getting Started with either [GW2 TacO](https://www.gw2taco.com/) or [Blish HUD](https://blishhud.com/), see [here](https://github.com/LadyElyssa/LadyElyssaAchievementGuides/wiki/Getting-Started).
@@ -19,12 +25,6 @@ Principles
    * minimising terrain obstacles, like bushes, rocks or trees
    * minimising the need to adjust the camera
    * why jump when you can walk
-
-## Content Sharing ##
-
-I am happy for people to use any of my trails and markers for their own GW2 projects and just ask that I am attributed accordingly. Please do contact me to let me know as I would also be happy to link to your project.
-
-* [Metal-Marker-Myriad](https://github.com/Metallis/Metal-Marker-Myriad)
 
 This pack currently covers:
 
