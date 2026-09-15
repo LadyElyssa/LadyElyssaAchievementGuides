@@ -10,6 +10,7 @@ I am happy for people to use any of my trails and markers for their own GW2 proj
 
 * [GW2-InGame-Helper](https://github.com/Xydroc-IO/GW2-InGame-Helper)
 * [Metal-Marker-Myriad](https://github.com/Metallis/Metal-Marker-Myriad)
+* [Quarry](https://github.com/ArranPell/Quarry)
   
 ## Lady Elyssa's Achievement & Collection Guides ##
   
