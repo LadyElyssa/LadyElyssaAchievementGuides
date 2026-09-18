@@ -8,9 +8,10 @@
 
 I am happy for people to use any of my trails and markers for their own GW2 projects and just ask that I am attributed accordingly. Please do contact me to let me know as I would also be happy to link to your project.
 
-* [GW2-InGame-Helper](https://github.com/Xydroc-IO/GW2-InGame-Helper)
-* [Metal-Marker-Myriad](https://github.com/Metallis/Metal-Marker-Myriad)
-* [Quarry](https://github.com/ArranPell/Quarry)
+* Echoes of Tyria - [Website](https://echoesoftyria.com) - [Github](https://github.com/Quinn80/EchoesUnseen)
+* GW2-InGame-Helper - [Github](https://github.com/Xydroc-IO/GW2-InGame-Helper)
+* Metal-Marker-Myriad - [Github](https://github.com/Metallis/Metal-Marker-Myriad)
+* Quarry - [Github](https://github.com/ArranPell/Quarry)
   
 ## Lady Elyssa's Achievement & Collection Guides ##
   
