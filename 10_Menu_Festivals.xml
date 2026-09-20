@@ -5,7 +5,7 @@
         <MarkerCategory name="festivals" DisplayName="Festivals">
             <MarkerCategory name="fotfw"  DisplayName="Festival of the Four Winds" bh-festival="festivalofthefourwinds">
             <MarkerCategory name="lc"     IsSeparator="1" DisplayName="LABYRINTHINE CLIFFS"/>
-            <MarkerCategory name="aspect" DisplayName="Aspect Gatherer">
+            <MarkerCategory name="aspect" DisplayName="Aspect Gatherer" achievementId="4312">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="dash" DisplayName="Light Dash" iconFile="Data/Images/Festivals/Light Dash.png" heightOffset="0" maxSize="24" alpha="1.0"/>
                 <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
@@ -25,19 +25,19 @@
                 <MarkerCategory name="pull" DisplayName="Lightning Pull" iconFile="Data/Images/Festivals/Lightning Pull.png" heightOffset="0" maxSize="24" alpha="1.0"/>
             </MarkerCategory>
             <MarkerCategory name="effigy" DisplayName="Effigy Extinguisher"/>
-            <MarkerCategory name="man" DisplayName="Man Overboard (Diving Goggles)">
+            <MarkerCategory name="man" DisplayName="Man Overboard (Diving Goggles)" achievementId="4321">
                 <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Diving Goggles.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
             </MarkerCategory>
-            <MarkerCategory name="mag" DisplayName="Master Aspect Gatherer">
+            <MarkerCategory name="mag" DisplayName="Master Aspect Gatherer" achievementId="4322">
                 <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory name="trail" DisplayName="Toggle Trail Segments">
                     <MarkerCategory name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
                     <MarkerCategory name="2" DisplayName="Two" iconFile="Data/Images/Numbers/2.png"/>
                 </MarkerCategory>
             </MarkerCategory>
-            <MarkerCategory name="nolawc" DisplayName="No One Likes a Wet Charr [H]"/>
+            <MarkerCategory name="nolawc" DisplayName="No One Likes a Wet Charr [H]" achievementId="4318"/>
             <MarkerCategory name="slalom" DisplayName="Slalom Skimmer"/>
-            <MarkerCategory name="koo" DisplayName="The Rise and Fall of Kookoochoo [H]">
+            <MarkerCategory name="koo" DisplayName="The Rise and Fall of Kookoochoo [H]" achievementId="4293">
                 <MarkerCategory Name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" heightOffset="0" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="64"/>
                 <MarkerCategory Name="trail" DisplayName="Toggle Trail Segments">
                     <MarkerCategory Name="1" DisplayName="One" iconFile="Data/Images/Numbers/1.png"/>
@@ -69,7 +69,7 @@
                 <MarkerCategory name="evidence" DisplayName="Court Duty: Gathering Evidence" iconFile="Data/Images/Circle with Ears.png" inGameVisibility="0" mapDisplaySize="32"/>
             </MarkerCategory>
             -->
-            <MarkerCategory name="feline" DisplayName="Feline of the Labyrinth" iconFile="Data/Images/Circle with Ears.png" inGameVisibility="0" mapDisplaySize="32"/>
+            <MarkerCategory name="feline" DisplayName="Feline of the Labyrinth" iconFile="Data/Images/Circle with Ears.png" inGameVisibility="0" mapDisplaySize="32" achievementId="6042"/>
 
             <MarkerCategory name="maleficence" DisplayName="Mad Maleficence" texture="Data/Images/Trails/Crystal Dash.png" animSpeed="0.8" achievementId="3922">
                 <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
@@ -408,13 +408,13 @@
                     </MarkerCategory>
                 </MarkerCategory>
 
-            <MarkerCategory name="tntss" DisplayName="The Night Time Stood Still"/>
+            <MarkerCategory name="tntss" DisplayName="The Night Time Stood Still" achievementId="7647"/>
         </MarkerCategory>
 
         <!-- WINTERSDAY -->
         <MarkerCategory name="wintersday"  DisplayName="Wintersday" texture="Data/Images/Trails/Trail Pointer - Wintersday.png" bh-festival="wintersday">
-            <MarkerCategory name="finders" DisplayName="Finders Keepers"/>
-            <MarkerCategory name="grawnk" DisplayName="Grawnk Munch">
+            <MarkerCategory name="finders" DisplayName="Finders Keepers" achievementId="1291"/>
+            <MarkerCategory name="grawnk" DisplayName="Grawnk Munch"  achievementId="2049">
                 <MarkerCategory name="home" DisplayName="Home Instance" mapDisplaySize="8"/>
                 <MarkerCategory name="chef" DisplayName="Sous-Chef Seimur Oxbone" iconFile="Data/Images/Icons/Circle - Wintersday.png" mapDisplaySize="32" inGameVisibility="0">
                     <MarkerCategory name="mon" IsSeparator="1" DisplayName="MONDAY"/>
@@ -434,8 +434,8 @@
                 </MarkerCategory>
             </MarkerCategory>
 
-            <MarkerCategory name="ftc" DisplayName="For the Children!">                
-                <MarkerCategory name="human" DisplayName="Small Doll">
+            <MarkerCategory name="ftc" DisplayName="For the Children!" achievementId="2030">
+                <MarkerCategory name="human" DisplayName="Small Doll" achievementBit="0">
                     <MarkerCategory name="gendarran" IsSeparator="1" DisplayName="GENDARRAN FIELDS"/>
                     <MarkerCategory name="swashbuckler" DisplayName="Swashbuckler's Cove"/>
                     <MarkerCategory name="la" IsSeparator="1" DisplayName="LION'S ARCH"/>
@@ -447,7 +447,7 @@
                     <MarkerCategory name="skipping" DisplayName="Skipping Stones"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="asura" DisplayName="Sparkling Tinsel">
+                <MarkerCategory name="asura" DisplayName="Sparkling Tinsel" achievementBit="1">
                     <MarkerCategory name="caledon" IsSeparator="1" DisplayName="CALEDON FOREST"/>
                     <MarkerCategory name="spekk" DisplayName="Spekk's Laboratory"/>
                     <MarkerCategory name="metrica" IsSeparator="1" DisplayName="METRICA PROVINCE"/>
@@ -458,7 +458,7 @@
                     <MarkerCategory name="hexfoundry" DisplayName="Hexfoundry Unhinged"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="sylvari" DisplayName="Purple Ball">
+                <MarkerCategory name="sylvari" DisplayName="Purple Ball" achievementBit="2">
                     <MarkerCategory name="caledon" IsSeparator="1" DisplayName="CALEDON FOREST"/>
                     <MarkerCategory name="spelunker" DisplayName="Spelunker's Delve"/>
                     <MarkerCategory name="morgan" DisplayName="Morgan's Leap"/>
@@ -467,7 +467,7 @@
                     <MarkerCategory name="hidden" DisplayName="Hidden Garden"/> 
                 </MarkerCategory>
 
-                <MarkerCategory name="norn" DisplayName="Rocking Horse">
+                <MarkerCategory name="norn" DisplayName="Rocking Horse" achievementBit="3">
                     <MarkerCategory name="wayfarer" IsSeparator="1" DisplayName="WAYFARER FOOTHILLS"/>
                     <MarkerCategory name="shaman" DisplayName="Shaman's Rookery"/>
                     <MarkerCategory name="wurmhowl" DisplayName="Wurmhowl Spikes"/>
@@ -475,7 +475,7 @@
                     <MarkerCategory name="sir" DisplayName="Shattered Ice Ruins"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="orrian" DisplayName="Gold Ball">
+                <MarkerCategory name="orrian" DisplayName="Gold Ball" achievementBit="4">
                     <MarkerCategory name="" IsSeparator="1" DisplayName="STRAITS OF DEVASTATION"/>
                     <MarkerCategory name="vizier" DisplayName="Vizier's Tower"/>
                     <MarkerCategory name="malchors" IsSeparator="1" DisplayName="MALCHOR'S LEAP"/>
@@ -485,7 +485,7 @@
                     <MarkerCategory name="stream" DisplayName="Forgotten Stream"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="charr" DisplayName="Green Ball">
+                <MarkerCategory name="charr" DisplayName="Green Ball" achievementBit="5">
                     <MarkerCategory name="diessa" IsSeparator="1" DisplayName="DIESSA PLATEAU"/>
                     <MarkerCategory name="crimson" DisplayName="Crimson Plateau"/>
                     <MarkerCategory name="fireheart" IsSeparator="1" DisplayName="FIREHEART RISE"/>

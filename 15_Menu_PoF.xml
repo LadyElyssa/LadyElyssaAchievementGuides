@@ -16,7 +16,7 @@
                     <MarkerCategory name="cannonade" DisplayName="Elite Forged Cannonade"/>
                     <MarkerCategory name="officer" DisplayName="Elite Forged Officer"/>
                 </MarkerCategory>
-                <MarkerCategory name="vlast" DisplayName="Vlast from the Past" iconFile="Data/Images/Icons/Memories of Vlast.png" mapDisplaySize="32" inGameVisibility="0"/>
+                <MarkerCategory name="vlast" DisplayName="Vlast from the Past" iconFile="Data/Images/Icons/Memories of Vlast.png" mapDisplaySize="32" inGameVisibility="0" achievementId="3778"/>
 
                 <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: Crystalline Memories"/>
                 <MarkerCategory name="essences" DisplayName="All the Essences" iconFile="Data/Images/Orb - White.png" mapDisplaySize="16" achievementId="3668" heightOffset="-0.5" maxSize="16" fadeNear="2400" fadeFar="4800"/>

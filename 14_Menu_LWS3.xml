@@ -814,7 +814,7 @@
                     <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" heightOffset="2.5" maxSize="32"/>
                 </MarkerCategory>
                 <MarkerCategory name="collection" IsSeparator="1" DisplayName="COLLECTION"/>
-                <MarkerCategory name="storyteller" DisplayName="Master Storyteller">
+                <MarkerCategory name="storyteller" DisplayName="Master Storyteller" achievementId="3487">
                     <MarkerCategory name="abaddon" DisplayName="Abaddon [H]" achievementId="3520" texture="Data/Images/Trails/Trail Marker 1 Dark.png">
                         <MarkerCategory name="start" DisplayName="Toggle Start" iconFile="Data/Images/Icons/Start.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                         <MarkerCategory name="talk" DisplayName="Toggle Talk" iconFile="Data/Images/Icons/Talk.png" heightOffset="2.5" maxSize="32"/>

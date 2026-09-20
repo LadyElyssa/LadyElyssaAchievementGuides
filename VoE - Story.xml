@@ -242,5 +242,75 @@
         <POI MapID="1620" xpos="629.657" ypos="58.3718" zpos="859.092" type="leag.voe.story.guest" GUID="mv4/mFsPT0qz23fxX6LS1Q=="/>
         <POI MapID="1620" xpos="631.897" ypos="56.8394" zpos="744.303" type="leag.voe.story.guest" GUID="GlZg0FcHuEGvEH0PGJsP4w=="/>
         <POI MapID="1620" xpos="422.256" ypos="79.847" zpos="478.68" type="leag.voe.story.guest" GUID="kvv8CuKkzU2EZMHyF+ryow=="/>
+
+        <!-- Leyspring Hollows -->
+
+        <!-- Chapter 14 -->
+        <Trail type="leag.voe.story.torchbearer" trailData="Data/VoE/Story/Torchbearer.trl" miniMapVisibility="1" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <POI MapID="1633" xpos="-275.257" ypos="83.9538" zpos="-269.168" type="leag.voe.story.intent" GUID="bhGhHjTCskGOiykLsNxHIQ=="/>
+        <POI MapID="1633" xpos="755.137" ypos="113.831" zpos="-490.705" type="leag.voe.story.intent" GUID="tJ1t8GTO5U2HMlU2opniqQ=="/>
+        <POI MapID="1633" xpos="43.8828" ypos="64.5805" zpos="-122.517" type="leag.voe.story.intent" GUID="0hK0KRHCOkO0sr82IBHYTg=="/>
+        <POI MapID="1633" xpos="374.967" ypos="103.345" zpos="-68.9657" type="leag.voe.story.intent" GUID="ZzNzzda3r0mrpT6qTa29ug=="/>
+        <POI MapID="1633" xpos="-646.967" ypos="50.9385" zpos="-455.512" type="leag.voe.story.intent" GUID="TIAopHkXaEOKF3GgDMpmjQ=="/>
+
+        <!-- Chapter 15 -->
+        <POI MapID="1633" xpos="-307.648" ypos="89.2835" zpos="-251.375" type="leag.voe.story.investigator" GUID="3NmHQfrukUay6BKvdWL4nQ=="/>
+        <POI MapID="1633" xpos="-312.521" ypos="89.2808" zpos="-256.315" type="leag.voe.story.investigator" GUID="zbBVxXWt9k2lpEDX9j4chg=="/>
+        <POI MapID="1633" xpos="-328.404" ypos="91.2055" zpos="-249.924" type="leag.voe.story.investigator" GUID="F5n5zVyQIE6fvHE5ct6NiA=="/>
+        <POI MapID="1633" xpos="-328.607" ypos="90.2683" zpos="-247.216" type="leag.voe.story.investigator" GUID="4mt8LqoFMkexK7uwAndK9g=="/>
+        <POI MapID="1633" xpos="-318.247" ypos="89.8926" zpos="-233.005" type="leag.voe.story.investigator" GUID="RhusTuBE6kKj6sbRQ3OLyw=="/>
+        <POI MapID="1633" xpos="-333.48" ypos="88.0643" zpos="-237.516" type="leag.voe.story.investigator" GUID="Q/C7WbMJzUGluTJIzpSsdg=="/>
+
+        <POI MapID="1631" xpos="-779.732" ypos="80.7086" zpos="-425.138" type="leag.voe.story.password" GUID="kWCOFpEsVUeW610s0DCkMQ=="/>
+
+        <!-- Chapter 16 -->
+
+
+
+        <!-- Chapter 17 -->
+
+        
+        <Trail type="leag.voe.story.final" trailData="Data/VoE/Story/Final Preparations 1.trl" miniMapVisibility="1" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <Trail type="leag.voe.story.final" trailData="Data/VoE/Story/Final Preparations 2.trl" miniMapVisibility="1" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <Trail type="leag.voe.story.final" trailData="Data/VoE/Story/Final Preparations 3.trl" miniMapVisibility="1" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <Trail type="leag.voe.story.final" trailData="Data/VoE/Story/Final Preparations 4.trl" miniMapVisibility="1" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00" mapDisplaySize="12"/>
+        <Trail type="leag.voe.story.final" trailData="Data/VoE/Story/Final Preparations 5.trl" miniMapVisibility="1" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <Trail type="leag.voe.story.final" trailData="Data/VoE/Story/Final Preparations 6.trl" miniMapVisibility="1" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <Trail type="leag.voe.story.final" trailData="Data/VoE/Story/Final Preparations 7.trl" miniMapVisibility="1" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00"/>
+        <POI MapID="1633" xpos="672.3279" ypos="127.5416" zpos="-427.3211" type="leag.voe.story.final.wp" GUID="cmhjqmgTfkioARvGNuKgfQ==" copy="[&amp;BMwPAAA=]" copy-message="Hullgarden Pier Waypoint, Shipwreck Strand"/>
+        <POI MapID="1595" xpos="-555.276" ypos="43.2236" zpos="297.989" type="leag.voe.story.final.kela" GUID="zdrolzvMZEmUaDc4YQpQlA=="/>
+        <POI MapID="1593" xpos="191.233" ypos="2.17675" zpos="-511.369" type="leag.voe.story.final.gwyldell" GUID="ysIB/LWKz0GwBCe7lev9/g=="/>
+        <POI MapID="1622" xpos="552.311" ypos="1.0485" zpos="-234.228" type="leag.voe.story.final.creatures" GUID="BtsmKP5cR0Cei0zZ7ZE0AQ=="/>
+        <POI MapID="1622" xpos="-223.291" ypos="37.1226" zpos="-401.893" type="leag.voe.story.final.creatures" GUID="bzjTRPJju0qzJvDPkWNvrA=="/>
+        <POI MapID="1622" xpos="516.63" ypos="-90.5109" zpos="201.285" type="leag.voe.story.final.creatures" GUID="/F91Qx4m40K/3BSoQhdqWw=="/>
+        <POI MapID="1622" xpos="-578.298" ypos="136.874" zpos="800.341" type="leag.voe.story.final.creatures" GUID="cxA7GLRjPEaBal0HZPkwYQ=="/>
+        <POI MapID="1622" xpos="-61.2941" ypos="0.170459" zpos="330.756" type="leag.voe.story.final.creatures" GUID="KB5rlmgSXky4ifoz2v0OwA=="/>
+        <POI MapID="1370" xpos="-221.542" ypos="2.3334" zpos="178.385" type="leag.voe.story.final.scrying" GUID="74IO9aSp4kyvfwMHf2FqMg=="/>
+        <POI MapID="1633" xpos="-138.5668" ypos="74.4296" zpos="-168.752" type="leag.voe.story.final.mystical" GUID="j6Zie77cIUGSAlvxjLIqpQ=="/>
+        <POI MapID="1633" xpos="-138.5668" ypos="74.4296" zpos="-168.752" type="leag.voe.story.final.mystical" GUID="zH5Fdaxp70+JYgp9TKBkNA==" iconFile="Data/Images/Icons/Blank.png" info="Use an /emote" infoRange="5" inGameVisibility="1"/>
+        <POI MapID="1633" xpos="-633.228" ypos="134.682" zpos="451.014" type="leag.voe.story.final.signet" GUID="KCYXCQwYg06E8/0Mo84CnA=="/>
+        <POI MapID="1595" xpos="-553.4995" ypos="43.22358" zpos="298.6659" type="leag.voe.story.final.wp" GUID="22npVjkzvkO+geR4gbw9/A==" copy="[&amp;BMAPAAA=]" copy-message="Pick Up Artifact&#xa;Foothold Bivouac Waypoint, Starlit Weald"/>
+        <POI MapID="1593" xpos="194.3627" ypos="2.284945" zpos="-510.7527" type="leag.voe.story.final.wp" GUID="dIIDARymbU21zJNeTsQ1UA==" copy="[&amp;BPwPAAA=]" copy-message="Build Flower Ring&#xa;Pilgrim's Rest Waypoint, Eternity's Garden"/>
+        <POI MapID="1622" xpos="-53.88622" ypos="0.4219792" zpos="328.4192" type="leag.voe.story.final.wp" GUID="aaHwuPncj0yeJwXIEbLnmQ==" copy="[&amp;BOQPAAA=]" copy-message="Deepwood Outpost Waypoint"/>
+        <POI MapID="1622" xpos="-573.3121" ypos="136.843" zpos="788.6501" type="leag.voe.story.final.wp" GUID="ueBiqFpaBk2eRX5eZJxJpw==" copy="[&amp;BPoPAAA=]" copy-message="Temple of Abnegation Waypoint"/>
+        <POI MapID="1622" xpos="-224.3972" ypos="36.9308" zpos="-400.0557" type="leag.voe.story.final.wp" GUID="XelMrLeT40anoATN5bwoYg==" copy="[&amp;BAkMAAA=]" copy-message="Eye of the North Waypoint, Hall of Monuments"/>
+        <POI MapID="1370" xpos="-219.5884" ypos="2.048561" zpos="177.4407" type="leag.voe.story.final.wp" GUID="oiS2buSgSUibdkvLLaxCAA==" copy="[&amp;BDYQAAA=]" copy-message="Hall of Assemblage Waypoint, Leyspring Hollows"/>
+        <POI MapID="1633" xpos="-138.0578" ypos="74.40554" zpos="-168.7684" type="leag.voe.story.final.wp" GUID="4O5yC2T9s0KRH2kOTuV4kw==" copy="[&amp;BB8QAAA=]" copy-message="Doyen's Adytum Waypoint"/>
+
+        <POI MapID="1630" xpos="-581.623" ypos="131.405" zpos="397.238" type="leag.voe.story.doyen" GUID="hlHy7klC9kGubhMVtveLyw=="/>
+        <POI MapID="1630" xpos="-609.325" ypos="135.982" zpos="433.317" type="leag.voe.story.doyen" GUID="MOZGfE4G2kmt4FLWLyl98w=="/>
+        <POI MapID="1630" xpos="-630.453" ypos="138.279" zpos="456.702" type="leag.voe.story.doyen" GUID="9lHUBo2SnUKUxEBQ+4hpNQ=="/>
+        <POI MapID="1630" xpos="-623.914" ypos="138.174" zpos="463.221" type="leag.voe.story.doyen" GUID="SXx9RXVN7U6lSh58LyVQwg=="/>
+        <POI MapID="1630" xpos="-620.193" ypos="134.821" zpos="467.404" type="leag.voe.story.doyen" GUID="FRpwIULap0ea3+ieL/IIbA=="/>
+        <POI MapID="1630" xpos="-588.168" ypos="135.914" zpos="482.501" type="leag.voe.story.doyen" GUID="3FyhdpwEwU2aLJCLBmxNjQ=="/>
+        <POI MapID="1630" xpos="-570.839" ypos="135.622" zpos="468.531" type="leag.voe.story.doyen" GUID="KRCkW94UtEq+tNITSkcu4w=="/>
+
+        <Trail type="leag.voe.story" trailData="Data/VoE/Story/The Burden of Seeing - Runes.trl" miniMapVisibility="1" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" color="00FF00" animSpeed="0.5" alpha="0.3"/>
+
+        <!-- Chapter 18 -->
+
+        <!-- Chapter 19 -->
+
+        <!-- Chapter 20 -->
     </POIs>
 </OverlayData>

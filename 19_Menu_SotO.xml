@@ -104,7 +104,7 @@
 
             <MarkerCategory name="ch19" IsSeparator="1" DisplayName="CHAPTER 19"/>
             <MarkerCategory name="respect" DisplayName="A Sign of Respect" achievementId="8097"/>
-            <MarkerCategory name="sovereign" DisplayName="Sovereign of Nayos"/>
+            <MarkerCategory name="sovereign" DisplayName="Sovereign of Nayos" achievementId="8024"/>
             <MarkerCategory name="bibliophile" DisplayName="Tower Bibliophile" achievementId="8062" iconFile="Data/Images/Icons/Orb - Blue.png" alpha="0.8" maxSize="16" heightOffset="-0.5">
                 <MarkerCategory name="livia" DisplayName="Find the letter to Livia"/>
                 <MarkerCategory name="isgarren" DisplayName="Find the note to Isgarren"/>
@@ -469,7 +469,7 @@
             <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="3.9" autotrigger="true" behavior="1"/>
         </MarkerCategory>
         <MarkerCategory name="llliw" DisplayName="Laugh Like Lyhr Is Watching (After Lyhr Escort Event)  " texture="Data/Images/Trails/Trail Marker 1.png" achievementId="7165"/>
-        <MarkerCategory name="sorrows" DisplayName="Sorrow's Lost [H] ">
+        <MarkerCategory name="sorrows" DisplayName="Sorrow's Lost [H] " achievementId="7048">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="3" DisplayName="3. I: The Forager"/>
             <MarkerCategory name="4" DisplayName="4. II: The Minister Illuminate"/>
@@ -860,7 +860,7 @@
             <MarkerCategory name="9" DisplayName="9. Completed List of Artifacts. Return to Isgarren."/>
         </MarkerCategory>
         <MarkerCategory name="secrets2" DisplayName="Secrets Unobscured [H] " achievementId="7151"/>
-        <MarkerCategory name="twl" DisplayName="The Waylit Lantern" texture="Data/Images/Trails/Trail Marker 1.png" color="33ccff">
+        <MarkerCategory name="twl" DisplayName="The Waylit Lantern" texture="Data/Images/Trails/Trail Marker 1.png" color="33ccff" achievementId="7037">
             <MarkerCategory name="am" IsSeparator="1" DisplayName="  | AMNYTAS"/>
             <MarkerCategory name="2" DisplayName="2. Retrieve Lyhr's Relic"/>
             <MarkerCategory name="sa" IsSeparator="1" DisplayName="  | SKYWATCH ARCHIPELAGO"/>

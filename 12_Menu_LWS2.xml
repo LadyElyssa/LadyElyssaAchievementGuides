@@ -7,9 +7,9 @@
 
                 <!-- CHAPTER 1 -->
                 <MarkerCategory name="ch1" IsSeparator="1" DisplayName="CHAPTER 1: Gates of Maguuma"/>
-                <MarkerCategory name="dashed" DisplayName="Dashed Advantage" iconFile="Data/Images/Icons/Talk.png" MaxSize="16" behavior="3"/>
-                <MarkerCategory name="hopes" DisplayName="Fallen Hopes" iconFile="Data/Images/Icons/Talk.png" MaxSize="16" behavior="3"/>
-                <MarkerCategory name="opportune" DisplayName="Opportune Moment" iconFile="Data/Images/Icons/Talk.png" MaxSize="16" behavior="3"/>
+                <MarkerCategory name="dashed" DisplayName="Dashed Advantage" iconFile="Data/Images/Icons/Talk.png" MaxSize="16" behavior="3" achievementId="1648"/>
+                <MarkerCategory name="hopes" DisplayName="Fallen Hopes" iconFile="Data/Images/Icons/Talk.png" MaxSize="16" behavior="3" achievementId="362"/>
+                <MarkerCategory name="opportune" DisplayName="Opportune Moment" iconFile="Data/Images/Icons/Talk.png" MaxSize="16" behavior="3" achievementId="1647"/>
                 <MarkerCategory name="rock" DisplayName="No Rock Unturned" iconFile="Data/Images/Icons/Orb - Red.png" heightOffset="-1.5" MaxSize="16" mapDisplaySize="16" achievementId="1643"/>
                 <MarkerCategory name="ascent" DisplayName="Zephyr's Ascent" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png" MaxSize="16" achievementId="1640"/>
                 <MarkerCategory name="leap" DisplayName="Zephyr's Leap" iconFile="Data/Images/Icons/Jumping.png" MaxSize="32" mapDisplaySize="32" achievementId="1642">
@@ -18,13 +18,13 @@
 
                 <!-- CHAPTER 2 -->
                 <MarkerCategory name="ch2" IsSeparator="1" DisplayName="CHAPTER 2: Entanglement"/>
-                <MarkerCategory name="minion" DisplayName="Butterflies and Viscera" iconFile="Data/Images/Bone Minion.png" mapDisplaySize="32" inGameVisibility="0"/>
+                <MarkerCategory name="minion" DisplayName="Butterflies and Viscera" iconFile="Data/Images/Bone Minion.png" mapDisplaySize="32" inGameVisibility="0" achievementId="1663"/>
                 <MarkerCategory name="swift" DisplayName="On Swift Wings" achievementId="1661">
                     <MarkerCategory name="info" DisplayName="Info" iconFile="Data/Images/Icons/Blank.png" autotrigger="true"/>
                     <MarkerCategory name="talk" DisplayName="Talk" iconFile="Data/Images/Icons/Talk.png" MaxSize="32" heightOffset="2.5" behavior="3"/>
                 </MarkerCategory>
                 <MarkerCategory name="tafs" DisplayName="Trouble at Fort Salma"/>
-                <MarkerCategory name="timely" DisplayName="Timely Arrival"/>
+                <MarkerCategory name="timely" DisplayName="Timely Arrival" achievementId="1665"/>
 
                 <!-- CHAPTER 3 -->
                 <MarkerCategory name="ch3" IsSeparator="1" DisplayName="CHAPTER 3: The Dragon's Reach - Part 1"/>

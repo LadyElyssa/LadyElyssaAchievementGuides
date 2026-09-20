@@ -1,7 +1,7 @@
 <OverlayData>
     <MarkerCategory name="leag" DisplayName="Lady Elyssa's AP Guides" texture="Data/Images/Trails/Trail Marker 1.png" animSpeed="0.8" alpha="1.0" fadeNear="2000" fadeFar="4000" mapDisplaySize="16">
         <MarkerCategory name="about" DisplayName="About">
-            <MarkerCategory name="version" DisplayName="Version    :: 7.1"/>
+            <MarkerCategory name="version" DisplayName="Version    :: 7.2"/>
 
             <MarkerCategory name="line" IsSeparator="1" DisplayName="|"/>
 
@@ -13,12 +13,6 @@
                 <MarkerCategory name="wikiuser" DisplayName="GW2 Wiki  :: /wiki User:Lady Elyssa"/>
             </MarkerCategory>
             
-            <MarkerCategory name="credits" DisplayName="Credits">
-                <MarkerCategory name="anet" DisplayName="ArenaNet"/>
-                <MarkerCategory name="wikikrewe" DisplayName="The Wiki Krewe"/>
-                <MarkerCategory name="community" DisplayName="The Guild Wars 2 Community"/>
-            </MarkerCategory>
-
             <MarkerCategory name="content" DisplayName="Content Creators">
                 
                 <MarkerCategory name="dulfy" DisplayName="Dulfy"/>
@@ -42,6 +36,7 @@
                 <MarkerCategory name="12" DisplayName="12Tables"/>
                 <MarkerCategory name="emz" DisplayName="Emz"/>
                 <MarkerCategory name="joeyw" DisplayName="Joeyw at gw2shop.net [FR]"/>
+                <MarkerCategory name="mmm" DisplayName="Metallis"/>
                 <MarkerCategory name="neb" DisplayName="Nebylicza"/>
                 <MarkerCategory name="rediche" DisplayName="Rediche at rediche.stream"/>
                 <MarkerCategory name="sab" DisplayName="Sab"/>
@@ -51,6 +46,12 @@
                 <MarkerCategory name="zen" DisplayName="Zen"/>
                 <MarkerCategory name="followers" DisplayName="My GW2 Followers"/>
                 <MarkerCategory name="git" DisplayName="My Github Contributors"/>
+            </MarkerCategory>
+
+            <MarkerCategory name="credits" DisplayName="Credits">
+                <MarkerCategory name="anet" DisplayName="ArenaNet"/>
+                <MarkerCategory name="wikikrewe" DisplayName="The Wiki Krewe"/>
+                <MarkerCategory name="community" DisplayName="The Guild Wars 2 Community"/>
             </MarkerCategory>
 
             <MarkerCategory name="mpt" DisplayName="Marker Pack Tools">

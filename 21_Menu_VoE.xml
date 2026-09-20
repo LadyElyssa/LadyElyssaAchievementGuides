@@ -180,16 +180,32 @@
 
                 <MarkerCategory name="guest" DisplayName="Honored Guest" achievementId="9299"  iconFile="Data/Images/Icons/Otter.png" minSize="20" maxSize="24" mapDisplaySize="32"/>
 
-                <!--
-
                 <MarkerCategory name="ch14" IsSeparator="1" DisplayName="CHAPTER 14: "/>
-                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
+                <MarkerCategory name="torchbearer" DisplayName="Torchbearer" achievementId="9375"/>
 
                 <MarkerCategory name="ch15" IsSeparator="1" DisplayName="CHAPTER 15: "/>
+                <MarkerCategory name="intent" DisplayName="Malicious Intent" achievementId="9350" iconFile="Data/Images/Icons/Kuda's Audio Log.png" maxSize="16" mapDisplaySize="32"/>
+                <MarkerCategory name="investigator" DisplayName="Inquest Investigator" achievementId="9419" iconFile="Data/Images/Icons/Orb - Red - S.png" maxSize="16" mapDisplaySize="32" heightOffset="-0.5"/>
+                <MarkerCategory name="password" DisplayName="Password Guesser" iconFile="Data/Images/Kuda's Password.png" inGameVisibility="1" mapVisibility="0" miniMapVisibility="0"/>
+
+                <MarkerCategory name="ch17" IsSeparator="1" DisplayName="CHAPTER 17: "/>
+                <MarkerCategory name="final" DisplayName="Final Preparations" achievementId="9451">
+                    <MarkerCategory name="kela" DisplayName="Kela" achievementBit="1" iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="gwyldell" DisplayName="Gwyldell" achievementBit="2" iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="creatures" DisplayName="Castoran Creatures" achievementBit="3" iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="scrying" DisplayName="Scrying Pool" achievementBit="4" iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="32"/>
+                    <MarkerCategory name="mystical" DisplayName="Mystical Pool" achievementBit="5" iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="signet" DisplayName="Gateway Signet" achievementBit="6" iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="office" DisplayName="Sidony's Office" achievementBit="7" iconFile="Data/Images/Icons/Collections - Green.png" inGameVisibility="0" mapDisplaySize="48"/>
+                    <MarkerCategory name="wp" DisplayName="Waypoint" iconFile="Data/Images/Icons/Blank.png" triggerrange="5" autotrigger="true"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="doyen" DisplayName="Doyen Explorer" achievementId="9411" iconFile="Data/Images/Icons/Orb - Green - S.png" maxSize="16" mapDisplaySize="32" heightOffset="-0.5"/>
+                <!--
+
+                <MarkerCategory name="ch18" IsSeparator="1" DisplayName="CHAPTER 18: "/>
                 <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
 
-                <MarkerCategory name="ch16" IsSeparator="1" DisplayName="CHAPTER 16: "/>
-                <MarkerCategory name="" DisplayName="" achievementId="" iconFile="Data/Images/Icons/Orb - Blue.png" maxSize="16" heightOffset="-0.5"/>
                 -->
             </MarkerCategory>
 
@@ -405,7 +421,7 @@
                     <MarkerCategory name="10" DisplayName="Return the memories to the former Astral Ward member in Glimmering Arches." iconFile="Data/Images/Icons/Orb - Blue - S.png"/>
                 </MarkerCategory>
 
-                <MarkerCategory name="cavern" DisplayName="Orb Cavern Jumping Puzzle" achievementId="8932">
+                <MarkerCategory name="cavern" DisplayName="Orb Cavern" achievementId="8932">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Jumping Puzzles/Orb Cavern.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" maxSize="24" inGameVisibility="1" fadeNear="900" fadeFar="1200" miniMapVisibility="0"/>
@@ -423,7 +439,7 @@
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Adventures/Skimmer-Net Scramble.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                 </MarkerCategory>
                 
-                <MarkerCategory name="copse" DisplayName="Soaring Copse Jumping Puzzle" achievementId="8976" fadeNear="1200" fadeFar="2400">
+                <MarkerCategory name="copse" DisplayName="Soaring Copse" achievementId="8976" fadeNear="1200" fadeFar="2400">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Jumping Puzzles/Soaring Copse.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="talk" DisplayName="Talk to Astral Ward Researcher Harpa" iconFile="Data/Images/Icons/Talk.png" maxSize="48"/>
@@ -538,7 +554,7 @@
 
                 <MarkerCategory name="backdoor" DisplayName="Backdoor Exploit [H]" achievementId="9007" iconFile="Data/Images/Icons/Backdoor Exploit.png" mapDisplaySize="32"/>
 
-                <MarkerCategory name="birdie" DisplayName="Birdie Benefactor Jumping Puzzle" achievementId="9028" fadeNear="1200" fadeFar="2400">
+                <MarkerCategory name="birdie" DisplayName="Birdie Benefactor" achievementId="9028" fadeNear="1200" fadeFar="2400">
                     <MarkerCategory name="set" IsSeparator="1" DisplayName="SETTINGS"/>
                     <MarkerCategory name="sign" DisplayName="Toggle Sign" iconFile="Data/Images/Jumping Puzzles/Birdie Benefactor.png" miniMapVisibility="1" mapVisibility="1" inGameVisibility="0" mapDisplaySize="96"/>
                     <MarkerCategory name="glider" DisplayName="Toggle Glider" iconFile="Data/Images/Icons/Glider.png" inGameVisibility="1" mapVisibility="0" minSize="12" maxSize="24"/>
@@ -670,7 +686,7 @@
                     <MarkerCategory name="event" DisplayName="EVENT: Help Steward Cecco unfuse animals of their seer influence" iconFile="Data/Images/Yellow Swirl.png" mapDisplaySize="128" inGameVisibility="0" tip-name="EVENT: Help Steward Cecco unfuse animals of their seer influence"/>
                 </MarkerCategory>                    
                 
-                <MarkerCategory name="arjp" DisplayName="Artificer's Rise Jumping Puzzle" achievementId="9290" iconFile="Data/Images/Icons/talk.png" minSize="20" maxSize="24" fadeNear="900" fadeFar="1200">
+                <MarkerCategory name="arjp" DisplayName="Artificer's Rise" achievementId="9290" iconFile="Data/Images/Icons/talk.png" minSize="20" maxSize="24" fadeNear="900" fadeFar="1200">
                     <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" minSize="16" maxSize="24" mapVisibility="0" fadeNear="900" fadeFar="1200"/>
                     <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/Images/Jumping Puzzles/Artificer's Rise.png" mapDisplaySize="128" inGameVisibility="0"/>
                 </MarkerCategory>
@@ -737,7 +753,7 @@
                 
                 <MarkerCategory name="scour" DisplayName="Skimmer Relic Scour" achievementId="9254" inGameVisibility="1"/>
                 
-                <MarkerCategory name="temple" DisplayName="Temple of Abnegation Jumping Puzzle" achievementId="9327"  fadeNear="1200" fadeFar="1600">
+                <MarkerCategory name="temple" DisplayName="Temple of Abnegation" achievementId="9327"  fadeNear="1200" fadeFar="1600">
                     <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/Images/Jumping Puzzles/Temple of Abnegation.png" mapDisplaySize="128" inGameVisibility="0"/>
                 </MarkerCategory>
 
@@ -755,10 +771,63 @@
                     <MarkerCategory name="gwyllian" DisplayName="Gwyllian" iconFile="Data/Images/Icons/Gwyllian.png" mapDisplaySize="48" inGameVisibility="0"/>
                     <MarkerCategory name="kela" DisplayName="Kela" iconFile="Data/Images/Icons/Kela.png" mapDisplaySize="48" inGameVisibility="0"/>
                 </MarkerCategory>
-                
-                
-                
-                
+            </MarkerCategory>
+
+            <MarkerCategory name="leyspring" DisplayName="Leyspring Hollows">
+
+                <MarkerCategory name="ad" DisplayName="Aetherlocation Detective" achievementId="9465"/>
+
+                <MarkerCategory name="security" DisplayName="Above and Beyond Security [H]" achievementId="9428">
+                    <MarkerCategory name="icon" DisplayName="Password hint?" iconFile="Data/Images/Icons/Inquest Datapad.png" mapDisplaySize="48" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="audience" DisplayName="Captivated Audience [H]" iconFile="Data/Images/Icons/Hand.png" achievementId="9407"/>
+
+                <MarkerCategory name="cavern" DisplayName="Coleopteran Cavern" achievementId="9468">
+                    <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/Images/Jumping Puzzles/Coleopteran Cavern.png" mapDisplaySize="128" inGameVisibility="0"/>
+                    <MarkerCategory name="1" DisplayName="Path 1" iconFile="Data/Images/Numbers/n1.png" minSize="16" maxSize="24" mapVisibility="0" miniMapVisibility="0" fadeNear="900" fadeFar="1200" heightOffset="0.5"/>
+                    <MarkerCategory name="2" DisplayName="Path 2" iconFile="Data/Images/Numbers/n2.png" minSize="16" maxSize="24" mapVisibility="0" miniMapVisibility="0" fadeNear="900" fadeFar="1200" heightOffset="0.5"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="depths" DisplayName="Into the Depths" achievementId="3006">
+                    <MarkerCategory name="tablet" DisplayName="Seer Tablet" iconFile="Data/Images/Icons/Seer Tablet.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="studies" DisplayName="Chak Studies" iconFile="Data/Images/Icons/Seer Tome.png" maxSize="32" mapDisplaySize="48" heightOffset="2.5"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="icache" DisplayName="Inquest Cache" achievementId="9441">
+                    <MarkerCategory name="glider" DisplayName="Glider" iconFile="Data/Images/Icons/Glider.png" minSize="16" maxSize="24" mapVisibility="0" miniMapVisibility="0" fadeNear="900" fadeFar="1200"/>
+                    <MarkerCategory name="sign" DisplayName="Sign" iconFile="Data/Images/Jumping Puzzles/Inquest Cache.png" mapDisplaySize="128" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="bessie" DisplayName="The Tale of Bessie" achievementId="9433">
+                    <MarkerCategory name="icon" DisplayName="Bessie" iconFile="Data/Images/Icons/Bessie.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="tale" DisplayName="Tale" iconFile="Data/Images/Icons/Collections.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="wp" DisplayName="Toggle Waypoint Markers" iconFile="Data/Images/Icons/Blank.png" triggerrange="2" autotrigger="true"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="helmsmen" DisplayName="The Helmsmen of the Leyspring" achievementId="9430">
+                    <MarkerCategory name="insetto" DisplayName="Insetto" iconFile="Data/Images/Insetto.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="cimice" DisplayName="Cimice" iconFile="Data/Images/Cimice.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="mosca" DisplayName="Mosca" iconFile="Data/Images/Mosca.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="zanzara" DisplayName="Zanzara" iconFile="Data/Images/Zanzara.png" mapDisplaySize="48" inGameVisibility="0"/>
+                    <MarkerCategory name="vespa" DisplayName="Vespa" iconFile="Data/Images/Vespa.png" mapDisplaySize="48" inGameVisibility="0"/>
+                </MarkerCategory>
+
+                <MarkerCategory name="tampering" DisplayName="Terminal Tampering" iconFile="Data/Images/Inquest Terminal.png" mapDisplaySize="48" inGameVisibility="0"/>
+
+                <MarkerCategory name="collections" IsSeparator="1" DisplayName="Collections"/>
+
+                <MarkerCategory name="tase" DisplayName="The All Seeing Eye" achievementId="8650">
+                    <MarkerCategory name="blaff" DisplayName="Arcane Eye Agent Blaff" iconFile="Data/Images/Icons/All Seeing Eye.png" minSize="24" maxSize="32" fadeNear="900" fadeFar="1200" mapDisplaySize="64"/>
+                    <MarkerCategory name="icon" DisplayName="Collection Icon" iconFile="Data/Images/Icons/Collections.png" mapDisplaySize="48" inGameVisibility="0"/>
+
+                </MarkerCategory>
+
+                <MarkerCategory name="fetch" DisplayName="Operation Fetch" achievementId="9368">
+                    <MarkerCategory name="ptm" DisplayName="PTM" iconFile="Data/Images/Icons/Operation Fetch.png" minSize="24" maxSize="32" fadeNear="900" fadeFar="1200" mapDisplaySize="64"/>
+                    <MarkerCategory name="icon" DisplayName="Collection Icon" iconFile="Data/Images/Icons/Collections.png" mapDisplaySize="48" inGameVisibility="0"/>
+                </MarkerCategory>
+
             </MarkerCategory>
 
             

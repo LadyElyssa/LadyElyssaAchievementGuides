@@ -15,8 +15,6 @@
                 <MarkerCategory name="qais" DisplayName="Qais Closed [H]" iconFile="Data/Images/Icons/Talk.png" maxSize="24" heightOffset="4.5" achievementId="3984"/>
                 <MarkerCategory name="ribbon" DisplayName="You Left This [H]" iconFile="Data/Images/Icons/Taimi's Hair Bow.png" mapDisplaySize="40" inGameVisibility="0" achievementId="3975"/>
 
-
-
                 <MarkerCategory name="ch2" IsSeparator="1" DisplayName="CHAPTER 2: A Bug in the System"/>
 
                 <MarkerCategory name="cabbage" DisplayName="Cabbage Shredder" achievementId="4140">
@@ -73,7 +71,7 @@
                 <MarkerCategory name="guest" DisplayName="Be My Guest" texture="Data/Images/Trails/Warning Line - Yellow.png" fadeNear="900" fadeFar="1200" animSpeed="0" achievementId="4259"/>
                 <MarkerCategory name="audience" DisplayName="Captive Audience" texture="Data/Images/Trails/Warning Line - Red.png" fadeNear="600" fadeFar="900" animSpeed="0" achievementId="4217"/>
                 <MarkerCategory name="daf" DisplayName="Dexterous and Flexible" texture="Data/Images/Trails/Warning Line - Yellow.png" fadeNear="600" fadeFar="900" animSpeed="0" achievementId="4243"/>
-                <MarkerCategory name="forearmed" DisplayName="Forearmed is Forewarned" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" fadeNear="600" fadeFar="1200" color="99FF33"/>
+                <MarkerCategory name="forearmed" DisplayName="Forearmed is Forewarned" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png" fadeNear="600" fadeFar="1200" color="99FF33" achievementId="4214"/>
                 <MarkerCategory name="glory" DisplayName="Glory Hog" achievementId="4188">
                     <MarkerCategory name="seeds" DisplayName="Plant Seeds" iconFile="Data/Images/Circle - Orange.png" mapDisplaySize="32" achievementId="4188" inGameVisibility="0"/>
                     <MarkerCategory name="displacement" DisplayName="Quantum Mass Displacement" iconFile="Data/Images/Quantum Mass Displacement.png" maxSize="20" miniMapVisibility="0" mapVisibility="0"/>
@@ -84,7 +82,7 @@
 
                 <MarkerCategory name="ch4" IsSeparator="1" DisplayName="CHAPTER 4: A Star to Guide Us"/>
                 <MarkerCategory name="balth" DisplayName="Balthazar's Sword" iconFile="Data/Images/Icons/Balthazar's Sword.png" mapDisplaySize="48" inGameVisibility="0"/>
-                <MarkerCategory name="friend" DisplayName="I Brought a Friend [H]" iconFile="Data/Images/Icons/Orb - Orange - S.png" maxSize="32" mapDisplaySize="32" heightOffset="-0.5">
+                <MarkerCategory name="friend" DisplayName="I Brought a Friend [H]" iconFile="Data/Images/Icons/Orb - Orange - S.png" maxSize="32" mapDisplaySize="32" heightOffset="-0.5" achievementId="4343">
                     <MarkerCategory name="swiftness" DisplayName="Swiftness" iconFile="Data/Images/Icons/Swiftness.png" maxSize="24" mapDisplaySize="32" heightOffset="-0.5"/>
                 </MarkerCategory>
                 <MarkerCategory name="splat" DisplayName="Splat!" iconFile="Data/Images/Icons/Death.png" maxSize="32" achievementId="4347"/>
@@ -94,14 +92,14 @@
                 <MarkerCategory name="ch5" IsSeparator="1" DisplayName="CHAPTER 5: All or Nothing"/>
                 <MarkerCategory name="oil" DisplayName="Resonance: Spill Oil Locations" iconFile="Data/Images/Icons/Orb - Black and White.png" maxSize="16" heightOffset="-0.5" achievementId="4497"/>
                 <MarkerCategory name="hyped" DisplayName="Appropriately Hyped [H]" iconFile="Data/Images/Icons/Talk.png" maxSize="32" heightOffset="3.5" mapDisplaySize="32" achievementId="4557"/>
-                <MarkerCategory name="stubborn" DisplayName="Stubborn">
+                <MarkerCategory name="stubborn" DisplayName="Stubborn" achievementId="4567">
                     <MarkerCategory name="mellitus" DisplayName="Hearty Meal" iconFile="Data/Images/Icons/Hearty Meal.png" maxSize="16" heightOffset="3.5"/>
                     <MarkerCategory name="amira" DisplayName="Reinforced Armor" iconFile="Data/Images/Icons/Reinforced Armor.png" maxSize="16" heightOffset="3.5"/>
                     <MarkerCategory name="solvi" DisplayName="Runestone of Power" iconFile="Data/Images/Icons/Runestone of Power.png" maxSize="16" heightOffset="3.5"/>
                 </MarkerCategory>
 
                 <MarkerCategory name="ch6" IsSeparator="1" DisplayName="CHAPTER 6: War Eternal"/>
-                <MarkerCategory name="dragons" DisplayName="Glory of Dragons"/>
+                <MarkerCategory name="dragons" DisplayName="Glory of Dragons" achievementId="4744"/>
 
             </MarkerCategory>
 
@@ -592,7 +590,7 @@
 
                 <MarkerCategory name="examination" DisplayName="Master Examination Golem" iconFile="Data/Images/Master Examination Golem.png" inGameVisibility="0" mapDisplaySize="54" achievementId="4149" tip-name="Three Golem Monte"/>
 
-                <MarkerCategory name="stormbreak" DisplayName="Stormbreak">
+                <MarkerCategory name="stormbreak" DisplayName="Stormbreak" achievementId="4122">
                     <MarkerCategory name="icon" DisplayName="Zohaqan Icon" iconFile="Data/Images/Zohaqan.png" inGameVisibility="0" mapDisplaySize="64" achievementId="4122" tip-name="Stormbreak"/>
                 </MarkerCategory>
 

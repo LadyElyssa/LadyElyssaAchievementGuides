@@ -75,7 +75,7 @@
                 </MarkerCategory>
                 <MarkerCategory name="kitty" DisplayName="Good Kitty [H]" achievementId="5243" iconFile="Data/Images/Icons/Head Pat.png" maxSize="32"/>
                 <MarkerCategory name="intel" DisplayName="Intel Acquired" achievementId="5248" iconFile="Data/Images/Icons/Orb - Blue - S.png" heightOffset="-0.25" maxSize="16" mapDisplaySize="32"/>
-                <MarkerCategory name="shoulder" DisplayName="Shoulder to Shoulder" iconFile="Data/Images/Icons/Blank.png" info="Agent One, direction South" infoRange="5" behavior="3"/>
+                <MarkerCategory name="shoulder" DisplayName="Shoulder to Shoulder" iconFile="Data/Images/Icons/Blank.png" info="Agent One, direction South" infoRange="5" behavior="3" achievementId="5313"/>
                 <MarkerCategory name="nothing" DisplayName="You Saw Nothing" achievementId="5306" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png">
                     <MarkerCategory name="key" DisplayName="Key" iconFile="Data/Images/Icons/Key.png" heightOffset="-0.25" minSize="16" maxSize="16" mapDisplaySize="32"/>
                 </MarkerCategory>

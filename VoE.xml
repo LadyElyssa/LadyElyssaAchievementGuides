@@ -45,7 +45,7 @@
         <POI MapID="1595" xpos="-487.261" ypos="2.06532" zpos="-221.542" type="leag.voe.shipwreck.captain.wp" GUID="WuP9fIrnUkmE4iwf+rWmIw==" copy="[&amp;BJwPAAA=]" copy-message="Dark Leviathon Waypoint"/>
         <POI MapID="1595" xpos="324.937" ypos="18.1364" zpos="494.746" type="leag.voe.shipwreck.captain.boy" GUID="K1BKQq7mjkyqh+nCyIC6LA=="/>
         <POI MapID="1595" xpos="-97.6031" ypos="37.3723" zpos="729.974" type="leag.voe.shipwreck.captain.sailor" GUID="kiiZUr9WOkOtqyFRrXzfGA=="/>
-        <POI MapID="1595" xpos="-95.5772" ypos="37.644" zpos="728.872" type="leag.voe.shipwreck.captain.wp" GUID="uQxSvxXQXUuJSz5yjHY2hQ==" copy="[&amp;BAAAAAA=]" copy-message="Hullgarden Pier Waypoint"/>
+        <POI MapID="1595" xpos="-95.5772" ypos="37.644" zpos="728.872" type="leag.voe.shipwreck.captain.wp" GUID="uQxSvxXQXUuJSz5yjHY2hQ==" copy="[&amp;BMwPAAA=]" copy-message="Hullgarden Pier Waypoint"/>
         <POI MapID="1595" xpos="-479.338" ypos="4.12088" zpos="-139.881" type="leag.voe.shipwreck.captain.gunner" GUID="fhdtQQNWiUiEkoLQ3D2sCA=="/>
         <POI MapID="1595" xpos="-84.56066" ypos="13.96984" zpos="108.352" type="leag.voe.shipwreck.captain.wp" GUID="NtQHR7P+60KrZxvornNrlA==" copy="[&amp;BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
         <POI MapID="1595" xpos="-251.944" ypos="51.1584" zpos="-511.327" type="leag.voe.shipwreck.captain.boatswain" GUID="EZoXJDS2/EmARfIV5BQGjw=="/>
@@ -134,13 +134,13 @@
         <POI MapID="1595" xpos="514.313" ypos="0.204921" zpos="-154.676" type="leag.voe.shipwreck.lost.start" GUID="eN7BVK5e8UeYZmNNk/yaYg=="/>
         <POI MapID="1595" xpos="680.852" ypos="-47.3918" zpos="-42.6886" type="leag.voe.shipwreck.lost.wp" GUID="mSV5ipOaX0m6IJQnRGJ5+A==" info="Return to Lyla" infoRange="5"/>
         <POI MapID="1595" xpos="422.271" ypos="28.7448" zpos="33.5267" type="leag.voe.shipwreck.lost.wp" GUID="LHh8sQnkPEC1m3IOq0mCrQ==" copy="[&amp;BJEPAAA=]" copy-message="For Step 5. Pub Canach Waypoint"/>
-        <POI MapID="1595" xpos="607.183" ypos="-41.8351" zpos="-800.934" type="leag.voe.shipwreck.lost.wp" GUID="cio0C9C7L0+IZa2nr46OeA==" copy="[&amp;BAAAAAA=]" copy-message="Hullgarden Pier Waypoint"/>
-        <POI MapID="1595" xpos="-609.545" ypos="76.0603" zpos="373.101" type="leag.voe.shipwreck.lost.wp" GUID="fayp3vGOMUigmK6J0jjVdg==" copy="[&amp;BAAAAAA=]" copy-message="Hullgarden Pier Waypoint"/>
+        <POI MapID="1595" xpos="607.183" ypos="-41.8351" zpos="-800.934" type="leag.voe.shipwreck.lost.wp" GUID="cio0C9C7L0+IZa2nr46OeA==" copy="[&amp;BMwPAAA=]" copy-message="Hullgarden Pier Waypoint"/>
+        <POI MapID="1595" xpos="-609.545" ypos="76.0603" zpos="373.101" type="leag.voe.shipwreck.lost.wp" GUID="fayp3vGOMUigmK6J0jjVdg==" copy="[&amp;BMwPAAA=]" copy-message="Hullgarden Pier Waypoint"/>
         <POI MapID="1595" xpos="506.816" ypos="0.0472539" zpos="167.217" type="leag.voe.shipwreck.lost.wp" GUID="LV10Jgnwd06AGU1Z52DXLA==" copy="[&amp;BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
         <POI MapID="1595" xpos="172.195" ypos="27.7877" zpos="-799.112" type="leag.voe.shipwreck.lost.wp" GUID="ZZXdY6UzVkaCJ80k8XrU2A==" copy="[&amp;BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
         <POI MapID="1595" xpos="-544.064" ypos="73.3117" zpos="-74.9852" type="leag.voe.shipwreck.lost.wp" GUID="IXiz1SvjskmWbF2QCqVvRQ==" copy="[&amp;BJwPAAA=]" copy-message="Dark Leviathon Waypoint"/>
         <POI MapID="1595" xpos="66.9432" ypos="0.0747415" zpos="681.667" type="leag.voe.shipwreck.lost.wp" GUID="suDY1L46HUu0cgPt/lUnoQ==" copy="[&amp;BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
-        <POI MapID="1595" xpos="352.81" ypos="29.6437" zpos="-771.599" type="leag.voe.shipwreck.lost.wp" GUID="TBdMBiPMek2sgQ3u/V6/4A==" copy="[&amp;BAAAAAA=]" copy-message="Hullgarden Pier Waypoint"/>
+        <POI MapID="1595" xpos="352.81" ypos="29.6437" zpos="-771.599" type="leag.voe.shipwreck.lost.wp" GUID="TBdMBiPMek2sgQ3u/V6/4A==" copy="[&amp;BMwPAAA=]" copy-message="Hullgarden Pier Waypoint"/>
         <POI MapID="1595" xpos="393.978" ypos="1.95692" zpos="61.2633" type="leag.voe.shipwreck.lost.mount.springer" GUID="Kyl7YBg570Gcg7i+JWcktA=="/>
         <POI MapID="1595" xpos="307.644" ypos="23.1559" zpos="207.067" type="leag.voe.shipwreck.lost.mikki" GUID="Ks+pdBATikyBMk9Jnqsynw=="/>
         <POI MapID="1595" xpos="-576.432" ypos="43.2236" zpos="359.223" type="leag.voe.shipwreck.lost.mount.skyscale" GUID="O9nB5Mqos0mLnaOpMG7LZg=="/>
@@ -180,8 +180,8 @@
         <Trail type="leag.voe.shipwreck.memory.numbers.4" trailData="Data/VoE/In Loving Memory 8.trl" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
         <POI MapID="1595" xpos="-610.602" ypos="75.9345" zpos="375.643" type="leag.voe.shipwreck.memory.wp" GUID="x6+GEfWm6kihtxvznySiZA==" copy="[&amp;BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
         <POI MapID="1595" xpos="352.707" ypos="29.6508" zpos="-771.857" type="leag.voe.shipwreck.memory.wp" GUID="C1Fr8rwB6U+NAFK7EXhxBA==" copy="[&amp;BJEPAAA=]" copy-message="Pub Canach Waypoint"/>
-        <POI MapID="1595" xpos="363.196" ypos="-42.4124" zpos="-464.323" type="leag.voe.shipwreck.memory.wp" GUID="ACMXifXPr0S+UiDe2ls1yA==" copy="[&amp;BAAAAAA=]" copy-message="Hullgarden Pier Waypoint"/>
-        <POI MapID="1595" xpos="581.8017" ypos="-78.87104" zpos="53.87134" type="leag.voe.shipwreck.memory.wp" GUID="TAejdIpetEmccp+hQQYO4A==" copy="[&amp;BAAAAAA=]" copy-message="Hullgarden Pier Waypoint"/>
+        <POI MapID="1595" xpos="363.196" ypos="-42.4124" zpos="-464.323" type="leag.voe.shipwreck.memory.wp" GUID="ACMXifXPr0S+UiDe2ls1yA==" copy="[&amp;BMwPAAA=]" copy-message="Hullgarden Pier Waypoint"/>
+        <POI MapID="1595" xpos="581.8017" ypos="-78.87104" zpos="53.87134" type="leag.voe.shipwreck.memory.wp" GUID="TAejdIpetEmccp+hQQYO4A==" copy="[&amp;BMwPAAA=]" copy-message="Hullgarden Pier Waypoint"/>
         <POI MapID="1595" xpos="-461.219" ypos="60.933" zpos="-78.1979" type="leag.voe.shipwreck.memory.mount.skyscale" GUID="dh6JA3vjJkSqERVY4Bs3LA=="/>
         <POI MapID="1595" xpos="-372.331" ypos="30.6547" zpos="462.802" type="leag.voe.shipwreck.memory.mount.skyscale" GUID="GcdV3DE1+kuq1eVasYTwJw=="/>
         <POI MapID="1595" xpos="-586.54" ypos="53.3763" zpos="419.768" type="leag.voe.shipwreck.memory.mount.skyscale" GUID="1x7jFvhBCkalbdQMRp22XQ=="/>
@@ -708,6 +708,94 @@
         <POI MapID="1622" xpos="-161.9531" ypos="137.7968" zpos="727.6139" type="leag.voe.eternity.allies.emote" GUID="RfhYJJS2m0yE9iXMHWRiEg=="/>
         <POI MapID="1622" xpos="-165.3948" ypos="137.6961" zpos="737.4898" type="leag.voe.eternity.allies.kela" GUID="ntMSyWBUzEukKM31I4eIhQ=="/>
         <POI MapID="1622" xpos="-158.6012" ypos="137.7092" zpos="706.1676" type="leag.voe.eternity.allies.gwyllian" GUID="7a1Cmr89i02KPAwJDLpAeA=="/>
+
+        <!-- Leyspring Hollows -->
+        <Trail type="leag.voe.leyspring.ad" trailData="Data/VoE/Adventure - Aetherlocation Detective.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+
+        <Trail type="leag.voe.leyspring.cavern" trailData="Data/VoE/Jumping Puzzle - Coleopteran Cavern 1.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Dotted Trail.png" animSpeed="0.3"/>
+        <Trail type="leag.voe.leyspring.cavern" trailData="Data/VoE/Jumping Puzzle - Coleopteran Cavern 2.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Dotted Trail.png" animSpeed="0.3"/>
+        <Trail type="leag.voe.leyspring.cavern" trailData="Data/VoE/Jumping Puzzle - Coleopteran Cavern 3.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Dotted Trail.png" animSpeed="0.3"/>
+        <POI MapID="1633" xpos="-361.137" ypos="115.931" zpos="238.119" type="leag.voe.leyspring.cavern.sign" GUID="H6uPPFtsVUOoCuglhHt7XA=="/>
+        <POI MapID="1633" xpos="-318.2344" ypos="119.9778" zpos="304.026" type="leag.voe.leyspring.cavern.1" GUID="tTaZQ83WJUWuAIIXYM5Z6A=="/>
+        <POI MapID="1633" xpos="-317.2544" ypos="120.3878" zpos="305.9408" type="leag.voe.leyspring.cavern.2" GUID="ceW1AtO0ykyUrBsv8fulsg=="/>
+
+        <Trail type="leag.voe.leyspring.bessie" trailData="Data/VoE/The Tale of Bessie 1.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <Trail type="leag.voe.leyspring.bessie" trailData="Data/VoE/The Tale of Bessie 2.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines - Fine with Shadow.png"/>
+        <POI MapID="1633" xpos="-613.5191" ypos="100.1137" zpos="143.9469" type="leag.voe.leyspring.bessie.icon" GUID="LuPYEY3VMUezlXGLGLCVCA=="/>
+        <POI MapID="30" xpos="515.9057" ypos="31.02841" zpos="-362.4684" type="leag.voe.leyspring.bessie.wp" GUID="M5pHI9PYSUmb2ZTazMB2Gw==" copy="[&amp;BJoDAAA=]" copy-message="Dawnright Estate Waypoint, Diessa Plateau"/>
+        <POI MapID="32" xpos="204.239" ypos="38.5076" zpos="-172.813" type="leag.voe.leyspring.bessie.tale" GUID="KYHByhlC1kikpqqCvUKQzw=="/>
+        <POI MapID="30" xpos="519.189" ypos="30.982" zpos="-363.372" type="leag.voe.leyspring.bessie.tale" GUID="8QhMGMuFe0eNyDSzV0+mCQ=="/>
+
+        <POI MapID="1633" xpos="-549.5097" ypos="117.2551" zpos="243.2129" type="leag.voe.leyspring.audience" GUID="ADefqW0J9EqXYAqdVbG1Yw==" info="Pet Captivated Chak - Only during Steward Divo's Play" infoRange="5"/>
+
+        <POI MapID="1633" xpos="-564.281" ypos="131.05" zpos="413.148" type="leag.voe.story.final.office" GUID="c/7q+otMbEeh1tONpOCeZQ=="/>
+
+        <POI MapID="1622" xpos="-352.955" ypos="54.8716" zpos="461.376" type="leag.voe.leyspring.depths.tablet" GUID="QGqGqXgbfUaysDfnzVFDFg=="/>
+        <POI MapID="1622" xpos="6.74431" ypos="31.7513" zpos="155.065" type="leag.voe.leyspring.depths.tablet" GUID="ln71+BDuY06zJeejiOfl9w=="/>
+        <POI MapID="1648" xpos="117.041" ypos="228.035" zpos="844.684" type="leag.voe.leyspring.depths.tablet" GUID="/ipP2VliQUqjPPcvpvHeqA=="/>
+        <POI MapID="1640" xpos="740.1" ypos="301.029" zpos="-614.47" type="leag.voe.leyspring.depths.tablet" GUID="0TK0JN/+60OppRJON/sj3g=="/>
+        
+        <POI MapID="1633" xpos="604.226" ypos="163.646" zpos="-100.634" type="leag.voe.leyspring.depths.studies" GUID="rFFTHE42G0WZVauVl3DkEQ=="/>
+        <POI MapID="1633" xpos="647.174" ypos="156.794" zpos="226.751" type="leag.voe.leyspring.depths.studies" GUID="1wAqKsCQ6kOnbelx59ugag=="/>
+        <POI MapID="1633" xpos="64.6012" ypos="64.0187" zpos="-107.557" type="leag.voe.leyspring.depths.studies" GUID="8q4tOWP+d0OoVNzpGMiTxg=="/>
+
+        <Trail type="leag.voe.leyspring.icache" trailData="Data/VoE/Jumping Puzzle - Inquest Cache.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Trail Pointer - Small.png"/>
+        <POI MapID="1633" xpos="368.966" ypos="103.358" zpos="-96.015" type="leag.voe.leyspring.icache.sign" GUID="LyJ57m4j2kSprLomzn+U1g=="/>
+        <POI MapID="1633" xpos="377.6553" ypos="131.7109" zpos="-57.1726" type="leag.voe.leyspring.icache.glider" GUID="CIlF23n+40ae4B1GhLnk/g=="/>
+        <POI MapID="1633" xpos="354.2749" ypos="130.6633" zpos="-66.10278" type="leag.voe.leyspring.icache.glider" GUID="Ni05x/NICkmggToNfFeuSQ=="/>
+        <POI MapID="1633" xpos="289.0742" ypos="130.2208" zpos="-96.66424" type="leag.voe.leyspring.icache.glider" GUID="sXSAU7RS10qme17TiUEn7w=="/>
+        <POI MapID="1633" xpos="308.8645" ypos="121.7407" zpos="-63.92724" type="leag.voe.leyspring.icache.glider" GUID="C8LtA5ej+0y5x3nGRTdkTQ=="/>
+        <POI MapID="1633" xpos="297.9465" ypos="130.742" zpos="-106.53" type="leag.voe.leyspring.icache.glider" GUID="JtJ1+QLznkukF5ekwyZOMQ=="/>
+        <POI MapID="1633" xpos="292.1571" ypos="143.8607" zpos="-117.8239" type="leag.voe.leyspring.icache.glider" GUID="qRbkbSPQzkKC9j6OSE+CCQ=="/>
+        <POI MapID="1633" xpos="314.0506" ypos="140.1285" zpos="-139.6188" type="leag.voe.leyspring.icache.glider" GUID="cEPjfKXeUUSDSn029Rpw1A=="/>
+        <POI MapID="1633" xpos="325.2422" ypos="136.2358" zpos="-152.0284" type="leag.voe.leyspring.icache.glider" GUID="RXpmW61slkSnHvoplnWQ7w=="/>
+        <POI MapID="1633" xpos="360.3723" ypos="130.592" zpos="-163.0516" type="leag.voe.leyspring.icache.glider" GUID="trzfC5qedUqeRuoiF/kzPQ=="/>
+        <POI MapID="1633" xpos="394.4248" ypos="138.2105" zpos="-152.3966" type="leag.voe.leyspring.icache.glider" GUID="aCuNf+ErL0esFy4KTVHvUQ=="/>
+        <POI MapID="1633" xpos="382.938" ypos="136.9083" zpos="-159.7202" type="leag.voe.leyspring.icache.glider" GUID="bPl8uXgRnkalDWSGySanEw=="/>
+        <POI MapID="1633" xpos="366.8843" ypos="141.6897" zpos="-163.3029" type="leag.voe.leyspring.icache.glider" GUID="s76EXKN8OECiwkf9pRmUdQ=="/>
+        <POI MapID="1633" xpos="384.4475" ypos="155.2167" zpos="-141.8859" type="leag.voe.leyspring.icache.glider" GUID="gofjwgcJlEOHWyQ7FFa2TA=="/>
+        <POI MapID="1633" xpos="380.4382" ypos="151.21" zpos="-119.6807" type="leag.voe.leyspring.icache.glider" GUID="Q1DrCcerK027dIJjZQNF1g=="/>
+
+        <Trail type="leag.voe.leyspring.security" trailData="Data/VoE/Above and Beyond Security.trl" miniMapVisibility="0" mapDisplaySize="8" texture="Data/Images/Trails/Dashed Lines Dark - Fine with Shadow.png"/>
+        <POI MapID="1633" xpos="314.5215" ypos="181.9739" zpos="-143.4608" type="leag.voe.leyspring.security.icon" GUID="HNRTBMCFX0u2IHZZ+8ni7Q=="/>
+
+        <POI MapID="1633" xpos="722.0209" ypos="139.3193" zpos="117.6855" type="leag.voe.leyspring.helmsmen.insetto" GUID="y2+3b9gog0+ewK+9DffbcA=="/>
+        <POI MapID="1633" xpos="-294.7802" ypos="78.04507" zpos="-102.8804" type="leag.voe.leyspring.helmsmen.cimice" GUID="RZXI7FPH10SXydae5gQw0Q=="/>
+        <POI MapID="1633" xpos="619.3474" ypos="114.9913" zpos="-264.3483" type="leag.voe.leyspring.helmsmen.mosca" GUID="FnLoUiiXCk+0j1bnLoONbA=="/>
+        <POI MapID="1633" xpos="-548.4702" ypos="92.87421" zpos="167.5285" type="leag.voe.leyspring.helmsmen.zanzara" GUID="MNJU6/Wz00mfPJZTs0O0dA=="/>
+        <POI MapID="1633" xpos="-583.7164" ypos="86.5039" zpos="-486.7246" type="leag.voe.leyspring.helmsmen.vespa" GUID="X04x5zU1PE61/EWI9TO5Mw=="/>
+
+        <POI MapID="1633" xpos="-478.0799" ypos="99.38942" zpos="130.3587" type="leag.voe.leyspring.tampering" GUID="XnVl4SJb9ES41cM9Ix9vyQ=="/>
+
+        <!-- Collections -->
+        <POI MapID="1633" xpos="-643.3243" ypos="78.78707" zpos="-483.2852" type="leag.voe.leyspring.tase.blaff" GUID="lEuEKqDJeUuMrO2G97daZQ=="/>
+        <POI MapID="1633" xpos="-478.0022" ypos="99.38518" zpos="130.1705" type="leag.voe.leyspring.tase.icon" GUID="5WSklPcnDUKdiWE8y/F2Kw=="/>
+        <POI MapID="1633" xpos="-487.931" ypos="77.8206" zpos="-363.226" type="leag.voe.leyspring.tase.icon" GUID="KzSDAJg2B0eITDCe1sSpYA=="/>
+        <POI MapID="1633" xpos="-549.004" ypos="68.4858" zpos="-195.674" type="leag.voe.leyspring.tase.icon" GUID="6PwgWM5Ko0SEKwRFCiokow=="/>
+        <POI MapID="1633" xpos="-573.596" ypos="65.2629" zpos="-197.085" type="leag.voe.leyspring.tase.icon" GUID="HpEWerXWtk6iTjyyIQ/rhg=="/>
+        <POI MapID="1633" xpos="-606.808" ypos="65.2629" zpos="-197.14" type="leag.voe.leyspring.tase.icon" GUID="JIrdEz11vEi7FglxT0MoDw=="/>
+        <POI MapID="1633" xpos="381.307" ypos="113.593" zpos="132.423" type="leag.voe.leyspring.tase.blaff" GUID="nfuE8xws5Uy3wGYFerEreA=="/>
+        <POI MapID="1633" xpos="-665.6795" ypos="113.0072" zpos="298.4765" type="leag.voe.leyspring.tase.blaff" GUID="XXa/U9u93kCf1nAoAIJsgA=="/>
+        <POI MapID="1633" xpos="-559.033" ypos="115.727" zpos="231.388" type="leag.voe.leyspring.tase.icon" GUID="MoFCSolZFkejWKV2eQjp5Q=="/>
+        <POI MapID="1633" xpos="-629.562" ypos="114.555" zpos="371.112" type="leag.voe.leyspring.tase.icon" GUID="bJlOg0wLoEK1Xq9LRvpxHA=="/>
+        <POI MapID="1633" xpos="-471.991" ypos="117.2" zpos="349.503" type="leag.voe.leyspring.tase.icon" GUID="1Vomf8ecBECx4dMB9lx0zw=="/>
+        <POI MapID="1633" xpos="-731.834" ypos="110.9" zpos="300.693" type="leag.voe.leyspring.tase.icon" GUID="uUWxs5V3m0CHl8Tmyk+eHA=="/>
+        <POI MapID="1633" xpos="-348.7574" ypos="111.555" zpos="35.50989" type="leag.voe.leyspring.tase.blaff" GUID="ZHS8T5qjHUmq+/l/m5na1g=="/>
+        <POI MapID="1633" xpos="-356.015" ypos="114.165" zpos="143.521" type="leag.voe.leyspring.tase.icon" GUID="QPg2We7tNUmeX1Yg7/eHQA=="/>
+        <POI MapID="1633" xpos="-436.295" ypos="101.89" zpos="167.126" type="leag.voe.leyspring.tase.icon" GUID="MqzIaoLWMkS2q85IClYGyA=="/>
+        <POI MapID="1633" xpos="-376.35" ypos="101.687" zpos="31.2034" type="leag.voe.leyspring.tase.icon" GUID="j6paRiQfy0SEI42Np5ZTyA=="/>
+        <POI MapID="1633" xpos="-582.6" ypos="134.575" zpos="469.583" type="leag.voe.leyspring.tase.icon" GUID="JbqAMyKl80CTbmuw2M1ZIA=="/>
+
+        <POI MapID="1633" xpos="213.4278" ypos="68.20569" zpos="-408.5359" type="leag.voe.leyspring.fetch.ptm" GUID="VJ3Q+EtEqUqD+Yw2RImVKg=="/>
+        <POI MapID="1593" xpos="-498.342" ypos="19.4354" zpos="409.812" type="leag.voe.leyspring.fetch.icon" GUID="HAfBtXGwT06eLNgA8mjy9w=="/>
+        <POI MapID="1622" xpos="198.378" ypos="5.86285" zpos="155.636" type="leag.voe.leyspring.fetch.icon" GUID="da8SUnJSTUmvzsIXy+V/CQ=="/>
+        <POI MapID="1622" xpos="560.984" ypos="-192.637" zpos="186.361" type="leag.voe.leyspring.fetch.icon" GUID="ZHH2UIDOFESSKxLAfMvVBw=="/>
+        <POI MapID="1633" xpos="-629.44" ypos="138.124" zpos="464.051" type="leag.voe.leyspring.fetch.icon" GUID="a5qy1wUCEke9V/m4/EUpXA=="/>
+        <POI MapID="1633" xpos="-497.531" ypos="4.82839" zpos="-569.317" type="leag.voe.leyspring.fetch.icon" GUID="kas0E52xqkGRXl5iAUY8vA=="/>
+        <POI MapID="1633" xpos="-265.204" ypos="84.3194" zpos="-342.398" type="leag.voe.leyspring.fetch.icon" GUID="zbla0NFMPkySFMbFxmzCBg=="/>
+        <POI MapID="1633" xpos="-372.767" ypos="117.204" zpos="427.639" type="leag.voe.leyspring.fetch.icon" GUID="sVgj9moFIUqsx7uEcUk2aw=="/>
+        <POI MapID="1633" xpos="-563.366" ypos="112.803" zpos="318.637" type="leag.voe.leyspring.fetch.icon" GUID="2pzpSeouTUeEY16M1Ggv5g=="/>
+        <POI MapID="1633" xpos="317.077" ypos="97.8469" zpos="-90.1307" type="leag.voe.leyspring.fetch.icon" GUID="V9Y4OI+LxkO3cYcvfiMpcg=="/>
 
     </POIs>
 </OverlayData>
