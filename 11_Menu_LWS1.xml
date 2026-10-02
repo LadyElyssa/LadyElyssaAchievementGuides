@@ -121,7 +121,7 @@
                 </MarkerCategory>
 
                 <!-- Memories in Your Hand -->
-                <MarkerCategory name="memories" DisplayName="Memories in Your Hand (Story &amp; Public Instance)" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="">
+                <MarkerCategory name="memories" DisplayName="Memories in Your Hand (Story &amp; Public Instance)" texture="Data/Images/Trails/Trail Pointer - Small.png" achievementId="1396">
                     <MarkerCategory name="heirloom" DisplayName="Heirloom" iconFile="Data/Images/Icons/Heirloom.png" inGameVisibility="0" MapDisplaySize="24" behavior="3"/>
                 </MarkerCategory>
 
